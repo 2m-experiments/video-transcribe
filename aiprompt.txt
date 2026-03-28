@@ -1,0 +1,30 @@
+
+# Introduction
+Download video, transcribe them in order to chat with the content later. The transscriptions for a group should be grouped in folders if they belong to different groups.
+
+# Objective
+1) Create a script (Powershell, Python or similar) than can download videos from youtube and vimeo and transcribe them into full texts
+2) Download the videos below using yt-dl to videos folder. Add a gitignore to ignore the videos folder
+3) Use OpenAI to transcribe the videos into the best possible Danish quality (I assume whisper API - via cloud and not local). 
+
+# Videos - Group1
+- https://www.youtube.com/watch?v=qQjC1SDvDzg - Fuldt Booket Men Ingen Penge: Her Er Hvorfor!
+- https://www.youtube.com/watch?v=TAB7YcIUzUk - 6 Trin Til En Klinik Du Kan Leve Af
+- https://www.youtube.com/watch?v=zeSmnxIZ4K0 - 2 Fysioterapeuter Gik Fra Deltid til 6 Millioner (De Ændrede 3 Ting)
+- https://www.youtube.com/watch?v=HeKzYxfCm6Q - Gratis Bookinger De Fleste Behandlere Overser (16 metoder)
+- https://www.youtube.com/watch?v=Llcy3B2J1zg - 3 Tegn På At Dine Behandlinger Er For Billige
+- https://www.youtube.com/watch?v=8eiZrKSqHa0 - Det Perfekte Første Besøg (2026 METODEN)
+- https://www.youtube.com/watch?v=xZIubFBq98o - Mikkels klinik gik fra 50K til 120k/måneden uden at behandle mere (lær hvordan)
+- https://www.youtube.com/watch?v=81qN_HdoOxo - Øge Timeprisen Uden Mere Arbejde
+- https://www.youtube.com/watch?v=qjJhDvjQdfQ - Fundamentet i en velfungerende klinik
+
+# Videos - Group2
+- https://player.vimeo.com/video/1097517089 - 100 bookinger workshop on Vimeo: 
+- https://player.vimeo.com/video/1114869545 - WORKSHOP - Sep 1 2025 (TRIM) on Vimeo
+
+# tools
+yt-dl.exe - in the project folder
+ffmpeg.exe - installed via winget and in the path
+
+# API Keys
+OPENAI_API_KEY=<set in .env file>
