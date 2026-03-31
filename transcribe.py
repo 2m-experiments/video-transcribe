@@ -43,6 +43,7 @@ VIDEO_GROUPS = {
         {"url": "https://www.youtube.com/watch?v=xZIubFBq98o", "title": "Mikkels klinik gik fra 50K til 120k"},
         {"url": "https://www.youtube.com/watch?v=81qN_HdoOxo", "title": "Oege Timeprisen Uden Mere Arbejde"},
         {"url": "https://www.youtube.com/watch?v=qjJhDvjQdfQ", "title": "Fundamentet i en velfungerende klinik"},
+        {"url": "https://www.youtube.com/watch?v=spitLSYlMjc", "title": "Laer at saelge behandlingsforloeb baseret paa forskning"},
     ],
     "group2": [
         {"url": "https://player.vimeo.com/video/1097517089", "title": "100 bookinger workshop"},
