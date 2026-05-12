@@ -50,6 +50,8 @@ VIDEO_GROUPS = {
         {"url": "https://www.youtube.com/watch?v=qjJhDvjQdfQ", "title": "Fundamentet i en velfungerende klinik"},
         {"url": "https://www.youtube.com/watch?v=spitLSYlMjc", "title": "Laer at saelge behandlingsforloeb baseret paa forskning"},
         {"url": "https://www.youtube.com/watch?v=6OW5meZW4VY", "title": "Hvorfor din markedsfoering ikke virker og saadan fikser du det"},
+        {"url": "https://www.youtube.com/watch?v=pBiavdChcKw", "title": "Saadan strukturerer 95 procent af behandlere deres kalender forkert"},
+        {"url": "https://www.youtube.com/watch?v=QzRhsRV4l1E", "title": "Hold klinikken fuldt booket foer og efter ferien"},
     ],
     "group2": [
         {"url": "https://player.vimeo.com/video/1097517089", "title": "100 bookinger workshop"},
@@ -155,6 +157,7 @@ def sanitize_filename(title: str) -> str:
     name = re.sub(r'\s+', '_', name)
     name = re.sub(r'[^\w\-.]', '_', name)
     name = re.sub(r'_+', '_', name).strip('_')
+    name = name.strip('.')
     return name
 
 
