@@ -60,8 +60,8 @@ VIDEO_GROUPS = {
 
 # ── yt-dlp Helpers ──────────────────────────────────────────────────────────
 
-def _yt_dlp_base_opts(cookies: str | None = None) -> dict:
-    """Return shared yt-dlp options (SSL, anti-blocking, cookies)."""
+def _yt_dlp_base_opts(cookies: str | None = None, proxy: str | None = None) -> dict:
+    """Return shared yt-dlp options (SSL, anti-blocking, cookies, proxy)."""
     opts: dict = {
         "nocheckcertificate": True,
         "no_warnings": True,
@@ -69,12 +69,14 @@ def _yt_dlp_base_opts(cookies: str | None = None) -> dict:
     }
     if cookies:
         opts["cookiefile"] = cookies
+    if proxy:
+        opts["proxy"] = proxy
     return opts
 
 
 # ── Channel Scraping ─────────────────────────────────────────────────────────
 
-def scrape_channel_videos(channel_url: str, cookies: str | None = None) -> list[dict]:
+def scrape_channel_videos(channel_url: str, cookies: str | None = None, proxy: str | None = None) -> list[dict]:
     """Extract all video URLs and titles from a YouTube channel.
 
     Uses yt-dlp's extract_flat mode to fetch only the listing metadata
@@ -86,7 +88,7 @@ def scrape_channel_videos(channel_url: str, cookies: str | None = None) -> list[
         channel_url = channel_url.rstrip("/") + "/videos"
 
     ydl_opts = {
-        **_yt_dlp_base_opts(cookies),
+        **_yt_dlp_base_opts(cookies, proxy),
         "extract_flat": "in_playlist",
         "ignoreerrors": True,
         "sleep_interval_requests": 1,
@@ -173,13 +175,13 @@ def ensure_dirs(*dirs: Path):
 
 # ── Download ─────────────────────────────────────────────────────────────────
 
-def download_audio(url: str, output_path: Path, cookies: str | None = None):
+def download_audio(url: str, output_path: Path, cookies: str | None = None, proxy: str | None = None):
     """Download audio from a video URL using yt-dlp Python API."""
     ensure_dirs(output_path.parent)
     # yt-dlp manages the intermediate format and final extension via postprocessor
     outtmpl = str(output_path.with_suffix("")) + ".%(ext)s"
     ydl_opts = {
-        **_yt_dlp_base_opts(cookies),
+        **_yt_dlp_base_opts(cookies, proxy),
         "format": "bestaudio/best",
         "postprocessors": [{
             "key": "FFmpegExtractAudio",
@@ -388,7 +390,7 @@ def save_transcript(base_path: Path, video: dict, group: str, text: str, segment
 
 # ── Orchestration ────────────────────────────────────────────────────────────
 
-def process_video(video: dict, group: str, client: OpenAI, args, language: str = "da", cookies: str | None = None) -> bool:
+def process_video(video: dict, group: str, client: OpenAI, args, language: str = "da", cookies: str | None = None, proxy: str | None = None) -> bool:
     """Process a single video: download + transcribe. Returns True on success."""
     audio_path = get_audio_path(group, video)
     transcript_base = get_transcript_base(group, video)
@@ -404,7 +406,7 @@ def process_video(video: dict, group: str, client: OpenAI, args, language: str =
             print(f"  SKIP download (exists): {video['title']}")
         else:
             print(f"  Downloading: {video['title']}")
-            download_audio(video["url"], audio_path, cookies)
+            download_audio(video["url"], audio_path, cookies, proxy)
 
     if args.download_only:
         return True
@@ -438,6 +440,8 @@ def main():
                         help="Whisper language code (default: da)")
     parser.add_argument("--cookies", type=str, default=None,
                         help="Path to Netscape-format cookies file for YouTube authentication")
+    parser.add_argument("--proxy", type=str, default=None,
+                        help="Proxy URL for yt-dlp (e.g., socks5://user:pass@host:port)")
     args = parser.parse_args()
 
     load_dotenv(SCRIPT_DIR / ".env")
@@ -467,7 +471,7 @@ def main():
             channel_videos = load_channel_cache(channel_group_name)
 
         if channel_videos is None:
-            channel_videos = scrape_channel_videos(args.channel, args.cookies)
+            channel_videos = scrape_channel_videos(args.channel, args.cookies, args.proxy)
             save_channel_cache(channel_group_name, channel_videos)
 
         # Apply limit (0 = no limit)
@@ -507,7 +511,7 @@ def main():
                 print(f"\n[{i}/{len(videos)}] {video['title']}")
 
             try:
-                ok = process_video(video, group_name, client, args, args.language, args.cookies)
+                ok = process_video(video, group_name, client, args, args.language, args.cookies, args.proxy)
                 if ok:
                     results["success"].append(video["title"])
                 else:
