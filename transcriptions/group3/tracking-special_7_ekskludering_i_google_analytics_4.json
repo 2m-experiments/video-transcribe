@@ -1,0 +1,611 @@
+{
+  "title": "Tracking-special #7: Ekskludering i Google Analytics 4",
+  "url": "https://www.youtube.com/watch?v=7XLOs9pZgAk",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 442.5,
+  "transcribed_at": "2026-04-17T12:19:52.934648+00:00",
+  "full_text": "Christian. God aften. I den her sidste episode af vores syv små videoer om tracking, der skal vi snakke om noget, som næsten alle bør og næsten ingen gør. Hvad er vi ude i her af en lille bitte ændring, der kan betyde meget i forhold til, hvordan man tilskriver ens omsætning i Google Analytics 4? Det handler meget simpelt om at eksplodere betalingsgateways og IP-adresser. Den ene er ekstremt relevant for e-commerces derude, der er de begge to ekstremt relevante. Hvorimod, hvis man er mere B2B minded, hvor det handler om at blive kontaktet, så er IP'en nok den mest relevante. Hvis vi så tager det fra en ende af, så betalingsgateways. Mange har måske set det inde i deres Google Analytics, især dengang det hed UA, Universal Analytics, der var det her en fejl. Men der er stadigvæk lidt om det her i GA4. Paypal for eksempel som betalingsløsning, eller nogle af de andre større betalingsløsninger, hvor du i checkout-flowet ender med at skulle ind på deres hjemmeside for at gennemføre købet, og dernæst bliver sendt tilbage til orderbekræftelse siden på webshoppen. Der kan Googlen lidt sige, at det der kanon trafikkild, du har fundet der i Paypal, de får 90% af alle konverteringer, fordi det må være dem, der har skabt dem. Og det er jo ikke helt rigtigt. Så har vi i Paypal. Og det bliver bare lige kort omkring betalingsgateways. Problemet er jo også, at man kan ikke ændre i det her bagudrettet. Så fra man ændrer i det her fra nu af, så gælder det altså kun fremadrettet. Og det er en af årsagen til, at man lige skal gå ind og tjekke det her. Og den har drillet mig nogle gange den her, hvor man tror man har gjort det, så har man måske ikke lige gjort det rigtigt eller et eller andet stil. Og så har du bare et halvt års mere dage, hvor du har svært ved at se, hvor det i virkeligheden kom fra. Så det her er en af de der bittesmå ting, hvor det tager så kort tid at tjekke det, og det er så træls ikke lige at have gjort det. Så selvom du tror du har styr på det, gå lige ind og tjek i dine referrals i Google Analytics 4. Det der står til at sende dig omsætningen. Står der noget Paypal, QuickPay, ePay, MobilePay, alle mulige andre betalingsgateways, inden at eksludere dem. Fordi bagudrettet kan du ikke ændre på det. ePay adresse som næste, som du siger. Man kan næsten forestille sig, at når man sidder i en virksomhed, hvor der er flere ansatte, eller man bare selv sidder og skal teste en masse ting af på ens hjemmeside. Det kan være man skal teste om tracking det spiller 100% når man har gennemført et køb, eller om man rent faktisk også får tracket de her kontaktformularhenvendelser, som man gerne vil kunne tracke på. Det kan godt gå hen og smuder billedet lidt til, når man selv ligger og konverterer på sit eget website. Og de her konverteringer vil jo fremgå på Analytics, altså inde i interfacet, fordi det er jo en konvertering. Og det kan godt være, at det ikke er så stort et problem, hvis man er en mindre virksomhed, hvor man kun sidder sig selv. Men når man kommer op i en vis størrelse, hvor der er rigtig mange medarbejdere og kollegaer, der sidder inde på hjemmesiden og tester alle mulige forskellige ting af, så får man simpelthen så skævfredeligt billedet af, hvordan tingene egentlig ser ud. Og det er her, hvor det kan være enormt smart at gå ind og simpelthen bare fjerne al ePay fra arbejdspladsen. Ganske enkelt. For ikke at få talt dem med, hverken som sessions, eller som konverteringer, eller noget helt tredje. Og det er faktisk okay svært at finde ind til det, så nu vil jeg lige prøve at vise, hvordan det ser med på YouTube eller Spotify med video. Fordi nu er vi inde i Obsidian's Google Analytics 4. Man kan se, at jeg er gået ind i Indstillinger nede i hjørnet. Så skal man vælge Indsamling og Redigering af Data. Vælg Datastrømmen. Så går man op i ens datastrøm, som det jo hedder på dansk, datastream, ens datastrøm. Så klikker man på den. Så skal man skrue længere ned og sige konfigurér tag-indstillinger. Så skal man lige vente. Så skal man skrue længere ned og sige vis flere. Og så skal man vælge her og definere internt trafik. Og så kan man sige opret og indsats ens egen ePay-adresse. Når man så har gjort det, så skal man ind rent faktisk og vælge den i ens visning efterfølgende, så man slår det til. Så det vil sige, det at man indsatser det her, er faktisk ikke nok. Der har du bare defineret den. Du skal vælge, at den ikke skal vises på din ejendom bagefter. Og det er der mange, der lige laver en lille fejl i det her. Så den der indstilling med, hvordan du rent faktisk kommer frem til at eksludere din egne internt trafik, den ligger gennem bag sådan seks lag af indstillinger og vis mere og læs mere og datastrøm og alle mulige ting, de har sgu gjort, det var okay svært at finde den i Google Analytics 4. Ja, egentlig lidt spøjst, ikke? Lidt mærkeligt, men ja. Det var meget nemmere at finde i Universal Analytics. Markant. Så lå det bare sådan en af standardindstillingerne. Eksludere egen ePay. Ja, ja. Så indsatsede du den, og så virkede det. Her der skrev du ind, seks indstillinger. Indsatsen. Og så virker det ikke engang der, så skal du faktisk slutte den til bagefter. Så jeg gjorde det en lille smule svært, men det kan lade sig gøre. Der er en udfordring i praksis i det her. Det er, hvis man sidder i en virksomhed, hvor man ikke har en statisk ePay, så er det svært. Hvis man sidder med en dynamisk ePay, så kan det her ikke lade sig gøre. Og så er det lidt bare sådan, det er. Og det kan man ikke gøre noget ved. Du kan ikke ud og lave et eller andet super teknisk med, du tager enhederne på i virksomheden, deres MAC-adresse og eksluderer dem, når de kommer ind på site'et, men det er ikke nemt. Det skal du virkelig ville, så skal du have et stort problem med det. Men hvis man sidder i en virksomhed med en statisk ePay-adresse, og det gør de fleste virksomheder, som er store nok til at have et eget kontor og en dedikeret ePay-adresse fra deres internetudbydere, så er den relativt nem. Det man skal gøre, det er jo selvfølgelig, at man skal ind på, når man sidder på kontoret, myip.dk eller et eller andet site, der lige viser ens ePay, find den, eksludere den. Det er ikke en 100% løsning, fordi hvis medarbejderne sidder på telefon, på dataforbindelse, eller sidder derhjemme, der er alle mulige ting, hvor den måler alligevel. Og jeg synes, at den store udfordring her, det er, at man kender jo sit eget website. Så hvis man sidder og medtager egne folks bruger af websitet, så kan man få en idé om, at folk er bedre til at bruge det, end de i virkeligheden er. Fordi dem, der har bygget det, jo godt kan finde rundt i det. Men det er bare ikke retvisende for en potentiel kunde, der kommer ind på sitet, og ikke aner, hvad det skal gøre, at der er 100 medarbejdere, der selvfølgelig ved lige præcis, hvor kontaktformularen staffsidensiden ligger hen. Så man risikerer at tro, at ens website er bedre, end det i virkeligheden er. Det er ikke en illusion, jeg har. Jeg ved, at siteden er rigtig dårlig, og at det skal vi have lavet om. Jeg kan godt finde rundt på det, men jeg ved godt, at det ikke er et godt website, vi har. Vi er travlt med alle resultaterne for vores kunder, og har ikke tid til website og alt det der. Det er i hvert fald min undskyldning. Men det er derfor, at man skal kigge på det. Man kan misvise en statistik i forhold til, hvor gode folk er til at bruge websitet. Har iStig i sal eksluderede IP-adressen i Google Analytics 4? Jeg tror, vi har eksluderede lige så mange IP-adresser, som I havde på jeres Google Analytics 4-konto. Det fik vi lov til at se lige før. Søren? Ja, igen. I hver gang, Søren. Helt ærligt. Jeg bliver ved med at se så dum ud her. Kom nu. Her havde du faktisk lige chancen for at one-uppe, når jeg deler skærmen og viser, at jeg har eksluderede absolut ingen IP-adresse i vores Google Analytics 4. Det er faktisk rigtigt. Der havde du chancen for at komme ind og vise, at iStig i sal selvfølgelig har styr på deres shit. Der er brandet i Google Ads, at vi har styr på datastrømmene. Vi har eksluderede egen IP, og den fejlede. Det var Sørens ene chance for at få det til at se godt ud. Med det, tusind tak til dig, der har set med til de sidste syv episoder om tracking. Vi håber, at du fik noget ud af det. Det her ligger som en dedikeret playlist på YouTube. Så hvis man vil ind og se videoerne og komme tilbage i de andre tracking-tips om server-site, enhanced conversions og event-match quality osv., så er man meget velkommen til at gøre det. YouTube, søg efter MarketingPod, find playlisten, der hedder 7 dages tracking-kurs, og så har du mulighed for at se alle videoerne herinde. Tusind tak, fordi du lyttede med. Vi ses i næste episode.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": " Christian."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": " God aften."
+    },
+    {
+      "start": 5.0,
+      "end": 12.0,
+      "text": " I den her sidste episode af vores syv små videoer om tracking, der skal vi snakke om noget, som næsten alle bør og næsten ingen gør."
+    },
+    {
+      "start": 12.0,
+      "end": 19.0,
+      "text": " Hvad er vi ude i her af en lille bitte ændring, der kan betyde meget i forhold til, hvordan man tilskriver ens omsætning i Google Analytics 4?"
+    },
+    {
+      "start": 19.0,
+      "end": 25.0,
+      "text": " Det handler meget simpelt om at eksplodere betalingsgateways og IP-adresser."
+    },
+    {
+      "start": 25.0,
+      "end": 35.0,
+      "text": " Den ene er ekstremt relevant for e-commerces derude, der er de begge to ekstremt relevante."
+    },
+    {
+      "start": 35.0,
+      "end": 42.0,
+      "text": " Hvorimod, hvis man er mere B2B minded, hvor det handler om at blive kontaktet, så er IP'en nok den mest relevante."
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": " Hvis vi så tager det fra en ende af, så betalingsgateways."
+    },
+    {
+      "start": 45.0,
+      "end": 52.0,
+      "text": " Mange har måske set det inde i deres Google Analytics, især dengang det hed UA, Universal Analytics, der var det her en fejl."
+    },
+    {
+      "start": 53.0,
+      "end": 56.0,
+      "text": " Men der er stadigvæk lidt om det her i GA4."
+    },
+    {
+      "start": 56.0,
+      "end": 64.0,
+      "text": " Paypal for eksempel som betalingsløsning, eller nogle af de andre større betalingsløsninger, hvor du i checkout-flowet ender med at skulle ind på deres hjemmeside for at gennemføre købet,"
+    },
+    {
+      "start": 64.0,
+      "end": 68.0,
+      "text": " og dernæst bliver sendt tilbage til orderbekræftelse siden på webshoppen."
+    },
+    {
+      "start": 68.0,
+      "end": 77.0,
+      "text": " Der kan Googlen lidt sige, at det der kanon trafikkild, du har fundet der i Paypal, de får 90% af alle konverteringer, fordi det må være dem, der har skabt dem."
+    },
+    {
+      "start": 77.0,
+      "end": 80.0,
+      "text": " Og det er jo ikke helt rigtigt."
+    },
+    {
+      "start": 80.0,
+      "end": 82.0,
+      "text": " Så har vi i Paypal."
+    },
+    {
+      "start": 82.0,
+      "end": 85.0,
+      "text": " Og det bliver bare lige kort omkring betalingsgateways."
+    },
+    {
+      "start": 85.0,
+      "end": 88.0,
+      "text": " Problemet er jo også, at man kan ikke ændre i det her bagudrettet."
+    },
+    {
+      "start": 88.0,
+      "end": 92.0,
+      "text": " Så fra man ændrer i det her fra nu af, så gælder det altså kun fremadrettet."
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": " Og det er en af årsagen til, at man lige skal gå ind og tjekke det her."
+    },
+    {
+      "start": 94.0,
+      "end": 99.0,
+      "text": " Og den har drillet mig nogle gange den her, hvor man tror man har gjort det, så har man måske ikke lige gjort det rigtigt eller et eller andet stil."
+    },
+    {
+      "start": 99.0,
+      "end": 103.0,
+      "text": " Og så har du bare et halvt års mere dage, hvor du har svært ved at se, hvor det i virkeligheden kom fra."
+    },
+    {
+      "start": 103.0,
+      "end": 109.0,
+      "text": " Så det her er en af de der bittesmå ting, hvor det tager så kort tid at tjekke det, og det er så træls ikke lige at have gjort det."
+    },
+    {
+      "start": 109.0,
+      "end": 115.0,
+      "text": " Så selvom du tror du har styr på det, gå lige ind og tjek i dine referrals i Google Analytics 4."
+    },
+    {
+      "start": 115.0,
+      "end": 117.0,
+      "text": " Det der står til at sende dig omsætningen."
+    },
+    {
+      "start": 117.0,
+      "end": 124.0,
+      "text": " Står der noget Paypal, QuickPay, ePay, MobilePay, alle mulige andre betalingsgateways, inden at eksludere dem."
+    },
+    {
+      "start": 124.0,
+      "end": 127.0,
+      "text": " Fordi bagudrettet kan du ikke ændre på det."
+    },
+    {
+      "start": 127.0,
+      "end": 130.0,
+      "text": " ePay adresse som næste, som du siger."
+    },
+    {
+      "start": 130.0,
+      "end": 134.0,
+      "text": " Man kan næsten forestille sig, at når man sidder i en virksomhed, hvor der er flere ansatte,"
+    },
+    {
+      "start": 134.0,
+      "end": 138.0,
+      "text": " eller man bare selv sidder og skal teste en masse ting af på ens hjemmeside."
+    },
+    {
+      "start": 138.0,
+      "end": 141.0,
+      "text": " Det kan være man skal teste om tracking det spiller 100% når man har gennemført et køb,"
+    },
+    {
+      "start": 141.0,
+      "end": 146.0,
+      "text": " eller om man rent faktisk også får tracket de her kontaktformularhenvendelser, som man gerne vil kunne tracke på."
+    },
+    {
+      "start": 146.0,
+      "end": 151.0,
+      "text": " Det kan godt gå hen og smuder billedet lidt til, når man selv ligger og konverterer på sit eget website."
+    },
+    {
+      "start": 151.0,
+      "end": 157.0,
+      "text": " Og de her konverteringer vil jo fremgå på Analytics, altså inde i interfacet, fordi det er jo en konvertering."
+    },
+    {
+      "start": 157.0,
+      "end": 160.0,
+      "text": " Og det kan godt være, at det ikke er så stort et problem, hvis man er en mindre virksomhed, hvor man kun sidder sig selv."
+    },
+    {
+      "start": 160.0,
+      "end": 165.0,
+      "text": " Men når man kommer op i en vis størrelse, hvor der er rigtig mange medarbejdere og kollegaer, der sidder inde på hjemmesiden"
+    },
+    {
+      "start": 165.0,
+      "end": 170.0,
+      "text": " og tester alle mulige forskellige ting af, så får man simpelthen så skævfredeligt billedet af, hvordan tingene egentlig ser ud."
+    },
+    {
+      "start": 170.0,
+      "end": 177.0,
+      "text": " Og det er her, hvor det kan være enormt smart at gå ind og simpelthen bare fjerne al ePay fra arbejdspladsen."
+    },
+    {
+      "start": 177.0,
+      "end": 183.0,
+      "text": " Ganske enkelt. For ikke at få talt dem med, hverken som sessions, eller som konverteringer, eller noget helt tredje."
+    },
+    {
+      "start": 183.0,
+      "end": 189.0,
+      "text": " Og det er faktisk okay svært at finde ind til det, så nu vil jeg lige prøve at vise, hvordan det ser med på YouTube eller Spotify med video."
+    },
+    {
+      "start": 189.0,
+      "end": 194.0,
+      "text": " Fordi nu er vi inde i Obsidian's Google Analytics 4."
+    },
+    {
+      "start": 194.0,
+      "end": 197.0,
+      "text": " Man kan se, at jeg er gået ind i Indstillinger nede i hjørnet."
+    },
+    {
+      "start": 197.0,
+      "end": 200.0,
+      "text": " Så skal man vælge Indsamling og Redigering af Data."
+    },
+    {
+      "start": 200.0,
+      "end": 202.0,
+      "text": " Vælg Datastrømmen."
+    },
+    {
+      "start": 202.0,
+      "end": 207.0,
+      "text": " Så går man op i ens datastrøm, som det jo hedder på dansk, datastream, ens datastrøm."
+    },
+    {
+      "start": 207.0,
+      "end": 209.0,
+      "text": " Så klikker man på den."
+    },
+    {
+      "start": 209.0,
+      "end": 213.0,
+      "text": " Så skal man skrue længere ned og sige konfigurér tag-indstillinger."
+    },
+    {
+      "start": 213.0,
+      "end": 219.0,
+      "text": " Så skal man lige vente. Så skal man skrue længere ned og sige vis flere."
+    },
+    {
+      "start": 219.0,
+      "end": 222.0,
+      "text": " Og så skal man vælge her og definere internt trafik."
+    },
+    {
+      "start": 222.0,
+      "end": 226.0,
+      "text": " Og så kan man sige opret og indsats ens egen ePay-adresse."
+    },
+    {
+      "start": 226.0,
+      "end": 230.0,
+      "text": " Når man så har gjort det, så skal man ind rent faktisk og vælge den i ens visning efterfølgende, så man slår det til."
+    },
+    {
+      "start": 230.0,
+      "end": 232.0,
+      "text": " Så det vil sige, det at man indsatser det her, er faktisk ikke nok."
+    },
+    {
+      "start": 232.0,
+      "end": 236.0,
+      "text": " Der har du bare defineret den. Du skal vælge, at den ikke skal vises på din ejendom bagefter."
+    },
+    {
+      "start": 236.0,
+      "end": 238.0,
+      "text": " Og det er der mange, der lige laver en lille fejl i det her."
+    },
+    {
+      "start": 238.0,
+      "end": 243.0,
+      "text": " Så den der indstilling med, hvordan du rent faktisk kommer frem til at eksludere din egne internt trafik,"
+    },
+    {
+      "start": 243.0,
+      "end": 248.0,
+      "text": " den ligger gennem bag sådan seks lag af indstillinger og vis mere og læs mere og datastrøm og alle mulige ting,"
+    },
+    {
+      "start": 248.0,
+      "end": 252.0,
+      "text": " de har sgu gjort, det var okay svært at finde den i Google Analytics 4."
+    },
+    {
+      "start": 252.0,
+      "end": 254.0,
+      "text": " Ja, egentlig lidt spøjst, ikke?"
+    },
+    {
+      "start": 254.0,
+      "end": 255.0,
+      "text": " Lidt mærkeligt, men ja."
+    },
+    {
+      "start": 255.0,
+      "end": 257.0,
+      "text": " Det var meget nemmere at finde i Universal Analytics."
+    },
+    {
+      "start": 257.0,
+      "end": 258.0,
+      "text": " Markant."
+    },
+    {
+      "start": 258.0,
+      "end": 259.0,
+      "text": " Så lå det bare sådan en af standardindstillingerne."
+    },
+    {
+      "start": 259.0,
+      "end": 260.0,
+      "text": " Eksludere egen ePay. Ja, ja."
+    },
+    {
+      "start": 260.0,
+      "end": 262.0,
+      "text": " Så indsatsede du den, og så virkede det."
+    },
+    {
+      "start": 262.0,
+      "end": 264.0,
+      "text": " Her der skrev du ind, seks indstillinger. Indsatsen."
+    },
+    {
+      "start": 264.0,
+      "end": 266.0,
+      "text": " Og så virker det ikke engang der, så skal du faktisk slutte den til bagefter."
+    },
+    {
+      "start": 266.0,
+      "end": 269.0,
+      "text": " Så jeg gjorde det en lille smule svært, men det kan lade sig gøre."
+    },
+    {
+      "start": 269.0,
+      "end": 272.0,
+      "text": " Der er en udfordring i praksis i det her."
+    },
+    {
+      "start": 272.0,
+      "end": 276.0,
+      "text": " Det er, hvis man sidder i en virksomhed, hvor man ikke har en statisk ePay, så er det svært."
+    },
+    {
+      "start": 276.0,
+      "end": 279.0,
+      "text": " Hvis man sidder med en dynamisk ePay, så kan det her ikke lade sig gøre."
+    },
+    {
+      "start": 279.0,
+      "end": 281.0,
+      "text": " Og så er det lidt bare sådan, det er."
+    },
+    {
+      "start": 281.0,
+      "end": 282.0,
+      "text": " Og det kan man ikke gøre noget ved."
+    },
+    {
+      "start": 282.0,
+      "end": 286.0,
+      "text": " Du kan ikke ud og lave et eller andet super teknisk med, du tager enhederne på i virksomheden,"
+    },
+    {
+      "start": 286.0,
+      "end": 290.0,
+      "text": " deres MAC-adresse og eksluderer dem, når de kommer ind på site'et, men det er ikke nemt."
+    },
+    {
+      "start": 291.0,
+      "end": 293.0,
+      "text": " Det skal du virkelig ville, så skal du have et stort problem med det."
+    },
+    {
+      "start": 293.0,
+      "end": 297.0,
+      "text": " Men hvis man sidder i en virksomhed med en statisk ePay-adresse, og det gør de fleste virksomheder,"
+    },
+    {
+      "start": 297.0,
+      "end": 301.0,
+      "text": " som er store nok til at have et eget kontor og en dedikeret ePay-adresse fra deres internetudbydere,"
+    },
+    {
+      "start": 301.0,
+      "end": 302.0,
+      "text": " så er den relativt nem."
+    },
+    {
+      "start": 302.0,
+      "end": 305.0,
+      "text": " Det man skal gøre, det er jo selvfølgelig, at man skal ind på, når man sidder på kontoret,"
+    },
+    {
+      "start": 305.0,
+      "end": 310.0,
+      "text": " myip.dk eller et eller andet site, der lige viser ens ePay, find den, eksludere den."
+    },
+    {
+      "start": 310.0,
+      "end": 314.0,
+      "text": " Det er ikke en 100% løsning, fordi hvis medarbejderne sidder på telefon, på dataforbindelse,"
+    },
+    {
+      "start": 314.0,
+      "end": 317.0,
+      "text": " eller sidder derhjemme, der er alle mulige ting, hvor den måler alligevel."
+    },
+    {
+      "start": 321.0,
+      "end": 325.0,
+      "text": " Og jeg synes, at den store udfordring her, det er, at man kender jo sit eget website."
+    },
+    {
+      "start": 325.0,
+      "end": 329.0,
+      "text": " Så hvis man sidder og medtager egne folks bruger af websitet, så kan man få en idé om,"
+    },
+    {
+      "start": 329.0,
+      "end": 331.0,
+      "text": " at folk er bedre til at bruge det, end de i virkeligheden er."
+    },
+    {
+      "start": 331.0,
+      "end": 333.0,
+      "text": " Fordi dem, der har bygget det, jo godt kan finde rundt i det."
+    },
+    {
+      "start": 333.0,
+      "end": 336.0,
+      "text": " Men det er bare ikke retvisende for en potentiel kunde, der kommer ind på sitet,"
+    },
+    {
+      "start": 336.0,
+      "end": 339.0,
+      "text": " og ikke aner, hvad det skal gøre, at der er 100 medarbejdere, der selvfølgelig ved lige præcis,"
+    },
+    {
+      "start": 339.0,
+      "end": 341.0,
+      "text": " hvor kontaktformularen staffsidensiden ligger hen."
+    },
+    {
+      "start": 341.0,
+      "end": 346.0,
+      "text": " Så man risikerer at tro, at ens website er bedre, end det i virkeligheden er."
+    },
+    {
+      "start": 346.0,
+      "end": 347.0,
+      "text": " Det er ikke en illusion, jeg har."
+    },
+    {
+      "start": 347.0,
+      "end": 349.0,
+      "text": " Jeg ved, at siteden er rigtig dårlig, og at det skal vi have lavet om."
+    },
+    {
+      "start": 349.0,
+      "end": 353.0,
+      "text": " Jeg kan godt finde rundt på det, men jeg ved godt, at det ikke er et godt website, vi har."
+    },
+    {
+      "start": 353.0,
+      "end": 356.0,
+      "text": " Vi er travlt med alle resultaterne for vores kunder, og har ikke tid til website og alt det der."
+    },
+    {
+      "start": 356.0,
+      "end": 358.0,
+      "text": " Det er i hvert fald min undskyldning."
+    },
+    {
+      "start": 360.0,
+      "end": 362.0,
+      "text": " Men det er derfor, at man skal kigge på det."
+    },
+    {
+      "start": 362.0,
+      "end": 367.0,
+      "text": " Man kan misvise en statistik i forhold til, hvor gode folk er til at bruge websitet."
+    },
+    {
+      "start": 368.0,
+      "end": 373.0,
+      "text": " Har iStig i sal eksluderede IP-adressen i Google Analytics 4?"
+    },
+    {
+      "start": 374.0,
+      "end": 378.0,
+      "text": " Jeg tror, vi har eksluderede lige så mange IP-adresser, som I havde på jeres Google Analytics 4-konto."
+    },
+    {
+      "start": 378.0,
+      "end": 380.0,
+      "text": " Det fik vi lov til at se lige før."
+    },
+    {
+      "start": 382.0,
+      "end": 383.0,
+      "text": " Søren?"
+    },
+    {
+      "start": 384.0,
+      "end": 386.0,
+      "text": " Ja, igen. I hver gang, Søren."
+    },
+    {
+      "start": 386.0,
+      "end": 387.0,
+      "text": " Helt ærligt."
+    },
+    {
+      "start": 387.0,
+      "end": 389.0,
+      "text": " Jeg bliver ved med at se så dum ud her."
+    },
+    {
+      "start": 389.0,
+      "end": 390.0,
+      "text": " Kom nu."
+    },
+    {
+      "start": 392.0,
+      "end": 394.0,
+      "text": " Her havde du faktisk lige chancen for at one-uppe, når jeg deler skærmen og viser,"
+    },
+    {
+      "start": 394.0,
+      "end": 397.0,
+      "text": " at jeg har eksluderede absolut ingen IP-adresse i vores Google Analytics 4."
+    },
+    {
+      "start": 397.0,
+      "end": 398.0,
+      "text": " Det er faktisk rigtigt."
+    },
+    {
+      "start": 398.0,
+      "end": 403.0,
+      "text": " Der havde du chancen for at komme ind og vise, at iStig i sal selvfølgelig har styr på deres shit."
+    },
+    {
+      "start": 403.0,
+      "end": 406.0,
+      "text": " Der er brandet i Google Ads, at vi har styr på datastrømmene."
+    },
+    {
+      "start": 406.0,
+      "end": 408.0,
+      "text": " Vi har eksluderede egen IP, og den fejlede."
+    },
+    {
+      "start": 408.0,
+      "end": 410.0,
+      "text": " Det var Sørens ene chance for at få det til at se godt ud."
+    },
+    {
+      "start": 415.0,
+      "end": 419.0,
+      "text": " Med det, tusind tak til dig, der har set med til de sidste syv episoder om tracking."
+    },
+    {
+      "start": 419.0,
+      "end": 421.0,
+      "text": " Vi håber, at du fik noget ud af det."
+    },
+    {
+      "start": 421.0,
+      "end": 424.0,
+      "text": " Det her ligger som en dedikeret playlist på YouTube."
+    },
+    {
+      "start": 424.0,
+      "end": 428.0,
+      "text": " Så hvis man vil ind og se videoerne og komme tilbage i de andre tracking-tips om server-site,"
+    },
+    {
+      "start": 428.0,
+      "end": 432.0,
+      "text": " enhanced conversions og event-match quality osv., så er man meget velkommen til at gøre det."
+    },
+    {
+      "start": 432.0,
+      "end": 435.0,
+      "text": " YouTube, søg efter MarketingPod, find playlisten, der hedder 7 dages tracking-kurs,"
+    },
+    {
+      "start": 435.0,
+      "end": 438.0,
+      "text": " og så har du mulighed for at se alle videoerne herinde."
+    },
+    {
+      "start": 438.0,
+      "end": 440.0,
+      "text": " Tusind tak, fordi du lyttede med."
+    },
+    {
+      "start": 440.0,
+      "end": 442.0,
+      "text": " Vi ses i næste episode."
+    }
+  ]
+}

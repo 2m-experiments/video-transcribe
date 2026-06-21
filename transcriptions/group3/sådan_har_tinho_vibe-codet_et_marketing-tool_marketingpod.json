@@ -1,0 +1,321 @@
+{
+  "title": "Sådan har Tinho vibe-codet et marketing-tool #marketingpod",
+  "url": "https://www.youtube.com/watch?v=xkDQURu5LAI",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 180.6,
+  "transcribed_at": "2026-04-16T09:41:06.146100+00:00",
+  "full_text": "Og jeg ved, at du har lavet et værktøj i forhold til at identificere landingssider på et hvilket som helst site, som jeg faktisk synes er ret fedt, og som jeg også bruger. Hvad kan det her værktøj, og hvordan har du bygget det? Så skal man forestille sig, at man er inde på, det kan være en konkurrent, eller det kan være nogen, der gør det rigtig godt annonceringsmæssigt. Og her har jeg taget udgangspunkt i Loop Earplugs, fordi de gør det her en masse, altså bygge landingssider. Så en ting er, hvad vi ser, når vi går ind på hjemmesiden, men noget helt andet er, at de landingssider, de rent faktisk sender trafik ind til fra deres betalede annoncering, for det er det, der er lidt sjovere at kigge på, for det giver os et indblik i, hvordan det er, at den her forretning tænker forretning, og tænker deres produkter, tænker deres målgrupper. Og historisk set, når jeg har sku' ind og kigge på, hvad er det for nogle landingssider, de laver, især når det er Shopify-shops, nu er det jo rigtig meget e-commerce, jeg sidder og arbejder med til dagligt, så sku' jeg ind på deres sitemap, og deres sitemap i Shopify ser sådan her ud, og det ser forfærdeligt ud. Det er sådan lidt noget bøvl at ligge og kigge rundt i, fordi man skal ind og finde det sitemap, der er lavet for deres pages, for det er jo typisk, at man laver sine landingssider og så gennemgår alle de her pages. Og jeg gjorde det med glæde, men det var ikke en fed opgave at skulle sidde og gå igennem. Så jeg satte mig ned og tænkte over, hvordan kunne jeg prompte mig til en eller anden vibe-coded løsning her, som gjorde det bare en lille smule nemmere. Og det, jeg har gjort her, det er, at jeg lige har taget et Google Docs-ark, hvor jeg viser eksemplet på det prompt, jeg har brugt inde i Gemini. Så jeg har uploadet et screenshot af det her sitemap, og så har jeg egentlig bare forklaret Gemini at lave et tool, hvor man kan indtaste en URL på en Shopify-webshop, hvorefter toolet automatisk finder sitemappet med pages. Og så giver jeg lidt ekstra forklaring, men vi snakker 3-4 linjer ekstra. Altså, det er virkelig ikke særlig meget. Så lad os prøve at hoppe ind og se, hvordan det egentlig ser ud. Så hvis jeg starter med lige at kopiere URL'en på Loop Earplugs, så skulle det gerne være sådan, så når jeg indtaster Loop Earplugs her og trykker find sider, så gør den to ting. Det første, det er, at den finder alle pages frem, altså alle landing pages. Dernæst har jeg bedt den om at sortere efter, hvilke landing pages, der er blevet ændret i senest. Og hvorfor gør jeg så det? Fordi det typisk er en eller anden indikator for, at det er der, man forventer, eller det, man ligger og tester af lige nu, det er det, man forventer skal kunne fungere. Så det er bare for, at jeg kan finde hovedet og hale i den data, jeg ligger og kigger på. Så hvis jeg trykker find sider nu, så er den faktisk fundet alle deres nuværende landing sider, og hvornår de senest er blevet redigeret i. Man kan godt se her, og det er jo med vilje, at jeg har brugt Loop Earplugs, fordi de laver så mange landing sider, og det er så specifikke landing sider, de laver. De gør det mega godt på landing siderne. Ja, det gør det så godt. Så kan jeg trykke her, og så vil jeg kunne gå ind og se, okay, de har en landing side her, dedikeret til gift ideas for students. Så ja, det er altså rigtig granulat, de går til værktøjer. Så kan jeg så sidde og kigge det her igennem. Igen et tool, som jeg bruger nærmest hver dag, fordi det bare gør det 10 gange nemmere for mig, lige hurtigt at teste en URL ind herinde.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "text": " Og jeg ved, at du har lavet et værktøj i forhold til at identificere landingssider på et hvilket som helst site,"
+    },
+    {
+      "start": 4.84,
+      "end": 9.32,
+      "text": " som jeg faktisk synes er ret fedt, og som jeg også bruger."
+    },
+    {
+      "start": 9.32,
+      "end": 12.44,
+      "text": " Hvad kan det her værktøj, og hvordan har du bygget det?"
+    },
+    {
+      "start": 12.44,
+      "end": 15.44,
+      "text": " Så skal man forestille sig, at man er inde på, det kan være en konkurrent,"
+    },
+    {
+      "start": 15.44,
+      "end": 17.84,
+      "text": " eller det kan være nogen, der gør det rigtig godt annonceringsmæssigt."
+    },
+    {
+      "start": 17.84,
+      "end": 21.52,
+      "text": " Og her har jeg taget udgangspunkt i Loop Earplugs, fordi de gør det her en masse,"
+    },
+    {
+      "start": 21.52,
+      "end": 23.04,
+      "text": " altså bygge landingssider."
+    },
+    {
+      "start": 23.04,
+      "end": 25.12,
+      "text": " Så en ting er, hvad vi ser, når vi går ind på hjemmesiden,"
+    },
+    {
+      "start": 25.12,
+      "end": 28.72,
+      "text": " men noget helt andet er, at de landingssider, de rent faktisk sender trafik ind til"
+    },
+    {
+      "start": 28.76,
+      "end": 32.24,
+      "text": " fra deres betalede annoncering, for det er det, der er lidt sjovere at kigge på,"
+    },
+    {
+      "start": 32.24,
+      "end": 35.84,
+      "text": " for det giver os et indblik i, hvordan det er, at den her forretning tænker forretning,"
+    },
+    {
+      "start": 35.84,
+      "end": 38.32,
+      "text": " og tænker deres produkter, tænker deres målgrupper."
+    },
+    {
+      "start": 38.32,
+      "end": 42.28,
+      "text": " Og historisk set, når jeg har sku' ind og kigge på, hvad er det for nogle landingssider, de laver,"
+    },
+    {
+      "start": 42.28,
+      "end": 44.56,
+      "text": " især når det er Shopify-shops, nu er det jo rigtig meget e-commerce,"
+    },
+    {
+      "start": 44.56,
+      "end": 48.32,
+      "text": " jeg sidder og arbejder med til dagligt, så sku' jeg ind på deres sitemap,"
+    },
+    {
+      "start": 48.32,
+      "end": 51.96,
+      "text": " og deres sitemap i Shopify ser sådan her ud, og det ser forfærdeligt ud."
+    },
+    {
+      "start": 51.96,
+      "end": 55.52,
+      "text": " Det er sådan lidt noget bøvl at ligge og kigge rundt i,"
+    },
+    {
+      "start": 55.52,
+      "end": 59.32,
+      "text": " fordi man skal ind og finde det sitemap, der er lavet for deres pages,"
+    },
+    {
+      "start": 59.32,
+      "end": 63.68,
+      "text": " for det er jo typisk, at man laver sine landingssider og så gennemgår alle de her pages."
+    },
+    {
+      "start": 63.68,
+      "end": 65.4,
+      "text": " Og jeg gjorde det med glæde,"
+    },
+    {
+      "start": 65.4,
+      "end": 68.88,
+      "text": " men det var ikke en fed opgave at skulle sidde og gå igennem."
+    },
+    {
+      "start": 68.88,
+      "end": 73.6,
+      "text": " Så jeg satte mig ned og tænkte over, hvordan kunne jeg prompte mig til en eller anden"
+    },
+    {
+      "start": 73.6,
+      "end": 77.76,
+      "text": " vibe-coded løsning her, som gjorde det bare en lille smule nemmere."
+    },
+    {
+      "start": 77.76,
+      "end": 80.2,
+      "text": " Og det, jeg har gjort her, det er, at jeg lige har taget et Google Docs-ark,"
+    },
+    {
+      "start": 80.2,
+      "end": 84.56,
+      "text": " hvor jeg viser eksemplet på det prompt, jeg har brugt inde i Gemini."
+    },
+    {
+      "start": 84.56,
+      "end": 88.2,
+      "text": " Så jeg har uploadet et screenshot af det her sitemap,"
+    },
+    {
+      "start": 88.2,
+      "end": 90.84,
+      "text": " og så har jeg egentlig bare forklaret Gemini at lave et tool,"
+    },
+    {
+      "start": 90.84,
+      "end": 94.2,
+      "text": " hvor man kan indtaste en URL på en Shopify-webshop,"
+    },
+    {
+      "start": 94.2,
+      "end": 97.4,
+      "text": " hvorefter toolet automatisk finder sitemappet med pages."
+    },
+    {
+      "start": 97.4,
+      "end": 101.12,
+      "text": " Og så giver jeg lidt ekstra forklaring, men vi snakker 3-4 linjer ekstra."
+    },
+    {
+      "start": 101.12,
+      "end": 104.24,
+      "text": " Altså, det er virkelig ikke særlig meget."
+    },
+    {
+      "start": 104.24,
+      "end": 106.36,
+      "text": " Så lad os prøve at hoppe ind og se, hvordan det egentlig ser ud."
+    },
+    {
+      "start": 106.36,
+      "end": 110.84,
+      "text": " Så hvis jeg starter med lige at kopiere URL'en på Loop Earplugs,"
+    },
+    {
+      "start": 110.84,
+      "end": 112.56,
+      "text": " så skulle det gerne være sådan,"
+    },
+    {
+      "start": 112.56,
+      "end": 116.56,
+      "text": " så når jeg indtaster Loop Earplugs her og trykker find sider,"
+    },
+    {
+      "start": 116.56,
+      "end": 117.68,
+      "text": " så gør den to ting."
+    },
+    {
+      "start": 117.68,
+      "end": 121.52,
+      "text": " Det første, det er, at den finder alle pages frem, altså alle landing pages."
+    },
+    {
+      "start": 121.52,
+      "end": 124.6,
+      "text": " Dernæst har jeg bedt den om at sortere efter,"
+    },
+    {
+      "start": 124.6,
+      "end": 127.44,
+      "text": " hvilke landing pages, der er blevet ændret i senest."
+    },
+    {
+      "start": 127.44,
+      "end": 128.64,
+      "text": " Og hvorfor gør jeg så det?"
+    },
+    {
+      "start": 128.64,
+      "end": 131.64,
+      "text": " Fordi det typisk er en eller anden indikator for,"
+    },
+    {
+      "start": 131.64,
+      "end": 134.08,
+      "text": " at det er der, man forventer,"
+    },
+    {
+      "start": 134.08,
+      "end": 136.16,
+      "text": " eller det, man ligger og tester af lige nu,"
+    },
+    {
+      "start": 136.16,
+      "end": 138.32,
+      "text": " det er det, man forventer skal kunne fungere."
+    },
+    {
+      "start": 138.32,
+      "end": 142.4,
+      "text": " Så det er bare for, at jeg kan finde hovedet og hale i den data, jeg ligger og kigger på."
+    },
+    {
+      "start": 142.4,
+      "end": 144.16,
+      "text": " Så hvis jeg trykker find sider nu,"
+    },
+    {
+      "start": 144.16,
+      "end": 148.4,
+      "text": " så er den faktisk fundet alle deres nuværende landing sider,"
+    },
+    {
+      "start": 148.4,
+      "end": 150.8,
+      "text": " og hvornår de senest er blevet redigeret i."
+    },
+    {
+      "start": 150.8,
+      "end": 153.2,
+      "text": " Man kan godt se her, og det er jo med vilje, at jeg har brugt Loop Earplugs,"
+    },
+    {
+      "start": 153.2,
+      "end": 156.12,
+      "text": " fordi de laver så mange landing sider,"
+    },
+    {
+      "start": 156.12,
+      "end": 158.44,
+      "text": " og det er så specifikke landing sider, de laver."
+    },
+    {
+      "start": 158.44,
+      "end": 159.8,
+      "text": " De gør det mega godt på landing siderne."
+    },
+    {
+      "start": 159.8,
+      "end": 161.4,
+      "text": " Ja, det gør det så godt."
+    },
+    {
+      "start": 161.4,
+      "end": 163.04,
+      "text": " Så kan jeg trykke her,"
+    },
+    {
+      "start": 163.04,
+      "end": 164.2,
+      "text": " og så vil jeg kunne gå ind og se,"
+    },
+    {
+      "start": 164.2,
+      "end": 165.92,
+      "text": " okay, de har en landing side her,"
+    },
+    {
+      "start": 165.92,
+      "end": 169.0,
+      "text": " dedikeret til gift ideas for students."
+    },
+    {
+      "start": 169.0,
+      "end": 171.56,
+      "text": " Så ja, det er altså rigtig granulat, de går til værktøjer."
+    },
+    {
+      "start": 171.56,
+      "end": 173.4,
+      "text": " Så kan jeg så sidde og kigge det her igennem."
+    },
+    {
+      "start": 173.4,
+      "end": 176.56,
+      "text": " Igen et tool, som jeg bruger nærmest hver dag,"
+    },
+    {
+      "start": 176.56,
+      "end": 178.56,
+      "text": " fordi det bare gør det 10 gange nemmere for mig,"
+    },
+    {
+      "start": 178.56,
+      "end": 180.56,
+      "text": " lige hurtigt at teste en URL ind herinde."
+    }
+  ]
+}

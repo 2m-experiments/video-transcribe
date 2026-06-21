@@ -1,0 +1,5381 @@
+{
+  "title": "Shorts: Shopify Flow med Aleksander Due-Rasmussen",
+  "url": "https://www.youtube.com/watch?v=knWRdoSpfKs",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 1528.0,
+  "transcribed_at": "2026-04-18T14:54:18.697614+00:00",
+  "full_text": "Christian. God aften. I dag skal vi snakke om et emne, som ingen af os ved noget om. Så derfor er det ret heldigt, at vi har Alexander Due Rasmussen med i vores virtuelle studio. Alexander er partner i Black Lemon og arbejder til daglig med en hel masse Shopify-shops. Og derfor er dagens emne om Shopify Flow også lige hans hjemmebane. Og det har vi glædet os til, fordi Alexander, som jeg forstår det, så er Shopify Flow faktisk en ret stor ting. Så lad os starte med at komme ind på, hvad er det og hvor stor en ting er det her? Jo, lad os starte med en spørgsmål. Hvad er det? Shopify Flow er i basics meget det, man kender fra trigger-condition-action. Altså når det her sker, hvis de er reelt opfyldt, så gør det her. Og det er jo sådan en måde at sætte automatik til mange ting på. En måde at flytte data på. En måde at gøre nogle ting, som når det her igen er opfyldt, så vil vi gerne have det at vide, eller vi vil gerne gøre noget ud fra det. Og det er egentlig the basics of it. Hvor stor en ting er det? Jeg tror måske, det har en opfattelse af det større, end det så egentlig er. For når vi først krasser i overfladen hos rigtig mange merchants herhjemme i hvert fald, så er det ikke fordi, at de bare står til og krydser slange og alt muligt i deres flow-setups. De fleste har bevæget sig lidt ud i det. De har måske en maksimum håndfuld aktive flow, som de er klar til at køre. Men det er en meget spæd start, som vi ser mange steder, før vi først rigtig får fat i det. Jeg tror også merekaldt, at det er en stor ting i forhold til, hvor meget det rent faktisk kan, hvis man ved, hvad man gør i det. Og måske i mindre grad, end hvad folk de gør lige nu. Jeg tænker lidt på Shopify flow, som en Zapier, men inde i Shopify. Er det sådan helt forkert? Nej, det er faktisk egentlig spot on ved at sige, altså kan du sige Zapier, Make, Antigram og derude. Det er egentlig ret meget det, det er. Og tredjepartsappene kan ligesom vel som i Zapier, så kan Osbert skrive til de her, og Osbert lægger sig ind på det library og nogle templates og sådan, der ligger der. Så det er egentlig meget én ting. Det er bare omkring Shopify-universet og som et UI, inden i selve Shopify er bioejet, som tvivl. Og Alexander, hvornår er det cirka, det her bliver lanseret? Fordi vi sidder og arbejder med rigtig mange e-commerce-shops i Heist Digital, og det her, det bliver der bare generelt nærmest ikke snakket noget som helst om, hvilket jeg ikke helt forstår. Men er det fordi, det er så nyt, så nyt? Eller hvor er vi henne? Der er autodummer fuldstændig på min Shopify-flow, uden det at det gamle, altså Shopify flow har været der i lang tid. Ja, så det er ikke noget nyt overhovedet. Det bliver bedre og bedre dag for dag, fordi så hurtigt går det trods alt heller ikke. Men i hvert fald de her winter edition og summer edition, når det er nogle releases, og ofte når man bygger en ny funktionalitet på, så husker man nogle gange også lige at få Shopify-flow-mæssige op. Det betyder også, at vi skal have en trigger eller en conditional action mere. Og der er faktisk sket nogle ret spændende ting for nyligt på det område, som gør, at det kan bruges i lidt højere grad for ret mange merchants, men der er stadig nogle ting, der mangler, som kan være en stor ting for rigtig mange merchants, som lige er rullet ud her bredt for nyligt, så glæder man sig stadig lige at have det med i sine flows, og det gør, at man skal være lidt mere teknisk stavet eller få skrevet en lille smule kode, for at man kan faktisk koble de to ting sammen. Så det har været der længe. Det er ikke så... Nødvendigvis har jeg brugt der så mange, men det sjove er, at hver gang man snakker om det, så sidder alle og tænker, ej, hvorfor har jeg ikke brugt meget mere tid på det her? Fordi alt det, det løser for mig, er at bruge rigtig, rigtig meget af min daglige dag. Det er nemlig det, vi kommer til at snakke om mere senere, altså hvordan man i virkeligheden kan få meget mere ud af ens tid, ved at få det her til at tage nogle af de manuelle opgaver, som folk sidder og laver. Til at starte med, lad os lige tage sådan de tre termer, der er inden for Shopify Flow, og det er jo henholdsvis, der er en trigger, der er en condition, og der er en action. Hvad betyder de tre forskellige ting? Triggeren er helt klassisk det, der udløser flowet, så det vil sige, når det her sker, så er det jo så tilbage på de entities, der ligesom er i Shopify. Så når en ordre bliver placeret, når en kutte bliver oprettet, når en varer bliver ændret lagerstatus, et eller andet ting, som ligesom ændrer en value, hvis man kan sige det sådan, i din forretning, så skaber du den her trigger. Og triggeren er det, der ligesom sætter flowet i gang, og gør, at vi nu har noget, som vi skal vidte på, eller vi skal manøvrere ved på den måde. Condition er så betingelsen, der skal være opfyldt for, at det er den her græns, at vi skal gøre noget ved det. Så det er det at sige, jamen inventory gik under 0, eller kutten hedder Karsten, eller at fraudfilteret var high, eller hvad det nogle gange kan være. Så hvis det ikke er vurderet high, så fortsætter det bare, som om ingenting var sket, og det er ligesom det, der filtrerer foran for bukken, hvis man kan sige det sådan. Action giver lidt sig selv, på en eller anden måde, så hvad er det, der skal ske, hvad er det, der skal være actionable, ud fra det, vi så har fundet frem til. Og så kan man selvfølgelig på condition, man kan lave de her else flows, så at sige, hvis det ikke var det her, hvad så hvis det er det her, hvad så hvis det er det her, så kan vi godt tage multiple conditions på, og så lave forskellige actions på det. Men action er typisk, gør det her, opdater det her, metafilt, læg det på en liste, cheat, eller send en slackbesked til merchanten, eller send en besked til kundenservice, eller send en besked til vores warehouse, eller send en besked til vores supplier. Gør en eller anden form for action, som som enten sætter sig direkte i systemet, som gør, at du ikke skal gøre noget, eller også gør, at du nærmest skal være opmærksom på noget, ringer en alarm, eller hvad det kan være. Jeg har lige delt skærmen, med et eksempel her, fra et af dine slide decks. Kan du ikke tage os igennem her, nu er der en person, der har installeret Shopify Flow appen, det er jo bare en native app, men installeret i Shopify gratis, og så har man adgang til det, og du har sådan et lille visuelt eksempel, til dem der ser med på YouTube, eller video på Spotify her. Hvad er det vi kigger på her, med hændelsesvis action condition, og alt trigger condition og action? Den vi ser her på selve triggeren, det er at der bliver oprettet en ordre, og så til mange af de merchants, der sidder derude og ikke er mandelige, at de vil vide, at når man tjekker på fraud, så kan der være nogle ting, der ligesom går igen, og man kan have nogen på sin sorte liste, så man tænker, de her kunder dem vil jeg faktisk gerne, have eksploderet og sørge for, at hvis der kommer en ordre deroppefra, så anvender vi dem med det samme. Og det er egentlig det vi gør i conditionen her, så der sætter vi, vi tjekker på, at hvis emailer der er sådan på en, af de her nye ordre, der er created, antigen med den her, eller den her, og der vil jeg sige, at dem der gør det, der har de altså også gjort det nemt. Ja, det er klart. Jeg mener faktisk, at screenshottet er et eksempel, fra en af de templates, og det kan vi komme til lidt senere, men der ligger jo faktisk, en lille library, man kan hukke ind i, og på Shopify, så er de også gjort det endnu nemmere, for at man bare kan komme i gang med flows. Men nej, ellers det vi gør her, det er, at vi adder et autotag, og grunden til, at vi adder autotagget, det er jo, at man ofte kan have nogle tredepart systemer, som også arbejder med ordrene, og sige, hvor mange har vi egentlig, annulleret automatisk, så kan det være en rigtig god idé, at køre de autotags, og så er det meget nemmere, at trække den slags data ud. Og så canceler vi ordrene her, og vi sender også lige en intern mail, til vores, hvad er det, en telefoninspektion, eller et kundeservice, ja, eller en e-mail eksempel, og så med en, igen også for at vise, at i så opvækket, kan vi godt hive nogle dynamiske elementer, altså nogle variabler fra ordrene, kan vi godt sige, jamen det var det her, den her vare, der var købt, vi har lige sparet os, også så mange penge, fordi det var en af de her, som vi ved, bliver til en kønsvæk tidspunkt. Ja, og jeg synes jo det er fedt, at den her, den her kunne jeg jo godt have fundet på, at lave i Shopify, eller ved det i Zapier, eller Make, hvis ikke jeg vidste bedre, fordi alle de ting her, nogen der ligger i Make, men noget af det fede ved Shopify Flow, udover at man så selvfølgelig sparer, de actions og triggers, i et andet værktøj, det er, at Shopify har adgang til flere triggers, actions, conditions, som Make og Zapier kan trække, så hvis der er nogen, der nu sidder og tænker, det kunne jeg da godt have lavet før, i nogen tilfælde, men det her, det kan mere, og koster et værktøj mindre, og så er der også bare færre ting, der kan gå i stykker, det er jo det, der er fantastisk ved det. Ja præcis, fordi hvis vi lige tager sådan en, en good to know ting, kan man sige omkring hele Flows, så er det at, jamen det er sådan en, den er tilgængelig for alle plans, tidligere har der været nogle, lidt forskelle på at sige, hvilken niveau af Shopify er du på, og hvornår har du så Flows, nu er den tilgængelig for alle, der er stadig lidt restrictions på, at hvis du er, Shopify Advanced og Plus, så må du lave dine nye, eller nye og nye, http requests, der er nogle custom apps, som du kun kan lave for Plus, og så er der lidt, usage limit, men der vil jeg sige, nu arbejder jeg med, ret mange merchants, der har brugt det her, det er meget, meget, meget sjældent, vi arbejder i usage limit, og igen så er det typisk, fordi du har lavet en eller anden fejl, hvor du laver nogle loops, og sørger for, at du egentlig kommer til, at kigge på for mange ordrene, og kommer til at lave nogle builds, for dig selv, og så kan du typisk, kopiere dine flows, og så kan du bedre, måde at kunne sige det, så er der så sådan, en app, man installerer, ligger native i App Store'en, du installerer den, og så ligger den bare gennem, dit helt almindelige, Shopify admin UI, hvor du har de ting. Nu bliver jeg lidt nysgerrig, fordi vi kommer ind på nogle, mere konkret eksempler, senere her i afsnittet, men du nævner selv, for eksempel det her, med inventory, altså hvordan ser, stokniveauet egentlig ud, relativ lavpraktisk, men som mange glemmer, at holde øje med, og tidligere ved jeg, at rigtig mange, har downloadet apps, der til, altså til ligesom, at kunne tage sig af det her, og her er mit spørgsmål, er det her, i app miljøet, inden for Shopify, er det her, sådan lidt, en mavepuster, man har fået fra Shopify, jeg ved godt, ikke alle apps, ville kunne laves, i Shopify Flow, men jeg kan bare sige, rigtig mange anvendelsesmuligheder, når først man tænker over det, altså er de faktisk gået ind, og nabbet en del af det her, arbejde for app miljøet, eller hvordan bliver det, egentlig anset i dag? Både overfor, at du kan også godt bruge, altså som native app, og app builder til Shopify, kan du også godt lukrere på det her, fordi det er ret nemt, igen også at kunne bygge, og integrere til, og sådan, så din app ligesom, bliver det, der bliver skubbet data over i, eller man ligesom, kan trigger data fra, så på den måde, kan du egentlig også godt, native integrere til det, men man kan også, godt, skubbe data over i, så på den måde, kan du egentlig også godt, native integrere til det, men ja, det er da lidt ligesom, en iOS, der er der også nogle flere apps, der er kommet på, og flere iOS ting, der er blevet indbygget i iOS, hvad hedder det, softwaren, som var standalone apps, dengang vi alle sammen, jailbreakede vores iPhone, og hentede dem hjem på USA, så altså sådan, ja det har da ændret sig lidt, og det er lidt det samme, vi ser der sker her, men man kan sige, spilplanen bliver også bare, så meget større, så jeg vil ikke mere, som app udvikler, fordi det er klart, at når man nu begynder, med sådan noget, self service return platform, og sådan nogle ting, som de begynder at indbygge, så starter de ud med, overhovedet ikke, at have nogle flows, eller ikke nogle særlig gode flows, sådan så at man skal præcisere, at have en manuel request, og access og sådan nogle ting, på det hver gang, det begynder alligevel, at komme flow for, og det betyder, at den self service return, er bedre, overhovedet ikke god nok, på det vi ellers har, og den er ikke sådan, rapid new retention fokuseret, den er bare return fokuseret, men det begynder igen så småt, at hensyn til at bygge lidt, og lidt og lidt på, som gør, at nogle af de funktioner, der ligger i selve Shopify, det er bedre, når man aktiverer sine flows, omkring det, så på den måde, så taber det ind i det, men det er ikke, fordi jeg vil sige, at det er den største konkurrence, om app udvikling, der er nogle andre ting, man skal gøre så. Nu har vi styr på, Shopify flows eksisterer, det er en app, man installerer, den er gratis, vi har triggers, conditions, actions, kan du ikke tage os igennem, hvilke mest hyppige flows, du og Black Lemon opsætter, for Shopify shops? Jo, man kan sige, forud for egentlig, at finde ud af, hvornår skal jeg automatisere det her, hvornår skal jeg bare, byde det sure, og ikke lade gøre det, så plejer jeg at sige, lad os prøve, for et eller andet koncept, at køre omkring det her, og der er jeg faktisk glad for, at jeg blev inviteret med ind, i jeres lille togsamhed her i dag, fordi jeg har fundet på en, meget lille princip, med bare sådan lidt jammet sammen, med tjekken på 10, men vi har arbejdet lidt ud fra, det vi kalder ratteprincippet, og ratteprincippet er sådan, et framework, du kan lægge ned over din opgave, for at sige, okay, det her er bare noget, jeg skal gøre, og det samme, eller det er noget, jeg skal sidde og bruge to sekunder på, at sætte på formel, og du skal ligesom sætte det på formel, hvis det er rettet, erret står for repetitivt, så er det opgaver, du gentager igen og igen og igen, med minimal eller ingen variation, så hvis det ligesom er noget, der bare kører igen og igen, op på samme foregårde, samme formel, så er det noget, der dufter langt, det kan være automatisering. Hvis det er, erret står for actionable, så hvis det er sådan en clear action, det her skal du gøre hver gang, at det ikke er sådan noget, ah, men hvis den lige falder ud til højre eller venstre, og det er en moderingssag, så skal du selvfølgelig passe på med det, i hvert fald, men hvis det er sådan en clear, tydelig action i det, du laver, som altid kan falde ud til højre eller til venstre, så gælder det gode inden for, at du gør det, og det gælder gode inden for, der er sådan en clear, tydelig action i det, du laver, som altid kan falde ud til højre eller til venstre, så gælder det gode inden for. Tidet står for time consuming, opgaver, der selv, i helt simpel form, bare tager tid og løser manuelt. Og så er den sidste, det er ligesom error prone, så hvis der igen er stor, enten opgaver, der har tendens til, eller har store konsekvenser, ved, at du laver manuel input, eller laver manuel arbejde i det, så kan det også være en rigtig, rigtig god idé, at sætte det på formel, selvom det igen, kan være lidt mere kompleks. Og jeg vil næsten sige, hvis bare en af de her fire, er rater højt, i den egen vurdering, af den opgave, du vil have løst, så synes jeg, man skal, så er det i hvert fald, en af de her opgaver, som er autoriserede. Ej, du taler lige til mit, processifying hjerte, processhjerte. Jeg tror ikke, Halvstan er helt med på, hvad du mener, men jeg elsker det. Jeg kommer ikke til at sige, særlig meget her, jeg, altså, alt det her var manuelt, for mig. Jeg, jeg har sådan et princip, der hedder, hvis jeg kan gøre noget manuelt, så gør jeg det, indtil til nu, hvor man afsmatterer det. Jeg vil også sige, der er jo den der dejlige regler, vi kender, hvis en opgave tager under fem minutter, så får den fixet, så får den klaret, altså sådan ligesom, men jeg kan også se, at det her, det rimer på meget det, når vi sidder og løber vores merchants igennem, der er mange, der ikke når til deres growth, fordi de bare har 17 snore på fingeren, fordi deres operations, ligesom, er afhængig af, de har vel omkring sådan noget, 250 aktive flows, og det vil jeg absolut ikke anbefale, bare at kaste sig ud i, med det samme, men det betyder altså bare, hele deres operations, er på autopilot, og det er ret fedt, at hverken der er noget, der ikke er, som det skal være, så får du en alarm på det, i stedet for, at du skal sidde og finde ud af, og skal løse det hele tiden, så du har ligesom, vendt den rundt, fra at sidde og gennemgå en masse ting, til bare at sætte den på autopilot, og så får alarmerne, når der er noget, der ikke kører sådan en skæring, og ja, så kommer vi til spørgsmålet, hvor skal man bruge det hen, hvad er nogle gode eksempler på det, jeg vil klart, hvis man kaster sig ud i det her, og man ikke har prøvet det før, så vil jeg virkelig, gå stille og roligt til det, jeg vil ikke gå i gang, med bare at kaste mig ud i, de her 250 flows, for det er også en øvelse, man skal lære, og man kan også godt komme til, at bygge for komplekser flows, altså hvis man ikke hilder styr på det her, man kaster sig ud i, så kan man hurtigt få det overgjort, og så lige pludselig, har man 17 flows, og man skal lige huske at dokumentere, og hvad den er, altså der er ikke sådan, og det er faktisk en af de ting, der måske mangler lidt, i Shopify flows, der er ikke sådan et godt system til, hvilke flows gør hvad, lidt overskueligt, så det er op til dig selv, hvordan du husker, at navngive dine flows, så det her med at sige, flow 1 og flow 1 test, og flow 1 v2, og flow 1 v3, så er du doomed, altså sådan, før du overhovedet er i gang. Så den dokumentation, skal man egentlig selv sørge for, at der er lidt, fordi det kan du huske, at der kommer lidt tagging, fordi det kan også blive for meget, og så lige pludselig, sker der en eller anden, du ikke er herover, fordi du har bygget to flows, der er konstere, støder en af dem, og så ender du med et eller andet, der overhovedet ikke fungerer, og så er du skudt dig selv i fod, i stedet for, hvor du prøver at gøre det smartere. Men nej, altså sådan et område, hvor man kan bruge det her, jamen order management, ligger ofte til højre spørgten. Når der er noget, der skal komme ind, jamen det er det, der er vigtigt, og det er det, der er vigtigt, så er der nogle ting, vi gerne vil gøre automatisk, det kunne lige så vel være, også håndtere noget dropshipping, og alle mulige ting, som sådan set også kan garanteres, i sådan et setup her. Og ja, nu hører du mit fine slide herfra, her igen, altså sådan en ting er, at man ligesom kan gøre, de her alarmer på unfulfilled orders, man kan holde en fulfillment, hvis der er en kunde, der placerer flere, så man kan nå at pakke dem sammen, og spare shippingen, man kan tilføje shipping, man kan, eller draft produkter, man kan lave, for meget B2B også, nogle handling fees, lad os sige, hvor man sidder, og skaber en masse manuel order, hvis de glemmer at lægge et fee på, så kan du sørge for, at det automatisk bliver langt på, eller hvis de glemmer at lægge shipping på, så kan du sørge for, at det automatisk bliver langt på. Men der er faktisk allerede to her, som jeg tænker, vil løse nogle konkrete problemer. Den ene, det er den her automatisk kundebeskrivelige forsinkelse, fordi det er jo bare god kundeservice, og det er jeg sikker på, det kan spare en, fra nogle etstjernede trustpile anmeldelser, ved bare at kommunikere på forhånd. Så hvis nu tager sådan en som den her, hvad vil triggeret være på den her? Er det noget med at sige, hvis du har fået en ordre, og den ikke er afsendt inden to dage, så er den defineret som forsinket, og så skyder man en mail afsted til kunden, og siger, det tager lige et øjeblik mere det her? Ja, det kunne være den simple version af det. Den lidt mere avancerede, kunne være, at du henter dine leveringstider, lad os sige, du har nogle forskellige produkter, med forskellige leveringstider, og så skal du måske lægge det ind, som en eller anden ordereje til din prop, eller lignende, og så lytter du på den i stedet for, på bare tiden gået. Men ja, den simple vil være, hvis ordrene ikke er fulfilled, eller inden for 72 timer, kan man så sætte en mail op, og sige, det er vi ked af, vi arbejder på det, og vi skal nok gøre alt, hvad vi kan for at nå til det. Ja, den der med discountkode, den synes jeg også er god, fordi en af de ting, som Tinju har gjort opmærksom på, i tidligere podcast, det er det der med at give en discountcode, til fx en samarbejdspartner, eller en influent, eller et eller andet, de kan bare lynhurtigt blive spredt, og det kan være, så websites og apps, så hvis tanken var, at den her discountcode, skulle være forbeholdt nogen få, så det at sætte en alarm op, og sikre, at den ikke lige pludselig bliver bookt, på halvdelen af ens ordre, er jo super godt, Shopify får lov at have sat op, altså det kan jo virkelig spare en, for nogen penge, hvis der er en kode, der er blevet spredt, som ikke skulle spredes. Og du kan jo sådan set også arbejde, med profiterne på ordrene, og sige, hey du har fået en ordre, der har en gross margin under det her, fordi igen, gross margin er også kalkyleret, og lige så vel, som jeg også har sagt her, tag high value ordre, hvis du vil have noget ekspress, om det er det, du har lært, de her ting er klart nemmere, når man har adlært en 3pl, fordi 3pl'ernes it setup, sætter ofte sådan lidt, en grænse på, hvor dynamisk man kan være, og 3pl er third party logistics, og så 3pl er bare slagere til dem, ligemeget på den refrense, så selvfølgelig er det klart, at det er lidt nemmere, hvis man holder tingene i Shopify, og man har sådan klokken, og har sådan opgave ruter, og sådan nogle ting, i eller tæt på Shopify, så det kan jo både bruges til kunden, men det kan også bruges internt, og sige, hey, hvorfor har vi ikke sendt den her pakke, og hvorfor vi ikke over det, så det er jo både, jeg tvivler ikke, det er svært på en eller anden måde, som både kan være god internt og ekstern, og det kan bruges i begge leger. Du har et andet flow her, jeg synes, det er sjovt, under customer segmentation og marketing automation. Jeg kan huske, jeg havde læst en artikel på, det var faktisk på DR.dk, om Boost, den store mode platform, for et år eller to siden, hvor de havde bandlyst 9000 kunder, fra nogensinde at handle på Boost igen. Og årsagen til, at de havde gjort det, det var, at der var 9000 kunderskikere, som simpelthen udnyttede returen, i en sådan grad, at det ikke gav mening for dem længere. Jeg har faktisk fundet den her, og overskriften, det er, Boost udelukker omkring 9000 kunder, for uetisk adfærd. Så de har benyttet den her gratis retur, til at sende igen og igen og igen, i en grad, hvor det er en enormt dårlig forretning for Boost, at have dem som kunder. Men det kræver lige, at man identificerer dem. Så du har faktisk lavet et Shopify Flow eksempel her, hvor man kan automatisk identificere, de kunder, som bliver ved med at returnere, måske med henblik på at udelukke dem, hen ad vejen. Kan du ikke forklare, hvordan det virker? Jo, man kan egentlig gøre det, på to forskellige måder. Men igen, når vi er inde i Shopify basen, og vi ligesom har Shopify, som vores eneste platform, igen i et e-commerce billede her, og ellers, selvfølgelig også, hvor der er e-commerce på os, men også kører Shopify på os. Så det er dejligt, ved at have den der unified data, og ligesom det fulde kundeview, over alle transaktioner, der er på kunden. Det er, at du netop kan lave, de meget simple kalkuleringer, fordi i virkeligheden, så er det jo ikke så svært. Du kigger på et kundekort, som man kan sige hedder, kundens profil, og ser, hvor mange ordre, har de haft, hvor mange har de returneret. Og så kan man arbejde med, enten om det er counted, af antallet returer, de har haft, eller om det er procenten, af antallet ordre i alt. Altså, det er counted på returertid, med antallet ordre i alt. Og så kan du egentlig, bare kalkulere det, eller i sjovfærdige, hvad hedder det, merchants bruger. Og der søger de her ting, jo med over. Så så længe du laver det, som midtfjord, kan du lave det som property, derovre. Så kan du begynde at dreje med at sige, selvfølgelig skal de da ikke, have min salekampagne, og så kan du sætte grænsen forskelligt, fra hvor det skal være, og sådan nogle ting. Men det du helt simpelt gør, det er at du siger, at du looper på kunden, og siger, lad os tjekke, hvad den her kunde har af ordre, hvor mange returer er der der, og det er faktisk, der skal du igen, det er lidt mere kompleks, det er ikke sådan helt ud af boksen, men du skal lave en lille smule kode, men vi snakker, 5 linjers kode, max vil jeg sige. Og så påstår du det her tilbage, ind på kunden, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, some en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, som en, some en, som en, some en, som en, som en, som en, som en, som en, som en, some en, som en, some en, some en, some an, some an, some level, some level, som an, some level, som an, some level, some level, like this, like this, sum on your, some level, some level, som level, sum on your feeling, sum on your feeling, like this, something like this, like this, like this, like this, some level, like this, some level, some level, sumon your feeling, some level, sumon your feeling, like this, like this, sumon your feeling, like this, like this, some level. Jeg er sikker på, at vi kommer til at lave flere episoder om det her.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": " Christian."
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": " God aften."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": " I dag skal vi snakke om et emne, som ingen af os ved noget om."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": " Så derfor er det ret heldigt, at vi har Alexander Due Rasmussen med i vores virtuelle studio."
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": " Alexander er partner i Black Lemon og arbejder til daglig med en hel masse Shopify-shops."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": " Og derfor er dagens emne om Shopify Flow også lige hans hjemmebane."
+    },
+    {
+      "start": 21.0,
+      "end": 27.0,
+      "text": " Og det har vi glædet os til, fordi Alexander, som jeg forstår det, så er Shopify Flow faktisk en ret stor ting."
+    },
+    {
+      "start": 27.0,
+      "end": 31.0,
+      "text": " Så lad os starte med at komme ind på, hvad er det og hvor stor en ting er det her?"
+    },
+    {
+      "start": 31.0,
+      "end": 33.0,
+      "text": " Jo, lad os starte med en spørgsmål. Hvad er det?"
+    },
+    {
+      "start": 33.0,
+      "end": 39.0,
+      "text": " Shopify Flow er i basics meget det, man kender fra trigger-condition-action."
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": " Altså når det her sker, hvis de er reelt opfyldt, så gør det her."
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": " Og det er jo sådan en måde at sætte automatik til mange ting på."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": " En måde at flytte data på."
+    },
+    {
+      "start": 47.0,
+      "end": 51.0,
+      "text": " En måde at gøre nogle ting, som når det her igen er opfyldt, så vil vi gerne have det at vide,"
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": " eller vi vil gerne gøre noget ud fra det."
+    },
+    {
+      "start": 53.0,
+      "end": 56.0,
+      "text": " Og det er egentlig the basics of it."
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": " Hvor stor en ting er det?"
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "text": " Jeg tror måske, det har en opfattelse af det større, end det så egentlig er."
+    },
+    {
+      "start": 60.0,
+      "end": 63.0,
+      "text": " For når vi først krasser i overfladen hos rigtig mange merchants herhjemme i hvert fald,"
+    },
+    {
+      "start": 63.0,
+      "end": 69.0,
+      "text": " så er det ikke fordi, at de bare står til og krydser slange og alt muligt i deres flow-setups."
+    },
+    {
+      "start": 69.0,
+      "end": 71.0,
+      "text": " De fleste har bevæget sig lidt ud i det."
+    },
+    {
+      "start": 71.0,
+      "end": 75.0,
+      "text": " De har måske en maksimum håndfuld aktive flow, som de er klar til at køre."
+    },
+    {
+      "start": 75.0,
+      "end": 80.0,
+      "text": " Men det er en meget spæd start, som vi ser mange steder, før vi først rigtig får fat i det."
+    },
+    {
+      "start": 80.0,
+      "end": 85.0,
+      "text": " Jeg tror også merekaldt, at det er en stor ting i forhold til, hvor meget det rent faktisk kan,"
+    },
+    {
+      "start": 85.0,
+      "end": 87.0,
+      "text": " hvis man ved, hvad man gør i det."
+    },
+    {
+      "start": 87.0,
+      "end": 89.0,
+      "text": " Og måske i mindre grad, end hvad folk de gør lige nu."
+    },
+    {
+      "start": 89.0,
+      "end": 93.0,
+      "text": " Jeg tænker lidt på Shopify flow, som en Zapier, men inde i Shopify."
+    },
+    {
+      "start": 93.0,
+      "end": 95.0,
+      "text": " Er det sådan helt forkert?"
+    },
+    {
+      "start": 95.0,
+      "end": 98.0,
+      "text": " Nej, det er faktisk egentlig spot on ved at sige,"
+    },
+    {
+      "start": 98.0,
+      "end": 101.0,
+      "text": " altså kan du sige Zapier, Make, Antigram og derude."
+    },
+    {
+      "start": 101.0,
+      "end": 103.0,
+      "text": " Det er egentlig ret meget det, det er."
+    },
+    {
+      "start": 103.0,
+      "end": 106.0,
+      "text": " Og tredjepartsappene kan ligesom vel som i Zapier,"
+    },
+    {
+      "start": 106.0,
+      "end": 108.0,
+      "text": " så kan Osbert skrive til de her,"
+    },
+    {
+      "start": 108.0,
+      "end": 111.0,
+      "text": " og Osbert lægger sig ind på det library og nogle templates og sådan, der ligger der."
+    },
+    {
+      "start": 111.0,
+      "end": 113.0,
+      "text": " Så det er egentlig meget én ting."
+    },
+    {
+      "start": 113.0,
+      "end": 115.0,
+      "text": " Det er bare omkring Shopify-universet og som et UI,"
+    },
+    {
+      "start": 115.0,
+      "end": 119.0,
+      "text": " inden i selve Shopify er bioejet, som tvivl."
+    },
+    {
+      "start": 119.0,
+      "end": 122.0,
+      "text": " Og Alexander, hvornår er det cirka, det her bliver lanseret?"
+    },
+    {
+      "start": 122.0,
+      "end": 126.0,
+      "text": " Fordi vi sidder og arbejder med rigtig mange e-commerce-shops i Heist Digital,"
+    },
+    {
+      "start": 126.0,
+      "end": 129.0,
+      "text": " og det her, det bliver der bare generelt nærmest ikke snakket noget som helst om,"
+    },
+    {
+      "start": 129.0,
+      "end": 132.0,
+      "text": " hvilket jeg ikke helt forstår."
+    },
+    {
+      "start": 132.0,
+      "end": 134.0,
+      "text": " Men er det fordi, det er så nyt, så nyt?"
+    },
+    {
+      "start": 134.0,
+      "end": 136.0,
+      "text": " Eller hvor er vi henne?"
+    },
+    {
+      "start": 136.0,
+      "end": 138.0,
+      "text": " Der er autodummer fuldstændig på min Shopify-flow,"
+    },
+    {
+      "start": 138.0,
+      "end": 140.0,
+      "text": " uden det at det gamle,"
+    },
+    {
+      "start": 140.0,
+      "end": 142.0,
+      "text": " altså Shopify flow har været der i lang tid."
+    },
+    {
+      "start": 142.0,
+      "end": 144.0,
+      "text": " Ja, så det er ikke noget nyt overhovedet."
+    },
+    {
+      "start": 144.0,
+      "end": 146.0,
+      "text": " Det bliver bedre og bedre dag for dag,"
+    },
+    {
+      "start": 146.0,
+      "end": 148.0,
+      "text": " fordi så hurtigt går det trods alt heller ikke."
+    },
+    {
+      "start": 148.0,
+      "end": 150.0,
+      "text": " Men i hvert fald de her winter edition og summer edition,"
+    },
+    {
+      "start": 150.0,
+      "end": 152.0,
+      "text": " når det er nogle releases,"
+    },
+    {
+      "start": 152.0,
+      "end": 154.0,
+      "text": " og ofte når man bygger en ny funktionalitet på,"
+    },
+    {
+      "start": 154.0,
+      "end": 157.0,
+      "text": " så husker man nogle gange også lige at få Shopify-flow-mæssige op."
+    },
+    {
+      "start": 157.0,
+      "end": 161.0,
+      "text": " Det betyder også, at vi skal have en trigger eller en conditional action mere."
+    },
+    {
+      "start": 161.0,
+      "end": 164.0,
+      "text": " Og der er faktisk sket nogle ret spændende ting for nyligt på det område,"
+    },
+    {
+      "start": 164.0,
+      "end": 168.0,
+      "text": " som gør, at det kan bruges i lidt højere grad for ret mange merchants,"
+    },
+    {
+      "start": 168.0,
+      "end": 170.0,
+      "text": " men der er stadig nogle ting, der mangler,"
+    },
+    {
+      "start": 170.0,
+      "end": 173.0,
+      "text": " som kan være en stor ting for rigtig mange merchants,"
+    },
+    {
+      "start": 173.0,
+      "end": 176.0,
+      "text": " som lige er rullet ud her bredt for nyligt,"
+    },
+    {
+      "start": 176.0,
+      "end": 179.0,
+      "text": " så glæder man sig stadig lige at have det med i sine flows,"
+    },
+    {
+      "start": 179.0,
+      "end": 182.0,
+      "text": " og det gør, at man skal være lidt mere teknisk stavet"
+    },
+    {
+      "start": 182.0,
+      "end": 184.0,
+      "text": " eller få skrevet en lille smule kode,"
+    },
+    {
+      "start": 184.0,
+      "end": 186.0,
+      "text": " for at man kan faktisk koble de to ting sammen."
+    },
+    {
+      "start": 186.0,
+      "end": 188.0,
+      "text": " Så det har været der længe."
+    },
+    {
+      "start": 188.0,
+      "end": 190.0,
+      "text": " Det er ikke så..."
+    },
+    {
+      "start": 190.0,
+      "end": 191.0,
+      "text": " Nødvendigvis har jeg brugt der så mange,"
+    },
+    {
+      "start": 191.0,
+      "end": 192.0,
+      "text": " men det sjove er, at hver gang man snakker om det,"
+    },
+    {
+      "start": 192.0,
+      "end": 193.0,
+      "text": " så sidder alle og tænker,"
+    },
+    {
+      "start": 193.0,
+      "end": 195.0,
+      "text": " ej, hvorfor har jeg ikke brugt meget mere tid på det her?"
+    },
+    {
+      "start": 195.0,
+      "end": 196.0,
+      "text": " Fordi alt det, det løser for mig,"
+    },
+    {
+      "start": 196.0,
+      "end": 199.0,
+      "text": " er at bruge rigtig, rigtig meget af min daglige dag."
+    },
+    {
+      "start": 199.0,
+      "end": 201.0,
+      "text": " Det er nemlig det, vi kommer til at snakke om mere senere,"
+    },
+    {
+      "start": 201.0,
+      "end": 204.0,
+      "text": " altså hvordan man i virkeligheden kan få meget mere ud af ens tid,"
+    },
+    {
+      "start": 204.0,
+      "end": 206.0,
+      "text": " ved at få det her til at tage nogle af de manuelle opgaver,"
+    },
+    {
+      "start": 206.0,
+      "end": 207.0,
+      "text": " som folk sidder og laver."
+    },
+    {
+      "start": 207.0,
+      "end": 208.0,
+      "text": " Til at starte med,"
+    },
+    {
+      "start": 208.0,
+      "end": 210.0,
+      "text": " lad os lige tage sådan de tre termer,"
+    },
+    {
+      "start": 210.0,
+      "end": 212.0,
+      "text": " der er inden for Shopify Flow,"
+    },
+    {
+      "start": 212.0,
+      "end": 213.0,
+      "text": " og det er jo henholdsvis,"
+    },
+    {
+      "start": 213.0,
+      "end": 214.0,
+      "text": " der er en trigger,"
+    },
+    {
+      "start": 214.0,
+      "end": 215.0,
+      "text": " der er en condition,"
+    },
+    {
+      "start": 215.0,
+      "end": 216.0,
+      "text": " og der er en action."
+    },
+    {
+      "start": 216.0,
+      "end": 218.0,
+      "text": " Hvad betyder de tre forskellige ting?"
+    },
+    {
+      "start": 218.0,
+      "end": 221.0,
+      "text": " Triggeren er helt klassisk det, der udløser flowet,"
+    },
+    {
+      "start": 221.0,
+      "end": 222.0,
+      "text": " så det vil sige,"
+    },
+    {
+      "start": 222.0,
+      "end": 223.0,
+      "text": " når det her sker,"
+    },
+    {
+      "start": 223.0,
+      "end": 225.0,
+      "text": " så er det jo så tilbage på de entities,"
+    },
+    {
+      "start": 225.0,
+      "end": 226.0,
+      "text": " der ligesom er i Shopify."
+    },
+    {
+      "start": 226.0,
+      "end": 227.0,
+      "text": " Så når en ordre bliver placeret,"
+    },
+    {
+      "start": 227.0,
+      "end": 228.0,
+      "text": " når en kutte bliver oprettet,"
+    },
+    {
+      "start": 228.0,
+      "end": 231.0,
+      "text": " når en varer bliver ændret lagerstatus,"
+    },
+    {
+      "start": 231.0,
+      "end": 232.0,
+      "text": " et eller andet ting,"
+    },
+    {
+      "start": 232.0,
+      "end": 233.0,
+      "text": " som ligesom ændrer en value,"
+    },
+    {
+      "start": 233.0,
+      "end": 234.0,
+      "text": " hvis man kan sige det sådan,"
+    },
+    {
+      "start": 234.0,
+      "end": 235.0,
+      "text": " i din forretning,"
+    },
+    {
+      "start": 235.0,
+      "end": 237.0,
+      "text": " så skaber du den her trigger."
+    },
+    {
+      "start": 237.0,
+      "end": 238.0,
+      "text": " Og triggeren er det,"
+    },
+    {
+      "start": 238.0,
+      "end": 239.0,
+      "text": " der ligesom sætter flowet i gang,"
+    },
+    {
+      "start": 239.0,
+      "end": 241.0,
+      "text": " og gør, at vi nu har noget,"
+    },
+    {
+      "start": 241.0,
+      "end": 242.0,
+      "text": " som vi skal vidte på,"
+    },
+    {
+      "start": 242.0,
+      "end": 245.0,
+      "text": " eller vi skal manøvrere ved på den måde."
+    },
+    {
+      "start": 245.0,
+      "end": 246.0,
+      "text": " Condition er så betingelsen,"
+    },
+    {
+      "start": 246.0,
+      "end": 247.0,
+      "text": " der skal være opfyldt for,"
+    },
+    {
+      "start": 247.0,
+      "end": 248.0,
+      "text": " at det er den her græns,"
+    },
+    {
+      "start": 248.0,
+      "end": 249.0,
+      "text": " at vi skal gøre noget ved det."
+    },
+    {
+      "start": 249.0,
+      "end": 250.0,
+      "text": " Så det er det at sige,"
+    },
+    {
+      "start": 250.0,
+      "end": 252.0,
+      "text": " jamen inventory gik under 0,"
+    },
+    {
+      "start": 252.0,
+      "end": 254.0,
+      "text": " eller kutten hedder Karsten,"
+    },
+    {
+      "start": 254.0,
+      "end": 257.0,
+      "text": " eller at fraudfilteret var high,"
+    },
+    {
+      "start": 257.0,
+      "end": 259.0,
+      "text": " eller hvad det nogle gange kan være."
+    },
+    {
+      "start": 259.0,
+      "end": 261.0,
+      "text": " Så hvis det ikke er vurderet high,"
+    },
+    {
+      "start": 261.0,
+      "end": 262.0,
+      "text": " så fortsætter det bare,"
+    },
+    {
+      "start": 262.0,
+      "end": 263.0,
+      "text": " som om ingenting var sket,"
+    },
+    {
+      "start": 263.0,
+      "end": 264.0,
+      "text": " og det er ligesom det,"
+    },
+    {
+      "start": 264.0,
+      "end": 266.0,
+      "text": " der filtrerer foran for bukken,"
+    },
+    {
+      "start": 266.0,
+      "end": 267.0,
+      "text": " hvis man kan sige det sådan."
+    },
+    {
+      "start": 267.0,
+      "end": 269.0,
+      "text": " Action giver lidt sig selv,"
+    },
+    {
+      "start": 269.0,
+      "end": 270.0,
+      "text": " på en eller anden måde,"
+    },
+    {
+      "start": 270.0,
+      "end": 271.0,
+      "text": " så hvad er det, der skal ske,"
+    },
+    {
+      "start": 271.0,
+      "end": 272.0,
+      "text": " hvad er det, der skal være actionable,"
+    },
+    {
+      "start": 272.0,
+      "end": 274.0,
+      "text": " ud fra det, vi så har fundet frem til."
+    },
+    {
+      "start": 274.0,
+      "end": 276.0,
+      "text": " Og så kan man selvfølgelig på condition,"
+    },
+    {
+      "start": 276.0,
+      "end": 278.0,
+      "text": " man kan lave de her else flows,"
+    },
+    {
+      "start": 278.0,
+      "end": 279.0,
+      "text": " så at sige, hvis det ikke var det her,"
+    },
+    {
+      "start": 279.0,
+      "end": 280.0,
+      "text": " hvad så hvis det er det her,"
+    },
+    {
+      "start": 280.0,
+      "end": 281.0,
+      "text": " hvad så hvis det er det her,"
+    },
+    {
+      "start": 281.0,
+      "end": 282.0,
+      "text": " så kan vi godt tage multiple conditions på,"
+    },
+    {
+      "start": 282.0,
+      "end": 284.0,
+      "text": " og så lave forskellige actions på det."
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": " Men action er typisk,"
+    },
+    {
+      "start": 286.0,
+      "end": 287.0,
+      "text": " gør det her, opdater det her,"
+    },
+    {
+      "start": 287.0,
+      "end": 289.0,
+      "text": " metafilt, læg det på en liste,"
+    },
+    {
+      "start": 289.0,
+      "end": 290.0,
+      "text": " cheat,"
+    },
+    {
+      "start": 290.0,
+      "end": 292.0,
+      "text": " eller send en slackbesked til merchanten,"
+    },
+    {
+      "start": 292.0,
+      "end": 293.0,
+      "text": " eller send en besked til kundenservice,"
+    },
+    {
+      "start": 293.0,
+      "end": 295.0,
+      "text": " eller send en besked til vores warehouse,"
+    },
+    {
+      "start": 295.0,
+      "end": 297.0,
+      "text": " eller send en besked til vores supplier."
+    },
+    {
+      "start": 297.0,
+      "end": 298.0,
+      "text": " Gør en eller anden form for action,"
+    },
+    {
+      "start": 298.0,
+      "end": 300.0,
+      "text": " som som enten sætter sig direkte i systemet,"
+    },
+    {
+      "start": 300.0,
+      "end": 301.0,
+      "text": " som gør, at du ikke skal gøre noget,"
+    },
+    {
+      "start": 301.0,
+      "end": 302.0,
+      "text": " eller også gør,"
+    },
+    {
+      "start": 302.0,
+      "end": 303.0,
+      "text": " at du nærmest skal være opmærksom på noget,"
+    },
+    {
+      "start": 303.0,
+      "end": 305.0,
+      "text": " ringer en alarm, eller hvad det kan være."
+    },
+    {
+      "start": 305.0,
+      "end": 307.0,
+      "text": " Jeg har lige delt skærmen,"
+    },
+    {
+      "start": 307.0,
+      "end": 308.0,
+      "text": " med et eksempel her,"
+    },
+    {
+      "start": 308.0,
+      "end": 310.0,
+      "text": " fra et af dine slide decks."
+    },
+    {
+      "start": 310.0,
+      "end": 311.0,
+      "text": " Kan du ikke tage os igennem her,"
+    },
+    {
+      "start": 311.0,
+      "end": 312.0,
+      "text": " nu er der en person,"
+    },
+    {
+      "start": 312.0,
+      "end": 314.0,
+      "text": " der har installeret Shopify Flow appen,"
+    },
+    {
+      "start": 314.0,
+      "end": 315.0,
+      "text": " det er jo bare en native app,"
+    },
+    {
+      "start": 315.0,
+      "end": 317.0,
+      "text": " men installeret i Shopify gratis,"
+    },
+    {
+      "start": 317.0,
+      "end": 318.0,
+      "text": " og så har man adgang til det,"
+    },
+    {
+      "start": 318.0,
+      "end": 319.0,
+      "text": " og du har sådan et lille visuelt eksempel,"
+    },
+    {
+      "start": 319.0,
+      "end": 320.0,
+      "text": " til dem der ser med på YouTube,"
+    },
+    {
+      "start": 320.0,
+      "end": 322.0,
+      "text": " eller video på Spotify her."
+    },
+    {
+      "start": 322.0,
+      "end": 324.0,
+      "text": " Hvad er det vi kigger på her,"
+    },
+    {
+      "start": 324.0,
+      "end": 326.0,
+      "text": " med hændelsesvis action condition,"
+    },
+    {
+      "start": 326.0,
+      "end": 328.0,
+      "text": " og alt trigger condition og action?"
+    },
+    {
+      "start": 328.0,
+      "end": 330.0,
+      "text": " Den vi ser her på selve triggeren,"
+    },
+    {
+      "start": 330.0,
+      "end": 332.0,
+      "text": " det er at der bliver oprettet en ordre,"
+    },
+    {
+      "start": 332.0,
+      "end": 334.0,
+      "text": " og så til mange af de merchants,"
+    },
+    {
+      "start": 334.0,
+      "end": 335.0,
+      "text": " der sidder derude og ikke er mandelige,"
+    },
+    {
+      "start": 335.0,
+      "end": 336.0,
+      "text": " at de vil vide,"
+    },
+    {
+      "start": 336.0,
+      "end": 337.0,
+      "text": " at når man tjekker på fraud,"
+    },
+    {
+      "start": 337.0,
+      "end": 338.0,
+      "text": " så kan der være nogle ting,"
+    },
+    {
+      "start": 338.0,
+      "end": 339.0,
+      "text": " der ligesom går igen,"
+    },
+    {
+      "start": 339.0,
+      "end": 341.0,
+      "text": " og man kan have nogen på sin sorte liste,"
+    },
+    {
+      "start": 341.0,
+      "end": 342.0,
+      "text": " så man tænker,"
+    },
+    {
+      "start": 342.0,
+      "end": 343.0,
+      "text": " de her kunder dem vil jeg faktisk gerne,"
+    },
+    {
+      "start": 343.0,
+      "end": 345.0,
+      "text": " have eksploderet og sørge for,"
+    },
+    {
+      "start": 345.0,
+      "end": 346.0,
+      "text": " at hvis der kommer en ordre deroppefra,"
+    },
+    {
+      "start": 346.0,
+      "end": 347.0,
+      "text": " så anvender vi dem med det samme."
+    },
+    {
+      "start": 347.0,
+      "end": 349.0,
+      "text": " Og det er egentlig det vi gør i conditionen her,"
+    },
+    {
+      "start": 349.0,
+      "end": 350.0,
+      "text": " så der sætter vi,"
+    },
+    {
+      "start": 350.0,
+      "end": 351.0,
+      "text": " vi tjekker på,"
+    },
+    {
+      "start": 351.0,
+      "end": 352.0,
+      "text": " at hvis emailer der er sådan på en,"
+    },
+    {
+      "start": 352.0,
+      "end": 353.0,
+      "text": " af de her nye ordre,"
+    },
+    {
+      "start": 353.0,
+      "end": 354.0,
+      "text": " der er created,"
+    },
+    {
+      "start": 354.0,
+      "end": 355.0,
+      "text": " antigen med den her,"
+    },
+    {
+      "start": 355.0,
+      "end": 356.0,
+      "text": " eller den her,"
+    },
+    {
+      "start": 357.0,
+      "end": 358.0,
+      "text": " og der vil jeg sige,"
+    },
+    {
+      "start": 358.0,
+      "end": 359.0,
+      "text": " at dem der gør det,"
+    },
+    {
+      "start": 359.0,
+      "end": 360.0,
+      "text": " der har de altså også gjort det nemt."
+    },
+    {
+      "start": 360.0,
+      "end": 362.0,
+      "text": " Ja, det er klart."
+    },
+    {
+      "start": 362.0,
+      "end": 363.0,
+      "text": " Jeg mener faktisk,"
+    },
+    {
+      "start": 363.0,
+      "end": 365.0,
+      "text": " at screenshottet er et eksempel,"
+    },
+    {
+      "start": 365.0,
+      "end": 367.0,
+      "text": " fra en af de templates,"
+    },
+    {
+      "start": 367.0,
+      "end": 368.0,
+      "text": " og det kan vi komme til lidt senere,"
+    },
+    {
+      "start": 368.0,
+      "end": 369.0,
+      "text": " men der ligger jo faktisk,"
+    },
+    {
+      "start": 369.0,
+      "end": 370.0,
+      "text": " en lille library,"
+    },
+    {
+      "start": 370.0,
+      "end": 371.0,
+      "text": " man kan hukke ind i,"
+    },
+    {
+      "start": 371.0,
+      "end": 372.0,
+      "text": " og på Shopify,"
+    },
+    {
+      "start": 372.0,
+      "end": 373.0,
+      "text": " så er de også gjort det endnu nemmere,"
+    },
+    {
+      "start": 373.0,
+      "end": 374.0,
+      "text": " for at man bare kan komme i gang med flows."
+    },
+    {
+      "start": 374.0,
+      "end": 375.0,
+      "text": " Men nej,"
+    },
+    {
+      "start": 375.0,
+      "end": 376.0,
+      "text": " ellers det vi gør her,"
+    },
+    {
+      "start": 376.0,
+      "end": 377.0,
+      "text": " det er, at vi adder et autotag,"
+    },
+    {
+      "start": 377.0,
+      "end": 378.0,
+      "text": " og grunden til,"
+    },
+    {
+      "start": 378.0,
+      "end": 379.0,
+      "text": " at vi adder autotagget,"
+    },
+    {
+      "start": 379.0,
+      "end": 380.0,
+      "text": " det er jo,"
+    },
+    {
+      "start": 380.0,
+      "end": 381.0,
+      "text": " at man ofte kan have nogle tredepart systemer,"
+    },
+    {
+      "start": 381.0,
+      "end": 382.0,
+      "text": " som også arbejder med ordrene,"
+    },
+    {
+      "start": 387.0,
+      "end": 388.0,
+      "text": " og sige,"
+    },
+    {
+      "start": 388.0,
+      "end": 389.0,
+      "text": " hvor mange har vi egentlig,"
+    },
+    {
+      "start": 389.0,
+      "end": 390.0,
+      "text": " annulleret automatisk,"
+    },
+    {
+      "start": 390.0,
+      "end": 391.0,
+      "text": " så kan det være en rigtig god idé,"
+    },
+    {
+      "start": 391.0,
+      "end": 392.0,
+      "text": " at køre de autotags,"
+    },
+    {
+      "start": 392.0,
+      "end": 393.0,
+      "text": " og så er det meget nemmere,"
+    },
+    {
+      "start": 393.0,
+      "end": 394.0,
+      "text": " at trække den slags data ud."
+    },
+    {
+      "start": 394.0,
+      "end": 395.0,
+      "text": " Og så canceler vi ordrene her,"
+    },
+    {
+      "start": 395.0,
+      "end": 396.0,
+      "text": " og vi sender også lige en intern mail,"
+    },
+    {
+      "start": 396.0,
+      "end": 397.0,
+      "text": " til vores,"
+    },
+    {
+      "start": 397.0,
+      "end": 398.0,
+      "text": " hvad er det,"
+    },
+    {
+      "start": 398.0,
+      "end": 399.0,
+      "text": " en telefoninspektion,"
+    },
+    {
+      "start": 399.0,
+      "end": 400.0,
+      "text": " eller et kundeservice,"
+    },
+    {
+      "start": 400.0,
+      "end": 401.0,
+      "text": " ja,"
+    },
+    {
+      "start": 401.0,
+      "end": 402.0,
+      "text": " eller en e-mail eksempel,"
+    },
+    {
+      "start": 402.0,
+      "end": 403.0,
+      "text": " og så med en,"
+    },
+    {
+      "start": 403.0,
+      "end": 404.0,
+      "text": " igen også for at vise,"
+    },
+    {
+      "start": 404.0,
+      "end": 405.0,
+      "text": " at i så opvækket,"
+    },
+    {
+      "start": 405.0,
+      "end": 406.0,
+      "text": " kan vi godt hive nogle dynamiske elementer,"
+    },
+    {
+      "start": 406.0,
+      "end": 407.0,
+      "text": " altså nogle variabler fra ordrene,"
+    },
+    {
+      "start": 407.0,
+      "end": 408.0,
+      "text": " kan vi godt sige,"
+    },
+    {
+      "start": 408.0,
+      "end": 409.0,
+      "text": " jamen det var det her,"
+    },
+    {
+      "start": 409.0,
+      "end": 410.0,
+      "text": " den her vare,"
+    },
+    {
+      "start": 411.0,
+      "end": 412.0,
+      "text": " der var købt,"
+    },
+    {
+      "start": 412.0,
+      "end": 413.0,
+      "text": " vi har lige sparet os,"
+    },
+    {
+      "start": 413.0,
+      "end": 414.0,
+      "text": " også så mange penge,"
+    },
+    {
+      "start": 414.0,
+      "end": 415.0,
+      "text": " fordi det var en af de her,"
+    },
+    {
+      "start": 415.0,
+      "end": 416.0,
+      "text": " som vi ved,"
+    },
+    {
+      "start": 416.0,
+      "end": 417.0,
+      "text": " bliver til en kønsvæk tidspunkt."
+    },
+    {
+      "start": 417.0,
+      "end": 418.0,
+      "text": " Ja,"
+    },
+    {
+      "start": 418.0,
+      "end": 419.0,
+      "text": " og jeg synes jo det er fedt,"
+    },
+    {
+      "start": 419.0,
+      "end": 420.0,
+      "text": " at den her,"
+    },
+    {
+      "start": 420.0,
+      "end": 421.0,
+      "text": " den her kunne jeg jo godt have fundet på,"
+    },
+    {
+      "start": 421.0,
+      "end": 422.0,
+      "text": " at lave i Shopify,"
+    },
+    {
+      "start": 422.0,
+      "end": 423.0,
+      "text": " eller ved det i Zapier,"
+    },
+    {
+      "start": 423.0,
+      "end": 424.0,
+      "text": " eller Make,"
+    },
+    {
+      "start": 424.0,
+      "end": 425.0,
+      "text": " hvis ikke jeg vidste bedre,"
+    },
+    {
+      "start": 425.0,
+      "end": 426.0,
+      "text": " fordi alle de ting her,"
+    },
+    {
+      "start": 426.0,
+      "end": 427.0,
+      "text": " nogen der ligger i Make,"
+    },
+    {
+      "start": 427.0,
+      "end": 428.0,
+      "text": " men noget af det fede ved Shopify Flow,"
+    },
+    {
+      "start": 428.0,
+      "end": 429.0,
+      "text": " udover at man så selvfølgelig sparer,"
+    },
+    {
+      "start": 429.0,
+      "end": 430.0,
+      "text": " de actions og triggers,"
+    },
+    {
+      "start": 430.0,
+      "end": 431.0,
+      "text": " i et andet værktøj,"
+    },
+    {
+      "start": 431.0,
+      "end": 432.0,
+      "text": " det er,"
+    },
+    {
+      "start": 432.0,
+      "end": 433.0,
+      "text": " at Shopify har adgang til flere triggers,"
+    },
+    {
+      "start": 433.0,
+      "end": 434.0,
+      "text": " actions, conditions,"
+    },
+    {
+      "start": 434.0,
+      "end": 435.0,
+      "text": " som Make og Zapier kan trække,"
+    },
+    {
+      "start": 435.0,
+      "end": 436.0,
+      "text": " så hvis der er nogen,"
+    },
+    {
+      "start": 436.0,
+      "end": 437.0,
+      "text": " der nu sidder og tænker,"
+    },
+    {
+      "start": 437.0,
+      "end": 438.0,
+      "text": " det kunne jeg da godt have lavet før,"
+    },
+    {
+      "start": 438.0,
+      "end": 439.0,
+      "text": " i nogen tilfælde,"
+    },
+    {
+      "start": 439.0,
+      "end": 440.0,
+      "text": " men det her,"
+    },
+    {
+      "start": 440.0,
+      "end": 441.0,
+      "text": " det kan mere,"
+    },
+    {
+      "start": 441.0,
+      "end": 442.0,
+      "text": " og koster et værktøj mindre,"
+    },
+    {
+      "start": 442.0,
+      "end": 443.0,
+      "text": " og så er der også bare færre ting,"
+    },
+    {
+      "start": 443.0,
+      "end": 444.0,
+      "text": " der kan gå i stykker,"
+    },
+    {
+      "start": 444.0,
+      "end": 445.0,
+      "text": " det er jo det,"
+    },
+    {
+      "start": 445.0,
+      "end": 446.0,
+      "text": " der er fantastisk ved det."
+    },
+    {
+      "start": 446.0,
+      "end": 447.0,
+      "text": " Ja præcis,"
+    },
+    {
+      "start": 447.0,
+      "end": 448.0,
+      "text": " fordi hvis vi lige tager sådan en,"
+    },
+    {
+      "start": 448.0,
+      "end": 449.0,
+      "text": " en good to know ting,"
+    },
+    {
+      "start": 449.0,
+      "end": 450.0,
+      "text": " kan man sige omkring hele Flows,"
+    },
+    {
+      "start": 450.0,
+      "end": 451.0,
+      "text": " så er det at,"
+    },
+    {
+      "start": 451.0,
+      "end": 452.0,
+      "text": " jamen det er sådan en,"
+    },
+    {
+      "start": 452.0,
+      "end": 453.0,
+      "text": " den er tilgængelig for alle plans,"
+    },
+    {
+      "start": 453.0,
+      "end": 454.0,
+      "text": " tidligere har der været nogle,"
+    },
+    {
+      "start": 454.0,
+      "end": 455.0,
+      "text": " lidt forskelle på at sige,"
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": " hvilken niveau af Shopify er du på,"
+    },
+    {
+      "start": 457.0,
+      "end": 458.0,
+      "text": " og hvornår har du så Flows,"
+    },
+    {
+      "start": 458.0,
+      "end": 459.0,
+      "text": " nu er den tilgængelig for alle,"
+    },
+    {
+      "start": 459.0,
+      "end": 461.0,
+      "text": " der er stadig lidt restrictions på,"
+    },
+    {
+      "start": 461.0,
+      "end": 462.0,
+      "text": " at hvis du er,"
+    },
+    {
+      "start": 462.0,
+      "end": 464.0,
+      "text": " Shopify Advanced og Plus,"
+    },
+    {
+      "start": 464.0,
+      "end": 465.0,
+      "text": " så må du lave dine nye,"
+    },
+    {
+      "start": 465.0,
+      "end": 466.0,
+      "text": " eller nye og nye,"
+    },
+    {
+      "start": 466.0,
+      "end": 467.0,
+      "text": " http requests,"
+    },
+    {
+      "start": 467.0,
+      "end": 468.0,
+      "text": " der er nogle custom apps,"
+    },
+    {
+      "start": 468.0,
+      "end": 469.0,
+      "text": " som du kun kan lave for Plus,"
+    },
+    {
+      "start": 469.0,
+      "end": 470.0,
+      "text": " og så er der lidt,"
+    },
+    {
+      "start": 470.0,
+      "end": 471.0,
+      "text": " usage limit,"
+    },
+    {
+      "start": 471.0,
+      "end": 472.0,
+      "text": " men der vil jeg sige,"
+    },
+    {
+      "start": 472.0,
+      "end": 473.0,
+      "text": " nu arbejder jeg med,"
+    },
+    {
+      "start": 473.0,
+      "end": 474.0,
+      "text": " ret mange merchants,"
+    },
+    {
+      "start": 474.0,
+      "end": 475.0,
+      "text": " der har brugt det her,"
+    },
+    {
+      "start": 475.0,
+      "end": 476.0,
+      "text": " det er meget, meget, meget sjældent,"
+    },
+    {
+      "start": 476.0,
+      "end": 477.0,
+      "text": " vi arbejder i usage limit,"
+    },
+    {
+      "start": 477.0,
+      "end": 478.0,
+      "text": " og igen så er det typisk,"
+    },
+    {
+      "start": 478.0,
+      "end": 479.0,
+      "text": " fordi du har lavet en eller anden fejl,"
+    },
+    {
+      "start": 479.0,
+      "end": 480.0,
+      "text": " hvor du laver nogle loops,"
+    },
+    {
+      "start": 481.0,
+      "end": 482.0,
+      "text": " og sørger for,"
+    },
+    {
+      "start": 482.0,
+      "end": 483.0,
+      "text": " at du egentlig kommer til,"
+    },
+    {
+      "start": 483.0,
+      "end": 484.0,
+      "text": " at kigge på for mange ordrene,"
+    },
+    {
+      "start": 484.0,
+      "end": 485.0,
+      "text": " og kommer til at lave nogle builds,"
+    },
+    {
+      "start": 485.0,
+      "end": 486.0,
+      "text": " for dig selv,"
+    },
+    {
+      "start": 486.0,
+      "end": 487.0,
+      "text": " og så kan du typisk,"
+    },
+    {
+      "start": 487.0,
+      "end": 488.0,
+      "text": " kopiere dine flows,"
+    },
+    {
+      "start": 488.0,
+      "end": 489.0,
+      "text": " og så kan du bedre,"
+    },
+    {
+      "start": 489.0,
+      "end": 490.0,
+      "text": " måde at kunne sige det,"
+    },
+    {
+      "start": 490.0,
+      "end": 491.0,
+      "text": " så er der så sådan,"
+    },
+    {
+      "start": 491.0,
+      "end": 492.0,
+      "text": " en app, man installerer,"
+    },
+    {
+      "start": 492.0,
+      "end": 493.0,
+      "text": " ligger native i App Store'en,"
+    },
+    {
+      "start": 493.0,
+      "end": 494.0,
+      "text": " du installerer den,"
+    },
+    {
+      "start": 494.0,
+      "end": 495.0,
+      "text": " og så ligger den bare gennem,"
+    },
+    {
+      "start": 495.0,
+      "end": 496.0,
+      "text": " dit helt almindelige,"
+    },
+    {
+      "start": 496.0,
+      "end": 497.0,
+      "text": " Shopify admin UI,"
+    },
+    {
+      "start": 497.0,
+      "end": 498.0,
+      "text": " hvor du har de ting."
+    },
+    {
+      "start": 498.0,
+      "end": 500.0,
+      "text": " Nu bliver jeg lidt nysgerrig,"
+    },
+    {
+      "start": 500.0,
+      "end": 502.0,
+      "text": " fordi vi kommer ind på nogle,"
+    },
+    {
+      "start": 502.0,
+      "end": 503.0,
+      "text": " mere konkret eksempler,"
+    },
+    {
+      "start": 503.0,
+      "end": 504.0,
+      "text": " senere her i afsnittet,"
+    },
+    {
+      "start": 504.0,
+      "end": 505.0,
+      "text": " men du nævner selv,"
+    },
+    {
+      "start": 505.0,
+      "end": 506.0,
+      "text": " for eksempel det her,"
+    },
+    {
+      "start": 506.0,
+      "end": 507.0,
+      "text": " med inventory,"
+    },
+    {
+      "start": 507.0,
+      "end": 508.0,
+      "text": " altså hvordan ser,"
+    },
+    {
+      "start": 508.0,
+      "end": 509.0,
+      "text": " stokniveauet egentlig ud,"
+    },
+    {
+      "start": 509.0,
+      "end": 510.0,
+      "text": " relativ lavpraktisk,"
+    },
+    {
+      "start": 510.0,
+      "end": 511.0,
+      "text": " men som mange glemmer,"
+    },
+    {
+      "start": 511.0,
+      "end": 512.0,
+      "text": " at holde øje med,"
+    },
+    {
+      "start": 512.0,
+      "end": 513.0,
+      "text": " og tidligere ved jeg,"
+    },
+    {
+      "start": 513.0,
+      "end": 514.0,
+      "text": " at rigtig mange,"
+    },
+    {
+      "start": 514.0,
+      "end": 515.0,
+      "text": " har downloadet apps,"
+    },
+    {
+      "start": 515.0,
+      "end": 516.0,
+      "text": " der til,"
+    },
+    {
+      "start": 516.0,
+      "end": 517.0,
+      "text": " altså til ligesom,"
+    },
+    {
+      "start": 517.0,
+      "end": 518.0,
+      "text": " at kunne tage sig af det her,"
+    },
+    {
+      "start": 518.0,
+      "end": 519.0,
+      "text": " og her er mit spørgsmål,"
+    },
+    {
+      "start": 519.0,
+      "end": 520.0,
+      "text": " er det her,"
+    },
+    {
+      "start": 520.0,
+      "end": 521.0,
+      "text": " i app miljøet,"
+    },
+    {
+      "start": 521.0,
+      "end": 522.0,
+      "text": " inden for Shopify,"
+    },
+    {
+      "start": 522.0,
+      "end": 523.0,
+      "text": " er det her,"
+    },
+    {
+      "start": 523.0,
+      "end": 524.0,
+      "text": " sådan lidt,"
+    },
+    {
+      "start": 524.0,
+      "end": 525.0,
+      "text": " en mavepuster,"
+    },
+    {
+      "start": 525.0,
+      "end": 526.0,
+      "text": " man har fået fra Shopify,"
+    },
+    {
+      "start": 526.0,
+      "end": 527.0,
+      "text": " jeg ved godt,"
+    },
+    {
+      "start": 527.0,
+      "end": 528.0,
+      "text": " ikke alle apps,"
+    },
+    {
+      "start": 528.0,
+      "end": 529.0,
+      "text": " ville kunne laves,"
+    },
+    {
+      "start": 529.0,
+      "end": 530.0,
+      "text": " i Shopify Flow,"
+    },
+    {
+      "start": 530.0,
+      "end": 531.0,
+      "text": " men jeg kan bare sige,"
+    },
+    {
+      "start": 531.0,
+      "end": 532.0,
+      "text": " rigtig mange anvendelsesmuligheder,"
+    },
+    {
+      "start": 532.0,
+      "end": 533.0,
+      "text": " når først man tænker over det,"
+    },
+    {
+      "start": 533.0,
+      "end": 534.0,
+      "text": " altså er de faktisk gået ind,"
+    },
+    {
+      "start": 534.0,
+      "end": 535.0,
+      "text": " og nabbet en del af det her,"
+    },
+    {
+      "start": 535.0,
+      "end": 536.0,
+      "text": " arbejde for app miljøet,"
+    },
+    {
+      "start": 536.0,
+      "end": 537.0,
+      "text": " eller hvordan bliver det,"
+    },
+    {
+      "start": 537.0,
+      "end": 538.0,
+      "text": " egentlig anset i dag?"
+    },
+    {
+      "start": 538.0,
+      "end": 539.0,
+      "text": " Både overfor,"
+    },
+    {
+      "start": 539.0,
+      "end": 540.0,
+      "text": " at du kan også godt bruge,"
+    },
+    {
+      "start": 540.0,
+      "end": 541.0,
+      "text": " altså som native app,"
+    },
+    {
+      "start": 541.0,
+      "end": 542.0,
+      "text": " og app builder til Shopify,"
+    },
+    {
+      "start": 542.0,
+      "end": 543.0,
+      "text": " kan du også godt lukrere på det her,"
+    },
+    {
+      "start": 543.0,
+      "end": 544.0,
+      "text": " fordi det er ret nemt,"
+    },
+    {
+      "start": 544.0,
+      "end": 545.0,
+      "text": " igen også at kunne bygge,"
+    },
+    {
+      "start": 545.0,
+      "end": 546.0,
+      "text": " og integrere til,"
+    },
+    {
+      "start": 546.0,
+      "end": 547.0,
+      "text": " og sådan,"
+    },
+    {
+      "start": 547.0,
+      "end": 548.0,
+      "text": " så din app ligesom,"
+    },
+    {
+      "start": 548.0,
+      "end": 549.0,
+      "text": " bliver det,"
+    },
+    {
+      "start": 549.0,
+      "end": 550.0,
+      "text": " der bliver skubbet data over i,"
+    },
+    {
+      "start": 550.0,
+      "end": 551.0,
+      "text": " eller man ligesom,"
+    },
+    {
+      "start": 551.0,
+      "end": 552.0,
+      "text": " kan trigger data fra,"
+    },
+    {
+      "start": 552.0,
+      "end": 553.0,
+      "text": " så på den måde,"
+    },
+    {
+      "start": 553.0,
+      "end": 554.0,
+      "text": " kan du egentlig også godt,"
+    },
+    {
+      "start": 554.0,
+      "end": 555.0,
+      "text": " native integrere til det,"
+    },
+    {
+      "start": 555.0,
+      "end": 556.0,
+      "text": " men man kan også,"
+    },
+    {
+      "start": 556.0,
+      "end": 557.0,
+      "text": " godt,"
+    },
+    {
+      "start": 557.0,
+      "end": 558.0,
+      "text": " skubbe data over i,"
+    },
+    {
+      "start": 559.0,
+      "end": 560.0,
+      "text": " så på den måde,"
+    },
+    {
+      "start": 560.0,
+      "end": 561.0,
+      "text": " kan du egentlig også godt,"
+    },
+    {
+      "start": 561.0,
+      "end": 562.0,
+      "text": " native integrere til det,"
+    },
+    {
+      "start": 562.0,
+      "end": 563.0,
+      "text": " men ja,"
+    },
+    {
+      "start": 563.0,
+      "end": 564.0,
+      "text": " det er da lidt ligesom,"
+    },
+    {
+      "start": 564.0,
+      "end": 565.0,
+      "text": " en iOS,"
+    },
+    {
+      "start": 565.0,
+      "end": 566.0,
+      "text": " der er der også nogle flere apps,"
+    },
+    {
+      "start": 566.0,
+      "end": 567.0,
+      "text": " der er kommet på,"
+    },
+    {
+      "start": 567.0,
+      "end": 568.0,
+      "text": " og flere iOS ting,"
+    },
+    {
+      "start": 568.0,
+      "end": 569.0,
+      "text": " der er blevet indbygget i iOS,"
+    },
+    {
+      "start": 569.0,
+      "end": 570.0,
+      "text": " hvad hedder det,"
+    },
+    {
+      "start": 570.0,
+      "end": 571.0,
+      "text": " softwaren,"
+    },
+    {
+      "start": 571.0,
+      "end": 572.0,
+      "text": " som var standalone apps,"
+    },
+    {
+      "start": 572.0,
+      "end": 573.0,
+      "text": " dengang vi alle sammen,"
+    },
+    {
+      "start": 573.0,
+      "end": 574.0,
+      "text": " jailbreakede vores iPhone,"
+    },
+    {
+      "start": 574.0,
+      "end": 575.0,
+      "text": " og hentede dem hjem på USA,"
+    },
+    {
+      "start": 575.0,
+      "end": 576.0,
+      "text": " så altså sådan,"
+    },
+    {
+      "start": 576.0,
+      "end": 577.0,
+      "text": " ja det har da ændret sig lidt,"
+    },
+    {
+      "start": 577.0,
+      "end": 578.0,
+      "text": " og det er lidt det samme,"
+    },
+    {
+      "start": 578.0,
+      "end": 579.0,
+      "text": " vi ser der sker her,"
+    },
+    {
+      "start": 579.0,
+      "end": 580.0,
+      "text": " men man kan sige,"
+    },
+    {
+      "start": 580.0,
+      "end": 581.0,
+      "text": " spilplanen bliver også bare,"
+    },
+    {
+      "start": 581.0,
+      "end": 582.0,
+      "text": " så meget større,"
+    },
+    {
+      "start": 582.0,
+      "end": 583.0,
+      "text": " så jeg vil ikke mere,"
+    },
+    {
+      "start": 583.0,
+      "end": 584.0,
+      "text": " som app udvikler,"
+    },
+    {
+      "start": 584.0,
+      "end": 585.0,
+      "text": " fordi det er klart,"
+    },
+    {
+      "start": 585.0,
+      "end": 586.0,
+      "text": " at når man nu begynder,"
+    },
+    {
+      "start": 586.0,
+      "end": 587.0,
+      "text": " med sådan noget,"
+    },
+    {
+      "start": 587.0,
+      "end": 588.0,
+      "text": " self service return platform,"
+    },
+    {
+      "start": 588.0,
+      "end": 589.0,
+      "text": " og sådan nogle ting,"
+    },
+    {
+      "start": 589.0,
+      "end": 590.0,
+      "text": " som de begynder at indbygge,"
+    },
+    {
+      "start": 590.0,
+      "end": 591.0,
+      "text": " så starter de ud med,"
+    },
+    {
+      "start": 591.0,
+      "end": 592.0,
+      "text": " overhovedet ikke,"
+    },
+    {
+      "start": 592.0,
+      "end": 593.0,
+      "text": " at have nogle flows,"
+    },
+    {
+      "start": 593.0,
+      "end": 594.0,
+      "text": " eller ikke nogle særlig gode flows,"
+    },
+    {
+      "start": 594.0,
+      "end": 595.0,
+      "text": " sådan så at man skal præcisere,"
+    },
+    {
+      "start": 595.0,
+      "end": 596.0,
+      "text": " at have en manuel request,"
+    },
+    {
+      "start": 596.0,
+      "end": 597.0,
+      "text": " og access og sådan nogle ting,"
+    },
+    {
+      "start": 597.0,
+      "end": 598.0,
+      "text": " på det hver gang,"
+    },
+    {
+      "start": 598.0,
+      "end": 599.0,
+      "text": " det begynder alligevel,"
+    },
+    {
+      "start": 599.0,
+      "end": 600.0,
+      "text": " at komme flow for,"
+    },
+    {
+      "start": 600.0,
+      "end": 601.0,
+      "text": " og det betyder,"
+    },
+    {
+      "start": 601.0,
+      "end": 602.0,
+      "text": " at den self service return,"
+    },
+    {
+      "start": 602.0,
+      "end": 603.0,
+      "text": " er bedre,"
+    },
+    {
+      "start": 603.0,
+      "end": 604.0,
+      "text": " overhovedet ikke god nok,"
+    },
+    {
+      "start": 604.0,
+      "end": 605.0,
+      "text": " på det vi ellers har,"
+    },
+    {
+      "start": 605.0,
+      "end": 606.0,
+      "text": " og den er ikke sådan,"
+    },
+    {
+      "start": 606.0,
+      "end": 607.0,
+      "text": " rapid new retention fokuseret,"
+    },
+    {
+      "start": 607.0,
+      "end": 608.0,
+      "text": " den er bare return fokuseret,"
+    },
+    {
+      "start": 609.0,
+      "end": 610.0,
+      "text": " men det begynder igen så småt,"
+    },
+    {
+      "start": 610.0,
+      "end": 611.0,
+      "text": " at hensyn til at bygge lidt,"
+    },
+    {
+      "start": 611.0,
+      "end": 612.0,
+      "text": " og lidt og lidt på,"
+    },
+    {
+      "start": 612.0,
+      "end": 613.0,
+      "text": " som gør,"
+    },
+    {
+      "start": 613.0,
+      "end": 614.0,
+      "text": " at nogle af de funktioner,"
+    },
+    {
+      "start": 614.0,
+      "end": 615.0,
+      "text": " der ligger i selve Shopify,"
+    },
+    {
+      "start": 615.0,
+      "end": 616.0,
+      "text": " det er bedre,"
+    },
+    {
+      "start": 616.0,
+      "end": 617.0,
+      "text": " når man aktiverer sine flows,"
+    },
+    {
+      "start": 617.0,
+      "end": 618.0,
+      "text": " omkring det,"
+    },
+    {
+      "start": 618.0,
+      "end": 619.0,
+      "text": " så på den måde,"
+    },
+    {
+      "start": 619.0,
+      "end": 620.0,
+      "text": " så taber det ind i det,"
+    },
+    {
+      "start": 620.0,
+      "end": 621.0,
+      "text": " men det er ikke,"
+    },
+    {
+      "start": 621.0,
+      "end": 622.0,
+      "text": " fordi jeg vil sige,"
+    },
+    {
+      "start": 622.0,
+      "end": 623.0,
+      "text": " at det er den største konkurrence,"
+    },
+    {
+      "start": 623.0,
+      "end": 624.0,
+      "text": " om app udvikling,"
+    },
+    {
+      "start": 624.0,
+      "end": 625.0,
+      "text": " der er nogle andre ting,"
+    },
+    {
+      "start": 625.0,
+      "end": 626.0,
+      "text": " man skal gøre så."
+    },
+    {
+      "start": 626.0,
+      "end": 627.0,
+      "text": " Nu har vi styr på,"
+    },
+    {
+      "start": 627.0,
+      "end": 628.0,
+      "text": " Shopify flows eksisterer,"
+    },
+    {
+      "start": 628.0,
+      "end": 629.0,
+      "text": " det er en app,"
+    },
+    {
+      "start": 629.0,
+      "end": 630.0,
+      "text": " man installerer,"
+    },
+    {
+      "start": 630.0,
+      "end": 631.0,
+      "text": " den er gratis,"
+    },
+    {
+      "start": 631.0,
+      "end": 632.0,
+      "text": " vi har triggers,"
+    },
+    {
+      "start": 632.0,
+      "end": 633.0,
+      "text": " conditions, actions,"
+    },
+    {
+      "start": 633.0,
+      "end": 634.0,
+      "text": " kan du ikke tage os igennem,"
+    },
+    {
+      "start": 634.0,
+      "end": 635.0,
+      "text": " hvilke mest hyppige flows,"
+    },
+    {
+      "start": 635.0,
+      "end": 636.0,
+      "text": " du og Black Lemon opsætter,"
+    },
+    {
+      "start": 636.0,
+      "end": 637.0,
+      "text": " for Shopify shops?"
+    },
+    {
+      "start": 637.0,
+      "end": 638.0,
+      "text": " Jo, man kan sige,"
+    },
+    {
+      "start": 638.0,
+      "end": 639.0,
+      "text": " forud for egentlig,"
+    },
+    {
+      "start": 639.0,
+      "end": 640.0,
+      "text": " at finde ud af,"
+    },
+    {
+      "start": 640.0,
+      "end": 641.0,
+      "text": " hvornår skal jeg automatisere det her,"
+    },
+    {
+      "start": 641.0,
+      "end": 642.0,
+      "text": " hvornår skal jeg bare,"
+    },
+    {
+      "start": 642.0,
+      "end": 643.0,
+      "text": " byde det sure,"
+    },
+    {
+      "start": 643.0,
+      "end": 644.0,
+      "text": " og ikke lade gøre det,"
+    },
+    {
+      "start": 644.0,
+      "end": 645.0,
+      "text": " så plejer jeg at sige,"
+    },
+    {
+      "start": 645.0,
+      "end": 646.0,
+      "text": " lad os prøve,"
+    },
+    {
+      "start": 646.0,
+      "end": 647.0,
+      "text": " for et eller andet koncept,"
+    },
+    {
+      "start": 647.0,
+      "end": 648.0,
+      "text": " at køre omkring det her,"
+    },
+    {
+      "start": 648.0,
+      "end": 649.0,
+      "text": " og der er jeg faktisk glad for,"
+    },
+    {
+      "start": 649.0,
+      "end": 650.0,
+      "text": " at jeg blev inviteret med ind,"
+    },
+    {
+      "start": 650.0,
+      "end": 651.0,
+      "text": " i jeres lille togsamhed her i dag,"
+    },
+    {
+      "start": 651.0,
+      "end": 652.0,
+      "text": " fordi jeg har fundet på en,"
+    },
+    {
+      "start": 652.0,
+      "end": 653.0,
+      "text": " meget lille princip,"
+    },
+    {
+      "start": 653.0,
+      "end": 654.0,
+      "text": " med bare sådan lidt jammet sammen,"
+    },
+    {
+      "start": 654.0,
+      "end": 655.0,
+      "text": " med tjekken på 10,"
+    },
+    {
+      "start": 656.0,
+      "end": 657.0,
+      "text": " men vi har arbejdet lidt ud fra,"
+    },
+    {
+      "start": 657.0,
+      "end": 658.0,
+      "text": " det vi kalder ratteprincippet,"
+    },
+    {
+      "start": 658.0,
+      "end": 659.0,
+      "text": " og ratteprincippet er sådan,"
+    },
+    {
+      "start": 659.0,
+      "end": 660.0,
+      "text": " et framework,"
+    },
+    {
+      "start": 660.0,
+      "end": 661.0,
+      "text": " du kan lægge ned over din opgave,"
+    },
+    {
+      "start": 661.0,
+      "end": 662.0,
+      "text": " for at sige,"
+    },
+    {
+      "start": 662.0,
+      "end": 663.0,
+      "text": " okay, det her er bare noget,"
+    },
+    {
+      "start": 663.0,
+      "end": 664.0,
+      "text": " jeg skal gøre,"
+    },
+    {
+      "start": 664.0,
+      "end": 665.0,
+      "text": " og det samme,"
+    },
+    {
+      "start": 665.0,
+      "end": 666.0,
+      "text": " eller det er noget,"
+    },
+    {
+      "start": 666.0,
+      "end": 667.0,
+      "text": " jeg skal sidde og bruge to sekunder på,"
+    },
+    {
+      "start": 667.0,
+      "end": 668.0,
+      "text": " at sætte på formel,"
+    },
+    {
+      "start": 668.0,
+      "end": 669.0,
+      "text": " og du skal ligesom sætte det på formel,"
+    },
+    {
+      "start": 669.0,
+      "end": 670.0,
+      "text": " hvis det er rettet,"
+    },
+    {
+      "start": 670.0,
+      "end": 671.0,
+      "text": " erret står for repetitivt,"
+    },
+    {
+      "start": 671.0,
+      "end": 672.0,
+      "text": " så er det opgaver,"
+    },
+    {
+      "start": 672.0,
+      "end": 673.0,
+      "text": " du gentager igen og igen og igen,"
+    },
+    {
+      "start": 673.0,
+      "end": 674.0,
+      "text": " med minimal eller ingen variation,"
+    },
+    {
+      "start": 674.0,
+      "end": 675.0,
+      "text": " så hvis det ligesom er noget,"
+    },
+    {
+      "start": 675.0,
+      "end": 676.0,
+      "text": " der bare kører igen og igen,"
+    },
+    {
+      "start": 676.0,
+      "end": 677.0,
+      "text": " op på samme foregårde,"
+    },
+    {
+      "start": 677.0,
+      "end": 678.0,
+      "text": " samme formel,"
+    },
+    {
+      "start": 678.0,
+      "end": 679.0,
+      "text": " så er det noget,"
+    },
+    {
+      "start": 679.0,
+      "end": 680.0,
+      "text": " der dufter langt,"
+    },
+    {
+      "start": 680.0,
+      "end": 681.0,
+      "text": " det kan være automatisering."
+    },
+    {
+      "start": 681.0,
+      "end": 682.0,
+      "text": " Hvis det er,"
+    },
+    {
+      "start": 682.0,
+      "end": 683.0,
+      "text": " erret står for actionable,"
+    },
+    {
+      "start": 683.0,
+      "end": 684.0,
+      "text": " så hvis det er sådan en clear action,"
+    },
+    {
+      "start": 684.0,
+      "end": 685.0,
+      "text": " det her skal du gøre hver gang,"
+    },
+    {
+      "start": 685.0,
+      "end": 686.0,
+      "text": " at det ikke er sådan noget,"
+    },
+    {
+      "start": 686.0,
+      "end": 687.0,
+      "text": " ah, men hvis den lige falder ud til højre"
+    },
+    {
+      "start": 687.0,
+      "end": 688.0,
+      "text": " eller venstre,"
+    },
+    {
+      "start": 688.0,
+      "end": 689.0,
+      "text": " og det er en moderingssag,"
+    },
+    {
+      "start": 689.0,
+      "end": 690.0,
+      "text": " så skal du selvfølgelig passe på med det,"
+    },
+    {
+      "start": 690.0,
+      "end": 691.0,
+      "text": " i hvert fald,"
+    },
+    {
+      "start": 691.0,
+      "end": 692.0,
+      "text": " men hvis det er sådan en clear,"
+    },
+    {
+      "start": 692.0,
+      "end": 693.0,
+      "text": " tydelig action i det,"
+    },
+    {
+      "start": 693.0,
+      "end": 694.0,
+      "text": " du laver,"
+    },
+    {
+      "start": 694.0,
+      "end": 695.0,
+      "text": " som altid kan falde ud til højre"
+    },
+    {
+      "start": 695.0,
+      "end": 696.0,
+      "text": " eller til venstre,"
+    },
+    {
+      "start": 696.0,
+      "end": 697.0,
+      "text": " så gælder det gode inden for,"
+    },
+    {
+      "start": 697.0,
+      "end": 698.0,
+      "text": " at du gør det,"
+    },
+    {
+      "start": 698.0,
+      "end": 699.0,
+      "text": " og det gælder gode inden for,"
+    },
+    {
+      "start": 700.0,
+      "end": 701.0,
+      "text": " der er sådan en clear,"
+    },
+    {
+      "start": 701.0,
+      "end": 702.0,
+      "text": " tydelig action i det,"
+    },
+    {
+      "start": 702.0,
+      "end": 703.0,
+      "text": " du laver,"
+    },
+    {
+      "start": 703.0,
+      "end": 705.0,
+      "text": " som altid kan falde ud til højre"
+    },
+    {
+      "start": 705.0,
+      "end": 706.0,
+      "text": " eller til venstre,"
+    },
+    {
+      "start": 706.0,
+      "end": 707.0,
+      "text": " så gælder det gode inden for."
+    },
+    {
+      "start": 707.0,
+      "end": 709.0,
+      "text": " Tidet står for time consuming,"
+    },
+    {
+      "start": 709.0,
+      "end": 710.0,
+      "text": " opgaver,"
+    },
+    {
+      "start": 710.0,
+      "end": 711.0,
+      "text": " der selv,"
+    },
+    {
+      "start": 711.0,
+      "end": 712.0,
+      "text": " i helt simpel form,"
+    },
+    {
+      "start": 712.0,
+      "end": 713.0,
+      "text": " bare tager tid"
+    },
+    {
+      "start": 713.0,
+      "end": 714.0,
+      "text": " og løser manuelt."
+    },
+    {
+      "start": 714.0,
+      "end": 715.0,
+      "text": " Og så er den sidste,"
+    },
+    {
+      "start": 715.0,
+      "end": 716.0,
+      "text": " det er ligesom error prone,"
+    },
+    {
+      "start": 716.0,
+      "end": 717.0,
+      "text": " så hvis der igen er stor,"
+    },
+    {
+      "start": 717.0,
+      "end": 718.0,
+      "text": " enten opgaver,"
+    },
+    {
+      "start": 718.0,
+      "end": 719.0,
+      "text": " der har tendens til,"
+    },
+    {
+      "start": 719.0,
+      "end": 720.0,
+      "text": " eller har store konsekvenser,"
+    },
+    {
+      "start": 720.0,
+      "end": 721.0,
+      "text": " ved,"
+    },
+    {
+      "start": 721.0,
+      "end": 722.0,
+      "text": " at du laver manuel input,"
+    },
+    {
+      "start": 722.0,
+      "end": 723.0,
+      "text": " eller laver manuel arbejde i det,"
+    },
+    {
+      "start": 723.0,
+      "end": 724.0,
+      "text": " så kan det også være en rigtig,"
+    },
+    {
+      "start": 724.0,
+      "end": 725.0,
+      "text": " rigtig god idé,"
+    },
+    {
+      "start": 725.0,
+      "end": 726.0,
+      "text": " at sætte det på formel,"
+    },
+    {
+      "start": 726.0,
+      "end": 727.0,
+      "text": " selvom det igen,"
+    },
+    {
+      "start": 727.0,
+      "end": 728.0,
+      "text": " kan være lidt mere kompleks."
+    },
+    {
+      "start": 728.0,
+      "end": 729.0,
+      "text": " Og jeg vil næsten sige,"
+    },
+    {
+      "start": 729.0,
+      "end": 730.0,
+      "text": " hvis bare en af de her fire,"
+    },
+    {
+      "start": 730.0,
+      "end": 731.0,
+      "text": " er rater højt,"
+    },
+    {
+      "start": 731.0,
+      "end": 732.0,
+      "text": " i den egen vurdering,"
+    },
+    {
+      "start": 732.0,
+      "end": 733.0,
+      "text": " af den opgave,"
+    },
+    {
+      "start": 733.0,
+      "end": 734.0,
+      "text": " du vil have løst,"
+    },
+    {
+      "start": 734.0,
+      "end": 735.0,
+      "text": " så synes jeg,"
+    },
+    {
+      "start": 735.0,
+      "end": 736.0,
+      "text": " man skal,"
+    },
+    {
+      "start": 736.0,
+      "end": 737.0,
+      "text": " så er det i hvert fald,"
+    },
+    {
+      "start": 737.0,
+      "end": 738.0,
+      "text": " en af de her opgaver,"
+    },
+    {
+      "start": 738.0,
+      "end": 739.0,
+      "text": " som er autoriserede."
+    },
+    {
+      "start": 739.0,
+      "end": 740.0,
+      "text": " Ej,"
+    },
+    {
+      "start": 740.0,
+      "end": 741.0,
+      "text": " du taler lige til mit,"
+    },
+    {
+      "start": 741.0,
+      "end": 742.0,
+      "text": " processifying hjerte,"
+    },
+    {
+      "start": 742.0,
+      "end": 743.0,
+      "text": " processhjerte."
+    },
+    {
+      "start": 743.0,
+      "end": 744.0,
+      "text": " Jeg tror ikke,"
+    },
+    {
+      "start": 744.0,
+      "end": 745.0,
+      "text": " Halvstan er helt med på,"
+    },
+    {
+      "start": 745.0,
+      "end": 746.0,
+      "text": " hvad du mener,"
+    },
+    {
+      "start": 746.0,
+      "end": 747.0,
+      "text": " men jeg elsker det."
+    },
+    {
+      "start": 747.0,
+      "end": 748.0,
+      "text": " Jeg kommer ikke til at sige,"
+    },
+    {
+      "start": 748.0,
+      "end": 749.0,
+      "text": " særlig meget her,"
+    },
+    {
+      "start": 749.0,
+      "end": 750.0,
+      "text": " jeg,"
+    },
+    {
+      "start": 750.0,
+      "end": 751.0,
+      "text": " altså,"
+    },
+    {
+      "start": 751.0,
+      "end": 752.0,
+      "text": " alt det her var manuelt,"
+    },
+    {
+      "start": 752.0,
+      "end": 753.0,
+      "text": " for mig."
+    },
+    {
+      "start": 753.0,
+      "end": 754.0,
+      "text": " Jeg,"
+    },
+    {
+      "start": 754.0,
+      "end": 755.0,
+      "text": " jeg har sådan et princip,"
+    },
+    {
+      "start": 755.0,
+      "end": 756.0,
+      "text": " der hedder,"
+    },
+    {
+      "start": 756.0,
+      "end": 757.0,
+      "text": " hvis jeg kan gøre noget manuelt,"
+    },
+    {
+      "start": 757.0,
+      "end": 758.0,
+      "text": " så gør jeg det,"
+    },
+    {
+      "start": 758.0,
+      "end": 759.0,
+      "text": " indtil til nu,"
+    },
+    {
+      "start": 759.0,
+      "end": 760.0,
+      "text": " hvor man afsmatterer det."
+    },
+    {
+      "start": 760.0,
+      "end": 761.0,
+      "text": " Jeg vil også sige,"
+    },
+    {
+      "start": 761.0,
+      "end": 762.0,
+      "text": " der er jo den der dejlige regler,"
+    },
+    {
+      "start": 762.0,
+      "end": 763.0,
+      "text": " vi kender,"
+    },
+    {
+      "start": 763.0,
+      "end": 764.0,
+      "text": " hvis en opgave tager under fem minutter,"
+    },
+    {
+      "start": 764.0,
+      "end": 765.0,
+      "text": " så får den fixet,"
+    },
+    {
+      "start": 765.0,
+      "end": 766.0,
+      "text": " så får den klaret,"
+    },
+    {
+      "start": 766.0,
+      "end": 767.0,
+      "text": " altså sådan ligesom,"
+    },
+    {
+      "start": 767.0,
+      "end": 768.0,
+      "text": " men jeg kan også se,"
+    },
+    {
+      "start": 768.0,
+      "end": 769.0,
+      "text": " at det her,"
+    },
+    {
+      "start": 769.0,
+      "end": 770.0,
+      "text": " det rimer på meget det,"
+    },
+    {
+      "start": 770.0,
+      "end": 771.0,
+      "text": " når vi sidder og løber vores merchants igennem,"
+    },
+    {
+      "start": 771.0,
+      "end": 772.0,
+      "text": " der er mange,"
+    },
+    {
+      "start": 772.0,
+      "end": 773.0,
+      "text": " der ikke når til deres growth,"
+    },
+    {
+      "start": 773.0,
+      "end": 774.0,
+      "text": " fordi de bare har 17 snore på fingeren,"
+    },
+    {
+      "start": 774.0,
+      "end": 775.0,
+      "text": " fordi deres operations,"
+    },
+    {
+      "start": 775.0,
+      "end": 776.0,
+      "text": " ligesom,"
+    },
+    {
+      "start": 776.0,
+      "end": 777.0,
+      "text": " er afhængig af,"
+    },
+    {
+      "start": 778.0,
+      "end": 779.0,
+      "text": " de har vel omkring sådan noget,"
+    },
+    {
+      "start": 779.0,
+      "end": 780.0,
+      "text": " 250 aktive flows,"
+    },
+    {
+      "start": 780.0,
+      "end": 781.0,
+      "text": " og det vil jeg absolut ikke anbefale,"
+    },
+    {
+      "start": 781.0,
+      "end": 782.0,
+      "text": " bare at kaste sig ud i,"
+    },
+    {
+      "start": 782.0,
+      "end": 783.0,
+      "text": " med det samme,"
+    },
+    {
+      "start": 783.0,
+      "end": 784.0,
+      "text": " men det betyder altså bare,"
+    },
+    {
+      "start": 784.0,
+      "end": 785.0,
+      "text": " hele deres operations,"
+    },
+    {
+      "start": 785.0,
+      "end": 786.0,
+      "text": " er på autopilot,"
+    },
+    {
+      "start": 786.0,
+      "end": 787.0,
+      "text": " og det er ret fedt,"
+    },
+    {
+      "start": 787.0,
+      "end": 788.0,
+      "text": " at hverken der er noget,"
+    },
+    {
+      "start": 788.0,
+      "end": 789.0,
+      "text": " der ikke er,"
+    },
+    {
+      "start": 789.0,
+      "end": 790.0,
+      "text": " som det skal være,"
+    },
+    {
+      "start": 790.0,
+      "end": 791.0,
+      "text": " så får du en alarm på det,"
+    },
+    {
+      "start": 791.0,
+      "end": 792.0,
+      "text": " i stedet for,"
+    },
+    {
+      "start": 792.0,
+      "end": 793.0,
+      "text": " at du skal sidde og finde ud af,"
+    },
+    {
+      "start": 793.0,
+      "end": 794.0,
+      "text": " og skal løse det hele tiden,"
+    },
+    {
+      "start": 794.0,
+      "end": 795.0,
+      "text": " så du har ligesom,"
+    },
+    {
+      "start": 795.0,
+      "end": 796.0,
+      "text": " vendt den rundt,"
+    },
+    {
+      "start": 796.0,
+      "end": 797.0,
+      "text": " fra at sidde og gennemgå en masse ting,"
+    },
+    {
+      "start": 797.0,
+      "end": 798.0,
+      "text": " til bare at sætte den på autopilot,"
+    },
+    {
+      "start": 798.0,
+      "end": 799.0,
+      "text": " og så får alarmerne,"
+    },
+    {
+      "start": 799.0,
+      "end": 800.0,
+      "text": " når der er noget,"
+    },
+    {
+      "start": 800.0,
+      "end": 801.0,
+      "text": " der ikke kører sådan en skæring,"
+    },
+    {
+      "start": 802.0,
+      "end": 803.0,
+      "text": " og ja,"
+    },
+    {
+      "start": 803.0,
+      "end": 804.0,
+      "text": " så kommer vi til spørgsmålet,"
+    },
+    {
+      "start": 804.0,
+      "end": 805.0,
+      "text": " hvor skal man bruge det hen,"
+    },
+    {
+      "start": 805.0,
+      "end": 806.0,
+      "text": " hvad er nogle gode eksempler på det,"
+    },
+    {
+      "start": 806.0,
+      "end": 807.0,
+      "text": " jeg vil klart,"
+    },
+    {
+      "start": 807.0,
+      "end": 808.0,
+      "text": " hvis man kaster sig ud i det her,"
+    },
+    {
+      "start": 808.0,
+      "end": 809.0,
+      "text": " og man ikke har prøvet det før,"
+    },
+    {
+      "start": 809.0,
+      "end": 810.0,
+      "text": " så vil jeg virkelig,"
+    },
+    {
+      "start": 810.0,
+      "end": 811.0,
+      "text": " gå stille og roligt til det,"
+    },
+    {
+      "start": 811.0,
+      "end": 812.0,
+      "text": " jeg vil ikke gå i gang,"
+    },
+    {
+      "start": 812.0,
+      "end": 813.0,
+      "text": " med bare at kaste mig ud i,"
+    },
+    {
+      "start": 813.0,
+      "end": 814.0,
+      "text": " de her 250 flows,"
+    },
+    {
+      "start": 814.0,
+      "end": 815.0,
+      "text": " for det er også en øvelse,"
+    },
+    {
+      "start": 815.0,
+      "end": 816.0,
+      "text": " man skal lære,"
+    },
+    {
+      "start": 816.0,
+      "end": 817.0,
+      "text": " og man kan også godt komme til,"
+    },
+    {
+      "start": 817.0,
+      "end": 818.0,
+      "text": " at bygge for komplekser flows,"
+    },
+    {
+      "start": 818.0,
+      "end": 819.0,
+      "text": " altså hvis man ikke hilder styr på det her,"
+    },
+    {
+      "start": 819.0,
+      "end": 820.0,
+      "text": " man kaster sig ud i,"
+    },
+    {
+      "start": 820.0,
+      "end": 821.0,
+      "text": " så kan man hurtigt få det overgjort,"
+    },
+    {
+      "start": 821.0,
+      "end": 822.0,
+      "text": " og så lige pludselig,"
+    },
+    {
+      "start": 822.0,
+      "end": 823.0,
+      "text": " har man 17 flows,"
+    },
+    {
+      "start": 823.0,
+      "end": 824.0,
+      "text": " og man skal lige huske at dokumentere,"
+    },
+    {
+      "start": 824.0,
+      "end": 825.0,
+      "text": " og hvad den er,"
+    },
+    {
+      "start": 825.0,
+      "end": 826.0,
+      "text": " altså der er ikke sådan,"
+    },
+    {
+      "start": 826.0,
+      "end": 827.0,
+      "text": " og det er faktisk en af de ting,"
+    },
+    {
+      "start": 827.0,
+      "end": 828.0,
+      "text": " der måske mangler lidt,"
+    },
+    {
+      "start": 828.0,
+      "end": 829.0,
+      "text": " i Shopify flows,"
+    },
+    {
+      "start": 829.0,
+      "end": 830.0,
+      "text": " der er ikke sådan et godt system til,"
+    },
+    {
+      "start": 830.0,
+      "end": 831.0,
+      "text": " hvilke flows gør hvad,"
+    },
+    {
+      "start": 831.0,
+      "end": 832.0,
+      "text": " lidt overskueligt,"
+    },
+    {
+      "start": 832.0,
+      "end": 833.0,
+      "text": " så det er op til dig selv,"
+    },
+    {
+      "start": 833.0,
+      "end": 834.0,
+      "text": " hvordan du husker,"
+    },
+    {
+      "start": 834.0,
+      "end": 835.0,
+      "text": " at navngive dine flows,"
+    },
+    {
+      "start": 835.0,
+      "end": 836.0,
+      "text": " så det her med at sige,"
+    },
+    {
+      "start": 836.0,
+      "end": 837.0,
+      "text": " flow 1 og flow 1 test,"
+    },
+    {
+      "start": 837.0,
+      "end": 838.0,
+      "text": " og flow 1 v2,"
+    },
+    {
+      "start": 838.0,
+      "end": 839.0,
+      "text": " og flow 1 v3,"
+    },
+    {
+      "start": 839.0,
+      "end": 840.0,
+      "text": " så er du doomed,"
+    },
+    {
+      "start": 840.0,
+      "end": 841.0,
+      "text": " altså sådan,"
+    },
+    {
+      "start": 841.0,
+      "end": 842.0,
+      "text": " før du overhovedet er i gang."
+    },
+    {
+      "start": 842.0,
+      "end": 843.0,
+      "text": " Så den dokumentation,"
+    },
+    {
+      "start": 843.0,
+      "end": 844.0,
+      "text": " skal man egentlig selv sørge for,"
+    },
+    {
+      "start": 844.0,
+      "end": 845.0,
+      "text": " at der er lidt,"
+    },
+    {
+      "start": 845.0,
+      "end": 846.0,
+      "text": " fordi det kan du huske,"
+    },
+    {
+      "start": 846.0,
+      "end": 847.0,
+      "text": " at der kommer lidt tagging,"
+    },
+    {
+      "start": 848.0,
+      "end": 849.0,
+      "text": " fordi det kan også blive for meget,"
+    },
+    {
+      "start": 849.0,
+      "end": 850.0,
+      "text": " og så lige pludselig,"
+    },
+    {
+      "start": 850.0,
+      "end": 851.0,
+      "text": " sker der en eller anden,"
+    },
+    {
+      "start": 851.0,
+      "end": 852.0,
+      "text": " du ikke er herover,"
+    },
+    {
+      "start": 852.0,
+      "end": 853.0,
+      "text": " fordi du har bygget to flows,"
+    },
+    {
+      "start": 853.0,
+      "end": 854.0,
+      "text": " der er konstere,"
+    },
+    {
+      "start": 854.0,
+      "end": 855.0,
+      "text": " støder en af dem,"
+    },
+    {
+      "start": 855.0,
+      "end": 856.0,
+      "text": " og så ender du med et eller andet,"
+    },
+    {
+      "start": 856.0,
+      "end": 857.0,
+      "text": " der overhovedet ikke fungerer,"
+    },
+    {
+      "start": 857.0,
+      "end": 858.0,
+      "text": " og så er du skudt dig selv i fod,"
+    },
+    {
+      "start": 858.0,
+      "end": 859.0,
+      "text": " i stedet for,"
+    },
+    {
+      "start": 859.0,
+      "end": 860.0,
+      "text": " hvor du prøver at gøre det smartere."
+    },
+    {
+      "start": 860.0,
+      "end": 861.0,
+      "text": " Men nej,"
+    },
+    {
+      "start": 861.0,
+      "end": 862.0,
+      "text": " altså sådan et område,"
+    },
+    {
+      "start": 862.0,
+      "end": 863.0,
+      "text": " hvor man kan bruge det her,"
+    },
+    {
+      "start": 863.0,
+      "end": 864.0,
+      "text": " jamen order management,"
+    },
+    {
+      "start": 864.0,
+      "end": 865.0,
+      "text": " ligger ofte til højre spørgten."
+    },
+    {
+      "start": 865.0,
+      "end": 866.0,
+      "text": " Når der er noget,"
+    },
+    {
+      "start": 866.0,
+      "end": 867.0,
+      "text": " der skal komme ind,"
+    },
+    {
+      "start": 867.0,
+      "end": 868.0,
+      "text": " jamen det er det,"
+    },
+    {
+      "start": 868.0,
+      "end": 869.0,
+      "text": " der er vigtigt,"
+    },
+    {
+      "start": 869.0,
+      "end": 870.0,
+      "text": " og det er det,"
+    },
+    {
+      "start": 870.0,
+      "end": 871.0,
+      "text": " der er vigtigt,"
+    },
+    {
+      "start": 877.0,
+      "end": 878.0,
+      "text": " så er der nogle ting,"
+    },
+    {
+      "start": 878.0,
+      "end": 879.0,
+      "text": " vi gerne vil gøre automatisk,"
+    },
+    {
+      "start": 879.0,
+      "end": 880.0,
+      "text": " det kunne lige så vel være,"
+    },
+    {
+      "start": 880.0,
+      "end": 881.0,
+      "text": " også håndtere noget dropshipping,"
+    },
+    {
+      "start": 881.0,
+      "end": 882.0,
+      "text": " og alle mulige ting,"
+    },
+    {
+      "start": 882.0,
+      "end": 883.0,
+      "text": " som sådan set også kan garanteres,"
+    },
+    {
+      "start": 883.0,
+      "end": 884.0,
+      "text": " i sådan et setup her."
+    },
+    {
+      "start": 884.0,
+      "end": 885.0,
+      "text": " Og ja,"
+    },
+    {
+      "start": 885.0,
+      "end": 888.0,
+      "text": " nu hører du mit fine slide herfra,"
+    },
+    {
+      "start": 888.0,
+      "end": 889.0,
+      "text": " her igen,"
+    },
+    {
+      "start": 889.0,
+      "end": 890.0,
+      "text": " altså sådan en ting er,"
+    },
+    {
+      "start": 890.0,
+      "end": 891.0,
+      "text": " at man ligesom kan gøre,"
+    },
+    {
+      "start": 891.0,
+      "end": 894.0,
+      "text": " de her alarmer på unfulfilled orders,"
+    },
+    {
+      "start": 894.0,
+      "end": 895.0,
+      "text": " man kan holde en fulfillment,"
+    },
+    {
+      "start": 895.0,
+      "end": 896.0,
+      "text": " hvis der er en kunde,"
+    },
+    {
+      "start": 896.0,
+      "end": 897.0,
+      "text": " der placerer flere,"
+    },
+    {
+      "start": 897.0,
+      "end": 898.0,
+      "text": " så man kan nå at pakke dem sammen,"
+    },
+    {
+      "start": 898.0,
+      "end": 899.0,
+      "text": " og spare shippingen,"
+    },
+    {
+      "start": 899.0,
+      "end": 900.0,
+      "text": " man kan tilføje shipping,"
+    },
+    {
+      "start": 900.0,
+      "end": 901.0,
+      "text": " man kan,"
+    },
+    {
+      "start": 901.0,
+      "end": 902.0,
+      "text": " eller draft produkter,"
+    },
+    {
+      "start": 902.0,
+      "end": 903.0,
+      "text": " man kan lave,"
+    },
+    {
+      "start": 903.0,
+      "end": 904.0,
+      "text": " for meget B2B også,"
+    },
+    {
+      "start": 904.0,
+      "end": 905.0,
+      "text": " nogle handling fees,"
+    },
+    {
+      "start": 905.0,
+      "end": 906.0,
+      "text": " lad os sige,"
+    },
+    {
+      "start": 907.0,
+      "end": 908.0,
+      "text": " hvor man sidder,"
+    },
+    {
+      "start": 908.0,
+      "end": 909.0,
+      "text": " og skaber en masse manuel order,"
+    },
+    {
+      "start": 909.0,
+      "end": 910.0,
+      "text": " hvis de glemmer at lægge et fee på,"
+    },
+    {
+      "start": 910.0,
+      "end": 911.0,
+      "text": " så kan du sørge for,"
+    },
+    {
+      "start": 911.0,
+      "end": 912.0,
+      "text": " at det automatisk bliver langt på,"
+    },
+    {
+      "start": 912.0,
+      "end": 913.0,
+      "text": " eller hvis de glemmer at lægge shipping på,"
+    },
+    {
+      "start": 913.0,
+      "end": 914.0,
+      "text": " så kan du sørge for,"
+    },
+    {
+      "start": 914.0,
+      "end": 915.0,
+      "text": " at det automatisk bliver langt på."
+    },
+    {
+      "start": 915.0,
+      "end": 918.0,
+      "text": " Men der er faktisk allerede to her,"
+    },
+    {
+      "start": 918.0,
+      "end": 919.0,
+      "text": " som jeg tænker,"
+    },
+    {
+      "start": 919.0,
+      "end": 920.0,
+      "text": " vil løse nogle konkrete problemer."
+    },
+    {
+      "start": 920.0,
+      "end": 921.0,
+      "text": " Den ene,"
+    },
+    {
+      "start": 921.0,
+      "end": 922.0,
+      "text": " det er den her automatisk kundebeskrivelige forsinkelse,"
+    },
+    {
+      "start": 922.0,
+      "end": 923.0,
+      "text": " fordi det er jo bare god kundeservice,"
+    },
+    {
+      "start": 923.0,
+      "end": 924.0,
+      "text": " og det er jeg sikker på,"
+    },
+    {
+      "start": 924.0,
+      "end": 925.0,
+      "text": " det kan spare en,"
+    },
+    {
+      "start": 925.0,
+      "end": 926.0,
+      "text": " fra nogle etstjernede trustpile anmeldelser,"
+    },
+    {
+      "start": 926.0,
+      "end": 927.0,
+      "text": " ved bare at kommunikere på forhånd."
+    },
+    {
+      "start": 928.0,
+      "end": 930.0,
+      "text": " Så hvis nu tager sådan en som den her,"
+    },
+    {
+      "start": 930.0,
+      "end": 932.0,
+      "text": " hvad vil triggeret være på den her?"
+    },
+    {
+      "start": 932.0,
+      "end": 933.0,
+      "text": " Er det noget med at sige,"
+    },
+    {
+      "start": 933.0,
+      "end": 934.0,
+      "text": " hvis du har fået en ordre,"
+    },
+    {
+      "start": 934.0,
+      "end": 935.0,
+      "text": " og den ikke er afsendt inden to dage,"
+    },
+    {
+      "start": 935.0,
+      "end": 936.0,
+      "text": " så er den defineret som forsinket,"
+    },
+    {
+      "start": 936.0,
+      "end": 937.0,
+      "text": " og så skyder man en mail afsted til kunden,"
+    },
+    {
+      "start": 937.0,
+      "end": 938.0,
+      "text": " og siger,"
+    },
+    {
+      "start": 938.0,
+      "end": 939.0,
+      "text": " det tager lige et øjeblik mere det her?"
+    },
+    {
+      "start": 939.0,
+      "end": 940.0,
+      "text": " Ja, det kunne være den simple version af det."
+    },
+    {
+      "start": 940.0,
+      "end": 941.0,
+      "text": " Den lidt mere avancerede,"
+    },
+    {
+      "start": 941.0,
+      "end": 942.0,
+      "text": " kunne være,"
+    },
+    {
+      "start": 942.0,
+      "end": 943.0,
+      "text": " at du henter dine leveringstider,"
+    },
+    {
+      "start": 943.0,
+      "end": 944.0,
+      "text": " lad os sige,"
+    },
+    {
+      "start": 944.0,
+      "end": 945.0,
+      "text": " du har nogle forskellige produkter,"
+    },
+    {
+      "start": 945.0,
+      "end": 946.0,
+      "text": " med forskellige leveringstider,"
+    },
+    {
+      "start": 946.0,
+      "end": 947.0,
+      "text": " og så skal du måske lægge det ind,"
+    },
+    {
+      "start": 947.0,
+      "end": 948.0,
+      "text": " som en eller anden ordereje til din prop,"
+    },
+    {
+      "start": 948.0,
+      "end": 949.0,
+      "text": " eller lignende,"
+    },
+    {
+      "start": 950.0,
+      "end": 951.0,
+      "text": " og så lytter du på den i stedet for,"
+    },
+    {
+      "start": 951.0,
+      "end": 952.0,
+      "text": " på bare tiden gået."
+    },
+    {
+      "start": 952.0,
+      "end": 953.0,
+      "text": " Men ja,"
+    },
+    {
+      "start": 953.0,
+      "end": 954.0,
+      "text": " den simple vil være,"
+    },
+    {
+      "start": 954.0,
+      "end": 956.0,
+      "text": " hvis ordrene ikke er fulfilled,"
+    },
+    {
+      "start": 956.0,
+      "end": 958.0,
+      "text": " eller inden for 72 timer,"
+    },
+    {
+      "start": 958.0,
+      "end": 959.0,
+      "text": " kan man så sætte en mail op,"
+    },
+    {
+      "start": 959.0,
+      "end": 960.0,
+      "text": " og sige,"
+    },
+    {
+      "start": 960.0,
+      "end": 961.0,
+      "text": " det er vi ked af,"
+    },
+    {
+      "start": 961.0,
+      "end": 962.0,
+      "text": " vi arbejder på det,"
+    },
+    {
+      "start": 962.0,
+      "end": 963.0,
+      "text": " og vi skal nok gøre alt,"
+    },
+    {
+      "start": 963.0,
+      "end": 964.0,
+      "text": " hvad vi kan for at nå til det."
+    },
+    {
+      "start": 964.0,
+      "end": 965.0,
+      "text": " Ja,"
+    },
+    {
+      "start": 965.0,
+      "end": 966.0,
+      "text": " den der med discountkode,"
+    },
+    {
+      "start": 966.0,
+      "end": 967.0,
+      "text": " den synes jeg også er god,"
+    },
+    {
+      "start": 967.0,
+      "end": 968.0,
+      "text": " fordi en af de ting,"
+    },
+    {
+      "start": 968.0,
+      "end": 969.0,
+      "text": " som Tinju har gjort opmærksom på,"
+    },
+    {
+      "start": 969.0,
+      "end": 970.0,
+      "text": " i tidligere podcast,"
+    },
+    {
+      "start": 970.0,
+      "end": 972.0,
+      "text": " det er det der med at give en discountcode,"
+    },
+    {
+      "start": 972.0,
+      "end": 974.0,
+      "text": " til fx en samarbejdspartner,"
+    },
+    {
+      "start": 974.0,
+      "end": 975.0,
+      "text": " eller en influent,"
+    },
+    {
+      "start": 975.0,
+      "end": 976.0,
+      "text": " eller et eller andet,"
+    },
+    {
+      "start": 976.0,
+      "end": 977.0,
+      "text": " de kan bare lynhurtigt blive spredt,"
+    },
+    {
+      "start": 977.0,
+      "end": 978.0,
+      "text": " og det kan være,"
+    },
+    {
+      "start": 978.0,
+      "end": 979.0,
+      "text": " så websites og apps,"
+    },
+    {
+      "start": 979.0,
+      "end": 980.0,
+      "text": " så hvis tanken var,"
+    },
+    {
+      "start": 980.0,
+      "end": 981.0,
+      "text": " at den her discountcode,"
+    },
+    {
+      "start": 981.0,
+      "end": 982.0,
+      "text": " skulle være forbeholdt nogen få,"
+    },
+    {
+      "start": 982.0,
+      "end": 983.0,
+      "text": " så det at sætte en alarm op,"
+    },
+    {
+      "start": 983.0,
+      "end": 984.0,
+      "text": " og sikre,"
+    },
+    {
+      "start": 984.0,
+      "end": 985.0,
+      "text": " at den ikke lige pludselig bliver bookt,"
+    },
+    {
+      "start": 985.0,
+      "end": 986.0,
+      "text": " på halvdelen af ens ordre,"
+    },
+    {
+      "start": 986.0,
+      "end": 987.0,
+      "text": " er jo super godt,"
+    },
+    {
+      "start": 987.0,
+      "end": 988.0,
+      "text": " Shopify får lov at have sat op,"
+    },
+    {
+      "start": 988.0,
+      "end": 989.0,
+      "text": " altså det kan jo virkelig spare en,"
+    },
+    {
+      "start": 989.0,
+      "end": 990.0,
+      "text": " for nogen penge,"
+    },
+    {
+      "start": 990.0,
+      "end": 991.0,
+      "text": " hvis der er en kode,"
+    },
+    {
+      "start": 991.0,
+      "end": 992.0,
+      "text": " der er blevet spredt,"
+    },
+    {
+      "start": 992.0,
+      "end": 993.0,
+      "text": " som ikke skulle spredes."
+    },
+    {
+      "start": 993.0,
+      "end": 994.0,
+      "text": " Og du kan jo sådan set også arbejde,"
+    },
+    {
+      "start": 994.0,
+      "end": 995.0,
+      "text": " med profiterne på ordrene,"
+    },
+    {
+      "start": 995.0,
+      "end": 996.0,
+      "text": " og sige,"
+    },
+    {
+      "start": 996.0,
+      "end": 997.0,
+      "text": " hey du har fået en ordre,"
+    },
+    {
+      "start": 997.0,
+      "end": 998.0,
+      "text": " der har en gross margin under det her,"
+    },
+    {
+      "start": 998.0,
+      "end": 999.0,
+      "text": " fordi igen,"
+    },
+    {
+      "start": 999.0,
+      "end": 1000.0,
+      "text": " gross margin er også kalkyleret,"
+    },
+    {
+      "start": 1007.0,
+      "end": 1008.0,
+      "text": " og lige så vel,"
+    },
+    {
+      "start": 1008.0,
+      "end": 1009.0,
+      "text": " som jeg også har sagt her,"
+    },
+    {
+      "start": 1009.0,
+      "end": 1010.0,
+      "text": " tag high value ordre,"
+    },
+    {
+      "start": 1010.0,
+      "end": 1011.0,
+      "text": " hvis du vil have noget ekspress,"
+    },
+    {
+      "start": 1011.0,
+      "end": 1012.0,
+      "text": " om det er det,"
+    },
+    {
+      "start": 1012.0,
+      "end": 1013.0,
+      "text": " du har lært,"
+    },
+    {
+      "start": 1013.0,
+      "end": 1014.0,
+      "text": " de her ting er klart nemmere,"
+    },
+    {
+      "start": 1014.0,
+      "end": 1015.0,
+      "text": " når man har adlært en 3pl,"
+    },
+    {
+      "start": 1015.0,
+      "end": 1016.0,
+      "text": " fordi 3pl'ernes it setup,"
+    },
+    {
+      "start": 1016.0,
+      "end": 1017.0,
+      "text": " sætter ofte sådan lidt,"
+    },
+    {
+      "start": 1017.0,
+      "end": 1018.0,
+      "text": " en grænse på,"
+    },
+    {
+      "start": 1018.0,
+      "end": 1019.0,
+      "text": " hvor dynamisk man kan være,"
+    },
+    {
+      "start": 1019.0,
+      "end": 1020.0,
+      "text": " og 3pl er third party logistics,"
+    },
+    {
+      "start": 1020.0,
+      "end": 1021.0,
+      "text": " og så 3pl er bare slagere til dem,"
+    },
+    {
+      "start": 1021.0,
+      "end": 1022.0,
+      "text": " ligemeget på den refrense,"
+    },
+    {
+      "start": 1022.0,
+      "end": 1023.0,
+      "text": " så selvfølgelig er det klart,"
+    },
+    {
+      "start": 1023.0,
+      "end": 1024.0,
+      "text": " at det er lidt nemmere,"
+    },
+    {
+      "start": 1024.0,
+      "end": 1025.0,
+      "text": " hvis man holder tingene i Shopify,"
+    },
+    {
+      "start": 1025.0,
+      "end": 1026.0,
+      "text": " og man har sådan klokken,"
+    },
+    {
+      "start": 1026.0,
+      "end": 1027.0,
+      "text": " og har sådan opgave ruter,"
+    },
+    {
+      "start": 1027.0,
+      "end": 1028.0,
+      "text": " og sådan nogle ting,"
+    },
+    {
+      "start": 1028.0,
+      "end": 1029.0,
+      "text": " i eller tæt på Shopify,"
+    },
+    {
+      "start": 1038.0,
+      "end": 1039.0,
+      "text": " så det kan jo både bruges til kunden,"
+    },
+    {
+      "start": 1039.0,
+      "end": 1040.0,
+      "text": " men det kan også bruges internt,"
+    },
+    {
+      "start": 1040.0,
+      "end": 1041.0,
+      "text": " og sige,"
+    },
+    {
+      "start": 1041.0,
+      "end": 1042.0,
+      "text": " hey, hvorfor har vi ikke sendt den her pakke,"
+    },
+    {
+      "start": 1042.0,
+      "end": 1043.0,
+      "text": " og hvorfor vi ikke over det,"
+    },
+    {
+      "start": 1043.0,
+      "end": 1044.0,
+      "text": " så det er jo både,"
+    },
+    {
+      "start": 1044.0,
+      "end": 1045.0,
+      "text": " jeg tvivler ikke,"
+    },
+    {
+      "start": 1045.0,
+      "end": 1046.0,
+      "text": " det er svært på en eller anden måde,"
+    },
+    {
+      "start": 1046.0,
+      "end": 1047.0,
+      "text": " som både kan være god internt og ekstern,"
+    },
+    {
+      "start": 1047.0,
+      "end": 1050.0,
+      "text": " og det kan bruges i begge leger."
+    },
+    {
+      "start": 1050.0,
+      "end": 1051.0,
+      "text": " Du har et andet flow her,"
+    },
+    {
+      "start": 1051.0,
+      "end": 1052.0,
+      "text": " jeg synes, det er sjovt,"
+    },
+    {
+      "start": 1052.0,
+      "end": 1053.0,
+      "text": " under customer segmentation"
+    },
+    {
+      "start": 1053.0,
+      "end": 1054.0,
+      "text": " og marketing automation."
+    },
+    {
+      "start": 1054.0,
+      "end": 1055.0,
+      "text": " Jeg kan huske,"
+    },
+    {
+      "start": 1055.0,
+      "end": 1056.0,
+      "text": " jeg havde læst en artikel på,"
+    },
+    {
+      "start": 1056.0,
+      "end": 1057.0,
+      "text": " det var faktisk på DR.dk,"
+    },
+    {
+      "start": 1057.0,
+      "end": 1058.0,
+      "text": " om Boost,"
+    },
+    {
+      "start": 1058.0,
+      "end": 1059.0,
+      "text": " den store mode platform,"
+    },
+    {
+      "start": 1059.0,
+      "end": 1060.0,
+      "text": " for et år eller to siden,"
+    },
+    {
+      "start": 1060.0,
+      "end": 1063.0,
+      "text": " hvor de havde bandlyst 9000 kunder,"
+    },
+    {
+      "start": 1064.0,
+      "end": 1066.0,
+      "text": " fra nogensinde at handle på Boost igen."
+    },
+    {
+      "start": 1066.0,
+      "end": 1067.0,
+      "text": " Og årsagen til,"
+    },
+    {
+      "start": 1067.0,
+      "end": 1068.0,
+      "text": " at de havde gjort det,"
+    },
+    {
+      "start": 1068.0,
+      "end": 1069.0,
+      "text": " det var,"
+    },
+    {
+      "start": 1069.0,
+      "end": 1070.0,
+      "text": " at der var 9000 kunderskikere,"
+    },
+    {
+      "start": 1070.0,
+      "end": 1073.0,
+      "text": " som simpelthen udnyttede returen,"
+    },
+    {
+      "start": 1073.0,
+      "end": 1074.0,
+      "text": " i en sådan grad,"
+    },
+    {
+      "start": 1074.0,
+      "end": 1076.0,
+      "text": " at det ikke gav mening for dem længere."
+    },
+    {
+      "start": 1076.0,
+      "end": 1077.0,
+      "text": " Jeg har faktisk fundet den her,"
+    },
+    {
+      "start": 1077.0,
+      "end": 1078.0,
+      "text": " og overskriften,"
+    },
+    {
+      "start": 1078.0,
+      "end": 1079.0,
+      "text": " det er,"
+    },
+    {
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " Boost udelukker omkring 9000 kunder,"
+    },
+    {
+      "start": 1081.0,
+      "end": 1082.0,
+      "text": " for uetisk adfærd."
+    },
+    {
+      "start": 1082.0,
+      "end": 1083.0,
+      "text": " Så de har benyttet den her gratis retur,"
+    },
+    {
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": " til at sende igen og igen og igen,"
+    },
+    {
+      "start": 1085.0,
+      "end": 1086.0,
+      "text": " i en grad,"
+    },
+    {
+      "start": 1086.0,
+      "end": 1088.0,
+      "text": " hvor det er en enormt dårlig forretning for Boost,"
+    },
+    {
+      "start": 1088.0,
+      "end": 1089.0,
+      "text": " at have dem som kunder."
+    },
+    {
+      "start": 1089.0,
+      "end": 1090.0,
+      "text": " Men det kræver lige,"
+    },
+    {
+      "start": 1090.0,
+      "end": 1091.0,
+      "text": " at man identificerer dem."
+    },
+    {
+      "start": 1091.0,
+      "end": 1092.0,
+      "text": " Så du har faktisk lavet"
+    },
+    {
+      "start": 1092.0,
+      "end": 1094.0,
+      "text": " et Shopify Flow eksempel her,"
+    },
+    {
+      "start": 1094.0,
+      "end": 1096.0,
+      "text": " hvor man kan automatisk identificere,"
+    },
+    {
+      "start": 1096.0,
+      "end": 1097.0,
+      "text": " de kunder,"
+    },
+    {
+      "start": 1097.0,
+      "end": 1098.0,
+      "text": " som bliver ved med at returnere,"
+    },
+    {
+      "start": 1098.0,
+      "end": 1099.0,
+      "text": " måske med henblik på at udelukke dem,"
+    },
+    {
+      "start": 1099.0,
+      "end": 1100.0,
+      "text": " hen ad vejen."
+    },
+    {
+      "start": 1100.0,
+      "end": 1101.0,
+      "text": " Kan du ikke forklare,"
+    },
+    {
+      "start": 1101.0,
+      "end": 1102.0,
+      "text": " hvordan det virker?"
+    },
+    {
+      "start": 1102.0,
+      "end": 1103.0,
+      "text": " Jo, man kan egentlig gøre det,"
+    },
+    {
+      "start": 1103.0,
+      "end": 1104.0,
+      "text": " på to forskellige måder."
+    },
+    {
+      "start": 1104.0,
+      "end": 1105.0,
+      "text": " Men igen,"
+    },
+    {
+      "start": 1105.0,
+      "end": 1106.0,
+      "text": " når vi er inde i Shopify basen,"
+    },
+    {
+      "start": 1106.0,
+      "end": 1107.0,
+      "text": " og vi ligesom har Shopify,"
+    },
+    {
+      "start": 1107.0,
+      "end": 1108.0,
+      "text": " som vores eneste platform,"
+    },
+    {
+      "start": 1108.0,
+      "end": 1109.0,
+      "text": " igen i et e-commerce billede her,"
+    },
+    {
+      "start": 1109.0,
+      "end": 1110.0,
+      "text": " og ellers,"
+    },
+    {
+      "start": 1110.0,
+      "end": 1111.0,
+      "text": " selvfølgelig også,"
+    },
+    {
+      "start": 1111.0,
+      "end": 1112.0,
+      "text": " hvor der er e-commerce på os,"
+    },
+    {
+      "start": 1112.0,
+      "end": 1113.0,
+      "text": " men også kører Shopify på os."
+    },
+    {
+      "start": 1113.0,
+      "end": 1114.0,
+      "text": " Så det er dejligt,"
+    },
+    {
+      "start": 1114.0,
+      "end": 1115.0,
+      "text": " ved at have den der unified data,"
+    },
+    {
+      "start": 1115.0,
+      "end": 1116.0,
+      "text": " og ligesom det fulde kundeview,"
+    },
+    {
+      "start": 1116.0,
+      "end": 1117.0,
+      "text": " over alle transaktioner,"
+    },
+    {
+      "start": 1117.0,
+      "end": 1118.0,
+      "text": " der er på kunden."
+    },
+    {
+      "start": 1118.0,
+      "end": 1119.0,
+      "text": " Det er,"
+    },
+    {
+      "start": 1119.0,
+      "end": 1120.0,
+      "text": " at du netop kan lave,"
+    },
+    {
+      "start": 1120.0,
+      "end": 1121.0,
+      "text": " de meget simple kalkuleringer,"
+    },
+    {
+      "start": 1121.0,
+      "end": 1122.0,
+      "text": " fordi i virkeligheden,"
+    },
+    {
+      "start": 1122.0,
+      "end": 1123.0,
+      "text": " så er det jo ikke så svært."
+    },
+    {
+      "start": 1123.0,
+      "end": 1124.0,
+      "text": " Du kigger på et kundekort,"
+    },
+    {
+      "start": 1124.0,
+      "end": 1125.0,
+      "text": " som man kan sige hedder,"
+    },
+    {
+      "start": 1125.0,
+      "end": 1126.0,
+      "text": " kundens profil,"
+    },
+    {
+      "start": 1126.0,
+      "end": 1127.0,
+      "text": " og ser,"
+    },
+    {
+      "start": 1127.0,
+      "end": 1128.0,
+      "text": " hvor mange ordre,"
+    },
+    {
+      "start": 1128.0,
+      "end": 1129.0,
+      "text": " har de haft,"
+    },
+    {
+      "start": 1129.0,
+      "end": 1130.0,
+      "text": " hvor mange har de returneret."
+    },
+    {
+      "start": 1130.0,
+      "end": 1131.0,
+      "text": " Og så kan man arbejde med,"
+    },
+    {
+      "start": 1131.0,
+      "end": 1132.0,
+      "text": " enten om det er counted,"
+    },
+    {
+      "start": 1132.0,
+      "end": 1133.0,
+      "text": " af antallet returer,"
+    },
+    {
+      "start": 1133.0,
+      "end": 1134.0,
+      "text": " de har haft,"
+    },
+    {
+      "start": 1134.0,
+      "end": 1135.0,
+      "text": " eller om det er procenten,"
+    },
+    {
+      "start": 1135.0,
+      "end": 1136.0,
+      "text": " af antallet ordre i alt."
+    },
+    {
+      "start": 1136.0,
+      "end": 1137.0,
+      "text": " Altså,"
+    },
+    {
+      "start": 1137.0,
+      "end": 1138.0,
+      "text": " det er counted på returertid,"
+    },
+    {
+      "start": 1138.0,
+      "end": 1139.0,
+      "text": " med antallet ordre i alt."
+    },
+    {
+      "start": 1139.0,
+      "end": 1140.0,
+      "text": " Og så kan du egentlig,"
+    },
+    {
+      "start": 1140.0,
+      "end": 1141.0,
+      "text": " bare kalkulere det,"
+    },
+    {
+      "start": 1147.0,
+      "end": 1148.0,
+      "text": " eller i sjovfærdige,"
+    },
+    {
+      "start": 1148.0,
+      "end": 1149.0,
+      "text": " hvad hedder det,"
+    },
+    {
+      "start": 1149.0,
+      "end": 1150.0,
+      "text": " merchants bruger."
+    },
+    {
+      "start": 1150.0,
+      "end": 1151.0,
+      "text": " Og der søger de her ting,"
+    },
+    {
+      "start": 1151.0,
+      "end": 1152.0,
+      "text": " jo med over."
+    },
+    {
+      "start": 1152.0,
+      "end": 1153.0,
+      "text": " Så så længe du laver det,"
+    },
+    {
+      "start": 1153.0,
+      "end": 1154.0,
+      "text": " som midtfjord,"
+    },
+    {
+      "start": 1154.0,
+      "end": 1155.0,
+      "text": " kan du lave det som property,"
+    },
+    {
+      "start": 1155.0,
+      "end": 1156.0,
+      "text": " derovre."
+    },
+    {
+      "start": 1156.0,
+      "end": 1157.0,
+      "text": " Så kan du begynde at dreje med at sige,"
+    },
+    {
+      "start": 1157.0,
+      "end": 1158.0,
+      "text": " selvfølgelig skal de da ikke,"
+    },
+    {
+      "start": 1158.0,
+      "end": 1159.0,
+      "text": " have min salekampagne,"
+    },
+    {
+      "start": 1159.0,
+      "end": 1160.0,
+      "text": " og så kan du sætte grænsen forskelligt,"
+    },
+    {
+      "start": 1160.0,
+      "end": 1161.0,
+      "text": " fra hvor det skal være,"
+    },
+    {
+      "start": 1161.0,
+      "end": 1162.0,
+      "text": " og sådan nogle ting."
+    },
+    {
+      "start": 1162.0,
+      "end": 1163.0,
+      "text": " Men det du helt simpelt gør,"
+    },
+    {
+      "start": 1163.0,
+      "end": 1164.0,
+      "text": " det er at du siger,"
+    },
+    {
+      "start": 1164.0,
+      "end": 1165.0,
+      "text": " at du looper på kunden,"
+    },
+    {
+      "start": 1165.0,
+      "end": 1166.0,
+      "text": " og siger,"
+    },
+    {
+      "start": 1166.0,
+      "end": 1167.0,
+      "text": " lad os tjekke,"
+    },
+    {
+      "start": 1167.0,
+      "end": 1168.0,
+      "text": " hvad den her kunde har af ordre,"
+    },
+    {
+      "start": 1168.0,
+      "end": 1169.0,
+      "text": " hvor mange returer er der der,"
+    },
+    {
+      "start": 1169.0,
+      "end": 1170.0,
+      "text": " og det er faktisk,"
+    },
+    {
+      "start": 1170.0,
+      "end": 1171.0,
+      "text": " der skal du igen,"
+    },
+    {
+      "start": 1171.0,
+      "end": 1172.0,
+      "text": " det er lidt mere kompleks,"
+    },
+    {
+      "start": 1172.0,
+      "end": 1173.0,
+      "text": " det er ikke sådan helt ud af boksen,"
+    },
+    {
+      "start": 1173.0,
+      "end": 1174.0,
+      "text": " men du skal lave en lille smule kode,"
+    },
+    {
+      "start": 1174.0,
+      "end": 1175.0,
+      "text": " men vi snakker,"
+    },
+    {
+      "start": 1175.0,
+      "end": 1176.0,
+      "text": " 5 linjers kode,"
+    },
+    {
+      "start": 1176.0,
+      "end": 1177.0,
+      "text": " max vil jeg sige."
+    },
+    {
+      "start": 1177.0,
+      "end": 1178.0,
+      "text": " Og så påstår du det her tilbage,"
+    },
+    {
+      "start": 1178.0,
+      "end": 1179.0,
+      "text": " ind på kunden,"
+    },
+    {
+      "start": 1179.0,
+      "end": 1180.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1180.0,
+      "end": 1181.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1181.0,
+      "end": 1182.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1182.0,
+      "end": 1183.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1183.0,
+      "end": 1184.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1184.0,
+      "end": 1185.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1185.0,
+      "end": 1186.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1186.0,
+      "end": 1187.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1187.0,
+      "end": 1188.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1188.0,
+      "end": 1189.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1189.0,
+      "end": 1190.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1190.0,
+      "end": 1191.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1191.0,
+      "end": 1192.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1192.0,
+      "end": 1193.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1193.0,
+      "end": 1194.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1194.0,
+      "end": 1195.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1195.0,
+      "end": 1196.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1196.0,
+      "end": 1197.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1197.0,
+      "end": 1198.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1228.0,
+      "end": 1229.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1229.0,
+      "end": 1230.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1230.0,
+      "end": 1231.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1231.0,
+      "end": 1232.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1232.0,
+      "end": 1233.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1233.0,
+      "end": 1234.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1234.0,
+      "end": 1235.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1235.0,
+      "end": 1236.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1236.0,
+      "end": 1237.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1237.0,
+      "end": 1238.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1238.0,
+      "end": 1239.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1239.0,
+      "end": 1240.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1240.0,
+      "end": 1241.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1241.0,
+      "end": 1242.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1242.0,
+      "end": 1243.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1243.0,
+      "end": 1244.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1244.0,
+      "end": 1245.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1245.0,
+      "end": 1246.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1246.0,
+      "end": 1247.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1247.0,
+      "end": 1248.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1248.0,
+      "end": 1249.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1249.0,
+      "end": 1250.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1250.0,
+      "end": 1251.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1251.0,
+      "end": 1252.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1252.0,
+      "end": 1253.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1253.0,
+      "end": 1254.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1254.0,
+      "end": 1255.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1255.0,
+      "end": 1256.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1256.0,
+      "end": 1257.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1257.0,
+      "end": 1258.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1258.0,
+      "end": 1259.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1259.0,
+      "end": 1260.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1260.0,
+      "end": 1261.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1261.0,
+      "end": 1262.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1262.0,
+      "end": 1263.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1263.0,
+      "end": 1264.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1264.0,
+      "end": 1265.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1265.0,
+      "end": 1266.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1266.0,
+      "end": 1267.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1267.0,
+      "end": 1268.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1268.0,
+      "end": 1269.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1269.0,
+      "end": 1270.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1270.0,
+      "end": 1271.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1271.0,
+      "end": 1272.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1272.0,
+      "end": 1273.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1273.0,
+      "end": 1274.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1274.0,
+      "end": 1275.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1275.0,
+      "end": 1276.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1276.0,
+      "end": 1277.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1277.0,
+      "end": 1278.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1278.0,
+      "end": 1279.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1279.0,
+      "end": 1280.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1280.0,
+      "end": 1281.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1281.0,
+      "end": 1282.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1282.0,
+      "end": 1283.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1283.0,
+      "end": 1284.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1284.0,
+      "end": 1285.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1285.0,
+      "end": 1286.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1286.0,
+      "end": 1287.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1287.0,
+      "end": 1288.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1288.0,
+      "end": 1289.0,
+      "text": " some en,"
+    },
+    {
+      "start": 1289.0,
+      "end": 1290.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1290.0,
+      "end": 1291.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1291.0,
+      "end": 1292.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1292.0,
+      "end": 1293.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1293.0,
+      "end": 1294.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1294.0,
+      "end": 1295.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1295.0,
+      "end": 1296.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1296.0,
+      "end": 1297.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1297.0,
+      "end": 1298.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1298.0,
+      "end": 1299.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1299.0,
+      "end": 1300.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1300.0,
+      "end": 1301.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1301.0,
+      "end": 1302.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1302.0,
+      "end": 1303.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1303.0,
+      "end": 1304.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1304.0,
+      "end": 1305.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1305.0,
+      "end": 1306.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1306.0,
+      "end": 1307.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1307.0,
+      "end": 1308.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1308.0,
+      "end": 1309.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1309.0,
+      "end": 1310.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1310.0,
+      "end": 1311.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1311.0,
+      "end": 1312.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1312.0,
+      "end": 1313.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1313.0,
+      "end": 1314.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1314.0,
+      "end": 1315.0,
+      "text": " some en,"
+    },
+    {
+      "start": 1315.0,
+      "end": 1316.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1316.0,
+      "end": 1317.0,
+      "text": " some en,"
+    },
+    {
+      "start": 1317.0,
+      "end": 1318.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1318.0,
+      "end": 1319.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1319.0,
+      "end": 1320.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1320.0,
+      "end": 1321.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1321.0,
+      "end": 1322.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1322.0,
+      "end": 1323.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1323.0,
+      "end": 1324.0,
+      "text": " some en,"
+    },
+    {
+      "start": 1324.0,
+      "end": 1325.0,
+      "text": " som en,"
+    },
+    {
+      "start": 1325.0,
+      "end": 1326.0,
+      "text": " some en,"
+    },
+    {
+      "start": 1326.0,
+      "end": 1327.0,
+      "text": " some en,"
+    },
+    {
+      "start": 1327.0,
+      "end": 1328.0,
+      "text": " some an,"
+    },
+    {
+      "start": 1328.0,
+      "end": 1329.0,
+      "text": " some an,"
+    },
+    {
+      "start": 1329.0,
+      "end": 1330.0,
+      "text": " some level,"
+    },
+    {
+      "start": 1330.0,
+      "end": 1331.0,
+      "text": " some level,"
+    },
+    {
+      "start": 1331.0,
+      "end": 1332.0,
+      "text": " som an,"
+    },
+    {
+      "start": 1332.0,
+      "end": 1333.0,
+      "text": " some level,"
+    },
+    {
+      "start": 1333.0,
+      "end": 1334.0,
+      "text": " som an,"
+    },
+    {
+      "start": 1334.0,
+      "end": 1335.0,
+      "text": " some level,"
+    },
+    {
+      "start": 1335.0,
+      "end": 1336.0,
+      "text": " some level,"
+    },
+    {
+      "start": 1336.0,
+      "end": 1337.0,
+      "text": " like this,"
+    },
+    {
+      "start": 1337.0,
+      "end": 1338.0,
+      "text": " like this,"
+    },
+    {
+      "start": 1338.0,
+      "end": 1339.0,
+      "text": " sum on your,"
+    },
+    {
+      "start": 1339.0,
+      "end": 1340.0,
+      "text": " some level,"
+    },
+    {
+      "start": 1340.0,
+      "end": 1341.0,
+      "text": " some level,"
+    },
+    {
+      "start": 1341.0,
+      "end": 1342.0,
+      "text": " som level,"
+    },
+    {
+      "start": 1342.0,
+      "end": 1343.0,
+      "text": " sum on your feeling,"
+    },
+    {
+      "start": 1343.0,
+      "end": 1344.0,
+      "text": " sum on your feeling,"
+    },
+    {
+      "start": 1494.0,
+      "end": 1495.16,
+      "text": " like this,"
+    },
+    {
+      "start": 1495.16,
+      "end": 1496.52,
+      "text": " something like this,"
+    },
+    {
+      "start": 1496.52,
+      "end": 1497.52,
+      "text": " like this,"
+    },
+    {
+      "start": 1497.52,
+      "end": 1498.52,
+      "text": " like this,"
+    },
+    {
+      "start": 1498.52,
+      "end": 1499.52,
+      "text": " like this,"
+    },
+    {
+      "start": 1499.52,
+      "end": 1500.52,
+      "text": " some level,"
+    },
+    {
+      "start": 1500.52,
+      "end": 1501.52,
+      "text": " like this,"
+    },
+    {
+      "start": 1501.52,
+      "end": 1502.52,
+      "text": " some level,"
+    },
+    {
+      "start": 1502.52,
+      "end": 1503.52,
+      "text": " some level,"
+    },
+    {
+      "start": 1503.52,
+      "end": 1504.52,
+      "text": " sumon your feeling,"
+    },
+    {
+      "start": 1504.52,
+      "end": 1505.52,
+      "text": " some level,"
+    },
+    {
+      "start": 1505.52,
+      "end": 1506.52,
+      "text": " sumon your feeling,"
+    },
+    {
+      "start": 1506.52,
+      "end": 1507.52,
+      "text": " like this,"
+    },
+    {
+      "start": 1507.52,
+      "end": 1508.52,
+      "text": " like this,"
+    },
+    {
+      "start": 1508.52,
+      "end": 1509.52,
+      "text": " sumon your feeling,"
+    },
+    {
+      "start": 1509.52,
+      "end": 1510.52,
+      "text": " like this,"
+    },
+    {
+      "start": 1510.52,
+      "end": 1511.52,
+      "text": " like this,"
+    },
+    {
+      "start": 1511.52,
+      "end": 1512.24,
+      "text": " some level."
+    },
+    {
+      "start": 1524.0,
+      "end": 1526.16,
+      "text": " Jeg er sikker på, at vi kommer til at lave flere episoder om det her."
+    }
+  ]
+}

@@ -1,0 +1,991 @@
+{
+  "title": "Shorts: Consent Mode V2 (Har Kristian husket det?)",
+  "url": "https://www.youtube.com/watch?v=Fkctiv1PycA",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 841.6,
+  "transcribed_at": "2026-04-17T15:32:27.985192+00:00",
+  "full_text": "Christian? Halftand? Hvad er consentmode V2? Jeg vidste, du ville stille mig spørgsmålet. Og grunden til, at du stiller mig det spørgsmål, det er, fordi mine evner inden for trackingverdenen er ikke vanvittigt udviklet. Det er derfor, jeg er så glad for, at jeg har dig med på den her episode. Og det er jeg jo ikke sent til at udnytte. Hver eneste gang, jeg kan få lov til at snakke om tracking, så er halvdelen af mit formål derude at give dig igen for sidste episode, hvor du drillede mig med og har købt en iPhone. Og to sekunder inden den her episode, hvor vi går i gang med at optage episoden, så siger jeg til halvdelen, at nu skal du ikke stille mig et eller andet åndssøgt spørgsmål, jeg ikke kan svare på, for du ved godt, at mine evner inden for det her. Og så går der, seriøst, fire og en halv sekund. Men det sjove er, Tinju, det er der også rigtig mange andre, der ikke ved. Fordi når jeg kigger rundt på danske websites, så har jeg sådan et lille plugin i min chrome browser, der hedder consentmodeinspector. Og når jeg kigger rundt og tjekker, om folk har opsat consentmode v2, som jo, mind you, har været et krav for at få maksimal afkast i Google Ads siden 6. marts 2024, altså en halvdel år siden, så er der virkelig mange, der ikke har implementeret det. Kan du gætte et site, der ikke har det implementeret? IceDigital.dk Er jeg ret? Ja. Nej! Jeg sidder inde på IceDigital.dk. Du har ikke engang implementeret consentmode v1, Christian. Jeg er ikke webmaster. Det bliver du til at sige. Jeg er ikke webmaster. Det er et meget godt eksempel på det her med skummerens søn, der ikke har sko på, og mekanikernes bil, eller hvad det hedder, som ikke virker. Det er et meget godt eksempel, det her. Opsite.dk virker selvfølgelig. Men det er derfor, vi tager emnet op i den her korte episode af MarketingPod, fordi consentmode v2 har været et krav i Google Ads i et halvt år, og der er virkelig mange, der har glemt det, og det koster bare penge at glemme det. Så i den her episode, der kommer vi ret kort til at gennemgå, hvad er det, hvorfor skal du have det, og hvordan sætter du det rent faktisk op? Fordi det er en opgave, som vi fakturerer 1-2 timer for at lave, så kort tid tager det. Det er en meget lille opgave, det her, men det er en meget dum ting at glemme. Så lad os starte med, hvad er det? Det er sådan, at når man arbejder med Google Ads, og det her er en Google Ads og Google Analytics 4 ting. Det har ikke noget at gøre med Meta og alle mulige andre platformer. Det er kun Google Ads og Google Analytics 4, det her er relevant for. Når man arbejder med det, så virker Google Ads kommenteringsbrugering på den måde, at hvis brugeren siger ja tak til cookies, så sætter du i den første parts cookie, og så spurger du salget. Done. Hvis brugeren så siger nej til cookies, og det er der omkring 40% af andre analytere gør i Danmark, så har du to muligheder for at spurge det selv. Den ene mulighed er via enhanced conversions, som du også bør have sat op. Det handler om at opsamle informationer som for eksempel e-mailadresse og telefonnummer. Så hashkrypterer man det, således at det ikke kan læses af modtageren. Så sender man den information til Google, der tjekker, om det matcher et hash, de har i deres ende. Og så kan man eventuelt identificere en kunde, der er logget ind på Google på den måde. Hvis ikke det virker, så har vi consent mode v2. Og consent mode er en måde, hvor på Google kan ikke identificere en bruger, men få en lille smule information om, hvem de er og hvor de sidder uden at sætte en cookie. Så det du skal forestille dig konceptuelt her, det er, at consent mode v2 er den lille smule data, du kan få ind, hvis alle dine andre metoder glipper først. Så det er sådan din backup til din backup, vi er ude i her. Og den virker ikke kanon godt, men det er meget bedre end ingenting. Det er sådan et konceptuelt high level, det er vi ude i. Så det man gør, det er, at man har jo en cookie prompt på ens website. Kan du jo ikke gette et website, der ikke har en cookie prompt? Det bliver en lang episode det her. Det er korrekt. Ice Digital har heller ikke en cookie prompt. Men hvis icedigital.dk nu havde haft en cookie prompt, og jeg havde trykket nej til den, hvilket jeg jo selvfølgelig aldrig ville gøre, både fordi vi er venner, Christian, og fordi jeg er en del af løsningen, ikke en del af problemet i forhold til Årlænderen annoncering her, så havde jeg selvfølgelig trykket ja. Men hvis jeg nu havde trykket nej, og du havde consent mode v2 installeret, hvilket du ikke har, så havde Google gået ind og kigget på min IP-adresse og fundet ud af, okay, den første del af min IP-adresse identificerer, at jeg sidder i Danmark. Det, at jeg sidder i Danmark, er ikke nok til at identificere mig, nu ved de bare, at jeg er en ud af 5,9 millioner danskere. Så havde de måske også kigget på, okay, jeg sidder på en Mac-computer, en Macbook Air her, okay, så kan vi godt få den information ind. Jeg sidder også på en desktop, og klokken er 20 om aftenen, og der er sådan en række informationer, som Google godt kan få, uden at de kan identificere mig af den årsag. Og dem trækker consent mode v2 ind. Vi ved ikke sådan præcis, hvilke informationer det er, de trækker ind, fordi det er sådan lidt blackbox-agtigt, det hele. Men det er sådan konceptuelt, de trækker en lille smule information ind, uden at sætte en cookie. Fordi jeg har jo sagt nej til cookies i det her hypotetiske eksempel, hvilket jeg aldrig ville gøre i virkeligheden. Jeg kan acceptere alt. Alt, må det ellers. Jeg skal bare have været der nok så. Men hvis jeg trykker nej, så kan de godt indsamle nogle enkelte informationer, uden at placere en cookie. Det, som Google så gør med consent mode v2, det er, at de siger, okay, der er en person her, det er en person, der kommer fra Danmark, sidder på en MacBook Air, klokken er 20 om aftenen, det er på en desktop, jeg sidder i en Chrome, jeg sidder i Silkeborg. Alle de her informationer bruger de til at danne en eller anden form for anonym profil. Så går Google ind og kigger på, har vi nogle andre personer, helst rigtig mange personer, som også kommer fra Danmark, sidder på en MacBook Air, kommer fra eller omkring Silkeborg, og har været inde og har accepteret cookies. Fordi baseret på de personer, som har en demografi, uden at jeg bliver identificerbar, men som minder om folk, der har accepteret cookies, så kan de begynde at gætte på nogle konverteringsretter. Andre mænd i Silkeborg på en MacBook Air konverterer 5% af tiden. Så hvis jeg har den her non-concentrede mand i Silkeborg på en MacBook Air, eller det ved jeg jo ikke, jeg er en mand, men jeg har den her unconcentrede person i Silkeborg på en MacBook Air, må den ikke også vedkommende konvertere 5%? Det er sådan konsttanken i consent mode v2. Det er simpelthen at prøve at tage de der brydstykker af information, og dermed begynde at modellere konverteringer på baggrunden af de informationer, de dog har, uden at sætte en cookie. Så giver det mening så langt? Ja, det synes jeg. Det smarte ved det her, det er jo så, at i din Google Ads lige nu, til eisdigital.dk, når du sender trafik igen der, alle de personer der siger nej til den cookie box du ikke har, dem måler du jo ingen konverteringer på lige nu. Så lad os sige, at hvis det er 40% af dine besøgende, som siger nej tak til cookies, så måler du 100% af dine konverteringer på 60% af dine besøgende. Det minder mig meget af Anchorman, hvis du kan huske det, hvor de har den der lorant, hvor de siger, it works 100% of the time, 50% of the time. Fantastisk. Men du sporer 100% af konverteringerne fra 60% af dine besøgende. De resterende 40% sporer du 0% på. Så det er sådan 40% af dine besøgende, der bare kommer ind på sitet, og du har bjældet idéer om, hvad de foretager sig inde på sitet. Konverterer de? Skrider de med det samme? Du har ingen idé. Og det er selvfølgelig et stort problem, fordi det er en stor del af din brugerbase. Så consent mode går ind og begynder at modellere konverteringer for de 40% du ikke kan måle. Det vil sige, du begynder at estimere, hvor mange konverteringer du nok ville have fået. Så lægger den en eller anden konservativ faktor ned over det, så den i hvert fald ikke rapporterer for højt. Så lad os sige, at den gætter på, at du har nok fået 100 konverteringer, men for at være sikre, så siger vi bare 50. Og vi kender ikke den præcise effekt igen, så jeg ved ikke, om de siger 30, 50 eller 80. Men de er lidt konservative med den her model. Og så lægger de simpelthen det ind i din konverteringsestimering. Så det vil sige, at de rapporterer 100 konverteringer sætter, men det er kun 60 af dem, de faktisk så. Og 40% af dem har de så måske modellere sig til, eller 20% har de modellere sig til. Og det her, det er simpelthen tanken med consent mode v2. Og det har ret stor betydning for din Google Ads kampagne. Fordi hvis du ikke har consent mode v2, og Google ikke kan se den information, der kommer ud af dine non-consented users, så giver det dig to problemer. Det ene problem, det er, at du selvfølgelig allokerer dispens forkert. Fordi hvis du så har en kampagne, der selvfølgelig selvtrækker personer, som consenter i meget mindre grad, så vil du bare måle færre konverteringer. Og det er meget almindeligt. Altså ældre mennesker har en højere consentrate end yngre mennesker. Mænd har for whatever reason en højere consentrate end kvinder har. Det er der noget statistik på. Så hvis du har en webshop, der sælger produkter, hvor nogen henvender sig til en yngre, og nogen henvender sig til en ældre målgruppe, så vil den ældre målgruppe automatisk bare se meget bedre ud. Fordi det simpelthen er meget mere tilbøjeligt til at sige ja tak til cookies. Men det betyder ikke, at det er en bedre forretning for dig. Så du kan reelt komme til at allokere dit suboptimale, fordi du simpelthen ikke kan se, hvor det virker henne. Den anden ting, det er jo så, at Googles algoritmer får færre input på, hvilke konverseringer der så rent faktisk sker. Og dermed have dårligere forudsætninger for at opstimere din levering. Så ultimativt så bliver det her sådan lidt et analyse- og budgetallokeringsperspektiv, hvor du simpelthen får bedre resultater ved at implementere det. Og det er der, hvor jeg så tænker, det tager en time eller to at sætte op det her, og du får øjeblikkeligt bedre resultater på Google. Altså en meget bedre idé om, hvordan din organisering virker. Og alligevel så er det i hvert fald halvdelen af de websites, jeg går ind på, der ikke har opdaget det. Hvorfor tror du, det er? Jamen, fordi vi mangler svaret på spørgsmålet, hvordan sætter man det op? Det er fordi, vi ikke har hørt marketing på det, så lad os komme til, hvordan man rent faktisk sætter det op. For det første, så skal man have en cookie pop-up. Hvorfor en pop-up? Jeg kører jo kun en Nick & Jay-sang ind over pop-up. Ej, det er også mysigt for at drille dig videre med du ikke har den. Jeg kan jo også gå ind på, nu ved jeg, at du er involveret i en webshop. Skal vi se, om der er en cookie pop-up på den? Der er faktisk en cookie pop-up på. Jeg kan så se, at hvis jeg skal være lidt fræk på dig, at der er en metapixel, der nok bliver affyret alligevel, inden den eventuelt er skudt af. Men sådan er der jo så mange ting. Men der er rent faktisk en cookie pop-up inde på sitet her. Jeg kan se, at der bruger du CookieBot. CookieBot og CookieInformation, to forskellige værktøjer, er to af de mest anvendte systemer. Det er faktisk begge to danske virksomheder. Det er ret fedt. CookieInformation er opkøbt fra nylig PivikPro, og er dermed også blevet en spiller i analysemarkedet. PivikPro er et alternativ til GA4, som er mere privacy-fokuseret. Et meget udmærket værktøj, hvis ikke man ønsker at bruge GA4. De fleste af vores kunder vil bruge enten CookieBot eller CookieInformation. For at opsætte ContentMode v2, skal man logge ind i ens CookieBot-interface, eller CookieInformation's interface. Så skal man udfylde nogle indstillinger derinde, og så skal man gå ind på ens tags, og sørge for at opdatere dem. Så de enkelte tags, som ligger i Google Tag Manager, skal opdateres, så de passer til den content-type, der er talt om. Altså om det er statistik, eller funktionel, eller marketing. Så er der nogle enkelte opdateringer, man skal lave. Nogle enkelte tekniske rettelser, man skal lave. Samlet tager det en time eller to, og der findes nogle ret grundlige guide-steder på både CookieBot og på CookieInformation, der viser lige præcis, hvordan man kan gøre det. Mind you, det er ikke alle cookie-værktøjer, der understøtter det her. Google har en liste over de officielt anerkendte værktøjer, der understøtter Content Mode V2, og der er CookieBot et af dem, CookieInformation er et andet. Der findes nogle andre, som for eksempel OneTrust, og CookieBanner er der bare et, der hedder, og der er nogle stykker, men langt de fleste af vores kunder bruger bare CookieBot, eller CookieInformation, og begge værktøjer virker super, super fint. Så man skal egentlig bare google, altså, CookieBot Content Mode V2, følge guiden, CookieInformation Content Mode V2, følge guiden, følge videoen igen, det tager en time eller to max, og så har du faktisk i mål med det. Måden, man så kan verificere, at det rent faktisk virker på, det er ved at bruge et plugin som Content Mode Inspector i ens Chrome-browser. Hvis man downloader det, så kan man gå ind på et hvilket som helst site, se om de har Content Mode V2 sat op, og så kan man også se, om det er sat korrekt op. Så på den måde er det faktisk ret nemt. Og der kan jeg konstatere, at webshoppen i øvrigt har opsat Content Mode V2. Så det er kun ICDK-salen, der mangler. Det skal vi lige have gjort noget ved. Der er en ekstra årsag til, at jeg lige vil nævne det, fordi en ting er, at man har mulighed for at få mere data end i Google Ads, og man har mulighed for at få modellerede konverteringer. En anden ting er, at man faktisk ikke kan køre remarketing i Google Ads efter 6. marts 2024, hvis ikke man har Content Mode V2 slået til. Så remarketing-funktionaliteten er simpelthen væk. Og det er ærgerligt, fordi de personer, der har været inde på ens site, er jo ofte dem, der er mest i boldet til at konvertere, så at køre nogle remarketing-kampagner på dem, hvad er det så? Remarketing-list for search-chats, display-annoncer, eller YouTube-annoncer, vil typisk være en kampagne, der vil give et ret højt afkast. Så hvis ikke man har sat det her op, så har man slet ikke mulighed for at køre de kampagner. Så det er selvfølgelig også ret synd. Så jeg tror, at det konkluderer Content Mode V2. Der er en ting, jeg skylder at nævne, og det er, at den her modellering træder først i kraft, hvis man har 700 kliks om dagen fra Google Ads. Og det er ikke alle kunstige, der har det. Altså for de 700 kliks om dagen, så er du alligevel oppe at bruge, hvad skal vi sige, 5-10.000 om dagen nok på Google Ads. Så hvis man ligger under det, så vil jeg stadig anbefale Content Mode V2 op, fordi igen, det tager en time eller to, det er meget hurtigt, og hvis du ikke gør det, kan du ikke køre remarketing-audiences, og remarketing-audiences er noget af det mest profitable. Men hvis man ligger af et hyl om, for eksempel i min Google Ads lige nu, ser jeg data, som har modellerede konverteringer fra Content Mode V2. Hvis du har under 700 klik helt fast om dagen fra Google Ads, så gør du i hvert fald ikke. Hvis du ikke er et godt stykke over det, så gør du nok. Så på baggrund af den her episode til nu, har jeg givet dig lyst til at få sat Content Mode V2 op? Jeg har i hvert fald lige skrevet til en af mine kære partnere i Eyes, han er webmaster, han skal lige vide, hvor dum han har fået mig til at se ud i den her episode. Og det skal der styr på nu. Jeg er sikker på, at du skal nok finde en måde at komme tilbage på mig i en af de kommende episoder, og jeg glæder mig til at se, hvordan du kommer til at gøre det. Wait and see.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": " Christian?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": " Halftand?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": " Hvad er consentmode V2?"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": " Jeg vidste, du ville stille mig spørgsmålet."
+    },
+    {
+      "start": 9.0,
+      "end": 16.0,
+      "text": " Og grunden til, at du stiller mig det spørgsmål, det er, fordi mine evner inden for trackingverdenen er ikke vanvittigt udviklet."
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": " Det er derfor, jeg er så glad for, at jeg har dig med på den her episode."
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": " Og det er jeg jo ikke sent til at udnytte."
+    },
+    {
+      "start": 21.0,
+      "end": 28.0,
+      "text": " Hver eneste gang, jeg kan få lov til at snakke om tracking, så er halvdelen af mit formål derude at give dig igen for sidste episode, hvor du drillede mig med og har købt en iPhone."
+    },
+    {
+      "start": 29.0,
+      "end": 40.0,
+      "text": " Og to sekunder inden den her episode, hvor vi går i gang med at optage episoden, så siger jeg til halvdelen, at nu skal du ikke stille mig et eller andet åndssøgt spørgsmål, jeg ikke kan svare på, for du ved godt, at mine evner inden for det her."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": " Og så går der, seriøst, fire og en halv sekund."
+    },
+    {
+      "start": 46.0,
+      "end": 49.0,
+      "text": " Men det sjove er, Tinju, det er der også rigtig mange andre, der ikke ved."
+    },
+    {
+      "start": 49.0,
+      "end": 56.0,
+      "text": " Fordi når jeg kigger rundt på danske websites, så har jeg sådan et lille plugin i min chrome browser, der hedder consentmodeinspector."
+    },
+    {
+      "start": 56.0,
+      "end": 71.0,
+      "text": " Og når jeg kigger rundt og tjekker, om folk har opsat consentmode v2, som jo, mind you, har været et krav for at få maksimal afkast i Google Ads siden 6. marts 2024, altså en halvdel år siden, så er der virkelig mange, der ikke har implementeret det."
+    },
+    {
+      "start": 71.0,
+      "end": 73.0,
+      "text": " Kan du gætte et site, der ikke har det implementeret?"
+    },
+    {
+      "start": 75.0,
+      "end": 77.0,
+      "text": " IceDigital.dk"
+    },
+    {
+      "start": 78.0,
+      "end": 80.0,
+      "text": " Er jeg ret?"
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "text": " Ja."
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "text": " Nej!"
+    },
+    {
+      "start": 82.0,
+      "end": 86.0,
+      "text": " Jeg sidder inde på IceDigital.dk. Du har ikke engang implementeret consentmode v1, Christian."
+    },
+    {
+      "start": 87.0,
+      "end": 91.0,
+      "text": " Jeg er ikke webmaster. Det bliver du til at sige. Jeg er ikke webmaster."
+    },
+    {
+      "start": 91.0,
+      "end": 99.0,
+      "text": " Det er et meget godt eksempel på det her med skummerens søn, der ikke har sko på, og mekanikernes bil, eller hvad det hedder, som ikke virker."
+    },
+    {
+      "start": 99.0,
+      "end": 102.0,
+      "text": " Det er et meget godt eksempel, det her. Opsite.dk virker selvfølgelig."
+    },
+    {
+      "start": 102.0,
+      "end": 112.0,
+      "text": " Men det er derfor, vi tager emnet op i den her korte episode af MarketingPod, fordi consentmode v2 har været et krav i Google Ads i et halvt år, og der er virkelig mange, der har glemt det, og det koster bare penge at glemme det."
+    },
+    {
+      "start": 112.0,
+      "end": 118.0,
+      "text": " Så i den her episode, der kommer vi ret kort til at gennemgå, hvad er det, hvorfor skal du have det, og hvordan sætter du det rent faktisk op?"
+    },
+    {
+      "start": 118.0,
+      "end": 123.0,
+      "text": " Fordi det er en opgave, som vi fakturerer 1-2 timer for at lave, så kort tid tager det."
+    },
+    {
+      "start": 123.0,
+      "end": 127.0,
+      "text": " Det er en meget lille opgave, det her, men det er en meget dum ting at glemme."
+    },
+    {
+      "start": 127.0,
+      "end": 130.0,
+      "text": " Så lad os starte med, hvad er det?"
+    },
+    {
+      "start": 130.0,
+      "end": 135.0,
+      "text": " Det er sådan, at når man arbejder med Google Ads, og det her er en Google Ads og Google Analytics 4 ting."
+    },
+    {
+      "start": 135.0,
+      "end": 140.0,
+      "text": " Det har ikke noget at gøre med Meta og alle mulige andre platformer. Det er kun Google Ads og Google Analytics 4, det her er relevant for."
+    },
+    {
+      "start": 140.0,
+      "end": 150.0,
+      "text": " Når man arbejder med det, så virker Google Ads kommenteringsbrugering på den måde, at hvis brugeren siger ja tak til cookies, så sætter du i den første parts cookie, og så spurger du salget. Done."
+    },
+    {
+      "start": 150.0,
+      "end": 157.0,
+      "text": " Hvis brugeren så siger nej til cookies, og det er der omkring 40% af andre analytere gør i Danmark, så har du to muligheder for at spurge det selv."
+    },
+    {
+      "start": 157.0,
+      "end": 165.0,
+      "text": " Den ene mulighed er via enhanced conversions, som du også bør have sat op. Det handler om at opsamle informationer som for eksempel e-mailadresse og telefonnummer."
+    },
+    {
+      "start": 165.0,
+      "end": 172.0,
+      "text": " Så hashkrypterer man det, således at det ikke kan læses af modtageren. Så sender man den information til Google, der tjekker, om det matcher et hash, de har i deres ende."
+    },
+    {
+      "start": 172.0,
+      "end": 176.0,
+      "text": " Og så kan man eventuelt identificere en kunde, der er logget ind på Google på den måde."
+    },
+    {
+      "start": 176.0,
+      "end": 180.0,
+      "text": " Hvis ikke det virker, så har vi consent mode v2."
+    },
+    {
+      "start": 180.0,
+      "end": 190.0,
+      "text": " Og consent mode er en måde, hvor på Google kan ikke identificere en bruger, men få en lille smule information om, hvem de er og hvor de sidder uden at sætte en cookie."
+    },
+    {
+      "start": 190.0,
+      "end": 199.0,
+      "text": " Så det du skal forestille dig konceptuelt her, det er, at consent mode v2 er den lille smule data, du kan få ind, hvis alle dine andre metoder glipper først."
+    },
+    {
+      "start": 199.0,
+      "end": 206.0,
+      "text": " Så det er sådan din backup til din backup, vi er ude i her. Og den virker ikke kanon godt, men det er meget bedre end ingenting."
+    },
+    {
+      "start": 206.0,
+      "end": 209.0,
+      "text": " Det er sådan et konceptuelt high level, det er vi ude i."
+    },
+    {
+      "start": 209.0,
+      "end": 216.0,
+      "text": " Så det man gør, det er, at man har jo en cookie prompt på ens website. Kan du jo ikke gette et website, der ikke har en cookie prompt?"
+    },
+    {
+      "start": 218.0,
+      "end": 220.0,
+      "text": " Det bliver en lang episode det her."
+    },
+    {
+      "start": 224.0,
+      "end": 227.0,
+      "text": " Det er korrekt. Ice Digital har heller ikke en cookie prompt."
+    },
+    {
+      "start": 227.0,
+      "end": 234.0,
+      "text": " Men hvis icedigital.dk nu havde haft en cookie prompt, og jeg havde trykket nej til den, hvilket jeg jo selvfølgelig aldrig ville gøre, både fordi vi er venner, Christian,"
+    },
+    {
+      "start": 234.0,
+      "end": 239.0,
+      "text": " og fordi jeg er en del af løsningen, ikke en del af problemet i forhold til Årlænderen annoncering her, så havde jeg selvfølgelig trykket ja."
+    },
+    {
+      "start": 239.0,
+      "end": 250.0,
+      "text": " Men hvis jeg nu havde trykket nej, og du havde consent mode v2 installeret, hvilket du ikke har, så havde Google gået ind og kigget på min IP-adresse"
+    },
+    {
+      "start": 250.0,
+      "end": 254.0,
+      "text": " og fundet ud af, okay, den første del af min IP-adresse identificerer, at jeg sidder i Danmark."
+    },
+    {
+      "start": 254.0,
+      "end": 260.0,
+      "text": " Det, at jeg sidder i Danmark, er ikke nok til at identificere mig, nu ved de bare, at jeg er en ud af 5,9 millioner danskere."
+    },
+    {
+      "start": 260.0,
+      "end": 266.0,
+      "text": " Så havde de måske også kigget på, okay, jeg sidder på en Mac-computer, en Macbook Air her, okay, så kan vi godt få den information ind."
+    },
+    {
+      "start": 266.0,
+      "end": 276.0,
+      "text": " Jeg sidder også på en desktop, og klokken er 20 om aftenen, og der er sådan en række informationer, som Google godt kan få, uden at de kan identificere mig af den årsag."
+    },
+    {
+      "start": 276.0,
+      "end": 283.0,
+      "text": " Og dem trækker consent mode v2 ind. Vi ved ikke sådan præcis, hvilke informationer det er, de trækker ind, fordi det er sådan lidt blackbox-agtigt, det hele."
+    },
+    {
+      "start": 283.0,
+      "end": 287.0,
+      "text": " Men det er sådan konceptuelt, de trækker en lille smule information ind, uden at sætte en cookie."
+    },
+    {
+      "start": 287.0,
+      "end": 291.0,
+      "text": " Fordi jeg har jo sagt nej til cookies i det her hypotetiske eksempel, hvilket jeg aldrig ville gøre i virkeligheden."
+    },
+    {
+      "start": 291.0,
+      "end": 297.0,
+      "text": " Jeg kan acceptere alt. Alt, må det ellers. Jeg skal bare have været der nok så."
+    },
+    {
+      "start": 297.0,
+      "end": 302.0,
+      "text": " Men hvis jeg trykker nej, så kan de godt indsamle nogle enkelte informationer, uden at placere en cookie."
+    },
+    {
+      "start": 302.0,
+      "end": 309.0,
+      "text": " Det, som Google så gør med consent mode v2, det er, at de siger, okay, der er en person her, det er en person, der kommer fra Danmark,"
+    },
+    {
+      "start": 309.0,
+      "end": 316.0,
+      "text": " sidder på en MacBook Air, klokken er 20 om aftenen, det er på en desktop, jeg sidder i en Chrome, jeg sidder i Silkeborg."
+    },
+    {
+      "start": 316.0,
+      "end": 320.0,
+      "text": " Alle de her informationer bruger de til at danne en eller anden form for anonym profil."
+    },
+    {
+      "start": 320.0,
+      "end": 327.0,
+      "text": " Så går Google ind og kigger på, har vi nogle andre personer, helst rigtig mange personer, som også kommer fra Danmark,"
+    },
+    {
+      "start": 327.0,
+      "end": 333.0,
+      "text": " sidder på en MacBook Air, kommer fra eller omkring Silkeborg, og har været inde og har accepteret cookies."
+    },
+    {
+      "start": 334.0,
+      "end": 341.0,
+      "text": " Fordi baseret på de personer, som har en demografi, uden at jeg bliver identificerbar, men som minder om folk, der har accepteret cookies,"
+    },
+    {
+      "start": 341.0,
+      "end": 348.0,
+      "text": " så kan de begynde at gætte på nogle konverteringsretter. Andre mænd i Silkeborg på en MacBook Air konverterer 5% af tiden."
+    },
+    {
+      "start": 348.0,
+      "end": 353.0,
+      "text": " Så hvis jeg har den her non-concentrede mand i Silkeborg på en MacBook Air, eller det ved jeg jo ikke, jeg er en mand,"
+    },
+    {
+      "start": 353.0,
+      "end": 360.0,
+      "text": " men jeg har den her unconcentrede person i Silkeborg på en MacBook Air, må den ikke også vedkommende konvertere 5%?"
+    },
+    {
+      "start": 360.0,
+      "end": 366.0,
+      "text": " Det er sådan konsttanken i consent mode v2. Det er simpelthen at prøve at tage de der brydstykker af information,"
+    },
+    {
+      "start": 366.0,
+      "end": 373.0,
+      "text": " og dermed begynde at modellere konverteringer på baggrunden af de informationer, de dog har, uden at sætte en cookie."
+    },
+    {
+      "start": 373.0,
+      "end": 378.0,
+      "text": " Så giver det mening så langt? Ja, det synes jeg."
+    },
+    {
+      "start": 378.0,
+      "end": 387.0,
+      "text": " Det smarte ved det her, det er jo så, at i din Google Ads lige nu, til eisdigital.dk, når du sender trafik igen der,"
+    },
+    {
+      "start": 387.0,
+      "end": 392.0,
+      "text": " alle de personer der siger nej til den cookie box du ikke har, dem måler du jo ingen konverteringer på lige nu."
+    },
+    {
+      "start": 392.0,
+      "end": 400.0,
+      "text": " Så lad os sige, at hvis det er 40% af dine besøgende, som siger nej tak til cookies, så måler du 100% af dine konverteringer på 60% af dine besøgende."
+    },
+    {
+      "start": 400.0,
+      "end": 404.0,
+      "text": " Det minder mig meget af Anchorman, hvis du kan huske det, hvor de har den der lorant, hvor de siger,"
+    },
+    {
+      "start": 404.0,
+      "end": 408.0,
+      "text": " it works 100% of the time, 50% of the time. Fantastisk."
+    },
+    {
+      "start": 408.0,
+      "end": 415.0,
+      "text": " Men du sporer 100% af konverteringerne fra 60% af dine besøgende. De resterende 40% sporer du 0% på."
+    },
+    {
+      "start": 415.0,
+      "end": 421.0,
+      "text": " Så det er sådan 40% af dine besøgende, der bare kommer ind på sitet, og du har bjældet idéer om, hvad de foretager sig inde på sitet."
+    },
+    {
+      "start": 421.0,
+      "end": 424.0,
+      "text": " Konverterer de? Skrider de med det samme? Du har ingen idé."
+    },
+    {
+      "start": 424.0,
+      "end": 427.0,
+      "text": " Og det er selvfølgelig et stort problem, fordi det er en stor del af din brugerbase."
+    },
+    {
+      "start": 427.0,
+      "end": 434.0,
+      "text": " Så consent mode går ind og begynder at modellere konverteringer for de 40% du ikke kan måle."
+    },
+    {
+      "start": 434.0,
+      "end": 439.0,
+      "text": " Det vil sige, du begynder at estimere, hvor mange konverteringer du nok ville have fået."
+    },
+    {
+      "start": 439.0,
+      "end": 443.0,
+      "text": " Så lægger den en eller anden konservativ faktor ned over det, så den i hvert fald ikke rapporterer for højt."
+    },
+    {
+      "start": 443.0,
+      "end": 448.0,
+      "text": " Så lad os sige, at den gætter på, at du har nok fået 100 konverteringer, men for at være sikre, så siger vi bare 50."
+    },
+    {
+      "start": 448.0,
+      "end": 451.0,
+      "text": " Og vi kender ikke den præcise effekt igen, så jeg ved ikke, om de siger 30, 50 eller 80."
+    },
+    {
+      "start": 451.0,
+      "end": 454.0,
+      "text": " Men de er lidt konservative med den her model."
+    },
+    {
+      "start": 454.0,
+      "end": 457.0,
+      "text": " Og så lægger de simpelthen det ind i din konverteringsestimering."
+    },
+    {
+      "start": 457.0,
+      "end": 461.0,
+      "text": " Så det vil sige, at de rapporterer 100 konverteringer sætter, men det er kun 60 af dem, de faktisk så."
+    },
+    {
+      "start": 461.0,
+      "end": 467.0,
+      "text": " Og 40% af dem har de så måske modellere sig til, eller 20% har de modellere sig til."
+    },
+    {
+      "start": 467.0,
+      "end": 470.0,
+      "text": " Og det her, det er simpelthen tanken med consent mode v2."
+    },
+    {
+      "start": 470.0,
+      "end": 473.0,
+      "text": " Og det har ret stor betydning for din Google Ads kampagne."
+    },
+    {
+      "start": 473.0,
+      "end": 480.0,
+      "text": " Fordi hvis du ikke har consent mode v2, og Google ikke kan se den information, der kommer ud af dine non-consented users, så giver det dig to problemer."
+    },
+    {
+      "start": 480.0,
+      "end": 483.0,
+      "text": " Det ene problem, det er, at du selvfølgelig allokerer dispens forkert."
+    },
+    {
+      "start": 483.0,
+      "end": 489.0,
+      "text": " Fordi hvis du så har en kampagne, der selvfølgelig selvtrækker personer, som consenter i meget mindre grad, så vil du bare måle færre konverteringer."
+    },
+    {
+      "start": 489.0,
+      "end": 490.0,
+      "text": " Og det er meget almindeligt."
+    },
+    {
+      "start": 490.0,
+      "end": 494.0,
+      "text": " Altså ældre mennesker har en højere consentrate end yngre mennesker."
+    },
+    {
+      "start": 494.0,
+      "end": 498.0,
+      "text": " Mænd har for whatever reason en højere consentrate end kvinder har."
+    },
+    {
+      "start": 498.0,
+      "end": 500.0,
+      "text": " Det er der noget statistik på."
+    },
+    {
+      "start": 500.0,
+      "end": 507.0,
+      "text": " Så hvis du har en webshop, der sælger produkter, hvor nogen henvender sig til en yngre, og nogen henvender sig til en ældre målgruppe, så vil den ældre målgruppe automatisk bare se meget bedre ud."
+    },
+    {
+      "start": 507.0,
+      "end": 510.0,
+      "text": " Fordi det simpelthen er meget mere tilbøjeligt til at sige ja tak til cookies."
+    },
+    {
+      "start": 510.0,
+      "end": 512.0,
+      "text": " Men det betyder ikke, at det er en bedre forretning for dig."
+    },
+    {
+      "start": 512.0,
+      "end": 518.0,
+      "text": " Så du kan reelt komme til at allokere dit suboptimale, fordi du simpelthen ikke kan se, hvor det virker henne."
+    },
+    {
+      "start": 518.0,
+      "end": 524.0,
+      "text": " Den anden ting, det er jo så, at Googles algoritmer får færre input på, hvilke konverseringer der så rent faktisk sker."
+    },
+    {
+      "start": 524.0,
+      "end": 527.0,
+      "text": " Og dermed have dårligere forudsætninger for at opstimere din levering."
+    },
+    {
+      "start": 527.0,
+      "end": 535.0,
+      "text": " Så ultimativt så bliver det her sådan lidt et analyse- og budgetallokeringsperspektiv, hvor du simpelthen får bedre resultater ved at implementere det."
+    },
+    {
+      "start": 535.0,
+      "end": 542.0,
+      "text": " Og det er der, hvor jeg så tænker, det tager en time eller to at sætte op det her, og du får øjeblikkeligt bedre resultater på Google."
+    },
+    {
+      "start": 542.0,
+      "end": 545.0,
+      "text": " Altså en meget bedre idé om, hvordan din organisering virker."
+    },
+    {
+      "start": 545.0,
+      "end": 548.0,
+      "text": " Og alligevel så er det i hvert fald halvdelen af de websites, jeg går ind på, der ikke har opdaget det."
+    },
+    {
+      "start": 548.0,
+      "end": 550.0,
+      "text": " Hvorfor tror du, det er?"
+    },
+    {
+      "start": 550.0,
+      "end": 554.0,
+      "text": " Jamen, fordi vi mangler svaret på spørgsmålet, hvordan sætter man det op?"
+    },
+    {
+      "start": 554.0,
+      "end": 559.0,
+      "text": " Det er fordi, vi ikke har hørt marketing på det, så lad os komme til, hvordan man rent faktisk sætter det op."
+    },
+    {
+      "start": 559.0,
+      "end": 562.0,
+      "text": " For det første, så skal man have en cookie pop-up."
+    },
+    {
+      "start": 562.0,
+      "end": 565.0,
+      "text": " Hvorfor en pop-up?"
+    },
+    {
+      "start": 565.0,
+      "end": 570.0,
+      "text": " Jeg kører jo kun en Nick & Jay-sang ind over pop-up."
+    },
+    {
+      "start": 570.0,
+      "end": 573.0,
+      "text": " Ej, det er også mysigt for at drille dig videre med du ikke har den."
+    },
+    {
+      "start": 573.0,
+      "end": 577.0,
+      "text": " Jeg kan jo også gå ind på, nu ved jeg, at du er involveret i en webshop."
+    },
+    {
+      "start": 577.0,
+      "end": 580.0,
+      "text": " Skal vi se, om der er en cookie pop-up på den?"
+    },
+    {
+      "start": 580.0,
+      "end": 583.0,
+      "text": " Der er faktisk en cookie pop-up på."
+    },
+    {
+      "start": 583.0,
+      "end": 587.0,
+      "text": " Jeg kan så se, at hvis jeg skal være lidt fræk på dig, at der er en metapixel, der nok bliver affyret alligevel,"
+    },
+    {
+      "start": 587.0,
+      "end": 589.0,
+      "text": " inden den eventuelt er skudt af."
+    },
+    {
+      "start": 589.0,
+      "end": 591.0,
+      "text": " Men sådan er der jo så mange ting."
+    },
+    {
+      "start": 591.0,
+      "end": 598.0,
+      "text": " Men der er rent faktisk en cookie pop-up inde på sitet her."
+    },
+    {
+      "start": 598.0,
+      "end": 601.0,
+      "text": " Jeg kan se, at der bruger du CookieBot."
+    },
+    {
+      "start": 601.0,
+      "end": 606.0,
+      "text": " CookieBot og CookieInformation, to forskellige værktøjer, er to af de mest anvendte systemer."
+    },
+    {
+      "start": 606.0,
+      "end": 608.0,
+      "text": " Det er faktisk begge to danske virksomheder."
+    },
+    {
+      "start": 608.0,
+      "end": 610.0,
+      "text": " Det er ret fedt."
+    },
+    {
+      "start": 610.0,
+      "end": 614.0,
+      "text": " CookieInformation er opkøbt fra nylig PivikPro, og er dermed også blevet en spiller i analysemarkedet."
+    },
+    {
+      "start": 614.0,
+      "end": 618.0,
+      "text": " PivikPro er et alternativ til GA4, som er mere privacy-fokuseret."
+    },
+    {
+      "start": 618.0,
+      "end": 621.0,
+      "text": " Et meget udmærket værktøj, hvis ikke man ønsker at bruge GA4."
+    },
+    {
+      "start": 621.0,
+      "end": 625.0,
+      "text": " De fleste af vores kunder vil bruge enten CookieBot eller CookieInformation."
+    },
+    {
+      "start": 625.0,
+      "end": 629.0,
+      "text": " For at opsætte ContentMode v2, skal man logge ind i ens CookieBot-interface,"
+    },
+    {
+      "start": 629.0,
+      "end": 631.0,
+      "text": " eller CookieInformation's interface."
+    },
+    {
+      "start": 631.0,
+      "end": 633.0,
+      "text": " Så skal man udfylde nogle indstillinger derinde,"
+    },
+    {
+      "start": 633.0,
+      "end": 636.0,
+      "text": " og så skal man gå ind på ens tags, og sørge for at opdatere dem."
+    },
+    {
+      "start": 636.0,
+      "end": 640.0,
+      "text": " Så de enkelte tags, som ligger i Google Tag Manager, skal opdateres,"
+    },
+    {
+      "start": 640.0,
+      "end": 642.0,
+      "text": " så de passer til den content-type, der er talt om."
+    },
+    {
+      "start": 642.0,
+      "end": 645.0,
+      "text": " Altså om det er statistik, eller funktionel, eller marketing."
+    },
+    {
+      "start": 645.0,
+      "end": 647.0,
+      "text": " Så er der nogle enkelte opdateringer, man skal lave."
+    },
+    {
+      "start": 647.0,
+      "end": 649.0,
+      "text": " Nogle enkelte tekniske rettelser, man skal lave."
+    },
+    {
+      "start": 649.0,
+      "end": 653.0,
+      "text": " Samlet tager det en time eller to, og der findes nogle ret grundlige guide-steder"
+    },
+    {
+      "start": 653.0,
+      "end": 657.0,
+      "text": " på både CookieBot og på CookieInformation, der viser lige præcis, hvordan man kan gøre det."
+    },
+    {
+      "start": 657.0,
+      "end": 660.0,
+      "text": " Mind you, det er ikke alle cookie-værktøjer, der understøtter det her."
+    },
+    {
+      "start": 660.0,
+      "end": 665.0,
+      "text": " Google har en liste over de officielt anerkendte værktøjer, der understøtter Content Mode V2,"
+    },
+    {
+      "start": 665.0,
+      "end": 668.0,
+      "text": " og der er CookieBot et af dem, CookieInformation er et andet."
+    },
+    {
+      "start": 668.0,
+      "end": 670.0,
+      "text": " Der findes nogle andre, som for eksempel OneTrust,"
+    },
+    {
+      "start": 670.0,
+      "end": 674.0,
+      "text": " og CookieBanner er der bare et, der hedder,"
+    },
+    {
+      "start": 674.0,
+      "end": 677.0,
+      "text": " og der er nogle stykker, men langt de fleste af vores kunder bruger bare CookieBot,"
+    },
+    {
+      "start": 677.0,
+      "end": 680.0,
+      "text": " eller CookieInformation, og begge værktøjer virker super, super fint."
+    },
+    {
+      "start": 680.0,
+      "end": 682.0,
+      "text": " Så man skal egentlig bare google, altså,"
+    },
+    {
+      "start": 682.0,
+      "end": 684.0,
+      "text": " CookieBot Content Mode V2, følge guiden,"
+    },
+    {
+      "start": 684.0,
+      "end": 686.0,
+      "text": " CookieInformation Content Mode V2, følge guiden,"
+    },
+    {
+      "start": 686.0,
+      "end": 688.0,
+      "text": " følge videoen igen, det tager en time eller to max,"
+    },
+    {
+      "start": 688.0,
+      "end": 690.0,
+      "text": " og så har du faktisk i mål med det."
+    },
+    {
+      "start": 690.0,
+      "end": 693.0,
+      "text": " Måden, man så kan verificere, at det rent faktisk virker på,"
+    },
+    {
+      "start": 693.0,
+      "end": 696.0,
+      "text": " det er ved at bruge et plugin som Content Mode Inspector i ens Chrome-browser."
+    },
+    {
+      "start": 696.0,
+      "end": 699.0,
+      "text": " Hvis man downloader det, så kan man gå ind på et hvilket som helst site,"
+    },
+    {
+      "start": 699.0,
+      "end": 701.0,
+      "text": " se om de har Content Mode V2 sat op,"
+    },
+    {
+      "start": 701.0,
+      "end": 704.0,
+      "text": " og så kan man også se, om det er sat korrekt op."
+    },
+    {
+      "start": 704.0,
+      "end": 706.0,
+      "text": " Så på den måde er det faktisk ret nemt."
+    },
+    {
+      "start": 706.0,
+      "end": 711.0,
+      "text": " Og der kan jeg konstatere, at webshoppen i øvrigt har opsat Content Mode V2."
+    },
+    {
+      "start": 711.0,
+      "end": 713.0,
+      "text": " Så det er kun ICDK-salen, der mangler."
+    },
+    {
+      "start": 713.0,
+      "end": 715.0,
+      "text": " Det skal vi lige have gjort noget ved."
+    },
+    {
+      "start": 716.0,
+      "end": 719.0,
+      "text": " Der er en ekstra årsag til, at jeg lige vil nævne det,"
+    },
+    {
+      "start": 719.0,
+      "end": 722.0,
+      "text": " fordi en ting er, at man har mulighed for at få mere data end i Google Ads,"
+    },
+    {
+      "start": 722.0,
+      "end": 725.0,
+      "text": " og man har mulighed for at få modellerede konverteringer."
+    },
+    {
+      "start": 725.0,
+      "end": 729.0,
+      "text": " En anden ting er, at man faktisk ikke kan køre remarketing i Google Ads"
+    },
+    {
+      "start": 729.0,
+      "end": 734.0,
+      "text": " efter 6. marts 2024, hvis ikke man har Content Mode V2 slået til."
+    },
+    {
+      "start": 734.0,
+      "end": 738.0,
+      "text": " Så remarketing-funktionaliteten er simpelthen væk."
+    },
+    {
+      "start": 738.0,
+      "end": 741.0,
+      "text": " Og det er ærgerligt, fordi de personer, der har været inde på ens site,"
+    },
+    {
+      "start": 741.0,
+      "end": 743.0,
+      "text": " er jo ofte dem, der er mest i boldet til at konvertere,"
+    },
+    {
+      "start": 743.0,
+      "end": 745.0,
+      "text": " så at køre nogle remarketing-kampagner på dem,"
+    },
+    {
+      "start": 745.0,
+      "end": 748.0,
+      "text": " hvad er det så? Remarketing-list for search-chats, display-annoncer,"
+    },
+    {
+      "start": 748.0,
+      "end": 751.0,
+      "text": " eller YouTube-annoncer, vil typisk være en kampagne, der vil give et ret højt afkast."
+    },
+    {
+      "start": 751.0,
+      "end": 755.0,
+      "text": " Så hvis ikke man har sat det her op, så har man slet ikke mulighed for at køre de kampagner."
+    },
+    {
+      "start": 755.0,
+      "end": 757.0,
+      "text": " Så det er selvfølgelig også ret synd."
+    },
+    {
+      "start": 757.0,
+      "end": 760.0,
+      "text": " Så jeg tror, at det konkluderer Content Mode V2."
+    },
+    {
+      "start": 760.0,
+      "end": 762.0,
+      "text": " Der er en ting, jeg skylder at nævne,"
+    },
+    {
+      "start": 762.0,
+      "end": 766.0,
+      "text": " og det er, at den her modellering træder først i kraft,"
+    },
+    {
+      "start": 766.0,
+      "end": 770.0,
+      "text": " hvis man har 700 kliks om dagen fra Google Ads."
+    },
+    {
+      "start": 770.0,
+      "end": 772.0,
+      "text": " Og det er ikke alle kunstige, der har det."
+    },
+    {
+      "start": 772.0,
+      "end": 774.0,
+      "text": " Altså for de 700 kliks om dagen, så er du alligevel oppe at bruge,"
+    },
+    {
+      "start": 774.0,
+      "end": 777.0,
+      "text": " hvad skal vi sige, 5-10.000 om dagen nok på Google Ads."
+    },
+    {
+      "start": 777.0,
+      "end": 781.0,
+      "text": " Så hvis man ligger under det, så vil jeg stadig anbefale Content Mode V2 op,"
+    },
+    {
+      "start": 781.0,
+      "end": 783.0,
+      "text": " fordi igen, det tager en time eller to, det er meget hurtigt,"
+    },
+    {
+      "start": 783.0,
+      "end": 786.0,
+      "text": " og hvis du ikke gør det, kan du ikke køre remarketing-audiences,"
+    },
+    {
+      "start": 786.0,
+      "end": 789.0,
+      "text": " og remarketing-audiences er noget af det mest profitable."
+    },
+    {
+      "start": 789.0,
+      "end": 793.0,
+      "text": " Men hvis man ligger af et hyl om, for eksempel i min Google Ads lige nu,"
+    },
+    {
+      "start": 793.0,
+      "end": 797.0,
+      "text": " ser jeg data, som har modellerede konverteringer fra Content Mode V2."
+    },
+    {
+      "start": 797.0,
+      "end": 800.0,
+      "text": " Hvis du har under 700 klik helt fast om dagen fra Google Ads,"
+    },
+    {
+      "start": 800.0,
+      "end": 801.0,
+      "text": " så gør du i hvert fald ikke."
+    },
+    {
+      "start": 801.0,
+      "end": 804.0,
+      "text": " Hvis du ikke er et godt stykke over det, så gør du nok."
+    },
+    {
+      "start": 804.0,
+      "end": 807.0,
+      "text": " Så på baggrund af den her episode til nu,"
+    },
+    {
+      "start": 807.0,
+      "end": 810.0,
+      "text": " har jeg givet dig lyst til at få sat Content Mode V2 op?"
+    },
+    {
+      "start": 810.0,
+      "end": 813.0,
+      "text": " Jeg har i hvert fald lige skrevet til en af mine kære partnere i Eyes,"
+    },
+    {
+      "start": 813.0,
+      "end": 815.0,
+      "text": " han er webmaster,"
+    },
+    {
+      "start": 815.0,
+      "end": 819.0,
+      "text": " han skal lige vide, hvor dum han har fået mig til at se ud i den her episode."
+    },
+    {
+      "start": 821.0,
+      "end": 823.0,
+      "text": " Og det skal der styr på nu."
+    },
+    {
+      "start": 824.0,
+      "end": 827.0,
+      "text": " Jeg er sikker på, at du skal nok finde en måde at komme tilbage på mig"
+    },
+    {
+      "start": 827.0,
+      "end": 828.0,
+      "text": " i en af de kommende episoder,"
+    },
+    {
+      "start": 828.0,
+      "end": 831.0,
+      "text": " og jeg glæder mig til at se, hvordan du kommer til at gøre det."
+    },
+    {
+      "start": 833.0,
+      "end": 834.0,
+      "text": " Wait and see."
+    }
+  ]
+}

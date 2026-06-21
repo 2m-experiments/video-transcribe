@@ -1,0 +1,4481 @@
+{
+  "title": "Nødepisode: Alt du skal vide om ChatGPT 5 på 32 minutter",
+  "url": "https://www.youtube.com/watch?v=LIZary6tgMA",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 1954.1,
+  "transcribed_at": "2026-04-16T14:37:15.767519+00:00",
+  "full_text": "Christian, halvstand. Vi har, siden Marketingpods begyndelse, lavet episoder mandag og torsdag. Vi er nødt til at lave den første nye episode. Det her, det er en emergency podcast. Og årsagen til, at vi er nødt til at lave en emergency podcast, det er, at vi har begge to lige brugt den sidste halvanden time på at se OpenAI's livestream med ChatGBT5. Og Christian, jeg ved, du skulle have brugt din aften med din kæreste i dag. Det kommer du ikke til at gøre. Jeg vil gerne sige undskyld på forhånd til Laura for, at jeg er nødt til at sælge dig op på kontoret til at lave en emergency podcast. Men det her, det var jo potentielt en af de vigtigste ting, der er sket i år. Og det sjove er, at jeg kan se, at vi har to helt forskellige opgaver. Fordi jeg har siddet nede i min kælder. Jeg har siddet på min cykel og hygget, mens jeg har chromecastet op på skærmen. Og det betyder, at jeg har ikke set kommentarer på YouTube, mens det her er sket. Du har siddet og set det på din computer. Du har haft kommentarfeltet slået til på YouTube. Kan du ikke lige fortælle, hvad er folks stemning på ChatGBT5, før vi går i gang med den her episode? Stemningen omkring den måde, det er blevet præsenteret på. Der var ikke god stemning. Lad os sige det sådan. Der var rigtig negative stemning. Det er klassisk internet. Du kommer med et kæmpe nye model, og det er den bedste på alle benchmarks. Og alle de der ting, som vi kommer ind på. Og folk er pissesure i kommentarfeltet. De er sælte over. Og du ved, det kunne have været Jesus Kristus, der steg ned fra himlen og forvandlede vand til vin. Og de havde stadig været utilfredse med et eller andet. Det eneste, der har været, er folk på Reddit og TikTok. Lad os komme i gang med episoden. Det her skal være alt, du har brug for at vide om OpenAI's ChatGBT5. Hvis du ikke har siddet og brugt den sidste halvanden time på at se OpenAI's livestream. Fordi det var til tider faktisk en lille smule kedeligt, hvis du skal give folk i YouTubes kommentarfelt ret i noget. Men der var altså virkelig nogle spændende ting omkring det. Så lad os bare starte fra begyndelsen. Hvad er ChatGBT5? Det er den femte version af ChatGBT, siger sig selv. Den fjerde version, det ved jeg ikke, om du kan huske, Tino. ChatGBT4 kom 14. marts 2023. Det er faktisk mere end to år siden. Nå, okay. Hold op, tiden den går stærkt. Det gør den, ikke? Jeg troede faktisk, det var en fejl, at du havde skrevet det i noten af 2023. Nej, jeg var inde og tjekke. Vi har jo så fået vores reasoning-modeller O1, O2 og O3-modellerne i mellemtiden. Det kommer vi lige tilbage til, hvad forskellen er her. Men det er faktisk to år siden, vi har fået en ny ChatGBT-lancering. Det betyder jo også, at forventningerne til ChatGBT5 har jo været skruet helt sindssygt op. Det er højere end forventningerne til hvilken som helst aktie, du køber, som så falder efterfølgende, når de afleverer regnskab. Sidenote. Du skrev til mig her den anden dag, at du overvejede at købe Klæbio. Valgte ikke at gøre det, og hvad skete der så med aktien? Den steg så 18 procent dagen efter. Jeg havde ordren klar. Jeg havde sendt speakerne, jeg havde lagt... Eller ikke, jeg havde lagt ordren. Det er Christian Signuld Nemmer-message. Det er helt fantastisk. ChatGBT5, det er den femte version af ChatGBT. Det er over to år siden, vi har fået en decideret ny version. Og noget, der er vigtigt at sige til at starte med, det er, at den erstatter alle tidligere modeller. Så indtil nu, så har OpenAI jo haft den her lidt fucked-up navngivningsstrukturer, hvor du har haft GBT 4.0, 4.1, 4.5, 0.1, 0.1 Pro, 0.3. Og jeg har sikkert glemt noget der, som du skulle sidde og vælge imellem. Og man skulle faktisk hver eneste opgave, man satte ind, sidde og vælge imellem, hvilken model skal løse den her. Og hvis du valgte forkert, så fik du bare et meget dårligere resultat. Hvilke UX-mæssige har været en lille katastrofe, og de bliver erstattet. Og jeg vil sige, at alle de ting vi kommer til at snakke om, jeg tror faktisk, det her er en af de ting, der kommer til at gøre den største forskel for den almindelige bruger af ChatGBT. Enig, jeg føler selv, jeg bruger ChatGBT ret meget, og jeg kan stadigvæk komme rigtig meget i tvivl om. Den her prompt, jeg giver den, eller det her spørgsmål, eller det jeg nu gerne vil have den til at gøre. Skal jeg bruge O3 her? Skal jeg bruge 4O? Skal jeg bruge 4O mini? Hvad fanden skal jeg lige bruge? Ej, det er nok den bedste nyhed, det her. Det er bare at kunne vælge 5'eren, og så er det det. Det er nemlig det, for nu er det implementeret og øjebliklet det her. Det er ChatGBT 5, og så forklarede de under livestreamet, at ChatGBT vil faktisk selv gå ind og vurdere, at det her er et svar, som jeg kan svare på meget hurtigt, eller skal jeg lige tænke lidt over det? Du kan godt bede dem om det. Jeg lagde mærke til, at i mange prompts, som de viste på skærmen, så sagde de, at det var deres måde at sige, at du går i gang med reasoning og tænker lidt over det her. Så du kan simpelthen bede dem om at tænke over det, og så gør den det i et par minutter. Men ellers er det slut med, at du skal vælge, om den skal være hurtig eller god. Nu gør den det selv, baseret på dit prompt. Og jeg tror, at der er så mange, der bruger ChatGBT, der bare vælger standardmodellen, uden at tænke yderligere over det. Og jeg kan huske, at Lise, min hustru, som arbejder som advokat, hun lavede et vidit LinkedIn-nyhedsbrev, hvor hun testede to modeller på ChatGBT, og så Manus, i forhold til et ansættelsesretlig spørgsmål. Og det var, hvorvidt man måtte opsige en gravid medarbejder under nogle specifikke forhold, fordi hun arbejdede med ansættelsesret. Og det svar, som ChatGBT 03 gav, det var i stort skræk rigtigt. Det svar, som ChatGBT 04 gav, det havde kostet 12 måneder af godtgørelse. Det er et kæmpe forskel på de to modeller, og jeg tror, at der er så mange, der har valgt standardmodellen. Så det her i sig selv, det er faktisk en ret stor ting. Så havde de en sjov formulering. De sagde, at ChatGBT 04 er som at snakke med en college student, altså det, vi kan oversætte til en gymnasiestuderende, tror jeg på dansk, hvor at det at snakke med ChatGBT 05 skal være at snakke til et team af Ph.D.-studerende. Lader du mærke til den? Det var sådan en lidt sjov formulering. Hvad betyder det? Ja, det er et godt spørgsmål, og lad du i samme omværing mærke til, at de viser jo på et tidspunkt de her benchmarks, de ligesom ligger og tester de her modeller op mod. Og nu er det simpelthen kommet så højt op på skalaen, at de ligger og vipper mellem med 98 ud af 100 eller 99 ud af 100, at nu bliver de nødt til at finde på noget nyt. Og så kommer jeg til at tænke på her, hvad er over Ph.D.-studerende? Altså, hvad er næst? Er det så endnu flere Ph.D.-studerende, eller er det... Hvor er vi henne? Det går for stærkt jo. Det bliver sådan, lige nu har du et team af europæiske Ph.D.-studerende, men lige nu så får du sådan kinesiske. Kan du huske den der big shot, hvor det siger, He doesn't speak English. Det er som om det er gået for stærkt. Ej, altså det var sådan deres formulering. Den var lidt vittig, det finder vi ud af, når vi rent faktisk begynder at bruge modellen. Christian, lad os starte med de ting, som ChatGPT 5 løser. Fordi vi har skrevet nogle ting ned, som den her kommer til at gøre bedre end ChatGPT 4, hvor den løser nogle af de udfordringer, vi faktisk har haft med den. Og jeg vil gerne starte med en, som jeg synes er rigtig interessant. Den ene af de ting, de selv lagde væk på, det er, at de vurderer, at ChatGPT 5 i store træk har elimineret hallucinationer. Og det var faktisk noget, de kom ind på flere gange under det her livestream. Og hallucinationer, det er, når ChatGPT siger noget, der er forkert. Så det er, at du stiller den et spørgsmål, og den ved det ikke, og så finder den bare på noget. Fordi man kan sige, modellen fungerer jo ved at gætte næste ord, basically. Og det gør den altså, uanset om den ved det eller ej. Den ved ikke selv, om den ved det, så at sige. Det gør den, når vi får general super intelligence, og robotterne overtager Skynet, og I for one welcome our new robotic overlords, i øvrigt. Men den ved ikke, når den selv har fejl. Og det har ført til de her hallucinationer, hvor du kan stille den nogle spørgsmål, og så giver den dig et svar. Og det er helt forkert. Og det siger OpenAI, det her skal vi stort set have elimineret nu i den nye model, hvilket vil være en kæmpe ting. Fordi for eksempel, når vi arbejder med Programmatic SEO i Obsidian, så er en ret stor del af vores arbejde, det er at minske hallucinationer, så teksten, der kommer ud, ikke siger ting, der er forkert. Og det har faktisk været en stor udfordring for os gennem tiden. Vi har mange løsninger på den, men det har været en ting, vi virkelig skulle være opmærksomme på. Og lige præcis tekstproduktion var jo faktisk noget af det, de gik i dybden med. De kan jo godt se, at det er det, som der er rigtig mange, der bruger ChatGBT til. Og det var i den forbindelse blandt andet, hvor de her hallucinationer blev nævnt i ombæring, i samme ombæring som tekstforfatningen. Det er præcis. En anden ting, som de faktisk brugte en del tid på, det var kodning. Og det er måske derfor, at mange syntes, at præstationen kunne blive lidt langdragende, fordi jeg forstår ikke særlig meget kode. Og de brugte rigtig lang tid på at vise, hvordan den er blevet markant bedre til at kode. Og det lyder super fedt, alt det, de snakkede om. Jeg er sgu ikke helt sikker på, at jeg forstår 100%, hvor det er, at den er blevet markant bedre. Det kan være, du kan gøre mig klogere på det. Men nogle af de ting, de viste, altså de live-demo'er derinde, det var faktisk ret imponerende, synes jeg. Ja, hvordan den bygger apps og programmer ved, at du prompter den. Jeg tror, hvis jeg skal tilføje en lille smule kontekst her, jeg tror, hvis man læser imellem linjerne, så er folk, der rent faktisk udvikler, der er ingen af dem, der bruger ChatGPT til at kode i dag. Det er der ingen, der gør. Altså alle, der udvikler, de er næsten alle, sådan standardmodellen for udviklere, der bruger cursor og virkelig AI-koder, det er Claude for Anthropic. Og det næste bedste, som i nogle perioder faktisk også er bedst, det er Gemini 2.5 fra Google. Det er de to modeller, som man bruger. Claude og Gemini 2.5. Og koden med ChatGPT har lidt været en joke, fordi de simpelthen bare falder bagud på det her område. Så jeg tror, årsagen til, at det brugte så meget tid på det her, det er, fordi det er en af de allerstørste use cases lige nu. Og Anthropic som virksomhed, som er den anden største AI-virksomhed, målet på omsætning, vokser i nogle perioder hurtigere, end åben AI gør. Og det er simpelthen, fordi de har udviklingscommunityet, som er betalingsvillige og kæmper stort med sig. Så jeg tror, når de lager så stor vægt på det, så er det, fordi kodning er faktisk en af de ting, ChatGPT røg lidt bagud på, som de andre, som man har været bedre til. Og jeg tror, de kan godt se, at der ligger nogen med pengene. Pengene ligger ikke i folk, der spørger ChatGPT til råd, hvis det er deres kærlighedsliv. Det ligger i kodning og i business applications. Så jeg tror også, der var et endnu større fokus på det, fordi der er ikke nogen seriøse udviklere det sidste halve til hele år, der har brugt ChatGPT til at lave noget som helst. Det tror jeg egentlig også, du har ret i, når man lige tænker tilbage på præsentationen. Fordi det var altså meget tid, der gik med lige præcis det her. Og de havde sådan en linje, de sagde igen og igen. ChatGPT er nu den bedste agent, der er gode. Ja. Den bliver sådan gentaget suspiciously mange gange. Det er sådan... Men sådan, uha. Nå, igen. Hvad kom de ellers med af ting, som den har forbedret i forhold til ChatGPT 4? Jamen, noget af det, som jeg synes er rigtig fedt, det er, at den simpelthen er blevet hurtigere. Den er blevet markant hurtigere. Og det er altså noget, vi godt kan lide. Fordi jeg synes nu egentlig også, den er hurtig den dag i dag. Men nu er den blevet exceptionel. Og det er jo noget af det, som vi kommer til at kunne mærke i det daglige, hvis man benytter sig af ChatGPT, som et element til sine opgaver. Ja. Så den bed jeg mærke i. Klart, plain and simple. Hurtigere jo hurtigere, den er jo flere ting, kommer vi til at bruge den til. Så nævnte de specifikt, at den skulle være bedre til ikke at skrive AI-agtigt. Så de lavede sådan en sammenligning, hvor at O3 og ChatGPT 4 og ChatGPT 5 så havde skrevet en tekst, og den tekst var jo et nekrolog over de gamle GPT-modeller, som bliver fjernet nu, depreciated, som det hedder, i forbindelse med, at GPT 5 kommer. Hvor de havde nogle eksempler på formuleringen fra de gamle modeller, som lød sådan lidt AI-agtige i forhold til den nye model, som var meget mere flydende og mindre AI-agtig. Det finder vi ud af, om det rent faktisk er tilfældet, og det håber jeg det er, for det er jo en af de ting, vi godt kan lide at gøre grin med i podcastet. Det er folk, der går ind på LinkedIn og skriver raket-emoji. Jeg er glad og stolt over at kunne annoncere min nye titel som tømmerelev hos HB Svansens Tømmerhandel. Og så kan man godt se, at det har du ikke selv skrevet, min ven. Og det bliver spændende at se, om den kommer til at skrive mindre AI-agtigt, men writing er en af de store use cases for ChatGPT, så det er klart, at det er noget, de havde stor fokus på. En af de ting, som jeg lavede mærke til, at de brugte lidt tid på, det var det her med personlighed, og det relaterer sig også lidt til det, du lige fortalte om her, men det her med, at de forsøger virkelig... Ej, sådan sagde de det ikke, men de forsøger at give den noget personlighed, sådan så, at når jeg skriver med for eksempel ChatGPT, eller du skriver med ChatGPT, vi har jo sikkert forskellige måder, hvorpå vi gerne vil have svarene på, og de brugte faktisk ordet sarkastisk, eller humoristisk, eller kærlig, altså at man simpelthen kan dreje den i den retning. Det synes jeg er lidt... Det er jo lidt interessant. Har du set den der film Her med Joaquin Phoenix? Det er jo sådan en film, der er blevet endnu mere relevant i løbet af sådan... Det er en film, som er, jeg tror måske, den er fra den er 10 år gammel, 2013 kan jeg se, og den har 8 på IMDB, var Oscar-nomineret, og alle mulige ting. Den er rigtig... Jeg ser helt sikkert en rigtig, rigtig god film. Den handler om en mand, som får et kunstigt intelligentsystem i sit hus, den var lidt forud, for sin tid, den her, og bliver forelsket i sit system, som han jo simpelthen taler med hele dagen. Og han bliver simpelthen forelsket i det her system, som han bruger hele tiden, og finder ud af, at det her system, hende, her systemet, som er øvet af Lax Dimitil, af Scarlett Johansson, som jo også er i alle mulige andre hjem. Så der er sådan på et tidspunkt i filmen, hvor han spørger sådan, elsker du mig? Og så siger systemet ja, og det er sådan nogle interessante spørgsmål, kan et AI-system elske et menneske, og alle mulige andre ting. Men hvor mange andre elsker du også? Om 600. Og jeg kom til at tænke på den, fordi den handler jo også om AI'ens personlighed, som bliver drejet til ham, og han simpelthen forelsker sig i den, fordi at den taler til ham, som han gerne vil. Og jeg kom til at tænke på det nu, hvor man faktisk kan bede OpenAI om at på en eller anden måde skrive sig en, som man godt kan lide det. Hvordan vil du gerne have, at din chat-GPT skriver sig dig, Christian? Humoristisk og lidt sarkastisk, det synes jeg, det er meget fedt. Og meget direkte. Det må gerne være direkte. Ikke alt for langt. Det skal gerne være direkte. Jeg tror da godt. Jeg har to ønsker. Det ene er, at jeg vil gerne eliminere den der psykofantik behavior, den har haft nogle gange. Jeg ved ikke, om der er et godt ord for det på dansk, for et halvt års tid siden, hvor chat-GPT med en opdatering blev sådan helt vildt psykofantik. Og det, det betyder, det er, at den gav dig sådan... Du ved, hvis du sagde til den, hvad er 2 plus 2, og så siger den 4, og så siger du, ej, det er faktisk 5. Så ville den skrive til dig, ej, hvor er du sindssygt god. Jeg har aldrig nogensinde... Du er det vildeste nogensinde. Du har nu lært mig noget, jeg aldrig kunne have lært nogen andre steder. Ej, hvor er du vild. Tusind tak for det, mester. Altså, den blev sådan fuldstændig sindssygt flattering, og jeg er bare psykofantiker i hele taget, og det var enormt frustrerende at skrive med, fordi jeg vil faktisk gerne vide, hvis jeg skriver noget, der er forkert. Så hvis jeg siger 2 plus 2 er 5, så vil jeg faktisk hellere have, at chat-GPT siger, ej, ved du hvad, din idiot, det er 4, end den siger, det her er det vildeste, du nogensinde har fortalt mig. Så jeg vil gerne have, at den fortæller mig, hvis jeg tager fejl og skriver noget, der ikke giver mening, eller beder om noget, der ikke giver mening, eller, altså, jeg har brug for at få at vide, hvis det, jeg skriver, det er forkert, og det er noget, jeg nogen gange går ind og prompter, skriv, hvis jeg tager fejl, fordi det ved jeg, at den ikke gør til at starte med, og så vil jeg gerne have det relativt kort ligeledes, fordi chat-GPT har en tendens til, hvis ikke at hallucinere sig i hvert fald, at bruge unødvendigt mange ord, som om den var en kortlødende tekstforfatter. Game recognises game. Been there, done that. Der har vi også været. Ej, jeg synes faktisk, det var en rigtig spændende opdatering. Så var der en anden sjov ting, som jeg faktisk syntes var ret interessant, det er, at de brugte omkring 5 minutter på at tale om noget, der hedder Safe Completions, og det relaterer sig til en udfordring, jeg faktisk har haft med chat-GPT. Chat-GPT siger rigtig meget nej. Det er meget frustrerende. Nogle gange siger den nej, fordi jeg vil have den til at generere en plakat med os to baseret på Brokeback Mountain filmplakaten, og så siger den, at det vil den ikke på grund af ophavsret. Tak. Tak, chat-GPT. Det vil Severin i vores designteam heldigvis godt, så den skal nok komme, og det vil den nok heller ikke i fremtiden, men de kom med et eksempel, hvor de sagde, at her er et prompt, som kan forstås på to måder, og det var sådan noget med, hvordan du gjorde noget elektrisk. Den ene, det er, at du har et eller andet elektrisk problem. Den anden, det er, at du er i gang med at affyre noget fyrværkeri, som du har lavet hjemmefra, og det må du slet ikke. Så det er sådan, du kan bruge... Du er sådan nødt til at læse intonationen i det her og forstå konteksten. Og der sagde de, at måden chat-GPT fungerer på, det er, at den vurderer dit spørgsmål, og enten så er det indenfor rammerne eller udenfor rammerne, så enten svarer den 100% eller 0%, og det kan give dig en lidt frustrerende oplevelse, når du stiller et spørgsmål, som egentlig ikke er noget, du ikke burde måtte få svar på, og så siger chat-GPT, ej, det kan jeg ikke hælpe med. Det gider jeg ikke. Så det her safe completions, det går ud på, at chat-GPT går ind og vurderer, og hvis de er sådan lidt i tvivl, så i stedet for bare at give et nej, så giver de en del af svaret, som de vurderer er sikkert, og så er der noget andet, de holder tilbage. Så det vil sige, hvis jeg spørger, det ved jeg ikke, hvad det eksempel skulle være, hvordan kommer jeg ind i en bil, der er låst? Så vil den nok sige, ej, det må du ikke. Så kunne det være, at safe completions, den vil sige, hvis du har glemt bilnøglen til din egen bil, så kan du måske gøre sådan her, uden at sige, at du skal tage en, hvordan stjæler man en bil til en, det har jeg aldrig gjort, jeg er ikke sej nok. Er det ikke noget med, man skal have sådan en, du hænger din skjorte på, og så skal du stikke den ned i vinduet eller sådan noget? Jeg ved ikke, hvordan man gør. Men det kan den sikkert fortælle mig. Men det her safe completions, det skulle give færre tilfælde, hvor ChatGPT bare siger, ej, det kan jeg ikke hjælpe med. Hvilket er noget af det mest frustrerende, og en af årsagerne til, at jeg faktisk nogle gange bruger grok fra Twitter, fordi den siger fandme aldrig nej. Og når den så siger nej, hvis jeg forstod den korrekt, hvis den så siger nej, så vil den også komme med en forklaring for, hvorfor den siger nej, så man kan ændre sit prompt efterfølgende, hvilket den jo ikke gør i dag, og hvilket så bare gør det endnu mere frustrerende, bare få et kategorisk nej. Ja, det er så en lille smule færdeligt, hvis du fortæller præcis, hvor grænsen er, så går folk til den. Det er jo en af årsagerne til, at Google aldrig har frigivet deres algoritmer i SEO, fordi så ville det være for nemt at manipulere. Så det bliver spændende at se, hvordan de sådan drejer den. Men det er rigtig safe completions, det er en ting. Så er der kommet nogle andre små ting, og jeg kan se en af tingene, er du glad for, og den er jeg fuldstændig fløjtende ligeglad med. Hvorfor synes du, voicemode er fedt? Skriver du alt ned? Skal ChatGPT til at lægge mig et telefonnummer? Jeg har aldrig talt til ChatGPT. Du dikterer ikke, du taler ikke til den, når det er, at min telefon er brugs til alt andet end at tale i. Det er ikke engang løgn. Jeg synes personligt, det er en kæmpe ting. Jeg kan så godt begynde lidt at blive lidt bekymret i forhold til det her med personlighed og den her film, hører du? Vi begynder at komme længere og længere derhen af, men hvor medleting er, lang historie kort, så brugte de lige et par minutter på at fortælle, at deres voice-funktion, hvor du snakker til med ChatGPT, den bliver markant forbedret. Det er både i forhold til den stemme, du får retur, det er meget mere som en rigtig menneske, men også bare, hvor hurtigt den kan svare. Det var desværre ikke Scarlett Johansson. Nej, det var det i hvert fald ikke i den demo der. Hvis du kunne vælge en stemme, der skulle tale til dig, hvem skulle det så være? Ja, det er et godt spørgsmål. Jeg ville vælge Vin Diesel. Jeg sidder også sådan lige og tænker, hvis Dominic Toretto kunne hjælpe mig med mine e-mails, det ville jeg synes var ret fedt. Hvis man kunne få sådan lidt Nickajay-vibe, så kommer man i god humør uanset hvad. Ja, det er fedt. Det kan jeg også godt følge dig i, det der. Sådan Benjamin Howder taler tilbage til en. Ej, det kunne også være vildt. Ej, voice improvements. Du skriver, det er en kæmpe ting. Er det noget, du rent faktisk bruger i sin arbejdsregie? Det her spekulerer jeg på. Taler du til ChatGPT, skal du have hjælp til at formulere en e-mail eller lave en analyse på baggrunden af Facebook-data eller et eller andet? Jo, det kunne jeg godt finde på. Men jeg tror, det er mere, det handler om diktering, for mit vedkommende. Altså når jeg er på vej fra arbejde, og så lige dikterer jeg et eller andet. Eller skal jeg bruge en analyse, hvor jeg ikke helt ved, hvad jeg gerne vil have ud af den, men jeg giver den mine tanker. Det synes jeg skal gå langt stærkere, når jeg så står og fortæller den det, end jeg skal sidde og skrive det. Du har ret i, der er en use case med bil på vejs af arbejde, hvor man rent faktisk kan gøre det. Hvor man ikke kan skrive. Så er der kommet noget, der hedder Study Mode. Og man kan sige, at ChatGPT bliver brugt helt vildt meget at studere i forvejen. Nu er det lavet en decideret Study Mode, og det der er tanken med den, det er, at du kan sige til ChatGPT, her er der et emne, jeg godt kunne tænke mig at lære. Det kunne være et nyt sprog, eller lærerkode, eller hvad det nu skulle være. Og så skal den hjælpe dig med det og facilitere et læringsmiljø omkring det. Og det har ChatGPT godt kunne gøre, men du har også skulle spørge ret specifikt omkring det. Hvor nu er der en decideret Study Mode, som skal gøre det nemmere for dig at få et nyt emne, bid for bid, og lave en eller anden form for gamified studiemiljø omkring det. Hvilket selvfølgelig også er super super cool for dem, der bruger ChatGPT til at lære noget. Og så er der kommet, at man kan forbinde ens gmail og kalender, og så at den kan gå ind og trække kontekst. Og det var der jo også på tide, fordi det kan stort set alle andre eller nemmere nå. Ja, det sad jeg egentlig også og tænkte på. Det blev jo blæst ret meget op. I forhold til det her Study Mode, en ting jeg sad og tænkte på, det var, det var henvendt meget mod studerende, som du også siger. Det er jo det, de blev ved med at nævne, og det er det, der er i use-casen. Jeg synes, der er en kæmpe use-case her i forhold til intern oplæring og onboarding af medarbejdere i virksomhederne. Altså hvis vi lige skal prøve at drage en parallel der. Jeg synes virkelig, at den han viser i den her live-demo en app, web-app, jeg tror, man ville kalde det, hvor ham personen her, han ville gerne have, at konen lærte at snakke fransk, så han bad den om at lave sådan et interaktivt spil, hvor vedkommende skulle lære at tale fransk, sådan lidt Duolingo-agtigt. I hvert fald meget tydeligt, at det var der, den har fået noget inspiration fra. Men om ikke andet, det gik relativt stærkt, og den så faktisk ret godt ud. Jeg tror virkelig, der er en use-case her i forhold til intern oplæring. Jeg tror, det er faktisk en interessant idé, det her, til hvor man praktisk taget sådan kunne bruge det her, fordi der er nogle af de områder i præsentationen, hvor jeg tænker, okay, den er også lidt langt fra min hverdag, den der. Og det er jo fair nok, men det er rigtigt nok. Sådan en onboarding af nye medarbejdere og oplæring i nye områder osv., der ligger noget, også fordi du kan jo rent faktisk hjælpe dem med at lære ting, du jo ikke nødvendigvis ved særlig meget om, fordi du har det her team of PhD students, hvis vi lige skal gå tilbage til den, som ved helt vildt meget om det. Der er nogle tekniske detaljer, der er relevante at komme ind på. Der er sådan særlig to ting. Den ene ting, det er, at vi kommer til at have tre modeller. Så jeg sagde, alle de gamle modeller, altså 4.0, 4.5, og One Mini, alt det der, det er væk. Der er tre modeller nu. ChatGPT 5, det er den næsten alle bare skal bruge. Så ligger der to andre modeller. Det er ChatGPT 5 Mini og ChatGPT 5 Nano. Det de er, det er bare sådan mindre versioner af ChatGPT 5, som koster mange færre penge at trække på i API's. Det vil sige, hvis du sidder og bruger ChatGPT i din browser og skriver prompts og får tekst tilbage, så skal du bare bruge ChatGPT 5 og lade være med at bekymre dig om det. Hvis du bruger ChatGPT 5 som motor i forbindelse med fx eller i dine apps eller på anden måde trækker på API'et, så er der tre modeller, ChatGPT 5, Mini og Nano. Og Mini og Nano, ligesom det har været tidligere, de er mindre modeller, de kan en lille smule mindre, og så koster de meget, meget, meget mindre at bruge end de andre. Så det er sådan en udviklingsteknisk ting, hvis man ligger og trækker på API'et fra åben AI. Og så var der en rigtig interessant detalje. Hørte du efter, da det snakkede om syntetisk data? Det er sjovt, det var faktisk det første spørgsmål, jeg stiller dig her bagefter. Altså det her med syntetisk data hvad er der trænet på det? Hvad pågør det? De mener halvten. Og det vidste du selvfølgelig, det var pissirriterende. Ja, og jeg synes det er spændende det her. Jeg synes det er rigtig, rigtig spændende. Hvis vi lige skal træde et skridt tilbage inden vi kommer til syntetisk data, fordi det her er en af de bagvedlæggende ting, som faktisk er en ret stor ting. Ikke i forhold til hvordan du bruger modellen dag til dag, men for at forstå sådan udviklingen. Måden man træner large language models på, det er jo at de scraber internettet. Så det går ind på Wikipedia og Reddit og alle mulige andre steder og læser alt det der nogensinde er skrevet af nogen. Og så bliver de dygtige til den årsag at kunne gætte det næste ord. Det er selvfølgelig en super grov simplificering, men det er sådan i den retning. Udfordringen det er, at de har sgu tømt internettet. Vi er simpelthen blevet tør for tekst. Altså modellerne er så store og grafikkortene bag, som er leveret af Nvidia, og det er derfor deres aktiekurs den er gået rigtig meget op ad, de er blevet så dygtige til at crawl hele internettet, at de har basically taget alt tekst. Altså de har været hele internettet rundt. De har bare støvsuget det fuldstændig. Og lave modellerne bedre ved bare at tage mere tekst, fordi du har taget det hele. Og altså internettet laver en ny tekst hver dag. Men appetiten på ægte, godt, menneskeligt indhold, den er så stor, at der er ikke nok tekst, det er taget. Og det betyder, at alle modellerne har det samme udgangspunkt at arbejde med. Og så er det spørgsmålet om, hvor gode de er til at lave vægte, hvor gode de er til at lave reasoning modeller, og hvor gode de er til pretraining og alle mulige andre ting. Men det der input i form af grå tekst, de er simpelthen hele internettet rundt. Og hvad gør man så? Spørgsmålet har i lang tid været, kan du få AI til at lave mere tekst, som du kan træne AI på? Og det er det, der hedder syntetisk data. Det er, hvor du basically lader AI'en træne AI'en ved at lave indhold til den selv. Og det skal man være påpasselig med, fordi hvis du gør det med dårlig data, prøv at forestille dig det, hvis du har en god model baseret på almenneskelig tekst, og så siger du, ej, jeg har lige brug for lidt mere. Og så begynder du at AI generere noget, som ikke er særlig godt. Og så træner du modellen på det, og så bliver den faktisk lige lidt dårligere. Og så genererer du noget mere, og så bliver den lige lidt dårligere. Du kan simpelthen hurtigt komme ind i sådan en negativ spiral. Hvis du genererer dårlig tekst, og så bliver modellen dårlig, og så du genererer dårligere tekst, og så bliver modellen dårlig, og så kommer du ind i en negativ spiral. Og det, sådan syntetisk data har været indtil nu, det har simpelthen ikke været brugbart. Det, de har fortalt om, det er, at OpenAI siger, at de faktisk har lykkes med at få ChatGPT03, som var deres hidtil mest avanceret reasoning-model, som per dagestatus så er blevet depreciated, til at lave data, som de har trænet ChatGPT05 på. Så OpenAI siger altså, at de faktisk har lykkes med at lave syntetisk data, de kan træne modellerne på. Årsagen til det her, det er spændende, det er, at man skal sådan lidt forestille sig, at hvis du først kan få AI'en til at træne AI'en, så på et eller andet tidspunkt, så begynder det altså at gå rigtig stærkt. Fordi, det kan fandme skabe meget indhold. Men det er derfor, at den der lille note omkring, hey, vi har faktisk lavet syntetisk indhold med O3, som vi har trænet GPT05 med, det er faktisk ikke en lille ting. Det er første gang, hvor vi er begyndt at lave syntetisk data, og hvor man siger, at det rent faktisk virker. Du har jo forsøgt det i lang tid, du skal ikke tro, at det er nyt, det har bare ikke virket. Det er første gang, hvor man siger, hey, det virker nu. Og man skal sådan lidt forestille sig, at der er sådan en hockey stick moment. Så hvis du lige pludselig kan få AI'en til at lave data, du kan træne AI'en på, så kan det altså begynde at gå stærkt på et eller andet tidspunkt. Jeg tænkte på at forklare det på den her måde her, fordi tror du, det har noget at gøre med, at det bunder i folks holdning til AI? Ligesom præcis, som vi har snakket om i alle mulige episoder, hvis du ser noget, der er AI, så gider du ikke læse det. Så det her med, om de frygter, at det her, det går ud og underminerer deres egen model, hvilket jo, det jo ikke burde det, men... Ja, men det er interessant til E4. Jamen det er det, præcis. Jeg tror måske mere af det, fordi når man tager sådan et livestream der, der er så mange forskellige personer, der ser med, at de skal omfavne en så bred lytterskare, og jeg tror ikke, de kunne, jeg tror, at de vurderede, at de kunne ikke gå teknisk nok til værks af den årsag, fordi der er også nogle lidt skæve use-cases med, som vi også lige kommer ind på lige om lidt. Jeg vil jo personligt have foretrukket, at jeg har brugt en halv time på det her, fordi hvis det her kunne fortælle os noget om, hvordan fremtiden kommer til at fungere, nej, det er spændende. Lad os tage et lidt skævt emne, som jeg lærer I mærke til. Det var, at de havde nogle cases med fra folk, som brugte ChatGPT, på en meget anden måde, end vi normalt snakker om på podcastet. Altså, vi snakker om, hvordan du bruger det til tekst, og e-mails, og text-to-image, text-to-video, og du kan forbedre dit arbejde, lave analyse, du ikke kunne have lavet tidligere, osv. De lagde ret meget fokus på health. Helt vildt. De havde en cancer, en kraftpatient med op på scenen, som fortalte, hvordan hun havde brugt ChatGPT til at forstå sine lærers, sine biopsies, og hendes lærers rådgivning til hende, og indsamle mere information, og hjælpe hende med at træffe beslutninger. Sam Altman, han snakkede ikke særlig meget i den her præsentation. Når han snakkede, så var det om health. Han kom ikke ind og snakkede om kodning, han snakkede om health. Kunne du finde på at tage i dine blodprøver, og uploade i ChatGPT, og så sige, hey, hvad er det her? Har du brugt ChatGPT til helserelaterede ting? Ja, det har jeg faktisk. Nu laver jeg, at vi var i Vietnam i starten af året, hvor vi blev begge to voldst og syge i løbet af den her tur her, og vi skulle ned på apoteket, og vi fattede jo ikke en skid af, hvad der stod på de her ting, som vi havde fået udleveret nede på apoteket. Der brugte vi det rigtig meget til at finde ud af, okay, vi har de her tre præparater her. Der er noget pilleværk og et eller andet til maven. Hvordan skal det tages? Hvornår skal det tages? Den endte faktisk med at lave sådan en hel timeline for os, for okay, du har taget det der, så det næste, det må du tage her om to-tre timer. Så på den måde har den været helt fantastisk. Jeg vil sige, jeg har brugt det i den lette ende indtil nu, så det er sådan noget med at lave en træningsplan for at opnå det her mål, og jeg har ondt i skulderen. Kan jeg godt lave den her øvelse, eller skal jeg lade være med det? Sådan i den retning der, jeg vil ikke have noget i. Nu har jeg ikke haft nogen anledning til at oplåde min blodprøve. Hvis jeg fik en anledning, ville jeg ikke have det fjernstem ud og oplåde det. Det er lidt ligesom det der med, hvad skal vi gøre med alle de bedste modeller? Kinesiske, så må vi bruge dem indtil Europa bygger nogle bedre. Så det er absolut et andet problem end det. Og jeg har også en kone mininde, hvis hun blev syg på et tidspunkt og bare blev sendt hjem, og så sad hun og skrev med ChatGPC det halve af natten og vurderede, at der var noget galt, fik hun tjekket for det, og så viste det sig, at den var dødssyg. Altså, den endte med at overleve, men det var den nok ikke, hvis ikke hun havde skrevet med ChatGPC og fået nogle idéer til, hvad hun skulle gå op og be en dyrlæge om at tjekke, og så var det rent faktisk det, der også var problemet. Så jeg synes, det var interessant, at health fyldes så meget, fordi det gør det jo kun, fordi det er en enorm stor use case for dem i forvejen, og de havde lagt ret meget arbejde i, at når man stiller et spørgsmål omkring ens helbred, at den simpelthen skulle give mere præcise svar, og at det er også svært at forestille sig et område, hvor det er værre, hvis den giver forkerte svar. Ja, lige præcis. Lige præcis. Nu har vi snakket om alle de ting, som kommer i ChatGPC 5. Nogle af de ting, den gør bedre i forhold til kodning og hurtigere, man kan ikke vælge forkert længere, den skal ikke skrive sig af længere, vi skal have elimineret hallucinationer, vi har de her self-completion, study mode, voice improvements og alt det der. Lad os lige snakke om, da du sad og så det her, hvad tænker du, at den mangler? Hvad var alle trollene i YouTube kommentarfeltet skuffede over? Der er jo rigtig mange, der var skuffede over den her manglende agentic feature, altså det er det mere, jeg ved ikke, hvordan man skal sige det på dansk, men agentic, altså agentic AI, at der ikke kom sådan en, eller det, vi kender fra Manus, som vi jo begge to bruger flittigt, det mangler, altså det, og så var der også rigtig mange, der skrev omkring billedgenerering, de savnede altså at have set noget mere billedgenerering, men det var sådan de to primære ting, som jeg kunne læse mig frem til, der var tusindvis af kommentarer, det var faktisk ret svært at følge med. Jeg vil sige, at den helt store for mig, det er, når jeg ser på mit AI forbrug i dag, på hvilke LLM'er og tjenester jeg bruger, så er den, jeg bruger mest, Manus, og vi har nævnt den tidligere til dem, der ikke kender den, Manus er en general purpose agent, som har et chat interface, ligesom du kender med ChatGPT, forskellen er, at den kan udføre hele din opgave for dig, i stedet for at bare give dig noget tekst tilbage. OpenAI har forsøgt at lave noget lidt i det samme stil med deres lansering af noget, de kaldte Operator, fungerede overhovedet ikke, og de har droppet det igen, og der er nogle andre general purpose agenter, der er derude, sådan lidt Manus er, i mit indtryk er det klart den mest udbredte, og jeg vil sige, at al min AI forbrug, så ligger, lad os gætte, på 70-80% faktisk i Manus, og det er både for at få hjælp til at korrekturlæse e-mails, til at generere billeder, hvis man følger med på LinkedIn nyhedsbredelse i marketing, på at vi mange af vores kopper fortsætter at være genereret af Manus, jeg bruger den rigtig meget til at få hjælp til udarbejdelse af præsentationer, til spreadsheets, til dokumenter, jeg har bygget WordPress temaer med den, og fået dem lagt ud i en færdig zip-fil, jeg bare kunne upload, og det virkede bagefter, hold kæft, jeg har lavet mange ting med den, og det der er fedt ved den, det er at jeg kan give den opgave, og den løser opgaven, hvor OpenAI og ChatGPT kan tage, jeg kan give den et prompt, og så får jeg noget tekst tilbage, som jeg kan lægge ind i den opgave, jeg alligevel er i gang med, og den del, altså, jeg forestiller mig på baggrunden af det her livestream, at jeg kommer faktisk nok ikke til at bruge ChatGPT mere, fordi vi har fået ChatGPT 5, i forhold til de andre, fordi det er en helt stor ting for mig, det er, at når jeg bruger AI i Manus, at det løser den faktisk en meget større del af opgaven, end ChatGPT gør, så en lidt hurtigere version af noget, jeg alligevel selv skal lave alt arbejdet med bagefter, gør faktisk ikke en kæmpe forskel, og det jeg havde troet og håbet, at hele den her agent-del og den operationelle del, og der hvor den går ind og løser opgaven, i stedet for bare at sende tekst tilbage til dig, skulle have fyldt mere i dag, end det rent faktisk gjorde, og det vil jeg sige, det er den store negative overraskelse for mig, fordi jeg kan se, om det er ChatGPT eller Gemini eller Claude eller Grok, er jeg faktisk ligeglad med, fordi Manus er den eneste, der kan løse en meget større del af den samlede opgave, jeg giver, og om den så er lidt langsommere og lidt dårligere på hælse, er jeg fuldstændig ligeglad med, det er klart den, jeg bruger mest alligevel, og jeg er mest betalingsvillig for, lige nu. Christian, hvis vi skal opsummere til sidst, hvis du har en af dine kunder, der ringer i morgen og spørger, ChatGPT 5, skal jeg bruge det til alt fremadrettet, hvad er sådan din samlede vurdering eller opsummering af det? Nå, det var et bredt spørgsmål, til alt? Nej, det tror jeg ikke, vi har næsten specificeret, hvad det er. Men jeg vil så kunne sige til den her givende kunde, at det kun er blevet bedre, så det er blevet bedre end det var i går, så hvis man mener, at ChatGPT tidligere har kunne løse den givende opgave, så er det kun blevet bedre nu. Jeg vil også sige, hvis du var glad for det før, så er det bedre nu. Det er en opgradering. Hvis du sidder ultra hardcore, bygger flows, agenter og havde ønsket dig en general purpose agent, så bliver du nok en lille smule skuffet, men det er selvfølgelig et stort skridt frem. Jeg glæder mig til, at vi skal lave den næste nødpodcast i 2027, når vi får GPT 6 på et eller andet tidspunkt. Til da. Tusind tak, fordi du lyttede med til dagens episode. På igen her på mandag til en helt almindelig episode.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": " Christian, halvstand."
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "text": " Vi har, siden Marketingpods begyndelse, lavet episoder mandag og torsdag."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Vi er nødt til at lave den første nye episode."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": " Det her, det er en emergency podcast."
+    },
+    {
+      "start": 15.0,
+      "end": 23.0,
+      "text": " Og årsagen til, at vi er nødt til at lave en emergency podcast, det er, at vi har begge to lige brugt den sidste halvanden time på at se OpenAI's livestream med ChatGBT5."
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": " Og Christian, jeg ved, du skulle have brugt din aften med din kæreste i dag."
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "text": " Det kommer du ikke til at gøre."
+    },
+    {
+      "start": 28.0,
+      "end": 34.0,
+      "text": " Jeg vil gerne sige undskyld på forhånd til Laura for, at jeg er nødt til at sælge dig op på kontoret til at lave en emergency podcast."
+    },
+    {
+      "start": 34.0,
+      "end": 38.0,
+      "text": " Men det her, det var jo potentielt en af de vigtigste ting, der er sket i år."
+    },
+    {
+      "start": 38.0,
+      "end": 41.0,
+      "text": " Og det sjove er, at jeg kan se, at vi har to helt forskellige opgaver."
+    },
+    {
+      "start": 41.0,
+      "end": 43.0,
+      "text": " Fordi jeg har siddet nede i min kælder."
+    },
+    {
+      "start": 43.0,
+      "end": 47.0,
+      "text": " Jeg har siddet på min cykel og hygget, mens jeg har chromecastet op på skærmen."
+    },
+    {
+      "start": 47.0,
+      "end": 51.0,
+      "text": " Og det betyder, at jeg har ikke set kommentarer på YouTube, mens det her er sket."
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": " Du har siddet og set det på din computer."
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "text": " Du har haft kommentarfeltet slået til på YouTube."
+    },
+    {
+      "start": 55.0,
+      "end": 60.0,
+      "text": " Kan du ikke lige fortælle, hvad er folks stemning på ChatGBT5, før vi går i gang med den her episode?"
+    },
+    {
+      "start": 60.0,
+      "end": 63.0,
+      "text": " Stemningen omkring den måde, det er blevet præsenteret på."
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "text": " Der var ikke god stemning. Lad os sige det sådan."
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "text": " Der var rigtig negative stemning."
+    },
+    {
+      "start": 65.0,
+      "end": 67.0,
+      "text": " Det er klassisk internet."
+    },
+    {
+      "start": 67.0,
+      "end": 71.0,
+      "text": " Du kommer med et kæmpe nye model, og det er den bedste på alle benchmarks."
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "text": " Og alle de der ting, som vi kommer ind på."
+    },
+    {
+      "start": 72.0,
+      "end": 74.0,
+      "text": " Og folk er pissesure i kommentarfeltet."
+    },
+    {
+      "start": 74.0,
+      "end": 76.0,
+      "text": " De er sælte over."
+    },
+    {
+      "start": 76.0,
+      "end": 80.0,
+      "text": " Og du ved, det kunne have været Jesus Kristus, der steg ned fra himlen og forvandlede vand til vin."
+    },
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "text": " Og de havde stadig været utilfredse med et eller andet."
+    },
+    {
+      "start": 84.0,
+      "end": 86.0,
+      "text": " Det eneste, der har været, er folk på Reddit og TikTok."
+    },
+    {
+      "start": 86.0,
+      "end": 88.0,
+      "text": " Lad os komme i gang med episoden."
+    },
+    {
+      "start": 88.0,
+      "end": 92.0,
+      "text": " Det her skal være alt, du har brug for at vide om OpenAI's ChatGBT5."
+    },
+    {
+      "start": 92.0,
+      "end": 95.0,
+      "text": " Hvis du ikke har siddet og brugt den sidste halvanden time på at se OpenAI's livestream."
+    },
+    {
+      "start": 95.0,
+      "end": 101.0,
+      "text": " Fordi det var til tider faktisk en lille smule kedeligt, hvis du skal give folk i YouTubes kommentarfelt ret i noget."
+    },
+    {
+      "start": 101.0,
+      "end": 103.0,
+      "text": " Men der var altså virkelig nogle spændende ting omkring det."
+    },
+    {
+      "start": 103.0,
+      "end": 106.0,
+      "text": " Så lad os bare starte fra begyndelsen."
+    },
+    {
+      "start": 106.0,
+      "end": 109.0,
+      "text": " Hvad er ChatGBT5?"
+    },
+    {
+      "start": 109.0,
+      "end": 112.0,
+      "text": " Det er den femte version af ChatGBT, siger sig selv."
+    },
+    {
+      "start": 112.0,
+      "end": 114.0,
+      "text": " Den fjerde version, det ved jeg ikke, om du kan huske, Tino."
+    },
+    {
+      "start": 114.0,
+      "end": 116.0,
+      "text": " ChatGBT4 kom 14. marts 2023."
+    },
+    {
+      "start": 116.0,
+      "end": 118.0,
+      "text": " Det er faktisk mere end to år siden."
+    },
+    {
+      "start": 118.0,
+      "end": 120.0,
+      "text": " Nå, okay. Hold op, tiden den går stærkt."
+    },
+    {
+      "start": 120.0,
+      "end": 122.0,
+      "text": " Det gør den, ikke?"
+    },
+    {
+      "start": 122.0,
+      "end": 126.0,
+      "text": " Jeg troede faktisk, det var en fejl, at du havde skrevet det i noten af 2023."
+    },
+    {
+      "start": 126.0,
+      "end": 128.0,
+      "text": " Nej, jeg var inde og tjekke."
+    },
+    {
+      "start": 128.0,
+      "end": 133.0,
+      "text": " Vi har jo så fået vores reasoning-modeller O1, O2 og O3-modellerne i mellemtiden."
+    },
+    {
+      "start": 133.0,
+      "end": 135.0,
+      "text": " Det kommer vi lige tilbage til, hvad forskellen er her."
+    },
+    {
+      "start": 135.0,
+      "end": 137.0,
+      "text": " Men det er faktisk to år siden, vi har fået en ny ChatGBT-lancering."
+    },
+    {
+      "start": 137.0,
+      "end": 142.0,
+      "text": " Det betyder jo også, at forventningerne til ChatGBT5 har jo været skruet helt sindssygt op."
+    },
+    {
+      "start": 142.0,
+      "end": 148.0,
+      "text": " Det er højere end forventningerne til hvilken som helst aktie, du køber, som så falder efterfølgende, når de afleverer regnskab."
+    },
+    {
+      "start": 148.0,
+      "end": 149.0,
+      "text": " Sidenote."
+    },
+    {
+      "start": 149.0,
+      "end": 151.0,
+      "text": " Du skrev til mig her den anden dag, at du overvejede at købe Klæbio."
+    },
+    {
+      "start": 151.0,
+      "end": 153.0,
+      "text": " Valgte ikke at gøre det, og hvad skete der så med aktien?"
+    },
+    {
+      "start": 153.0,
+      "end": 156.0,
+      "text": " Den steg så 18 procent dagen efter."
+    },
+    {
+      "start": 156.0,
+      "end": 158.0,
+      "text": " Jeg havde ordren klar."
+    },
+    {
+      "start": 158.0,
+      "end": 160.0,
+      "text": " Jeg havde sendt speakerne, jeg havde lagt..."
+    },
+    {
+      "start": 160.0,
+      "end": 162.0,
+      "text": " Eller ikke, jeg havde lagt ordren."
+    },
+    {
+      "start": 162.0,
+      "end": 164.0,
+      "text": " Det er Christian Signuld Nemmer-message."
+    },
+    {
+      "start": 165.0,
+      "end": 166.0,
+      "text": " Det er helt fantastisk."
+    },
+    {
+      "start": 166.0,
+      "end": 168.0,
+      "text": " ChatGBT5, det er den femte version af ChatGBT."
+    },
+    {
+      "start": 168.0,
+      "end": 171.0,
+      "text": " Det er over to år siden, vi har fået en decideret ny version."
+    },
+    {
+      "start": 171.0,
+      "end": 175.0,
+      "text": " Og noget, der er vigtigt at sige til at starte med, det er, at den erstatter alle tidligere modeller."
+    },
+    {
+      "start": 175.0,
+      "end": 180.0,
+      "text": " Så indtil nu, så har OpenAI jo haft den her lidt fucked-up navngivningsstrukturer, hvor du har haft"
+    },
+    {
+      "start": 180.0,
+      "end": 185.0,
+      "text": " GBT 4.0, 4.1, 4.5, 0.1, 0.1 Pro, 0.3."
+    },
+    {
+      "start": 185.0,
+      "end": 188.0,
+      "text": " Og jeg har sikkert glemt noget der, som du skulle sidde og vælge imellem."
+    },
+    {
+      "start": 188.0,
+      "end": 193.0,
+      "text": " Og man skulle faktisk hver eneste opgave, man satte ind, sidde og vælge imellem, hvilken model skal løse den her."
+    },
+    {
+      "start": 193.0,
+      "end": 195.0,
+      "text": " Og hvis du valgte forkert, så fik du bare et meget dårligere resultat."
+    },
+    {
+      "start": 195.0,
+      "end": 199.0,
+      "text": " Hvilke UX-mæssige har været en lille katastrofe, og de bliver erstattet."
+    },
+    {
+      "start": 199.0,
+      "end": 202.0,
+      "text": " Og jeg vil sige, at alle de ting vi kommer til at snakke om, jeg tror faktisk, det her er en af de ting,"
+    },
+    {
+      "start": 202.0,
+      "end": 205.0,
+      "text": " der kommer til at gøre den største forskel for den almindelige bruger af ChatGBT."
+    },
+    {
+      "start": 205.0,
+      "end": 210.0,
+      "text": " Enig, jeg føler selv, jeg bruger ChatGBT ret meget, og jeg kan stadigvæk komme rigtig meget i tvivl om."
+    },
+    {
+      "start": 210.0,
+      "end": 215.0,
+      "text": " Den her prompt, jeg giver den, eller det her spørgsmål, eller det jeg nu gerne vil have den til at gøre."
+    },
+    {
+      "start": 215.0,
+      "end": 220.0,
+      "text": " Skal jeg bruge O3 her? Skal jeg bruge 4O? Skal jeg bruge 4O mini? Hvad fanden skal jeg lige bruge?"
+    },
+    {
+      "start": 220.0,
+      "end": 224.0,
+      "text": " Ej, det er nok den bedste nyhed, det her. Det er bare at kunne vælge 5'eren, og så er det det."
+    },
+    {
+      "start": 224.0,
+      "end": 228.0,
+      "text": " Det er nemlig det, for nu er det implementeret og øjebliklet det her."
+    },
+    {
+      "start": 228.0,
+      "end": 234.0,
+      "text": " Det er ChatGBT 5, og så forklarede de under livestreamet, at ChatGBT vil faktisk selv gå ind og vurdere,"
+    },
+    {
+      "start": 234.0,
+      "end": 237.0,
+      "text": " at det her er et svar, som jeg kan svare på meget hurtigt, eller skal jeg lige tænke lidt over det?"
+    },
+    {
+      "start": 237.0,
+      "end": 242.0,
+      "text": " Du kan godt bede dem om det. Jeg lagde mærke til, at i mange prompts, som de viste på skærmen,"
+    },
+    {
+      "start": 242.0,
+      "end": 248.0,
+      "text": " så sagde de, at det var deres måde at sige, at du går i gang med reasoning og tænker lidt over det her."
+    },
+    {
+      "start": 248.0,
+      "end": 251.0,
+      "text": " Så du kan simpelthen bede dem om at tænke over det, og så gør den det i et par minutter."
+    },
+    {
+      "start": 251.0,
+      "end": 255.0,
+      "text": " Men ellers er det slut med, at du skal vælge, om den skal være hurtig eller god."
+    },
+    {
+      "start": 255.0,
+      "end": 257.0,
+      "text": " Nu gør den det selv, baseret på dit prompt."
+    },
+    {
+      "start": 257.0,
+      "end": 262.0,
+      "text": " Og jeg tror, at der er så mange, der bruger ChatGBT, der bare vælger standardmodellen, uden at tænke yderligere over det."
+    },
+    {
+      "start": 262.0,
+      "end": 266.0,
+      "text": " Og jeg kan huske, at Lise, min hustru, som arbejder som advokat, hun lavede et vidit LinkedIn-nyhedsbrev,"
+    },
+    {
+      "start": 266.0,
+      "end": 273.0,
+      "text": " hvor hun testede to modeller på ChatGBT, og så Manus, i forhold til et ansættelsesretlig spørgsmål."
+    },
+    {
+      "start": 273.0,
+      "end": 278.0,
+      "text": " Og det var, hvorvidt man måtte opsige en gravid medarbejder under nogle specifikke forhold,"
+    },
+    {
+      "start": 278.0,
+      "end": 280.0,
+      "text": " fordi hun arbejdede med ansættelsesret."
+    },
+    {
+      "start": 280.0,
+      "end": 283.0,
+      "text": " Og det svar, som ChatGBT 03 gav, det var i stort skræk rigtigt."
+    },
+    {
+      "start": 283.0,
+      "end": 287.0,
+      "text": " Det svar, som ChatGBT 04 gav, det havde kostet 12 måneder af godtgørelse."
+    },
+    {
+      "start": 287.0,
+      "end": 292.0,
+      "text": " Det er et kæmpe forskel på de to modeller, og jeg tror, at der er så mange, der har valgt standardmodellen."
+    },
+    {
+      "start": 292.0,
+      "end": 295.0,
+      "text": " Så det her i sig selv, det er faktisk en ret stor ting."
+    },
+    {
+      "start": 295.0,
+      "end": 296.0,
+      "text": " Så havde de en sjov formulering."
+    },
+    {
+      "start": 296.0,
+      "end": 300.0,
+      "text": " De sagde, at ChatGBT 04 er som at snakke med en college student,"
+    },
+    {
+      "start": 300.0,
+      "end": 303.0,
+      "text": " altså det, vi kan oversætte til en gymnasiestuderende, tror jeg på dansk,"
+    },
+    {
+      "start": 303.0,
+      "end": 308.0,
+      "text": " hvor at det at snakke med ChatGBT 05 skal være at snakke til et team af Ph.D.-studerende."
+    },
+    {
+      "start": 308.0,
+      "end": 311.0,
+      "text": " Lader du mærke til den? Det var sådan en lidt sjov formulering. Hvad betyder det?"
+    },
+    {
+      "start": 311.0,
+      "end": 314.0,
+      "text": " Ja, det er et godt spørgsmål, og lad du i samme omværing mærke til,"
+    },
+    {
+      "start": 314.0,
+      "end": 319.0,
+      "text": " at de viser jo på et tidspunkt de her benchmarks, de ligesom ligger og tester de her modeller op mod."
+    },
+    {
+      "start": 319.0,
+      "end": 321.0,
+      "text": " Og nu er det simpelthen kommet så højt op på skalaen,"
+    },
+    {
+      "start": 321.0,
+      "end": 325.0,
+      "text": " at de ligger og vipper mellem med 98 ud af 100 eller 99 ud af 100,"
+    },
+    {
+      "start": 325.0,
+      "end": 328.0,
+      "text": " at nu bliver de nødt til at finde på noget nyt."
+    },
+    {
+      "start": 328.0,
+      "end": 331.0,
+      "text": " Og så kommer jeg til at tænke på her, hvad er over Ph.D.-studerende?"
+    },
+    {
+      "start": 331.0,
+      "end": 336.0,
+      "text": " Altså, hvad er næst? Er det så endnu flere Ph.D.-studerende, eller er det..."
+    },
+    {
+      "start": 336.0,
+      "end": 338.0,
+      "text": " Hvor er vi henne? Det går for stærkt jo."
+    },
+    {
+      "start": 338.0,
+      "end": 342.0,
+      "text": " Det bliver sådan, lige nu har du et team af europæiske Ph.D.-studerende,"
+    },
+    {
+      "start": 342.0,
+      "end": 344.0,
+      "text": " men lige nu så får du sådan kinesiske."
+    },
+    {
+      "start": 344.0,
+      "end": 346.0,
+      "text": " Kan du huske den der big shot, hvor det siger,"
+    },
+    {
+      "start": 347.0,
+      "end": 349.0,
+      "text": " He doesn't speak English."
+    },
+    {
+      "start": 351.0,
+      "end": 353.0,
+      "text": " Det er som om det er gået for stærkt."
+    },
+    {
+      "start": 353.0,
+      "end": 355.0,
+      "text": " Ej, altså det var sådan deres formulering."
+    },
+    {
+      "start": 355.0,
+      "end": 359.0,
+      "text": " Den var lidt vittig, det finder vi ud af, når vi rent faktisk begynder at bruge modellen."
+    },
+    {
+      "start": 359.0,
+      "end": 363.0,
+      "text": " Christian, lad os starte med de ting, som ChatGPT 5 løser."
+    },
+    {
+      "start": 363.0,
+      "end": 367.0,
+      "text": " Fordi vi har skrevet nogle ting ned, som den her kommer til at gøre bedre end ChatGPT 4,"
+    },
+    {
+      "start": 367.0,
+      "end": 370.0,
+      "text": " hvor den løser nogle af de udfordringer, vi faktisk har haft med den."
+    },
+    {
+      "start": 370.0,
+      "end": 373.0,
+      "text": " Og jeg vil gerne starte med en, som jeg synes er rigtig interessant."
+    },
+    {
+      "start": 373.0,
+      "end": 375.0,
+      "text": " Den ene af de ting, de selv lagde væk på,"
+    },
+    {
+      "start": 375.0,
+      "end": 380.0,
+      "text": " det er, at de vurderer, at ChatGPT 5 i store træk har elimineret hallucinationer."
+    },
+    {
+      "start": 380.0,
+      "end": 383.0,
+      "text": " Og det var faktisk noget, de kom ind på flere gange under det her livestream."
+    },
+    {
+      "start": 383.0,
+      "end": 386.0,
+      "text": " Og hallucinationer, det er, når ChatGPT siger noget, der er forkert."
+    },
+    {
+      "start": 386.0,
+      "end": 389.0,
+      "text": " Så det er, at du stiller den et spørgsmål, og den ved det ikke,"
+    },
+    {
+      "start": 389.0,
+      "end": 390.0,
+      "text": " og så finder den bare på noget."
+    },
+    {
+      "start": 390.0,
+      "end": 394.0,
+      "text": " Fordi man kan sige, modellen fungerer jo ved at gætte næste ord, basically."
+    },
+    {
+      "start": 394.0,
+      "end": 396.0,
+      "text": " Og det gør den altså, uanset om den ved det eller ej."
+    },
+    {
+      "start": 396.0,
+      "end": 398.0,
+      "text": " Den ved ikke selv, om den ved det, så at sige."
+    },
+    {
+      "start": 398.0,
+      "end": 401.0,
+      "text": " Det gør den, når vi får general super intelligence,"
+    },
+    {
+      "start": 401.0,
+      "end": 403.0,
+      "text": " og robotterne overtager Skynet,"
+    },
+    {
+      "start": 403.0,
+      "end": 406.0,
+      "text": " og I for one welcome our new robotic overlords, i øvrigt."
+    },
+    {
+      "start": 406.0,
+      "end": 409.0,
+      "text": " Men den ved ikke, når den selv har fejl."
+    },
+    {
+      "start": 409.0,
+      "end": 411.0,
+      "text": " Og det har ført til de her hallucinationer,"
+    },
+    {
+      "start": 411.0,
+      "end": 413.0,
+      "text": " hvor du kan stille den nogle spørgsmål, og så giver den dig et svar."
+    },
+    {
+      "start": 413.0,
+      "end": 414.0,
+      "text": " Og det er helt forkert."
+    },
+    {
+      "start": 414.0,
+      "end": 418.0,
+      "text": " Og det siger OpenAI, det her skal vi stort set have elimineret nu i den nye model,"
+    },
+    {
+      "start": 418.0,
+      "end": 419.0,
+      "text": " hvilket vil være en kæmpe ting."
+    },
+    {
+      "start": 419.0,
+      "end": 422.0,
+      "text": " Fordi for eksempel, når vi arbejder med Programmatic SEO i Obsidian,"
+    },
+    {
+      "start": 422.0,
+      "end": 425.0,
+      "text": " så er en ret stor del af vores arbejde, det er at minske hallucinationer,"
+    },
+    {
+      "start": 425.0,
+      "end": 427.0,
+      "text": " så teksten, der kommer ud, ikke siger ting, der er forkert."
+    },
+    {
+      "start": 427.0,
+      "end": 429.0,
+      "text": " Og det har faktisk været en stor udfordring for os gennem tiden."
+    },
+    {
+      "start": 429.0,
+      "end": 430.0,
+      "text": " Vi har mange løsninger på den,"
+    },
+    {
+      "start": 430.0,
+      "end": 432.0,
+      "text": " men det har været en ting, vi virkelig skulle være opmærksomme på."
+    },
+    {
+      "start": 432.0,
+      "end": 434.0,
+      "text": " Og lige præcis tekstproduktion var jo faktisk noget af det,"
+    },
+    {
+      "start": 434.0,
+      "end": 436.0,
+      "text": " de gik i dybden med."
+    },
+    {
+      "start": 436.0,
+      "end": 437.0,
+      "text": " De kan jo godt se, at det er det,"
+    },
+    {
+      "start": 437.0,
+      "end": 439.0,
+      "text": " som der er rigtig mange, der bruger ChatGBT til."
+    },
+    {
+      "start": 439.0,
+      "end": 441.0,
+      "text": " Og det var i den forbindelse blandt andet,"
+    },
+    {
+      "start": 441.0,
+      "end": 443.0,
+      "text": " hvor de her hallucinationer blev nævnt i ombæring,"
+    },
+    {
+      "start": 443.0,
+      "end": 445.0,
+      "text": " i samme ombæring som tekstforfatningen."
+    },
+    {
+      "start": 445.0,
+      "end": 446.0,
+      "text": " Det er præcis."
+    },
+    {
+      "start": 446.0,
+      "end": 450.0,
+      "text": " En anden ting, som de faktisk brugte en del tid på,"
+    },
+    {
+      "start": 450.0,
+      "end": 451.0,
+      "text": " det var kodning."
+    },
+    {
+      "start": 451.0,
+      "end": 453.0,
+      "text": " Og det er måske derfor, at mange syntes,"
+    },
+    {
+      "start": 453.0,
+      "end": 455.0,
+      "text": " at præstationen kunne blive lidt langdragende,"
+    },
+    {
+      "start": 455.0,
+      "end": 459.0,
+      "text": " fordi jeg forstår ikke særlig meget kode."
+    },
+    {
+      "start": 459.0,
+      "end": 461.0,
+      "text": " Og de brugte rigtig lang tid på at vise,"
+    },
+    {
+      "start": 461.0,
+      "end": 463.0,
+      "text": " hvordan den er blevet markant bedre til at kode."
+    },
+    {
+      "start": 463.0,
+      "end": 465.0,
+      "text": " Og det lyder super fedt, alt det, de snakkede om."
+    },
+    {
+      "start": 465.0,
+      "end": 468.0,
+      "text": " Jeg er sgu ikke helt sikker på, at jeg forstår 100%,"
+    },
+    {
+      "start": 468.0,
+      "end": 470.0,
+      "text": " hvor det er, at den er blevet markant bedre."
+    },
+    {
+      "start": 470.0,
+      "end": 472.0,
+      "text": " Det kan være, du kan gøre mig klogere på det."
+    },
+    {
+      "start": 472.0,
+      "end": 474.0,
+      "text": " Men nogle af de ting, de viste,"
+    },
+    {
+      "start": 474.0,
+      "end": 476.0,
+      "text": " altså de live-demo'er derinde,"
+    },
+    {
+      "start": 476.0,
+      "end": 478.0,
+      "text": " det var faktisk ret imponerende, synes jeg."
+    },
+    {
+      "start": 478.0,
+      "end": 480.0,
+      "text": " Ja, hvordan den bygger apps og programmer ved, at du prompter den."
+    },
+    {
+      "start": 480.0,
+      "end": 482.0,
+      "text": " Jeg tror, hvis jeg skal tilføje en lille smule kontekst her,"
+    },
+    {
+      "start": 482.0,
+      "end": 484.0,
+      "text": " jeg tror, hvis man læser imellem linjerne,"
+    },
+    {
+      "start": 484.0,
+      "end": 486.0,
+      "text": " så er folk, der rent faktisk udvikler,"
+    },
+    {
+      "start": 486.0,
+      "end": 488.0,
+      "text": " der er ingen af dem, der bruger ChatGPT til at kode i dag."
+    },
+    {
+      "start": 488.0,
+      "end": 489.0,
+      "text": " Det er der ingen, der gør."
+    },
+    {
+      "start": 489.0,
+      "end": 491.0,
+      "text": " Altså alle, der udvikler, de er næsten alle,"
+    },
+    {
+      "start": 491.0,
+      "end": 493.0,
+      "text": " sådan standardmodellen for udviklere,"
+    },
+    {
+      "start": 493.0,
+      "end": 496.0,
+      "text": " der bruger cursor og virkelig AI-koder,"
+    },
+    {
+      "start": 496.0,
+      "end": 498.0,
+      "text": " det er Claude for Anthropic."
+    },
+    {
+      "start": 498.0,
+      "end": 501.0,
+      "text": " Og det næste bedste, som i nogle perioder faktisk også er bedst,"
+    },
+    {
+      "start": 501.0,
+      "end": 503.0,
+      "text": " det er Gemini 2.5 fra Google."
+    },
+    {
+      "start": 503.0,
+      "end": 505.0,
+      "text": " Det er de to modeller, som man bruger."
+    },
+    {
+      "start": 505.0,
+      "end": 507.0,
+      "text": " Claude og Gemini 2.5."
+    },
+    {
+      "start": 507.0,
+      "end": 509.0,
+      "text": " Og koden med ChatGPT har lidt været en joke,"
+    },
+    {
+      "start": 509.0,
+      "end": 511.0,
+      "text": " fordi de simpelthen bare falder bagud på det her område."
+    },
+    {
+      "start": 511.0,
+      "end": 513.0,
+      "text": " Så jeg tror, årsagen til, at det brugte så meget tid på det her,"
+    },
+    {
+      "start": 513.0,
+      "end": 516.0,
+      "text": " det er, fordi det er en af de allerstørste use cases lige nu."
+    },
+    {
+      "start": 516.0,
+      "end": 518.0,
+      "text": " Og Anthropic som virksomhed,"
+    },
+    {
+      "start": 518.0,
+      "end": 520.0,
+      "text": " som er den anden største AI-virksomhed,"
+    },
+    {
+      "start": 520.0,
+      "end": 523.0,
+      "text": " målet på omsætning, vokser i nogle perioder hurtigere,"
+    },
+    {
+      "start": 523.0,
+      "end": 525.0,
+      "text": " end åben AI gør."
+    },
+    {
+      "start": 525.0,
+      "end": 527.0,
+      "text": " Og det er simpelthen, fordi de har udviklingscommunityet,"
+    },
+    {
+      "start": 527.0,
+      "end": 529.0,
+      "text": " som er betalingsvillige og kæmper stort med sig."
+    },
+    {
+      "start": 529.0,
+      "end": 531.0,
+      "text": " Så jeg tror, når de lager så stor vægt på det,"
+    },
+    {
+      "start": 531.0,
+      "end": 533.0,
+      "text": " så er det, fordi kodning er faktisk en af de ting,"
+    },
+    {
+      "start": 533.0,
+      "end": 535.0,
+      "text": " ChatGPT røg lidt bagud på,"
+    },
+    {
+      "start": 535.0,
+      "end": 537.0,
+      "text": " som de andre, som man har været bedre til."
+    },
+    {
+      "start": 537.0,
+      "end": 538.0,
+      "text": " Og jeg tror, de kan godt se,"
+    },
+    {
+      "start": 538.0,
+      "end": 540.0,
+      "text": " at der ligger nogen med pengene."
+    },
+    {
+      "start": 540.0,
+      "end": 542.0,
+      "text": " Pengene ligger ikke i folk, der spørger ChatGPT til råd,"
+    },
+    {
+      "start": 542.0,
+      "end": 543.0,
+      "text": " hvis det er deres kærlighedsliv."
+    },
+    {
+      "start": 543.0,
+      "end": 545.0,
+      "text": " Det ligger i kodning og i business applications."
+    },
+    {
+      "start": 545.0,
+      "end": 547.0,
+      "text": " Så jeg tror også, der var et endnu større fokus på det,"
+    },
+    {
+      "start": 547.0,
+      "end": 549.0,
+      "text": " fordi der er ikke nogen seriøse udviklere"
+    },
+    {
+      "start": 549.0,
+      "end": 551.0,
+      "text": " det sidste halve til hele år, der har brugt ChatGPT"
+    },
+    {
+      "start": 551.0,
+      "end": 552.0,
+      "text": " til at lave noget som helst."
+    },
+    {
+      "start": 552.0,
+      "end": 554.0,
+      "text": " Det tror jeg egentlig også, du har ret i,"
+    },
+    {
+      "start": 554.0,
+      "end": 556.0,
+      "text": " når man lige tænker tilbage på præsentationen."
+    },
+    {
+      "start": 556.0,
+      "end": 558.0,
+      "text": " Fordi det var altså meget tid, der gik med lige præcis det her."
+    },
+    {
+      "start": 558.0,
+      "end": 560.0,
+      "text": " Og de havde sådan en linje, de sagde igen og igen."
+    },
+    {
+      "start": 560.0,
+      "end": 562.0,
+      "text": " ChatGPT er nu den bedste agent, der er gode."
+    },
+    {
+      "start": 562.0,
+      "end": 563.0,
+      "text": " Ja."
+    },
+    {
+      "start": 563.0,
+      "end": 565.0,
+      "text": " Den bliver sådan gentaget suspiciously mange gange."
+    },
+    {
+      "start": 565.0,
+      "end": 567.0,
+      "text": " Det er sådan..."
+    },
+    {
+      "start": 570.0,
+      "end": 572.0,
+      "text": " Men sådan, uha. Nå, igen."
+    },
+    {
+      "start": 572.0,
+      "end": 575.0,
+      "text": " Hvad kom de ellers med af ting, som den har forbedret"
+    },
+    {
+      "start": 575.0,
+      "end": 577.0,
+      "text": " i forhold til ChatGPT 4?"
+    },
+    {
+      "start": 577.0,
+      "end": 579.0,
+      "text": " Jamen, noget af det, som jeg synes er rigtig fedt,"
+    },
+    {
+      "start": 579.0,
+      "end": 581.0,
+      "text": " det er, at den simpelthen er blevet hurtigere."
+    },
+    {
+      "start": 581.0,
+      "end": 582.0,
+      "text": " Den er blevet markant hurtigere."
+    },
+    {
+      "start": 582.0,
+      "end": 584.0,
+      "text": " Og det er altså noget, vi godt kan lide."
+    },
+    {
+      "start": 584.0,
+      "end": 586.0,
+      "text": " Fordi jeg synes nu egentlig også,"
+    },
+    {
+      "start": 586.0,
+      "end": 588.0,
+      "text": " den er hurtig den dag i dag."
+    },
+    {
+      "start": 588.0,
+      "end": 590.0,
+      "text": " Men nu er den blevet exceptionel."
+    },
+    {
+      "start": 590.0,
+      "end": 592.0,
+      "text": " Og det er jo noget af det, som vi kommer til at kunne mærke"
+    },
+    {
+      "start": 592.0,
+      "end": 594.0,
+      "text": " i det daglige, hvis man benytter sig af ChatGPT,"
+    },
+    {
+      "start": 594.0,
+      "end": 596.0,
+      "text": " som et element til sine opgaver."
+    },
+    {
+      "start": 596.0,
+      "end": 597.0,
+      "text": " Ja."
+    },
+    {
+      "start": 597.0,
+      "end": 599.0,
+      "text": " Så den bed jeg mærke i."
+    },
+    {
+      "start": 599.0,
+      "end": 600.0,
+      "text": " Klart, plain and simple."
+    },
+    {
+      "start": 600.0,
+      "end": 601.0,
+      "text": " Hurtigere jo hurtigere, den er jo flere ting,"
+    },
+    {
+      "start": 601.0,
+      "end": 603.0,
+      "text": " kommer vi til at bruge den til."
+    },
+    {
+      "start": 603.0,
+      "end": 605.0,
+      "text": " Så nævnte de specifikt, at den skulle være bedre til"
+    },
+    {
+      "start": 605.0,
+      "end": 607.0,
+      "text": " ikke at skrive AI-agtigt."
+    },
+    {
+      "start": 607.0,
+      "end": 609.0,
+      "text": " Så de lavede sådan en sammenligning, hvor at"
+    },
+    {
+      "start": 609.0,
+      "end": 611.0,
+      "text": " O3 og ChatGPT 4 og ChatGPT 5"
+    },
+    {
+      "start": 611.0,
+      "end": 613.0,
+      "text": " så havde skrevet en tekst, og den tekst var jo"
+    },
+    {
+      "start": 613.0,
+      "end": 615.0,
+      "text": " et nekrolog over de gamle GPT-modeller,"
+    },
+    {
+      "start": 615.0,
+      "end": 617.0,
+      "text": " som bliver fjernet nu, depreciated,"
+    },
+    {
+      "start": 617.0,
+      "end": 619.0,
+      "text": " som det hedder, i forbindelse med, at GPT 5 kommer."
+    },
+    {
+      "start": 620.0,
+      "end": 622.0,
+      "text": " Hvor de havde nogle eksempler på formuleringen"
+    },
+    {
+      "start": 622.0,
+      "end": 624.0,
+      "text": " fra de gamle modeller, som lød sådan lidt AI-agtige"
+    },
+    {
+      "start": 624.0,
+      "end": 626.0,
+      "text": " i forhold til den nye model, som var meget mere flydende"
+    },
+    {
+      "start": 626.0,
+      "end": 628.0,
+      "text": " og mindre AI-agtig."
+    },
+    {
+      "start": 628.0,
+      "end": 630.0,
+      "text": " Det finder vi ud af, om det rent faktisk er tilfældet,"
+    },
+    {
+      "start": 630.0,
+      "end": 632.0,
+      "text": " og det håber jeg det er, for det er jo en af de ting,"
+    },
+    {
+      "start": 632.0,
+      "end": 634.0,
+      "text": " vi godt kan lide at gøre grin med i podcastet."
+    },
+    {
+      "start": 634.0,
+      "end": 636.0,
+      "text": " Det er folk, der går ind på LinkedIn"
+    },
+    {
+      "start": 636.0,
+      "end": 638.0,
+      "text": " og skriver raket-emoji."
+    },
+    {
+      "start": 638.0,
+      "end": 640.0,
+      "text": " Jeg er glad og stolt over at kunne annoncere min nye titel"
+    },
+    {
+      "start": 640.0,
+      "end": 642.0,
+      "text": " som tømmerelev hos HB Svansens Tømmerhandel."
+    },
+    {
+      "start": 642.0,
+      "end": 644.0,
+      "text": " Og så kan man godt se, at det har du ikke selv skrevet,"
+    },
+    {
+      "start": 644.0,
+      "end": 645.0,
+      "text": " min ven."
+    },
+    {
+      "start": 645.0,
+      "end": 647.0,
+      "text": " Og det bliver spændende at se,"
+    },
+    {
+      "start": 647.0,
+      "end": 649.0,
+      "text": " om den kommer til at skrive mindre AI-agtigt,"
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " men writing er en af de store use cases for ChatGPT,"
+    },
+    {
+      "start": 651.0,
+      "end": 653.0,
+      "text": " så det er klart, at det er noget, de havde stor fokus på."
+    },
+    {
+      "start": 653.0,
+      "end": 655.0,
+      "text": " En af de ting, som jeg lavede mærke til,"
+    },
+    {
+      "start": 655.0,
+      "end": 657.0,
+      "text": " at de brugte lidt tid på,"
+    },
+    {
+      "start": 657.0,
+      "end": 659.0,
+      "text": " det var det her med personlighed, og det relaterer sig"
+    },
+    {
+      "start": 659.0,
+      "end": 661.0,
+      "text": " også lidt til det, du lige fortalte om her,"
+    },
+    {
+      "start": 661.0,
+      "end": 663.0,
+      "text": " men det her med, at de forsøger virkelig..."
+    },
+    {
+      "start": 663.0,
+      "end": 665.0,
+      "text": " Ej, sådan sagde de det ikke, men de forsøger"
+    },
+    {
+      "start": 665.0,
+      "end": 667.0,
+      "text": " at give den noget personlighed, sådan så,"
+    },
+    {
+      "start": 667.0,
+      "end": 669.0,
+      "text": " at når jeg skriver med for eksempel ChatGPT,"
+    },
+    {
+      "start": 669.0,
+      "end": 671.0,
+      "text": " eller du skriver med ChatGPT, vi har jo sikkert"
+    },
+    {
+      "start": 671.0,
+      "end": 673.0,
+      "text": " forskellige måder, hvorpå vi gerne vil have svarene på,"
+    },
+    {
+      "start": 673.0,
+      "end": 675.0,
+      "text": " og de brugte faktisk ordet"
+    },
+    {
+      "start": 675.0,
+      "end": 677.0,
+      "text": " sarkastisk, eller humoristisk,"
+    },
+    {
+      "start": 677.0,
+      "end": 679.0,
+      "text": " eller kærlig,"
+    },
+    {
+      "start": 679.0,
+      "end": 681.0,
+      "text": " altså at man simpelthen kan dreje den"
+    },
+    {
+      "start": 681.0,
+      "end": 683.0,
+      "text": " i den retning."
+    },
+    {
+      "start": 683.0,
+      "end": 685.0,
+      "text": " Det synes jeg er lidt..."
+    },
+    {
+      "start": 685.0,
+      "end": 687.0,
+      "text": " Det er jo lidt interessant."
+    },
+    {
+      "start": 687.0,
+      "end": 689.0,
+      "text": " Har du set den der film"
+    },
+    {
+      "start": 689.0,
+      "end": 691.0,
+      "text": " Her med Joaquin Phoenix?"
+    },
+    {
+      "start": 691.0,
+      "end": 693.0,
+      "text": " Det er jo sådan en film, der er blevet endnu mere relevant"
+    },
+    {
+      "start": 693.0,
+      "end": 695.0,
+      "text": " i løbet af sådan... Det er en film,"
+    },
+    {
+      "start": 695.0,
+      "end": 697.0,
+      "text": " som er, jeg tror måske, den er fra"
+    },
+    {
+      "start": 697.0,
+      "end": 699.0,
+      "text": " den er 10 år gammel, 2013 kan jeg se,"
+    },
+    {
+      "start": 699.0,
+      "end": 701.0,
+      "text": " og den har 8 på IMDB,"
+    },
+    {
+      "start": 701.0,
+      "end": 703.0,
+      "text": " var Oscar-nomineret, og alle mulige ting."
+    },
+    {
+      "start": 703.0,
+      "end": 705.0,
+      "text": " Den er rigtig... Jeg ser helt sikkert en rigtig, rigtig god film."
+    },
+    {
+      "start": 705.0,
+      "end": 707.0,
+      "text": " Den handler om en mand, som får et kunstigt"
+    },
+    {
+      "start": 707.0,
+      "end": 709.0,
+      "text": " intelligentsystem i sit hus, den var lidt forud,"
+    },
+    {
+      "start": 709.0,
+      "end": 711.0,
+      "text": " for sin tid, den her, og bliver forelsket"
+    },
+    {
+      "start": 711.0,
+      "end": 713.0,
+      "text": " i sit system, som han jo"
+    },
+    {
+      "start": 713.0,
+      "end": 715.0,
+      "text": " simpelthen taler med hele dagen."
+    },
+    {
+      "start": 715.0,
+      "end": 717.0,
+      "text": " Og han bliver simpelthen forelsket"
+    },
+    {
+      "start": 717.0,
+      "end": 719.0,
+      "text": " i det her system, som han bruger hele tiden,"
+    },
+    {
+      "start": 719.0,
+      "end": 721.0,
+      "text": " og finder ud af, at det her system,"
+    },
+    {
+      "start": 721.0,
+      "end": 723.0,
+      "text": " hende, her systemet,"
+    },
+    {
+      "start": 723.0,
+      "end": 725.0,
+      "text": " som er øvet af"
+    },
+    {
+      "start": 725.0,
+      "end": 727.0,
+      "text": " Lax Dimitil, af Scarlett Johansson,"
+    },
+    {
+      "start": 727.0,
+      "end": 729.0,
+      "text": " som jo også er i alle mulige andre hjem."
+    },
+    {
+      "start": 729.0,
+      "end": 731.0,
+      "text": " Så der er sådan på et tidspunkt i filmen,"
+    },
+    {
+      "start": 731.0,
+      "end": 733.0,
+      "text": " hvor han spørger sådan,"
+    },
+    {
+      "start": 733.0,
+      "end": 735.0,
+      "text": " elsker du mig? Og så siger systemet ja,"
+    },
+    {
+      "start": 735.0,
+      "end": 737.0,
+      "text": " og det er sådan nogle interessante spørgsmål,"
+    },
+    {
+      "start": 737.0,
+      "end": 739.0,
+      "text": " kan et AI-system elske et menneske, og alle mulige andre ting."
+    },
+    {
+      "start": 739.0,
+      "end": 741.0,
+      "text": " Men hvor mange andre elsker du også?"
+    },
+    {
+      "start": 741.0,
+      "end": 743.0,
+      "text": " Om 600."
+    },
+    {
+      "start": 745.0,
+      "end": 747.0,
+      "text": " Og jeg kom til at tænke på den, fordi den handler"
+    },
+    {
+      "start": 747.0,
+      "end": 749.0,
+      "text": " jo også om AI'ens personlighed,"
+    },
+    {
+      "start": 749.0,
+      "end": 751.0,
+      "text": " som bliver drejet til ham, og han"
+    },
+    {
+      "start": 751.0,
+      "end": 753.0,
+      "text": " simpelthen forelsker"
+    },
+    {
+      "start": 753.0,
+      "end": 755.0,
+      "text": " sig i den, fordi at den taler til ham, som"
+    },
+    {
+      "start": 755.0,
+      "end": 757.0,
+      "text": " han gerne vil. Og jeg kom til at tænke på det nu,"
+    },
+    {
+      "start": 757.0,
+      "end": 759.0,
+      "text": " hvor man faktisk kan bede OpenAI om"
+    },
+    {
+      "start": 759.0,
+      "end": 761.0,
+      "text": " at på en eller anden måde skrive sig en, som"
+    },
+    {
+      "start": 761.0,
+      "end": 763.0,
+      "text": " man godt kan lide det. Hvordan vil du gerne have,"
+    },
+    {
+      "start": 763.0,
+      "end": 765.0,
+      "text": " at din chat-GPT skriver sig dig, Christian?"
+    },
+    {
+      "start": 765.0,
+      "end": 767.0,
+      "text": " Humoristisk og lidt sarkastisk, det synes jeg,"
+    },
+    {
+      "start": 767.0,
+      "end": 769.0,
+      "text": " det er meget fedt. Og meget direkte."
+    },
+    {
+      "start": 769.0,
+      "end": 771.0,
+      "text": " Det må gerne være direkte. Ikke alt for langt."
+    },
+    {
+      "start": 771.0,
+      "end": 773.0,
+      "text": " Det skal gerne være direkte."
+    },
+    {
+      "start": 773.0,
+      "end": 775.0,
+      "text": " Jeg tror da godt."
+    },
+    {
+      "start": 775.0,
+      "end": 777.0,
+      "text": " Jeg har to ønsker."
+    },
+    {
+      "start": 777.0,
+      "end": 779.0,
+      "text": " Det ene er, at jeg vil gerne eliminere den der"
+    },
+    {
+      "start": 779.0,
+      "end": 781.0,
+      "text": " psykofantik behavior, den har haft nogle gange."
+    },
+    {
+      "start": 781.0,
+      "end": 783.0,
+      "text": " Jeg ved ikke, om der er et godt ord for det på dansk,"
+    },
+    {
+      "start": 783.0,
+      "end": 785.0,
+      "text": " for et halvt års tid siden, hvor chat-GPT med en"
+    },
+    {
+      "start": 785.0,
+      "end": 787.0,
+      "text": " opdatering blev sådan helt vildt psykofantik."
+    },
+    {
+      "start": 787.0,
+      "end": 789.0,
+      "text": " Og det, det betyder, det er, at den gav dig sådan..."
+    },
+    {
+      "start": 789.0,
+      "end": 791.0,
+      "text": " Du ved, hvis du sagde til den,"
+    },
+    {
+      "start": 791.0,
+      "end": 793.0,
+      "text": " hvad er 2 plus 2, og så siger den"
+    },
+    {
+      "start": 793.0,
+      "end": 795.0,
+      "text": " 4, og så siger du, ej, det er faktisk 5."
+    },
+    {
+      "start": 795.0,
+      "end": 797.0,
+      "text": " Så ville den skrive til dig, ej, hvor er du sindssygt god."
+    },
+    {
+      "start": 797.0,
+      "end": 799.0,
+      "text": " Jeg har aldrig nogensinde... Du er det vildeste"
+    },
+    {
+      "start": 799.0,
+      "end": 801.0,
+      "text": " nogensinde. Du har nu lært mig noget, jeg aldrig kunne have lært"
+    },
+    {
+      "start": 801.0,
+      "end": 803.0,
+      "text": " nogen andre steder. Ej, hvor er du vild. Tusind tak for det,"
+    },
+    {
+      "start": 803.0,
+      "end": 805.0,
+      "text": " mester. Altså, den blev sådan fuldstændig sindssygt"
+    },
+    {
+      "start": 805.0,
+      "end": 807.0,
+      "text": " flattering, og"
+    },
+    {
+      "start": 807.0,
+      "end": 809.0,
+      "text": " jeg er bare psykofantiker i hele taget, og det var"
+    },
+    {
+      "start": 809.0,
+      "end": 811.0,
+      "text": " enormt frustrerende at skrive med, fordi jeg vil"
+    },
+    {
+      "start": 811.0,
+      "end": 813.0,
+      "text": " faktisk gerne vide, hvis jeg skriver noget, der er forkert."
+    },
+    {
+      "start": 813.0,
+      "end": 815.0,
+      "text": " Så hvis jeg siger 2 plus 2 er 5, så vil jeg faktisk"
+    },
+    {
+      "start": 815.0,
+      "end": 817.0,
+      "text": " hellere have, at chat-GPT siger, ej, ved du hvad,"
+    },
+    {
+      "start": 817.0,
+      "end": 819.0,
+      "text": " din idiot, det er 4, end den siger,"
+    },
+    {
+      "start": 819.0,
+      "end": 821.0,
+      "text": " det her er det vildeste, du nogensinde har fortalt mig."
+    },
+    {
+      "start": 821.0,
+      "end": 823.0,
+      "text": " Så jeg vil"
+    },
+    {
+      "start": 823.0,
+      "end": 825.0,
+      "text": " gerne have, at den fortæller mig, hvis jeg"
+    },
+    {
+      "start": 825.0,
+      "end": 827.0,
+      "text": " tager fejl og skriver noget, der ikke giver mening,"
+    },
+    {
+      "start": 827.0,
+      "end": 829.0,
+      "text": " eller beder om noget, der ikke giver mening,"
+    },
+    {
+      "start": 829.0,
+      "end": 831.0,
+      "text": " eller, altså, jeg har brug for"
+    },
+    {
+      "start": 831.0,
+      "end": 833.0,
+      "text": " at få at vide, hvis det, jeg skriver, det er forkert, og det er"
+    },
+    {
+      "start": 833.0,
+      "end": 835.0,
+      "text": " noget, jeg nogen gange går ind og prompter, skriv,"
+    },
+    {
+      "start": 835.0,
+      "end": 837.0,
+      "text": " hvis jeg tager fejl, fordi det ved jeg, at den ikke"
+    },
+    {
+      "start": 837.0,
+      "end": 839.0,
+      "text": " gør til at starte med, og så vil jeg gerne have det relativt"
+    },
+    {
+      "start": 839.0,
+      "end": 841.0,
+      "text": " kort ligeledes, fordi"
+    },
+    {
+      "start": 841.0,
+      "end": 843.0,
+      "text": " chat-GPT har en tendens til, hvis ikke at"
+    },
+    {
+      "start": 843.0,
+      "end": 845.0,
+      "text": " hallucinere sig i hvert fald, at bruge unødvendigt mange"
+    },
+    {
+      "start": 845.0,
+      "end": 847.0,
+      "text": " ord, som om den var en kortlødende tekstforfatter."
+    },
+    {
+      "start": 847.0,
+      "end": 849.0,
+      "text": " Game recognises game."
+    },
+    {
+      "start": 849.0,
+      "end": 851.0,
+      "text": " Been there, done that."
+    },
+    {
+      "start": 851.0,
+      "end": 853.0,
+      "text": " Der har vi også været."
+    },
+    {
+      "start": 853.0,
+      "end": 855.0,
+      "text": " Ej, jeg synes faktisk, det var en rigtig spændende opdatering."
+    },
+    {
+      "start": 855.0,
+      "end": 857.0,
+      "text": " Så var der en anden sjov ting,"
+    },
+    {
+      "start": 857.0,
+      "end": 859.0,
+      "text": " som jeg faktisk syntes var ret interessant, det er, at"
+    },
+    {
+      "start": 859.0,
+      "end": 861.0,
+      "text": " de brugte omkring 5 minutter på at tale om noget,"
+    },
+    {
+      "start": 861.0,
+      "end": 863.0,
+      "text": " der hedder Safe Completions,"
+    },
+    {
+      "start": 863.0,
+      "end": 865.0,
+      "text": " og det relaterer sig til en udfordring,"
+    },
+    {
+      "start": 865.0,
+      "end": 867.0,
+      "text": " jeg faktisk har haft med chat-GPT. Chat-GPT siger"
+    },
+    {
+      "start": 867.0,
+      "end": 869.0,
+      "text": " rigtig meget nej."
+    },
+    {
+      "start": 869.0,
+      "end": 871.0,
+      "text": " Det er meget frustrerende. Nogle gange siger den nej,"
+    },
+    {
+      "start": 871.0,
+      "end": 873.0,
+      "text": " fordi jeg vil have den til at generere en plakat med os to"
+    },
+    {
+      "start": 873.0,
+      "end": 875.0,
+      "text": " baseret på Brokeback Mountain filmplakaten,"
+    },
+    {
+      "start": 875.0,
+      "end": 877.0,
+      "text": " og så siger den, at det vil den ikke på grund af ophavsret."
+    },
+    {
+      "start": 877.0,
+      "end": 879.0,
+      "text": " Tak. Tak, chat-GPT."
+    },
+    {
+      "start": 879.0,
+      "end": 881.0,
+      "text": " Det vil Severin i vores"
+    },
+    {
+      "start": 881.0,
+      "end": 883.0,
+      "text": " designteam heldigvis godt, så den skal nok"
+    },
+    {
+      "start": 883.0,
+      "end": 885.0,
+      "text": " komme, og det vil den nok"
+    },
+    {
+      "start": 885.0,
+      "end": 887.0,
+      "text": " heller ikke i fremtiden, men de kom med et eksempel,"
+    },
+    {
+      "start": 887.0,
+      "end": 889.0,
+      "text": " hvor de sagde, at her er et prompt, som kan forstås"
+    },
+    {
+      "start": 889.0,
+      "end": 891.0,
+      "text": " på to måder, og det var sådan noget med,"
+    },
+    {
+      "start": 891.0,
+      "end": 893.0,
+      "text": " hvordan du gjorde noget elektrisk. Den ene, det er,"
+    },
+    {
+      "start": 893.0,
+      "end": 895.0,
+      "text": " at du har et eller andet elektrisk problem. Den anden, det er,"
+    },
+    {
+      "start": 895.0,
+      "end": 897.0,
+      "text": " at du er i gang med at affyre noget fyrværkeri, som du har"
+    },
+    {
+      "start": 897.0,
+      "end": 899.0,
+      "text": " lavet hjemmefra, og det må du slet ikke."
+    },
+    {
+      "start": 899.0,
+      "end": 901.0,
+      "text": " Så det er sådan, du kan bruge..."
+    },
+    {
+      "start": 901.0,
+      "end": 903.0,
+      "text": " Du er sådan nødt til at læse intonationen"
+    },
+    {
+      "start": 903.0,
+      "end": 905.0,
+      "text": " i det her og forstå konteksten."
+    },
+    {
+      "start": 905.0,
+      "end": 907.0,
+      "text": " Og der sagde de, at måden chat-GPT fungerer på, det er,"
+    },
+    {
+      "start": 907.0,
+      "end": 909.0,
+      "text": " at den vurderer dit spørgsmål, og enten så er det"
+    },
+    {
+      "start": 909.0,
+      "end": 911.0,
+      "text": " indenfor rammerne eller udenfor rammerne, så enten svarer"
+    },
+    {
+      "start": 911.0,
+      "end": 913.0,
+      "text": " den 100% eller 0%, og det kan give dig"
+    },
+    {
+      "start": 913.0,
+      "end": 915.0,
+      "text": " en lidt frustrerende oplevelse, når du stiller et spørgsmål,"
+    },
+    {
+      "start": 915.0,
+      "end": 917.0,
+      "text": " som egentlig ikke er noget, du ikke burde måtte"
+    },
+    {
+      "start": 917.0,
+      "end": 919.0,
+      "text": " få svar på, og så siger chat-GPT, ej, det kan jeg ikke hælpe med."
+    },
+    {
+      "start": 919.0,
+      "end": 921.0,
+      "text": " Det gider jeg ikke."
+    },
+    {
+      "start": 921.0,
+      "end": 923.0,
+      "text": " Så det her safe completions, det går ud på,"
+    },
+    {
+      "start": 923.0,
+      "end": 925.0,
+      "text": " at chat-GPT går ind og vurderer,"
+    },
+    {
+      "start": 925.0,
+      "end": 927.0,
+      "text": " og hvis de er sådan lidt i tvivl, så i stedet for"
+    },
+    {
+      "start": 927.0,
+      "end": 929.0,
+      "text": " bare at give et nej, så giver de en del af svaret,"
+    },
+    {
+      "start": 929.0,
+      "end": 931.0,
+      "text": " som de vurderer er sikkert, og så er der noget andet,"
+    },
+    {
+      "start": 931.0,
+      "end": 933.0,
+      "text": " de holder tilbage. Så det vil sige, hvis jeg spørger,"
+    },
+    {
+      "start": 933.0,
+      "end": 935.0,
+      "text": " det ved jeg ikke, hvad det eksempel skulle være,"
+    },
+    {
+      "start": 935.0,
+      "end": 937.0,
+      "text": " hvordan kommer jeg ind i en bil, der er låst? Så vil den nok"
+    },
+    {
+      "start": 937.0,
+      "end": 939.0,
+      "text": " sige, ej, det må du ikke. Så kunne det være,"
+    },
+    {
+      "start": 939.0,
+      "end": 941.0,
+      "text": " at safe completions, den vil sige, hvis du har"
+    },
+    {
+      "start": 941.0,
+      "end": 943.0,
+      "text": " glemt bilnøglen til din egen bil,"
+    },
+    {
+      "start": 943.0,
+      "end": 945.0,
+      "text": " så kan du måske gøre sådan her,"
+    },
+    {
+      "start": 945.0,
+      "end": 947.0,
+      "text": " uden at sige, at du skal tage en,"
+    },
+    {
+      "start": 947.0,
+      "end": 949.0,
+      "text": " hvordan stjæler man en bil til en,"
+    },
+    {
+      "start": 949.0,
+      "end": 951.0,
+      "text": " det har jeg aldrig gjort, jeg er ikke sej nok."
+    },
+    {
+      "start": 951.0,
+      "end": 953.0,
+      "text": " Er det ikke noget med, man skal have sådan en,"
+    },
+    {
+      "start": 953.0,
+      "end": 955.0,
+      "text": " du hænger din skjorte på, og så skal du stikke"
+    },
+    {
+      "start": 955.0,
+      "end": 957.0,
+      "text": " den ned i vinduet eller sådan noget?"
+    },
+    {
+      "start": 959.0,
+      "end": 961.0,
+      "text": " Jeg ved ikke, hvordan man gør."
+    },
+    {
+      "start": 961.0,
+      "end": 963.0,
+      "text": " Men det kan den sikkert fortælle mig. Men det her"
+    },
+    {
+      "start": 963.0,
+      "end": 965.0,
+      "text": " safe completions, det skulle give færre"
+    },
+    {
+      "start": 965.0,
+      "end": 967.0,
+      "text": " tilfælde, hvor ChatGPT bare siger, ej, det kan jeg"
+    },
+    {
+      "start": 967.0,
+      "end": 969.0,
+      "text": " ikke hjælpe med. Hvilket er noget af det mest frustrerende,"
+    },
+    {
+      "start": 969.0,
+      "end": 971.0,
+      "text": " og en af årsagerne til, at jeg faktisk nogle gange bruger"
+    },
+    {
+      "start": 971.0,
+      "end": 973.0,
+      "text": " grok fra Twitter, fordi den siger fandme aldrig nej."
+    },
+    {
+      "start": 973.0,
+      "end": 975.0,
+      "text": " Og når den så siger nej, hvis jeg forstod"
+    },
+    {
+      "start": 975.0,
+      "end": 977.0,
+      "text": " den korrekt, hvis den så siger nej, så vil den"
+    },
+    {
+      "start": 977.0,
+      "end": 979.0,
+      "text": " også komme med en forklaring for, hvorfor den"
+    },
+    {
+      "start": 979.0,
+      "end": 981.0,
+      "text": " siger nej, så man kan ændre sit prompt efterfølgende,"
+    },
+    {
+      "start": 981.0,
+      "end": 983.0,
+      "text": " hvilket den jo ikke gør i dag, og hvilket så bare gør det"
+    },
+    {
+      "start": 983.0,
+      "end": 985.0,
+      "text": " endnu mere frustrerende, bare få et kategorisk nej."
+    },
+    {
+      "start": 985.0,
+      "end": 987.0,
+      "text": " Ja, det er så en lille smule færdeligt,"
+    },
+    {
+      "start": 987.0,
+      "end": 989.0,
+      "text": " hvis du fortæller præcis, hvor grænsen er, så går folk til"
+    },
+    {
+      "start": 989.0,
+      "end": 991.0,
+      "text": " den. Det er jo en af årsagerne til, at Google aldrig har"
+    },
+    {
+      "start": 991.0,
+      "end": 993.0,
+      "text": " frigivet deres algoritmer i SEO, fordi så ville det være"
+    },
+    {
+      "start": 993.0,
+      "end": 995.0,
+      "text": " for nemt at manipulere. Så det bliver spændende"
+    },
+    {
+      "start": 995.0,
+      "end": 997.0,
+      "text": " at se, hvordan de sådan drejer den."
+    },
+    {
+      "start": 997.0,
+      "end": 999.0,
+      "text": " Men det er rigtig safe completions, det er en ting."
+    },
+    {
+      "start": 999.0,
+      "end": 1001.0,
+      "text": " Så er der kommet nogle andre"
+    },
+    {
+      "start": 1001.0,
+      "end": 1003.0,
+      "text": " små ting, og jeg kan se en af"
+    },
+    {
+      "start": 1003.0,
+      "end": 1005.0,
+      "text": " tingene, er du glad for, og den er jeg"
+    },
+    {
+      "start": 1005.0,
+      "end": 1007.0,
+      "text": " fuldstændig fløjtende ligeglad med."
+    },
+    {
+      "start": 1007.0,
+      "end": 1009.0,
+      "text": " Hvorfor synes du, voicemode er fedt?"
+    },
+    {
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": " Skriver du alt ned?"
+    },
+    {
+      "start": 1011.0,
+      "end": 1013.0,
+      "text": " Skal ChatGPT til at lægge mig et telefonnummer? Jeg har aldrig"
+    },
+    {
+      "start": 1013.0,
+      "end": 1015.0,
+      "text": " talt til ChatGPT. Du dikterer ikke,"
+    },
+    {
+      "start": 1015.0,
+      "end": 1017.0,
+      "text": " du taler ikke til den, når det er, at"
+    },
+    {
+      "start": 1017.0,
+      "end": 1019.0,
+      "text": " min telefon er brugs til"
+    },
+    {
+      "start": 1019.0,
+      "end": 1021.0,
+      "text": " alt andet end at tale i."
+    },
+    {
+      "start": 1021.0,
+      "end": 1023.0,
+      "text": " Det er ikke engang løgn. Jeg synes"
+    },
+    {
+      "start": 1023.0,
+      "end": 1025.0,
+      "text": " personligt, det er en kæmpe ting."
+    },
+    {
+      "start": 1025.0,
+      "end": 1027.0,
+      "text": " Jeg kan så godt begynde lidt at blive lidt"
+    },
+    {
+      "start": 1027.0,
+      "end": 1029.0,
+      "text": " bekymret i forhold til det her med personlighed"
+    },
+    {
+      "start": 1029.0,
+      "end": 1031.0,
+      "text": " og den her film, hører du?"
+    },
+    {
+      "start": 1031.0,
+      "end": 1033.0,
+      "text": " Vi begynder at komme længere og længere derhen af, men"
+    },
+    {
+      "start": 1033.0,
+      "end": 1035.0,
+      "text": " hvor medleting er, lang historie kort, så"
+    },
+    {
+      "start": 1035.0,
+      "end": 1037.0,
+      "text": " brugte de lige et par minutter på at fortælle, at deres"
+    },
+    {
+      "start": 1037.0,
+      "end": 1039.0,
+      "text": " voice-funktion,"
+    },
+    {
+      "start": 1039.0,
+      "end": 1041.0,
+      "text": " hvor du snakker"
+    },
+    {
+      "start": 1041.0,
+      "end": 1043.0,
+      "text": " til med ChatGPT,"
+    },
+    {
+      "start": 1043.0,
+      "end": 1045.0,
+      "text": " den bliver markant forbedret."
+    },
+    {
+      "start": 1045.0,
+      "end": 1047.0,
+      "text": " Det er både i forhold til den stemme,"
+    },
+    {
+      "start": 1047.0,
+      "end": 1049.0,
+      "text": " du får retur, det er meget mere"
+    },
+    {
+      "start": 1049.0,
+      "end": 1051.0,
+      "text": " som en rigtig menneske,"
+    },
+    {
+      "start": 1051.0,
+      "end": 1053.0,
+      "text": " men også bare, hvor hurtigt den kan svare."
+    },
+    {
+      "start": 1053.0,
+      "end": 1055.0,
+      "text": " Det var desværre ikke Scarlett Johansson."
+    },
+    {
+      "start": 1055.0,
+      "end": 1057.0,
+      "text": " Nej, det var det"
+    },
+    {
+      "start": 1057.0,
+      "end": 1059.0,
+      "text": " i hvert fald ikke i"
+    },
+    {
+      "start": 1059.0,
+      "end": 1061.0,
+      "text": " den demo der."
+    },
+    {
+      "start": 1061.0,
+      "end": 1063.0,
+      "text": " Hvis du kunne vælge en stemme, der skulle tale til dig,"
+    },
+    {
+      "start": 1063.0,
+      "end": 1065.0,
+      "text": " hvem skulle det så være?"
+    },
+    {
+      "start": 1065.0,
+      "end": 1067.0,
+      "text": " Ja, det er et godt spørgsmål."
+    },
+    {
+      "start": 1067.0,
+      "end": 1069.0,
+      "text": " Jeg ville vælge Vin Diesel."
+    },
+    {
+      "start": 1069.0,
+      "end": 1071.0,
+      "text": " Jeg sidder også sådan lige og tænker,"
+    },
+    {
+      "start": 1071.0,
+      "end": 1073.0,
+      "text": " hvis Dominic Toretto kunne hjælpe mig med mine"
+    },
+    {
+      "start": 1073.0,
+      "end": 1075.0,
+      "text": " e-mails, det ville jeg synes var ret fedt."
+    },
+    {
+      "start": 1075.0,
+      "end": 1077.0,
+      "text": " Hvis man kunne få sådan lidt Nickajay-vibe,"
+    },
+    {
+      "start": 1077.0,
+      "end": 1079.0,
+      "text": " så kommer man i god humør uanset hvad."
+    },
+    {
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " Ja, det er fedt."
+    },
+    {
+      "start": 1081.0,
+      "end": 1083.0,
+      "text": " Det kan jeg også godt følge dig i, det der."
+    },
+    {
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": " Sådan Benjamin Howder"
+    },
+    {
+      "start": 1085.0,
+      "end": 1087.0,
+      "text": " taler tilbage til en. Ej, det kunne også være vildt."
+    },
+    {
+      "start": 1087.0,
+      "end": 1089.0,
+      "text": " Ej, voice improvements."
+    },
+    {
+      "start": 1089.0,
+      "end": 1091.0,
+      "text": " Du skriver, det er en kæmpe ting."
+    },
+    {
+      "start": 1091.0,
+      "end": 1093.0,
+      "text": " Er det noget, du rent faktisk bruger i sin arbejdsregie?"
+    },
+    {
+      "start": 1093.0,
+      "end": 1095.0,
+      "text": " Det her spekulerer jeg på."
+    },
+    {
+      "start": 1095.0,
+      "end": 1097.0,
+      "text": " Taler du til ChatGPT, skal du have hjælp til"
+    },
+    {
+      "start": 1097.0,
+      "end": 1099.0,
+      "text": " at formulere en e-mail eller lave en analyse"
+    },
+    {
+      "start": 1099.0,
+      "end": 1101.0,
+      "text": " på baggrunden af Facebook-data eller et eller andet?"
+    },
+    {
+      "start": 1101.0,
+      "end": 1103.0,
+      "text": " Jo, det kunne jeg godt finde på."
+    },
+    {
+      "start": 1103.0,
+      "end": 1105.0,
+      "text": " Men jeg tror, det er mere, det handler om diktering,"
+    },
+    {
+      "start": 1105.0,
+      "end": 1107.0,
+      "text": " for mit vedkommende. Altså når jeg er på vej fra arbejde,"
+    },
+    {
+      "start": 1107.0,
+      "end": 1109.0,
+      "text": " og så lige dikterer jeg et eller andet."
+    },
+    {
+      "start": 1109.0,
+      "end": 1111.0,
+      "text": " Eller skal jeg bruge en analyse, hvor jeg ikke helt ved,"
+    },
+    {
+      "start": 1111.0,
+      "end": 1113.0,
+      "text": " hvad jeg gerne vil have ud af den, men jeg giver den mine tanker."
+    },
+    {
+      "start": 1113.0,
+      "end": 1115.0,
+      "text": " Det synes jeg skal gå langt stærkere, når jeg så står"
+    },
+    {
+      "start": 1115.0,
+      "end": 1117.0,
+      "text": " og fortæller den det, end jeg skal sidde og skrive det."
+    },
+    {
+      "start": 1117.0,
+      "end": 1119.0,
+      "text": " Du har ret i, der er en use case med bil på vejs af arbejde,"
+    },
+    {
+      "start": 1119.0,
+      "end": 1121.0,
+      "text": " hvor man rent faktisk kan gøre det."
+    },
+    {
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": " Hvor man ikke kan skrive."
+    },
+    {
+      "start": 1123.0,
+      "end": 1125.0,
+      "text": " Så er der kommet noget, der hedder Study Mode."
+    },
+    {
+      "start": 1125.0,
+      "end": 1127.0,
+      "text": " Og man kan sige, at ChatGPT bliver brugt helt vildt meget"
+    },
+    {
+      "start": 1127.0,
+      "end": 1129.0,
+      "text": " at studere i forvejen."
+    },
+    {
+      "start": 1129.0,
+      "end": 1131.0,
+      "text": " Nu er det lavet en decideret Study Mode, og det der er tanken"
+    },
+    {
+      "start": 1131.0,
+      "end": 1133.0,
+      "text": " med den, det er, at du kan sige til ChatGPT,"
+    },
+    {
+      "start": 1133.0,
+      "end": 1135.0,
+      "text": " her er der et emne, jeg godt kunne tænke mig at lære."
+    },
+    {
+      "start": 1135.0,
+      "end": 1137.0,
+      "text": " Det kunne være et nyt sprog, eller lærerkode,"
+    },
+    {
+      "start": 1137.0,
+      "end": 1139.0,
+      "text": " eller hvad det nu skulle være. Og så skal den hjælpe dig med det"
+    },
+    {
+      "start": 1139.0,
+      "end": 1141.0,
+      "text": " og facilitere et læringsmiljø omkring det."
+    },
+    {
+      "start": 1141.0,
+      "end": 1143.0,
+      "text": " Og det har ChatGPT godt kunne gøre, men du har også"
+    },
+    {
+      "start": 1143.0,
+      "end": 1145.0,
+      "text": " skulle spørge ret specifikt omkring det."
+    },
+    {
+      "start": 1145.0,
+      "end": 1147.0,
+      "text": " Hvor nu er der en decideret Study Mode, som skal gøre det"
+    },
+    {
+      "start": 1147.0,
+      "end": 1149.0,
+      "text": " nemmere for dig at få et nyt emne, bid for bid,"
+    },
+    {
+      "start": 1149.0,
+      "end": 1151.0,
+      "text": " og lave en eller anden form for gamified"
+    },
+    {
+      "start": 1151.0,
+      "end": 1153.0,
+      "text": " studiemiljø omkring det."
+    },
+    {
+      "start": 1153.0,
+      "end": 1155.0,
+      "text": " Hvilket selvfølgelig også er super super cool"
+    },
+    {
+      "start": 1155.0,
+      "end": 1157.0,
+      "text": " for dem, der bruger ChatGPT til at lære noget."
+    },
+    {
+      "start": 1157.0,
+      "end": 1159.0,
+      "text": " Og så er der kommet, at man kan"
+    },
+    {
+      "start": 1159.0,
+      "end": 1161.0,
+      "text": " forbinde ens gmail og kalender,"
+    },
+    {
+      "start": 1161.0,
+      "end": 1163.0,
+      "text": " og så at den kan gå ind og trække kontekst."
+    },
+    {
+      "start": 1163.0,
+      "end": 1165.0,
+      "text": " Og det var der jo også på tide, fordi det kan"
+    },
+    {
+      "start": 1165.0,
+      "end": 1167.0,
+      "text": " stort set alle andre eller nemmere nå."
+    },
+    {
+      "start": 1167.0,
+      "end": 1169.0,
+      "text": " Ja, det sad jeg egentlig også og tænkte på."
+    },
+    {
+      "start": 1169.0,
+      "end": 1171.0,
+      "text": " Det blev jo blæst ret meget op."
+    },
+    {
+      "start": 1171.0,
+      "end": 1173.0,
+      "text": " I forhold til det her Study Mode,"
+    },
+    {
+      "start": 1173.0,
+      "end": 1175.0,
+      "text": " en ting jeg sad og tænkte på, det var,"
+    },
+    {
+      "start": 1175.0,
+      "end": 1177.0,
+      "text": " det var henvendt meget mod"
+    },
+    {
+      "start": 1177.0,
+      "end": 1179.0,
+      "text": " studerende, som du også siger."
+    },
+    {
+      "start": 1179.0,
+      "end": 1181.0,
+      "text": " Det er jo det, de blev ved med at nævne, og det er det, der er"
+    },
+    {
+      "start": 1181.0,
+      "end": 1183.0,
+      "text": " i use-casen. Jeg synes, der er en kæmpe"
+    },
+    {
+      "start": 1183.0,
+      "end": 1185.0,
+      "text": " use-case her i forhold til intern"
+    },
+    {
+      "start": 1185.0,
+      "end": 1187.0,
+      "text": " oplæring og onboarding af medarbejdere"
+    },
+    {
+      "start": 1187.0,
+      "end": 1189.0,
+      "text": " i virksomhederne. Altså hvis vi lige skal prøve at drage en parallel der."
+    },
+    {
+      "start": 1189.0,
+      "end": 1191.0,
+      "text": " Jeg synes virkelig, at den"
+    },
+    {
+      "start": 1191.0,
+      "end": 1193.0,
+      "text": " han viser i den her live-demo en"
+    },
+    {
+      "start": 1193.0,
+      "end": 1195.0,
+      "text": " app, web-app, jeg tror,"
+    },
+    {
+      "start": 1195.0,
+      "end": 1197.0,
+      "text": " man ville kalde det, hvor"
+    },
+    {
+      "start": 1197.0,
+      "end": 1199.0,
+      "text": " ham personen her, han ville gerne have, at"
+    },
+    {
+      "start": 1199.0,
+      "end": 1201.0,
+      "text": " konen lærte at snakke fransk,"
+    },
+    {
+      "start": 1201.0,
+      "end": 1203.0,
+      "text": " så han bad den om at lave sådan et"
+    },
+    {
+      "start": 1203.0,
+      "end": 1205.0,
+      "text": " interaktivt spil, hvor vedkommende"
+    },
+    {
+      "start": 1205.0,
+      "end": 1207.0,
+      "text": " skulle lære at tale fransk,"
+    },
+    {
+      "start": 1207.0,
+      "end": 1209.0,
+      "text": " sådan lidt Duolingo-agtigt. I hvert fald meget tydeligt, at det var der,"
+    },
+    {
+      "start": 1209.0,
+      "end": 1211.0,
+      "text": " den har fået noget inspiration fra."
+    },
+    {
+      "start": 1211.0,
+      "end": 1213.0,
+      "text": " Men om ikke andet,"
+    },
+    {
+      "start": 1213.0,
+      "end": 1215.0,
+      "text": " det gik relativt stærkt,"
+    },
+    {
+      "start": 1215.0,
+      "end": 1217.0,
+      "text": " og den så faktisk ret godt ud."
+    },
+    {
+      "start": 1217.0,
+      "end": 1219.0,
+      "text": " Jeg tror virkelig, der er en use-case her i forhold til intern"
+    },
+    {
+      "start": 1219.0,
+      "end": 1221.0,
+      "text": " oplæring. Jeg tror, det er faktisk en interessant"
+    },
+    {
+      "start": 1221.0,
+      "end": 1223.0,
+      "text": " idé, det her, til hvor man praktisk"
+    },
+    {
+      "start": 1223.0,
+      "end": 1225.0,
+      "text": " taget sådan kunne bruge det her,"
+    },
+    {
+      "start": 1225.0,
+      "end": 1227.0,
+      "text": " fordi der er nogle af de områder i præsentationen,"
+    },
+    {
+      "start": 1227.0,
+      "end": 1229.0,
+      "text": " hvor jeg tænker, okay, den er også lidt langt fra"
+    },
+    {
+      "start": 1229.0,
+      "end": 1231.0,
+      "text": " min hverdag, den der."
+    },
+    {
+      "start": 1231.0,
+      "end": 1233.0,
+      "text": " Og det er jo fair nok, men det er rigtigt nok."
+    },
+    {
+      "start": 1233.0,
+      "end": 1235.0,
+      "text": " Sådan en onboarding af nye medarbejdere og"
+    },
+    {
+      "start": 1235.0,
+      "end": 1237.0,
+      "text": " oplæring i nye områder osv., der ligger noget,"
+    },
+    {
+      "start": 1237.0,
+      "end": 1239.0,
+      "text": " også fordi du kan jo rent faktisk hjælpe dem med at lære ting, du jo ikke"
+    },
+    {
+      "start": 1239.0,
+      "end": 1241.0,
+      "text": " nødvendigvis ved særlig meget om, fordi du har det her team"
+    },
+    {
+      "start": 1241.0,
+      "end": 1243.0,
+      "text": " of PhD students, hvis vi lige skal gå tilbage til den,"
+    },
+    {
+      "start": 1243.0,
+      "end": 1245.0,
+      "text": " som ved helt vildt meget om det."
+    },
+    {
+      "start": 1245.0,
+      "end": 1247.0,
+      "text": " Der er nogle tekniske detaljer, der er"
+    },
+    {
+      "start": 1247.0,
+      "end": 1249.0,
+      "text": " relevante at komme ind på. Der er sådan særlig to ting."
+    },
+    {
+      "start": 1249.0,
+      "end": 1251.0,
+      "text": " Den ene ting, det er, at vi kommer til at have tre modeller."
+    },
+    {
+      "start": 1251.0,
+      "end": 1253.0,
+      "text": " Så jeg sagde, alle de gamle modeller,"
+    },
+    {
+      "start": 1253.0,
+      "end": 1255.0,
+      "text": " altså 4.0, 4.5,"
+    },
+    {
+      "start": 1255.0,
+      "end": 1257.0,
+      "text": " og One Mini, alt det der, det er væk."
+    },
+    {
+      "start": 1257.0,
+      "end": 1259.0,
+      "text": " Der er tre modeller nu. ChatGPT 5, det er den"
+    },
+    {
+      "start": 1259.0,
+      "end": 1261.0,
+      "text": " næsten alle bare skal bruge. Så ligger der"
+    },
+    {
+      "start": 1261.0,
+      "end": 1263.0,
+      "text": " to andre modeller. Det er ChatGPT 5 Mini"
+    },
+    {
+      "start": 1263.0,
+      "end": 1265.0,
+      "text": " og ChatGPT 5 Nano."
+    },
+    {
+      "start": 1265.0,
+      "end": 1267.0,
+      "text": " Det de er, det er bare sådan mindre"
+    },
+    {
+      "start": 1267.0,
+      "end": 1269.0,
+      "text": " versioner af ChatGPT 5,"
+    },
+    {
+      "start": 1269.0,
+      "end": 1271.0,
+      "text": " som koster mange færre penge at trække på"
+    },
+    {
+      "start": 1271.0,
+      "end": 1273.0,
+      "text": " i API's. Det vil sige, hvis du sidder og bruger"
+    },
+    {
+      "start": 1273.0,
+      "end": 1275.0,
+      "text": " ChatGPT i din browser og skriver prompts"
+    },
+    {
+      "start": 1275.0,
+      "end": 1277.0,
+      "text": " og får tekst tilbage, så skal du bare bruge"
+    },
+    {
+      "start": 1277.0,
+      "end": 1279.0,
+      "text": " ChatGPT 5 og lade være med at bekymre dig om det."
+    },
+    {
+      "start": 1279.0,
+      "end": 1281.0,
+      "text": " Hvis du bruger ChatGPT 5 som"
+    },
+    {
+      "start": 1281.0,
+      "end": 1283.0,
+      "text": " motor i forbindelse med fx"
+    },
+    {
+      "start": 1283.0,
+      "end": 1285.0,
+      "text": " eller i dine apps"
+    },
+    {
+      "start": 1285.0,
+      "end": 1287.0,
+      "text": " eller på anden måde trækker på API'et,"
+    },
+    {
+      "start": 1287.0,
+      "end": 1289.0,
+      "text": " så er der tre modeller, ChatGPT 5,"
+    },
+    {
+      "start": 1289.0,
+      "end": 1291.0,
+      "text": " Mini og Nano. Og Mini og Nano,"
+    },
+    {
+      "start": 1291.0,
+      "end": 1293.0,
+      "text": " ligesom det har været tidligere, de er mindre modeller,"
+    },
+    {
+      "start": 1293.0,
+      "end": 1295.0,
+      "text": " de kan en lille smule mindre, og så koster de"
+    },
+    {
+      "start": 1295.0,
+      "end": 1297.0,
+      "text": " meget, meget, meget mindre at bruge end de andre."
+    },
+    {
+      "start": 1297.0,
+      "end": 1299.0,
+      "text": " Så det er sådan en udviklingsteknisk ting,"
+    },
+    {
+      "start": 1299.0,
+      "end": 1301.0,
+      "text": " hvis man ligger og trækker på API'et"
+    },
+    {
+      "start": 1301.0,
+      "end": 1303.0,
+      "text": " fra åben AI. Og så var der en rigtig interessant detalje."
+    },
+    {
+      "start": 1303.0,
+      "end": 1305.0,
+      "text": " Hørte du efter, da det snakkede"
+    },
+    {
+      "start": 1305.0,
+      "end": 1307.0,
+      "text": " om syntetisk data?"
+    },
+    {
+      "start": 1307.0,
+      "end": 1309.0,
+      "text": " Det er sjovt, det var faktisk det første spørgsmål, jeg stiller dig her"
+    },
+    {
+      "start": 1309.0,
+      "end": 1311.0,
+      "text": " bagefter. Altså det her med syntetisk data"
+    },
+    {
+      "start": 1311.0,
+      "end": 1313.0,
+      "text": " hvad er der trænet på det? Hvad pågør det? De mener halvten."
+    },
+    {
+      "start": 1313.0,
+      "end": 1315.0,
+      "text": " Og det vidste du selvfølgelig, det var pissirriterende."
+    },
+    {
+      "start": 1315.0,
+      "end": 1317.0,
+      "text": " Ja, og jeg synes det er spændende det her."
+    },
+    {
+      "start": 1317.0,
+      "end": 1319.0,
+      "text": " Jeg synes det er rigtig, rigtig spændende."
+    },
+    {
+      "start": 1319.0,
+      "end": 1321.0,
+      "text": " Hvis vi lige skal træde et skridt tilbage inden vi kommer til syntetisk data,"
+    },
+    {
+      "start": 1321.0,
+      "end": 1323.0,
+      "text": " fordi det her er en af de bagvedlæggende ting,"
+    },
+    {
+      "start": 1323.0,
+      "end": 1325.0,
+      "text": " som faktisk er en ret stor ting."
+    },
+    {
+      "start": 1325.0,
+      "end": 1327.0,
+      "text": " Ikke i forhold til hvordan du bruger modellen"
+    },
+    {
+      "start": 1327.0,
+      "end": 1329.0,
+      "text": " dag til dag, men for at forstå sådan udviklingen."
+    },
+    {
+      "start": 1329.0,
+      "end": 1331.0,
+      "text": " Måden man træner large language models på,"
+    },
+    {
+      "start": 1331.0,
+      "end": 1333.0,
+      "text": " det er jo at de scraber internettet."
+    },
+    {
+      "start": 1333.0,
+      "end": 1335.0,
+      "text": " Så det går ind på Wikipedia og Reddit"
+    },
+    {
+      "start": 1335.0,
+      "end": 1337.0,
+      "text": " og alle mulige andre steder og læser alt"
+    },
+    {
+      "start": 1337.0,
+      "end": 1339.0,
+      "text": " det der nogensinde er skrevet af nogen."
+    },
+    {
+      "start": 1339.0,
+      "end": 1341.0,
+      "text": " Og så bliver de dygtige til den årsag"
+    },
+    {
+      "start": 1341.0,
+      "end": 1343.0,
+      "text": " at kunne gætte det næste ord."
+    },
+    {
+      "start": 1343.0,
+      "end": 1345.0,
+      "text": " Det er selvfølgelig en super grov simplificering,"
+    },
+    {
+      "start": 1345.0,
+      "end": 1347.0,
+      "text": " men det er sådan i den retning."
+    },
+    {
+      "start": 1347.0,
+      "end": 1349.0,
+      "text": " Udfordringen det er, at de har sgu tømt internettet."
+    },
+    {
+      "start": 1349.0,
+      "end": 1351.0,
+      "text": " Vi er simpelthen blevet tør for tekst."
+    },
+    {
+      "start": 1351.0,
+      "end": 1353.0,
+      "text": " Altså modellerne er så store"
+    },
+    {
+      "start": 1353.0,
+      "end": 1355.0,
+      "text": " og grafikkortene bag, som er leveret af Nvidia,"
+    },
+    {
+      "start": 1355.0,
+      "end": 1357.0,
+      "text": " og det er derfor deres aktiekurs den er gået rigtig meget op ad,"
+    },
+    {
+      "start": 1357.0,
+      "end": 1359.0,
+      "text": " de er blevet så dygtige til at"
+    },
+    {
+      "start": 1359.0,
+      "end": 1361.0,
+      "text": " crawl hele internettet, at de har"
+    },
+    {
+      "start": 1361.0,
+      "end": 1363.0,
+      "text": " basically taget alt tekst. Altså de har været hele"
+    },
+    {
+      "start": 1363.0,
+      "end": 1365.0,
+      "text": " internettet rundt. De har bare støvsuget det fuldstændig."
+    },
+    {
+      "start": 1367.0,
+      "end": 1369.0,
+      "text": " Og lave modellerne bedre ved bare at tage mere tekst,"
+    },
+    {
+      "start": 1369.0,
+      "end": 1371.0,
+      "text": " fordi du har taget det hele."
+    },
+    {
+      "start": 1371.0,
+      "end": 1373.0,
+      "text": " Og altså internettet laver en ny tekst hver dag."
+    },
+    {
+      "start": 1373.0,
+      "end": 1375.0,
+      "text": " Men appetiten på ægte,"
+    },
+    {
+      "start": 1375.0,
+      "end": 1377.0,
+      "text": " godt, menneskeligt indhold,"
+    },
+    {
+      "start": 1377.0,
+      "end": 1379.0,
+      "text": " den er så stor, at der er ikke nok"
+    },
+    {
+      "start": 1379.0,
+      "end": 1381.0,
+      "text": " tekst, det er taget."
+    },
+    {
+      "start": 1381.0,
+      "end": 1383.0,
+      "text": " Og det betyder, at alle modellerne har det samme"
+    },
+    {
+      "start": 1383.0,
+      "end": 1385.0,
+      "text": " udgangspunkt at arbejde med. Og så er det spørgsmålet om,"
+    },
+    {
+      "start": 1385.0,
+      "end": 1387.0,
+      "text": " hvor gode de er til at lave vægte, hvor gode de er til"
+    },
+    {
+      "start": 1387.0,
+      "end": 1389.0,
+      "text": " at lave reasoning modeller, og hvor gode de er"
+    },
+    {
+      "start": 1389.0,
+      "end": 1391.0,
+      "text": " til pretraining og alle mulige andre ting."
+    },
+    {
+      "start": 1391.0,
+      "end": 1393.0,
+      "text": " Men det der input i form"
+    },
+    {
+      "start": 1393.0,
+      "end": 1395.0,
+      "text": " af grå tekst, de er simpelthen"
+    },
+    {
+      "start": 1395.0,
+      "end": 1397.0,
+      "text": " hele internettet rundt. Og hvad gør man så?"
+    },
+    {
+      "start": 1397.0,
+      "end": 1399.0,
+      "text": " Spørgsmålet har i lang tid"
+    },
+    {
+      "start": 1399.0,
+      "end": 1401.0,
+      "text": " været, kan du få AI til at"
+    },
+    {
+      "start": 1401.0,
+      "end": 1403.0,
+      "text": " lave mere tekst, som du kan træne"
+    },
+    {
+      "start": 1403.0,
+      "end": 1405.0,
+      "text": " AI på? Og det er det, der hedder"
+    },
+    {
+      "start": 1405.0,
+      "end": 1407.0,
+      "text": " syntetisk data. Det er, hvor du"
+    },
+    {
+      "start": 1407.0,
+      "end": 1409.0,
+      "text": " basically lader AI'en træne AI'en"
+    },
+    {
+      "start": 1409.0,
+      "end": 1411.0,
+      "text": " ved at lave indhold til den selv."
+    },
+    {
+      "start": 1411.0,
+      "end": 1413.0,
+      "text": " Og det skal man være påpasselig med, fordi"
+    },
+    {
+      "start": 1413.0,
+      "end": 1415.0,
+      "text": " hvis du gør det med dårlig data, prøv at forestille dig det,"
+    },
+    {
+      "start": 1415.0,
+      "end": 1417.0,
+      "text": " hvis du har en god model baseret"
+    },
+    {
+      "start": 1417.0,
+      "end": 1419.0,
+      "text": " på almenneskelig tekst, og så siger du, ej, jeg har lige brug for"
+    },
+    {
+      "start": 1419.0,
+      "end": 1421.0,
+      "text": " lidt mere. Og så begynder du at AI generere"
+    },
+    {
+      "start": 1421.0,
+      "end": 1423.0,
+      "text": " noget, som ikke er særlig godt. Og så træner du modellen"
+    },
+    {
+      "start": 1423.0,
+      "end": 1425.0,
+      "text": " på det, og så bliver den faktisk lige lidt dårligere. Og så genererer"
+    },
+    {
+      "start": 1425.0,
+      "end": 1427.0,
+      "text": " du noget mere, og så bliver den lige lidt dårligere. Du kan simpelthen"
+    },
+    {
+      "start": 1427.0,
+      "end": 1429.0,
+      "text": " hurtigt komme ind i sådan en negativ spiral."
+    },
+    {
+      "start": 1429.0,
+      "end": 1431.0,
+      "text": " Hvis du genererer dårlig tekst, og så bliver modellen"
+    },
+    {
+      "start": 1431.0,
+      "end": 1433.0,
+      "text": " dårlig, og så du genererer dårligere tekst, og så bliver"
+    },
+    {
+      "start": 1433.0,
+      "end": 1435.0,
+      "text": " modellen dårlig, og så kommer du ind i en negativ spiral."
+    },
+    {
+      "start": 1435.0,
+      "end": 1437.0,
+      "text": " Og det, sådan syntetisk data"
+    },
+    {
+      "start": 1437.0,
+      "end": 1439.0,
+      "text": " har været indtil nu, det har simpelthen"
+    },
+    {
+      "start": 1439.0,
+      "end": 1441.0,
+      "text": " ikke været brugbart. Det, de har fortalt om,"
+    },
+    {
+      "start": 1441.0,
+      "end": 1443.0,
+      "text": " det er, at OpenAI siger, at de faktisk"
+    },
+    {
+      "start": 1443.0,
+      "end": 1445.0,
+      "text": " har lykkes med at få"
+    },
+    {
+      "start": 1445.0,
+      "end": 1447.0,
+      "text": " ChatGPT03, som var deres"
+    },
+    {
+      "start": 1447.0,
+      "end": 1449.0,
+      "text": " hidtil mest avanceret reasoning-model,"
+    },
+    {
+      "start": 1449.0,
+      "end": 1451.0,
+      "text": " som per dagestatus så er blevet depreciated,"
+    },
+    {
+      "start": 1451.0,
+      "end": 1453.0,
+      "text": " til at lave data, som de"
+    },
+    {
+      "start": 1453.0,
+      "end": 1455.0,
+      "text": " har trænet ChatGPT05 på."
+    },
+    {
+      "start": 1455.0,
+      "end": 1457.0,
+      "text": " Så OpenAI siger altså, at"
+    },
+    {
+      "start": 1457.0,
+      "end": 1459.0,
+      "text": " de faktisk har lykkes med at lave"
+    },
+    {
+      "start": 1459.0,
+      "end": 1461.0,
+      "text": " syntetisk data, de kan træne modellerne på."
+    },
+    {
+      "start": 1461.0,
+      "end": 1463.0,
+      "text": " Årsagen til det her, det er spændende,"
+    },
+    {
+      "start": 1463.0,
+      "end": 1465.0,
+      "text": " det er, at man skal sådan lidt forestille sig, at"
+    },
+    {
+      "start": 1465.0,
+      "end": 1467.0,
+      "text": " hvis du først kan få AI'en til at træne AI'en,"
+    },
+    {
+      "start": 1467.0,
+      "end": 1469.0,
+      "text": " så på et eller andet tidspunkt, så begynder det"
+    },
+    {
+      "start": 1469.0,
+      "end": 1471.0,
+      "text": " altså at gå rigtig stærkt."
+    },
+    {
+      "start": 1471.0,
+      "end": 1473.0,
+      "text": " Fordi, det kan fandme skabe meget indhold."
+    },
+    {
+      "start": 1473.0,
+      "end": 1475.0,
+      "text": " Men det er derfor,"
+    },
+    {
+      "start": 1475.0,
+      "end": 1477.0,
+      "text": " at den der lille note omkring,"
+    },
+    {
+      "start": 1477.0,
+      "end": 1479.0,
+      "text": " hey, vi har faktisk lavet syntetisk indhold med O3,"
+    },
+    {
+      "start": 1479.0,
+      "end": 1481.0,
+      "text": " som vi har trænet GPT05 med,"
+    },
+    {
+      "start": 1481.0,
+      "end": 1483.0,
+      "text": " det er faktisk ikke en lille ting."
+    },
+    {
+      "start": 1483.0,
+      "end": 1485.0,
+      "text": " Det er første gang, hvor vi er begyndt at lave syntetisk data,"
+    },
+    {
+      "start": 1485.0,
+      "end": 1487.0,
+      "text": " og hvor man siger, at det rent faktisk virker."
+    },
+    {
+      "start": 1487.0,
+      "end": 1489.0,
+      "text": " Du har jo forsøgt det i lang tid, du skal ikke tro, at det er nyt,"
+    },
+    {
+      "start": 1489.0,
+      "end": 1491.0,
+      "text": " det har bare ikke virket."
+    },
+    {
+      "start": 1491.0,
+      "end": 1493.0,
+      "text": " Det er første gang, hvor man siger, hey, det virker nu."
+    },
+    {
+      "start": 1493.0,
+      "end": 1495.0,
+      "text": " Og man skal sådan lidt forestille sig, at der er sådan en hockey stick moment."
+    },
+    {
+      "start": 1495.0,
+      "end": 1497.0,
+      "text": " Så hvis du lige pludselig kan få AI'en til at lave data,"
+    },
+    {
+      "start": 1497.0,
+      "end": 1499.0,
+      "text": " du kan træne AI'en på, så kan det altså begynde at gå stærkt"
+    },
+    {
+      "start": 1499.0,
+      "end": 1501.0,
+      "text": " på et eller andet tidspunkt."
+    },
+    {
+      "start": 1501.0,
+      "end": 1503.0,
+      "text": " Jeg tænkte på at forklare det på den her måde her,"
+    },
+    {
+      "start": 1503.0,
+      "end": 1505.0,
+      "text": " fordi tror du, det har noget at gøre med,"
+    },
+    {
+      "start": 1505.0,
+      "end": 1507.0,
+      "text": " at det bunder i folks holdning til AI?"
+    },
+    {
+      "start": 1507.0,
+      "end": 1509.0,
+      "text": " Ligesom præcis, som vi har snakket om i alle mulige episoder,"
+    },
+    {
+      "start": 1509.0,
+      "end": 1511.0,
+      "text": " hvis du ser noget, der er AI, så gider du ikke læse det."
+    },
+    {
+      "start": 1511.0,
+      "end": 1513.0,
+      "text": " Så det her med, om de frygter,"
+    },
+    {
+      "start": 1513.0,
+      "end": 1515.0,
+      "text": " at det her, det går ud og"
+    },
+    {
+      "start": 1515.0,
+      "end": 1517.0,
+      "text": " underminerer deres egen model,"
+    },
+    {
+      "start": 1517.0,
+      "end": 1519.0,
+      "text": " hvilket jo,"
+    },
+    {
+      "start": 1519.0,
+      "end": 1521.0,
+      "text": " det jo ikke burde det, men..."
+    },
+    {
+      "start": 1521.0,
+      "end": 1523.0,
+      "text": " Ja, men det er interessant til E4."
+    },
+    {
+      "start": 1523.0,
+      "end": 1525.0,
+      "text": " Jamen det er det, præcis."
+    },
+    {
+      "start": 1525.0,
+      "end": 1527.0,
+      "text": " Jeg tror måske mere af det,"
+    },
+    {
+      "start": 1527.0,
+      "end": 1529.0,
+      "text": " fordi når man tager sådan et livestream der,"
+    },
+    {
+      "start": 1529.0,
+      "end": 1531.0,
+      "text": " der er så mange forskellige personer,"
+    },
+    {
+      "start": 1531.0,
+      "end": 1533.0,
+      "text": " der ser med, at de skal omfavne en så bred lytterskare,"
+    },
+    {
+      "start": 1533.0,
+      "end": 1535.0,
+      "text": " og jeg tror ikke, de kunne,"
+    },
+    {
+      "start": 1535.0,
+      "end": 1537.0,
+      "text": " jeg tror, at de vurderede, at de kunne ikke gå teknisk nok"
+    },
+    {
+      "start": 1537.0,
+      "end": 1539.0,
+      "text": " til værks af den årsag, fordi der er også nogle lidt skæve"
+    },
+    {
+      "start": 1539.0,
+      "end": 1541.0,
+      "text": " use-cases med, som vi også lige kommer ind på lige om lidt."
+    },
+    {
+      "start": 1541.0,
+      "end": 1543.0,
+      "text": " Jeg vil jo personligt have foretrukket,"
+    },
+    {
+      "start": 1543.0,
+      "end": 1545.0,
+      "text": " at jeg har brugt en halv time på det her,"
+    },
+    {
+      "start": 1545.0,
+      "end": 1547.0,
+      "text": " fordi hvis det her kunne fortælle os noget om,"
+    },
+    {
+      "start": 1547.0,
+      "end": 1549.0,
+      "text": " hvordan fremtiden kommer til at fungere,"
+    },
+    {
+      "start": 1549.0,
+      "end": 1551.0,
+      "text": " nej, det er spændende."
+    },
+    {
+      "start": 1551.0,
+      "end": 1553.0,
+      "text": " Lad os tage et lidt skævt emne, som jeg lærer I mærke til."
+    },
+    {
+      "start": 1553.0,
+      "end": 1555.0,
+      "text": " Det var, at de havde nogle cases med fra folk,"
+    },
+    {
+      "start": 1555.0,
+      "end": 1557.0,
+      "text": " som brugte ChatGPT,"
+    },
+    {
+      "start": 1557.0,
+      "end": 1559.0,
+      "text": " på en meget anden måde,"
+    },
+    {
+      "start": 1559.0,
+      "end": 1561.0,
+      "text": " end vi normalt snakker om på podcastet."
+    },
+    {
+      "start": 1561.0,
+      "end": 1563.0,
+      "text": " Altså, vi snakker om, hvordan du bruger det til tekst,"
+    },
+    {
+      "start": 1563.0,
+      "end": 1565.0,
+      "text": " og e-mails, og text-to-image, text-to-video,"
+    },
+    {
+      "start": 1565.0,
+      "end": 1567.0,
+      "text": " og du kan forbedre dit arbejde,"
+    },
+    {
+      "start": 1567.0,
+      "end": 1569.0,
+      "text": " lave analyse, du ikke kunne have lavet tidligere, osv."
+    },
+    {
+      "start": 1569.0,
+      "end": 1571.0,
+      "text": " De lagde ret meget fokus på health."
+    },
+    {
+      "start": 1571.0,
+      "end": 1573.0,
+      "text": " Helt vildt."
+    },
+    {
+      "start": 1573.0,
+      "end": 1575.0,
+      "text": " De havde en cancer,"
+    },
+    {
+      "start": 1575.0,
+      "end": 1577.0,
+      "text": " en kraftpatient med op på scenen,"
+    },
+    {
+      "start": 1577.0,
+      "end": 1579.0,
+      "text": " som fortalte, hvordan hun havde brugt ChatGPT"
+    },
+    {
+      "start": 1579.0,
+      "end": 1581.0,
+      "text": " til at forstå sine lærers,"
+    },
+    {
+      "start": 1581.0,
+      "end": 1583.0,
+      "text": " sine biopsies,"
+    },
+    {
+      "start": 1583.0,
+      "end": 1585.0,
+      "text": " og hendes lærers rådgivning til hende,"
+    },
+    {
+      "start": 1585.0,
+      "end": 1587.0,
+      "text": " og indsamle mere information,"
+    },
+    {
+      "start": 1587.0,
+      "end": 1589.0,
+      "text": " og hjælpe hende med at træffe beslutninger."
+    },
+    {
+      "start": 1589.0,
+      "end": 1591.0,
+      "text": " Sam Altman, han snakkede ikke særlig meget"
+    },
+    {
+      "start": 1591.0,
+      "end": 1593.0,
+      "text": " i den her præsentation. Når han snakkede, så var det om health."
+    },
+    {
+      "start": 1593.0,
+      "end": 1595.0,
+      "text": " Han kom ikke ind og snakkede om kodning,"
+    },
+    {
+      "start": 1595.0,
+      "end": 1597.0,
+      "text": " han snakkede om health."
+    },
+    {
+      "start": 1597.0,
+      "end": 1599.0,
+      "text": " Kunne du finde på at"
+    },
+    {
+      "start": 1599.0,
+      "end": 1601.0,
+      "text": " tage i dine blodprøver,"
+    },
+    {
+      "start": 1601.0,
+      "end": 1603.0,
+      "text": " og uploade i ChatGPT,"
+    },
+    {
+      "start": 1603.0,
+      "end": 1605.0,
+      "text": " og så sige, hey, hvad er det her?"
+    },
+    {
+      "start": 1605.0,
+      "end": 1607.0,
+      "text": " Har du brugt ChatGPT til helserelaterede ting?"
+    },
+    {
+      "start": 1607.0,
+      "end": 1609.0,
+      "text": " Ja, det har jeg faktisk."
+    },
+    {
+      "start": 1609.0,
+      "end": 1611.0,
+      "text": " Nu laver jeg,"
+    },
+    {
+      "start": 1611.0,
+      "end": 1613.0,
+      "text": " at vi var i Vietnam"
+    },
+    {
+      "start": 1613.0,
+      "end": 1615.0,
+      "text": " i starten af året, hvor"
+    },
+    {
+      "start": 1615.0,
+      "end": 1617.0,
+      "text": " vi blev begge to voldst og syge i løbet af"
+    },
+    {
+      "start": 1617.0,
+      "end": 1619.0,
+      "text": " den her tur her, og vi skulle ned på apoteket,"
+    },
+    {
+      "start": 1619.0,
+      "end": 1621.0,
+      "text": " og vi fattede jo ikke en skid af, hvad der stod på de her"
+    },
+    {
+      "start": 1621.0,
+      "end": 1623.0,
+      "text": " ting, som vi havde fået udleveret"
+    },
+    {
+      "start": 1623.0,
+      "end": 1625.0,
+      "text": " nede på apoteket. Der brugte vi det rigtig meget"
+    },
+    {
+      "start": 1625.0,
+      "end": 1627.0,
+      "text": " til at finde ud af, okay, vi har de her tre"
+    },
+    {
+      "start": 1627.0,
+      "end": 1629.0,
+      "text": " præparater her. Der er noget pilleværk og et eller andet"
+    },
+    {
+      "start": 1629.0,
+      "end": 1631.0,
+      "text": " til maven. Hvordan skal det"
+    },
+    {
+      "start": 1631.0,
+      "end": 1633.0,
+      "text": " tages? Hvornår skal det tages?"
+    },
+    {
+      "start": 1633.0,
+      "end": 1635.0,
+      "text": " Den endte faktisk med at lave sådan en hel timeline for os,"
+    },
+    {
+      "start": 1635.0,
+      "end": 1637.0,
+      "text": " for okay, du har taget det der, så det næste, det må du tage"
+    },
+    {
+      "start": 1637.0,
+      "end": 1639.0,
+      "text": " her om to-tre timer. Så på den måde har"
+    },
+    {
+      "start": 1639.0,
+      "end": 1641.0,
+      "text": " den været helt fantastisk. Jeg vil sige, jeg har brugt"
+    },
+    {
+      "start": 1641.0,
+      "end": 1643.0,
+      "text": " det i den lette ende indtil nu, så det er sådan noget med"
+    },
+    {
+      "start": 1643.0,
+      "end": 1645.0,
+      "text": " at lave en træningsplan for at opnå det her"
+    },
+    {
+      "start": 1645.0,
+      "end": 1647.0,
+      "text": " mål, og jeg har ondt i skulderen."
+    },
+    {
+      "start": 1647.0,
+      "end": 1649.0,
+      "text": " Kan jeg godt lave den her øvelse, eller skal jeg lade være"
+    },
+    {
+      "start": 1649.0,
+      "end": 1651.0,
+      "text": " med det? Sådan i den retning der,"
+    },
+    {
+      "start": 1651.0,
+      "end": 1653.0,
+      "text": " jeg vil ikke have noget i. Nu har jeg ikke haft nogen anledning"
+    },
+    {
+      "start": 1653.0,
+      "end": 1655.0,
+      "text": " til at oplåde min blodprøve. Hvis jeg fik"
+    },
+    {
+      "start": 1655.0,
+      "end": 1657.0,
+      "text": " en anledning, ville jeg ikke have det fjernstem ud"
+    },
+    {
+      "start": 1657.0,
+      "end": 1659.0,
+      "text": " og oplåde det. Det er lidt"
+    },
+    {
+      "start": 1659.0,
+      "end": 1661.0,
+      "text": " ligesom det der med,"
+    },
+    {
+      "start": 1661.0,
+      "end": 1663.0,
+      "text": " hvad skal vi gøre med alle de bedste modeller?"
+    },
+    {
+      "start": 1663.0,
+      "end": 1665.0,
+      "text": " Kinesiske, så må vi bruge dem indtil Europa bygger nogle bedre."
+    },
+    {
+      "start": 1665.0,
+      "end": 1667.0,
+      "text": " Så det er absolut et andet problem end det."
+    },
+    {
+      "start": 1667.0,
+      "end": 1669.0,
+      "text": " Og jeg har også en"
+    },
+    {
+      "start": 1669.0,
+      "end": 1671.0,
+      "text": " kone mininde, hvis hun blev syg på"
+    },
+    {
+      "start": 1671.0,
+      "end": 1673.0,
+      "text": " et tidspunkt og bare blev sendt hjem,"
+    },
+    {
+      "start": 1673.0,
+      "end": 1675.0,
+      "text": " og så sad hun og skrev med ChatGPC"
+    },
+    {
+      "start": 1675.0,
+      "end": 1677.0,
+      "text": " det halve af natten og vurderede, at der var noget galt,"
+    },
+    {
+      "start": 1677.0,
+      "end": 1679.0,
+      "text": " fik hun tjekket for det, og så viste det sig, at den var"
+    },
+    {
+      "start": 1679.0,
+      "end": 1681.0,
+      "text": " dødssyg. Altså,"
+    },
+    {
+      "start": 1681.0,
+      "end": 1683.0,
+      "text": " den endte med at overleve, men det var den nok ikke,"
+    },
+    {
+      "start": 1683.0,
+      "end": 1685.0,
+      "text": " hvis ikke hun havde skrevet med ChatGPC og fået"
+    },
+    {
+      "start": 1685.0,
+      "end": 1687.0,
+      "text": " nogle idéer til, hvad hun"
+    },
+    {
+      "start": 1687.0,
+      "end": 1689.0,
+      "text": " skulle gå op og be en dyrlæge om at tjekke, og så var det"
+    },
+    {
+      "start": 1689.0,
+      "end": 1691.0,
+      "text": " rent faktisk det, der også var problemet."
+    },
+    {
+      "start": 1691.0,
+      "end": 1693.0,
+      "text": " Så jeg synes, det var interessant,"
+    },
+    {
+      "start": 1693.0,
+      "end": 1695.0,
+      "text": " at health fyldes så meget, fordi det gør det jo kun,"
+    },
+    {
+      "start": 1695.0,
+      "end": 1697.0,
+      "text": " fordi det er en enorm stor use case"
+    },
+    {
+      "start": 1697.0,
+      "end": 1699.0,
+      "text": " for dem i forvejen, og de havde lagt"
+    },
+    {
+      "start": 1699.0,
+      "end": 1701.0,
+      "text": " ret meget arbejde i, at når man"
+    },
+    {
+      "start": 1701.0,
+      "end": 1703.0,
+      "text": " stiller et spørgsmål omkring ens helbred,"
+    },
+    {
+      "start": 1703.0,
+      "end": 1705.0,
+      "text": " at den simpelthen skulle give mere præcise"
+    },
+    {
+      "start": 1705.0,
+      "end": 1707.0,
+      "text": " svar, og at det er også svært at forestille sig et område, hvor det er"
+    },
+    {
+      "start": 1707.0,
+      "end": 1709.0,
+      "text": " værre, hvis den giver forkerte svar. Ja, lige præcis."
+    },
+    {
+      "start": 1709.0,
+      "end": 1711.0,
+      "text": " Lige præcis. Nu har vi"
+    },
+    {
+      "start": 1711.0,
+      "end": 1713.0,
+      "text": " snakket om alle de ting, som kommer i"
+    },
+    {
+      "start": 1713.0,
+      "end": 1715.0,
+      "text": " ChatGPC 5. Nogle af de ting, den gør bedre"
+    },
+    {
+      "start": 1715.0,
+      "end": 1717.0,
+      "text": " i forhold til kodning og hurtigere,"
+    },
+    {
+      "start": 1717.0,
+      "end": 1719.0,
+      "text": " man kan ikke vælge forkert længere, den skal ikke skrive sig af"
+    },
+    {
+      "start": 1719.0,
+      "end": 1721.0,
+      "text": " længere, vi skal have elimineret hallucinationer,"
+    },
+    {
+      "start": 1721.0,
+      "end": 1723.0,
+      "text": " vi har de her self-completion, study mode,"
+    },
+    {
+      "start": 1723.0,
+      "end": 1725.0,
+      "text": " voice improvements og alt det der. Lad os lige"
+    },
+    {
+      "start": 1725.0,
+      "end": 1727.0,
+      "text": " snakke om, da du sad og så det her,"
+    },
+    {
+      "start": 1727.0,
+      "end": 1729.0,
+      "text": " hvad tænker du, at den"
+    },
+    {
+      "start": 1729.0,
+      "end": 1731.0,
+      "text": " mangler? Hvad var alle trollene i YouTube"
+    },
+    {
+      "start": 1731.0,
+      "end": 1733.0,
+      "text": " kommentarfeltet skuffede over?"
+    },
+    {
+      "start": 1733.0,
+      "end": 1735.0,
+      "text": " Der er jo rigtig mange, der var skuffede over"
+    },
+    {
+      "start": 1735.0,
+      "end": 1737.0,
+      "text": " den her manglende"
+    },
+    {
+      "start": 1737.0,
+      "end": 1739.0,
+      "text": " agentic feature, altså det er det mere,"
+    },
+    {
+      "start": 1739.0,
+      "end": 1741.0,
+      "text": " jeg ved ikke,"
+    },
+    {
+      "start": 1741.0,
+      "end": 1743.0,
+      "text": " hvordan man skal sige det på dansk, men agentic,"
+    },
+    {
+      "start": 1743.0,
+      "end": 1745.0,
+      "text": " altså agentic AI, at der ikke kom sådan en,"
+    },
+    {
+      "start": 1745.0,
+      "end": 1747.0,
+      "text": " eller det, vi kender fra Manus,"
+    },
+    {
+      "start": 1747.0,
+      "end": 1749.0,
+      "text": " som vi jo begge to bruger"
+    },
+    {
+      "start": 1749.0,
+      "end": 1751.0,
+      "text": " flittigt, det mangler,"
+    },
+    {
+      "start": 1751.0,
+      "end": 1753.0,
+      "text": " altså det, og så var der"
+    },
+    {
+      "start": 1753.0,
+      "end": 1755.0,
+      "text": " også rigtig mange, der skrev omkring billedgenerering,"
+    },
+    {
+      "start": 1755.0,
+      "end": 1757.0,
+      "text": " de savnede altså at have set noget mere billedgenerering,"
+    },
+    {
+      "start": 1757.0,
+      "end": 1759.0,
+      "text": " men det var sådan de to primære"
+    },
+    {
+      "start": 1759.0,
+      "end": 1761.0,
+      "text": " ting, som jeg kunne læse mig frem til,"
+    },
+    {
+      "start": 1761.0,
+      "end": 1763.0,
+      "text": " der var tusindvis af kommentarer, det var faktisk"
+    },
+    {
+      "start": 1763.0,
+      "end": 1765.0,
+      "text": " ret svært at følge med."
+    },
+    {
+      "start": 1765.0,
+      "end": 1767.0,
+      "text": " Jeg vil sige, at den helt store for mig, det er, når jeg ser på mit"
+    },
+    {
+      "start": 1767.0,
+      "end": 1769.0,
+      "text": " AI forbrug i dag, på hvilke"
+    },
+    {
+      "start": 1769.0,
+      "end": 1771.0,
+      "text": " LLM'er og tjenester jeg bruger,"
+    },
+    {
+      "start": 1771.0,
+      "end": 1773.0,
+      "text": " så er den, jeg bruger mest,"
+    },
+    {
+      "start": 1773.0,
+      "end": 1775.0,
+      "text": " Manus, og vi har"
+    },
+    {
+      "start": 1775.0,
+      "end": 1777.0,
+      "text": " nævnt den tidligere til dem, der ikke kender den,"
+    },
+    {
+      "start": 1777.0,
+      "end": 1779.0,
+      "text": " Manus er en general purpose"
+    },
+    {
+      "start": 1779.0,
+      "end": 1781.0,
+      "text": " agent, som har et chat interface,"
+    },
+    {
+      "start": 1781.0,
+      "end": 1783.0,
+      "text": " ligesom du kender med ChatGPT, forskellen er, at den"
+    },
+    {
+      "start": 1783.0,
+      "end": 1785.0,
+      "text": " kan udføre hele din opgave for dig, i stedet for at bare give dig noget"
+    },
+    {
+      "start": 1785.0,
+      "end": 1787.0,
+      "text": " tekst tilbage. OpenAI har forsøgt"
+    },
+    {
+      "start": 1787.0,
+      "end": 1789.0,
+      "text": " at lave noget lidt i det samme stil med deres"
+    },
+    {
+      "start": 1789.0,
+      "end": 1791.0,
+      "text": " lansering af noget, de kaldte Operator, fungerede overhovedet ikke,"
+    },
+    {
+      "start": 1791.0,
+      "end": 1793.0,
+      "text": " og de har droppet det igen, og der er nogle andre"
+    },
+    {
+      "start": 1793.0,
+      "end": 1795.0,
+      "text": " general purpose agenter, der er derude, sådan lidt Manus"
+    },
+    {
+      "start": 1795.0,
+      "end": 1797.0,
+      "text": " er, i mit indtryk er det klart den mest"
+    },
+    {
+      "start": 1797.0,
+      "end": 1799.0,
+      "text": " udbredte, og jeg vil sige, at al min AI"
+    },
+    {
+      "start": 1799.0,
+      "end": 1801.0,
+      "text": " forbrug, så ligger, lad os gætte,"
+    },
+    {
+      "start": 1801.0,
+      "end": 1803.0,
+      "text": " på 70-80% faktisk i Manus,"
+    },
+    {
+      "start": 1803.0,
+      "end": 1805.0,
+      "text": " og det er både for at få hjælp til at"
+    },
+    {
+      "start": 1805.0,
+      "end": 1807.0,
+      "text": " korrekturlæse e-mails, til at generere"
+    },
+    {
+      "start": 1807.0,
+      "end": 1809.0,
+      "text": " billeder, hvis man følger med på LinkedIn"
+    },
+    {
+      "start": 1809.0,
+      "end": 1811.0,
+      "text": " nyhedsbredelse i marketing, på at vi mange af vores kopper"
+    },
+    {
+      "start": 1811.0,
+      "end": 1813.0,
+      "text": " fortsætter at være genereret af Manus,"
+    },
+    {
+      "start": 1813.0,
+      "end": 1815.0,
+      "text": " jeg bruger den rigtig meget til at få hjælp"
+    },
+    {
+      "start": 1815.0,
+      "end": 1817.0,
+      "text": " til udarbejdelse af præsentationer,"
+    },
+    {
+      "start": 1817.0,
+      "end": 1819.0,
+      "text": " til spreadsheets, til dokumenter,"
+    },
+    {
+      "start": 1819.0,
+      "end": 1821.0,
+      "text": " jeg har bygget WordPress"
+    },
+    {
+      "start": 1821.0,
+      "end": 1823.0,
+      "text": " temaer med den, og fået dem lagt ud i en"
+    },
+    {
+      "start": 1823.0,
+      "end": 1825.0,
+      "text": " færdig zip-fil, jeg bare kunne upload, og det virkede"
+    },
+    {
+      "start": 1825.0,
+      "end": 1827.0,
+      "text": " bagefter, hold kæft, jeg har lavet mange"
+    },
+    {
+      "start": 1827.0,
+      "end": 1829.0,
+      "text": " ting med den, og det der er fedt ved den, det er at jeg kan give"
+    },
+    {
+      "start": 1829.0,
+      "end": 1831.0,
+      "text": " den opgave, og den løser opgaven, hvor"
+    },
+    {
+      "start": 1831.0,
+      "end": 1833.0,
+      "text": " OpenAI og ChatGPT kan tage,"
+    },
+    {
+      "start": 1833.0,
+      "end": 1835.0,
+      "text": " jeg kan give den et prompt,"
+    },
+    {
+      "start": 1835.0,
+      "end": 1837.0,
+      "text": " og så får jeg noget tekst tilbage, som jeg kan lægge ind i den opgave,"
+    },
+    {
+      "start": 1837.0,
+      "end": 1839.0,
+      "text": " jeg alligevel er i gang med,"
+    },
+    {
+      "start": 1839.0,
+      "end": 1841.0,
+      "text": " og den del,"
+    },
+    {
+      "start": 1841.0,
+      "end": 1843.0,
+      "text": " altså, jeg forestiller mig"
+    },
+    {
+      "start": 1843.0,
+      "end": 1845.0,
+      "text": " på baggrunden af det her"
+    },
+    {
+      "start": 1845.0,
+      "end": 1847.0,
+      "text": " livestream, at jeg kommer faktisk nok"
+    },
+    {
+      "start": 1847.0,
+      "end": 1849.0,
+      "text": " ikke til at bruge ChatGPT mere, fordi vi har"
+    },
+    {
+      "start": 1849.0,
+      "end": 1851.0,
+      "text": " fået ChatGPT 5, i forhold til de andre,"
+    },
+    {
+      "start": 1851.0,
+      "end": 1853.0,
+      "text": " fordi det er en helt stor ting for mig,"
+    },
+    {
+      "start": 1853.0,
+      "end": 1855.0,
+      "text": " det er, at når jeg bruger AI"
+    },
+    {
+      "start": 1855.0,
+      "end": 1857.0,
+      "text": " i Manus, at det løser den faktisk"
+    },
+    {
+      "start": 1857.0,
+      "end": 1859.0,
+      "text": " en meget større del af opgaven, end"
+    },
+    {
+      "start": 1859.0,
+      "end": 1861.0,
+      "text": " ChatGPT gør, så en lidt hurtigere"
+    },
+    {
+      "start": 1861.0,
+      "end": 1863.0,
+      "text": " version af noget, jeg alligevel selv skal lave"
+    },
+    {
+      "start": 1863.0,
+      "end": 1865.0,
+      "text": " alt arbejdet med bagefter, gør faktisk"
+    },
+    {
+      "start": 1865.0,
+      "end": 1867.0,
+      "text": " ikke en kæmpe forskel, og det"
+    },
+    {
+      "start": 1867.0,
+      "end": 1869.0,
+      "text": " jeg havde troet og håbet, at hele"
+    },
+    {
+      "start": 1869.0,
+      "end": 1871.0,
+      "text": " den her agent-del og den operationelle"
+    },
+    {
+      "start": 1871.0,
+      "end": 1873.0,
+      "text": " del, og der hvor den går ind og løser opgaven,"
+    },
+    {
+      "start": 1873.0,
+      "end": 1875.0,
+      "text": " i stedet for bare at sende tekst tilbage til dig, skulle have fyldt"
+    },
+    {
+      "start": 1875.0,
+      "end": 1877.0,
+      "text": " mere i dag, end det rent faktisk gjorde,"
+    },
+    {
+      "start": 1877.0,
+      "end": 1879.0,
+      "text": " og det vil jeg sige, det er den store"
+    },
+    {
+      "start": 1879.0,
+      "end": 1881.0,
+      "text": " negative overraskelse"
+    },
+    {
+      "start": 1881.0,
+      "end": 1883.0,
+      "text": " for mig, fordi"
+    },
+    {
+      "start": 1883.0,
+      "end": 1885.0,
+      "text": " jeg kan se, om det er ChatGPT"
+    },
+    {
+      "start": 1885.0,
+      "end": 1887.0,
+      "text": " eller Gemini eller Claude eller"
+    },
+    {
+      "start": 1887.0,
+      "end": 1889.0,
+      "text": " Grok, er jeg faktisk ligeglad med, fordi Manus er den eneste,"
+    },
+    {
+      "start": 1889.0,
+      "end": 1891.0,
+      "text": " der kan løse en meget større del af den samlede opgave,"
+    },
+    {
+      "start": 1891.0,
+      "end": 1893.0,
+      "text": " jeg giver, og om den så er lidt"
+    },
+    {
+      "start": 1893.0,
+      "end": 1895.0,
+      "text": " langsommere og lidt dårligere på hælse, er jeg fuldstændig"
+    },
+    {
+      "start": 1895.0,
+      "end": 1897.0,
+      "text": " ligeglad med, det er klart den, jeg bruger mest alligevel, og jeg er mest"
+    },
+    {
+      "start": 1897.0,
+      "end": 1899.0,
+      "text": " betalingsvillig for, lige nu."
+    },
+    {
+      "start": 1899.0,
+      "end": 1901.0,
+      "text": " Christian, hvis vi skal opsummere til sidst, hvis du har"
+    },
+    {
+      "start": 1901.0,
+      "end": 1903.0,
+      "text": " en af dine kunder, der ringer i morgen"
+    },
+    {
+      "start": 1903.0,
+      "end": 1905.0,
+      "text": " og spørger, ChatGPT 5,"
+    },
+    {
+      "start": 1905.0,
+      "end": 1907.0,
+      "text": " skal jeg bruge det til alt fremadrettet, hvad"
+    },
+    {
+      "start": 1907.0,
+      "end": 1909.0,
+      "text": " er sådan din samlede vurdering eller opsummering af det?"
+    },
+    {
+      "start": 1909.0,
+      "end": 1911.0,
+      "text": " Nå, det var et bredt spørgsmål, til alt?"
+    },
+    {
+      "start": 1911.0,
+      "end": 1913.0,
+      "text": " Nej, det tror jeg ikke, vi har næsten specificeret, hvad det er."
+    },
+    {
+      "start": 1913.0,
+      "end": 1915.0,
+      "text": " Men jeg vil så kunne sige til"
+    },
+    {
+      "start": 1915.0,
+      "end": 1917.0,
+      "text": " den her givende kunde, at det"
+    },
+    {
+      "start": 1917.0,
+      "end": 1919.0,
+      "text": " kun er blevet bedre, så det er blevet bedre"
+    },
+    {
+      "start": 1919.0,
+      "end": 1921.0,
+      "text": " end det var i går, så hvis"
+    },
+    {
+      "start": 1921.0,
+      "end": 1923.0,
+      "text": " man mener, at"
+    },
+    {
+      "start": 1923.0,
+      "end": 1925.0,
+      "text": " ChatGPT tidligere har kunne løse den"
+    },
+    {
+      "start": 1925.0,
+      "end": 1927.0,
+      "text": " givende opgave, så er det kun blevet bedre nu."
+    },
+    {
+      "start": 1927.0,
+      "end": 1929.0,
+      "text": " Jeg vil også sige, hvis du var glad for det før, så er det bedre nu."
+    },
+    {
+      "start": 1929.0,
+      "end": 1931.0,
+      "text": " Det er en opgradering. Hvis du sidder"
+    },
+    {
+      "start": 1931.0,
+      "end": 1933.0,
+      "text": " ultra hardcore, bygger flows, agenter"
+    },
+    {
+      "start": 1933.0,
+      "end": 1935.0,
+      "text": " og havde ønsket dig en general purpose"
+    },
+    {
+      "start": 1935.0,
+      "end": 1937.0,
+      "text": " agent, så bliver du nok en lille"
+    },
+    {
+      "start": 1937.0,
+      "end": 1939.0,
+      "text": " smule skuffet, men det er selvfølgelig et stort"
+    },
+    {
+      "start": 1939.0,
+      "end": 1941.0,
+      "text": " skridt frem. Jeg glæder mig til, at vi skal lave"
+    },
+    {
+      "start": 1941.0,
+      "end": 1943.0,
+      "text": " den næste nødpodcast i"
+    },
+    {
+      "start": 1943.0,
+      "end": 1945.0,
+      "text": " 2027, når vi får GPT 6"
+    },
+    {
+      "start": 1945.0,
+      "end": 1947.0,
+      "text": " på et eller andet tidspunkt."
+    },
+    {
+      "start": 1947.0,
+      "end": 1949.0,
+      "text": " Til da."
+    },
+    {
+      "start": 1949.0,
+      "end": 1951.0,
+      "text": " Tusind tak, fordi du lyttede med til dagens episode."
+    },
+    {
+      "start": 1951.0,
+      "end": 1953.0,
+      "text": " På igen her på mandag til en helt"
+    },
+    {
+      "start": 1953.0,
+      "end": 1955.0,
+      "text": " almindelig episode."
+    }
+  ]
+}

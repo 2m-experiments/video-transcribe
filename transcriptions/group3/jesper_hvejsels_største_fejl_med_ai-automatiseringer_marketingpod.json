@@ -1,0 +1,231 @@
+{
+  "title": "Jesper Hvejsels største fejl med AI-automatiseringer #marketingpod",
+  "url": "https://www.youtube.com/watch?v=iEDJY5MDnZo",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 167.8,
+  "transcribed_at": "2026-04-16T12:16:59.805215+00:00",
+  "full_text": "Der er mange. En af dem er, at vores PIM-integration er lavet med ikke. Det vil sige, at vi har 38.000 produkter, så integrationen mellem vores shop-systemer. Vi har seks shop-systemer, og det er rimelig mange datapunkter, der kører ind. Det havde vi lavet hurtigt. Vi lavede en uge, og sagde, at hvis vi kan lave en integration til et PIM på en uge, så køber vi en pølsevogn. Vi købte pølsevognen, når vi fik lavet integrationen. Det, vi ikke havde taget højde for, er, at i PIM'et er der nogle begrænsninger, man kan sætte. Hvis halvstanden sidder og har fri adgang til alt, så kommer halvstanden til at gøre noget. Det var en, der fik taget alle vores produkter. Hun skulle skifte 100 produkters leverandør, så tog hun alle produkter og skiftede leverandøren på 38.000 produkter. Det pissede bare ud i alle systemer. Den var ikke god. Når et workflow går galt, får du lige givet det forkerte input til at starte med. Og så kører den bare, fordi det hele er automatisk. Den kan rulle hele systemet igennem. Den kører bare. Vi har mange af dem der, men fælles for det hele er, at hvis det er nemt at gøre den den vej, så er det også nemt at løse. Selvfølgelig havde vi nogle backups, som vi så kunne køre ind igennem Mac igen. Så lærte vi dem, at nu har vi et failsafe, så hvis der kommer over 1.000 updates, så pauser det lidt. Hvad fanden har vi mere lavet? Vi har lavet alt muligt lort. Mails. Specielt kundemails. Vi sender alle vores kundemails gennem Mac. Triggers og kundemails. Der var en dag, hvor der er backorders, der skal man ind. Der havde vi et human in the loop, hvor man skulle vælge til. Dem her vil jeg sende til. Men den blev så vendt rundt, så der blev sendt til 8.000. Der ikke skulle være sendt til, i stedet for de 100, der skulle være sendt til. Men det er jo også en vigtig del af det at bygge det her automation, så får det til at virke i en organisation. Det er sådan, det er. Dem, der laver de fejl, fuldt respekt, de gjorde noget. Det er sådan, det skal være. Vi er nødt til at have en accept af, at ting går galt, når vi bygger på den her måde. Det er bare så vigtigt, og det er stadigvæk nok også en af de største concerns i virksomheder. Det er at sige, hvad så, hvis det her går galt hjemme? Hvad så, hvis den her udvikler, du havde for 6 år siden, som sidder i Canada nu, som aldrig har kigget på det kode igen, hvad så, hvis han har lavet et fuck-up? Det er det der. The evil you know versus the evil you don't know. Og det her er the evil you know, fordi der bliver bygget meget, og der er ting, der går galt. Men fælles for det allesammen, det er at sige, dem, der har bygget, har næsten, jeg tror, jeg snakker 90-95 procent tilfældigt, selv kunne løse problemet. Og så er det, for mig, begynder at blive smukt. Så begynder vi at have nogle mennesker, som ...",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 7.0,
+      "text": " Der er mange. En af dem er, at vores PIM-integration er lavet med ikke."
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": " Det vil sige, at vi har 38.000 produkter, så integrationen mellem vores shop-systemer."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": " Vi har seks shop-systemer, og det er rimelig mange datapunkter, der kører ind."
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "text": " Det havde vi lavet hurtigt. Vi lavede en uge, og sagde, at hvis vi kan lave en integration til et PIM på en uge,"
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": " så køber vi en pølsevogn. Vi købte pølsevognen, når vi fik lavet integrationen."
+    },
+    {
+      "start": 26.0,
+      "end": 31.0,
+      "text": " Det, vi ikke havde taget højde for, er, at i PIM'et er der nogle begrænsninger, man kan sætte."
+    },
+    {
+      "start": 31.0,
+      "end": 36.0,
+      "text": " Hvis halvstanden sidder og har fri adgang til alt, så kommer halvstanden til at gøre noget."
+    },
+    {
+      "start": 36.0,
+      "end": 42.0,
+      "text": " Det var en, der fik taget alle vores produkter. Hun skulle skifte 100 produkters leverandør,"
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": " så tog hun alle produkter og skiftede leverandøren på 38.000 produkter."
+    },
+    {
+      "start": 46.0,
+      "end": 50.0,
+      "text": " Det pissede bare ud i alle systemer."
+    },
+    {
+      "start": 50.0,
+      "end": 53.0,
+      "text": " Den var ikke god."
+    },
+    {
+      "start": 53.0,
+      "end": 57.0,
+      "text": " Når et workflow går galt, får du lige givet det forkerte input til at starte med."
+    },
+    {
+      "start": 57.0,
+      "end": 61.0,
+      "text": " Og så kører den bare, fordi det hele er automatisk. Den kan rulle hele systemet igennem."
+    },
+    {
+      "start": 61.0,
+      "end": 63.0,
+      "text": " Den kører bare."
+    },
+    {
+      "start": 63.0,
+      "end": 68.0,
+      "text": " Vi har mange af dem der, men fælles for det hele er, at hvis det er nemt at gøre den den vej,"
+    },
+    {
+      "start": 68.0,
+      "end": 70.0,
+      "text": " så er det også nemt at løse."
+    },
+    {
+      "start": 70.0,
+      "end": 75.0,
+      "text": " Selvfølgelig havde vi nogle backups, som vi så kunne køre ind igennem Mac igen."
+    },
+    {
+      "start": 75.0,
+      "end": 79.0,
+      "text": " Så lærte vi dem, at nu har vi et failsafe, så hvis der kommer over 1.000 updates,"
+    },
+    {
+      "start": 80.0,
+      "end": 82.0,
+      "text": " så pauser det lidt."
+    },
+    {
+      "start": 82.0,
+      "end": 85.0,
+      "text": " Hvad fanden har vi mere lavet? Vi har lavet alt muligt lort."
+    },
+    {
+      "start": 85.0,
+      "end": 90.0,
+      "text": " Mails. Specielt kundemails. Vi sender alle vores kundemails gennem Mac."
+    },
+    {
+      "start": 90.0,
+      "end": 93.0,
+      "text": " Triggers og kundemails."
+    },
+    {
+      "start": 93.0,
+      "end": 98.0,
+      "text": " Der var en dag, hvor der er backorders, der skal man ind."
+    },
+    {
+      "start": 98.0,
+      "end": 102.0,
+      "text": " Der havde vi et human in the loop, hvor man skulle vælge til."
+    },
+    {
+      "start": 102.0,
+      "end": 104.0,
+      "text": " Dem her vil jeg sende til."
+    },
+    {
+      "start": 104.0,
+      "end": 107.0,
+      "text": " Men den blev så vendt rundt, så der blev sendt til 8.000."
+    },
+    {
+      "start": 107.0,
+      "end": 110.0,
+      "text": " Der ikke skulle være sendt til, i stedet for de 100, der skulle være sendt til."
+    },
+    {
+      "start": 110.0,
+      "end": 114.0,
+      "text": " Men det er jo også en vigtig del af det at bygge det her automation,"
+    },
+    {
+      "start": 114.0,
+      "end": 117.0,
+      "text": " så får det til at virke i en organisation."
+    },
+    {
+      "start": 117.0,
+      "end": 119.0,
+      "text": " Det er sådan, det er."
+    },
+    {
+      "start": 119.0,
+      "end": 123.0,
+      "text": " Dem, der laver de fejl, fuldt respekt, de gjorde noget."
+    },
+    {
+      "start": 123.0,
+      "end": 125.0,
+      "text": " Det er sådan, det skal være."
+    },
+    {
+      "start": 125.0,
+      "end": 129.0,
+      "text": " Vi er nødt til at have en accept af, at ting går galt, når vi bygger på den her måde."
+    },
+    {
+      "start": 132.0,
+      "end": 136.0,
+      "text": " Det er bare så vigtigt, og det er stadigvæk nok også en af de største concerns i virksomheder."
+    },
+    {
+      "start": 136.0,
+      "end": 138.0,
+      "text": " Det er at sige, hvad så, hvis det her går galt hjemme?"
+    },
+    {
+      "start": 138.0,
+      "end": 141.0,
+      "text": " Hvad så, hvis den her udvikler, du havde for 6 år siden, som sidder i Canada nu,"
+    },
+    {
+      "start": 141.0,
+      "end": 145.0,
+      "text": " som aldrig har kigget på det kode igen, hvad så, hvis han har lavet et fuck-up?"
+    },
+    {
+      "start": 145.0,
+      "end": 147.0,
+      "text": " Det er det der."
+    },
+    {
+      "start": 147.0,
+      "end": 150.0,
+      "text": " The evil you know versus the evil you don't know."
+    },
+    {
+      "start": 150.0,
+      "end": 155.0,
+      "text": " Og det her er the evil you know, fordi der bliver bygget meget, og der er ting, der går galt."
+    },
+    {
+      "start": 155.0,
+      "end": 159.0,
+      "text": " Men fælles for det allesammen, det er at sige, dem, der har bygget, har næsten,"
+    },
+    {
+      "start": 159.0,
+      "end": 163.0,
+      "text": " jeg tror, jeg snakker 90-95 procent tilfældigt, selv kunne løse problemet."
+    },
+    {
+      "start": 163.0,
+      "end": 166.0,
+      "text": " Og så er det, for mig, begynder at blive smukt."
+    },
+    {
+      "start": 166.0,
+      "end": 168.0,
+      "text": " Så begynder vi at have nogle mennesker, som ..."
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "title": "Tracking-special #2: Hvad er en 'Custom Loader'?",
+  "url": "https://www.youtube.com/watch?v=SuS7lnaUsHw",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 281.6,
+  "transcribed_at": "2026-04-17T14:35:19.238662+00:00",
+  "full_text": "Christian? Hvad er det for noget? I den her episode 2 af vores tracking kursus, der skal vi snakke om det, der hedder en custom loader. Og det er en teknisk tilføjelse, man kan lave, når man sætter server-side tagging op, for at øge mængden af data, man sender afsted. For at forklare, hvad det er, så vil jeg starte med at stille et spørgsmål. Nu ved jeg jo fra sidste episode, at du er en del af problemet, der har en adblocker installeret på din computer. Shame on you. Og hvis du nu var en adblocker, og du tænkte, at jeg vil gerne forhindre Google Tag Manager til at affyre, fordi det er typisk gennem Google Tag Manager, at man indlægger sig alle ens marketing-scripts. Hvordan ville du så løse det? Jamen som den adblock-ekspert, jeg er, så ville jeg jo nok først og fremmest have væltet kildekoden. Finde ud af, hvor der står Google Tag Manager henne, og så bare fjerne det. Nice and easy. Betalt set. Jeg håber, at det er det rigtige svar. Det er pretty much sådan, det gør. De adblockers, som gør det her, de går i stor træk ind i kildekoden her og ser, at der står GoogleTagManager.com. Det indlæser sgu nok Google Tag Manager, så det fjerner vi. Og så har vi jo en lang række problemer med, at i nogle tilfælde, så vil websitet slet ikke virke, men al vores tracking, der er sat op af Google Tag Manager, som gør det naturligt at sætte tracking op, det vil jo i sagens natur ikke affyre, hvis man har fuldstændig fjernet containeren fra kildekoden. Så det er sådan et halvt stort problem, og det er faktisk ikke kun adblockers, der gør det. Apple gør det også, hvis du slår noget, der hedder private browsing til i din Safari-browser. Det har du ikke slået til, vel? Jeg har faktisk aldrig brugt andet. Det er fandme utroligt for arbejdet med digital markedsækning. Og det, der er så frustrerende, det er, at hver gang, man så søger på Google på Safari, så skal man ind og acceptere cookies, og det kan man ikke bare gøre, man skal scroll. Og det er hver gang, jeg søger på Google på min telefon. Nu har jeg lige tænkt over det. Jeg har sådan et Google Chrome-plugin, der accepterer alle cookies som auto på et hvert website, du kommer ind på. Det tror jeg, jeg anslærer på din computer næste gang, vi ses. Og så slår jeg din adblocker fra, og så går jeg ind på din iPhone, og så slår jeg det der til, hvor du bare accepterer deling mellem samtlige apps. Altså, jeg slår ikke en adblocker fra, jeg slår en app-tracker til. Altså, giv mig så mange cookies som overhovedet muligt på dine vegne. Det skal simpelthen have til at være en del af løsningen på det her. Ved du hvad? Jeg er med på den. Hvis du får oprettet en TikTok-profil, så er jeg med på den. Så kan jeg også lige overveje, om det betyder så meget for mig. Men indtil da. En custom loader. Det der er tanken med en custom loader, som er noget, du kan slå til, når du implementerer Google Tag Manager, eller server-site via Google Tag Manager, i hvert fald med den udbydder, der hedder Stape, og Cloudflare har noget, der minder lidt om, det er, at du faktisk omdøber dit Google Tag Manager-script. Fordi i Google Tag Manager-scriptet, når det indlæses, så er for eksempel Obsidian.dk, så står der GoogleTagManager.com-Obsidian.dk's ID. Men det vil sige, der står virkelig GoogleTagManager.com i vores Google Tag Manager-script. Og det er jo det, der gør, at TeamViews adblocker har enormt nemt ved at opsnuse det og bare fjerne det. Men hvad nu, hvis jeg omdøber mit Google Tag Manager-script til tracking.obsidian.dk? Eller halsen.obsidian.dk? Eller guesswhatthisis.obsidian.dk? Du vil se lidt til dem. Lige pludselig, så bliver det meget svært maskinelt at aflæse, hvad der rent faktisk er i et Google Tag Manager-script. Og det er det, som en custom loader i virkeligheden gør. En custom loader, det er, at du ændrer dit Google Tag Manager-script, således at det ikke ligner standard-scriptet. Og at du indlæser Google Tag Manager via et subdomain på din egen URL. Og det giver to fordele. Den ene fordel, det er, at adblockers og private browsing og andre lideflaterende aktører, som ikke går ind for det frie og annoncefinansieret internet, men som forsøger at fjerne dit Google Tag Manager-script, de kan ikke gøre det automatisk længere. Så det vil sige, at din Google Tag Manager og tracking virker på trods af adblocker. Den anden ting, det er, at når du indlæser dine cookies via tracking.obsidian.dk i stedet for googletagmanager.com, så indlæser du dem lige pludselig fra dit eget domæn. Så det vil sige, at du kan tage nogle cookies og omdanne dem fra tredjeparts-cookies, som er cookies, der bliver indlæst fra en anden kilde, til førsteparts-cookies, fordi nu bliver de indlæst fra dit eget domæn. Så der er faktisk en teknisk forskel i at indlæse cookies fra googletagmanager.com og ss eller, som står for server-site, .obsidian.dk, som er den, vi bruger, eller tracking.obsidian.dk, eller hvad det nu skal være. Vi har simpelthen mulighed for at placere førsteparts-cookies i flere tilfælde, som gør, at de kan leve længere, og at vi dermed kan måle mere. Undertekster af Amara.org fællesskab",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": " Christian?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": " Hvad er det for noget?"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": " I den her episode 2 af vores tracking kursus, der skal vi snakke om det, der hedder en custom loader."
+    },
+    {
+      "start": 10.0,
+      "end": 17.0,
+      "text": " Og det er en teknisk tilføjelse, man kan lave, når man sætter server-side tagging op, for at øge mængden af data, man sender afsted."
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": " For at forklare, hvad det er, så vil jeg starte med at stille et spørgsmål."
+    },
+    {
+      "start": 20.0,
+      "end": 28.0,
+      "text": " Nu ved jeg jo fra sidste episode, at du er en del af problemet, der har en adblocker installeret på din computer. Shame on you."
+    },
+    {
+      "start": 28.0,
+      "end": 38.0,
+      "text": " Og hvis du nu var en adblocker, og du tænkte, at jeg vil gerne forhindre Google Tag Manager til at affyre, fordi det er typisk gennem Google Tag Manager, at man indlægger sig alle ens marketing-scripts."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": " Hvordan ville du så løse det?"
+    },
+    {
+      "start": 40.0,
+      "end": 47.0,
+      "text": " Jamen som den adblock-ekspert, jeg er, så ville jeg jo nok først og fremmest have væltet kildekoden."
+    },
+    {
+      "start": 47.0,
+      "end": 51.0,
+      "text": " Finde ud af, hvor der står Google Tag Manager henne, og så bare fjerne det."
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": " Nice and easy."
+    },
+    {
+      "start": 53.0,
+      "end": 56.0,
+      "text": " Betalt set. Jeg håber, at det er det rigtige svar."
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": " Det er pretty much sådan, det gør."
+    },
+    {
+      "start": 58.0,
+      "end": 65.0,
+      "text": " De adblockers, som gør det her, de går i stor træk ind i kildekoden her og ser, at der står GoogleTagManager.com."
+    },
+    {
+      "start": 65.0,
+      "end": 68.0,
+      "text": " Det indlæser sgu nok Google Tag Manager, så det fjerner vi."
+    },
+    {
+      "start": 68.0,
+      "end": 77.0,
+      "text": " Og så har vi jo en lang række problemer med, at i nogle tilfælde, så vil websitet slet ikke virke, men al vores tracking, der er sat op af Google Tag Manager, som gør det naturligt at sætte tracking op,"
+    },
+    {
+      "start": 77.0,
+      "end": 81.0,
+      "text": " det vil jo i sagens natur ikke affyre, hvis man har fuldstændig fjernet containeren fra kildekoden."
+    },
+    {
+      "start": 82.0,
+      "end": 85.0,
+      "text": " Så det er sådan et halvt stort problem, og det er faktisk ikke kun adblockers, der gør det."
+    },
+    {
+      "start": 85.0,
+      "end": 89.0,
+      "text": " Apple gør det også, hvis du slår noget, der hedder private browsing til i din Safari-browser."
+    },
+    {
+      "start": 89.0,
+      "end": 91.0,
+      "text": " Det har du ikke slået til, vel?"
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": " Jeg har faktisk aldrig brugt andet."
+    },
+    {
+      "start": 98.0,
+      "end": 101.0,
+      "text": " Det er fandme utroligt for arbejdet med digital markedsækning."
+    },
+    {
+      "start": 101.0,
+      "end": 106.0,
+      "text": " Og det, der er så frustrerende, det er, at hver gang, man så søger på Google på Safari, så skal man ind og acceptere cookies, og det kan man ikke bare gøre, man skal scroll."
+    },
+    {
+      "start": 106.0,
+      "end": 109.0,
+      "text": " Og det er hver gang, jeg søger på Google på min telefon."
+    },
+    {
+      "start": 109.0,
+      "end": 111.0,
+      "text": " Nu har jeg lige tænkt over det."
+    },
+    {
+      "start": 111.0,
+      "end": 116.0,
+      "text": " Jeg har sådan et Google Chrome-plugin, der accepterer alle cookies som auto på et hvert website, du kommer ind på."
+    },
+    {
+      "start": 116.0,
+      "end": 118.0,
+      "text": " Det tror jeg, jeg anslærer på din computer næste gang, vi ses."
+    },
+    {
+      "start": 118.0,
+      "end": 124.0,
+      "text": " Og så slår jeg din adblocker fra, og så går jeg ind på din iPhone, og så slår jeg det der til, hvor du bare accepterer deling mellem samtlige apps."
+    },
+    {
+      "start": 124.0,
+      "end": 129.0,
+      "text": " Altså, jeg slår ikke en adblocker fra, jeg slår en app-tracker til."
+    },
+    {
+      "start": 129.0,
+      "end": 132.0,
+      "text": " Altså, giv mig så mange cookies som overhovedet muligt på dine vegne."
+    },
+    {
+      "start": 132.0,
+      "end": 134.0,
+      "text": " Det skal simpelthen have til at være en del af løsningen på det her."
+    },
+    {
+      "start": 134.0,
+      "end": 136.0,
+      "text": " Ved du hvad? Jeg er med på den."
+    },
+    {
+      "start": 136.0,
+      "end": 139.0,
+      "text": " Hvis du får oprettet en TikTok-profil, så er jeg med på den."
+    },
+    {
+      "start": 147.0,
+      "end": 149.0,
+      "text": " Så kan jeg også lige overveje, om det betyder så meget for mig."
+    },
+    {
+      "start": 149.0,
+      "end": 151.0,
+      "text": " Men indtil da."
+    },
+    {
+      "start": 151.0,
+      "end": 153.0,
+      "text": " En custom loader."
+    },
+    {
+      "start": 153.0,
+      "end": 159.0,
+      "text": " Det der er tanken med en custom loader, som er noget, du kan slå til, når du implementerer Google Tag Manager,"
+    },
+    {
+      "start": 159.0,
+      "end": 161.0,
+      "text": " eller server-site via Google Tag Manager,"
+    },
+    {
+      "start": 161.0,
+      "end": 165.0,
+      "text": " i hvert fald med den udbydder, der hedder Stape, og Cloudflare har noget, der minder lidt om,"
+    },
+    {
+      "start": 165.0,
+      "end": 168.0,
+      "text": " det er, at du faktisk omdøber dit Google Tag Manager-script."
+    },
+    {
+      "start": 168.0,
+      "end": 172.0,
+      "text": " Fordi i Google Tag Manager-scriptet, når det indlæses, så er for eksempel Obsidian.dk,"
+    },
+    {
+      "start": 172.0,
+      "end": 177.0,
+      "text": " så står der GoogleTagManager.com-Obsidian.dk's ID."
+    },
+    {
+      "start": 177.0,
+      "end": 181.0,
+      "text": " Men det vil sige, der står virkelig GoogleTagManager.com i vores Google Tag Manager-script."
+    },
+    {
+      "start": 181.0,
+      "end": 187.0,
+      "text": " Og det er jo det, der gør, at TeamViews adblocker har enormt nemt ved at opsnuse det og bare fjerne det."
+    },
+    {
+      "start": 187.0,
+      "end": 194.0,
+      "text": " Men hvad nu, hvis jeg omdøber mit Google Tag Manager-script til tracking.obsidian.dk?"
+    },
+    {
+      "start": 194.0,
+      "end": 197.0,
+      "text": " Eller halsen.obsidian.dk?"
+    },
+    {
+      "start": 197.0,
+      "end": 201.0,
+      "text": " Eller guesswhatthisis.obsidian.dk? Du vil se lidt til dem."
+    },
+    {
+      "start": 201.0,
+      "end": 206.0,
+      "text": " Lige pludselig, så bliver det meget svært maskinelt at aflæse, hvad der rent faktisk er i et Google Tag Manager-script."
+    },
+    {
+      "start": 206.0,
+      "end": 209.0,
+      "text": " Og det er det, som en custom loader i virkeligheden gør."
+    },
+    {
+      "start": 209.0,
+      "end": 213.0,
+      "text": " En custom loader, det er, at du ændrer dit Google Tag Manager-script,"
+    },
+    {
+      "start": 213.0,
+      "end": 215.0,
+      "text": " således at det ikke ligner standard-scriptet."
+    },
+    {
+      "start": 215.0,
+      "end": 219.0,
+      "text": " Og at du indlæser Google Tag Manager via et subdomain på din egen URL."
+    },
+    {
+      "start": 219.0,
+      "end": 221.0,
+      "text": " Og det giver to fordele."
+    },
+    {
+      "start": 221.0,
+      "end": 228.0,
+      "text": " Den ene fordel, det er, at adblockers og private browsing og andre lideflaterende aktører,"
+    },
+    {
+      "start": 228.0,
+      "end": 230.0,
+      "text": " som ikke går ind for det frie og annoncefinansieret internet,"
+    },
+    {
+      "start": 230.0,
+      "end": 234.0,
+      "text": " men som forsøger at fjerne dit Google Tag Manager-script, de kan ikke gøre det automatisk længere."
+    },
+    {
+      "start": 234.0,
+      "end": 238.0,
+      "text": " Så det vil sige, at din Google Tag Manager og tracking virker på trods af adblocker."
+    },
+    {
+      "start": 238.0,
+      "end": 243.0,
+      "text": " Den anden ting, det er, at når du indlæser dine cookies via tracking.obsidian.dk"
+    },
+    {
+      "start": 243.0,
+      "end": 248.0,
+      "text": " i stedet for googletagmanager.com, så indlæser du dem lige pludselig fra dit eget domæn."
+    },
+    {
+      "start": 248.0,
+      "end": 252.0,
+      "text": " Så det vil sige, at du kan tage nogle cookies og omdanne dem fra tredjeparts-cookies,"
+    },
+    {
+      "start": 252.0,
+      "end": 255.0,
+      "text": " som er cookies, der bliver indlæst fra en anden kilde, til førsteparts-cookies,"
+    },
+    {
+      "start": 255.0,
+      "end": 257.0,
+      "text": " fordi nu bliver de indlæst fra dit eget domæn."
+    },
+    {
+      "start": 257.0,
+      "end": 261.0,
+      "text": " Så der er faktisk en teknisk forskel i at indlæse cookies fra googletagmanager.com"
+    },
+    {
+      "start": 261.0,
+      "end": 265.0,
+      "text": " og ss eller, som står for server-site, .obsidian.dk, som er den, vi bruger,"
+    },
+    {
+      "start": 265.0,
+      "end": 268.0,
+      "text": " eller tracking.obsidian.dk, eller hvad det nu skal være."
+    },
+    {
+      "start": 268.0,
+      "end": 271.0,
+      "text": " Vi har simpelthen mulighed for at placere førsteparts-cookies i flere tilfælde,"
+    },
+    {
+      "start": 271.0,
+      "end": 276.0,
+      "text": " som gør, at de kan leve længere, og at vi dermed kan måle mere."
+    },
+    {
+      "start": 278.0,
+      "end": 281.0,
+      "text": " Undertekster af Amara.org fællesskab"
+    }
+  ]
+}

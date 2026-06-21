@@ -1,0 +1,1436 @@
+{
+  "title": "AI Case: Make-workflow der bygger Schema-markup og gør dig synlig i ChatGPT",
+  "url": "https://www.youtube.com/watch?v=0NAQu2r-ORI",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 744.4,
+  "transcribed_at": "2026-04-16T10:00:08.865798+00:00",
+  "full_text": "Hej og velkommen til dagens episode. Vi kommer til at lave en opfølging på en episode, vi lavede for nylig, som hedder Hvordan Reset Store sparrede 67 timer om måneden. Hej og velkommen til dagens episode. Vi kommer her til at lave en opfølging på en episode, vi lavede for nylig, som handlede om hvordan Reset Store webshoppen sparrede 67 timer om måneden på at lave produkttekster via et simpelt workflow i Make i form af et Programmatic SEO-projekt. Den episode blev taget rigtig godt imod. Vi har fået mange søde kommentarer på Spotify, den blev vist enormt meget på YouTube og der var mange, der spurgte om vi ikke kunne lave mere af det her. Så det kommer vi til at gøre her. Den her episode bliver en meget praktisk gennemgang af et andet workflow, der kører som også er SEO-relateret og som er relevant for alle virksomheder især hvis de gerne vil have mere synlighed i large language models som for eksempel Gemini eller ChatGPT. Så i dag, Tino, der skal vi snakke om Structured Data eller Schema Markups. Og hvad er det egentlig? Det er jo en måde at strukturere sin data på. Altså, man skal forestille sig, at det er ekstra kode, som man lægger ind på sit website således at blandt andet for eksempel Google bedre forstår indholdet. Og det kunne for eksempel være om et produkt eller en artikel eller en FAQ osv. Så det er en måde, hvorpå hvis man forestiller sig, at man i et blogindlæg har lavet en ofte stillede spørgsmål, og så besvarer man nogle spørgsmål osv. En ting er, at vi som brugere kan forstå det. Men hvis Google virkelig skal forstå, at her er nogle ofte stillede spørgsmål så kan vi igennem koden af de her Schema Markups gå ind og skrive Kan Google eller LLM? Her er spørgsmålet, her er svaret, og det her er en FAQ. Lige præcis, og der findes rigtig mange forskellige eksempler af de her Schema Markups og det, de har til fælles, det er, at de både hjælper søgemaskiner det har hele tiden været en CEO-ting det her men især large language models med at forstå, hvad en side handler om. Og når man laver undersøgelser af, hvad er det, der har en positiv indvirkning på om du bliver nævnt i ChatGPT eller listet i Gemini så ligger Schema Markups eller struktureret data meget højt på listen. Vi kan simpelthen se, at de virksomheder, som har implementeret meget Schema Markup de bliver oftere nævnt af ChatGPT, så det her er super værdifuldt at gøre. Jeg kan bare lige vise et eksempel. Nu har vi her en bolig. Det er fra lokalbolig.dk. Jakob Knudsensvej 11 i Herning. Du skal snart have barn om et halvt år. Skal du have en skøn familievilje i Flotland i Herning? Jeg ved ikke lige i Herning, men på et eller andet sted skal jeg jo nok på et tidspunkt. På et eller andet tidspunkt skal du. Hvis man kigger inde på det, der hedder Rich Schema Markup Test eller Structured Data Test. Det er sådan et Google-værktøj, så hvis du søger på Schema Markup Checkup eller et eller andet, så finder du den. Der har jeg lavet en test af lige præcis det her opslag. Der kan man se, at der er blevet registreret to Schema Markups her i form af sælgerfortegnelse og produktuddrag. Der kan man se, at der er et produktuddrag her, hvor det registrerede element er adressen. Der kan vi se, at vi har en type. Det er tagget op som et produkt. Der er et navn. Der er en URL. Der er en pris. DKK. Availability. Alle de her ting er faktisk tagget helt korrekt op, og den er lagt ind i kategorien Real Estate. Det er ikke mig, der har lavet den her Schema Markup, men jeg brugte det bare som eksempel på, at det lokalbolig gør i lige præcis det her eksempel, det er, at de gør det nemt både for Google og for ChatGPT at læse. Hvis der er nogen, der går ind på ChatGPT og siger, kan du ikke lige undersøge så vil ChatGPT nu have meget, meget nemt ved at læse lige præcis den her side og bruge den information til at svare og så længe videre til lokalbolig. Så det er det her, vi gerne vil. Udfordret med Schema Markup er, at selvom noget er automatisk, så hvis du for eksempel bruger Shopify, så er der rigtig meget automatisk Schema Markup på dine produkter, så er der jo også noget, der er manuelt. Et godt eksempel kunne være blogindlæg eller service sider eller artikler. De her custom sider, der handler om en ydelse eller et blog eller et emne, der vil det jo typisk være manuelt, at man indsætter Schema Markup. Hvordan ville du gøre det i dag, hvis du skulle gøre det bare helt manuelt? Eller hvordan har man gjort det de sidste 20 år? Årh, det er en langsomlig proces. Jamen du har typisk et eller andet template, du arbejder ud fra, så forsøger du at berige det ud fra det. Men der er jo rigtig, rigtig mange måder at lave de her markups på. Det vil sige, at du starter med en lang, lang liste, og så skal du egentlig have udfyldt dem. Altså det har bare taget lang tid. Og det er det, man kan automatisere nu. Så nu prøver jeg lige at dele skærmen til dem, der ser med på Spotify, med video eller YouTube, for at vise jer et workflow, vi lige nu kører for mange af vores kunder. Det her er et workflow, der er baseret på Spotify, som, undskyld ikke Spotify, det er Shopify. Det er baseret på Shopify, men det trækker artikler ud, så det er faktisk ikke baseret på webshop produkter, som sådan, du kunne lige så godt bruge det her på WordPress, eller Webflow, eller et eller andet. Det er baseret på artikler og service sider. Og lad os prøve at gå igennem det, i forhold til hvad der er, der sker her. Så der hvor workflowet starter, det er et Google Sheet, så vi bruger igen et spreadsheet som database, det er bare for at have et simpelt databaseværktøj. Det første, der sker, det er, at vi går ind i Shopify, og så trækker vi artikler ud. Det har vi gjort via noget scripting, vi har simpelthen lavet et script, der går ind og trækker alle artiklerne ud. Jeg kan ikke lige vise det, uden at vise hvilken kunde, der har talt om stille og værre med at gøre, men du kan få ChatGPT eller Claude til at lave dig et tilsvarende script. Så vi går simpelthen ud og hiver alle artikler, alle blogartikler, og lægger dem ind i vores spreadsheet. Når vi har lagt dem ind, og lige fået formateret dataen korrekt, så har vi et trin med Perplexity, hvor vi søger efter information om det pågældende blogindlæg. Det vil sige, at vi tager simpelthen emnet fra blogindlægget, lad os sige, at det er et blogindlæg, der handler om søgemaskineoptimering, og så beder vi Perplexity om at researche mere indhold om søgemaskineoptimering. Og tænk jo bare lige hurtigt, hvad er det nu Perplexity er, og hvorfor er det, at vi tit bruger den i vores workflows? Perplexity er den LLM, der er ude, som er bedst til at lave researcharbejde. Man kunne også godt bruge OpenAI's ChatGPT, men vi oplever bare, at Perplexity er langt bedre til at researche, og det er derfor, vi bruger det i sådan et flow i det her step her. Perplexity er fremragende, og det næste, der sker, det er, at vi går ind i OpenAI, og så skriver vi, så begynder vi faktisk at generere noget content her. Vi begynder at lave et udkast til, hvordan kan den her schema se ud, hvad kunne den her schema handle om, altså nu har vi researchet noget indhold i Perplexity, så nu går vi ind i OpenAI, og så laver vi et udkast til, hvilke schemaer kunne vi rent faktisk bruge. I den næste trin bruger vi Perplexity igen, så nu bærer vi Perplexity sådan et generisk prompt, om at give noget mere information om, hvordan vi kan strukturere vores schema markup, og hvad vi kan bruge. Der kommer et nyt Perplexity prompt med at identificere relevant schema markup, og nu kommer vi ned til den faktiske schema builder. Så her bruger vi igen ChatGPT's modul, og der skal man huske, at på det her tidspunkt, der har vi både trukket information ud om emnet, vi har researchet emnet, vi har lavet et udkast til noget schema, vi har researchet på den schema, vi har identificeret potentielt andre relevante schemas, nu går vi først i gang med at bygge den endelige schema markup, vi gerne vil lægge ind på siden. Og igen lidt spørgsmål, Tino. Vi kunne måske godt have gjort det her i et eller to nodes eller moduler. Hvorfor er det, vi bruger fem eller seks moduler i vores Makeflow? Er det bare for at få det til at se unødvendigt komplekst ud og sejt ud, når man så laver en video med det, eller hvorfor er det, der ligger fem eller seks, i stedet for bare at ligge en eller to, hvor du har samlet alle dine prompts i et? Det er bare for at se sej ud, vi er konsulenter jo, det skal ikke være sådan lidt, nej, det passer selvfølgelig ikke. Chancen for, at et af lemmerne, den et eller andet, vi nu vil have brugt, hvis vi havde samlet det hele i én, ville have lucineret og simpelthen glemme oplysninger i løbet af dens arbejde, den er gigastor, man har selv oplevet det. Hvis man havde givet en eller anden lang, lang prompt til Jack KBT, om at den bare glemmer halvdelen af det, og det er det, vi rigtig gerne vil undgå, og det er derfor, vi deler det op i så store steps. Og jeg tror også, det her, hvor rigtig mange begår fejlen, fordi, når man snakker med nogen, der siger, det der AI der, det virker bare overhovedet ikke, jeg kan slet ikke få den til, prøv at se, hvor dårligt den er. Det er fordi, at man bygger måske et maks to steps i sin prompting, hvorefter den er gået galt. Prøv bare at se her. Altså det her, det er jo sådan en relativt, jeg vil ikke sige lille task, det er det jo per artikel, men ikke når du tager mange forskellige artikler. Men prøv at se, hvordan det er delt ud i forskellige steps. Altså man skal virkelig have den her tankegang her, for at få det maksimalt ud af AI i dag. Og jeg tror, det er her, hvor der er mange, der går galt i byen. Det tror jeg nemlig også. Og det er jo ligesom en menneskelig medarbejder, hvis du giver dem alt for meget information, så begynder de bare at glemme noget af det. Vi kommer videre til den næste trin, og man kan se her, der er et bagvedlæggende prompt i forhold til, hvordan vi rent faktisk begynder at bygge den. Så her der har vi simpelthen ChatGPT, hvor vi siger, baseret på den information, vi har lavet tidligere, og den information, vi har fået fra Perplexity og det her, vi har samlet på ChatGPT, så vil vi gerne have de udfyldte JSON-schema-markups. Og udfyldte, det betyder jo bare, at vi siger, det skal faktisk være færdig data, vi får her. Så lav kun schema-markups for elementer, som kan udfyldes med alt det nødvendige data osv. Vi skal fjerne alt vores JSON, vi skal kun have JSON-LD-schema-markups, og så er der sådan et helt prompt, der ligger bag det her. I det næste schema-build her, der laver vi lige noget formatering, fordi vi nogle gange har oplevet, at den spasser rundt med vores com-air, så vi har lige lavet et ekstra ChatGPT-modul til at fikse vores com-air. Og igen et eksempel på, det kunne du faktisk godt have lagt til det samme prompt, og der er bare en risiko for, at ChatGPT så ignorerer det. Når vi så har den helt færdige JSON-kode, så får vi et objekt, et resultat, som så bliver formateret til det, og så bliver det lagt op i Shopify direkte. Så det her workflow starter med, at vi hiver information ud af Shopify, og det slutter med, at vi lægger information ind i Shopify. Og så til sidst så opdaterer vi Google Sheetet, og det er fordi, hvis man har et Google Sheet med alle artikler, hvor vi så har et flueben, er den lavet. Vi kørte det her schema-markup-flow igennem den her kunde på Shopify. De har mange hundrede artikler. Hvis vi skulle have lavet schema-markup manuelt for mange hundrede timer, det havde de jo betalt os, jeg ved ikke hvor mange timer for, og ved du hvad, det er jo derfor, de kan betale os for det. Den her opgave, den er ikke penge værd, hvis du skal betale 1000 kroner i timen og 50 timer for det. Den er simpelthen ikke penge værd. Men hvis vi kan bruge 5 timer på at sætte det her workflow op, og sætte det til automatisk at køre for alle artikler, alle artikler, der nogensinde har ligget inde på siden, og hver eneste gang, der kommer en ny artikel, så trigger det her workflow helt automatisk, og går ind og lægger schema-markup ind på det fra nu af. Det er en psykopatgode forretning. Og det er lige præcis det, der er sket. Så den ene ting, det er, at vi har kørt samtlige artikler igennem. Og det tog måske en halv time til en time at køre alle mange hundrede artikler igennem. Den brugte måske et halvt minut per stykke, eller et eller andet den stil. Træk informationen ud, research, omdann, skriv, læg op i Shopify igen. Det tog måske en halv time at fikse alle artikler. Men det er jo sat op således, at hver eneste gang, der bliver lagt en ny artikel op på sitet, så sker det her automatisk. Den ligger bare og kører. Det er helt fantastisk. Jeg er så vild med det her flow. Hvem kan bruge sådan et flow her? Det kan, det kan. Al virksomhed har et website. Ej, det er klart, det større website, des federe bliver det at kunne automatisere det. Altså har man tre undersider, så er det godt, at man selv lige skal gå ind og fikse det her. Men har du mange artikler, eller publicerer du løbende, eller mange produkter, eller mange undersider, så er det her en no-brainer. Jeg havde bare tænkt, next step, det er jo sådan noget som alt tekster. Udfyld alt tekster på billedet. De her mindre SEO-opgaver, eller mindre, og nu skal jeg passe på, hvad jeg siger, men der er altid, når man arbejder med SEO, så er der nogle højprioritetsopgaver, og nogle der er lidt lavere prioriteter. De er stadigvæk vigtige, og de er stadigvæk mega fede at have udført, men man kommer sjældent til dem, fordi der altid er noget højere prioritet. Ja, der kan man rent faktisk få de her lidt lavere prioritetsopgaver udført ved hjælp af AI. Altså jeg har bare tænkt, sådan noget som alt tekstudfyldelse. Nu hvor der er eleverne, og AI kan begynde at forstå, hvad er det der er på billedet, og berige dem. Ej, det er helt overkørende, det er så fedt. Ja, det kan virkelig noget. Og det sjove er, at man skal bare begynde at tænke kreativt i forhold til, hvad er det for nogle SEO-opgaver, man vil sidde med. Er det produkttekster, er det kategoritekster, er det alt tekster, er det schema markup, metatitler, metadescription, alle de her ting, du kan gøre det med, hver eneste af dem, fordi alt det kan trækkes ud af API'et, via for eksempel make.com eller N8M, hvis man foretrækker at bruge noget, der har en lidt højere kompleksitet, men også lidt højere grad af customizability, og så kan du bare begynde fra en ende af. Men jeg synes bare det her, det er et fedt eksempel igen på, hvordan man skal arbejde med SEO i fremtiden. Det der, hvad du manuelt trækker en liste ud, og så begynder at lave en click-through-rate-analyse, eller tilføje schema eller et eller andet, det må du simpelthen ikke gøre længere. Det er sådan her, man arbejder med SEO i fremtiden. Man laver workflowet en gang, kører igennem alle de ting, man har liggende på siden, og sørger for, at den ligger og udfylder, eller affyrer automatisk, i tid og evighed i fremtiden. Det er måden, hvorpå du får organisk synlighed i fremtiden. Tusind tak, fordi du lyttede med til dagens episode. Vi vil rigtig gerne lave flere af dem her, så skriv, hvis det var spændende, så peger du også i en retning i at lave flere videoer med meget specifikke workflows. Tusind tak.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 6.0,
+      "text": " Hej og velkommen til dagens episode."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": " Vi kommer til at lave en opfølging på en episode, vi lavede for nylig, som hedder"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": " Hvordan Reset Store sparrede 67 timer om måneden."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Hej og velkommen til dagens episode."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": " Vi kommer her til at lave en opfølging på en episode, vi lavede for nylig, som handlede om"
+    },
+    {
+      "start": 17.0,
+      "end": 23.0,
+      "text": " hvordan Reset Store webshoppen sparrede 67 timer om måneden på at lave produkttekster"
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": " via et simpelt workflow i Make i form af et Programmatic SEO-projekt."
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": " Den episode blev taget rigtig godt imod."
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": " Vi har fået mange søde kommentarer på Spotify, den blev vist enormt meget på YouTube"
+    },
+    {
+      "start": 33.0,
+      "end": 35.0,
+      "text": " og der var mange, der spurgte om vi ikke kunne lave mere af det her."
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": " Så det kommer vi til at gøre her."
+    },
+    {
+      "start": 37.0,
+      "end": 42.0,
+      "text": " Den her episode bliver en meget praktisk gennemgang af et andet workflow, der kører"
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": " som også er SEO-relateret og som er relevant for alle virksomheder"
+    },
+    {
+      "start": 46.0,
+      "end": 50.0,
+      "text": " især hvis de gerne vil have mere synlighed i large language models"
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": " som for eksempel Gemini eller ChatGPT."
+    },
+    {
+      "start": 52.0,
+      "end": 56.0,
+      "text": " Så i dag, Tino, der skal vi snakke om Structured Data eller Schema Markups."
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": " Og hvad er det egentlig?"
+    },
+    {
+      "start": 58.0,
+      "end": 61.0,
+      "text": " Det er jo en måde at strukturere sin data på."
+    },
+    {
+      "start": 61.0,
+      "end": 66.0,
+      "text": " Altså, man skal forestille sig, at det er ekstra kode, som man lægger ind på sit website"
+    },
+    {
+      "start": 66.0,
+      "end": 69.0,
+      "text": " således at blandt andet for eksempel Google bedre forstår indholdet."
+    },
+    {
+      "start": 69.0,
+      "end": 73.0,
+      "text": " Og det kunne for eksempel være om et produkt eller en artikel eller en FAQ osv."
+    },
+    {
+      "start": 73.0,
+      "end": 78.0,
+      "text": " Så det er en måde, hvorpå hvis man forestiller sig, at man i et blogindlæg har lavet"
+    },
+    {
+      "start": 78.0,
+      "end": 81.0,
+      "text": " en ofte stillede spørgsmål, og så besvarer man nogle spørgsmål osv."
+    },
+    {
+      "start": 81.0,
+      "end": 83.0,
+      "text": " En ting er, at vi som brugere kan forstå det."
+    },
+    {
+      "start": 83.0,
+      "end": 86.0,
+      "text": " Men hvis Google virkelig skal forstå, at her er nogle ofte stillede spørgsmål"
+    },
+    {
+      "start": 86.0,
+      "end": 90.0,
+      "text": " så kan vi igennem koden af de her Schema Markups gå ind og skrive"
+    },
+    {
+      "start": 90.0,
+      "end": 96.0,
+      "text": " Kan Google eller LLM? Her er spørgsmålet, her er svaret, og det her er en FAQ."
+    },
+    {
+      "start": 96.0,
+      "end": 99.0,
+      "text": " Lige præcis, og der findes rigtig mange forskellige eksempler af de her Schema Markups"
+    },
+    {
+      "start": 99.0,
+      "end": 102.0,
+      "text": " og det, de har til fælles, det er, at de både hjælper søgemaskiner"
+    },
+    {
+      "start": 102.0,
+      "end": 104.0,
+      "text": " det har hele tiden været en CEO-ting det her"
+    },
+    {
+      "start": 104.0,
+      "end": 108.0,
+      "text": " men især large language models med at forstå, hvad en side handler om."
+    },
+    {
+      "start": 108.0,
+      "end": 112.0,
+      "text": " Og når man laver undersøgelser af, hvad er det, der har en positiv indvirkning på"
+    },
+    {
+      "start": 112.0,
+      "end": 115.0,
+      "text": " om du bliver nævnt i ChatGPT eller listet i Gemini"
+    },
+    {
+      "start": 115.0,
+      "end": 119.0,
+      "text": " så ligger Schema Markups eller struktureret data meget højt på listen."
+    },
+    {
+      "start": 119.0,
+      "end": 122.0,
+      "text": " Vi kan simpelthen se, at de virksomheder, som har implementeret meget Schema Markup"
+    },
+    {
+      "start": 122.0,
+      "end": 126.0,
+      "text": " de bliver oftere nævnt af ChatGPT, så det her er super værdifuldt at gøre."
+    },
+    {
+      "start": 126.0,
+      "end": 129.0,
+      "text": " Jeg kan bare lige vise et eksempel. Nu har vi her en bolig."
+    },
+    {
+      "start": 129.0,
+      "end": 133.0,
+      "text": " Det er fra lokalbolig.dk. Jakob Knudsensvej 11 i Herning."
+    },
+    {
+      "start": 133.0,
+      "end": 137.0,
+      "text": " Du skal snart have barn om et halvt år. Skal du have en skøn familievilje i Flotland i Herning?"
+    },
+    {
+      "start": 137.0,
+      "end": 141.0,
+      "text": " Jeg ved ikke lige i Herning, men på et eller andet sted skal jeg jo nok på et tidspunkt."
+    },
+    {
+      "start": 141.0,
+      "end": 143.0,
+      "text": " På et eller andet tidspunkt skal du."
+    },
+    {
+      "start": 143.0,
+      "end": 147.0,
+      "text": " Hvis man kigger inde på det, der hedder Rich Schema Markup Test"
+    },
+    {
+      "start": 147.0,
+      "end": 150.0,
+      "text": " eller Structured Data Test. Det er sådan et Google-værktøj, så hvis du søger på"
+    },
+    {
+      "start": 150.0,
+      "end": 153.0,
+      "text": " Schema Markup Checkup eller et eller andet, så finder du den."
+    },
+    {
+      "start": 153.0,
+      "end": 156.0,
+      "text": " Der har jeg lavet en test af lige præcis det her opslag."
+    },
+    {
+      "start": 156.0,
+      "end": 159.0,
+      "text": " Der kan man se, at der er blevet registreret to Schema Markups her"
+    },
+    {
+      "start": 159.0,
+      "end": 162.0,
+      "text": " i form af sælgerfortegnelse og produktuddrag."
+    },
+    {
+      "start": 162.0,
+      "end": 166.0,
+      "text": " Der kan man se, at der er et produktuddrag her, hvor det registrerede element er adressen."
+    },
+    {
+      "start": 166.0,
+      "end": 169.0,
+      "text": " Der kan vi se, at vi har en type. Det er tagget op som et produkt."
+    },
+    {
+      "start": 169.0,
+      "end": 173.0,
+      "text": " Der er et navn. Der er en URL. Der er en pris. DKK. Availability."
+    },
+    {
+      "start": 173.0,
+      "end": 178.0,
+      "text": " Alle de her ting er faktisk tagget helt korrekt op, og den er lagt ind i kategorien Real Estate."
+    },
+    {
+      "start": 178.0,
+      "end": 181.0,
+      "text": " Det er ikke mig, der har lavet den her Schema Markup, men jeg brugte det bare som"
+    },
+    {
+      "start": 181.0,
+      "end": 184.0,
+      "text": " eksempel på, at det lokalbolig gør i lige præcis det her eksempel,"
+    },
+    {
+      "start": 184.0,
+      "end": 187.0,
+      "text": " det er, at de gør det nemt både for Google og for ChatGPT at læse."
+    },
+    {
+      "start": 187.0,
+      "end": 190.0,
+      "text": " Hvis der er nogen, der går ind på ChatGPT og siger, kan du ikke lige undersøge"
+    },
+    {
+      "start": 191.0,
+      "end": 195.0,
+      "text": " så vil ChatGPT nu have meget, meget nemt ved at læse lige præcis den her side"
+    },
+    {
+      "start": 195.0,
+      "end": 198.0,
+      "text": " og bruge den information til at svare og så længe videre til lokalbolig."
+    },
+    {
+      "start": 198.0,
+      "end": 200.0,
+      "text": " Så det er det her, vi gerne vil."
+    },
+    {
+      "start": 200.0,
+      "end": 203.0,
+      "text": " Udfordret med Schema Markup er, at selvom noget er automatisk,"
+    },
+    {
+      "start": 203.0,
+      "end": 207.0,
+      "text": " så hvis du for eksempel bruger Shopify, så er der rigtig meget automatisk Schema Markup"
+    },
+    {
+      "start": 207.0,
+      "end": 209.0,
+      "text": " på dine produkter, så er der jo også noget, der er manuelt."
+    },
+    {
+      "start": 209.0,
+      "end": 213.0,
+      "text": " Et godt eksempel kunne være blogindlæg eller service sider eller artikler."
+    },
+    {
+      "start": 213.0,
+      "end": 216.0,
+      "text": " De her custom sider, der handler om en ydelse eller et blog eller et emne,"
+    },
+    {
+      "start": 216.0,
+      "end": 219.0,
+      "text": " der vil det jo typisk være manuelt, at man indsætter Schema Markup."
+    },
+    {
+      "start": 219.0,
+      "end": 221.0,
+      "text": " Hvordan ville du gøre det i dag, hvis du skulle gøre det bare helt manuelt?"
+    },
+    {
+      "start": 221.0,
+      "end": 223.0,
+      "text": " Eller hvordan har man gjort det de sidste 20 år?"
+    },
+    {
+      "start": 223.0,
+      "end": 227.0,
+      "text": " Årh, det er en langsomlig proces."
+    },
+    {
+      "start": 227.0,
+      "end": 229.0,
+      "text": " Jamen du har typisk et eller andet template, du arbejder ud fra,"
+    },
+    {
+      "start": 229.0,
+      "end": 231.0,
+      "text": " så forsøger du at berige det ud fra det."
+    },
+    {
+      "start": 231.0,
+      "end": 236.0,
+      "text": " Men der er jo rigtig, rigtig mange måder at lave de her markups på."
+    },
+    {
+      "start": 236.0,
+      "end": 238.0,
+      "text": " Det vil sige, at du starter med en lang, lang liste,"
+    },
+    {
+      "start": 238.0,
+      "end": 240.0,
+      "text": " og så skal du egentlig have udfyldt dem."
+    },
+    {
+      "start": 240.0,
+      "end": 242.0,
+      "text": " Altså det har bare taget lang tid."
+    },
+    {
+      "start": 242.0,
+      "end": 244.0,
+      "text": " Og det er det, man kan automatisere nu."
+    },
+    {
+      "start": 244.0,
+      "end": 247.0,
+      "text": " Så nu prøver jeg lige at dele skærmen til dem, der ser med på Spotify,"
+    },
+    {
+      "start": 247.0,
+      "end": 250.0,
+      "text": " med video eller YouTube, for at vise jer et workflow,"
+    },
+    {
+      "start": 250.0,
+      "end": 252.0,
+      "text": " vi lige nu kører for mange af vores kunder."
+    },
+    {
+      "start": 252.0,
+      "end": 254.0,
+      "text": " Det her er et workflow, der er baseret på Spotify,"
+    },
+    {
+      "start": 254.0,
+      "end": 257.0,
+      "text": " som, undskyld ikke Spotify, det er Shopify."
+    },
+    {
+      "start": 257.0,
+      "end": 260.0,
+      "text": " Det er baseret på Shopify, men det trækker artikler ud,"
+    },
+    {
+      "start": 260.0,
+      "end": 262.0,
+      "text": " så det er faktisk ikke baseret på webshop produkter,"
+    },
+    {
+      "start": 262.0,
+      "end": 265.0,
+      "text": " som sådan, du kunne lige så godt bruge det her på WordPress,"
+    },
+    {
+      "start": 265.0,
+      "end": 266.0,
+      "text": " eller Webflow, eller et eller andet."
+    },
+    {
+      "start": 266.0,
+      "end": 268.0,
+      "text": " Det er baseret på artikler og service sider."
+    },
+    {
+      "start": 268.0,
+      "end": 270.0,
+      "text": " Og lad os prøve at gå igennem det, i forhold til hvad der er, der sker her."
+    },
+    {
+      "start": 270.0,
+      "end": 273.0,
+      "text": " Så der hvor workflowet starter, det er et Google Sheet,"
+    },
+    {
+      "start": 273.0,
+      "end": 275.0,
+      "text": " så vi bruger igen et spreadsheet som database,"
+    },
+    {
+      "start": 275.0,
+      "end": 278.0,
+      "text": " det er bare for at have et simpelt databaseværktøj."
+    },
+    {
+      "start": 278.0,
+      "end": 281.0,
+      "text": " Det første, der sker, det er, at vi går ind i Shopify,"
+    },
+    {
+      "start": 281.0,
+      "end": 283.0,
+      "text": " og så trækker vi artikler ud."
+    },
+    {
+      "start": 283.0,
+      "end": 285.0,
+      "text": " Det har vi gjort via noget scripting,"
+    },
+    {
+      "start": 285.0,
+      "end": 288.0,
+      "text": " vi har simpelthen lavet et script, der går ind og trækker alle artiklerne ud."
+    },
+    {
+      "start": 288.0,
+      "end": 290.0,
+      "text": " Jeg kan ikke lige vise det, uden at vise hvilken kunde,"
+    },
+    {
+      "start": 290.0,
+      "end": 291.0,
+      "text": " der har talt om stille og værre med at gøre,"
+    },
+    {
+      "start": 291.0,
+      "end": 294.0,
+      "text": " men du kan få ChatGPT eller Claude til at lave dig et tilsvarende script."
+    },
+    {
+      "start": 294.0,
+      "end": 298.0,
+      "text": " Så vi går simpelthen ud og hiver alle artikler, alle blogartikler,"
+    },
+    {
+      "start": 298.0,
+      "end": 300.0,
+      "text": " og lægger dem ind i vores spreadsheet."
+    },
+    {
+      "start": 300.0,
+      "end": 303.0,
+      "text": " Når vi har lagt dem ind, og lige fået formateret dataen korrekt,"
+    },
+    {
+      "start": 303.0,
+      "end": 306.0,
+      "text": " så har vi et trin med Perplexity,"
+    },
+    {
+      "start": 306.0,
+      "end": 310.0,
+      "text": " hvor vi søger efter information om det pågældende blogindlæg."
+    },
+    {
+      "start": 310.0,
+      "end": 312.0,
+      "text": " Det vil sige, at vi tager simpelthen emnet fra blogindlægget,"
+    },
+    {
+      "start": 312.0,
+      "end": 314.0,
+      "text": " lad os sige, at det er et blogindlæg, der handler om søgemaskineoptimering,"
+    },
+    {
+      "start": 314.0,
+      "end": 318.0,
+      "text": " og så beder vi Perplexity om at researche mere indhold om søgemaskineoptimering."
+    },
+    {
+      "start": 318.0,
+      "end": 321.0,
+      "text": " Og tænk jo bare lige hurtigt, hvad er det nu Perplexity er,"
+    },
+    {
+      "start": 321.0,
+      "end": 323.0,
+      "text": " og hvorfor er det, at vi tit bruger den i vores workflows?"
+    },
+    {
+      "start": 323.0,
+      "end": 329.0,
+      "text": " Perplexity er den LLM, der er ude, som er bedst til at lave researcharbejde."
+    },
+    {
+      "start": 329.0,
+      "end": 332.0,
+      "text": " Man kunne også godt bruge OpenAI's ChatGPT,"
+    },
+    {
+      "start": 332.0,
+      "end": 335.0,
+      "text": " men vi oplever bare, at Perplexity er langt bedre til at researche,"
+    },
+    {
+      "start": 335.0,
+      "end": 338.0,
+      "text": " og det er derfor, vi bruger det i sådan et flow i det her step her."
+    },
+    {
+      "start": 338.0,
+      "end": 342.0,
+      "text": " Perplexity er fremragende, og det næste, der sker,"
+    },
+    {
+      "start": 342.0,
+      "end": 346.0,
+      "text": " det er, at vi går ind i OpenAI, og så skriver vi,"
+    },
+    {
+      "start": 346.0,
+      "end": 348.0,
+      "text": " så begynder vi faktisk at generere noget content her."
+    },
+    {
+      "start": 348.0,
+      "end": 352.0,
+      "text": " Vi begynder at lave et udkast til, hvordan kan den her schema se ud,"
+    },
+    {
+      "start": 352.0,
+      "end": 354.0,
+      "text": " hvad kunne den her schema handle om,"
+    },
+    {
+      "start": 354.0,
+      "end": 356.0,
+      "text": " altså nu har vi researchet noget indhold i Perplexity,"
+    },
+    {
+      "start": 356.0,
+      "end": 359.0,
+      "text": " så nu går vi ind i OpenAI, og så laver vi et udkast til,"
+    },
+    {
+      "start": 359.0,
+      "end": 361.0,
+      "text": " hvilke schemaer kunne vi rent faktisk bruge."
+    },
+    {
+      "start": 361.0,
+      "end": 364.0,
+      "text": " I den næste trin bruger vi Perplexity igen,"
+    },
+    {
+      "start": 364.0,
+      "end": 367.0,
+      "text": " så nu bærer vi Perplexity sådan et generisk prompt,"
+    },
+    {
+      "start": 367.0,
+      "end": 370.0,
+      "text": " om at give noget mere information om, hvordan vi kan strukturere vores schema markup,"
+    },
+    {
+      "start": 370.0,
+      "end": 372.0,
+      "text": " og hvad vi kan bruge."
+    },
+    {
+      "start": 372.0,
+      "end": 376.0,
+      "text": " Der kommer et nyt Perplexity prompt med at identificere relevant schema markup,"
+    },
+    {
+      "start": 376.0,
+      "end": 379.0,
+      "text": " og nu kommer vi ned til den faktiske schema builder."
+    },
+    {
+      "start": 379.0,
+      "end": 382.0,
+      "text": " Så her bruger vi igen ChatGPT's modul,"
+    },
+    {
+      "start": 382.0,
+      "end": 384.0,
+      "text": " og der skal man huske, at på det her tidspunkt,"
+    },
+    {
+      "start": 384.0,
+      "end": 386.0,
+      "text": " der har vi både trukket information ud om emnet,"
+    },
+    {
+      "start": 386.0,
+      "end": 389.0,
+      "text": " vi har researchet emnet, vi har lavet et udkast til noget schema,"
+    },
+    {
+      "start": 389.0,
+      "end": 391.0,
+      "text": " vi har researchet på den schema,"
+    },
+    {
+      "start": 391.0,
+      "end": 394.0,
+      "text": " vi har identificeret potentielt andre relevante schemas,"
+    },
+    {
+      "start": 394.0,
+      "end": 397.0,
+      "text": " nu går vi først i gang med at bygge den endelige schema markup,"
+    },
+    {
+      "start": 397.0,
+      "end": 399.0,
+      "text": " vi gerne vil lægge ind på siden."
+    },
+    {
+      "start": 399.0,
+      "end": 400.0,
+      "text": " Og igen lidt spørgsmål, Tino."
+    },
+    {
+      "start": 400.0,
+      "end": 403.0,
+      "text": " Vi kunne måske godt have gjort det her i et eller to nodes eller moduler."
+    },
+    {
+      "start": 403.0,
+      "end": 406.0,
+      "text": " Hvorfor er det, vi bruger fem eller seks moduler i vores Makeflow?"
+    },
+    {
+      "start": 406.0,
+      "end": 409.0,
+      "text": " Er det bare for at få det til at se unødvendigt komplekst ud og sejt ud,"
+    },
+    {
+      "start": 409.0,
+      "end": 410.0,
+      "text": " når man så laver en video med det,"
+    },
+    {
+      "start": 410.0,
+      "end": 411.0,
+      "text": " eller hvorfor er det, der ligger fem eller seks,"
+    },
+    {
+      "start": 411.0,
+      "end": 414.0,
+      "text": " i stedet for bare at ligge en eller to, hvor du har samlet alle dine prompts i et?"
+    },
+    {
+      "start": 414.0,
+      "end": 416.0,
+      "text": " Det er bare for at se sej ud, vi er konsulenter jo,"
+    },
+    {
+      "start": 416.0,
+      "end": 419.0,
+      "text": " det skal ikke være sådan lidt, nej, det passer selvfølgelig ikke."
+    },
+    {
+      "start": 419.0,
+      "end": 421.0,
+      "text": " Chancen for, at et af lemmerne,"
+    },
+    {
+      "start": 421.0,
+      "end": 423.0,
+      "text": " den et eller andet, vi nu vil have brugt,"
+    },
+    {
+      "start": 423.0,
+      "end": 425.0,
+      "text": " hvis vi havde samlet det hele i én,"
+    },
+    {
+      "start": 425.0,
+      "end": 429.0,
+      "text": " ville have lucineret og simpelthen glemme oplysninger i løbet af dens arbejde,"
+    },
+    {
+      "start": 429.0,
+      "end": 431.0,
+      "text": " den er gigastor, man har selv oplevet det."
+    },
+    {
+      "start": 431.0,
+      "end": 434.0,
+      "text": " Hvis man havde givet en eller anden lang, lang prompt til Jack KBT,"
+    },
+    {
+      "start": 434.0,
+      "end": 435.0,
+      "text": " om at den bare glemmer halvdelen af det,"
+    },
+    {
+      "start": 435.0,
+      "end": 437.0,
+      "text": " og det er det, vi rigtig gerne vil undgå,"
+    },
+    {
+      "start": 437.0,
+      "end": 439.0,
+      "text": " og det er derfor, vi deler det op i så store steps."
+    },
+    {
+      "start": 440.0,
+      "end": 442.0,
+      "text": " Og jeg tror også, det her, hvor rigtig mange begår fejlen,"
+    },
+    {
+      "start": 442.0,
+      "end": 444.0,
+      "text": " fordi, når man snakker med nogen, der siger,"
+    },
+    {
+      "start": 444.0,
+      "end": 446.0,
+      "text": " det der AI der, det virker bare overhovedet ikke,"
+    },
+    {
+      "start": 446.0,
+      "end": 448.0,
+      "text": " jeg kan slet ikke få den til, prøv at se, hvor dårligt den er."
+    },
+    {
+      "start": 448.0,
+      "end": 454.0,
+      "text": " Det er fordi, at man bygger måske et maks to steps i sin prompting,"
+    },
+    {
+      "start": 454.0,
+      "end": 455.0,
+      "text": " hvorefter den er gået galt."
+    },
+    {
+      "start": 455.0,
+      "end": 456.0,
+      "text": " Prøv bare at se her."
+    },
+    {
+      "start": 456.0,
+      "end": 458.0,
+      "text": " Altså det her, det er jo sådan en relativt,"
+    },
+    {
+      "start": 458.0,
+      "end": 460.0,
+      "text": " jeg vil ikke sige lille task, det er det jo per artikel,"
+    },
+    {
+      "start": 460.0,
+      "end": 462.0,
+      "text": " men ikke når du tager mange forskellige artikler."
+    },
+    {
+      "start": 462.0,
+      "end": 465.0,
+      "text": " Men prøv at se, hvordan det er delt ud i forskellige steps."
+    },
+    {
+      "start": 465.0,
+      "end": 467.0,
+      "text": " Altså man skal virkelig have den her tankegang her,"
+    },
+    {
+      "start": 467.0,
+      "end": 469.0,
+      "text": " for at få det maksimalt ud af AI i dag."
+    },
+    {
+      "start": 469.0,
+      "end": 471.0,
+      "text": " Og jeg tror, det er her, hvor der er mange, der går galt i byen."
+    },
+    {
+      "start": 471.0,
+      "end": 472.0,
+      "text": " Det tror jeg nemlig også."
+    },
+    {
+      "start": 472.0,
+      "end": 473.0,
+      "text": " Og det er jo ligesom en menneskelig medarbejder,"
+    },
+    {
+      "start": 473.0,
+      "end": 475.0,
+      "text": " hvis du giver dem alt for meget information,"
+    },
+    {
+      "start": 475.0,
+      "end": 477.0,
+      "text": " så begynder de bare at glemme noget af det."
+    },
+    {
+      "start": 477.0,
+      "end": 478.0,
+      "text": " Vi kommer videre til den næste trin,"
+    },
+    {
+      "start": 478.0,
+      "end": 480.0,
+      "text": " og man kan se her, der er et bagvedlæggende prompt"
+    },
+    {
+      "start": 480.0,
+      "end": 482.0,
+      "text": " i forhold til, hvordan vi rent faktisk begynder at bygge den."
+    },
+    {
+      "start": 482.0,
+      "end": 484.0,
+      "text": " Så her der har vi simpelthen ChatGPT,"
+    },
+    {
+      "start": 484.0,
+      "end": 486.0,
+      "text": " hvor vi siger, baseret på den information,"
+    },
+    {
+      "start": 486.0,
+      "end": 488.0,
+      "text": " vi har lavet tidligere, og den information,"
+    },
+    {
+      "start": 488.0,
+      "end": 491.0,
+      "text": " vi har fået fra Perplexity og det her, vi har samlet på ChatGPT,"
+    },
+    {
+      "start": 491.0,
+      "end": 495.0,
+      "text": " så vil vi gerne have de udfyldte JSON-schema-markups."
+    },
+    {
+      "start": 495.0,
+      "end": 497.0,
+      "text": " Og udfyldte, det betyder jo bare, at vi siger,"
+    },
+    {
+      "start": 497.0,
+      "end": 499.0,
+      "text": " det skal faktisk være færdig data, vi får her."
+    },
+    {
+      "start": 499.0,
+      "end": 501.0,
+      "text": " Så lav kun schema-markups for elementer,"
+    },
+    {
+      "start": 501.0,
+      "end": 503.0,
+      "text": " som kan udfyldes med alt det nødvendige data osv."
+    },
+    {
+      "start": 503.0,
+      "end": 506.0,
+      "text": " Vi skal fjerne alt vores JSON, vi skal kun have JSON-LD-schema-markups,"
+    },
+    {
+      "start": 506.0,
+      "end": 508.0,
+      "text": " og så er der sådan et helt prompt, der ligger bag det her."
+    },
+    {
+      "start": 508.0,
+      "end": 511.0,
+      "text": " I det næste schema-build her, der laver vi lige noget formatering,"
+    },
+    {
+      "start": 511.0,
+      "end": 512.0,
+      "text": " fordi vi nogle gange har oplevet,"
+    },
+    {
+      "start": 512.0,
+      "end": 514.0,
+      "text": " at den spasser rundt med vores com-air,"
+    },
+    {
+      "start": 514.0,
+      "end": 518.0,
+      "text": " så vi har lige lavet et ekstra ChatGPT-modul"
+    },
+    {
+      "start": 518.0,
+      "end": 519.0,
+      "text": " til at fikse vores com-air."
+    },
+    {
+      "start": 519.0,
+      "end": 520.0,
+      "text": " Og igen et eksempel på,"
+    },
+    {
+      "start": 520.0,
+      "end": 522.0,
+      "text": " det kunne du faktisk godt have lagt til det samme prompt,"
+    },
+    {
+      "start": 522.0,
+      "end": 524.0,
+      "text": " og der er bare en risiko for, at ChatGPT så ignorerer det."
+    },
+    {
+      "start": 524.0,
+      "end": 527.0,
+      "text": " Når vi så har den helt færdige JSON-kode,"
+    },
+    {
+      "start": 527.0,
+      "end": 530.0,
+      "text": " så får vi et objekt, et resultat, som så bliver formateret til det,"
+    },
+    {
+      "start": 530.0,
+      "end": 533.0,
+      "text": " og så bliver det lagt op i Shopify direkte."
+    },
+    {
+      "start": 533.0,
+      "end": 535.0,
+      "text": " Så det her workflow starter med,"
+    },
+    {
+      "start": 535.0,
+      "end": 537.0,
+      "text": " at vi hiver information ud af Shopify,"
+    },
+    {
+      "start": 537.0,
+      "end": 540.0,
+      "text": " og det slutter med, at vi lægger information ind i Shopify."
+    },
+    {
+      "start": 540.0,
+      "end": 542.0,
+      "text": " Og så til sidst så opdaterer vi Google Sheetet,"
+    },
+    {
+      "start": 542.0,
+      "end": 544.0,
+      "text": " og det er fordi, hvis man har et Google Sheet med alle artikler,"
+    },
+    {
+      "start": 544.0,
+      "end": 547.0,
+      "text": " hvor vi så har et flueben, er den lavet."
+    },
+    {
+      "start": 547.0,
+      "end": 552.0,
+      "text": " Vi kørte det her schema-markup-flow igennem den her kunde på Shopify."
+    },
+    {
+      "start": 552.0,
+      "end": 554.0,
+      "text": " De har mange hundrede artikler."
+    },
+    {
+      "start": 554.0,
+      "end": 557.0,
+      "text": " Hvis vi skulle have lavet schema-markup manuelt for mange hundrede timer,"
+    },
+    {
+      "start": 557.0,
+      "end": 559.0,
+      "text": " det havde de jo betalt os, jeg ved ikke hvor mange timer for,"
+    },
+    {
+      "start": 559.0,
+      "end": 561.0,
+      "text": " og ved du hvad, det er jo derfor, de kan betale os for det."
+    },
+    {
+      "start": 561.0,
+      "end": 564.0,
+      "text": " Den her opgave, den er ikke penge værd,"
+    },
+    {
+      "start": 564.0,
+      "end": 567.0,
+      "text": " hvis du skal betale 1000 kroner i timen og 50 timer for det."
+    },
+    {
+      "start": 567.0,
+      "end": 568.0,
+      "text": " Den er simpelthen ikke penge værd."
+    },
+    {
+      "start": 568.0,
+      "end": 572.0,
+      "text": " Men hvis vi kan bruge 5 timer på at sætte det her workflow op,"
+    },
+    {
+      "start": 572.0,
+      "end": 575.0,
+      "text": " og sætte det til automatisk at køre for alle artikler,"
+    },
+    {
+      "start": 575.0,
+      "end": 577.0,
+      "text": " alle artikler, der nogensinde har ligget inde på siden,"
+    },
+    {
+      "start": 577.0,
+      "end": 579.0,
+      "text": " og hver eneste gang, der kommer en ny artikel,"
+    },
+    {
+      "start": 579.0,
+      "end": 582.0,
+      "text": " så trigger det her workflow helt automatisk,"
+    },
+    {
+      "start": 582.0,
+      "end": 585.0,
+      "text": " og går ind og lægger schema-markup ind på det fra nu af."
+    },
+    {
+      "start": 585.0,
+      "end": 587.0,
+      "text": " Det er en psykopatgode forretning."
+    },
+    {
+      "start": 587.0,
+      "end": 588.0,
+      "text": " Og det er lige præcis det, der er sket."
+    },
+    {
+      "start": 588.0,
+      "end": 591.0,
+      "text": " Så den ene ting, det er, at vi har kørt samtlige artikler igennem."
+    },
+    {
+      "start": 591.0,
+      "end": 596.0,
+      "text": " Og det tog måske en halv time til en time at køre alle mange hundrede artikler igennem."
+    },
+    {
+      "start": 596.0,
+      "end": 599.0,
+      "text": " Den brugte måske et halvt minut per stykke, eller et eller andet den stil."
+    },
+    {
+      "start": 599.0,
+      "end": 602.0,
+      "text": " Træk informationen ud, research, omdann, skriv,"
+    },
+    {
+      "start": 602.0,
+      "end": 603.0,
+      "text": " læg op i Shopify igen."
+    },
+    {
+      "start": 603.0,
+      "end": 605.0,
+      "text": " Det tog måske en halv time at fikse alle artikler."
+    },
+    {
+      "start": 605.0,
+      "end": 608.0,
+      "text": " Men det er jo sat op således, at hver eneste gang,"
+    },
+    {
+      "start": 608.0,
+      "end": 610.0,
+      "text": " der bliver lagt en ny artikel op på sitet,"
+    },
+    {
+      "start": 610.0,
+      "end": 612.0,
+      "text": " så sker det her automatisk."
+    },
+    {
+      "start": 612.0,
+      "end": 613.0,
+      "text": " Den ligger bare og kører."
+    },
+    {
+      "start": 613.0,
+      "end": 614.0,
+      "text": " Det er helt fantastisk."
+    },
+    {
+      "start": 614.0,
+      "end": 616.0,
+      "text": " Jeg er så vild med det her flow."
+    },
+    {
+      "start": 616.0,
+      "end": 618.0,
+      "text": " Hvem kan bruge sådan et flow her?"
+    },
+    {
+      "start": 618.0,
+      "end": 619.0,
+      "text": " Det kan, det kan."
+    },
+    {
+      "start": 619.0,
+      "end": 621.0,
+      "text": " Al virksomhed har et website."
+    },
+    {
+      "start": 621.0,
+      "end": 623.0,
+      "text": " Ej, det er klart, det større website,"
+    },
+    {
+      "start": 623.0,
+      "end": 626.0,
+      "text": " des federe bliver det at kunne automatisere det."
+    },
+    {
+      "start": 626.0,
+      "end": 628.0,
+      "text": " Altså har man tre undersider, så er det godt,"
+    },
+    {
+      "start": 628.0,
+      "end": 630.0,
+      "text": " at man selv lige skal gå ind og fikse det her."
+    },
+    {
+      "start": 630.0,
+      "end": 634.0,
+      "text": " Men har du mange artikler, eller publicerer du løbende,"
+    },
+    {
+      "start": 634.0,
+      "end": 637.0,
+      "text": " eller mange produkter, eller mange undersider,"
+    },
+    {
+      "start": 637.0,
+      "end": 640.0,
+      "text": " så er det her en no-brainer."
+    },
+    {
+      "start": 640.0,
+      "end": 643.0,
+      "text": " Jeg havde bare tænkt, next step, det er jo"
+    },
+    {
+      "start": 643.0,
+      "end": 645.0,
+      "text": " sådan noget som alt tekster."
+    },
+    {
+      "start": 645.0,
+      "end": 646.0,
+      "text": " Udfyld alt tekster på billedet."
+    },
+    {
+      "start": 646.0,
+      "end": 649.0,
+      "text": " De her mindre SEO-opgaver, eller mindre,"
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " og nu skal jeg passe på, hvad jeg siger,"
+    },
+    {
+      "start": 651.0,
+      "end": 653.0,
+      "text": " men der er altid, når man arbejder med SEO,"
+    },
+    {
+      "start": 653.0,
+      "end": 654.0,
+      "text": " så er der nogle højprioritetsopgaver,"
+    },
+    {
+      "start": 654.0,
+      "end": 656.0,
+      "text": " og nogle der er lidt lavere prioriteter."
+    },
+    {
+      "start": 656.0,
+      "end": 658.0,
+      "text": " De er stadigvæk vigtige, og de er stadigvæk mega fede"
+    },
+    {
+      "start": 658.0,
+      "end": 660.0,
+      "text": " at have udført, men man kommer sjældent til dem,"
+    },
+    {
+      "start": 660.0,
+      "end": 662.0,
+      "text": " fordi der altid er noget højere prioritet."
+    },
+    {
+      "start": 662.0,
+      "end": 664.0,
+      "text": " Ja, der kan man rent faktisk få de her"
+    },
+    {
+      "start": 664.0,
+      "end": 667.0,
+      "text": " lidt lavere prioritetsopgaver udført ved hjælp af AI."
+    },
+    {
+      "start": 667.0,
+      "end": 670.0,
+      "text": " Altså jeg har bare tænkt, sådan noget som alt tekstudfyldelse."
+    },
+    {
+      "start": 670.0,
+      "end": 673.0,
+      "text": " Nu hvor der er eleverne, og AI kan begynde at forstå,"
+    },
+    {
+      "start": 673.0,
+      "end": 676.0,
+      "text": " hvad er det der er på billedet, og berige dem."
+    },
+    {
+      "start": 676.0,
+      "end": 679.0,
+      "text": " Ej, det er helt overkørende, det er så fedt."
+    },
+    {
+      "start": 679.0,
+      "end": 680.0,
+      "text": " Ja, det kan virkelig noget."
+    },
+    {
+      "start": 680.0,
+      "end": 682.0,
+      "text": " Og det sjove er, at man skal bare begynde at tænke kreativt"
+    },
+    {
+      "start": 682.0,
+      "end": 684.0,
+      "text": " i forhold til, hvad er det for nogle SEO-opgaver,"
+    },
+    {
+      "start": 684.0,
+      "end": 685.0,
+      "text": " man vil sidde med."
+    },
+    {
+      "start": 685.0,
+      "end": 687.0,
+      "text": " Er det produkttekster, er det kategoritekster,"
+    },
+    {
+      "start": 687.0,
+      "end": 690.0,
+      "text": " er det alt tekster, er det schema markup,"
+    },
+    {
+      "start": 690.0,
+      "end": 692.0,
+      "text": " metatitler, metadescription, alle de her ting,"
+    },
+    {
+      "start": 692.0,
+      "end": 694.0,
+      "text": " du kan gøre det med, hver eneste af dem,"
+    },
+    {
+      "start": 694.0,
+      "end": 696.0,
+      "text": " fordi alt det kan trækkes ud af API'et,"
+    },
+    {
+      "start": 696.0,
+      "end": 699.0,
+      "text": " via for eksempel make.com eller N8M,"
+    },
+    {
+      "start": 699.0,
+      "end": 700.0,
+      "text": " hvis man foretrækker at bruge noget,"
+    },
+    {
+      "start": 700.0,
+      "end": 702.0,
+      "text": " der har en lidt højere kompleksitet,"
+    },
+    {
+      "start": 702.0,
+      "end": 704.0,
+      "text": " men også lidt højere grad af customizability,"
+    },
+    {
+      "start": 704.0,
+      "end": 706.0,
+      "text": " og så kan du bare begynde fra en ende af."
+    },
+    {
+      "start": 706.0,
+      "end": 709.0,
+      "text": " Men jeg synes bare det her, det er et fedt eksempel igen på,"
+    },
+    {
+      "start": 709.0,
+      "end": 711.0,
+      "text": " hvordan man skal arbejde med SEO i fremtiden."
+    },
+    {
+      "start": 711.0,
+      "end": 713.0,
+      "text": " Det der, hvad du manuelt trækker en liste ud,"
+    },
+    {
+      "start": 713.0,
+      "end": 715.0,
+      "text": " og så begynder at lave en click-through-rate-analyse,"
+    },
+    {
+      "start": 715.0,
+      "end": 717.0,
+      "text": " eller tilføje schema eller et eller andet,"
+    },
+    {
+      "start": 717.0,
+      "end": 718.0,
+      "text": " det må du simpelthen ikke gøre længere."
+    },
+    {
+      "start": 718.0,
+      "end": 720.0,
+      "text": " Det er sådan her, man arbejder med SEO i fremtiden."
+    },
+    {
+      "start": 720.0,
+      "end": 723.0,
+      "text": " Man laver workflowet en gang, kører igennem alle de ting,"
+    },
+    {
+      "start": 723.0,
+      "end": 724.0,
+      "text": " man har liggende på siden, og sørger for,"
+    },
+    {
+      "start": 724.0,
+      "end": 728.0,
+      "text": " at den ligger og udfylder, eller affyrer automatisk,"
+    },
+    {
+      "start": 728.0,
+      "end": 730.0,
+      "text": " i tid og evighed i fremtiden."
+    },
+    {
+      "start": 730.0,
+      "end": 734.0,
+      "text": " Det er måden, hvorpå du får organisk synlighed i fremtiden."
+    },
+    {
+      "start": 734.0,
+      "end": 736.0,
+      "text": " Tusind tak, fordi du lyttede med til dagens episode."
+    },
+    {
+      "start": 736.0,
+      "end": 738.0,
+      "text": " Vi vil rigtig gerne lave flere af dem her,"
+    },
+    {
+      "start": 738.0,
+      "end": 739.0,
+      "text": " så skriv, hvis det var spændende,"
+    },
+    {
+      "start": 739.0,
+      "end": 741.0,
+      "text": " så peger du også i en retning i at lave flere videoer"
+    },
+    {
+      "start": 741.0,
+      "end": 743.0,
+      "text": " med meget specifikke workflows."
+    },
+    {
+      "start": 743.0,
+      "end": 744.0,
+      "text": " Tusind tak."
+    }
+  ]
+}

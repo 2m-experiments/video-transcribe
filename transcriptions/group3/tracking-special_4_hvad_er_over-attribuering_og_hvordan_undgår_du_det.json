@@ -1,0 +1,786 @@
+{
+  "title": "Tracking-special #4: Hvad er over-attribuering, og hvordan undgår du det?",
+  "url": "https://www.youtube.com/watch?v=shr8tFoRC0E",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 612.8,
+  "transcribed_at": "2026-04-17T12:34:17.947735+00:00",
+  "full_text": "Christian, hallo for den. I den her episode af vores tracking-kursus, der skal vi snakke om, når man ikke måler for lidt data, men faktisk for meget data. Fordi i de sidste episoder, der har vi snakket om tiltag som server-side tagging og en custom loader og enhanced conversions, der kan hjælpe dig med at måle flere af de konverteringer, du rent faktisk har. Men nogle gange, da vi laver tracking for vores kunder, så er problemet, at de måske måler for meget i virkeligheden. Og lad os tage et eksempel med, hvordan det kan komme til udtryk. Sådan et helt lavpraktisk eksempel. Lad os sige, at vi har fået en case ind, som bruger rigtig mange penge på Google Ads, så vi går ind og kigger på deres konverteringsindstillinger, altså den måde, de tracker deres konverteringer på. Og vi så ser, at det er blevet opsat, således at man tracker i et vindue, der hedder 90 dage. Altså det vil sige 90 dage efter klik. Hvis vedkommende, der har klikket på annoncen, så rent faktisk ender med at konvertere, så tilskriver vi det Google Ads. Og det er klart, det kan godt give mening i nogle brancher, hvor det er, at den her købsperiode er relativt lang. Det ser vi typisk ved de lidt dyrere produkter. Men generelt set, så når man kigger fra helikopteren af og tænker 90 dage, så er det kvart år. Det er altså lang tid, der kan være noget at ske. Mange forskellige ting. Vi kan have noget at ramme dem på mange forskellige andre platformer også. Men Google Ads tager så den fulde tilskrivning inden for de her 90 dage. Hvor vi faktisk plejer at sætte det ned. Det kunne fx være 30 dage efter klik, hvor vi siger, at hvis den her kunde rent faktisk konvertere inden for de første 30 dage, efter de har klikket på annoncen, så er det fair nok Google Ads får tilskrivningen. Og alt det her, det kan sættes op, som man selv vil, og det er jo sådan lidt en diskussion. Men hvor om alting er, som du også starter med at sige, issuet med at sætte den for højt, det er, at vi simpelthen tracker for meget over på Google Ads, og vi tracker jo samtidig også på andre kanaler. Og lige pludselig så står vi med et helhedsbillede, der bare overhovedet ikke giver mening, fordi der er alt for mange konverteringer. Og lad os lige præcisere, fordi vi siger, at man tracker for meget, det er i virkeligheden måske ikke det rigtige ord at bruge, fordi vi tracker korrekt, vi tilskriver for meget. Så det er ikke et spørgsmål om, at du måler konverteringer, der ikke er sket her. Det er et spørgsmål om, at du siger, at det var Google Ads, der skabte den her konvertering. Fordi lad os sige, at man sælger donut-hunde-webshops eller hundehuler, som vi jo fandt ud af i sidste episode, også var taget af domæne, så vi løber videre efter en god forretningsidag. Vil du køre en 90-dages tilskrivningsperiode på salget af hundehuler? Ej, absolut ikke. Altså, jeg antager, at prisen der ligger på mellem 300 til måske 2 kroner, hvis det virkelig, virkelig er. 1000 kroner skal du virkelig kunne lide din hund, altså så står den bedre, end jeg gør nu. Jeg ved, Laura derhjemme, hun kunne altså godt have fundet på at bruge 1000 kroner på det. Hvem derhjemme ved Laura lige nu, er det hunden, eller er det dig? Ja, der er du fuldstændig rettet. Men hvor man altid er, 90 dage, det er alt for lang tid, især med et produkt, som er relativt impulsdrevet. Altså, der vil jeg sætte den til max, max, max 30 dage. Ja, det er jo ikke, fordi du sådan skal gå og overveje i 7 dage, om du skal købe den der hundehule til 300 kroner, du har set på TikTok. Altså, det gør du nu, eller så gør du ikke. Så det er jo sådan en, hvor 95% af konverteringen, det sker inden for 4-7 timer, sikkert et par timer i virkeligheden. Og så har du også eksempler i den anden retning. Hvis man arbejder med for eksempel meget lange forbrugskoder, dyre forbrugskoder. Lad os sige til os selv, at køkkenet, det kan godt tage 90 dage at beslutte sig for, om du vil købe et køkken. Så der synes jeg godt, at man i højere grad kan retfærdiggøre, at du kører en længere tilskrivning. Men for langt største delen af dansk e-kom, der burde man køre en kortere tilskrivningsvindue. Og hvis jeg husker rigtigt, så har man mulighed for, når man går ind og vælger mellem 1, 7, 30, 60 og 90, tror jeg det er. Hvad vil være din standardløsning i forhold til et tilskrivningsvindue? Måske delt op på, hvor meget vil du sætte den på klik og hvor meget vil du sætte den på visning? Altså det mest gengældte, det vi oftest plejer at gøre, det er 30 dage ved klik og 3 dage ved visning. Nu er visning lidt sjov i Google Ads regi. Den er også blevet splittet op for nylig. Nu er der engageret visning og ikke engageret visning, I guess. Lige præcis. Men 3 dage, det her plejer vi at køre med, og så 30 dage for klikkonvertering. Og jeg var faktisk lige inde her til morgen og forsøgte mig med en tilfældig konto og ind og prøve at redigere i det her vindue her. Og det var helt rart. Engang kunne man nemlig kun vælge de her standard datointervaller. Jeg kan ikke huske, hvad det var. Om det var 1 dag, 7 dage osv. Men nu kan man faktisk også, så længe man skriver hele dage, selv indsætte den. Så der er rimelig stor frihed nu til selv at kunne indstille den. Vi siger ikke, at man nødvendigvis behøver at gå ind og ændre sine nuværende, men det er bare en vigtig snak eller diskussion at have, enten med sig selv, hvis man selv sidder med det her, eller med det bureau, man nogle gange sidder og arbejder sammen med. Har man nu sat det korrekt, eller i hvert fald det, man antager er mest korrekt? Og det er jo også et spørgsmål om, hvor konservativ man ønsker at være i det her. Fordi det er klart, hvis man sætter den på 30 eller måske endda 90 dage, så kommer man også til at tilskrive flere konverteringer. Der er simpelthen flere, man fanger ind i ens net, jo større nettet det bliver. Og det kan man jo synes er fint. Udfordringen er jo så, at man kan komme til at tro, at ens annoncering virker bedre, end den i virkeligheden gør. Fordi jo længere en periode, man kører det her tilskrivningsmindue i, jo større er risikoen for, at du kommer til at tilskrive konverteringer, som kommer fra nogle andre kilder. Fordi som du sagde til at starte med, lad os sige, du har klikket på en Google Ads annonce for din hundehule for 88 dage siden, og du ser 100 annoncer på Facebook om dagen, i øvrigt en gennemsnit. Nej, du kan nu også se mange annoncer for alle mulige ting på de 88 dage. Altså jeg kan slet ikke forestille mig, hvor mange impressions du får på YouTube og Facebook og TikTok og bus-annoncer og alt muligt i mellemtiden. Så det at gå ind og sige, at det er 100% den her Google Ads, det klik for 88 dage siden, er jo fuldstændig sindssygt. Og styrer ens forretning efter. Altså jeg kan give dig et rigtig grældt eksempel. For nogle år siden, der var jeg ude ved en ret stor dansk virksomhed, som kørte meget display-annoncering. Og jeg var hyret ind til at lave sådan et audit af alle deres kanaler, og brugte deres penge fornuftigt. Og en af de ting, vi sådan lagde mærke til, var i en meget, meget stor del af deres budget, det gik til display og programmatik. Det i sig selv, det kan være fint nok. Men de sagde sådan, åh det er virkelig en god forretning det her, vi kan virkelig se det bare komme til. Og så bliver jeg jo øjeblikkeligt skeptisk, hvis der er nogen, der siger display, det fungerer godt. Og det er ikke fordi, man ikke får kørt med display. Man skal bare være oprigtig med sig selv om, at det her er nogle penge, du bruger, hvor du måske ikke kommer til at måle særlig meget. Men de insisterede på, at det her er en fucking god forretning. Så det at gå ind og tjekke, det er, hvad er tilskrivnings-vinduet på deres display-annoncering. Og den stod på en tilskrivning, der hedder 90-90-90. Det vil sige 90 dage efter klik, 90 dage efter engageret visning og 90 dage efter visning. Så du skulle bare se en random display-annonce, og så tilskrev Google Ads al omsætning fra 90 dage til virksomheden. Og jeg kan fortælle dig, Google Ads tilskrev 97% af virksomhedens samlede omsætning til display-annoncering. Nej, nej, nej, nej. Og det var også fordi, de brugte virkelig mange penge på display. Så det var bare ude at ramme hele Danmark på ekstrabladet. Og så er der bare nogen, der køber ind for de næste 30 eller 90 dage, fordi det var en stor virksomhed, og de holdt en høj frekvens osv. Så hvis det lykkes der at tage nogle virkelig billige og virkelig dårlige placeringer, og bare banke virkelig mange annoncer ud til dem og køre et 90-dages tilskrivnings-vindue, så kommer du til at tilskrive hele din omsætning. Men det er jo ikke fordi, de ville falde 97% i omsætning, hvis de stoppede deres display-annoncering. De tror faktisk ikke, de ville falde overhovedet. Og det her er et ekstremt eksempel, men det illustrerer, hvor galt det kan gå, at man optimerer ens kampagner efter noget, der ikke er rigtigt. Og det er jo rigtigt, at de havde fået omsætningen. Det er bare helt oplagt forkert, at den stammede fra de her kampagner. Hvornår vil du gå ind og arbejde med endnu kortere vinduer, fx 7 eller måske endda 1? Det vil jeg gøre, hvis jeg ud fra kontoren kan se, at de søgninger, der nu engang bliver foretaget og der bliver konverteret på, er relativt impulsdrevne. Det, der er fantastisk ved Google Ads, er, at vi får noget data på, hvad kunderne har søgt på, lige op til, at de køber. Og hvis jeg kan se her, at det, de søger efter, er så købsintentet, at det ikke er noget, de går og venter på i 90 dage, så kan jeg godt finde på at sætte det ned på 7 dage. Men jeg synes, at det her handler også om at tage en strategisk beslutning. Fordi hvis man starter ud med en helt ny Google Ads-konto, kan man godt have noget is i maven og sige, at det kan godt være, at de tal inde i Google Ads ikke helt stemmer. Jeg vil gerne give algoritmen så meget at arbejde med som muligt, fordi i sidste ende, som du også sagde før, de her personer, der konverterer, de er jo rent faktisk konverteret, og de har også haft et touchpoint med Google Ads, så vi vil jo gerne få til Google Ads. Det her er jo faktisk en god kunde. Du skal sgu ikke tage fuld tilskrivning. Men det giver jeg dig lige lov til i en periode, det kan være det næste halve år, for ligesom at få sat maskinen og algoritmen i gang, og på den måde kan man også træffe nogle strategiske valg ud fra den her konverteringsvindue. Men der skal man bare have is i maven og ikke sidde og tælle sammen og sige, at Google Ads siger, at jeg har fået 10 konverteringer, og Meta siger, at jeg har fået 15. Det er 25 i alt, men jeg har altså kun fået 17 konverteringer på min shop. Der er noget galt her. Det skal man kunne leve med. Ja, og det er faktisk en rigtig god point, fordi man kan se fordelen ved at køre i et længere tilskrivningsvindue, som du kommer ind på her, det er, at du får mere data, og du er tilladet af Google at bruge et bredere spektrum af datasignaler til at optimere din levering, og det kan give bedre resultater. Du skal bare være sofistikeret nok til, at du ikke går ind og indstiller dit budget efter det, fordi så er der stor risiko for, at du kommer til at bruge for mange penge på en kanal, der i virkeligheden ikke leverer det, du skal. Og det her er jo et spørgsmål om overatropøring, hvor hvis man tager alle ens marketingkanaler, vil de ofte give en større omsætning, end man har fået i virkeligheden, fordi brugerne jo både bruger Google og Facebook og TikTok og YouTube og alle mulige andre ting, så platformene kan komme til at tilskrive værdi for den samme konvertering, især hvis du tilskriver visningskonverteringer, hvor det her er et stort problem. Men det er en rigtig god point, at det ikke nødvendigvis er dumt, fordi du tillader en større datatemming, der optimerer leveringen ud fra. Du skal fandme bare være sofistikeret i din måling. Ja, du skal være isomeret. Ja, og stringent. Du skal kunne se en høj roas og vide, at den er ikke så høj i virkeligheden. Så vi skruer ikke op for det her. Og det kommer også tilbage til en generel anbefaling for mig, det er, at man ikke måler ens, altså man sætter ikke ens marketingbudget efter platformene. Man skal sætte ens marketingbudget efter et eller andet single source of truth dashboard, og det kan være, at man bygger det i Google Logo Studio, som vi gør, eller man bruger nogle af de apps, der er på markedet til det, som for eksempel Profit Matrix, Reaktion, Triple Real og så videre. Det er, hvad man lige har lyst til og hvor mange penge, man har lyst til at bruge på det. Men at man bruger et eller andet single source of truth til at sætte et marketingbudget, der indtager alle omkostninger og alle omsætning, men det er de rigtige tal, og ikke går ud fra platformene, fordi så er det nemt at komme til at overtubere. Så platformene bruger man til at finde ud af, hvilke kampagner skal have allokeret det budget, man har defineret ved at kigge overordnet på det, og ikke ved i den enkelte platform.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 5.0,
+      "text": " Christian, hallo for den."
+    },
+    {
+      "start": 5.0,
+      "end": 12.0,
+      "text": " I den her episode af vores tracking-kursus, der skal vi snakke om, når man ikke måler for lidt data, men faktisk for meget data."
+    },
+    {
+      "start": 12.0,
+      "end": 17.0,
+      "text": " Fordi i de sidste episoder, der har vi snakket om tiltag som server-side tagging og en custom loader og enhanced conversions,"
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": " der kan hjælpe dig med at måle flere af de konverteringer, du rent faktisk har."
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": " Men nogle gange, da vi laver tracking for vores kunder, så er problemet, at de måske måler for meget i virkeligheden."
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": " Og lad os tage et eksempel med, hvordan det kan komme til udtryk."
+    },
+    {
+      "start": 30.0,
+      "end": 36.0,
+      "text": " Sådan et helt lavpraktisk eksempel. Lad os sige, at vi har fået en case ind, som bruger rigtig mange penge på Google Ads,"
+    },
+    {
+      "start": 36.0,
+      "end": 41.0,
+      "text": " så vi går ind og kigger på deres konverteringsindstillinger, altså den måde, de tracker deres konverteringer på."
+    },
+    {
+      "start": 41.0,
+      "end": 47.0,
+      "text": " Og vi så ser, at det er blevet opsat, således at man tracker i et vindue, der hedder 90 dage."
+    },
+    {
+      "start": 47.0,
+      "end": 53.0,
+      "text": " Altså det vil sige 90 dage efter klik. Hvis vedkommende, der har klikket på annoncen, så rent faktisk ender med at konvertere,"
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "text": " så tilskriver vi det Google Ads."
+    },
+    {
+      "start": 55.0,
+      "end": 62.0,
+      "text": " Og det er klart, det kan godt give mening i nogle brancher, hvor det er, at den her købsperiode er relativt lang."
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "text": " Det ser vi typisk ved de lidt dyrere produkter."
+    },
+    {
+      "start": 64.0,
+      "end": 71.0,
+      "text": " Men generelt set, så når man kigger fra helikopteren af og tænker 90 dage, så er det kvart år."
+    },
+    {
+      "start": 71.0,
+      "end": 73.0,
+      "text": " Det er altså lang tid, der kan være noget at ske. Mange forskellige ting."
+    },
+    {
+      "start": 73.0,
+      "end": 76.0,
+      "text": " Vi kan have noget at ramme dem på mange forskellige andre platformer også."
+    },
+    {
+      "start": 76.0,
+      "end": 81.0,
+      "text": " Men Google Ads tager så den fulde tilskrivning inden for de her 90 dage."
+    },
+    {
+      "start": 81.0,
+      "end": 83.0,
+      "text": " Hvor vi faktisk plejer at sætte det ned."
+    },
+    {
+      "start": 83.0,
+      "end": 88.0,
+      "text": " Det kunne fx være 30 dage efter klik, hvor vi siger, at hvis den her kunde rent faktisk konvertere inden for de første 30 dage,"
+    },
+    {
+      "start": 88.0,
+      "end": 92.0,
+      "text": " efter de har klikket på annoncen, så er det fair nok Google Ads får tilskrivningen."
+    },
+    {
+      "start": 92.0,
+      "end": 96.0,
+      "text": " Og alt det her, det kan sættes op, som man selv vil, og det er jo sådan lidt en diskussion."
+    },
+    {
+      "start": 96.0,
+      "end": 100.0,
+      "text": " Men hvor om alting er, som du også starter med at sige, issuet med at sætte den for højt,"
+    },
+    {
+      "start": 100.0,
+      "end": 104.0,
+      "text": " det er, at vi simpelthen tracker for meget over på Google Ads, og vi tracker jo samtidig også på andre kanaler."
+    },
+    {
+      "start": 104.0,
+      "end": 108.0,
+      "text": " Og lige pludselig så står vi med et helhedsbillede, der bare overhovedet ikke giver mening,"
+    },
+    {
+      "start": 108.0,
+      "end": 110.0,
+      "text": " fordi der er alt for mange konverteringer."
+    },
+    {
+      "start": 110.0,
+      "end": 114.0,
+      "text": " Og lad os lige præcisere, fordi vi siger, at man tracker for meget, det er i virkeligheden måske ikke det rigtige ord at bruge,"
+    },
+    {
+      "start": 114.0,
+      "end": 118.0,
+      "text": " fordi vi tracker korrekt, vi tilskriver for meget."
+    },
+    {
+      "start": 118.0,
+      "end": 121.0,
+      "text": " Så det er ikke et spørgsmål om, at du måler konverteringer, der ikke er sket her."
+    },
+    {
+      "start": 121.0,
+      "end": 124.0,
+      "text": " Det er et spørgsmål om, at du siger, at det var Google Ads, der skabte den her konvertering."
+    },
+    {
+      "start": 124.0,
+      "end": 129.0,
+      "text": " Fordi lad os sige, at man sælger donut-hunde-webshops eller hundehuler,"
+    },
+    {
+      "start": 129.0,
+      "end": 134.0,
+      "text": " som vi jo fandt ud af i sidste episode, også var taget af domæne, så vi løber videre efter en god forretningsidag."
+    },
+    {
+      "start": 134.0,
+      "end": 138.0,
+      "text": " Vil du køre en 90-dages tilskrivningsperiode på salget af hundehuler?"
+    },
+    {
+      "start": 138.0,
+      "end": 145.0,
+      "text": " Ej, absolut ikke. Altså, jeg antager, at prisen der ligger på mellem 300 til måske 2 kroner, hvis det virkelig, virkelig er."
+    },
+    {
+      "start": 145.0,
+      "end": 150.0,
+      "text": " 1000 kroner skal du virkelig kunne lide din hund, altså så står den bedre, end jeg gør nu."
+    },
+    {
+      "start": 150.0,
+      "end": 155.0,
+      "text": " Jeg ved, Laura derhjemme, hun kunne altså godt have fundet på at bruge 1000 kroner på det."
+    },
+    {
+      "start": 156.0,
+      "end": 160.0,
+      "text": " Hvem derhjemme ved Laura lige nu, er det hunden, eller er det dig?"
+    },
+    {
+      "start": 160.0,
+      "end": 163.0,
+      "text": " Ja, der er du fuldstændig rettet."
+    },
+    {
+      "start": 163.0,
+      "end": 170.0,
+      "text": " Men hvor man altid er, 90 dage, det er alt for lang tid, især med et produkt, som er relativt impulsdrevet."
+    },
+    {
+      "start": 170.0,
+      "end": 173.0,
+      "text": " Altså, der vil jeg sætte den til max, max, max 30 dage."
+    },
+    {
+      "start": 173.0,
+      "end": 178.0,
+      "text": " Ja, det er jo ikke, fordi du sådan skal gå og overveje i 7 dage, om du skal købe den der hundehule til 300 kroner, du har set på TikTok."
+    },
+    {
+      "start": 178.0,
+      "end": 184.0,
+      "text": " Altså, det gør du nu, eller så gør du ikke. Så det er jo sådan en, hvor 95% af konverteringen, det sker inden for 4-7 timer, sikkert et par timer i virkeligheden."
+    },
+    {
+      "start": 184.0,
+      "end": 190.0,
+      "text": " Og så har du også eksempler i den anden retning. Hvis man arbejder med for eksempel meget lange forbrugskoder, dyre forbrugskoder."
+    },
+    {
+      "start": 190.0,
+      "end": 195.0,
+      "text": " Lad os sige til os selv, at køkkenet, det kan godt tage 90 dage at beslutte sig for, om du vil købe et køkken."
+    },
+    {
+      "start": 195.0,
+      "end": 198.0,
+      "text": " Så der synes jeg godt, at man i højere grad kan retfærdiggøre, at du kører en længere tilskrivning."
+    },
+    {
+      "start": 198.0,
+      "end": 203.0,
+      "text": " Men for langt største delen af dansk e-kom, der burde man køre en kortere tilskrivningsvindue."
+    },
+    {
+      "start": 203.0,
+      "end": 210.0,
+      "text": " Og hvis jeg husker rigtigt, så har man mulighed for, når man går ind og vælger mellem 1, 7, 30, 60 og 90, tror jeg det er."
+    },
+    {
+      "start": 210.0,
+      "end": 213.0,
+      "text": " Hvad vil være din standardløsning i forhold til et tilskrivningsvindue?"
+    },
+    {
+      "start": 213.0,
+      "end": 218.0,
+      "text": " Måske delt op på, hvor meget vil du sætte den på klik og hvor meget vil du sætte den på visning?"
+    },
+    {
+      "start": 218.0,
+      "end": 226.0,
+      "text": " Altså det mest gengældte, det vi oftest plejer at gøre, det er 30 dage ved klik og 3 dage ved visning."
+    },
+    {
+      "start": 226.0,
+      "end": 229.0,
+      "text": " Nu er visning lidt sjov i Google Ads regi."
+    },
+    {
+      "start": 229.0,
+      "end": 235.0,
+      "text": " Den er også blevet splittet op for nylig. Nu er der engageret visning og ikke engageret visning, I guess."
+    },
+    {
+      "start": 235.0,
+      "end": 239.0,
+      "text": " Lige præcis. Men 3 dage, det her plejer vi at køre med, og så 30 dage for klikkonvertering."
+    },
+    {
+      "start": 239.0,
+      "end": 245.0,
+      "text": " Og jeg var faktisk lige inde her til morgen og forsøgte mig med en tilfældig konto og ind og prøve at redigere i det her vindue her."
+    },
+    {
+      "start": 245.0,
+      "end": 250.0,
+      "text": " Og det var helt rart. Engang kunne man nemlig kun vælge de her standard datointervaller."
+    },
+    {
+      "start": 250.0,
+      "end": 252.0,
+      "text": " Jeg kan ikke huske, hvad det var. Om det var 1 dag, 7 dage osv."
+    },
+    {
+      "start": 252.0,
+      "end": 256.0,
+      "text": " Men nu kan man faktisk også, så længe man skriver hele dage, selv indsætte den."
+    },
+    {
+      "start": 256.0,
+      "end": 259.0,
+      "text": " Så der er rimelig stor frihed nu til selv at kunne indstille den."
+    },
+    {
+      "start": 259.0,
+      "end": 263.0,
+      "text": " Vi siger ikke, at man nødvendigvis behøver at gå ind og ændre sine nuværende,"
+    },
+    {
+      "start": 263.0,
+      "end": 268.0,
+      "text": " men det er bare en vigtig snak eller diskussion at have, enten med sig selv, hvis man selv sidder med det her,"
+    },
+    {
+      "start": 268.0,
+      "end": 271.0,
+      "text": " eller med det bureau, man nogle gange sidder og arbejder sammen med."
+    },
+    {
+      "start": 271.0,
+      "end": 275.0,
+      "text": " Har man nu sat det korrekt, eller i hvert fald det, man antager er mest korrekt?"
+    },
+    {
+      "start": 275.0,
+      "end": 278.0,
+      "text": " Og det er jo også et spørgsmål om, hvor konservativ man ønsker at være i det her."
+    },
+    {
+      "start": 278.0,
+      "end": 284.0,
+      "text": " Fordi det er klart, hvis man sætter den på 30 eller måske endda 90 dage, så kommer man også til at tilskrive flere konverteringer."
+    },
+    {
+      "start": 284.0,
+      "end": 288.0,
+      "text": " Der er simpelthen flere, man fanger ind i ens net, jo større nettet det bliver."
+    },
+    {
+      "start": 288.0,
+      "end": 291.0,
+      "text": " Og det kan man jo synes er fint."
+    },
+    {
+      "start": 291.0,
+      "end": 296.0,
+      "text": " Udfordringen er jo så, at man kan komme til at tro, at ens annoncering virker bedre, end den i virkeligheden gør."
+    },
+    {
+      "start": 296.0,
+      "end": 300.0,
+      "text": " Fordi jo længere en periode, man kører det her tilskrivningsmindue i, jo større er risikoen for,"
+    },
+    {
+      "start": 300.0,
+      "end": 303.0,
+      "text": " at du kommer til at tilskrive konverteringer, som kommer fra nogle andre kilder."
+    },
+    {
+      "start": 303.0,
+      "end": 308.0,
+      "text": " Fordi som du sagde til at starte med, lad os sige, du har klikket på en Google Ads annonce for din hundehule for 88 dage siden,"
+    },
+    {
+      "start": 308.0,
+      "end": 311.0,
+      "text": " og du ser 100 annoncer på Facebook om dagen, i øvrigt en gennemsnit."
+    },
+    {
+      "start": 311.0,
+      "end": 315.0,
+      "text": " Nej, du kan nu også se mange annoncer for alle mulige ting på de 88 dage."
+    },
+    {
+      "start": 315.0,
+      "end": 322.0,
+      "text": " Altså jeg kan slet ikke forestille mig, hvor mange impressions du får på YouTube og Facebook og TikTok og bus-annoncer og alt muligt i mellemtiden."
+    },
+    {
+      "start": 322.0,
+      "end": 328.0,
+      "text": " Så det at gå ind og sige, at det er 100% den her Google Ads, det klik for 88 dage siden, er jo fuldstændig sindssygt."
+    },
+    {
+      "start": 328.0,
+      "end": 329.0,
+      "text": " Og styrer ens forretning efter."
+    },
+    {
+      "start": 329.0,
+      "end": 331.0,
+      "text": " Altså jeg kan give dig et rigtig grældt eksempel."
+    },
+    {
+      "start": 331.0,
+      "end": 335.0,
+      "text": " For nogle år siden, der var jeg ude ved en ret stor dansk virksomhed, som kørte meget display-annoncering."
+    },
+    {
+      "start": 335.0,
+      "end": 339.0,
+      "text": " Og jeg var hyret ind til at lave sådan et audit af alle deres kanaler, og brugte deres penge fornuftigt."
+    },
+    {
+      "start": 339.0,
+      "end": 343.0,
+      "text": " Og en af de ting, vi sådan lagde mærke til, var i en meget, meget stor del af deres budget,"
+    },
+    {
+      "start": 343.0,
+      "end": 345.0,
+      "text": " det gik til display og programmatik."
+    },
+    {
+      "start": 345.0,
+      "end": 347.0,
+      "text": " Det i sig selv, det kan være fint nok."
+    },
+    {
+      "start": 347.0,
+      "end": 351.0,
+      "text": " Men de sagde sådan, åh det er virkelig en god forretning det her, vi kan virkelig se det bare komme til."
+    },
+    {
+      "start": 351.0,
+      "end": 355.0,
+      "text": " Og så bliver jeg jo øjeblikkeligt skeptisk, hvis der er nogen, der siger display, det fungerer godt."
+    },
+    {
+      "start": 356.0,
+      "end": 358.0,
+      "text": " Og det er ikke fordi, man ikke får kørt med display."
+    },
+    {
+      "start": 358.0,
+      "end": 361.0,
+      "text": " Man skal bare være oprigtig med sig selv om, at det her er nogle penge, du bruger,"
+    },
+    {
+      "start": 361.0,
+      "end": 363.0,
+      "text": " hvor du måske ikke kommer til at måle særlig meget."
+    },
+    {
+      "start": 363.0,
+      "end": 365.0,
+      "text": " Men de insisterede på, at det her er en fucking god forretning."
+    },
+    {
+      "start": 365.0,
+      "end": 369.0,
+      "text": " Så det at gå ind og tjekke, det er, hvad er tilskrivnings-vinduet på deres display-annoncering."
+    },
+    {
+      "start": 369.0,
+      "end": 372.0,
+      "text": " Og den stod på en tilskrivning, der hedder 90-90-90."
+    },
+    {
+      "start": 372.0,
+      "end": 379.0,
+      "text": " Det vil sige 90 dage efter klik, 90 dage efter engageret visning og 90 dage efter visning."
+    },
+    {
+      "start": 379.0,
+      "end": 385.0,
+      "text": " Så du skulle bare se en random display-annonce, og så tilskrev Google Ads al omsætning fra 90 dage til virksomheden."
+    },
+    {
+      "start": 385.0,
+      "end": 390.0,
+      "text": " Og jeg kan fortælle dig, Google Ads tilskrev 97% af virksomhedens samlede omsætning til display-annoncering."
+    },
+    {
+      "start": 390.0,
+      "end": 392.0,
+      "text": " Nej, nej, nej, nej."
+    },
+    {
+      "start": 394.0,
+      "end": 396.0,
+      "text": " Og det var også fordi, de brugte virkelig mange penge på display."
+    },
+    {
+      "start": 396.0,
+      "end": 398.0,
+      "text": " Så det var bare ude at ramme hele Danmark på ekstrabladet."
+    },
+    {
+      "start": 398.0,
+      "end": 404.0,
+      "text": " Og så er der bare nogen, der køber ind for de næste 30 eller 90 dage, fordi det var en stor virksomhed, og de holdt en høj frekvens osv."
+    },
+    {
+      "start": 404.0,
+      "end": 408.0,
+      "text": " Så hvis det lykkes der at tage nogle virkelig billige og virkelig dårlige placeringer,"
+    },
+    {
+      "start": 408.0,
+      "end": 412.0,
+      "text": " og bare banke virkelig mange annoncer ud til dem og køre et 90-dages tilskrivnings-vindue,"
+    },
+    {
+      "start": 412.0,
+      "end": 414.0,
+      "text": " så kommer du til at tilskrive hele din omsætning."
+    },
+    {
+      "start": 414.0,
+      "end": 418.0,
+      "text": " Men det er jo ikke fordi, de ville falde 97% i omsætning, hvis de stoppede deres display-annoncering."
+    },
+    {
+      "start": 418.0,
+      "end": 420.0,
+      "text": " De tror faktisk ikke, de ville falde overhovedet."
+    },
+    {
+      "start": 420.0,
+      "end": 423.0,
+      "text": " Og det her er et ekstremt eksempel, men det illustrerer, hvor galt det kan gå,"
+    },
+    {
+      "start": 423.0,
+      "end": 427.0,
+      "text": " at man optimerer ens kampagner efter noget, der ikke er rigtigt."
+    },
+    {
+      "start": 427.0,
+      "end": 429.0,
+      "text": " Og det er jo rigtigt, at de havde fået omsætningen."
+    },
+    {
+      "start": 429.0,
+      "end": 433.0,
+      "text": " Det er bare helt oplagt forkert, at den stammede fra de her kampagner."
+    },
+    {
+      "start": 433.0,
+      "end": 442.0,
+      "text": " Hvornår vil du gå ind og arbejde med endnu kortere vinduer, fx 7 eller måske endda 1?"
+    },
+    {
+      "start": 442.0,
+      "end": 449.0,
+      "text": " Det vil jeg gøre, hvis jeg ud fra kontoren kan se, at de søgninger, der nu engang bliver foretaget og der bliver konverteret på,"
+    },
+    {
+      "start": 449.0,
+      "end": 452.0,
+      "text": " er relativt impulsdrevne."
+    },
+    {
+      "start": 452.0,
+      "end": 459.0,
+      "text": " Det, der er fantastisk ved Google Ads, er, at vi får noget data på, hvad kunderne har søgt på, lige op til, at de køber."
+    },
+    {
+      "start": 459.0,
+      "end": 466.0,
+      "text": " Og hvis jeg kan se her, at det, de søger efter, er så købsintentet, at det ikke er noget, de går og venter på i 90 dage,"
+    },
+    {
+      "start": 466.0,
+      "end": 468.0,
+      "text": " så kan jeg godt finde på at sætte det ned på 7 dage."
+    },
+    {
+      "start": 468.0,
+      "end": 471.0,
+      "text": " Men jeg synes, at det her handler også om at tage en strategisk beslutning."
+    },
+    {
+      "start": 471.0,
+      "end": 475.0,
+      "text": " Fordi hvis man starter ud med en helt ny Google Ads-konto, kan man godt have noget is i maven og sige,"
+    },
+    {
+      "start": 475.0,
+      "end": 479.0,
+      "text": " at det kan godt være, at de tal inde i Google Ads ikke helt stemmer."
+    },
+    {
+      "start": 479.0,
+      "end": 484.0,
+      "text": " Jeg vil gerne give algoritmen så meget at arbejde med som muligt, fordi i sidste ende, som du også sagde før,"
+    },
+    {
+      "start": 484.0,
+      "end": 489.0,
+      "text": " de her personer, der konverterer, de er jo rent faktisk konverteret, og de har også haft et touchpoint med Google Ads,"
+    },
+    {
+      "start": 489.0,
+      "end": 491.0,
+      "text": " så vi vil jo gerne få til Google Ads."
+    },
+    {
+      "start": 491.0,
+      "end": 495.0,
+      "text": " Det her er jo faktisk en god kunde. Du skal sgu ikke tage fuld tilskrivning."
+    },
+    {
+      "start": 495.0,
+      "end": 499.0,
+      "text": " Men det giver jeg dig lige lov til i en periode, det kan være det næste halve år,"
+    },
+    {
+      "start": 499.0,
+      "end": 504.0,
+      "text": " for ligesom at få sat maskinen og algoritmen i gang, og på den måde kan man også træffe nogle strategiske valg"
+    },
+    {
+      "start": 504.0,
+      "end": 506.0,
+      "text": " ud fra den her konverteringsvindue."
+    },
+    {
+      "start": 506.0,
+      "end": 509.0,
+      "text": " Men der skal man bare have is i maven og ikke sidde og tælle sammen og sige,"
+    },
+    {
+      "start": 509.0,
+      "end": 512.0,
+      "text": " at Google Ads siger, at jeg har fået 10 konverteringer, og Meta siger, at jeg har fået 15."
+    },
+    {
+      "start": 512.0,
+      "end": 516.0,
+      "text": " Det er 25 i alt, men jeg har altså kun fået 17 konverteringer på min shop."
+    },
+    {
+      "start": 516.0,
+      "end": 518.0,
+      "text": " Der er noget galt her. Det skal man kunne leve med."
+    },
+    {
+      "start": 518.0,
+      "end": 523.0,
+      "text": " Ja, og det er faktisk en rigtig god point, fordi man kan se fordelen ved at køre i et længere tilskrivningsvindue,"
+    },
+    {
+      "start": 523.0,
+      "end": 526.0,
+      "text": " som du kommer ind på her, det er, at du får mere data, og du er tilladet af Google at bruge et bredere spektrum"
+    },
+    {
+      "start": 526.0,
+      "end": 529.0,
+      "text": " af datasignaler til at optimere din levering, og det kan give bedre resultater."
+    },
+    {
+      "start": 530.0,
+      "end": 534.0,
+      "text": " Du skal bare være sofistikeret nok til, at du ikke går ind og indstiller dit budget efter det,"
+    },
+    {
+      "start": 534.0,
+      "end": 537.0,
+      "text": " fordi så er der stor risiko for, at du kommer til at bruge for mange penge på en kanal,"
+    },
+    {
+      "start": 537.0,
+      "end": 538.0,
+      "text": " der i virkeligheden ikke leverer det, du skal."
+    },
+    {
+      "start": 538.0,
+      "end": 542.0,
+      "text": " Og det her er jo et spørgsmål om overatropøring, hvor hvis man tager alle ens marketingkanaler,"
+    },
+    {
+      "start": 542.0,
+      "end": 545.0,
+      "text": " vil de ofte give en større omsætning, end man har fået i virkeligheden,"
+    },
+    {
+      "start": 545.0,
+      "end": 549.0,
+      "text": " fordi brugerne jo både bruger Google og Facebook og TikTok og YouTube og alle mulige andre ting,"
+    },
+    {
+      "start": 549.0,
+      "end": 552.0,
+      "text": " så platformene kan komme til at tilskrive værdi for den samme konvertering,"
+    },
+    {
+      "start": 552.0,
+      "end": 556.0,
+      "text": " især hvis du tilskriver visningskonverteringer, hvor det her er et stort problem."
+    },
+    {
+      "start": 556.0,
+      "end": 559.0,
+      "text": " Men det er en rigtig god point, at det ikke nødvendigvis er dumt,"
+    },
+    {
+      "start": 559.0,
+      "end": 561.0,
+      "text": " fordi du tillader en større datatemming, der optimerer leveringen ud fra."
+    },
+    {
+      "start": 561.0,
+      "end": 563.0,
+      "text": " Du skal fandme bare være sofistikeret i din måling."
+    },
+    {
+      "start": 563.0,
+      "end": 565.0,
+      "text": " Ja, du skal være isomeret."
+    },
+    {
+      "start": 565.0,
+      "end": 567.0,
+      "text": " Ja, og stringent."
+    },
+    {
+      "start": 567.0,
+      "end": 570.0,
+      "text": " Du skal kunne se en høj roas og vide, at den er ikke så høj i virkeligheden."
+    },
+    {
+      "start": 570.0,
+      "end": 572.0,
+      "text": " Så vi skruer ikke op for det her."
+    },
+    {
+      "start": 572.0,
+      "end": 575.0,
+      "text": " Og det kommer også tilbage til en generel anbefaling for mig, det er, at man ikke måler ens,"
+    },
+    {
+      "start": 575.0,
+      "end": 578.0,
+      "text": " altså man sætter ikke ens marketingbudget efter platformene."
+    },
+    {
+      "start": 578.0,
+      "end": 581.0,
+      "text": " Man skal sætte ens marketingbudget efter et eller andet single source of truth dashboard,"
+    },
+    {
+      "start": 581.0,
+      "end": 583.0,
+      "text": " og det kan være, at man bygger det i Google Logo Studio, som vi gør,"
+    },
+    {
+      "start": 583.0,
+      "end": 585.0,
+      "text": " eller man bruger nogle af de apps, der er på markedet til det,"
+    },
+    {
+      "start": 585.0,
+      "end": 588.0,
+      "text": " som for eksempel Profit Matrix, Reaktion, Triple Real og så videre."
+    },
+    {
+      "start": 588.0,
+      "end": 591.0,
+      "text": " Det er, hvad man lige har lyst til og hvor mange penge, man har lyst til at bruge på det."
+    },
+    {
+      "start": 591.0,
+      "end": 594.0,
+      "text": " Men at man bruger et eller andet single source of truth til at sætte et marketingbudget,"
+    },
+    {
+      "start": 594.0,
+      "end": 597.0,
+      "text": " der indtager alle omkostninger og alle omsætning,"
+    },
+    {
+      "start": 597.0,
+      "end": 600.0,
+      "text": " men det er de rigtige tal, og ikke går ud fra platformene,"
+    },
+    {
+      "start": 600.0,
+      "end": 602.0,
+      "text": " fordi så er det nemt at komme til at overtubere."
+    },
+    {
+      "start": 602.0,
+      "end": 605.0,
+      "text": " Så platformene bruger man til at finde ud af, hvilke kampagner skal have allokeret det budget,"
+    },
+    {
+      "start": 605.0,
+      "end": 610.0,
+      "text": " man har defineret ved at kigge overordnet på det, og ikke ved i den enkelte platform."
+    }
+  ]
+}

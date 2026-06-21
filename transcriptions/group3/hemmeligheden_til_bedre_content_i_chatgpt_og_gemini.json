@@ -1,0 +1,1391 @@
+{
+  "title": "Hemmeligheden til bedre content i ChatGPT og Gemini",
+  "url": "https://www.youtube.com/watch?v=QcJ_pJWTuII",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 747.4,
+  "transcribed_at": "2026-04-16T14:13:49.065593+00:00",
+  "full_text": "Christian, halvstand. I den her episode, der skal vi snakke om et af de mest undervurderede, eller i hvert fald underbrugte, hvis man kan sige det. Det er værktøjer, og jeg kommer ikke til at sige underkommercialiserede. Du ved det. Vi kommer til at snakke om et værktøj, man burde bruge meget mere i både ChatGPT, Klort, Gemini og alle LNM'erne. Vi kommer til at snakke om det, som ChatGPT kalder for custom-GPT'er, og som Gemini kalder for gems osv. Christian, kan du ikke starte med at give et eksempel på en custom-GPT, du har bygget, og hvad det rent faktisk er? At bygge det er måske så meget sagt. Den er supersimpel, men det er faktisk en, jeg bruger i forbindelse med marketing for. Vi skal jo hver uge til mandagsepisoderne finde tre relevante nyheder, og dem finder vi godt nok selv. Jeg har fået lavet en custom-GPT, der hjælper mig med at opsummere på dansk 3-4 linjer ud fra det link, jeg indsætter. Så jeg skal faktisk bare indsætte linket i ChatGPT, ikke skrive noget, ikke gøre noget, og så spytter den et lille referat ud i måden, hvorpå jeg gerne vil have den skal gøre det på. Så det er et meget lavpraktisk eksempel på noget, som jeg bruger, og jeg bruger det rigtig meget. Ja, og det er nemlig et super godt eksempel, fordi hvis du bare lagde et link ind i ChatGPT uden at prompte andet, så ville ChatGPT sige, fedt link, hvad kan jeg hjælpe med? Men her, når du har bygget en custom-GPT, som i øvrigt bare hedder AGPT, altså en GPT i dag, de har sådan fjernet custom, jamen så ved den, fordi du har sådan pre-prompted den, at når der kommer et link, den skal gå ind og læse det og opsummere det i den stil, som vi normalt bruger det i marketing på det. Og det er det, der er fedt ved dem, for hvorfor er det, at du bruger en custom-GPT til det her, i stedet for bare at prompte ChatGPT i forfra? Fordi det er en repetitiv opgave, altså det er hver uge, jeg skal gøre det her, så kunne jeg godt spare en del tid på årlig basis ved at gøre det på den måde her. Og det er bare sjovere, end at skulle sidde og lave sin prompt om og om og om igen. Ja, og en af de ting, vi jo snakker meget med vores kunder om, det er, hvordan man får bedre content ud af AI, og jeg synes, det her er en af de allerbedste måder at gøre det på. Så lad os lige gå igennem, hvordan man rent faktisk laver en custom-GPT. Så det, der er tanken, det er, at du kan gå ind på ChatGPT, eller Gemini, eller hvad det nu gør. Nu gør vi det lige med ChatGPT her, hvor du går ind i menuen til venstre og ser GPTs, så det hedder bare GPTS, GPTs. Så kan du se sådan en række predefinerede GPTs, så du kan vælge sådan nogle andre har lavet. Så der er en, der hedder WriteFromE, ScholarGPT, Konsensus osv., det er vi ikke interesserede i. Og op i højre hjørne, der kan du klikke Create, og så har du mulighed for at lave din egen. Og her, der kan du så definere fra ChatGPT, hvad det er, du gerne vil lave. Og så kan du sige, det her er min GPT til at lave fantastiske produkttekster til min webshop. Til at hjælpe mig med at lave udkast til nyhedsbrev i min hopspot installation. Det her er min GPT til at lave LinkedIn-opslag i min tone og stil, og med de ting, jeg rent faktisk mener. Eller hvad du nu gerne vil bruge den til. Du kan give den et navn, en beskrivelse og nogle custom-instruktioner. Og du kan også give den knowledge, det vil sige oplovede filer. Og det her er en af de mest undervurderede ting, underkommercialiserede om jeg må. Ting ved AI, det der med at oplode f.eks. pdf-filer, eller regneark, eller noget andet, som giver AI noget kontekst. Du har tidligere sendt mig et mega fedt tweet, der havde, at vi skulle gå væk fra prompt engineering, men overgå til kontekst engineering. Hvorfor er det konteksten er så vigtig for at få gode svar ud af AI? Jamen konteksten gør bare, at den har noget at læne sig op af. Så du giver AI en kasse, den kan være kreativ indenfor, men du har også rammet spillepladen ind for den. Og det gør den bare langt bedre, når du giver den en kontekst. Altså så ved den også, hvor den skal starte og slutte hen. Hvorimod, at hvis det er bare et helt bredt prompt, hurra det kan gå mange veje. Det er der, hvor man begynder at få AI-content, der ligner AI-content. Hvor hvis du har oplovede kontekst, som f.eks. eksempler på de nyhedsbrev, du tidligere har sendt ud, eller analyse, du har lavet, eller hvad du vil bruge en custom GPT til, så bliver svaret også bare meget bedre. Og efter det, så har du mulighed for at vælge, om den f.eks. må gå online og søge, hvilket jo er nødvendigt i den GPT, vi har lavet til Marketingpod. Og det er relativt lige til det, man skal gøre, hvis man gør det på Gemini, hvis man sidder i Google Workspace. Det er stort set det samme. Giv den et navn, giv den en vejledning, noget viden, hvor du kan uploade osv. Og så har du faktisk bygget en GPT, eller en gem, som det hedder på Gemini. Og når vi har lyst til at lave en hel episode om det, så er det fordi, jeg oplever rigtig mange, når de bruger AI, så går de faktisk bare ind på forsiden af ChatGPT, og så skriver de de ting, de har brug for at få lavet. Men jo mere tid, man bruger på at lave et godt prompt, jo bedre resultater får man også tilbage i den anden ende. Så når jeg sidder i weekenden og laver de opgaver, der kræver noget koncentration, hvor jeg skal lave en større mail-send-analyse eller præsentation, eller hvad det skal være, de prompts, jeg laver til f.eks. Manus, som jeg bruger meget, jeg kan godt bruge 10 eller 15 minutter på at lave et prompt, og bruge alle 4.000 tegn og uploade 3-4-5 forskellige filer og links og alle mulige andre ting, og så bruger den måske 10 eller 15 minutter på at svare, men hold da op, jeg svarer meget tid. Men det er et typisk opgave, jeg laver en gang, en unik præsentation eller et eller andet af den stil, hvor i det øjeblik, du begynder at sidde med et repetitivt opgave, så er Custom GPT'ere bare fantastiske. Hvad har du ellers af eksempler på sådan nogle folk, der har brugt det? Underservice mails, og den er interessant. Der er mange, der bruger ekterne tools dertil, men hvis vi lige bliver i Custom GPT, det her med at kunne uploade løbende konspondanser, gode konspondanser, gode eksempler på kundeservice mails, på besvarelser, FAQ'er osv., gør bare, at man ved hjælp af ChatGPT netop kan svare markant hurtigere og markant bedre, end hvad man kunne uden. Alternativet havde været, at man skulle sidde og prompte sig til det. Nej, det er helt græde alternativet. Det var, at man skulle starte selv forfra, og skrive hver enkelt mail selv. Mellemsteppet er jo så, at man selv skal prompte sig ud af det hver gang. Det tredje her, det er jo at give den noget kontekst, give den gode eksempler på tidligere, måske hvordan man gerne vil svare sine kunder, hvad er der, der er vigtigt, hvad er det for nogle problemstillinger, hvordan løser vi dem normalt set. Det er der, hvor det begynder at blive rigtig sjovt. Jeg synes også, at en sæve på en webshop er et godt eksempel, fordi to eksempler, som jeg ved mange af vores kunder bygger, det er tilhindelsesvis produkttekster og kategoritekster, hvor de bare feeder eksempler på andre produkter og kategoritekster, de har lavet, og hvordan det normalt ser ud, og information om virksomheden, det kunne være sådan noget med, her er vores leveringsvilkår, her er vores fragtvilkår, her er vores betalingsvilkår, her er vores returvilkår, her er noget om, hvornår virksomheden blev startet og stiftet og alle de der ting, som jo giver AI en masse kontekst til at lave et godt svar, men som du ikke ville lave normalt, hvis du bare lige skal bruge en 200 års produktbeskrivelse. Så sidder du ikke og bruger 20 minutter på at lave et super grundigt prompt, fordi så er vi der, hvor du faktisk bare kunne have skrevet det selv, og det havde været nemmere. Jeg synes produkttekster, kategoritekster er et super eksempel. Jeg ved, i BSUB er der mange af vores kunder, der bruger det til at lave LinkedIn posts, og det synes jeg også er fedt, selvom man skal passe på med at lave LinkedIn posts, men det siger jeg kun, hvis du er dårlig til at bruge AI. Så det at lave en custom GPT, det kan jo sagtens give mening. Intern vidensdatabase i virksomheder er også et godt eksempel, hvor man hele tiden beriger den her custom GPT, så man som medarbejder kan gå ind og stille spørgsmålet derinde, og så trækker den ligesom fra de interne ressourcer, med at man måske også tillader den at søge på nettet, således at hvis man skal have en guide til at opsætte et eller andet i et tool, der kan det måske være bedre mening, at man henter guiden ind udefra, hvorimod at meget specifikke spørgsmål, som er meget virksomhedskritiske, og som er intern viden, så trækker den for eksempel fra en medarbejderhåndbog, eller en PDF, som man har oplottet. Man har også mulighed for at dele de her custom GPT'er, så den er ikke delbar som udgangspunkt, men der findes et link, når du opretter din custom GPT, hvor du kan definere, om den her rent faktisk skal kunne deles, eller ej. Hvis du slår det til, at den kan deles, så vil andre i virksomheden også kunne bruge din custom GPT. Hvis du vil lave noget, der minder om en custom GPT, men som ikke kan deles, så hedder det også i OpenAI for et projekt, så der er nogen, der har spurgt, hvad er forskellingen på et projekt og en custom GPT? Forskellen er, at et projekt kan du ikke dele, og en custom GPT kan du godt dele, hvis du gerne vil det. Så på den måde, hvis der er en i virksomheden, der har lavet noget mega fedt med en custom GPT, og den er bare promptet lige som den skal, og den har alle konteksten, men alle har rent faktisk brug for det her, så kan den altså godt deles i virkeligheden i virksomheden, så andre også kan få gavn af den. Halvstanden. Jeg kan huske, lige i starten, da man snakkede rigtig, rigtig meget omkring de her custom GPTs, der var der jo snak om, at det her bliver sådan en hel forretningsben for mange, altså at sælge deres custom GPTs. Har du nogen idé om, er det blevet til noget, eller er det mere noget, man deler gratis ud som sådan en lead magnet? Fordi jeg har ikke selv personligt været ude og købe mig til det, men jeg ved, der er store libraries med det, og det giver jo god mening, fordi du taber jo ind i den viden som vedkommende, der har siddet og lavet prompten og givet den kontekst og så videre. Ja. Det har jeg faktisk ikke, men jeg tror det er fordi, at custom GPTs er også sådan lidt et skridt på vej mod workflows og agenter, og workflows og agenter kan vi jo godt se blive købt og solgt. Så det er sådan en god segway til, hvornår en custom GPT så ikke nok, fordi en custom GPT vil være meget bedre, end at sidde og prompte forfra hver eneste gang. Men udfordringen ved en custom GPT eller en gem, er, at du sidder faktisk stadig og kopierer tekst fra det ene vindue og over i det andet vindue. Så du har godt nok sparet en masse tid i forhold til at få lavet dit output, men du sidder stadig manuelt og håndterer de produkttekster eller LinkedIn-opslag, eller kundeservice-mails, eller hvad du nu skulle lave, én ad gangen, og det sætter jo nogle begrænsninger for, hvor hurtigt du kan være på kontrol-C, kontrol-V. Så det skridtede videre, det er jo faktisk at lægge det her ind i et workflow, eller en AI-agent, og det er jo det, vi arbejder rigtig meget med, også i Obsidian, i for eksempel et værktøj som make.com, hvor vi sætter workflows op, og workflows det er jo bare, hvor du har et defineret start- og sluttidspunkt, og så sker der nogle ting i midten, man ikke kan fravige, eller deciderede AI-agenter, som laver arbejde for dig. Og jeg har faktisk et eksempel, som jeg har lavet i et LinkedIn-opslag om, her den anden dag, som jeg selvfølgelig har skrevet i hånden. Det holder jeg fast på, som gamle mand jeg er. Men der har vi lavet en AI-agent i Make, for en af vores kunder, og den her AI-agent, det kunne måske ikke godt have været en custom-GPT, fordi det den gør, det er to gange om ugen, så går den ind og trækker data ud af en Facebook-konto, der bruger ret mange penge. Så har den en masse information, altså de her pre-prompts, i forhold til den her virksomhed, hvad er deres målsætninger, hvad må prisen være for den ene kampagne, hvad må prisen være for den anden kampagne, hvad er godt, hvad er skidt. Og så alle de her informationer, når den så trækker dataen ud to gange om ugen, så analyserer og behandler den den data, og sender en besked ind i en Slack-kanal, og siger, er vi over eller under target. Og så hvis man klikker på kommentaren, så får man nogle anbefalinger til, hvad man skal gøre for at optimere kampagnerne. Og så kan vi så vælge, om vi vil implementere de anbefalinger. Nogle gange er de rigtig gode, nogle gange er de rigtig dårlige, så der skal man stadig have en person, der kender virksomheden og ved, hvad de laver. Men vi har bare taget enormt meget grunt work, i form af analysering, og sådan at være sikre på, at vi opdager, hvis der er en kampagne, der går den ene eller den anden AI, ved at sætte den her agent op, der så kører mandag og torsdag. Og det her, det kunne godt have været en GPT. Det her, det kunne godt have været en custom GPT, med de samme instrukser og prompts. Udfordringen er, så skulle vi selv have lavet et udtræk, fra kontoen mandag og torsdag, lagt ind og ventet, og nu får vi det bare serveret, fordi det er en AI-agent, der er lagt ind i et workflow. Så jeg tror måske, det ville være min hypotese, man begyndte aldrig rigtigt at handle custom GPTs, fordi lige pludselig kunne du lægge dem ind i workflows, og så er det dem, vi køber i stedet for. Ja, og i princippet, hvis man skulle tage fat i det eksempel der, og ligge det ind over vores custom GPT til nyhederne, så skulle vi jo egentlig have en agent, eller et workflow, enten agent eller et workflow, som ligger og crawler nyhederne, vælger dem, der er relevante for MarketingPod, tager dem ind og laver det her resume her, i stedet for at vi lige nu skal lægge dem ind. Så skulle vi jo faktisk have det ind i arket, fordi vi har et 401 sider langt Google Docs dokument, der hedder marketingpod.dk, hvor vi lægger alle vores noter ind, siden den første episode, og du tager jo faktisk og kopierer outputtet fra din custom GPT, og lægger det manuelt ind i vores ark. Så hvis man skulle automatisere de tre sekunder væk, og jeg gider ikke opsætte den automation, så vil du selv råde med, men så skulle vi faktisk have en agent, der måske både fandt nyhederne og lagde dem ind, fordi lige nu der kopierer du nyheden ind for et resultat, og kopierer resultatet ind i vores ark, og det er det mindste problem, jeg kunne forestille mig nogensinde, at vi kunne løse for dig. But nevertheless, så kunne det have blevet et workflow eller en agent, hvis vi gider opdage det. Du har til gengæld lige givet mig en god idé. Nu havde vi i mandagens episode, der snakkede vi bl.a. om opsættelse fra Alex Ramosi. En eller anden dag, tror jeg ikke, vi kan sælge hele det her notice ark her, når det engang bliver et plus tusind sider. Hvem skulle købe det? Det ved jeg heller ikke. Jeg tænker, så skulle det være AI, der ville crawl i for at lære et eller andet, men vi har lavet det i Google Docs, så Gemini har det allerede. Jeg er sikker på, at Google ejer alle vores dokumenter i forvejen. Det er en dårlig idé. Skriv til os, hvis du vil købe Marketingpods masternode dokument 400 sider. Det koster kun 6.000 dollars, og tusind tak, fordi du ledte med til dagens episode.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 4.0,
+      "text": " Christian, halvstand."
+    },
+    {
+      "start": 4.0,
+      "end": 10.0,
+      "text": " I den her episode, der skal vi snakke om et af de mest undervurderede, eller i hvert fald underbrugte, hvis man kan sige det."
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": " Det er værktøjer, og jeg kommer ikke til at sige underkommercialiserede."
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": " Du ved det."
+    },
+    {
+      "start": 15.0,
+      "end": 23.0,
+      "text": " Vi kommer til at snakke om et værktøj, man burde bruge meget mere i både ChatGPT, Klort, Gemini og alle LNM'erne."
+    },
+    {
+      "start": 23.0,
+      "end": 30.0,
+      "text": " Vi kommer til at snakke om det, som ChatGPT kalder for custom-GPT'er, og som Gemini kalder for gems osv."
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "text": " Christian, kan du ikke starte med at give et eksempel på en custom-GPT, du har bygget, og hvad det rent faktisk er?"
+    },
+    {
+      "start": 35.0,
+      "end": 40.0,
+      "text": " At bygge det er måske så meget sagt. Den er supersimpel, men det er faktisk en, jeg bruger i forbindelse med marketing for."
+    },
+    {
+      "start": 40.0,
+      "end": 47.0,
+      "text": " Vi skal jo hver uge til mandagsepisoderne finde tre relevante nyheder, og dem finder vi godt nok selv."
+    },
+    {
+      "start": 47.0,
+      "end": 55.0,
+      "text": " Jeg har fået lavet en custom-GPT, der hjælper mig med at opsummere på dansk 3-4 linjer ud fra det link, jeg indsætter."
+    },
+    {
+      "start": 55.0,
+      "end": 64.0,
+      "text": " Så jeg skal faktisk bare indsætte linket i ChatGPT, ikke skrive noget, ikke gøre noget, og så spytter den et lille referat ud i måden, hvorpå jeg gerne vil have den skal gøre det på."
+    },
+    {
+      "start": 64.0,
+      "end": 69.0,
+      "text": " Så det er et meget lavpraktisk eksempel på noget, som jeg bruger, og jeg bruger det rigtig meget."
+    },
+    {
+      "start": 69.0,
+      "end": 77.0,
+      "text": " Ja, og det er nemlig et super godt eksempel, fordi hvis du bare lagde et link ind i ChatGPT uden at prompte andet, så ville ChatGPT sige, fedt link, hvad kan jeg hjælpe med?"
+    },
+    {
+      "start": 77.0,
+      "end": 84.0,
+      "text": " Men her, når du har bygget en custom-GPT, som i øvrigt bare hedder AGPT, altså en GPT i dag, de har sådan fjernet custom,"
+    },
+    {
+      "start": 84.0,
+      "end": 92.0,
+      "text": " jamen så ved den, fordi du har sådan pre-prompted den, at når der kommer et link, den skal gå ind og læse det og opsummere det i den stil, som vi normalt bruger det i marketing på det."
+    },
+    {
+      "start": 92.0,
+      "end": 98.0,
+      "text": " Og det er det, der er fedt ved dem, for hvorfor er det, at du bruger en custom-GPT til det her, i stedet for bare at prompte ChatGPT i forfra?"
+    },
+    {
+      "start": 98.0,
+      "end": 107.0,
+      "text": " Fordi det er en repetitiv opgave, altså det er hver uge, jeg skal gøre det her, så kunne jeg godt spare en del tid på årlig basis ved at gøre det på den måde her."
+    },
+    {
+      "start": 107.0,
+      "end": 111.0,
+      "text": " Og det er bare sjovere, end at skulle sidde og lave sin prompt om og om og om igen."
+    },
+    {
+      "start": 111.0,
+      "end": 121.0,
+      "text": " Ja, og en af de ting, vi jo snakker meget med vores kunder om, det er, hvordan man får bedre content ud af AI, og jeg synes, det her er en af de allerbedste måder at gøre det på."
+    },
+    {
+      "start": 121.0,
+      "end": 125.0,
+      "text": " Så lad os lige gå igennem, hvordan man rent faktisk laver en custom-GPT."
+    },
+    {
+      "start": 125.0,
+      "end": 130.0,
+      "text": " Så det, der er tanken, det er, at du kan gå ind på ChatGPT, eller Gemini, eller hvad det nu gør."
+    },
+    {
+      "start": 130.0,
+      "end": 136.0,
+      "text": " Nu gør vi det lige med ChatGPT her, hvor du går ind i menuen til venstre og ser GPTs, så det hedder bare GPTS, GPTs."
+    },
+    {
+      "start": 136.0,
+      "end": 141.0,
+      "text": " Så kan du se sådan en række predefinerede GPTs, så du kan vælge sådan nogle andre har lavet."
+    },
+    {
+      "start": 141.0,
+      "end": 145.0,
+      "text": " Så der er en, der hedder WriteFromE, ScholarGPT, Konsensus osv., det er vi ikke interesserede i."
+    },
+    {
+      "start": 145.0,
+      "end": 149.0,
+      "text": " Og op i højre hjørne, der kan du klikke Create, og så har du mulighed for at lave din egen."
+    },
+    {
+      "start": 149.0,
+      "end": 153.0,
+      "text": " Og her, der kan du så definere fra ChatGPT, hvad det er, du gerne vil lave."
+    },
+    {
+      "start": 153.0,
+      "end": 158.0,
+      "text": " Og så kan du sige, det her er min GPT til at lave fantastiske produkttekster til min webshop."
+    },
+    {
+      "start": 158.0,
+      "end": 161.0,
+      "text": " Til at hjælpe mig med at lave udkast til nyhedsbrev i min hopspot installation."
+    },
+    {
+      "start": 161.0,
+      "end": 167.0,
+      "text": " Det her er min GPT til at lave LinkedIn-opslag i min tone og stil, og med de ting, jeg rent faktisk mener."
+    },
+    {
+      "start": 167.0,
+      "end": 169.0,
+      "text": " Eller hvad du nu gerne vil bruge den til."
+    },
+    {
+      "start": 169.0,
+      "end": 174.0,
+      "text": " Du kan give den et navn, en beskrivelse og nogle custom-instruktioner."
+    },
+    {
+      "start": 174.0,
+      "end": 177.0,
+      "text": " Og du kan også give den knowledge, det vil sige oplovede filer."
+    },
+    {
+      "start": 177.0,
+      "end": 182.0,
+      "text": " Og det her er en af de mest undervurderede ting, underkommercialiserede om jeg må."
+    },
+    {
+      "start": 182.0,
+      "end": 189.0,
+      "text": " Ting ved AI, det der med at oplode f.eks. pdf-filer, eller regneark, eller noget andet, som giver AI noget kontekst."
+    },
+    {
+      "start": 189.0,
+      "end": 193.0,
+      "text": " Du har tidligere sendt mig et mega fedt tweet, der havde, at vi skulle gå væk fra prompt engineering,"
+    },
+    {
+      "start": 193.0,
+      "end": 195.0,
+      "text": " men overgå til kontekst engineering."
+    },
+    {
+      "start": 195.0,
+      "end": 198.0,
+      "text": " Hvorfor er det konteksten er så vigtig for at få gode svar ud af AI?"
+    },
+    {
+      "start": 198.0,
+      "end": 201.0,
+      "text": " Jamen konteksten gør bare, at den har noget at læne sig op af."
+    },
+    {
+      "start": 201.0,
+      "end": 206.0,
+      "text": " Så du giver AI en kasse, den kan være kreativ indenfor, men du har også rammet spillepladen ind for den."
+    },
+    {
+      "start": 206.0,
+      "end": 209.0,
+      "text": " Og det gør den bare langt bedre, når du giver den en kontekst."
+    },
+    {
+      "start": 209.0,
+      "end": 211.0,
+      "text": " Altså så ved den også, hvor den skal starte og slutte hen."
+    },
+    {
+      "start": 211.0,
+      "end": 214.0,
+      "text": " Hvorimod, at hvis det er bare et helt bredt prompt, hurra det kan gå mange veje."
+    },
+    {
+      "start": 214.0,
+      "end": 217.0,
+      "text": " Det er der, hvor man begynder at få AI-content, der ligner AI-content."
+    },
+    {
+      "start": 217.0,
+      "end": 222.0,
+      "text": " Hvor hvis du har oplovede kontekst, som f.eks. eksempler på de nyhedsbrev, du tidligere har sendt ud,"
+    },
+    {
+      "start": 222.0,
+      "end": 227.0,
+      "text": " eller analyse, du har lavet, eller hvad du vil bruge en custom GPT til, så bliver svaret også bare meget bedre."
+    },
+    {
+      "start": 227.0,
+      "end": 231.0,
+      "text": " Og efter det, så har du mulighed for at vælge, om den f.eks. må gå online og søge,"
+    },
+    {
+      "start": 231.0,
+      "end": 234.0,
+      "text": " hvilket jo er nødvendigt i den GPT, vi har lavet til Marketingpod."
+    },
+    {
+      "start": 234.0,
+      "end": 240.0,
+      "text": " Og det er relativt lige til det, man skal gøre, hvis man gør det på Gemini, hvis man sidder i Google Workspace."
+    },
+    {
+      "start": 240.0,
+      "end": 241.0,
+      "text": " Det er stort set det samme."
+    },
+    {
+      "start": 241.0,
+      "end": 244.0,
+      "text": " Giv den et navn, giv den en vejledning, noget viden, hvor du kan uploade osv."
+    },
+    {
+      "start": 244.0,
+      "end": 249.0,
+      "text": " Og så har du faktisk bygget en GPT, eller en gem, som det hedder på Gemini."
+    },
+    {
+      "start": 249.0,
+      "end": 255.0,
+      "text": " Og når vi har lyst til at lave en hel episode om det, så er det fordi, jeg oplever rigtig mange, når de bruger AI,"
+    },
+    {
+      "start": 255.0,
+      "end": 260.0,
+      "text": " så går de faktisk bare ind på forsiden af ChatGPT, og så skriver de de ting, de har brug for at få lavet."
+    },
+    {
+      "start": 260.0,
+      "end": 267.0,
+      "text": " Men jo mere tid, man bruger på at lave et godt prompt, jo bedre resultater får man også tilbage i den anden ende."
+    },
+    {
+      "start": 267.0,
+      "end": 270.0,
+      "text": " Så når jeg sidder i weekenden og laver de opgaver, der kræver noget koncentration,"
+    },
+    {
+      "start": 270.0,
+      "end": 273.0,
+      "text": " hvor jeg skal lave en større mail-send-analyse eller præsentation, eller hvad det skal være,"
+    },
+    {
+      "start": 273.0,
+      "end": 276.0,
+      "text": " de prompts, jeg laver til f.eks. Manus, som jeg bruger meget,"
+    },
+    {
+      "start": 276.0,
+      "end": 280.0,
+      "text": " jeg kan godt bruge 10 eller 15 minutter på at lave et prompt,"
+    },
+    {
+      "start": 280.0,
+      "end": 286.0,
+      "text": " og bruge alle 4.000 tegn og uploade 3-4-5 forskellige filer og links og alle mulige andre ting,"
+    },
+    {
+      "start": 286.0,
+      "end": 291.0,
+      "text": " og så bruger den måske 10 eller 15 minutter på at svare, men hold da op, jeg svarer meget tid."
+    },
+    {
+      "start": 291.0,
+      "end": 295.0,
+      "text": " Men det er et typisk opgave, jeg laver en gang, en unik præsentation eller et eller andet af den stil,"
+    },
+    {
+      "start": 295.0,
+      "end": 298.0,
+      "text": " hvor i det øjeblik, du begynder at sidde med et repetitivt opgave,"
+    },
+    {
+      "start": 298.0,
+      "end": 301.0,
+      "text": " så er Custom GPT'ere bare fantastiske."
+    },
+    {
+      "start": 301.0,
+      "end": 303.0,
+      "text": " Hvad har du ellers af eksempler på sådan nogle folk, der har brugt det?"
+    },
+    {
+      "start": 303.0,
+      "end": 307.0,
+      "text": " Underservice mails, og den er interessant."
+    },
+    {
+      "start": 307.0,
+      "end": 310.0,
+      "text": " Der er mange, der bruger ekterne tools dertil,"
+    },
+    {
+      "start": 310.0,
+      "end": 316.0,
+      "text": " men hvis vi lige bliver i Custom GPT, det her med at kunne uploade løbende konspondanser,"
+    },
+    {
+      "start": 316.0,
+      "end": 322.0,
+      "text": " gode konspondanser, gode eksempler på kundeservice mails, på besvarelser, FAQ'er osv.,"
+    },
+    {
+      "start": 322.0,
+      "end": 327.0,
+      "text": " gør bare, at man ved hjælp af ChatGPT netop kan svare markant hurtigere og markant bedre,"
+    },
+    {
+      "start": 327.0,
+      "end": 329.0,
+      "text": " end hvad man kunne uden."
+    },
+    {
+      "start": 329.0,
+      "end": 331.0,
+      "text": " Alternativet havde været, at man skulle sidde og prompte sig til det."
+    },
+    {
+      "start": 331.0,
+      "end": 334.0,
+      "text": " Nej, det er helt græde alternativet. Det var, at man skulle starte selv forfra,"
+    },
+    {
+      "start": 334.0,
+      "end": 336.0,
+      "text": " og skrive hver enkelt mail selv."
+    },
+    {
+      "start": 336.0,
+      "end": 339.0,
+      "text": " Mellemsteppet er jo så, at man selv skal prompte sig ud af det hver gang."
+    },
+    {
+      "start": 339.0,
+      "end": 343.0,
+      "text": " Det tredje her, det er jo at give den noget kontekst, give den gode eksempler på tidligere,"
+    },
+    {
+      "start": 343.0,
+      "end": 346.0,
+      "text": " måske hvordan man gerne vil svare sine kunder, hvad er der, der er vigtigt,"
+    },
+    {
+      "start": 346.0,
+      "end": 349.0,
+      "text": " hvad er det for nogle problemstillinger, hvordan løser vi dem normalt set."
+    },
+    {
+      "start": 349.0,
+      "end": 351.0,
+      "text": " Det er der, hvor det begynder at blive rigtig sjovt."
+    },
+    {
+      "start": 351.0,
+      "end": 353.0,
+      "text": " Jeg synes også, at en sæve på en webshop er et godt eksempel,"
+    },
+    {
+      "start": 353.0,
+      "end": 355.0,
+      "text": " fordi to eksempler, som jeg ved mange af vores kunder bygger,"
+    },
+    {
+      "start": 355.0,
+      "end": 358.0,
+      "text": " det er tilhindelsesvis produkttekster og kategoritekster,"
+    },
+    {
+      "start": 358.0,
+      "end": 361.0,
+      "text": " hvor de bare feeder eksempler på andre produkter og kategoritekster,"
+    },
+    {
+      "start": 361.0,
+      "end": 363.0,
+      "text": " de har lavet, og hvordan det normalt ser ud,"
+    },
+    {
+      "start": 364.0,
+      "end": 366.0,
+      "text": " og information om virksomheden, det kunne være sådan noget med,"
+    },
+    {
+      "start": 366.0,
+      "end": 369.0,
+      "text": " her er vores leveringsvilkår, her er vores fragtvilkår,"
+    },
+    {
+      "start": 369.0,
+      "end": 372.0,
+      "text": " her er vores betalingsvilkår, her er vores returvilkår,"
+    },
+    {
+      "start": 372.0,
+      "end": 376.0,
+      "text": " her er noget om, hvornår virksomheden blev startet og stiftet og alle de der ting,"
+    },
+    {
+      "start": 376.0,
+      "end": 380.0,
+      "text": " som jo giver AI en masse kontekst til at lave et godt svar,"
+    },
+    {
+      "start": 380.0,
+      "end": 384.0,
+      "text": " men som du ikke ville lave normalt, hvis du bare lige skal bruge en 200 års produktbeskrivelse."
+    },
+    {
+      "start": 384.0,
+      "end": 387.0,
+      "text": " Så sidder du ikke og bruger 20 minutter på at lave et super grundigt prompt,"
+    },
+    {
+      "start": 387.0,
+      "end": 390.0,
+      "text": " fordi så er vi der, hvor du faktisk bare kunne have skrevet det selv,"
+    },
+    {
+      "start": 390.0,
+      "end": 391.0,
+      "text": " og det havde været nemmere."
+    },
+    {
+      "start": 391.0,
+      "end": 394.0,
+      "text": " Jeg synes produkttekster, kategoritekster er et super eksempel."
+    },
+    {
+      "start": 394.0,
+      "end": 397.0,
+      "text": " Jeg ved, i BSUB er der mange af vores kunder, der bruger det til at lave LinkedIn posts,"
+    },
+    {
+      "start": 397.0,
+      "end": 401.0,
+      "text": " og det synes jeg også er fedt, selvom man skal passe på med at lave LinkedIn posts,"
+    },
+    {
+      "start": 401.0,
+      "end": 403.0,
+      "text": " men det siger jeg kun, hvis du er dårlig til at bruge AI."
+    },
+    {
+      "start": 403.0,
+      "end": 405.0,
+      "text": " Så det at lave en custom GPT, det kan jo sagtens give mening."
+    },
+    {
+      "start": 405.0,
+      "end": 408.0,
+      "text": " Intern vidensdatabase i virksomheder er også et godt eksempel,"
+    },
+    {
+      "start": 408.0,
+      "end": 411.0,
+      "text": " hvor man hele tiden beriger den her custom GPT,"
+    },
+    {
+      "start": 411.0,
+      "end": 413.0,
+      "text": " så man som medarbejder kan gå ind og stille spørgsmålet derinde,"
+    },
+    {
+      "start": 413.0,
+      "end": 415.0,
+      "text": " og så trækker den ligesom fra de interne ressourcer,"
+    },
+    {
+      "start": 415.0,
+      "end": 417.0,
+      "text": " med at man måske også tillader den at søge på nettet,"
+    },
+    {
+      "start": 417.0,
+      "end": 420.0,
+      "text": " således at hvis man skal have en guide til at opsætte et eller andet i et tool,"
+    },
+    {
+      "start": 420.0,
+      "end": 423.0,
+      "text": " der kan det måske være bedre mening, at man henter guiden ind udefra,"
+    },
+    {
+      "start": 423.0,
+      "end": 426.0,
+      "text": " hvorimod at meget specifikke spørgsmål, som er meget virksomhedskritiske,"
+    },
+    {
+      "start": 426.0,
+      "end": 430.0,
+      "text": " og som er intern viden, så trækker den for eksempel fra en medarbejderhåndbog,"
+    },
+    {
+      "start": 430.0,
+      "end": 432.0,
+      "text": " eller en PDF, som man har oplottet."
+    },
+    {
+      "start": 432.0,
+      "end": 435.0,
+      "text": " Man har også mulighed for at dele de her custom GPT'er,"
+    },
+    {
+      "start": 435.0,
+      "end": 437.0,
+      "text": " så den er ikke delbar som udgangspunkt,"
+    },
+    {
+      "start": 437.0,
+      "end": 439.0,
+      "text": " men der findes et link, når du opretter din custom GPT,"
+    },
+    {
+      "start": 439.0,
+      "end": 442.0,
+      "text": " hvor du kan definere, om den her rent faktisk skal kunne deles,"
+    },
+    {
+      "start": 442.0,
+      "end": 443.0,
+      "text": " eller ej."
+    },
+    {
+      "start": 443.0,
+      "end": 444.0,
+      "text": " Hvis du slår det til, at den kan deles,"
+    },
+    {
+      "start": 444.0,
+      "end": 447.0,
+      "text": " så vil andre i virksomheden også kunne bruge din custom GPT."
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": " Hvis du vil lave noget, der minder om en custom GPT,"
+    },
+    {
+      "start": 449.0,
+      "end": 453.0,
+      "text": " men som ikke kan deles, så hedder det også i OpenAI for et projekt,"
+    },
+    {
+      "start": 453.0,
+      "end": 455.0,
+      "text": " så der er nogen, der har spurgt,"
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": " hvad er forskellingen på et projekt og en custom GPT?"
+    },
+    {
+      "start": 457.0,
+      "end": 459.0,
+      "text": " Forskellen er, at et projekt kan du ikke dele,"
+    },
+    {
+      "start": 459.0,
+      "end": 461.0,
+      "text": " og en custom GPT kan du godt dele, hvis du gerne vil det."
+    },
+    {
+      "start": 461.0,
+      "end": 463.0,
+      "text": " Så på den måde, hvis der er en i virksomheden,"
+    },
+    {
+      "start": 463.0,
+      "end": 465.0,
+      "text": " der har lavet noget mega fedt med en custom GPT,"
+    },
+    {
+      "start": 465.0,
+      "end": 467.0,
+      "text": " og den er bare promptet lige som den skal,"
+    },
+    {
+      "start": 467.0,
+      "end": 470.0,
+      "text": " og den har alle konteksten, men alle har rent faktisk brug for det her,"
+    },
+    {
+      "start": 470.0,
+      "end": 473.0,
+      "text": " så kan den altså godt deles i virkeligheden i virksomheden,"
+    },
+    {
+      "start": 473.0,
+      "end": 475.0,
+      "text": " så andre også kan få gavn af den."
+    },
+    {
+      "start": 475.0,
+      "end": 476.0,
+      "text": " Halvstanden."
+    },
+    {
+      "start": 476.0,
+      "end": 478.0,
+      "text": " Jeg kan huske, lige i starten,"
+    },
+    {
+      "start": 478.0,
+      "end": 481.0,
+      "text": " da man snakkede rigtig, rigtig meget omkring de her custom GPTs,"
+    },
+    {
+      "start": 481.0,
+      "end": 482.0,
+      "text": " der var der jo snak om,"
+    },
+    {
+      "start": 482.0,
+      "end": 484.0,
+      "text": " at det her bliver sådan en hel forretningsben for mange,"
+    },
+    {
+      "start": 484.0,
+      "end": 487.0,
+      "text": " altså at sælge deres custom GPTs."
+    },
+    {
+      "start": 487.0,
+      "end": 489.0,
+      "text": " Har du nogen idé om,"
+    },
+    {
+      "start": 489.0,
+      "end": 491.0,
+      "text": " er det blevet til noget, eller er det mere noget,"
+    },
+    {
+      "start": 491.0,
+      "end": 493.0,
+      "text": " man deler gratis ud som sådan en lead magnet?"
+    },
+    {
+      "start": 493.0,
+      "end": 497.0,
+      "text": " Fordi jeg har ikke selv personligt været ude og købe mig til det,"
+    },
+    {
+      "start": 497.0,
+      "end": 499.0,
+      "text": " men jeg ved, der er store libraries med det,"
+    },
+    {
+      "start": 499.0,
+      "end": 500.0,
+      "text": " og det giver jo god mening,"
+    },
+    {
+      "start": 500.0,
+      "end": 502.0,
+      "text": " fordi du taber jo ind i den viden som vedkommende,"
+    },
+    {
+      "start": 502.0,
+      "end": 505.0,
+      "text": " der har siddet og lavet prompten og givet den kontekst og så videre."
+    },
+    {
+      "start": 505.0,
+      "end": 507.0,
+      "text": " Ja."
+    },
+    {
+      "start": 507.0,
+      "end": 508.0,
+      "text": " Det har jeg faktisk ikke,"
+    },
+    {
+      "start": 508.0,
+      "end": 509.0,
+      "text": " men jeg tror det er fordi,"
+    },
+    {
+      "start": 509.0,
+      "end": 515.0,
+      "text": " at custom GPTs er også sådan lidt et skridt på vej mod workflows og agenter,"
+    },
+    {
+      "start": 515.0,
+      "end": 518.0,
+      "text": " og workflows og agenter kan vi jo godt se blive købt og solgt."
+    },
+    {
+      "start": 518.0,
+      "end": 520.0,
+      "text": " Så det er sådan en god segway til,"
+    },
+    {
+      "start": 520.0,
+      "end": 521.0,
+      "text": " hvornår en custom GPT så ikke nok,"
+    },
+    {
+      "start": 521.0,
+      "end": 524.0,
+      "text": " fordi en custom GPT vil være meget bedre,"
+    },
+    {
+      "start": 524.0,
+      "end": 526.0,
+      "text": " end at sidde og prompte forfra hver eneste gang."
+    },
+    {
+      "start": 526.0,
+      "end": 528.0,
+      "text": " Men udfordringen ved en custom GPT eller en gem,"
+    },
+    {
+      "start": 528.0,
+      "end": 532.0,
+      "text": " er, at du sidder faktisk stadig og kopierer tekst fra det ene vindue og over i det andet vindue."
+    },
+    {
+      "start": 532.0,
+      "end": 534.0,
+      "text": " Så du har godt nok sparet en masse tid i forhold til at få lavet dit output,"
+    },
+    {
+      "start": 534.0,
+      "end": 537.0,
+      "text": " men du sidder stadig manuelt og håndterer de produkttekster"
+    },
+    {
+      "start": 537.0,
+      "end": 538.0,
+      "text": " eller LinkedIn-opslag,"
+    },
+    {
+      "start": 538.0,
+      "end": 539.0,
+      "text": " eller kundeservice-mails,"
+    },
+    {
+      "start": 539.0,
+      "end": 540.0,
+      "text": " eller hvad du nu skulle lave,"
+    },
+    {
+      "start": 540.0,
+      "end": 541.0,
+      "text": " én ad gangen,"
+    },
+    {
+      "start": 541.0,
+      "end": 543.0,
+      "text": " og det sætter jo nogle begrænsninger for,"
+    },
+    {
+      "start": 543.0,
+      "end": 544.0,
+      "text": " hvor hurtigt du kan være på kontrol-C,"
+    },
+    {
+      "start": 544.0,
+      "end": 545.0,
+      "text": " kontrol-V."
+    },
+    {
+      "start": 545.0,
+      "end": 547.0,
+      "text": " Så det skridtede videre,"
+    },
+    {
+      "start": 547.0,
+      "end": 549.0,
+      "text": " det er jo faktisk at lægge det her ind i et workflow,"
+    },
+    {
+      "start": 549.0,
+      "end": 550.0,
+      "text": " eller en AI-agent,"
+    },
+    {
+      "start": 550.0,
+      "end": 552.0,
+      "text": " og det er jo det, vi arbejder rigtig meget med,"
+    },
+    {
+      "start": 552.0,
+      "end": 553.0,
+      "text": " også i Obsidian,"
+    },
+    {
+      "start": 553.0,
+      "end": 555.0,
+      "text": " i for eksempel et værktøj som make.com,"
+    },
+    {
+      "start": 555.0,
+      "end": 556.0,
+      "text": " hvor vi sætter workflows op,"
+    },
+    {
+      "start": 556.0,
+      "end": 557.0,
+      "text": " og workflows det er jo bare,"
+    },
+    {
+      "start": 557.0,
+      "end": 559.0,
+      "text": " hvor du har et defineret start- og sluttidspunkt,"
+    },
+    {
+      "start": 559.0,
+      "end": 561.0,
+      "text": " og så sker der nogle ting i midten, man ikke kan fravige,"
+    },
+    {
+      "start": 561.0,
+      "end": 564.0,
+      "text": " eller deciderede AI-agenter,"
+    },
+    {
+      "start": 564.0,
+      "end": 566.0,
+      "text": " som laver arbejde for dig."
+    },
+    {
+      "start": 566.0,
+      "end": 567.0,
+      "text": " Og jeg har faktisk et eksempel,"
+    },
+    {
+      "start": 567.0,
+      "end": 568.0,
+      "text": " som jeg har lavet i et LinkedIn-opslag om,"
+    },
+    {
+      "start": 568.0,
+      "end": 569.0,
+      "text": " her den anden dag,"
+    },
+    {
+      "start": 569.0,
+      "end": 571.0,
+      "text": " som jeg selvfølgelig har skrevet i hånden."
+    },
+    {
+      "start": 573.0,
+      "end": 574.0,
+      "text": " Det holder jeg fast på,"
+    },
+    {
+      "start": 574.0,
+      "end": 575.0,
+      "text": " som gamle mand jeg er."
+    },
+    {
+      "start": 575.0,
+      "end": 578.0,
+      "text": " Men der har vi lavet en AI-agent i Make,"
+    },
+    {
+      "start": 578.0,
+      "end": 579.0,
+      "text": " for en af vores kunder,"
+    },
+    {
+      "start": 579.0,
+      "end": 580.0,
+      "text": " og den her AI-agent,"
+    },
+    {
+      "start": 580.0,
+      "end": 582.0,
+      "text": " det kunne måske ikke godt have været en custom-GPT,"
+    },
+    {
+      "start": 582.0,
+      "end": 583.0,
+      "text": " fordi det den gør,"
+    },
+    {
+      "start": 583.0,
+      "end": 584.0,
+      "text": " det er to gange om ugen,"
+    },
+    {
+      "start": 584.0,
+      "end": 587.0,
+      "text": " så går den ind og trækker data ud af en Facebook-konto,"
+    },
+    {
+      "start": 587.0,
+      "end": 588.0,
+      "text": " der bruger ret mange penge."
+    },
+    {
+      "start": 588.0,
+      "end": 590.0,
+      "text": " Så har den en masse information,"
+    },
+    {
+      "start": 590.0,
+      "end": 591.0,
+      "text": " altså de her pre-prompts,"
+    },
+    {
+      "start": 591.0,
+      "end": 592.0,
+      "text": " i forhold til den her virksomhed,"
+    },
+    {
+      "start": 592.0,
+      "end": 593.0,
+      "text": " hvad er deres målsætninger,"
+    },
+    {
+      "start": 593.0,
+      "end": 594.0,
+      "text": " hvad må prisen være for den ene kampagne,"
+    },
+    {
+      "start": 594.0,
+      "end": 596.0,
+      "text": " hvad må prisen være for den anden kampagne,"
+    },
+    {
+      "start": 596.0,
+      "end": 597.0,
+      "text": " hvad er godt, hvad er skidt."
+    },
+    {
+      "start": 597.0,
+      "end": 599.0,
+      "text": " Og så alle de her informationer,"
+    },
+    {
+      "start": 599.0,
+      "end": 601.0,
+      "text": " når den så trækker dataen ud to gange om ugen,"
+    },
+    {
+      "start": 601.0,
+      "end": 603.0,
+      "text": " så analyserer og behandler den den data,"
+    },
+    {
+      "start": 603.0,
+      "end": 604.0,
+      "text": " og sender en besked ind i en Slack-kanal,"
+    },
+    {
+      "start": 604.0,
+      "end": 606.0,
+      "text": " og siger, er vi over eller under target."
+    },
+    {
+      "start": 606.0,
+      "end": 607.0,
+      "text": " Og så hvis man klikker på kommentaren,"
+    },
+    {
+      "start": 607.0,
+      "end": 608.0,
+      "text": " så får man nogle anbefalinger til,"
+    },
+    {
+      "start": 608.0,
+      "end": 610.0,
+      "text": " hvad man skal gøre for at optimere kampagnerne."
+    },
+    {
+      "start": 610.0,
+      "end": 611.0,
+      "text": " Og så kan vi så vælge,"
+    },
+    {
+      "start": 611.0,
+      "end": 613.0,
+      "text": " om vi vil implementere de anbefalinger."
+    },
+    {
+      "start": 613.0,
+      "end": 614.0,
+      "text": " Nogle gange er de rigtig gode,"
+    },
+    {
+      "start": 614.0,
+      "end": 615.0,
+      "text": " nogle gange er de rigtig dårlige,"
+    },
+    {
+      "start": 615.0,
+      "end": 616.0,
+      "text": " så der skal man stadig have en person,"
+    },
+    {
+      "start": 616.0,
+      "end": 617.0,
+      "text": " der kender virksomheden og ved, hvad de laver."
+    },
+    {
+      "start": 617.0,
+      "end": 620.0,
+      "text": " Men vi har bare taget enormt meget grunt work,"
+    },
+    {
+      "start": 620.0,
+      "end": 621.0,
+      "text": " i form af analysering,"
+    },
+    {
+      "start": 621.0,
+      "end": 623.0,
+      "text": " og sådan at være sikre på,"
+    },
+    {
+      "start": 623.0,
+      "end": 624.0,
+      "text": " at vi opdager, hvis der er en kampagne,"
+    },
+    {
+      "start": 624.0,
+      "end": 625.0,
+      "text": " der går den ene eller den anden AI,"
+    },
+    {
+      "start": 625.0,
+      "end": 626.0,
+      "text": " ved at sætte den her agent op,"
+    },
+    {
+      "start": 627.0,
+      "end": 628.0,
+      "text": " der så kører mandag og torsdag."
+    },
+    {
+      "start": 628.0,
+      "end": 630.0,
+      "text": " Og det her, det kunne godt have været en GPT."
+    },
+    {
+      "start": 630.0,
+      "end": 632.0,
+      "text": " Det her, det kunne godt have været en custom GPT,"
+    },
+    {
+      "start": 632.0,
+      "end": 633.0,
+      "text": " med de samme instrukser og prompts."
+    },
+    {
+      "start": 633.0,
+      "end": 634.0,
+      "text": " Udfordringen er,"
+    },
+    {
+      "start": 634.0,
+      "end": 636.0,
+      "text": " så skulle vi selv have lavet et udtræk,"
+    },
+    {
+      "start": 636.0,
+      "end": 638.0,
+      "text": " fra kontoen mandag og torsdag,"
+    },
+    {
+      "start": 638.0,
+      "end": 640.0,
+      "text": " lagt ind og ventet,"
+    },
+    {
+      "start": 640.0,
+      "end": 641.0,
+      "text": " og nu får vi det bare serveret,"
+    },
+    {
+      "start": 641.0,
+      "end": 642.0,
+      "text": " fordi det er en AI-agent,"
+    },
+    {
+      "start": 642.0,
+      "end": 643.0,
+      "text": " der er lagt ind i et workflow."
+    },
+    {
+      "start": 643.0,
+      "end": 644.0,
+      "text": " Så jeg tror måske,"
+    },
+    {
+      "start": 644.0,
+      "end": 645.0,
+      "text": " det ville være min hypotese,"
+    },
+    {
+      "start": 645.0,
+      "end": 648.0,
+      "text": " man begyndte aldrig rigtigt at handle custom GPTs,"
+    },
+    {
+      "start": 648.0,
+      "end": 649.0,
+      "text": " fordi lige pludselig kunne du lægge dem ind i workflows,"
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " og så er det dem, vi køber i stedet for."
+    },
+    {
+      "start": 651.0,
+      "end": 652.0,
+      "text": " Ja, og i princippet,"
+    },
+    {
+      "start": 652.0,
+      "end": 654.0,
+      "text": " hvis man skulle tage fat i det eksempel der,"
+    },
+    {
+      "start": 654.0,
+      "end": 657.0,
+      "text": " og ligge det ind over vores custom GPT til nyhederne,"
+    },
+    {
+      "start": 657.0,
+      "end": 659.0,
+      "text": " så skulle vi jo egentlig have en agent,"
+    },
+    {
+      "start": 659.0,
+      "end": 660.0,
+      "text": " eller et workflow,"
+    },
+    {
+      "start": 660.0,
+      "end": 661.0,
+      "text": " enten agent eller et workflow,"
+    },
+    {
+      "start": 661.0,
+      "end": 663.0,
+      "text": " som ligger og crawler nyhederne,"
+    },
+    {
+      "start": 663.0,
+      "end": 665.0,
+      "text": " vælger dem, der er relevante for MarketingPod,"
+    },
+    {
+      "start": 665.0,
+      "end": 668.0,
+      "text": " tager dem ind og laver det her resume her,"
+    },
+    {
+      "start": 668.0,
+      "end": 670.0,
+      "text": " i stedet for at vi lige nu skal lægge dem ind."
+    },
+    {
+      "start": 670.0,
+      "end": 672.0,
+      "text": " Så skulle vi jo faktisk have det ind i arket,"
+    },
+    {
+      "start": 672.0,
+      "end": 678.0,
+      "text": " fordi vi har et 401 sider langt Google Docs dokument,"
+    },
+    {
+      "start": 678.0,
+      "end": 681.0,
+      "text": " der hedder marketingpod.dk,"
+    },
+    {
+      "start": 681.0,
+      "end": 683.0,
+      "text": " hvor vi lægger alle vores noter ind,"
+    },
+    {
+      "start": 683.0,
+      "end": 684.0,
+      "text": " siden den første episode,"
+    },
+    {
+      "start": 684.0,
+      "end": 687.0,
+      "text": " og du tager jo faktisk og kopierer outputtet fra din custom GPT,"
+    },
+    {
+      "start": 687.0,
+      "end": 689.0,
+      "text": " og lægger det manuelt ind i vores ark."
+    },
+    {
+      "start": 689.0,
+      "end": 692.0,
+      "text": " Så hvis man skulle automatisere de tre sekunder væk,"
+    },
+    {
+      "start": 692.0,
+      "end": 693.0,
+      "text": " og jeg gider ikke opsætte den automation,"
+    },
+    {
+      "start": 693.0,
+      "end": 694.0,
+      "text": " så vil du selv råde med,"
+    },
+    {
+      "start": 694.0,
+      "end": 696.0,
+      "text": " men så skulle vi faktisk have en agent,"
+    },
+    {
+      "start": 696.0,
+      "end": 699.0,
+      "text": " der måske både fandt nyhederne og lagde dem ind,"
+    },
+    {
+      "start": 699.0,
+      "end": 702.0,
+      "text": " fordi lige nu der kopierer du nyheden ind for et resultat,"
+    },
+    {
+      "start": 702.0,
+      "end": 704.0,
+      "text": " og kopierer resultatet ind i vores ark,"
+    },
+    {
+      "start": 704.0,
+      "end": 705.0,
+      "text": " og det er det mindste problem,"
+    },
+    {
+      "start": 705.0,
+      "end": 706.0,
+      "text": " jeg kunne forestille mig nogensinde,"
+    },
+    {
+      "start": 706.0,
+      "end": 708.0,
+      "text": " at vi kunne løse for dig."
+    },
+    {
+      "start": 708.0,
+      "end": 709.0,
+      "text": " But nevertheless,"
+    },
+    {
+      "start": 709.0,
+      "end": 710.0,
+      "text": " så kunne det have blevet et workflow eller en agent,"
+    },
+    {
+      "start": 710.0,
+      "end": 711.0,
+      "text": " hvis vi gider opdage det."
+    },
+    {
+      "start": 711.0,
+      "end": 713.0,
+      "text": " Du har til gengæld lige givet mig en god idé."
+    },
+    {
+      "start": 713.0,
+      "end": 715.0,
+      "text": " Nu havde vi i mandagens episode,"
+    },
+    {
+      "start": 715.0,
+      "end": 718.0,
+      "text": " der snakkede vi bl.a. om opsættelse fra Alex Ramosi."
+    },
+    {
+      "start": 718.0,
+      "end": 720.0,
+      "text": " En eller anden dag,"
+    },
+    {
+      "start": 720.0,
+      "end": 722.0,
+      "text": " tror jeg ikke, vi kan sælge hele det her notice ark her,"
+    },
+    {
+      "start": 722.0,
+      "end": 724.0,
+      "text": " når det engang bliver et plus tusind sider."
+    },
+    {
+      "start": 724.0,
+      "end": 726.0,
+      "text": " Hvem skulle købe det?"
+    },
+    {
+      "start": 726.0,
+      "end": 727.0,
+      "text": " Det ved jeg heller ikke."
+    },
+    {
+      "start": 727.0,
+      "end": 729.0,
+      "text": " Jeg tænker, så skulle det være AI,"
+    },
+    {
+      "start": 729.0,
+      "end": 730.0,
+      "text": " der ville crawl i for at lære et eller andet,"
+    },
+    {
+      "start": 730.0,
+      "end": 731.0,
+      "text": " men vi har lavet det i Google Docs,"
+    },
+    {
+      "start": 731.0,
+      "end": 733.0,
+      "text": " så Gemini har det allerede."
+    },
+    {
+      "start": 733.0,
+      "end": 736.0,
+      "text": " Jeg er sikker på, at Google ejer alle vores dokumenter i forvejen."
+    },
+    {
+      "start": 736.0,
+      "end": 738.0,
+      "text": " Det er en dårlig idé."
+    },
+    {
+      "start": 739.0,
+      "end": 743.0,
+      "text": " Skriv til os, hvis du vil købe Marketingpods masternode dokument 400 sider."
+    },
+    {
+      "start": 743.0,
+      "end": 745.0,
+      "text": " Det koster kun 6.000 dollars,"
+    },
+    {
+      "start": 745.0,
+      "end": 747.0,
+      "text": " og tusind tak, fordi du ledte med til dagens episode."
+    }
+  ]
+}

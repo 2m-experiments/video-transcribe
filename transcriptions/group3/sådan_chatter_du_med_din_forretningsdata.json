@@ -1,0 +1,926 @@
+{
+  "title": "Sådan chatter du med din forretningsdata",
+  "url": "https://www.youtube.com/watch?v=JbV2dZi597Q",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 656.2,
+  "transcribed_at": "2026-04-16T12:17:41.299914+00:00",
+  "full_text": "Christian, du har lagt op til en superspændende episode om, hvordan man skal chatte ved hjælp af AI med ens data. Og du har skrevet i dine noter, hvem kender ikke det at vågne kl. 1.30 om natten og tænke videre om der er en sammenhæng mellem X og Y. Har du sovet godt i nat? Ja, indtil klokken blev det alle to. Det er faktisk ikke løgn. Helt ærligt, det er faktisk ikke løgn. Det er lidt skræmmende, det ved jeg godt. Jeg er okay, hvis nogen skulle tænke. Fordi det spørgsmål kommer ikke fra hælften, men jeg er okay. Det er jeg glad for. Altså, kender du ikke det? At stå i badet og tænke, oh shit, er der egentlig et eller andet her? Jo, nærmere nede at træne, og så får man alle de gode idéer, fordi man har kørt fuldstændig op på pre-workout. Men jo, ellers noget i den samme retning. Og der skal vi så snakke om en mulighed for rent faktisk at gøre det. Og det synes jeg, du har lagt nogle spændende tanker op om. Hvad vil det sige egentlig at chatte med ens data? Og hvorfor er det sådan et fedt eksempel på, hvordan AI kan bruges helt lavpraktisk? Jeg tror, de fleste kender til drømmen om at have det perfekte dashboard i sit forretning. Det her dashboard, der kører på en stor flad skærm inde på kontoret, hvor man altid kan følge med i alle sine tal. Og det er for så vidt også fint, og det er mega fedt. Det kender jeg godt. Problemet er bare, at de her dashboards typisk er sat op ud fra nogle krav, man havde, da man ligesom satte det her dashboard op. Og derfor er du også låst i, hvad det er, du kan se. Problemet er jo så, når du sidder med nogle tanker om, kan jeg vide, om der er en eller anden sammenhæng her og her? Eller hvordan er spændtet på den her kanal versus sidste år i samme kvartal, men hvor vi samtidig holder antallet af solgte enheder af et eller andet produkt op imod det? Måske et åndssvagt eksempel. Men det er de her spørgsmål, som man sidder og stiller sig derude, i hvert fald i for eksempel Ecoms med en større volume. Og de her ting kan man altså ikke bare hive ned i... Eller det kan du godt, men det tager noget tid. Det er her, hvor det er enormt fedt at kunne chatte med AI omkring store datasæt, forskellige datasæt, og på den måde stille de her spørgsmål lige så snart de popper op, om det er nede i træningscenteret, eller om det er klokken halv to om natten. Lad os have nogle konkrete eksempler med, hvordan man kan gøre det her. Så det første eksempel, du har lagt op til, det er forretningskritiske tal, som omsætning spændt på kanalniveau osv. Hvor kunne man hente den her data, og hvad kunne man for eksempel stille spørgsmål om? Yes, det her er et lavpraktisk eksempel fra en case, hvor vi er i gang i flere forskellige lande. Og bare her, der begynder kompleksiteten i dataarbejdet at blive det større, fordi ofte så ser man tingene opfra eller på landeniveau. Men hvis man gerne vil dykke dybere ned, så tager det altså bare noget tid, især hvis ikke man har bygget de her dashboards dertil. Og det havde vi ikke i det her tilfælde. Det var nogle skæve spørgsmål, vi ligesom strøde tilbage med. Så det vi gjorde, det var, vi gik igen og hentede Excel'er eller CSV-filer for henholdsvis omsætning. Og det her var på månedsbasis de sidste 4-5 år. Vi hentede spend ned fra meta og antallet af kliks genereret fra meta, altså metaannonseringen. Det samme gjorde vi for Google Ads, TikTok Ads, Snapchat, Pinterest. Vi hentede omsætningen ned på kategoriniveau, altså hvis man kigger på deres varer, så kunne man dele det op i 10 forskellige kategorier og ordne kategorier. Der hentede vi omsætningen ned igen på månedsbasis de sidste 4-5 år. Så tog vi antallet af nye kunder, vi ligesom hilste velkommen i forretningen de sidste 5 år og deres antallet af returning customers. Og ud fra alt det her, så kunne vi så begynde at stille nogle spørgsmål. For eksempel, er der en eller anden sammenhæng her mellem antallet af solgte, nu var det ikke hundedonutsænge, men nu bruger jeg bare det som eksempel, i Q2 2025 sammenlignet med Q2 2024. Hvordan ser det ud i forhold til antallet af nye kunder? Er der en eller anden korrelation her? Og før folk med statistisk baggrund kommer efter mig og siger, sådan der kan du altså ikke bruge en korrelationsanalys. Nej, det er jeg helt med på. Men det at der er en eller anden form for sammenhæng og får svar på nogle af de spørgsmål, man måtte side med, det er faktisk ret fedt. Og det går simpelthen så stærkt, når man sidder og chatter med AI'en. Og det er jo bare at uploade alle de her CSV-filer ind og så begynde at stille spørgsmålene. Du kan både få grafer, du kan få konkrete svar, altså på skrift fra AI'en, og du kan sågang også få handlingsforslag derfra, hvis du giver den lidt kontekst. Det synes jeg simpelthen er så fedt, og jeg har brugt det enormt meget her på det sidste. Og en ret fed ting, man kan gøre, det er, at den største udfordring for mange ved ChatGPT eller Manus eller hvad man nu arbejder med, det er, at du har jo bare det her store søgeinterface. Du kan gøre hvad som helst, men du skal også vide, hvad du gerne vil lave. Så nogle gange det der med lige at vide, hvad du rent faktisk leder efter, det er ikke sikkert, man gør det, men du ved, du har noget data, hvor der ligger noget interessant. Så det, man kan gøre her, det er, at man kan jo faktisk godt spørge, for eksempel ChatGPT eller Manus, som jeg vil bruge til det her, som også gør det rigtig godt, hvad springer i øjnene på dig? Altså, når jeg uploader al den her data, hvad synes du egentlig, der er spændende at slå ned på her? Og hvis man lige holder, sådan bærer agenten eller ChatGPT om at sige, jeg vil gerne øge omsætning i min forretning. Ud fra al den her data, hvad synes du så kunne være interessant at kigge på i den forbindelse, så du ikke gør den sådan helt bred, men du stadig har et eller andet formål med det? Altså, jeg vil gerne øge min omsætning, jeg vil gerne sænke min omkostning, jeg vil gerne mindske mine processer, hvad det nu skal være. Men så faktisk, altså, lad ChatGPT finde ud af, hvad der er relevant. Du behøver faktisk ikke at vide præcis, hvad du leder efter, hvis du bare har det rigtige dataset fra starten af. Har du god erfaring med bare at komme med sådan en god bred, hvad ligger der af guld i det her, som jeg ikke selv har fundet frem til? Helt vildt, og som du selv siger, hvis først man giver den noget kontekst om, hvor det er, man gerne vil hen, så ligger den jo bare og søger hele nettet igennem og siger, hvad er de bedste metoder til fx at øge omsætningen eller øge antallet af nye kunder, så begynder den at kigge på, hvad er det egentlig for nogle varer, der typisk korrelerer med, at når den her kategori stiger, så stiger antallet af nye kunder også. Kunne der være et eller andet der? Og det kan godt være, at den ikke rammer rigtigt. Den har jo trods alt kun den data, som jeg nu engang har givet den. Men det giver mig da noget at tænke over, og så at sige, det er jo også egentlig sjovt, når vi øger spænd på den her kanal, og vi sælger rigtig mange af de her varer her, så får vi også mange flere nye kunder. Lad mig lige prøve at dykke ned i den givende kanal, om vi rent faktisk kørte nogle annoncer på den her varer, for den data har jeg trods alt ikke givet den, men det kunne jeg jo godt gøre, hvis jeg havde den data. Så det kommer faktisk mere ned til at cleane sin data og have den parat, for at man så netop kan chatte med AI'en omkring det. Men i det her tilfælde, der kunne man jo få nogle indikationer om, hvor man skulle kigge ned hen og få nogle rigtig fede takeaways med derfra. Lad os tage eksempel nummer to, som handler om ekstern data. Og der har vi jo et trick, som vi har omtalt før. Det er, at hvis man arbejder med e-commerce, så kan man gå ind i Google Merchant Center og hive produktinformationen ned om, hvad er de mest populære produkter i min kategori, selvom du ikke sælger dem. Så du kan vælge at sige, at jeg sælger regntøj, eller hundemad, eller hvad det nu skal være, eller hunded udstyr. Og hvad er overordnet de mest populære produkter, også fra andre webshops inden for det her område. Men du har så lige lagt et interessant AI-hack ned over det her, for at gøre den her dataindsamling endnu nemmere. Hvad er vi ude i der? Ja, det, der er lidt sjovt her, det er, at man henter data ned på månesniveau. Så du kan sige, at i 2024, jul i måned, hvad er bare top 100 produkter her på Google Shopping. På tværs, altså ikke kun hos dig, men generelt set på markedet. Altså kæmpe hacker, man kan se de her data. Men det er sådan en hel anden sag. Vi har haft en episode omkring det her. Det, der er lidt af et issue, jeg fandt ud af, det var, at de her CSV-filer, altså for hver måned, skal hentes ned manuelt. Så man skulle ind og lave, jeg ved ikke, hvor mange kliks, for at hente det ned. Og der kunne jeg ikke, altså jeg kunne ikke dyge mig. Jeg blev nødt til at forsøge at få Perplexity Comet, som er den her AI-browser, AI-Agentic-browser, til at sige, du skal nu hente den her file ned for mig på alle måneder fra januar 2024 frem til og med juli, mener jeg, der er kommet data ud for 2025. Og så gik den jo bare i gang. Så jeg sad og svarede mail, mens den ligesom gjorde det. Da den så havde hentet alle de her CSV-filer ned, så uploadede jeg dem til, i det her tilfælde var det faktisk Gemini. Det kunne lige så godt have været ChatGPT. Og så begyndte jeg at stille spørgsmål. Jeg begyndte at stille nogle spørgsmål omkring, hvad er det for nogle produkter, der egentlig har rykket på sig i den her kategori? Hvad er det for nogle produkter, der har stadig det største spring? Hvornår starter sæsonen? Det her var jo sådan nogle produkter, hvor der er noget sæson i. Og jeg kunne godt tænke mig at se de her produkter, der sådan er meget sommer-relateret. Hvornår starter det egentlig? Det starter allerede i marts måned. Og så kunne de jo beskrive for mig, at de her produkter begynder virkelig at stige frem mod marts. Men det er jo fantastisk viden at sidde med, når man sidder som forretning og gerne vil være klar på de her trends her. Jeg delte så også spørgsmålet, fordi jeg ved, at nu går vi snart ind i Q4. Hvornår begynder salget af XYZ-produkt i det her tilfælde at gå ret godt? Jamen det var allerede i september. Så lige nu der kigger vi ind i, og allerede nu at få de her varer på hylderne. Så det er fed, fed indsigt baseret på en masse data, hvor du har nærmest ikke en chance, hvis du bare skal sidde og kigge på 20 forskellige CSV-filer som menneske. Altså det er så svært, men med AI, der går det altså bare stærkt. Lad os tage et tredje eksempel her, hvor man skal forestille sig, at man også er aktiv i andre lande. Og man skulle godt kunne tænke sig at kigge ned i, hvad er det måske for en delstat eller noget andet demografi, som man kan bruge til, lad os sige, måske planlægge noget fysisk udrulling, finde andre retailers. Der er alle mulige ting, man kan gøre med den her data. Hvad kunne eksemplet være her? I det her specifikke tilfælde, der er det en forretning, der opererer blandt andet i Tyskland. Og de sælger online via Shopify. Og det, der er i det, det er, at når en kunde bestiller en vare, så kan jeg se Shipping City, altså byen, den skal sendes til. Men jeg kan ikke se, hvilken delstat det er i. Og til de af jer, der har arbejdet med det tyske marked, det er som lande i sig selv. Altså de her delstater, de er simpelthen så forskellige. Det er helt vildt. Det er måske svært at forholde sig til som danskere, hvor vi ikke er så mange mennesker, som de er i Tyskland. Det kan være verden til forskel, om du targeter Berlin eller Hamburg for den tidspunkt. Så det, der var lidt interessant her at se, det var, hvilke delstater er det egentlig, ordrene kommer fra. Og i stedet for at skulle sidde og mappe hver by ud, altså den her by her, nu googler jeg lige den her by. Hvad for en delstat er den i? Jamen det er herovre. Så tog vi, vi træk hele listen over byer, hvor der har været omsætning i, og så fået ChatGBT, jeg tror faktisk, det var Gemini i det her tilfælde, men det kan ligeså godt have været ChatGBT, til at lave en konsolidering af den her data og mappe det ud på delstatsniveau. Og vi blev virkelig overrasket af det her. Og det har faktisk gjort, at vi har ændret vores indsats i Tyskland for den her pågældende kunde, og det undrede faktisk også kunden, så det var en helt ny viden. Men det er sådan nogle ting her, dem lægger man ikke mærke til i det daglige. Det tager så lang tid, og det er lidt et helt projekt, du skal til at finde ud af, hvad for en delstater er det egentlig, ordrene kommer fra. Her, der tog det under 10 minutter, og det er simpelthen bare fantastisk. I princippet kan det jo også gøres med Danmark, hvordan vi kan dele op i regionerne. Er det fra Midtjylland, er det fra København og så videre. Men om det giver lige så meget mening, er jeg lidt mere i tvivl om. Det kan være, at der i nogle cases derude, det giver mening, men sådan nogle større lande som for eksempel Tyskland, der var den her faktisk ret fed. Har du gjort dig nogle erfaringer med om ChatGBT eller Manus, Claude, Gemini, er bedre værktøjer til at gøre det her, eller virker det i stor strik lige godt på dem alle sammen? Jeg har haft mine udfordringer med, at Gemini simpelthen glemmer at vedhæfte filen, jeg beder om. Så jeg beder den om at komme med et svar i en fil, og den bliver ved med at sige, her har jeg vedhæftet CSV-filen, for så ved syvende gang, jeg spørger efter det, så kommer den stadigvæk ikke og siger, at det har en begrænsning. Jeg synes stadigvæk, den er fin til selve det her chatarbejde, men det her ved, at hvis man ønsker en filretur, så har jeg mere held med enten ChatGBT eller Claude.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 10.0,
+      "text": " Christian, du har lagt op til en superspændende episode om, hvordan man skal chatte ved hjælp af AI med ens data."
+    },
+    {
+      "start": 10.0,
+      "end": 16.0,
+      "text": " Og du har skrevet i dine noter, hvem kender ikke det at vågne kl. 1.30 om natten og tænke videre om der er en sammenhæng mellem X og Y."
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": " Har du sovet godt i nat?"
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": " Ja, indtil klokken blev det alle to. Det er faktisk ikke løgn. Helt ærligt, det er faktisk ikke løgn."
+    },
+    {
+      "start": 22.0,
+      "end": 26.0,
+      "text": " Det er lidt skræmmende, det ved jeg godt. Jeg er okay, hvis nogen skulle tænke."
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": " Fordi det spørgsmål kommer ikke fra hælften, men jeg er okay."
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "text": " Det er jeg glad for."
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "text": " Altså, kender du ikke det? At stå i badet og tænke, oh shit, er der egentlig et eller andet her?"
+    },
+    {
+      "start": 35.0,
+      "end": 39.0,
+      "text": " Jo, nærmere nede at træne, og så får man alle de gode idéer, fordi man har kørt fuldstændig op på pre-workout."
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": " Men jo, ellers noget i den samme retning."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": " Og der skal vi så snakke om en mulighed for rent faktisk at gøre det."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": " Og det synes jeg, du har lagt nogle spændende tanker op om."
+    },
+    {
+      "start": 47.0,
+      "end": 50.0,
+      "text": " Hvad vil det sige egentlig at chatte med ens data?"
+    },
+    {
+      "start": 50.0,
+      "end": 54.0,
+      "text": " Og hvorfor er det sådan et fedt eksempel på, hvordan AI kan bruges helt lavpraktisk?"
+    },
+    {
+      "start": 54.0,
+      "end": 59.0,
+      "text": " Jeg tror, de fleste kender til drømmen om at have det perfekte dashboard i sit forretning."
+    },
+    {
+      "start": 59.0,
+      "end": 65.0,
+      "text": " Det her dashboard, der kører på en stor flad skærm inde på kontoret, hvor man altid kan følge med i alle sine tal."
+    },
+    {
+      "start": 65.0,
+      "end": 68.0,
+      "text": " Og det er for så vidt også fint, og det er mega fedt. Det kender jeg godt."
+    },
+    {
+      "start": 68.0,
+      "end": 75.0,
+      "text": " Problemet er bare, at de her dashboards typisk er sat op ud fra nogle krav, man havde, da man ligesom satte det her dashboard op."
+    },
+    {
+      "start": 75.0,
+      "end": 77.0,
+      "text": " Og derfor er du også låst i, hvad det er, du kan se."
+    },
+    {
+      "start": 77.0,
+      "end": 82.0,
+      "text": " Problemet er jo så, når du sidder med nogle tanker om, kan jeg vide, om der er en eller anden sammenhæng her og her?"
+    },
+    {
+      "start": 82.0,
+      "end": 88.0,
+      "text": " Eller hvordan er spændtet på den her kanal versus sidste år i samme kvartal,"
+    },
+    {
+      "start": 88.0,
+      "end": 93.0,
+      "text": " men hvor vi samtidig holder antallet af solgte enheder af et eller andet produkt op imod det?"
+    },
+    {
+      "start": 93.0,
+      "end": 95.0,
+      "text": " Måske et åndssvagt eksempel."
+    },
+    {
+      "start": 95.0,
+      "end": 102.0,
+      "text": " Men det er de her spørgsmål, som man sidder og stiller sig derude, i hvert fald i for eksempel Ecoms med en større volume."
+    },
+    {
+      "start": 102.0,
+      "end": 105.0,
+      "text": " Og de her ting kan man altså ikke bare hive ned i..."
+    },
+    {
+      "start": 105.0,
+      "end": 107.0,
+      "text": " Eller det kan du godt, men det tager noget tid."
+    },
+    {
+      "start": 107.0,
+      "end": 113.0,
+      "text": " Det er her, hvor det er enormt fedt at kunne chatte med AI omkring store datasæt, forskellige datasæt,"
+    },
+    {
+      "start": 113.0,
+      "end": 116.0,
+      "text": " og på den måde stille de her spørgsmål lige så snart de popper op,"
+    },
+    {
+      "start": 116.0,
+      "end": 120.0,
+      "text": " om det er nede i træningscenteret, eller om det er klokken halv to om natten."
+    },
+    {
+      "start": 120.0,
+      "end": 122.0,
+      "text": " Lad os have nogle konkrete eksempler med, hvordan man kan gøre det her."
+    },
+    {
+      "start": 122.0,
+      "end": 126.0,
+      "text": " Så det første eksempel, du har lagt op til, det er forretningskritiske tal,"
+    },
+    {
+      "start": 126.0,
+      "end": 129.0,
+      "text": " som omsætning spændt på kanalniveau osv."
+    },
+    {
+      "start": 129.0,
+      "end": 133.0,
+      "text": " Hvor kunne man hente den her data, og hvad kunne man for eksempel stille spørgsmål om?"
+    },
+    {
+      "start": 133.0,
+      "end": 139.0,
+      "text": " Yes, det her er et lavpraktisk eksempel fra en case, hvor vi er i gang i flere forskellige lande."
+    },
+    {
+      "start": 139.0,
+      "end": 142.0,
+      "text": " Og bare her, der begynder kompleksiteten i dataarbejdet at blive det større,"
+    },
+    {
+      "start": 142.0,
+      "end": 145.0,
+      "text": " fordi ofte så ser man tingene opfra eller på landeniveau."
+    },
+    {
+      "start": 145.0,
+      "end": 148.0,
+      "text": " Men hvis man gerne vil dykke dybere ned, så tager det altså bare noget tid,"
+    },
+    {
+      "start": 148.0,
+      "end": 150.0,
+      "text": " især hvis ikke man har bygget de her dashboards dertil."
+    },
+    {
+      "start": 150.0,
+      "end": 154.0,
+      "text": " Og det havde vi ikke i det her tilfælde. Det var nogle skæve spørgsmål, vi ligesom strøde tilbage med."
+    },
+    {
+      "start": 154.0,
+      "end": 160.0,
+      "text": " Så det vi gjorde, det var, vi gik igen og hentede Excel'er eller CSV-filer for henholdsvis omsætning."
+    },
+    {
+      "start": 160.0,
+      "end": 163.0,
+      "text": " Og det her var på månedsbasis de sidste 4-5 år."
+    },
+    {
+      "start": 163.0,
+      "end": 169.0,
+      "text": " Vi hentede spend ned fra meta og antallet af kliks genereret fra meta, altså metaannonseringen."
+    },
+    {
+      "start": 169.0,
+      "end": 173.0,
+      "text": " Det samme gjorde vi for Google Ads, TikTok Ads, Snapchat, Pinterest."
+    },
+    {
+      "start": 173.0,
+      "end": 176.0,
+      "text": " Vi hentede omsætningen ned på kategoriniveau,"
+    },
+    {
+      "start": 176.0,
+      "end": 182.0,
+      "text": " altså hvis man kigger på deres varer, så kunne man dele det op i 10 forskellige kategorier og ordne kategorier."
+    },
+    {
+      "start": 182.0,
+      "end": 185.0,
+      "text": " Der hentede vi omsætningen ned igen på månedsbasis de sidste 4-5 år."
+    },
+    {
+      "start": 185.0,
+      "end": 190.0,
+      "text": " Så tog vi antallet af nye kunder, vi ligesom hilste velkommen i forretningen de sidste 5 år"
+    },
+    {
+      "start": 190.0,
+      "end": 193.0,
+      "text": " og deres antallet af returning customers."
+    },
+    {
+      "start": 193.0,
+      "end": 196.0,
+      "text": " Og ud fra alt det her, så kunne vi så begynde at stille nogle spørgsmål."
+    },
+    {
+      "start": 196.0,
+      "end": 200.0,
+      "text": " For eksempel, er der en eller anden sammenhæng her mellem antallet af solgte,"
+    },
+    {
+      "start": 200.0,
+      "end": 204.0,
+      "text": " nu var det ikke hundedonutsænge, men nu bruger jeg bare det som eksempel,"
+    },
+    {
+      "start": 204.0,
+      "end": 209.0,
+      "text": " i Q2 2025 sammenlignet med Q2 2024."
+    },
+    {
+      "start": 209.0,
+      "end": 213.0,
+      "text": " Hvordan ser det ud i forhold til antallet af nye kunder? Er der en eller anden korrelation her?"
+    },
+    {
+      "start": 213.0,
+      "end": 217.0,
+      "text": " Og før folk med statistisk baggrund kommer efter mig og siger,"
+    },
+    {
+      "start": 217.0,
+      "end": 219.0,
+      "text": " sådan der kan du altså ikke bruge en korrelationsanalys."
+    },
+    {
+      "start": 219.0,
+      "end": 221.0,
+      "text": " Nej, det er jeg helt med på."
+    },
+    {
+      "start": 221.0,
+      "end": 225.0,
+      "text": " Men det at der er en eller anden form for sammenhæng og får svar på nogle af de spørgsmål,"
+    },
+    {
+      "start": 225.0,
+      "end": 227.0,
+      "text": " man måtte side med, det er faktisk ret fedt."
+    },
+    {
+      "start": 227.0,
+      "end": 231.0,
+      "text": " Og det går simpelthen så stærkt, når man sidder og chatter med AI'en."
+    },
+    {
+      "start": 231.0,
+      "end": 235.0,
+      "text": " Og det er jo bare at uploade alle de her CSV-filer ind og så begynde at stille spørgsmålene."
+    },
+    {
+      "start": 235.0,
+      "end": 240.0,
+      "text": " Du kan både få grafer, du kan få konkrete svar, altså på skrift fra AI'en,"
+    },
+    {
+      "start": 240.0,
+      "end": 244.0,
+      "text": " og du kan sågang også få handlingsforslag derfra, hvis du giver den lidt kontekst."
+    },
+    {
+      "start": 244.0,
+      "end": 247.0,
+      "text": " Det synes jeg simpelthen er så fedt, og jeg har brugt det enormt meget her på det sidste."
+    },
+    {
+      "start": 247.0,
+      "end": 252.0,
+      "text": " Og en ret fed ting, man kan gøre, det er, at den største udfordring for mange ved ChatGPT"
+    },
+    {
+      "start": 252.0,
+      "end": 256.0,
+      "text": " eller Manus eller hvad man nu arbejder med, det er, at du har jo bare det her store søgeinterface."
+    },
+    {
+      "start": 256.0,
+      "end": 259.0,
+      "text": " Du kan gøre hvad som helst, men du skal også vide, hvad du gerne vil lave."
+    },
+    {
+      "start": 259.0,
+      "end": 262.0,
+      "text": " Så nogle gange det der med lige at vide, hvad du rent faktisk leder efter,"
+    },
+    {
+      "start": 262.0,
+      "end": 266.0,
+      "text": " det er ikke sikkert, man gør det, men du ved, du har noget data, hvor der ligger noget interessant."
+    },
+    {
+      "start": 266.0,
+      "end": 270.0,
+      "text": " Så det, man kan gøre her, det er, at man kan jo faktisk godt spørge, for eksempel ChatGPT eller Manus,"
+    },
+    {
+      "start": 270.0,
+      "end": 274.0,
+      "text": " som jeg vil bruge til det her, som også gør det rigtig godt, hvad springer i øjnene på dig?"
+    },
+    {
+      "start": 274.0,
+      "end": 278.0,
+      "text": " Altså, når jeg uploader al den her data, hvad synes du egentlig, der er spændende at slå ned på her?"
+    },
+    {
+      "start": 278.0,
+      "end": 284.0,
+      "text": " Og hvis man lige holder, sådan bærer agenten eller ChatGPT om at sige,"
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": " jeg vil gerne øge omsætning i min forretning."
+    },
+    {
+      "start": 286.0,
+      "end": 289.0,
+      "text": " Ud fra al den her data, hvad synes du så kunne være interessant at kigge på i den forbindelse,"
+    },
+    {
+      "start": 289.0,
+      "end": 292.0,
+      "text": " så du ikke gør den sådan helt bred, men du stadig har et eller andet formål med det?"
+    },
+    {
+      "start": 292.0,
+      "end": 295.0,
+      "text": " Altså, jeg vil gerne øge min omsætning, jeg vil gerne sænke min omkostning,"
+    },
+    {
+      "start": 295.0,
+      "end": 297.0,
+      "text": " jeg vil gerne mindske mine processer, hvad det nu skal være."
+    },
+    {
+      "start": 297.0,
+      "end": 301.0,
+      "text": " Men så faktisk, altså, lad ChatGPT finde ud af, hvad der er relevant."
+    },
+    {
+      "start": 301.0,
+      "end": 303.0,
+      "text": " Du behøver faktisk ikke at vide præcis, hvad du leder efter,"
+    },
+    {
+      "start": 303.0,
+      "end": 305.0,
+      "text": " hvis du bare har det rigtige dataset fra starten af."
+    },
+    {
+      "start": 305.0,
+      "end": 307.0,
+      "text": " Har du god erfaring med bare at komme med sådan en god bred,"
+    },
+    {
+      "start": 307.0,
+      "end": 310.0,
+      "text": " hvad ligger der af guld i det her, som jeg ikke selv har fundet frem til?"
+    },
+    {
+      "start": 310.0,
+      "end": 313.0,
+      "text": " Helt vildt, og som du selv siger, hvis først man giver den noget kontekst om,"
+    },
+    {
+      "start": 313.0,
+      "end": 316.0,
+      "text": " hvor det er, man gerne vil hen, så ligger den jo bare og søger hele nettet igennem"
+    },
+    {
+      "start": 316.0,
+      "end": 319.0,
+      "text": " og siger, hvad er de bedste metoder til fx at øge omsætningen"
+    },
+    {
+      "start": 319.0,
+      "end": 321.0,
+      "text": " eller øge antallet af nye kunder, så begynder den at kigge på,"
+    },
+    {
+      "start": 321.0,
+      "end": 324.0,
+      "text": " hvad er det egentlig for nogle varer, der typisk korrelerer med,"
+    },
+    {
+      "start": 324.0,
+      "end": 327.0,
+      "text": " at når den her kategori stiger, så stiger antallet af nye kunder også."
+    },
+    {
+      "start": 327.0,
+      "end": 328.0,
+      "text": " Kunne der være et eller andet der?"
+    },
+    {
+      "start": 328.0,
+      "end": 329.0,
+      "text": " Og det kan godt være, at den ikke rammer rigtigt."
+    },
+    {
+      "start": 329.0,
+      "end": 332.0,
+      "text": " Den har jo trods alt kun den data, som jeg nu engang har givet den."
+    },
+    {
+      "start": 332.0,
+      "end": 335.0,
+      "text": " Men det giver mig da noget at tænke over, og så at sige,"
+    },
+    {
+      "start": 335.0,
+      "end": 338.0,
+      "text": " det er jo også egentlig sjovt, når vi øger spænd på den her kanal,"
+    },
+    {
+      "start": 338.0,
+      "end": 341.0,
+      "text": " og vi sælger rigtig mange af de her varer her, så får vi også mange flere nye kunder."
+    },
+    {
+      "start": 341.0,
+      "end": 343.0,
+      "text": " Lad mig lige prøve at dykke ned i den givende kanal,"
+    },
+    {
+      "start": 343.0,
+      "end": 346.0,
+      "text": " om vi rent faktisk kørte nogle annoncer på den her varer,"
+    },
+    {
+      "start": 346.0,
+      "end": 348.0,
+      "text": " for den data har jeg trods alt ikke givet den,"
+    },
+    {
+      "start": 348.0,
+      "end": 350.0,
+      "text": " men det kunne jeg jo godt gøre, hvis jeg havde den data."
+    },
+    {
+      "start": 350.0,
+      "end": 355.0,
+      "text": " Så det kommer faktisk mere ned til at cleane sin data og have den parat,"
+    },
+    {
+      "start": 355.0,
+      "end": 358.0,
+      "text": " for at man så netop kan chatte med AI'en omkring det."
+    },
+    {
+      "start": 358.0,
+      "end": 361.0,
+      "text": " Men i det her tilfælde, der kunne man jo få nogle indikationer om,"
+    },
+    {
+      "start": 361.0,
+      "end": 364.0,
+      "text": " hvor man skulle kigge ned hen og få nogle rigtig fede takeaways med derfra."
+    },
+    {
+      "start": 365.0,
+      "end": 368.0,
+      "text": " Lad os tage eksempel nummer to, som handler om ekstern data."
+    },
+    {
+      "start": 368.0,
+      "end": 370.0,
+      "text": " Og der har vi jo et trick, som vi har omtalt før."
+    },
+    {
+      "start": 370.0,
+      "end": 373.0,
+      "text": " Det er, at hvis man arbejder med e-commerce, så kan man gå ind i Google Merchant Center"
+    },
+    {
+      "start": 373.0,
+      "end": 378.0,
+      "text": " og hive produktinformationen ned om, hvad er de mest populære produkter i min kategori,"
+    },
+    {
+      "start": 378.0,
+      "end": 379.0,
+      "text": " selvom du ikke sælger dem."
+    },
+    {
+      "start": 379.0,
+      "end": 382.0,
+      "text": " Så du kan vælge at sige, at jeg sælger regntøj, eller hundemad,"
+    },
+    {
+      "start": 382.0,
+      "end": 384.0,
+      "text": " eller hvad det nu skal være, eller hunded udstyr."
+    },
+    {
+      "start": 384.0,
+      "end": 386.0,
+      "text": " Og hvad er overordnet de mest populære produkter,"
+    },
+    {
+      "start": 386.0,
+      "end": 388.0,
+      "text": " også fra andre webshops inden for det her område."
+    },
+    {
+      "start": 388.0,
+      "end": 392.0,
+      "text": " Men du har så lige lagt et interessant AI-hack ned over det her,"
+    },
+    {
+      "start": 392.0,
+      "end": 394.0,
+      "text": " for at gøre den her dataindsamling endnu nemmere."
+    },
+    {
+      "start": 394.0,
+      "end": 395.0,
+      "text": " Hvad er vi ude i der?"
+    },
+    {
+      "start": 395.0,
+      "end": 398.0,
+      "text": " Ja, det, der er lidt sjovt her, det er, at man henter data ned på månesniveau."
+    },
+    {
+      "start": 398.0,
+      "end": 402.0,
+      "text": " Så du kan sige, at i 2024, jul i måned,"
+    },
+    {
+      "start": 402.0,
+      "end": 406.0,
+      "text": " hvad er bare top 100 produkter her på Google Shopping."
+    },
+    {
+      "start": 406.0,
+      "end": 409.0,
+      "text": " På tværs, altså ikke kun hos dig, men generelt set på markedet."
+    },
+    {
+      "start": 409.0,
+      "end": 411.0,
+      "text": " Altså kæmpe hacker, man kan se de her data."
+    },
+    {
+      "start": 411.0,
+      "end": 413.0,
+      "text": " Men det er sådan en hel anden sag. Vi har haft en episode omkring det her."
+    },
+    {
+      "start": 413.0,
+      "end": 416.0,
+      "text": " Det, der er lidt af et issue, jeg fandt ud af, det var, at de her CSV-filer,"
+    },
+    {
+      "start": 416.0,
+      "end": 418.0,
+      "text": " altså for hver måned, skal hentes ned manuelt."
+    },
+    {
+      "start": 418.0,
+      "end": 421.0,
+      "text": " Så man skulle ind og lave, jeg ved ikke, hvor mange kliks, for at hente det ned."
+    },
+    {
+      "start": 421.0,
+      "end": 423.0,
+      "text": " Og der kunne jeg ikke, altså jeg kunne ikke dyge mig."
+    },
+    {
+      "start": 423.0,
+      "end": 427.0,
+      "text": " Jeg blev nødt til at forsøge at få Perplexity Comet, som er den her AI-browser,"
+    },
+    {
+      "start": 427.0,
+      "end": 432.0,
+      "text": " AI-Agentic-browser, til at sige, du skal nu hente den her file ned for mig på alle måneder"
+    },
+    {
+      "start": 432.0,
+      "end": 438.0,
+      "text": " fra januar 2024 frem til og med juli, mener jeg, der er kommet data ud for 2025."
+    },
+    {
+      "start": 438.0,
+      "end": 441.0,
+      "text": " Og så gik den jo bare i gang. Så jeg sad og svarede mail, mens den ligesom gjorde det."
+    },
+    {
+      "start": 441.0,
+      "end": 445.0,
+      "text": " Da den så havde hentet alle de her CSV-filer ned, så uploadede jeg dem til,"
+    },
+    {
+      "start": 445.0,
+      "end": 447.0,
+      "text": " i det her tilfælde var det faktisk Gemini."
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": " Det kunne lige så godt have været ChatGPT."
+    },
+    {
+      "start": 449.0,
+      "end": 451.0,
+      "text": " Og så begyndte jeg at stille spørgsmål."
+    },
+    {
+      "start": 451.0,
+      "end": 453.0,
+      "text": " Jeg begyndte at stille nogle spørgsmål omkring, hvad er det for nogle produkter,"
+    },
+    {
+      "start": 453.0,
+      "end": 455.0,
+      "text": " der egentlig har rykket på sig i den her kategori?"
+    },
+    {
+      "start": 455.0,
+      "end": 458.0,
+      "text": " Hvad er det for nogle produkter, der har stadig det største spring?"
+    },
+    {
+      "start": 458.0,
+      "end": 462.0,
+      "text": " Hvornår starter sæsonen? Det her var jo sådan nogle produkter, hvor der er noget sæson i."
+    },
+    {
+      "start": 462.0,
+      "end": 466.0,
+      "text": " Og jeg kunne godt tænke mig at se de her produkter, der sådan er meget sommer-relateret."
+    },
+    {
+      "start": 466.0,
+      "end": 468.0,
+      "text": " Hvornår starter det egentlig? Det starter allerede i marts måned."
+    },
+    {
+      "start": 468.0,
+      "end": 471.0,
+      "text": " Og så kunne de jo beskrive for mig, at de her produkter begynder virkelig at stige frem mod marts."
+    },
+    {
+      "start": 471.0,
+      "end": 476.0,
+      "text": " Men det er jo fantastisk viden at sidde med, når man sidder som forretning og gerne vil være klar på de her trends her."
+    },
+    {
+      "start": 476.0,
+      "end": 480.0,
+      "text": " Jeg delte så også spørgsmålet, fordi jeg ved, at nu går vi snart ind i Q4."
+    },
+    {
+      "start": 480.0,
+      "end": 486.0,
+      "text": " Hvornår begynder salget af XYZ-produkt i det her tilfælde at gå ret godt?"
+    },
+    {
+      "start": 486.0,
+      "end": 492.0,
+      "text": " Jamen det var allerede i september. Så lige nu der kigger vi ind i, og allerede nu at få de her varer på hylderne."
+    },
+    {
+      "start": 492.0,
+      "end": 497.0,
+      "text": " Så det er fed, fed indsigt baseret på en masse data, hvor du har nærmest ikke en chance,"
+    },
+    {
+      "start": 497.0,
+      "end": 499.0,
+      "text": " hvis du bare skal sidde og kigge på 20 forskellige CSV-filer som menneske."
+    },
+    {
+      "start": 499.0,
+      "end": 503.0,
+      "text": " Altså det er så svært, men med AI, der går det altså bare stærkt."
+    },
+    {
+      "start": 503.0,
+      "end": 507.0,
+      "text": " Lad os tage et tredje eksempel her, hvor man skal forestille sig, at man også er aktiv i andre lande."
+    },
+    {
+      "start": 507.0,
+      "end": 513.0,
+      "text": " Og man skulle godt kunne tænke sig at kigge ned i, hvad er det måske for en delstat eller noget andet demografi,"
+    },
+    {
+      "start": 513.0,
+      "end": 517.0,
+      "text": " som man kan bruge til, lad os sige, måske planlægge noget fysisk udrulling, finde andre retailers."
+    },
+    {
+      "start": 517.0,
+      "end": 521.0,
+      "text": " Der er alle mulige ting, man kan gøre med den her data. Hvad kunne eksemplet være her?"
+    },
+    {
+      "start": 521.0,
+      "end": 527.0,
+      "text": " I det her specifikke tilfælde, der er det en forretning, der opererer blandt andet i Tyskland."
+    },
+    {
+      "start": 527.0,
+      "end": 533.0,
+      "text": " Og de sælger online via Shopify. Og det, der er i det, det er, at når en kunde bestiller en vare,"
+    },
+    {
+      "start": 533.0,
+      "end": 537.0,
+      "text": " så kan jeg se Shipping City, altså byen, den skal sendes til."
+    },
+    {
+      "start": 537.0,
+      "end": 543.0,
+      "text": " Men jeg kan ikke se, hvilken delstat det er i. Og til de af jer, der har arbejdet med det tyske marked,"
+    },
+    {
+      "start": 543.0,
+      "end": 548.0,
+      "text": " det er som lande i sig selv. Altså de her delstater, de er simpelthen så forskellige. Det er helt vildt."
+    },
+    {
+      "start": 548.0,
+      "end": 552.0,
+      "text": " Det er måske svært at forholde sig til som danskere, hvor vi ikke er så mange mennesker, som de er i Tyskland."
+    },
+    {
+      "start": 552.0,
+      "end": 558.0,
+      "text": " Det kan være verden til forskel, om du targeter Berlin eller Hamburg for den tidspunkt."
+    },
+    {
+      "start": 558.0,
+      "end": 563.0,
+      "text": " Så det, der var lidt interessant her at se, det var, hvilke delstater er det egentlig, ordrene kommer fra."
+    },
+    {
+      "start": 563.0,
+      "end": 568.0,
+      "text": " Og i stedet for at skulle sidde og mappe hver by ud, altså den her by her, nu googler jeg lige den her by."
+    },
+    {
+      "start": 568.0,
+      "end": 570.0,
+      "text": " Hvad for en delstat er den i? Jamen det er herovre."
+    },
+    {
+      "start": 570.0,
+      "end": 576.0,
+      "text": " Så tog vi, vi træk hele listen over byer, hvor der har været omsætning i, og så fået ChatGBT,"
+    },
+    {
+      "start": 576.0,
+      "end": 579.0,
+      "text": " jeg tror faktisk, det var Gemini i det her tilfælde, men det kan ligeså godt have været ChatGBT,"
+    },
+    {
+      "start": 579.0,
+      "end": 584.0,
+      "text": " til at lave en konsolidering af den her data og mappe det ud på delstatsniveau."
+    },
+    {
+      "start": 584.0,
+      "end": 587.0,
+      "text": " Og vi blev virkelig overrasket af det her."
+    },
+    {
+      "start": 587.0,
+      "end": 592.0,
+      "text": " Og det har faktisk gjort, at vi har ændret vores indsats i Tyskland for den her pågældende kunde,"
+    },
+    {
+      "start": 592.0,
+      "end": 595.0,
+      "text": " og det undrede faktisk også kunden, så det var en helt ny viden."
+    },
+    {
+      "start": 595.0,
+      "end": 598.0,
+      "text": " Men det er sådan nogle ting her, dem lægger man ikke mærke til i det daglige."
+    },
+    {
+      "start": 598.0,
+      "end": 600.0,
+      "text": " Det tager så lang tid, og det er lidt et helt projekt, du skal til at finde ud af,"
+    },
+    {
+      "start": 600.0,
+      "end": 602.0,
+      "text": " hvad for en delstater er det egentlig, ordrene kommer fra."
+    },
+    {
+      "start": 602.0,
+      "end": 605.0,
+      "text": " Her, der tog det under 10 minutter, og det er simpelthen bare fantastisk."
+    },
+    {
+      "start": 605.0,
+      "end": 608.0,
+      "text": " I princippet kan det jo også gøres med Danmark, hvordan vi kan dele op i regionerne."
+    },
+    {
+      "start": 608.0,
+      "end": 611.0,
+      "text": " Er det fra Midtjylland, er det fra København og så videre."
+    },
+    {
+      "start": 611.0,
+      "end": 614.0,
+      "text": " Men om det giver lige så meget mening, er jeg lidt mere i tvivl om."
+    },
+    {
+      "start": 614.0,
+      "end": 616.0,
+      "text": " Det kan være, at der i nogle cases derude, det giver mening,"
+    },
+    {
+      "start": 616.0,
+      "end": 620.0,
+      "text": " men sådan nogle større lande som for eksempel Tyskland, der var den her faktisk ret fed."
+    },
+    {
+      "start": 620.0,
+      "end": 625.0,
+      "text": " Har du gjort dig nogle erfaringer med om ChatGBT eller Manus, Claude, Gemini,"
+    },
+    {
+      "start": 625.0,
+      "end": 629.0,
+      "text": " er bedre værktøjer til at gøre det her, eller virker det i stor strik lige godt på dem alle sammen?"
+    },
+    {
+      "start": 629.0,
+      "end": 637.0,
+      "text": " Jeg har haft mine udfordringer med, at Gemini simpelthen glemmer at vedhæfte filen, jeg beder om."
+    },
+    {
+      "start": 637.0,
+      "end": 640.0,
+      "text": " Så jeg beder den om at komme med et svar i en fil, og den bliver ved med at sige,"
+    },
+    {
+      "start": 640.0,
+      "end": 644.0,
+      "text": " her har jeg vedhæftet CSV-filen, for så ved syvende gang, jeg spørger efter det,"
+    },
+    {
+      "start": 644.0,
+      "end": 646.0,
+      "text": " så kommer den stadigvæk ikke og siger, at det har en begrænsning."
+    },
+    {
+      "start": 646.0,
+      "end": 650.0,
+      "text": " Jeg synes stadigvæk, den er fin til selve det her chatarbejde,"
+    },
+    {
+      "start": 650.0,
+      "end": 656.0,
+      "text": " men det her ved, at hvis man ønsker en filretur, så har jeg mere held med enten ChatGBT eller Claude."
+    }
+  ]
+}

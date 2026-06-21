@@ -1,0 +1,1296 @@
+{
+  "title": "Shorts: Kan +700 AI-sider ranke? (Programmatic SEO)",
+  "url": "https://www.youtube.com/watch?v=v9QrSpw3VpY",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 834.0,
+  "transcribed_at": "2026-04-17T12:19:08.356128+00:00",
+  "full_text": "Christian, hvor meget har du arbejdet med Programmatic SEO endnu? Ikke nok. Det er sindssygt spændende, og mange af de processer, som vi jo til daglig sidder med i SEO, går jo igen over i Programmatic SEO. Men der er lige det her lille edge, som bare gør det noget smartere, lad os sige det sådan. Jeg synes, det her er det mest spændende område, der er i digital marketing lige nu. For det er alligevel ret sjældent, at man får en af de der innovationer, eller eksterne ting, der sker, som bare skaber et helt nyt område, eller voldsomt effektiviserer et eksisterende område. Facebook-organisationen, da det kom frem, var en af tingene, og TikTok, da det kom frem, var en af tingene. Programmatic SEO er jo ikke et nyt begreb, faktisk. Det har eksisteret i lang tid. Men det, at vi har fået ChatGPT og Klort og andre LLM'er, samtidig med, at vi har fået low-code og no-code værktøjer, som Make.com og Zapier, har bare gjort nogle helt nye ting muligt, som vi ikke kunne lade sig gøre. Jeg har jo et projekt, jeg godt kunne tænke mig, at det er en lille smule ud af at vise, hvordan det rent faktisk går med rent AI-indhold, som faktisk har begyndt at rank, som jeg synes kunne være lidt sjovt. Men til at starte med, kan du ikke forklare kort, hvad er Programmatic SEO egentlig? Jo, så helt basalt set arbejder vi jo med SEO på samme måde, men vi forsøger at sætte turbo på, på en måde, som vi ikke har kunnet gøre tidligere. Og det er netop ved at bruge de her LLM'er til at generere den tekst, vi ellers skulle have genereret, men samtidig også få den til at pushe det ud på hjemmesiden, uden nødvendigvis menneskelige indblanding. Så helt lavpraktisk, så laver man stadigvæk den her SEO-analyse, hvor man kategoriserer de her undersider på hjemmesiden, og man strukturerer sit website, præcis som man kender det fra det normale SEO-arbejde. Der hvor den store forskel er, at man tidligere har sendt det til en tekstforfatter, eller man har internt siddet og skulle arbejde med de her tekster og sørge for, at de her keywords indgår i teksterne, og dernede skulle man kopiere dem ind på websitet og publish og sørge for, at det hele spiller. Det er hele den del af processen, vi i dag gør markant smartere ved hjælp af AI, hvor vi får AI'en til at generere de her tekster, pushe det ud og lave de her nye undersider faktisk automatisk. Og det gør bare, at man kan arbejde med SEO på en skala, som der overhovedet ikke er set før. Jeg startede Digital Marketing som kortledende tekstforfatter. Dengang fik jeg 20 øvre per år og fik mine første kunder via amino.dk og begyndte at skrive artikler til webshops og affiliate sites og alle mulige andre ting. Det virkede, men det var også bare omkostningstungt. Hvis der var nogen, der ville have 100 artikler, så kostede det bare det. Det kostede 100 kr. per artikel gange 100, og så skulle du bare bruge de penge. Hvor omkostningen, produktionsomkostningen, når du arbejder med Programmatic SEO, er nærmest ingenting. Vi kan tage udgangspunkt i det projekt. Vi har et internprojekt. Vi laver det her for en del kunder allerede, og jeg er meget aktiv indenfor det. Jeg synes, det er enormt spændende. Men vi har et internprojekt, som vi kan vise lidt frem. Jeg har købt domænet digitalmarketingordbog.dk. Det er et nemt Programmatic SEO-projekt at lave et digitalmarketingordbog eller alle typer ordbøger. Her udgiver vi definitioner af digitalmarketingrelaterede termer. Vi er oppe omkring at have 717 sider indekseret nu. Det her er sider, som er skrevet via ChatGPT og Claude. Nu har jeg et eksempel her med brugervenlighedstest. Så er der prompteret, hvordan vi gerne vil have, at den skal skrives, så det passer til en eller anden skabelån. I det her tilfælde har vi også AI-genereret en video via et værktøj, der har det vanvittige navn ZebraCat.ai. Det skulle jo hedde et eller andet, så det gjorde det. Det har taget vores tekst og automatisk genereret en lille video ude fra det. Og så ligger den egentlig og kører længere ned. Man kan godt se, at den er AI-genereret, hvis man arbejder tilpas meget med AI, men den virker sådan set fint. Måden det her site er lavet på, det er, at der ligger et bagvedlæggende spreadsheet, hvor vi lægger ord ind, som vi gerne vil have ind på ordbogen. Så ligger der et stort makeflow, make.com, som tidligere havde en tekromat. Og når vi går ind og lægger et nyt ord ind i det her spreadsheet, så går der ca. 30 sekunder, og så ligger der en artikel inde på digitalmarketingordbogen efterfølgende om det ord. Og det, der teknisk set sker, det er, at vi tager et søger, laver noget research, genererer en artikel, genererer altså en byline og underoverskrifter, genererer en artikel, genererer selv et billede til det, i et andet makeflow får den her artikel ind i spreadsheetet, lægger den direkte ind på WordPress-siden, publicerer i det template, der er blevet tilpasset til det, og så kører den. Og hver artikel, hvis nu siger jeg en artikel fra start til slut, det tager ca. 30 sekunder, og det koster ca. 1 kroner i tokenomkostninger. Jeg tror, det koster 1,2 eller sådan noget. Så hvis jeg tager alle vores tokenomkostninger, altså de LLM'er, vi bruger, og vores makeomkostninger og dividerer det ud per artikel, så tror jeg, vi ender på omkring 1,2 kroner per artikel. Og det kan jeg ikke selv skrive dem for. Nej. Det er helt sikkert. Det trækkede er jo så, hvor godt ranker det her? Ja, det glæder jeg mig til at se. Fordi det er jo noget af det, der altid bliver diskuteret. AI-indhold, det kan jeg ikke ranke. Og det er ikke lige så godt, som hvis din menneske havde skrevet det, osv. Så skal vi ikke lige prøve at tage et kig på, hvordan det egentlig er gået indtil videre? Og nu skal man sige, i SEO-kontekst er det her på relativt kort tid. Det er det, fordi vi startede Sejled i august i fire måneder siden, og så har lanseret sider lidt løbende. Så hvis man kigger i Google Search Console og tager vores sider her, så vil man kunne se, at der er nogle hop løbende. Nu tager vi lige den indexerede graf her, hvis man ser mere på YouTube eller på Spotify med video. Så man kan se, vi har udgivet lidt i hop. Først 30 sider, så lagde vi 200 mere på, så kom der 100 mere, så kom der 100 mere, så kom der 100 mere. Nu ligger vi på 755 sider, så det er cirka 717 indexerede artikler, tror jeg. Og jeg har lige lagt nogle flere i kø. Det kan vi komme tilbage til lige om lidt, hvor de rent faktisk kom fra. Hvis man så ser på effektiviteten, så er det stille og roligt. Der sker rent faktisk noget. Vi er der, hvor vi i går fik 2300 eksponeringer, så det vil sige digital marketing, hvor på.dk blev vist 2321 gange Google-søgeresultater i Danmark, og vi fik 10 klik. Så vi har en ret lav gennemsnitlig klik-flowrate på 0,4, en ret lav gennemsnitlig placering på 47, men det er også et spritnyt domæn. Så det er jeg rimelig fint tilfreds med. Og så kan vi jo begynde at se noget med, hvad vi rent faktisk får klik på. Så det er jo det fede ved Google Search Console, hvor man får data til direkte fra Google, så jeg kan se, at vi rent allerede er okay på CPM-beregnet, og kløngeanalyser, og brugervenlighedstest, og virkelig også digital marketing, som vi er begyndt at rent en lille smule på. Så på den her måde, der sidder vi egentlig og holder øje med det her site, og så bare hygger os en lille smule, og ser, hvad kan det egentlig blive til. Og lad os nu sige, at man er en stor forhandlere, og har en masse undersider af alle mulige slags, og man har også samtidig et brand, man gerne vil være en om, og man vil gerne sørge for, at de her tekster ikke er vulapyg, fordi at man måske selv har oplevet, at når man har fået ChatGPT til at skrive en tekst, helt, nu siger jeg kold, og nu kommer jeg tilbage til, hvorfor jeg siger kold, altså en kold ChatGPT til at skrive en tekst omkring et givende emne, det er ikke spot on, og så holder man sig fra Programmatic SEO. Er det korrekt forstået, at man kan gå fra en kold GPT til en mere varm GPT, og vil ligesom lave sit eget miljø? Hvad laver det, der hedder en custom GPT, hvor man ligesom giver ChatGPT, for eksempel, eller hvad man nu bruger til at skrive de her tekster, til at, hvad skal man sige, de informationer, som er vigtige, at teksten, den ligesom, skal kunne for, at det er on brand. Er det korrekt forstået, sådan som man faktisk får et output, der passer ind? Ja, og der er flere måder at gøre det her på, så man kan sige, hvis man tog et server, som jeg gerne vil lægge ind på digital marketing, og gik ind på ChatGPT og sagde, skriv 500 ord om det her, vil man ikke få den samme artikel, som jeg får i vores flow? Fordi vores flow, det har en del mere custom prompting og custom GPT'ere lagt ind over, som gør, at den skriver det på den måde, vi har defineret, at det skal skrives på. Og når vi gør det her for eksempel webshops, webshops er en ret stor kundegruppe for os på Programmatic SEO lige nu, hvor vi tager deres kategori og produkttekster, hiver dem ud, data enricher dem, skriver nye tekster og lægger tilbage igen. Så bruger vi den data, der ligger på shoppen, custom promptet med de USB'er, som man gerne vil fremhæve, og har vi gratis fragt, og har vi fri retur, og alle de der ting, kan vi faktisk indarbejde i teksten. Og der er flere måder at gøre det på. Man kan starte med grundig custom prompting, og det kommer man rigtig langt med. Så kan man også bygge sine egne GPT'ere. Man kan begynde at eksperimentere med flere LLM'er. Vi har rigtig god erfaring lige nu med det, man kan kalde chain prompting, eller sekventiel prompting, hvor i stedet for at lave et stort prompt, og så prøve at pakke det hele ind i det, så laver vi først et prompt og får en tekst. Så laver vi en ny prompt på den tekst, og en ny prompt, og en ny prompt, og en ny prompt. Fordi vi oplever, at det faktisk fungerer bedre, når vi tager det sådan lidt i skridt, fremfor når vi forsøger at klemme det hele ind i ét prompt til at starte med. Fordi jo mere du klemmer et i et prompt, jo mere oplever vi at ChatGPT, eller Claude, eller Gemini, eller LLM'er, eller hvilken LLM vi nu engang arbejder med, jo større er risikoen for, at de faktisk bare overser, eller kommer til at glemme nogle af de ting, som vi rent faktisk bader om. Så det at generere det med de her sekventielle prompts, er faktisk en af de store nøgler til at få mere ud af det. Og det er også der, hvor du ender med at få af i indholdet, som er både markant meget billigere, altså jeg kan lige gentage 1 kroner pr. artikel rundt regnet, inklusivt uploadet med make.com, men faktisk også bedre, end meget af det, du vil have skrevet med mennesker. Særlig hvis det bliver sådan nogle repetitive tekster, som for eksempel produkttekster, eller kategoritekster, eller ordbogstekster, som er det, vi indover her. Så skal du nok ikke bruge det til at skrive dit næste længde indopslag, og så bliver det lidt generisk. Men du kan faktisk komme enormt blank med de ting, som man tidligere ville betale tekstforfattere for at skrive, og jeg vil faktisk sige, du kan komme længere. Altså hvis du prompter dig til dårligere tekster, end du kan skrive selv, så er det ikke LLM, der er problemet, så er det dig, der prompter dårligt. Og så det fede, så synes jeg bare, at du op, du laver en maskine. Altså jeg elsker processer. Det er jo en maskine, du laver for dig selv, og du beriger den med tiden. Du bliver klogere på, hvordan de her tekster bliver endnu bedre. Det er jo et kæmpe aktivt i enhver forretning. Altså det er jo ret vildt. Ja, og skaleringen er sindssyg nu her. Jeg har siddet her i weekenden. Jeg kan lige prøve at vise dig det næste, jeg er i gang med lige nu på siden, fordi nu vil jeg gerne tage den lidt op i besøgene. Så det, jeg har været inde og gøre, det er, hvis man ser på, hvad digital marketing overhovedet lige nu ranker på, så er der noget growth marketing, viralt tendens, udregnet CPM osv. Men vi har også lidt en udfordring med, at der er mange af de serverer, vi har, for eksempel Dynamisk Remarketing. Altså vi kan ranke rigtig godt på det, men der er 10 lønner om måneden. Så du ved, lige nu har jeg valgt serverer efter, altså multikanal markedsføring, 10 søgninger om måneden. Årh, det bliver svært at opbygge trafik med det her, ikke? Så lige nu, der har jeg bare valgt serverer efter alle mulige digitale marketingbegreber, og også nogle lister, jeg har skabt via LLM'erne. Men noget, jeg har gjort for nyligt, som jeg glæder mig til at se resultater af, det er, at Ahrefs har jo en funktion til at lave content gap analyser. Så hvis jeg går ned på Ahrefs top organic competitors, så kan jeg se, at de største konkurrenter til digital marketing over på punktum.dk lige nu, det er bl.a. laserweb, inbound.ch, tekster osv. Der kan jeg så i Ahrefs lave den her open-end content gap, og så kan jeg simpelthen se, hvad ranker de her fire andre sider på, som jeg lige nu ikke ranker på. Og der har jeg siddet i weekenden og hygget mig en lille smule med at se, hvad ranker de på, som jeg ikke ranker på. Så så jeg f.eks. det her. Kender du omverdensmodellen? Årh, det tager mig tilbage til gymnasietiden. Jeg kan simpelthen ikke huske den. Og jeg kan så sige, at omverdensmodellen, det er et eller andet marketingrelateret til noget betydning af virksomheden. Jeg var STX, jeg var ikke HHX, så jeg har sgu aldrig lige fået omverdensmodellen. Men det er marketingrelateret. Det er noget med, hvad der påvirker ens virksomhed udefra. Men det er faktisk marketingrelateret. Og det, der er fedt ved den, det er, at der er 5.200 skoleelever, der googler omverdensmodellen i gennemsnit hver eneste måned, fordi de har fået en opgave med det. Og det kunne lige så godt være mig, der var inde og rank på det her. Det, jeg har gjort som det næste til vores overbrug, det er, at jeg har været inde på den her content gap-analyse på Agrefs med de her største konkurrenter. Og så har jeg faktisk bare været igennem den her liste manuelt. Og så har jeg lige udvalgt omkring, jeg tror, jeg har lagt 50 søgere ind, som vi skal lave som det næste, som alle sammen har søgninger. Så nu har jeg simpelthen gået lidt mere strategisk til værks i forhold til søgninger, fordi lige nu har vi bare banket 700 artikler ind, og så tilfældigvis på nogle af dem var der rent faktisk søgevolumen. Men rigtig mange af de artikler, vi har, er der ikke nogen søgevolumen på. Nu har jeg gået lidt mere strategisk til værks, og så har jeg taget noget, der rent faktisk er søgevolumen på. Så det glæder jeg mig ret meget til at se, hvad der kommer til at ske, når vi uploader de artikler. Og det eneste, vi faktisk lige afventer, det er, at jeg vil lige have dem oversat. Fordi noget af det, der er også sjovt, det er, at vi har digitalmarketingordbog.dk. Vi har den altså også på serbisk, tysk, engelsk og finsk. Så jeg er lige i gang med at få oversat de her 50 nye ord, fordi det tør jeg ikke gør ved at chatgebetale. Det har jeg ikke gjort, men jeg er lige ved at få det valideret af en finde, så jeg rammer de rigtige ord. Fordi så kan vi lige så godt lave det på alle fem sider på én gang. Fordi det fede det er jo, når vi først har lavet modellen, så er det bare at koble den op med et nyt WordPress-site, ændre sproget, og så udgiver vi på finsk til en krone pr. artikel. Det er så fedt. Det er så fedt at høre. Så jeg tænkte, det kunne være sjovt. Nu har vi lavet en lille check-in på den her, hvor den har været i gang i et par måneder, og den får stort set lov til at passe sig selv. Vi har 2.000 eksponeringer, en 10-klik om dagen eller et eller andet lige nu. Lad os prøve at se, hvor vi er med et par måneder, hvor vi har banket 400-500 artikler mere ind på den sikkert. Vi laver lidt AI-link-building. Vi kører AI-links.dk ind til den, bare for at få en lille smule backlink-profil ind. Og så bare se, hvor vi ender til den tid. Har I givet jer lidt mere lyst til at arbejde med programmatik-CUE for den her episode? Ja, for pokker. Jeg synes, det er så fedt. Jeg synes, det er så fedt. Så absolut. Det kommer vi til at snakke meget mere om, når vi først får det her til at virke rigtig godt. Og vi er rigtig godt i gang allerede. Jeg glæder mig til at snakke mere om det.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 8.0,
+      "text": " Christian, hvor meget har du arbejdet med Programmatic SEO endnu?"
+    },
+    {
+      "start": 8.0,
+      "end": 15.0,
+      "text": " Ikke nok. Det er sindssygt spændende, og mange af de processer, som vi jo til daglig sidder med i SEO, går jo igen over i Programmatic SEO."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "text": " Men der er lige det her lille edge, som bare gør det noget smartere, lad os sige det sådan."
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": " Jeg synes, det her er det mest spændende område, der er i digital marketing lige nu."
+    },
+    {
+      "start": 26.0,
+      "end": 37.0,
+      "text": " For det er alligevel ret sjældent, at man får en af de der innovationer, eller eksterne ting, der sker, som bare skaber et helt nyt område,"
+    },
+    {
+      "start": 37.0,
+      "end": 40.0,
+      "text": " eller voldsomt effektiviserer et eksisterende område."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": " Facebook-organisationen, da det kom frem, var en af tingene, og TikTok, da det kom frem, var en af tingene."
+    },
+    {
+      "start": 45.0,
+      "end": 49.0,
+      "text": " Programmatic SEO er jo ikke et nyt begreb, faktisk. Det har eksisteret i lang tid."
+    },
+    {
+      "start": 49.0,
+      "end": 56.0,
+      "text": " Men det, at vi har fået ChatGPT og Klort og andre LLM'er, samtidig med, at vi har fået low-code og no-code værktøjer,"
+    },
+    {
+      "start": 56.0,
+      "end": 60.0,
+      "text": " som Make.com og Zapier, har bare gjort nogle helt nye ting muligt, som vi ikke kunne lade sig gøre."
+    },
+    {
+      "start": 60.0,
+      "end": 66.0,
+      "text": " Jeg har jo et projekt, jeg godt kunne tænke mig, at det er en lille smule ud af at vise, hvordan det rent faktisk går med rent AI-indhold,"
+    },
+    {
+      "start": 66.0,
+      "end": 69.0,
+      "text": " som faktisk har begyndt at rank, som jeg synes kunne være lidt sjovt."
+    },
+    {
+      "start": 69.0,
+      "end": 73.0,
+      "text": " Men til at starte med, kan du ikke forklare kort, hvad er Programmatic SEO egentlig?"
+    },
+    {
+      "start": 73.0,
+      "end": 82.0,
+      "text": " Jo, så helt basalt set arbejder vi jo med SEO på samme måde, men vi forsøger at sætte turbo på, på en måde, som vi ikke har kunnet gøre tidligere."
+    },
+    {
+      "start": 82.0,
+      "end": 90.0,
+      "text": " Og det er netop ved at bruge de her LLM'er til at generere den tekst, vi ellers skulle have genereret,"
+    },
+    {
+      "start": 90.0,
+      "end": 96.0,
+      "text": " men samtidig også få den til at pushe det ud på hjemmesiden, uden nødvendigvis menneskelige indblanding."
+    },
+    {
+      "start": 96.0,
+      "end": 103.0,
+      "text": " Så helt lavpraktisk, så laver man stadigvæk den her SEO-analyse, hvor man kategoriserer de her undersider på hjemmesiden,"
+    },
+    {
+      "start": 103.0,
+      "end": 107.0,
+      "text": " og man strukturerer sit website, præcis som man kender det fra det normale SEO-arbejde."
+    },
+    {
+      "start": 107.0,
+      "end": 112.0,
+      "text": " Der hvor den store forskel er, at man tidligere har sendt det til en tekstforfatter,"
+    },
+    {
+      "start": 112.0,
+      "end": 117.0,
+      "text": " eller man har internt siddet og skulle arbejde med de her tekster og sørge for, at de her keywords indgår i teksterne,"
+    },
+    {
+      "start": 117.0,
+      "end": 121.0,
+      "text": " og dernede skulle man kopiere dem ind på websitet og publish og sørge for, at det hele spiller."
+    },
+    {
+      "start": 121.0,
+      "end": 128.0,
+      "text": " Det er hele den del af processen, vi i dag gør markant smartere ved hjælp af AI,"
+    },
+    {
+      "start": 128.0,
+      "end": 135.0,
+      "text": " hvor vi får AI'en til at generere de her tekster, pushe det ud og lave de her nye undersider faktisk automatisk."
+    },
+    {
+      "start": 135.0,
+      "end": 141.0,
+      "text": " Og det gør bare, at man kan arbejde med SEO på en skala, som der overhovedet ikke er set før."
+    },
+    {
+      "start": 141.0,
+      "end": 145.0,
+      "text": " Jeg startede Digital Marketing som kortledende tekstforfatter."
+    },
+    {
+      "start": 145.0,
+      "end": 149.0,
+      "text": " Dengang fik jeg 20 øvre per år og fik mine første kunder via amino.dk"
+    },
+    {
+      "start": 149.0,
+      "end": 154.0,
+      "text": " og begyndte at skrive artikler til webshops og affiliate sites og alle mulige andre ting."
+    },
+    {
+      "start": 154.0,
+      "end": 157.0,
+      "text": " Det virkede, men det var også bare omkostningstungt."
+    },
+    {
+      "start": 157.0,
+      "end": 160.0,
+      "text": " Hvis der var nogen, der ville have 100 artikler, så kostede det bare det."
+    },
+    {
+      "start": 160.0,
+      "end": 165.0,
+      "text": " Det kostede 100 kr. per artikel gange 100, og så skulle du bare bruge de penge."
+    },
+    {
+      "start": 165.0,
+      "end": 169.0,
+      "text": " Hvor omkostningen, produktionsomkostningen, når du arbejder med Programmatic SEO,"
+    },
+    {
+      "start": 169.0,
+      "end": 171.0,
+      "text": " er nærmest ingenting."
+    },
+    {
+      "start": 171.0,
+      "end": 173.0,
+      "text": " Vi kan tage udgangspunkt i det projekt. Vi har et internprojekt."
+    },
+    {
+      "start": 173.0,
+      "end": 176.0,
+      "text": " Vi laver det her for en del kunder allerede, og jeg er meget aktiv indenfor det."
+    },
+    {
+      "start": 176.0,
+      "end": 177.0,
+      "text": " Jeg synes, det er enormt spændende."
+    },
+    {
+      "start": 177.0,
+      "end": 180.0,
+      "text": " Men vi har et internprojekt, som vi kan vise lidt frem."
+    },
+    {
+      "start": 180.0,
+      "end": 183.0,
+      "text": " Jeg har købt domænet digitalmarketingordbog.dk."
+    },
+    {
+      "start": 183.0,
+      "end": 187.0,
+      "text": " Det er et nemt Programmatic SEO-projekt at lave et digitalmarketingordbog"
+    },
+    {
+      "start": 187.0,
+      "end": 189.0,
+      "text": " eller alle typer ordbøger."
+    },
+    {
+      "start": 189.0,
+      "end": 193.0,
+      "text": " Her udgiver vi definitioner af digitalmarketingrelaterede termer."
+    },
+    {
+      "start": 193.0,
+      "end": 197.0,
+      "text": " Vi er oppe omkring at have 717 sider indekseret nu."
+    },
+    {
+      "start": 197.0,
+      "end": 201.0,
+      "text": " Det her er sider, som er skrevet via ChatGPT og Claude."
+    },
+    {
+      "start": 201.0,
+      "end": 204.0,
+      "text": " Nu har jeg et eksempel her med brugervenlighedstest."
+    },
+    {
+      "start": 204.0,
+      "end": 207.0,
+      "text": " Så er der prompteret, hvordan vi gerne vil have, at den skal skrives,"
+    },
+    {
+      "start": 207.0,
+      "end": 209.0,
+      "text": " så det passer til en eller anden skabelån."
+    },
+    {
+      "start": 209.0,
+      "end": 212.0,
+      "text": " I det her tilfælde har vi også AI-genereret en video via et værktøj,"
+    },
+    {
+      "start": 212.0,
+      "end": 215.0,
+      "text": " der har det vanvittige navn ZebraCat.ai."
+    },
+    {
+      "start": 217.0,
+      "end": 220.0,
+      "text": " Det skulle jo hedde et eller andet, så det gjorde det."
+    },
+    {
+      "start": 220.0,
+      "end": 223.0,
+      "text": " Det har taget vores tekst og automatisk genereret en lille video ude fra det."
+    },
+    {
+      "start": 223.0,
+      "end": 225.0,
+      "text": " Og så ligger den egentlig og kører længere ned."
+    },
+    {
+      "start": 225.0,
+      "end": 229.0,
+      "text": " Man kan godt se, at den er AI-genereret, hvis man arbejder tilpas meget med AI,"
+    },
+    {
+      "start": 229.0,
+      "end": 231.0,
+      "text": " men den virker sådan set fint."
+    },
+    {
+      "start": 231.0,
+      "end": 236.0,
+      "text": " Måden det her site er lavet på, det er, at der ligger et bagvedlæggende spreadsheet,"
+    },
+    {
+      "start": 236.0,
+      "end": 239.0,
+      "text": " hvor vi lægger ord ind, som vi gerne vil have ind på ordbogen."
+    },
+    {
+      "start": 239.0,
+      "end": 244.0,
+      "text": " Så ligger der et stort makeflow, make.com, som tidligere havde en tekromat."
+    },
+    {
+      "start": 244.0,
+      "end": 247.0,
+      "text": " Og når vi går ind og lægger et nyt ord ind i det her spreadsheet,"
+    },
+    {
+      "start": 247.0,
+      "end": 251.0,
+      "text": " så går der ca. 30 sekunder, og så ligger der en artikel inde på"
+    },
+    {
+      "start": 251.0,
+      "end": 254.0,
+      "text": " digitalmarketingordbogen efterfølgende om det ord."
+    },
+    {
+      "start": 254.0,
+      "end": 259.0,
+      "text": " Og det, der teknisk set sker, det er, at vi tager et søger, laver noget research,"
+    },
+    {
+      "start": 259.0,
+      "end": 262.0,
+      "text": " genererer en artikel, genererer altså en byline og underoverskrifter,"
+    },
+    {
+      "start": 262.0,
+      "end": 265.0,
+      "text": " genererer en artikel, genererer selv et billede til det,"
+    },
+    {
+      "start": 265.0,
+      "end": 268.0,
+      "text": " i et andet makeflow får den her artikel ind i spreadsheetet,"
+    },
+    {
+      "start": 268.0,
+      "end": 270.0,
+      "text": " lægger den direkte ind på WordPress-siden,"
+    },
+    {
+      "start": 270.0,
+      "end": 273.0,
+      "text": " publicerer i det template, der er blevet tilpasset til det, og så kører den."
+    },
+    {
+      "start": 273.0,
+      "end": 279.0,
+      "text": " Og hver artikel, hvis nu siger jeg en artikel fra start til slut,"
+    },
+    {
+      "start": 279.0,
+      "end": 286.0,
+      "text": " det tager ca. 30 sekunder, og det koster ca. 1 kroner i tokenomkostninger."
+    },
+    {
+      "start": 286.0,
+      "end": 288.0,
+      "text": " Jeg tror, det koster 1,2 eller sådan noget."
+    },
+    {
+      "start": 288.0,
+      "end": 292.0,
+      "text": " Så hvis jeg tager alle vores tokenomkostninger, altså de LLM'er, vi bruger,"
+    },
+    {
+      "start": 292.0,
+      "end": 295.0,
+      "text": " og vores makeomkostninger og dividerer det ud per artikel,"
+    },
+    {
+      "start": 295.0,
+      "end": 297.0,
+      "text": " så tror jeg, vi ender på omkring 1,2 kroner per artikel."
+    },
+    {
+      "start": 297.0,
+      "end": 299.0,
+      "text": " Og det kan jeg ikke selv skrive dem for."
+    },
+    {
+      "start": 299.0,
+      "end": 300.0,
+      "text": " Nej."
+    },
+    {
+      "start": 302.0,
+      "end": 304.0,
+      "text": " Det er helt sikkert."
+    },
+    {
+      "start": 305.0,
+      "end": 308.0,
+      "text": " Det trækkede er jo så, hvor godt ranker det her?"
+    },
+    {
+      "start": 311.0,
+      "end": 312.0,
+      "text": " Ja, det glæder jeg mig til at se."
+    },
+    {
+      "start": 312.0,
+      "end": 314.0,
+      "text": " Fordi det er jo noget af det, der altid bliver diskuteret."
+    },
+    {
+      "start": 314.0,
+      "end": 316.0,
+      "text": " AI-indhold, det kan jeg ikke ranke."
+    },
+    {
+      "start": 316.0,
+      "end": 320.0,
+      "text": " Og det er ikke lige så godt, som hvis din menneske havde skrevet det, osv."
+    },
+    {
+      "start": 320.0,
+      "end": 324.0,
+      "text": " Så skal vi ikke lige prøve at tage et kig på, hvordan det egentlig er gået indtil videre?"
+    },
+    {
+      "start": 324.0,
+      "end": 327.0,
+      "text": " Og nu skal man sige, i SEO-kontekst er det her på relativt kort tid."
+    },
+    {
+      "start": 327.0,
+      "end": 331.0,
+      "text": " Det er det, fordi vi startede Sejled i august i fire måneder siden,"
+    },
+    {
+      "start": 331.0,
+      "end": 333.0,
+      "text": " og så har lanseret sider lidt løbende."
+    },
+    {
+      "start": 333.0,
+      "end": 336.0,
+      "text": " Så hvis man kigger i Google Search Console og tager vores sider her,"
+    },
+    {
+      "start": 336.0,
+      "end": 339.0,
+      "text": " så vil man kunne se, at der er nogle hop løbende."
+    },
+    {
+      "start": 339.0,
+      "end": 344.0,
+      "text": " Nu tager vi lige den indexerede graf her, hvis man ser mere på YouTube eller på Spotify med video."
+    },
+    {
+      "start": 344.0,
+      "end": 346.0,
+      "text": " Så man kan se, vi har udgivet lidt i hop."
+    },
+    {
+      "start": 346.0,
+      "end": 350.0,
+      "text": " Først 30 sider, så lagde vi 200 mere på, så kom der 100 mere, så kom der 100 mere, så kom der 100 mere."
+    },
+    {
+      "start": 350.0,
+      "end": 355.0,
+      "text": " Nu ligger vi på 755 sider, så det er cirka 717 indexerede artikler, tror jeg."
+    },
+    {
+      "start": 355.0,
+      "end": 357.0,
+      "text": " Og jeg har lige lagt nogle flere i kø."
+    },
+    {
+      "start": 357.0,
+      "end": 359.0,
+      "text": " Det kan vi komme tilbage til lige om lidt, hvor de rent faktisk kom fra."
+    },
+    {
+      "start": 359.0,
+      "end": 362.0,
+      "text": " Hvis man så ser på effektiviteten, så er det stille og roligt."
+    },
+    {
+      "start": 362.0,
+      "end": 364.0,
+      "text": " Der sker rent faktisk noget."
+    },
+    {
+      "start": 364.0,
+      "end": 368.0,
+      "text": " Vi er der, hvor vi i går fik 2300 eksponeringer,"
+    },
+    {
+      "start": 368.0,
+      "end": 373.0,
+      "text": " så det vil sige digital marketing, hvor på.dk blev vist 2321 gange Google-søgeresultater i Danmark,"
+    },
+    {
+      "start": 373.0,
+      "end": 375.0,
+      "text": " og vi fik 10 klik."
+    },
+    {
+      "start": 375.0,
+      "end": 378.0,
+      "text": " Så vi har en ret lav gennemsnitlig klik-flowrate på 0,4,"
+    },
+    {
+      "start": 378.0,
+      "end": 380.0,
+      "text": " en ret lav gennemsnitlig placering på 47,"
+    },
+    {
+      "start": 380.0,
+      "end": 382.0,
+      "text": " men det er også et spritnyt domæn."
+    },
+    {
+      "start": 382.0,
+      "end": 384.0,
+      "text": " Så det er jeg rimelig fint tilfreds med."
+    },
+    {
+      "start": 384.0,
+      "end": 388.0,
+      "text": " Og så kan vi jo begynde at se noget med, hvad vi rent faktisk får klik på."
+    },
+    {
+      "start": 388.0,
+      "end": 390.0,
+      "text": " Så det er jo det fede ved Google Search Console,"
+    },
+    {
+      "start": 390.0,
+      "end": 392.0,
+      "text": " hvor man får data til direkte fra Google,"
+    },
+    {
+      "start": 392.0,
+      "end": 394.0,
+      "text": " så jeg kan se, at vi rent allerede er okay på CPM-beregnet,"
+    },
+    {
+      "start": 394.0,
+      "end": 396.0,
+      "text": " og kløngeanalyser, og brugervenlighedstest,"
+    },
+    {
+      "start": 396.0,
+      "end": 398.0,
+      "text": " og virkelig også digital marketing,"
+    },
+    {
+      "start": 398.0,
+      "end": 400.0,
+      "text": " som vi er begyndt at rent en lille smule på."
+    },
+    {
+      "start": 400.0,
+      "end": 402.0,
+      "text": " Så på den her måde, der sidder vi egentlig og holder øje med det her site,"
+    },
+    {
+      "start": 402.0,
+      "end": 404.0,
+      "text": " og så bare hygger os en lille smule,"
+    },
+    {
+      "start": 404.0,
+      "end": 407.0,
+      "text": " og ser, hvad kan det egentlig blive til."
+    },
+    {
+      "start": 408.0,
+      "end": 413.0,
+      "text": " Og lad os nu sige, at man er en stor forhandlere,"
+    },
+    {
+      "start": 413.0,
+      "end": 415.0,
+      "text": " og har en masse undersider af alle mulige slags,"
+    },
+    {
+      "start": 415.0,
+      "end": 418.0,
+      "text": " og man har også samtidig et brand, man gerne vil være en om,"
+    },
+    {
+      "start": 418.0,
+      "end": 421.0,
+      "text": " og man vil gerne sørge for, at de her tekster ikke er vulapyg,"
+    },
+    {
+      "start": 421.0,
+      "end": 423.0,
+      "text": " fordi at man måske selv har oplevet,"
+    },
+    {
+      "start": 423.0,
+      "end": 425.0,
+      "text": " at når man har fået ChatGPT til at skrive en tekst,"
+    },
+    {
+      "start": 425.0,
+      "end": 428.0,
+      "text": " helt, nu siger jeg kold, og nu kommer jeg tilbage til, hvorfor jeg siger kold,"
+    },
+    {
+      "start": 428.0,
+      "end": 431.0,
+      "text": " altså en kold ChatGPT til at skrive en tekst omkring et givende emne,"
+    },
+    {
+      "start": 431.0,
+      "end": 435.0,
+      "text": " det er ikke spot on, og så holder man sig fra Programmatic SEO."
+    },
+    {
+      "start": 435.0,
+      "end": 439.0,
+      "text": " Er det korrekt forstået, at man kan gå fra en kold GPT til en mere varm GPT,"
+    },
+    {
+      "start": 439.0,
+      "end": 441.0,
+      "text": " og vil ligesom lave sit eget miljø?"
+    },
+    {
+      "start": 441.0,
+      "end": 443.0,
+      "text": " Hvad laver det, der hedder en custom GPT,"
+    },
+    {
+      "start": 443.0,
+      "end": 446.0,
+      "text": " hvor man ligesom giver ChatGPT, for eksempel,"
+    },
+    {
+      "start": 446.0,
+      "end": 449.0,
+      "text": " eller hvad man nu bruger til at skrive de her tekster,"
+    },
+    {
+      "start": 449.0,
+      "end": 454.0,
+      "text": " til at, hvad skal man sige, de informationer, som er vigtige,"
+    },
+    {
+      "start": 454.0,
+      "end": 459.0,
+      "text": " at teksten, den ligesom, skal kunne for, at det er on brand."
+    },
+    {
+      "start": 459.0,
+      "end": 463.0,
+      "text": " Er det korrekt forstået, sådan som man faktisk får et output, der passer ind?"
+    },
+    {
+      "start": 463.0,
+      "end": 466.0,
+      "text": " Ja, og der er flere måder at gøre det her på,"
+    },
+    {
+      "start": 466.0,
+      "end": 470.0,
+      "text": " så man kan sige, hvis man tog et server, som jeg gerne vil lægge ind på digital marketing,"
+    },
+    {
+      "start": 471.0,
+      "end": 474.0,
+      "text": " og gik ind på ChatGPT og sagde, skriv 500 ord om det her,"
+    },
+    {
+      "start": 474.0,
+      "end": 476.0,
+      "text": " vil man ikke få den samme artikel, som jeg får i vores flow?"
+    },
+    {
+      "start": 476.0,
+      "end": 481.0,
+      "text": " Fordi vores flow, det har en del mere custom prompting og custom GPT'ere lagt ind over,"
+    },
+    {
+      "start": 481.0,
+      "end": 484.0,
+      "text": " som gør, at den skriver det på den måde, vi har defineret, at det skal skrives på."
+    },
+    {
+      "start": 484.0,
+      "end": 486.0,
+      "text": " Og når vi gør det her for eksempel webshops,"
+    },
+    {
+      "start": 486.0,
+      "end": 489.0,
+      "text": " webshops er en ret stor kundegruppe for os på Programmatic SEO lige nu,"
+    },
+    {
+      "start": 489.0,
+      "end": 492.0,
+      "text": " hvor vi tager deres kategori og produkttekster, hiver dem ud,"
+    },
+    {
+      "start": 492.0,
+      "end": 496.0,
+      "text": " data enricher dem, skriver nye tekster og lægger tilbage igen."
+    },
+    {
+      "start": 496.0,
+      "end": 501.0,
+      "text": " Så bruger vi den data, der ligger på shoppen, custom promptet med de USB'er,"
+    },
+    {
+      "start": 501.0,
+      "end": 505.0,
+      "text": " som man gerne vil fremhæve, og har vi gratis fragt, og har vi fri retur,"
+    },
+    {
+      "start": 505.0,
+      "end": 507.0,
+      "text": " og alle de der ting, kan vi faktisk indarbejde i teksten."
+    },
+    {
+      "start": 507.0,
+      "end": 510.0,
+      "text": " Og der er flere måder at gøre det på."
+    },
+    {
+      "start": 510.0,
+      "end": 513.0,
+      "text": " Man kan starte med grundig custom prompting, og det kommer man rigtig langt med."
+    },
+    {
+      "start": 513.0,
+      "end": 515.0,
+      "text": " Så kan man også bygge sine egne GPT'ere."
+    },
+    {
+      "start": 515.0,
+      "end": 517.0,
+      "text": " Man kan begynde at eksperimentere med flere LLM'er."
+    },
+    {
+      "start": 517.0,
+      "end": 521.0,
+      "text": " Vi har rigtig god erfaring lige nu med det, man kan kalde chain prompting,"
+    },
+    {
+      "start": 521.0,
+      "end": 524.0,
+      "text": " eller sekventiel prompting, hvor i stedet for at lave et stort prompt,"
+    },
+    {
+      "start": 524.0,
+      "end": 528.0,
+      "text": " og så prøve at pakke det hele ind i det, så laver vi først et prompt og får en tekst."
+    },
+    {
+      "start": 528.0,
+      "end": 532.0,
+      "text": " Så laver vi en ny prompt på den tekst, og en ny prompt, og en ny prompt, og en ny prompt."
+    },
+    {
+      "start": 532.0,
+      "end": 535.0,
+      "text": " Fordi vi oplever, at det faktisk fungerer bedre, når vi tager det sådan lidt i skridt,"
+    },
+    {
+      "start": 535.0,
+      "end": 539.0,
+      "text": " fremfor når vi forsøger at klemme det hele ind i ét prompt til at starte med."
+    },
+    {
+      "start": 539.0,
+      "end": 543.0,
+      "text": " Fordi jo mere du klemmer et i et prompt, jo mere oplever vi at ChatGPT,"
+    },
+    {
+      "start": 543.0,
+      "end": 548.0,
+      "text": " eller Claude, eller Gemini, eller LLM'er, eller hvilken LLM vi nu engang arbejder med,"
+    },
+    {
+      "start": 548.0,
+      "end": 550.0,
+      "text": " jo større er risikoen for, at de faktisk bare overser,"
+    },
+    {
+      "start": 550.0,
+      "end": 553.0,
+      "text": " eller kommer til at glemme nogle af de ting, som vi rent faktisk bader om."
+    },
+    {
+      "start": 553.0,
+      "end": 555.0,
+      "text": " Så det at generere det med de her sekventielle prompts,"
+    },
+    {
+      "start": 555.0,
+      "end": 558.0,
+      "text": " er faktisk en af de store nøgler til at få mere ud af det."
+    },
+    {
+      "start": 558.0,
+      "end": 561.0,
+      "text": " Og det er også der, hvor du ender med at få af i indholdet,"
+    },
+    {
+      "start": 561.0,
+      "end": 563.0,
+      "text": " som er både markant meget billigere,"
+    },
+    {
+      "start": 563.0,
+      "end": 567.0,
+      "text": " altså jeg kan lige gentage 1 kroner pr. artikel rundt regnet, inklusivt uploadet med make.com,"
+    },
+    {
+      "start": 567.0,
+      "end": 570.0,
+      "text": " men faktisk også bedre, end meget af det, du vil have skrevet med mennesker."
+    },
+    {
+      "start": 570.0,
+      "end": 572.0,
+      "text": " Særlig hvis det bliver sådan nogle repetitive tekster,"
+    },
+    {
+      "start": 572.0,
+      "end": 575.0,
+      "text": " som for eksempel produkttekster, eller kategoritekster, eller ordbogstekster,"
+    },
+    {
+      "start": 575.0,
+      "end": 577.0,
+      "text": " som er det, vi indover her."
+    },
+    {
+      "start": 577.0,
+      "end": 579.0,
+      "text": " Så skal du nok ikke bruge det til at skrive dit næste længde indopslag,"
+    },
+    {
+      "start": 579.0,
+      "end": 580.0,
+      "text": " og så bliver det lidt generisk."
+    },
+    {
+      "start": 580.0,
+      "end": 583.0,
+      "text": " Men du kan faktisk komme enormt blank med de ting,"
+    },
+    {
+      "start": 583.0,
+      "end": 586.0,
+      "text": " som man tidligere ville betale tekstforfattere for at skrive,"
+    },
+    {
+      "start": 586.0,
+      "end": 588.0,
+      "text": " og jeg vil faktisk sige, du kan komme længere."
+    },
+    {
+      "start": 588.0,
+      "end": 590.0,
+      "text": " Altså hvis du prompter dig til dårligere tekster, end du kan skrive selv,"
+    },
+    {
+      "start": 590.0,
+      "end": 593.0,
+      "text": " så er det ikke LLM, der er problemet, så er det dig, der prompter dårligt."
+    },
+    {
+      "start": 594.0,
+      "end": 597.0,
+      "text": " Og så det fede, så synes jeg bare, at du op, du laver en maskine."
+    },
+    {
+      "start": 597.0,
+      "end": 599.0,
+      "text": " Altså jeg elsker processer."
+    },
+    {
+      "start": 599.0,
+      "end": 601.0,
+      "text": " Det er jo en maskine, du laver for dig selv,"
+    },
+    {
+      "start": 601.0,
+      "end": 603.0,
+      "text": " og du beriger den med tiden."
+    },
+    {
+      "start": 603.0,
+      "end": 606.0,
+      "text": " Du bliver klogere på, hvordan de her tekster bliver endnu bedre."
+    },
+    {
+      "start": 606.0,
+      "end": 608.0,
+      "text": " Det er jo et kæmpe aktivt i enhver forretning."
+    },
+    {
+      "start": 608.0,
+      "end": 610.0,
+      "text": " Altså det er jo ret vildt."
+    },
+    {
+      "start": 610.0,
+      "end": 612.0,
+      "text": " Ja, og skaleringen er sindssyg nu her."
+    },
+    {
+      "start": 612.0,
+      "end": 613.0,
+      "text": " Jeg har siddet her i weekenden."
+    },
+    {
+      "start": 613.0,
+      "end": 615.0,
+      "text": " Jeg kan lige prøve at vise dig det næste, jeg er i gang med lige nu på siden,"
+    },
+    {
+      "start": 615.0,
+      "end": 618.0,
+      "text": " fordi nu vil jeg gerne tage den lidt op i besøgene."
+    },
+    {
+      "start": 618.0,
+      "end": 619.0,
+      "text": " Så det, jeg har været inde og gøre, det er,"
+    },
+    {
+      "start": 619.0,
+      "end": 622.0,
+      "text": " hvis man ser på, hvad digital marketing overhovedet lige nu ranker på,"
+    },
+    {
+      "start": 622.0,
+      "end": 626.0,
+      "text": " så er der noget growth marketing, viralt tendens, udregnet CPM osv."
+    },
+    {
+      "start": 626.0,
+      "end": 628.0,
+      "text": " Men vi har også lidt en udfordring med, at der er mange af de serverer,"
+    },
+    {
+      "start": 628.0,
+      "end": 631.0,
+      "text": " vi har, for eksempel Dynamisk Remarketing."
+    },
+    {
+      "start": 631.0,
+      "end": 634.0,
+      "text": " Altså vi kan ranke rigtig godt på det, men der er 10 lønner om måneden."
+    },
+    {
+      "start": 635.0,
+      "end": 637.0,
+      "text": " Så du ved, lige nu har jeg valgt serverer efter,"
+    },
+    {
+      "start": 637.0,
+      "end": 640.0,
+      "text": " altså multikanal markedsføring, 10 søgninger om måneden."
+    },
+    {
+      "start": 640.0,
+      "end": 642.0,
+      "text": " Årh, det bliver svært at opbygge trafik med det her, ikke?"
+    },
+    {
+      "start": 642.0,
+      "end": 644.0,
+      "text": " Så lige nu, der har jeg bare valgt serverer"
+    },
+    {
+      "start": 644.0,
+      "end": 647.0,
+      "text": " efter alle mulige digitale marketingbegreber,"
+    },
+    {
+      "start": 647.0,
+      "end": 649.0,
+      "text": " og også nogle lister, jeg har skabt via LLM'erne."
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " Men noget, jeg har gjort for nyligt, som jeg glæder mig til at se resultater af,"
+    },
+    {
+      "start": 651.0,
+      "end": 654.0,
+      "text": " det er, at Ahrefs har jo en funktion til at lave content gap analyser."
+    },
+    {
+      "start": 654.0,
+      "end": 657.0,
+      "text": " Så hvis jeg går ned på Ahrefs top organic competitors,"
+    },
+    {
+      "start": 657.0,
+      "end": 661.0,
+      "text": " så kan jeg se, at de største konkurrenter til digital marketing over på punktum.dk lige nu,"
+    },
+    {
+      "start": 661.0,
+      "end": 664.0,
+      "text": " det er bl.a. laserweb, inbound.ch, tekster osv."
+    },
+    {
+      "start": 664.0,
+      "end": 668.0,
+      "text": " Der kan jeg så i Ahrefs lave den her open-end content gap,"
+    },
+    {
+      "start": 668.0,
+      "end": 671.0,
+      "text": " og så kan jeg simpelthen se, hvad ranker de her fire andre sider på,"
+    },
+    {
+      "start": 671.0,
+      "end": 674.0,
+      "text": " som jeg lige nu ikke ranker på."
+    },
+    {
+      "start": 674.0,
+      "end": 677.0,
+      "text": " Og der har jeg siddet i weekenden og hygget mig en lille smule med at se,"
+    },
+    {
+      "start": 677.0,
+      "end": 679.0,
+      "text": " hvad ranker de på, som jeg ikke ranker på."
+    },
+    {
+      "start": 679.0,
+      "end": 681.0,
+      "text": " Så så jeg f.eks. det her."
+    },
+    {
+      "start": 681.0,
+      "end": 684.0,
+      "text": " Kender du omverdensmodellen?"
+    },
+    {
+      "start": 685.0,
+      "end": 688.0,
+      "text": " Årh, det tager mig tilbage til gymnasietiden."
+    },
+    {
+      "start": 688.0,
+      "end": 690.0,
+      "text": " Jeg kan simpelthen ikke huske den."
+    },
+    {
+      "start": 691.0,
+      "end": 696.0,
+      "text": " Og jeg kan så sige, at omverdensmodellen, det er et eller andet marketingrelateret"
+    },
+    {
+      "start": 696.0,
+      "end": 698.0,
+      "text": " til noget betydning af virksomheden."
+    },
+    {
+      "start": 698.0,
+      "end": 702.0,
+      "text": " Jeg var STX, jeg var ikke HHX, så jeg har sgu aldrig lige fået omverdensmodellen."
+    },
+    {
+      "start": 702.0,
+      "end": 704.0,
+      "text": " Men det er marketingrelateret."
+    },
+    {
+      "start": 704.0,
+      "end": 706.0,
+      "text": " Det er noget med, hvad der påvirker ens virksomhed udefra."
+    },
+    {
+      "start": 706.0,
+      "end": 708.0,
+      "text": " Men det er faktisk marketingrelateret."
+    },
+    {
+      "start": 708.0,
+      "end": 711.0,
+      "text": " Og det, der er fedt ved den, det er, at der er 5.200 skoleelever,"
+    },
+    {
+      "start": 711.0,
+      "end": 713.0,
+      "text": " der googler omverdensmodellen i gennemsnit hver eneste måned,"
+    },
+    {
+      "start": 713.0,
+      "end": 715.0,
+      "text": " fordi de har fået en opgave med det."
+    },
+    {
+      "start": 715.0,
+      "end": 718.0,
+      "text": " Og det kunne lige så godt være mig, der var inde og rank på det her."
+    },
+    {
+      "start": 718.0,
+      "end": 720.0,
+      "text": " Det, jeg har gjort som det næste til vores overbrug,"
+    },
+    {
+      "start": 720.0,
+      "end": 723.0,
+      "text": " det er, at jeg har været inde på den her content gap-analyse på Agrefs"
+    },
+    {
+      "start": 723.0,
+      "end": 725.0,
+      "text": " med de her største konkurrenter."
+    },
+    {
+      "start": 725.0,
+      "end": 727.0,
+      "text": " Og så har jeg faktisk bare været igennem den her liste manuelt."
+    },
+    {
+      "start": 727.0,
+      "end": 730.0,
+      "text": " Og så har jeg lige udvalgt omkring, jeg tror, jeg har lagt 50 søgere ind,"
+    },
+    {
+      "start": 730.0,
+      "end": 733.0,
+      "text": " som vi skal lave som det næste, som alle sammen har søgninger."
+    },
+    {
+      "start": 733.0,
+      "end": 736.0,
+      "text": " Så nu har jeg simpelthen gået lidt mere strategisk til værks"
+    },
+    {
+      "start": 736.0,
+      "end": 739.0,
+      "text": " i forhold til søgninger, fordi lige nu har vi bare banket 700 artikler ind,"
+    },
+    {
+      "start": 739.0,
+      "end": 741.0,
+      "text": " og så tilfældigvis på nogle af dem var der rent faktisk søgevolumen."
+    },
+    {
+      "start": 741.0,
+      "end": 744.0,
+      "text": " Men rigtig mange af de artikler, vi har, er der ikke nogen søgevolumen på."
+    },
+    {
+      "start": 744.0,
+      "end": 746.0,
+      "text": " Nu har jeg gået lidt mere strategisk til værks,"
+    },
+    {
+      "start": 746.0,
+      "end": 748.0,
+      "text": " og så har jeg taget noget, der rent faktisk er søgevolumen på."
+    },
+    {
+      "start": 748.0,
+      "end": 750.0,
+      "text": " Så det glæder jeg mig ret meget til at se, hvad der kommer til at ske,"
+    },
+    {
+      "start": 750.0,
+      "end": 752.0,
+      "text": " når vi uploader de artikler."
+    },
+    {
+      "start": 752.0,
+      "end": 756.0,
+      "text": " Og det eneste, vi faktisk lige afventer, det er, at jeg vil lige have dem oversat."
+    },
+    {
+      "start": 756.0,
+      "end": 760.0,
+      "text": " Fordi noget af det, der er også sjovt, det er, at vi har digitalmarketingordbog.dk."
+    },
+    {
+      "start": 760.0,
+      "end": 763.0,
+      "text": " Vi har den altså også på serbisk, tysk, engelsk og finsk."
+    },
+    {
+      "start": 763.0,
+      "end": 766.0,
+      "text": " Så jeg er lige i gang med at få oversat de her 50 nye ord,"
+    },
+    {
+      "start": 766.0,
+      "end": 768.0,
+      "text": " fordi det tør jeg ikke gør ved at chatgebetale."
+    },
+    {
+      "start": 768.0,
+      "end": 771.0,
+      "text": " Det har jeg ikke gjort, men jeg er lige ved at få det valideret af en finde,"
+    },
+    {
+      "start": 771.0,
+      "end": 773.0,
+      "text": " så jeg rammer de rigtige ord."
+    },
+    {
+      "start": 773.0,
+      "end": 776.0,
+      "text": " Fordi så kan vi lige så godt lave det på alle fem sider på én gang."
+    },
+    {
+      "start": 776.0,
+      "end": 778.0,
+      "text": " Fordi det fede det er jo, når vi først har lavet modellen,"
+    },
+    {
+      "start": 778.0,
+      "end": 780.0,
+      "text": " så er det bare at koble den op med et nyt WordPress-site,"
+    },
+    {
+      "start": 780.0,
+      "end": 785.0,
+      "text": " ændre sproget, og så udgiver vi på finsk til en krone pr. artikel."
+    },
+    {
+      "start": 785.0,
+      "end": 787.0,
+      "text": " Det er så fedt. Det er så fedt at høre."
+    },
+    {
+      "start": 787.0,
+      "end": 790.0,
+      "text": " Så jeg tænkte, det kunne være sjovt."
+    },
+    {
+      "start": 790.0,
+      "end": 793.0,
+      "text": " Nu har vi lavet en lille check-in på den her, hvor den har været i gang i et par måneder,"
+    },
+    {
+      "start": 793.0,
+      "end": 795.0,
+      "text": " og den får stort set lov til at passe sig selv."
+    },
+    {
+      "start": 796.0,
+      "end": 799.0,
+      "text": " Vi har 2.000 eksponeringer, en 10-klik om dagen eller et eller andet lige nu."
+    },
+    {
+      "start": 799.0,
+      "end": 801.0,
+      "text": " Lad os prøve at se, hvor vi er med et par måneder,"
+    },
+    {
+      "start": 801.0,
+      "end": 803.0,
+      "text": " hvor vi har banket 400-500 artikler mere ind på den sikkert."
+    },
+    {
+      "start": 803.0,
+      "end": 805.0,
+      "text": " Vi laver lidt AI-link-building."
+    },
+    {
+      "start": 805.0,
+      "end": 810.0,
+      "text": " Vi kører AI-links.dk ind til den, bare for at få en lille smule backlink-profil ind."
+    },
+    {
+      "start": 810.0,
+      "end": 813.0,
+      "text": " Og så bare se, hvor vi ender til den tid."
+    },
+    {
+      "start": 813.0,
+      "end": 817.0,
+      "text": " Har I givet jer lidt mere lyst til at arbejde med programmatik-CUE for den her episode?"
+    },
+    {
+      "start": 817.0,
+      "end": 819.0,
+      "text": " Ja, for pokker. Jeg synes, det er så fedt."
+    },
+    {
+      "start": 819.0,
+      "end": 822.0,
+      "text": " Jeg synes, det er så fedt. Så absolut."
+    },
+    {
+      "start": 823.0,
+      "end": 828.0,
+      "text": " Det kommer vi til at snakke meget mere om, når vi først får det her til at virke rigtig godt."
+    },
+    {
+      "start": 828.0,
+      "end": 830.0,
+      "text": " Og vi er rigtig godt i gang allerede."
+    },
+    {
+      "start": 830.0,
+      "end": 832.0,
+      "text": " Jeg glæder mig til at snakke mere om det."
+    }
+  ]
+}

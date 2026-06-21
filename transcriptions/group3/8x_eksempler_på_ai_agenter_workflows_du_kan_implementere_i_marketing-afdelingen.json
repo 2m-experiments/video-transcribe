@@ -1,0 +1,3686 @@
+{
+  "title": "8X eksempler på AI agenter & workflows, du kan implementere i marketing-afdelingen",
+  "url": "https://www.youtube.com/watch?v=v58DjeY3IEg",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 2860.4,
+  "transcribed_at": "2026-04-16T09:30:28.273813+00:00",
+  "full_text": "Hej og velkommen til en ny episode af MarketingPod. Grønland er stadig dansk, AGF fører desværre stadig Superligaen, og vi skal igen tale om AI i den her episode, når vi kommer lidt længere. Og jeg ved, Tino, du er i hvert fald glad for en ud af de tre ting, jeg lige nævnte der. Jeg er ekstremt glad for, at AGF, de er vige, de er på toppen. Ja, nu er jeg fuldstændig ligeglad. Med Danmarks evne til at få et sæde ved det store bord for NATO og de arktiske magter, så længe AGF ligger nummer et, og jeg forstår det. Altså, jeg er overtroisk. Jeg tror, alt det her, det skal til for, at AGF ligger nummer et. Christian Tino, han har det sådan, at han havde et særligt par underbukser på, da AGF kom op at ligge nummer et i Superligaen, og han har faktisk ikke taget dem af i siden. Det er derfor, jeg stadigvæk sidder i mute-buksen. Jeg er faktisk ikke kommet ud herfra, fordi de andre herude, de vil ikke have, at jeg går ud. Så please, FCK, begynd at vinde jeres kampe. Så please, FCK, begynd at vinde jeres kampe. I dag, der skal vi snakke om AI, og vi kommer til at gennemgå otte meget konkrete eksempler på AI-workflows og agender, som vi lige nu hjælper vores kunder med at implementere os. Hvis du synes, AI er fedt at godt kunne tænke dig konkrete eksempler på, hvor det skaber værdi i danske virksomheder lige nu, så er det her en god episode. Men inden da, så har vi ugens vigtigste nyheder i digital marketing, vi gerne vil tale om. Christian Tino, hvad er der sket i den seneste periode? Yes, og vi starter rent faktisk med Google Ads, fordi Google introducerer Mixed Experiments i beta i Google Ads, som gør det muligt at teste flere kampagner og budgetter samlet i ét eksperiment. Formålet er at måle den samlede inkrementelle effekt af et kampanjemix frem for at teste kampagner enkeltvis. Annonsører kan oprette flere eksperimentarme og sammenligne performance på tværs af kampagnetyper. Ifølge Google, så skal funktionen give bedre beslutningsgrundlag for budgetallokering på tværs af kanaler. Funktionen er i øjeblikket i beta og tilgængelig for udvalgte annonsører. Det tyder på, at striden mellem TikTok og USA nu er overstået. TikTok har nemlig indgået en aftale om at oprette en ny amerikansk enhed for at undgå et forbud i USA. Den nye struktur indbærer, at amerikanske investorer får majoritetskontrol, mens ByteDance reducerer sin ejerindel. Aftalen skal sikre, at amerikanske brugerdata håndteres og kontrolleres i USA, blandt andet med amerikansk ledelse og bestyrelse. Dermed afsluttes flere års politisk pres og trusler om et totalt TikTok-forbud på det amerikanske marked. En ny analyse peger på, at annonsører fortsat bruger uforholdsmæssigt mange penge på Flow TV sammenlignet med den reelle seeredeffærd. Ifølge analysen falder seertallene, mens annonceinvesteringerne ikke følger med ned. Det betyder, at mange brands får lavere effekt for deres mediebudget end muligt. Analysen konkluderer, at annonsører bør gentænke mediemixet og i højere grad prioritere digitale og mere målbare kanaler. Vi starter med den her kommende udvidelse til Google Ads, og jeg synes faktisk, det er rigtig spændende. Det man skal forstå her, det er, at i både Google Ads og meta og andre platform, er det en udfordring, at vi lige nu kører vores for eksempel upper funnel kampagner og bottom funnel kampagner i forskellige kampagner. Så vi har en kampagne, som går efter at målrette personer, som ikke kender brandedet i forvejen, og får dem til at lære os at kende og øge sandsynligheden for, at de klikker på vores resultat i Google Ads senere. Og en anden kampagne, hvor vi så går efter at skabe salg. Og i teorien, så ville det jo være mere hensigtsmæssigt, hvis du havde en kampagne, hvor de her forskellige kampagnemålsætninger var samlet, og der måske kunne ske en eller anden form for dynamisk budgetallokering mellem upper funnel og lower funnel, som var dynamisk i realtid og bestemte en algoritme. I stedet for, at vi sådan manuelt siger, jeg vil gerne bruge 30% på branding og 70% på performance, fordi hvad nu hvis det modsatte var bedre, eller hvad nu hvis det er 55, 45 eller et eller andet. Det er sådan en meget lagging måde at lave budgetallokering på, og der er både Mese og Google faktisk på vej med de her fælles kampagnemålsætninger, som skal gøre, at det er muligt at samle upper funnel og lower funnel. Hvad tænker du om det her? Jeg tænker nu, det er en ret stor ting, også for dig, som arbejder meget med Google Ads for rigtig mange virksomheder. Det er en rigtig stor ting det her, og det første jeg gjorde, det var at skrive til vores PPC product lead her i Obsidian, Emil, som jo har direkte kontakt med vores point of contact inde hos Google for at sige, hvornår får vi adgang til det her, og han havde bare allerede kommet meget langt i forvejen. Han havde også set nyheden her, selvom den lige er kommet ud og havde spurgt. Men det er kæmpestort det her, fordi det man skal forstå, det er, at man har egentlig altid corporate eksperimenter i Google Ads. Noget, der evenfører, hvis man skulle tage et af halvdansord, er stærkt underkommercialiserede. Jeg vil bare sige, det er undervurderet. Hvor du ligesom tester A mod B, altså det vil sige, at du har den her kampagne, og du vil gerne teste manuelt CPC, altså du manuelt siger, hvor meget du vil give for et klik versus target ROAS. Altså du vil have et eller andet outcome, og så må Google selv finde ud af det. Det har man egentlig altid kunnet. Det man så nu kan, det er at sige, jamen nu har jeg en søgekampagne, og den her søgekampagne har jeg egentlig gjort det godt. Det er min kontrolgruppe. Nu vil jeg gerne prøve at teste den op imod, at jeg både kører søgekampagne og Performance Max i en testgruppe, for ligesom at se, om det her spil med flere kanaler, som Performance Max jo åbner op for, om det kan skabe et eller andet positivt. Og man kan sige, som du også siger, Halvdan, det er jo egentlig den her tankegang, man har forsøgt at brede ud ved netop at lave Performance Max og Demand Gen og så videre i Google Ads. Jeg tror så bare, at inde hos Google, der har man også mærket den frygt, vi har som annoncører ved bare at smække alt i deres hænder og så sige, værsgo, nu skal du bare finde det perfekte mix her. Så nu er det som om, de ligesom tager et lille step tilbage og åbner lidt op i maskinerummet og så siger, okay fair nok, men nu kan du altså få lov til at teste af. Og som jeg har forstået det, så er det på kontoniveau, hvor Google ligesom går ind og så deler de her målgrupper op på tværs af kontoren, for at man ligesom kan få et billede af, hvad virker egentlig bedst. Er det den her kanal mix, eller er det de enkle afhængige af, hvordan man lige laver sine tests? Jeg vil sige, at den største udfordring eller barriere for mig i forhold til at komme til at bruge det her, det er, at jeg stoler faktisk ikke på Google lige nu. Jeg stoler ikke på, at de har mine interesser, at mine interesser og deres interesser rent faktisk er legnet i det her. Jeg har oplevet med Performance Max, at den tilskriver sig selv en meget højere omsætning, end search-kampagnen gjorde og brugte mange flere penge, uden at omsætningen steg. Og det har vi set case på case på case. Mit indtryk er, at Performance Max er eminent til at finde kunder, der vil have købt det alligevel og så tage æren for dem. Og jeg stoler faktisk ikke på den kampagnemålsætning og prøver at minimere brugen. Jeg har fuldstændig fjernet den på opsidiet af hans egen annoncekonto. Vi bruger stadig Performance Max på nogle af vores kunder, men vi holder den i kort snor, og jeg tjekker den, og jeg stoler ikke på den, og jeg laver mine egen beregninger for at sikre, at det rent faktisk er en god idé. Og det vil være den største barriere for mig i forhold til at bruge det her værktøj, fordi jeg vil mistænke Google for at sige, at du skal have mere opperfonden. Her er displayen i værket, som vi ikke kan sælge til nogen andre. Hvad tænker du om det? Bare lige for at forstå, det er mere den værdi, de inde i kanalen tilskriver sig, du har et issue med, end selve tanken om at sprede sig ud på forskellige kanaler. Ja, og det kan jeg jo godt følge dig i, det kan jeg sagtens følge dig i, og jeg tror faktisk også, du selv nævnte, at vi er jo i gang med at lave nogle egne beregninger på de her ting her. Og det tror jeg altså også bare bliver vigtigt i fremtiden at kunne lave sine egne beregninger på det her, fordi jeg stoler sgu heller ikke vendt på, hvad Google siger. Hvis jeg havde gjort det, så havde de forretninger, jeg sidder med, været et helt andet sted, fordi så havde de jo 200% af den omsætning, de reelt set har i dag. De havde brugt mange flere penge på displayannoncering, og de havde nok omsat en del mindre. Lad os hoppe videre til TikTok. Jeg synes jo det her, det er også rigtig interessant. Det man skal forstå er konteksten her. Donald Trump, han var jo først rigtig meget mod TikTok, så var han rigtig meget for TikTok, da han fandt ud af, at det kunne bidrage til at få ham valgt, men har hele tiden sagt, at TikTok skal være ejet på amerikanske hænder, og hosting skal ske i USA og sådan nogle ting. Og jeg har det sådan konceptuelt en lille smule stramt med det her med, at man ind fra politisk side går ind og siger, hvis der er en platform, der skal være til stede i vores land, så skal vi rent faktisk eje den. Men det man skal huske, det er, at i Kina, der kan du altså ikke bruge hverken Google, eller Facebook, eller Twitter, eller noget som helst andet. I Kina, der har det outright, altså bannet nærmest alle amerikanske tjenester. Der får du lov til at bruge de kinesiske pangdanger. Og jeg tror, at man skal huske den konteksten, når man så kritiserer USA for at kræve, at TikTok skal være på amerikanske hænder for at operere i landet. Fordi det er faktisk mere, hvad skal man sige, lignende eller mere gavmilde vilkår, end amerikanske virksomheder får i Kina tilsvarende. Og ud fra det perspektiv, at amerikanske virksomheder faktisk slet ikke får lov til at operere i Kina, så kan jeg godt have sympati for synspunktet for, at kinesiske virksomheder så skal være på amerikanske hænder for at få lov til at operere i USA. Fordi det er faktisk stadig mere gavmilde vilkår, end man får den anden vej. Og det er så det, der er sket nu. Der er lavet en amerikansk investorbase, som bl.a. Oracle, som kommer til at stå for deres hosting. Den gik ned første dagen, da det her skete. Det kan man grine en lille smule af. Den er ved at være op igen. Men det er nu sket, således at majoriteten af TikTok i USA rent faktisk er aret af en amerikansk virksomhed. Jeg tror, at det her er dårlige nyheder for Meta. Fordi i den periode, hvor TikTok var nede, og hvor man var i tvivl om, hvorvidt man overhovedet måtte annoncere, der steg Metas omsætning. Det kunne man se på CPM-priserne direkte, da TikTok var nede et par dage sidste år. Fordi der var ikke kommet den her extension af, at nu kunne man få lidt længere tid til at forhandle. Og det var direkte positivt for Meta. Så det her er ikke mega godt for mine Meta-aktier, som jeg har rigtig mange af. Så jeg har selvfølgelig stramme med den her nyhed alene af den årsag. Men ellers er det jo godt for alle dem, der bruger TikTok og annoncerer på TikTok og alle mulige andre ting. Er du glad for det, som rent faktisk TikTok bruger nu? Du er jo under 30, Gen Z, og bruger rigtig meget i dagen derinde. Så jeg tænker, at du er vel super glad for den her nyhed? Jo, altså man kan sige, at nu er jeg jo ikke på fra USA, så det har jo ikke gjort en stor forskel for mig. Du er på den originale kinesiske version. Ja, men selve tanken om at have nogle personer, der ligesom bare tager interessen for det. Altså der er jo et geopolitisk spil i gang, det er der jo slet ikke nogen tvivl om. Og den data, man ligesom besidder, har jo også en eller anden form for værdi. Så det at kunne tage vare på det, kan jeg jo egentlig godt følge. En hel anden ting. Har du set Det Hvide Hus på TikTok? Jeg har set det på Twitter. Shit, det stikker jeg på Twitter. Så vildt. Altså hvis ikke man har set det, så prøv lige at hoppe ind og se det. Og der er flere gange, og det er jo også nærmest den mest kommenterede kommentar, hvis man kan sige det på det måde. Folk, der ligesom er alene og klikker ind og ser, er det reelt set den originale? Altså der er det her lille blå checkmark. Jeg har gjort det flere gange. Også fordi på Twitter, der har den rent faktisk sådan et gråt checkmark, som kun de har. Fordi der har været nogle ting derinde, hvor man tænker, at det kan lade sig blive kastet. Det er da en joke, det her. Det man skal forstå, det er at White House, det er jo den Twitter- og TikTok-konto, som tilhører det til enhver tid værende White House. Så det vil sige, at det er den nuværende regering, og så når der kommer en ny regering, så overtager den nye regering. Og det som den her regering gør, og man må jo sige, at de har et social media tech. Fordi ud over de sædvanlige ting, vi er gode, og de andre er dumme. Så er der jo memes og shitposting på Twitter. Desideret memes og shitposting. Og afgenererede billeder. Altså bare et af de seneste eksempler, som jeg fik i mit eget feed. Nu følger jeg den ikke. Men jeg fik den alligevel. Det er jo White House, der har retweetet et billede med Donald Trump, der går rundt på Grønland med en pingvin ved sin side. Selvfølgelig straight up afgenereret materiale. Det så vi altså bare ikke under hverken Obama eller Biden. Vi har videoer af det amerikanske grænsepolitik, som går rundt og rounder op immigrants samtidig med, at de spiller Bruce Springsteen-musik. Og jeg tænker, hvad foregår der her? Det er fuldstændig sindssygt materiale, de lægger op. Det er helt vanvittigt. Er det det samme, de gør på TikTok? Ja, fuldstændig. Det er præcis de der videoer, hvor man sidder og blinker næste gang og siger, er det for real det her? Ja, også fordi det ikke engang er sjovt. Når man ser det, så er der nogle memes og noget shitposting, hvor man kan tænke, haha. Men så er der de andre videoer, hvor man tænker, det er ikke fedt det her. Det er overhovedet ikke fedt længere. Ej, det er vanvittigt. Jeg glæder mig til, at der kommer nogle... Altså, jeg synes memes er sjov. Og jeg bruger det faktisk som eksempel for nogle af vores kunder, hvor de siger, sådan her kan vi ikke kommunikere. Så jeg siger, det kan Whitehouse altså godt. Så jeres B2B-virksomhed, Jesper, de kan nok også godt lave noget, der ikke er så kedeligt. Men det er godt nok også... Ja, det er en vild verden. Lad os hoppe videre til nyheden nr. 3 med annoncører, som bruger uforholdsmæssigt mange penge på Flow TV sammenlignet med den reelle serieadfærd. Og jeg kunne godt tænke mig at vise dig en graf, Tino. Til dig, der ser med på Spotify med video eller YouTube, så får du lige lov til at se med her. Det er deres medieudvikling, altså deres medieundersøgelse, deres årlige medieundersøgelse, hvor de spørger en hel masse danskere, hvilke sociale medier bruger du? Hvor meget tv ser du? Og sådan noget. Den er lige kommet ud. Jeg synes, en af de vildeste grafer, det er den her. Den her graf, eller bar chart, den viser, hvordan danskere bruger medier afhængig af, hvor gamle de er. Og det, man skal forestille sig, det er, hvis du fx tager de 12-24-årige eller 25-31-årige. De bruger rigtig meget tid på sociale medier. De bruger ret meget tid på streaming og musik. De hører en del radio og podcast, og så er de selvfølgelig meget på on-demand streaming. Linear streaming, hvilket jo er tv, det fylder for de 12-24-årige så lidt, at du nærmest ikke kan se den. Og det fylder 3% for 25-31-årige. Hvis du så går til toppen, eller de ældste, for 75+, så er det 50% af deres tid, der går med linear streaming. 50%, og de bruger 3% af tiden på sociale medier. Så den laver et fuldstændigt flip. Det, man skal forestille sig her, det er unge mennesker. Og det her, der snakker vi under 45, fordi det er der, hvor den især skifter. Ej, prøv at tænke på, at du er ung nu. Jeg er ung igen. Det er så fedt. Jeg er ikke 22, jeg er 34, men jeg er ung igen. Under 45, så er du ung i den her, fordi det er der, hvor den virkelig skifter. Under 45, der bruger du tid på sociale medier. Du kører rigtig meget on-demand streaming. Du hører podcast, du læser nyheder online osv. Og så sker der et eller andet, når du bliver 45, så begynder du virkelig... Altså, der går du fra 7% til 26% af din tid. Det bliver nu brugt på x-faktor og linear streaming. Og så stiger den til 50%. Det er den vildeste graf, den her. Jeg hørte en anden statistik. Den gennemsnitlige DDR1-serie, tror jeg, læste jeg her den anden dag, er 66 år gammel. 66 i gennemsnit. I gennemsnit. Prøv at tænke på, hvor mange der trækker den op af. Jeg synes, det er den vildeste ved det. Så hvis du bruger tv-annoncering, skal du bare være opmærksom på... Du kan jo køre ned ad annoncering med tv2 play osv. Der er du mere over almindelig streaming. Der rammer du også yngre. Men rigtig meget tv-annoncering. Det er 50, hvis ikke 65+. Det, synes jeg, er den vildeste stat i det her. Ja, og det er jo lige nu. Og man kan sige, hvis man lever af de her tv-annoncer, så skal man jo tænke på... Den her graf her går jo ned i takt med, at de yngre bliver ældre og ældre. Og det er jo det, den her analyse også peger på. Så skal man måske til at kigge sig om. Og noget af det, jeg synes, er interessant... Der er mange ting, der er interessante i den her. Altså at hoppe ind på DR's sider og hente den her. For det er virkelig en interessant læsning. Men især YouTube... Hvad skal man kalde det? Se-seningen. Jeg ved ikke, om det hedder det. Men det at sidde og kigge på YouTube, det ændrer sig også. Kan vi se, at der er endnu flere, der sidder og ser det på tv-skærmen. Og det er jo blandt andet, fordi det bliver nemmere. Mange tv'ere kommer jo decideret med en YouTube-knap på... Hvad hedder det? Vores tv'er har en YouTube-knap på fjernbedsætningen. Den har også en Sky Showtime. Og der tænker jeg, der kan vi også se den. I Danmark i hvert fald. Men apropos YouTube. Hvis man tager de 10 største streaming-tjenester i Danmark. YouTube er nummer 1 lige nu. Med god magten ned til DR-tv. God magten ned til Netflix, TV2 Play, Viaplay og Disney+. YouTube er allerede den største. Og du har ret i, at der er en adfærd, hvor vi går over til at se mere og mere på tv'et. Det kan jeg også godt selv kende. Når jeg fredag aften har en time for mig selv, når Lise er taget i sauna med de andre damer i byen. Det sker engang imellem, hvor jeg har sådan en time for mig selv fredag aften. Det er det vildeste. Så laver jeg en Old Fashioned. Og så sætter jeg en ubådsdokumentar på, på fjernsynet. Og så sidder jeg og drikker min Old Fashioned og spiser is. Og det er bare... Det bliver ikke bedre end det. Hvor er vi forskellige os to. Helt vildt. Jeg ved godt, du tager til Spanien. Til Spanien, når der er Nick & Jake koncerter. Og man spiller smart og alt muligt. Jeg vil bare gerne sidde og se en ubådsdokumentar. Kl. 20 fredag aften, så er jeg faktisk rigtig glad. Living La Vida Locatino. Vi hopper videre til dagens primære emne, som kommer til at handle om, hvor AI lige nu skaber værdi ved danske virksomheder. Og her der tager vi eksempel i nogle af de ting, vi i Obsidian har lavet for vores kunder. Så vi kommer til at gennemgå otte eksempler på automations og workflows, som vi har implementeret, som lige nu kører for flere af vores kunder. Og årsagen til, at vi laver den her, det er, at vi lavede en episode med Jesper Weizel for snart et halvt år siden fra Fjertal Web, som faktisk blev den mest lyttede til episode på Marketingpod i 2025. Den mest lyttede til i 2024, det var jo, hvordan man kom ud af en femårig bindingsperiode med et marketingbureau sammen med advokaten Niklas Ørum Keller. Det er der stor interesse i. Men i 2025, så var det Jesper Weizels episode om, hvordan Fjertal Web er gået fra 200 til 500 millioner i omsætning, samtidig med, at det er gået fra 80 til 28 medarbejdere. Tino, hvad var det ved den episode, som du tror, der gjorde, at det blev den mest populære? Jamen, noget af det, der står frem for den her episode, også når jeg har snakket med andre, der har lyttet til den, det er et citat fra Jesper Weizel om, at det skal være slut med dumt arbejde. Og jeg tror bare, der er rigtig mange, der kan se sig selv i det her med at rykke tal fra det ene Excel-lak over til det andet, eller sidde og lave nogle udregninger hver evig eneste dag, som egentlig godt kunne automatisere. Så alle de her ting, som man gør igen og igen, hvis man kan få dem væk fra sit bord, hvor meget gladere bliver man så rent faktisk for sit arbejde. Og der skulle jeg så hele tiden sige fra Jesper Weizel, og det kan man også høre i episoden, man kan gladere. Og jeg tror egentlig, at det er det, der indkapsler den overordnede episode allerbedst. Så kom han også med nogle konkret eksempler på, hvordan de gør i deres Ecom, altså med nogle af de her jeg vil nærmest kalde det daglige øvelser, såsom at købe ind eller lave nogle analysforekast osv., som de har fået automatiseret. Og det er jo meget lige det, vi sidder og laver os for mange af vores cases i større og mindre grad. Og det er også det, som du lige nævnte før, at vi har samlet den her episode her og det helt konkrete ting, som vi ligger og laver og implementerer ude hos vores cases, og som forhåbentlig kan skabe noget inspiration og noget perspektiv på, hvad der egentlig kan lade sig gøre. Noget af det her, det er relativt basalt. Noget af det, det er mere komplekst, og det kan blive langt mere komplekst, men her til en start, så handler det altså bare om at komme i gang, og det er det, vi håber på, at den her episode kan være med til, at du kommer i gang med. Lige præcis. Det første eksempel, vi godt kunne tænke os at vise, det er en AI-agent, der kan hjælpe med at optimere ens betalte spend. Så hvis du bruger mange penge på Google Ads eller Meta Ads, så kunne det her være relevant. Vi har en del konti, hvor vi bruger mange penge. Det kunne være en halv million om måneden, en million, to millioner, et eller andet den stil. På de konti, der er vi inde og lave rigtig mange analyser hele tiden. Det kunne være analyser som, er der diminishing returns, eller burde vi omfordele spendet til andre lande, eller hvad er vores reelle incremental ROAs, og alle sådan nogle ting. Her, der kan man få en AI-agent til at lave mange af de her analyser meget nemmere, meget hurtigere. Og jeg kan vise sådan et konkret eksempel. Så nu hopper jeg lige ind i make.com. Make.com er den her flowbuilder. Der er mange, der kender den som en, du starter her, og så gør du det her, og det her, og det her, og det har vi også nogle eksempler senere i den her episode, hvor det er sådan, du bruger det. I det her tilfælde, der har vi lavet en AI-spent-agent til The Fashion Brain, der hedder OvalSquare. De har sådan en rimelig god tur i den, og gør også Facebook- analysering, og gør det rigtig godt. Og den indeholder nogle forskellige elementer. Så der er et element her øverst, hvor vi har lavet et system prompt. Og system prompt, det er bare et meget langt, grundigt prompt, som sådan ligger bag alle andre ting. Så man kan sige, vi kan godt prompte nogle ting ovenpå til nogle specifikke cases, men system promptet, det er bare sådan, det er baggrundsinformationen. Ja, det er dit onboarding-møde med en ny medarbejder, hvor du bare læser på, og bare, her er der 5 timers information om, hvordan vi gør tingene. Og det her, det er super grundigt, det er super langt, og jeg har ret god erfaring med faktisk at sidde og indtale dem her, og så bare snakke om alt det, du gerne vil på en given konto, og få Gemini til at opsummere det. Ej, jeg tænkte nok, at vi kom ind på det her. Ej, nej, nej, nej. Hvad sagde du der? Det jeg gør, det er, jeg sætter mig i metronen sammen med alle mulige andre mennesker, og så begynder jeg bare at diktere, mens alle andre, de kan lytte til det, ligesom en anden psykopat. Jeg kan godt læse den besked op, du sendte mig i weekend. Nej, lad være med det. Lad være med det. Jeg vil, det er, jeg ved godt, hvad du refererer til. Det er Tine, der, altså, jeg bryder jo meget ikke om folk, der dikterer ting i en publik, men jeg har, jeg må anerkende, at det der med bare at kunne sidde og snakke i 10 minutter til en AI, og så bare overlæse den med information, og få den til selv at lave, transkribere det og finde ud af, hvad den så skal gøre derfra. Jeg må indrymme. Det virker faktisk ret godt. Så, hvis man skal lave et system prompt, indtale en eller anden super lang besked til Gemini eller ChatGPT, og så få den til at lave et system prompt ud for det, det virker faktisk rigtig godt. Videre i den her AI-agent, der har vi noget kontext, der er noget MCP, den er koppet op med noget tools for BigQuery, det behøver vi ikke gå igennem i dag, fordi det kan du få hjælp til at sætte op. Hvis du ikke ved, hvad BigQuery-databaser er, så lad være med at kaste ud i det, betale en eller anden for 10 timer for at få sat det op for dig, og så kører det derfra. Alle de her ting, det betyder, at to gange om ugen, der går den her bot ind og crawler hele Mesa-kontoen, holder det op imod al kontekst, der er på kontoen, og kommer med enormt specifikke anbefalinger i forhold til, du skal nok øge budgettet her, sænke det her, den her kampagne ligner, der er ved at være diminishing returns, du skal nok overbevare at gøre noget herovre, osv. Og første gang, jeg så den her analyse, der tænkte jeg sådan, shit mand, jeg har arbejdet med Facebook-analyse i 12 år, det var fandme en god analyse, det der. Det var faktisk sådan et, okay, der gjorde AI lige noget, der var bedre og hurtigere og billigere, end jeg kunne have gjort med den der specifikke analyse. Det AI ikke kan gøre, det er at komme med en eller anden fuldstændig sindssygt nye idé, som bare kommer til at få kontoen til at bruge dobbelt så mange penge, men den er rigtig god til at hjælpe dig med at få mere ud af det, du kører i forvejen, og der synes jeg, det her er en fed use case. Ja, for det man skal huske på, det er i takt med, at man bruger flere penge, så er det typisk også fordi, man har flere kampagner, eller flere annoncer afhængig af platform, og de gør bare det hele bliver lidt mere komplekst. Og så er det nogle gange svært at holde bøjne på olten. Øjnene på bolten hedder det. Ja, bolten på øjnene. Bolten på øjnene, apropos. Og det er her, hvor AI er bare fantastisk til at gå ind og finde nålen i høstakken, kunne man nærmest sige, fordi nogle gange så, når man har gang i flere lande og er rigtig meget spændt, puha, det bliver svært, der er det rigtig rart at have et fundament som det her at arbejde ud fra. 100%. Vil du tage den næste? Ja, lad os gøre det. Vi springer over i noget videobilledercontent for at sænke omkostningerne, der egentlig er forbundet med det, og forhåbentlig også øge konverteringsraten. Jeg ved, du har nogle eksempler, men jeg tror faktisk, jeg vil prøve at starte med et lavpraktisk eksempel, jeg lige lavede her til morgen. Til de af jer, der kan se med på Spotify eller YouTube, så vil I kunne se jeg inde på den hjemmeside, der hedder Waterdrop. Det er totalt tilfældigt, jeg søgte faktisk bare efter en vandflaske. Der er nogle rigtig fine produktbilleder herinde, og der er også et enkelt miljøbilled med en, der holder det, altså sådan et lidt UGC-billede fra en kunde, der holder den her vandflaske. Det, jeg så har gjort, det er, at jeg har været inde i Chat KPT, og det kunne ligeså godt have været Gemini, hvor jeg ligesom uploader referencebillederne, det vil sige, jeg har taget billederne fra deres website og uploadet herinde, og så bedte Chat KPT om at hjælpe mig med at lave en prompt til Google Veo, altså deres videogenereringstool. I den her forbindelse her kommer den ud med en lang prompt omkring hvad der er, at Google Veo skal gøre, som jeg så, når jeg hopper ind i Google Veo, kan smække ind. Så det, I kan se her, det er, at jeg har referencebillederne, og så den her lange, lange prompt. Og det, jeg fik ud af det her, det er den her video hernede. Og det er meningen, at den skal se sådan lidt upoleret ud, altså det er ikke et 4K-kamera, hvis jeg prøver at afspille her. Husk på, det her er med fingre, og det er noget af det sværeste at lave, men vi er altså tæt på at have noget, der er ret fedt. Og jeg ved godt, det her, det handlede om AI Flows. Det her, det er jo bare for at vise, hvordan selve tankegangen og metodikken er, fordi det her, det kan nemlig sættes på flaske. På en Intel. Ehm, ej, den var faktisk lidt stort. Du lyder meget ældre, end du er lige nu, Tine. Nå, men jeg er sgu også snart til at være far, så jeg kunne lige skulle komme i gang. Det er den her video hernede. Og det er meningen, at den skal se sådan lidt upoleret ud. Altså, det er ikke et 4K-kamera, hvis jeg prøver at afspille her. Husk på, det her med fingre, det er noget af det sværeste at lave. Men vi er altså tæt på at have noget, der er ret fedt. Og jeg ved godt, det her, det handlede om AI-flows. Det her, det er jo bare for at vise, hvordan selve tankegangen og metodikken er. Fordi det her, det kan nemlig sættes på flaske. På en Intel. Ehm, ej, den var faktisk lidt stort. Du lyder meget ældre, end du er lige nu, Tine. Nå, men jeg skal også snart til at være far, så jeg kunne lige skulle komme i gang. Men det her, det kan jo sættes på flaske i en proces. Sådan så, at du kan tage dine top X-produkter, og så sige, nu vil du altså gerne have genereret sådan nogle små video her, som du fx kan bruge til annoncer, eller du kan bruge dem inde på produktsiden. Det er ret vildt, så tæt vi er kommet. Og jeg vil så lige hilse at sige, at Gemini Veo er ikke nødvendigvis den allerbedste model til det her. Men prøv at forestille dig, hvis det bare bliver lidt bedre end det, som du ser på skærmen lige nu. Vi er så tæt på at være der, hvor det er, at det virkelig bliver svært at se forskel. Vi er i gang med at lave lige præcis det her flow lige nu for en halvstore dansk Shopify-shop. De omsætter omkring 50 millioner om året inden for lifestyle fashion-området. Og der har de den udfordring, at de gerne vil have video-materiale på flere af deres produkter. Men det er sådan prohibitively expensive at gøre det. Det er så dyrt, at de aldrig kommer til at gøre det. Så de har rigtig mange produkter, hvor de bare har billeder eller miljøbilleder, hvis de er gode. Men de kunne godt tænke sig små videoer, og forestille dig sådan små videoer af fem-seks kunder, hvor folk de gør et eller andet med produkterne, tager det på eller lægger det eller viser det rundt eller et eller andet i den stil. Der er vi i gang med til kategori for kategori og bygge specifikke workflows, som sidder og lytter på, at når et nyt produkt i Shopify bliver oprettet inden for den pågældende kategori, tager vi en trænet billedemodel på deres eksisterende materiale, trænet video-model på deres eksisterende materiale. Jeg ved, at video-modellen er baseret på noget, der hedder Kling, som fungerer rigtig godt, i stedet for Veo, fordi det var en bedre use case til lige præcis det her. Laver materialet, lægger det op i Shopify som draft, således at kunden kan lige gå ind og tjekke materialet igennem, fordi de er meget conscious omkring deres brand og udtryk, så de skal lige sikre, at det her er rigtigt, og så godkende materialet derfra. Og det her workflow laver vi en af per kategori, fordi de har et udtryk for en kategori og et andet udtryk for en anden kategori af produkter osv. Så man kunne i teorien godt lave et flow, der bare dækkede alle produkter på shoppen, men der er sådan et særligt udtryk for deres forskellige produktkategorier, som gør, at vi lige tilpasser det. Vi træner en ny billedemodel, en ny videomodel til de enkelte kategorier, således at vi sikrer en overordnet samhørighed i, hvordan kategorierne ser ud hver for sig. Men det her kommer til at ligge og køre, hver eneste gang de uploader et produkt, og så løber det bare igennem. Og jeg tror, at omkostningen har vi regnet os frem til, at det er omkring 1 kroner per video, der bliver produceret på den her måde. Og det betyder bare, at det ikke er fordi de sparer penge på det, fordi før der brugte de ikke de her penge. Det er vigtigt at forstå. Det er jo simpelthen for dyrt. Nu kommer de til at gøre det, og i de indledende tests, vi har lavet, der kan vi se, at det hæver konverteringsretten betragteligt, når du har sådan nogle små produktvideoer her. Så det her, det sælger bare ind i øget omsætning. Og netop, og netop. Ja, lige præcis. Og jeg synes, det er interessant at tage fat i den her med omkostning, for det er jo også det, vi indledte den her sektion her med, at det er med til at sænke omkostningerne. Så en ting er, hvis du gør det normalt, så skal det gerne øge konverteringsretten. Jeg ved, at der er rigtig mange, der bruger rigtig mange penge på de her shoots, som man jo egentlig i høj grad kan spare væk nu. Men det er vigtigt her, at man har øje for, at de produktbilleder, man rent faktisk tager, er så gode som muligt, for at AI'en kan arbejde videre med det. Så have lige det i minden, når I står til produktshoots, at I gerne skal have produkter i alle forskellige vinkler, fordi des flere referencebilleder, I kan upload i fx en prompt som her, des bedre bliver outputtet også. Så husk lige det, når man er ude til shoot, at det skal gerne, kan man egentlig tale om AI-first-shoot? Åh, dem var nye. Hold kæft, de sidder altså. De sidder der i dag. Okay, okay, okay. Ja, AI-first-shoot.dk, det lyder som et domæne, vi skal have fat i. Jeg vil køre videre med det tredje eksempel, og nu ryger vi over i CO-kategorien her. Og det eksempel, jeg gerne vil vise, det er på kategoritekster. Og årsagen til, at jeg tager det her emne, det er fordi, hvis man tænker CO på især en webshop, så er kategoriteksterne faktisk umiddelbart det vigtigste, fordi det er der, hvor de generiske søgninger naturligt vil lande. Så hvis du søger på kjole eller løbesko, eller hvad det nu skal være, så er det jo kategorien for kjole og løbesko, du rammer, og ikke det enkelte produkt, du ender rammen. Derfor er det super vigtigt, at du har nogle veloptimerede kategorisider. En af de store udfordringer, vi oplever ved mange kunder, det er, at de har enten meget begrænset tekst, eller dårligt tekst, eller ingen tekst på deres kategorisider. Fordi det er også en svær opgave at lave og skrive super god tekst, og du skal jo ikke have FAQ-schememark op, og du skal have alle mulige andre strukturerede data på, og det er bare sådan en opgave, hvor du når det bare ikke. Og så laver du en ny tekst eller en ny kategori, fordi der er nogen, der søger på det, så nu har du produkterne i det, men du har ikke teksten, og det er sådan en af de der opgaver, du ikke når, dem bliver ikke prioriteret i hverdagen. Og det er et fantastisk eksempel på noget, som du burde lave med et flow i stedet for. Så jeg kan lige prøve at vise et konkret flow, der rent faktisk gør det her. Og her er vi inde i make.com igen, så vores konkrete make flow for ResetStore ser sådan her ud. Vi har tidligere brugt ResetStore som eksempel, fordi vi også gør det her med produkttekster, men her er det præcise flow, som faktisk ligger og gør det her for deres kategoritekster. Jeg kommer ikke til at tage det hver for sig, fordi der er en del elementer i det, men den grundlæggende idé er, at du går ind og venter på, at der bliver oprettet en ny kategori i Shopify, eller du løber dem alle sammen igennem på en gang. Du går ind og venter på, at der bliver oprettet en ny kategori i Shopify, eller løber alle dem igennem, du har i forvejen. Så laver du research med perplexity og finder mere information. Så kører du det igennem chat-gbt en 3-4 gange, hvor du først har, at du skriver teksten, så implementerer du brand guidelines, så laver du måske noget faktacheck osv., og til sidst så uploader du teksten tilbage i kategorien. Det er sådan idéen i det, og så kan du eventuelt putte nogle flere trin på, hvis du også vil have schema markup og alt det her. Og jeg har faktisk en case på det her, fordi det her er en dansk fashion webshop, der sælger rigtig meget i Danmark og i Tyskland, og vi har lavet det her for dem over et halvt års tid, hvor vi implementerede det her på tværs af alle deres kategorier. Og det var måske en 300-400 kategorier eller et eller andet af den stil, fordi de havde på tværs af dansk og tysk, som havde ingen eller lidt kategoritekst. Og bare det at implementere gode tekster omkring 500 ord med fuldt struktureret data på tværs af alle deres kategorissider, det betyder, at de gik fra omkring 6.000 til 18.000 organiske besøgende om måneden fra Google, og det var langt overvejende kategorissiderne, der rent faktisk drev det her. Og jeg synes, det her er et sjovt eksempel, fordi det er jo i virkeligheden AI, det er jo programmatik, det er jo det her. Vi havde jo et workflow, som uploadede de her ting automatisk til Cytosurfer, de blev publiceret, og det her det er helt almindeligt programmatik SEO, men det er også bare totalt oldschool SEO. SEO i 2016, 10 år siden, havde også været, at alle dine kategoritekster skal have rigtig god tekst, der skal være indtaget længst, og der skal være struktureret data, så søgemaskinerne forstår, hvad det handler om. Det er det stadig i 2026, forskellen er bare, at du ikke behøver at gøre det helt selv. Og en ting, det er at lave nye kategoritekster, og der sidder der sikkert mange, der tænker, at det er så godt nok sjældent, at jeg får nye kategorier på website, så det her er ikke relevant for mig, jeg har styr på mine kategoritekster. Men en anden ting, det er altså op til at sætte de her eksisterende kategoritekster og berige dem, og en ting er at berige dem ud fra en søversynlys, man kunne også godt tænke den videre, det ved jeg, at vi også er i gang med lige nu. Og ligesom trække søgetabsrapporten ud fra Google Ads, og så sørge for at matche det op med de kategoritekster, der er, og så begynde at berige dem ud fra det, og det er jo en iterativ proces, der kan køre månedligt. Der kunne også godt være en tilføjelse af interne links, sådan en klassisk en, man glemmer, når man lægger kategoritekster op og ikke lige har SEO-mindsetet skruet på. Så der er sådan to forskellige vinkler i det, det her er relevant for alle, man skal bare kunne se perspektiven i det. Jeg er helt enig. Hvad er det næste workflow, vi skal kigge på? Jamen, du var faktisk næsten inde på det, så lad os bare tage det med det samme nu, hvor vi er ved tekster, fordi tekster er jo et af de områder, der er lettest at gå til. Så lad os hoppe over til produkttekster. Og igen, ligesom jeg lige har sagt med kategoritekster, det her er altså både relevant til nye produkter, men også til produkter, som man ikke har gennembesøgt i sikkert flere år. De fleste kender nok det her med, at de har en masse tekster liggende på produkter, som man er oprettet for flere år siden, og de sælger rigtig godt, men hvor ofte har man lige været inde og kigget dem igennem? Så der er potentiale for at lave ny, bedre tekster, og sørge for, at de har de rigtige søgetermer. Måske endda også lave interne links, og jeg ved, du har et par eksempler med os. Ja, og vi har faktisk lavet en episode om de præcis et af eksemplerne tidligere, nemlig i form af igen Reset Store, hvor vi har lavet rigtig meget arbejde med programmatik-SEO. Og det konkrete flow, vi kører for dem, kan man faktisk se på siden her. Og igen, der har vi et eksempel med, at vi bruger sådan et spreadsheet som database, eller som sådan en referencepunkt, et lille miniserium til projektet. Det ligger og lytter på, at der bliver oprettet nye produkter i Shopify. Vi researcher de produkter via Perplexity, skriver en tekst, Brand Guidelines, Tone of Voice, Factor Check, og lægger dem op i Shopify til sidst. Og det betyder bare, at i stedet for at bruge de samme tekster, som alle de andre forhandlere af de her sko bruger, eller i stedet for ikke at have nogen, eller i stedet for at have nogen, der er dårlige, så har vi bare nogle mega gode produkttekster, som gør, at vi i flere cases har oplevet, at Reset Store ranker over for eksempel Adidas eller Nike på deres egne produkter. Og det er, fordi Adidas og Nikes tekster bliver brugt på 50 store webshops, hvor Reset er så en af dem, som rent faktisk laver deres egen, og de er længere, og de er bedre, og de er velstrukturerede, og alle guidelines er overholdt, og så videre. Så det er jo mega fedt at se Reset Store ranke bedre på Nike 3 end Nike Graph, for eksempel. Så hvis Nike lytter med, call us. Ja, præcis. I er meget velkomne. Lad os tage til det næste, og jeg kunne godt tænke mig at snakke om en ting, som jeg tror, at der faktisk er mange, der gør, selvom de ikke nødvendigvis tænker så meget over det, og det er konkurrentovervågningen. Og Tino, vi to er jo ikke bange for at indrømme, at vi elsker at overvåge vores konkurrenter. Det er sgu da ikke plads i disciplin. Jeg elsker det. Alle, der siger, at det ikke er det, de lyver. De lyver, og jeg har jo lavet et helt værktøj til bare at sidde og gøre det her på Meta, som vi har omtalt tidligere, så jeg har jo bygget marketing-spendt.com, hvor du kan indtaste i den hvilke som helst virksomheds Ads Library på Facebook eller LinkedIn, det virker på begge to. Så kan du klikke på dem, og så kan du se, hvilke aktive annoncer kører de, nogenlunde, hvor mange penge bruger de på det, hvad er deres bedst performende annoncer, hvordan ser deres historik ud i forhold til tidligere gange, hvor de er blevet tjekket osv. Altså, jeg elsker at kigge på konkurrenter så meget, at jeg har bygget et helt værktøj til at gøre det, som i øvrigt koster os omkring 1000-2000 kroner om måneden i rå API-omkostninger lige nu, fordi det bliver brugt så meget. Det synes jeg selvfølgelig er fantastisk. Men det her er en ting, man kan gøre. En anden ting er, at man kan bygge et decideret flow til det, så konkurrentovervågning er faktisk en legit ting, du kan få hjælp til at ad i. Måden, man kan gøre det her på, det er, at man kan bygge et workflow, som går ind og f.eks. hver uge scraper konkurrenters websites. Det tilmelder sig deres nyhedsbrev og læser alle deres beskeder. Det har en URL til Facebook Ads Library, hvor du bruger det samme API, som jeg gør, til rent faktisk at se, hvad ligger der at køre hver eneste uge. På den måde, at du kan tage alle de områder, hvor du normalt ville tjekke, hvad det er, de har gang i. Og så bare få en AI til at ligge og lytte og selv scrabe og f.eks. lave et executive summary en gang om ugen, hvor den siger, her er dine fem konkurrenter, her er de nye kampagner, de kører, her er de ting, de lægger væk på i nyhedsbrevet, her er de ting, der har ændret sig på sitet osv. Og du kan jo bygge noget forretningslogik ind i det, hvis du vil det, så du kan sige, her er de produkter, som er vigtige for os, fortsat at være konkurrencedygtige på. Sørg for at give mig en besked, hvis der er nogen andre, der gør et eller andet på det her område. Og jeg ved, apropos Jesper Weichsel, som vi snakkede om til at starte med, han skrev en LinkedIn-beskede til mig. Han har omkring 10.000 linjers kode dybt ned i et vibe-coded prissætningsværktøj, som holder øje med deres egne produkter på alle andre shops og automatisk og proaktivt sætter deres priser ud fra hver enskede dækningsbidrag, konkurrencesituation og alle mulige andre ting. Så man kan sige, det workflow, jeg lige viste her på skærmen, det kan du bruge til bare at få besked om, hvad der sker. Du kan altså godt bygge noget logik ind, hvor du tager nogle automatiske handlinger på baggrunden af det. Således hvis du har et produkt, der sælger sig til 300 kroner og alle dine konkurrenter sælger sig til 500, så kan du måske sætte det op til 400 og dermed tjene flere penge på det. Det her, det synes jeg er super sjovt og noget, vi faktisk hjælper ret mange af vores kunder med at sætte op i øjeblikket. Og hvis jeg skal give et perspektiv mere på noget, jeg selv er i gang med lige nu, det er et tool, der ligger og scraper på Shopify via et API priserne på alle konkurrenternes produkter. Hvorfor gør jeg så det? Jamen det er jo fordi, man kan typisk godt mærke på især Google Ads, men også bare generelt, når der er konkurrenterne, der har tilnærmelsevis samme produkter eller samme, hvis man ligger og konkurrerer med andre forhandlere, sætter deres priser ned. Så for at få en prishistorik, for at kunne matche det op med ens egen data bagudrettet, altså se, hvor stor en påvirkning har det egentlig og bør vi trække os fra auktionerne, når de simpelthen går ud og har 30% rabat og vi har fuld pris for eksempel. Jamen der skal vi jo bruge data hen. Og det er så den, som den her prismonitorerings tool ligger og henter ind. Så det her, det kan jo bruges på mange forskellige måder. Jeg tror, det vigtigste her, det er egentlig bare at komme i gang, fordi lige snart man er i gang, så kommer man på flere use cases. Lige præcis. Hvad er den næste automation, vi skal gennemgå? Jamen lad os tage en af de helt store, som også er relevant for de fleste, det er oversættelse. Oversættelse har jo historisk været noget, der har kostet en masse penge og har taget en rigtig lang tid. Så det vil sige, at barrieren for at komme ud til det store udland har typisk været relativt høj, i hvert fald hvis man sammenligner med, hvordan det ser ud i dag. Og oversættelse, det kan lyde banalt, altså oversætte den her til finsk eller tysk, men det er ikke altid, man får det bedste output. Og det er her, hvor man skal være særlig opmærksom, når man laver de her oversættelser, at man rent faktisk prompter sig ret godt ud af det. Og jeg ved, Halfter, at du har haft et eksempel tidligere med, hvordan vi har gjort det på Obsidian Agency, altså vores hjemmeside, da vi skulle have den oversat. Fordi der gav vi den faktisk en pokkers masse kontekst, og det er også det, vi vil anbefale, at man gør, når man sætter det op i sådan et flow her. Ja, det er præcis, så vi har også brugt AESA at oversætte fra dansk til tysk og finsk på obsidianagency.com. Og det er rigtigt nok, der lavede vi jo vores egen løsning til det, hvor vi via, hvis man skal bruge et pænt ord, så er det jo RAC, Retrieval Augmented Generation. Hvis man skal sige, at det er almindeligt, så uploadede vi en hel masse PDF-filer, så AI kunne forstå, hvordan vi gerne ville oversætte ting. Og så dermed gav det en kontekst til, hvordan lige præcis vi oversætter, fordi vi kan godt bare tage en tekst og lægge den i Google Translate, og så får vi den oversat. Men så bliver der også nogle ting, som for eksempel, så vil den oversætte AI til kunstig intelligens. Og vi kalder det AI, vi kalder det ikke for kunstig intelligens, vi kalder det for SEO, og vi oversætter ikke konsekvent alting til søgemaskinen, optimering osv. Så der er rigtig mange engelske termer, vi faktisk bliver ved med at bruge i vores arbejde, selv når vi arbejder med danske virksomheder. Der er også andre eksempler, hvor den oversætter ting som for eksempel Obsidian Agency, så skriver den Obsidian Bureau, og der skal den faktisk bare skrive Obsidian. Og det er jo ikke forkert oversat, det er jo bare vores Brand Guideline, vi kalder det bare Obsidian. Vi kalder det ikke Obsidian Bureau, vi kalder det ikke Obsidian Danmark, vi kalder det bare Obsidian. Og de ting er du nødt til at give den som kontekst, og så havde vi også taget nogle eksempler på tekster, som vi havde oversat, og selv kigget igennem meget grundigt for at sige, det er sådan her, vi gerne vil kommunikere. Og det hjalp os til at lave et flow, hvor vi kunne oversætte, altså bare få hele siden rullet igennem på en gang. Og nu ligger vores website i Webflow, der lå nogle færdige integrationer, det samme, det gør der med WordPress, Shopify, Genso og det fleste andre systemer. Så det vil sjældent være teknikken, der holder en fra at gøre det her. Det vil som regel være, om man lykkes til at prompte den så godt, at oversættelsen rent faktisk bliver lige så god eller bedre, end hvad den selv ville have lavet. Men jeg er helt sikker på, at den løsning, vi er endte ud med, har kostet 1% af, hvad det ville have kostet at gøre det manuelt, og jeg tror, den er bedre. Ikke lige så god, jeg tror, den er bedre. Lad mig hoppe videre med en af dem, der kan gøre den største forskel på bundlinjen. Og det er også, at man kan bruge AI til at automatisere en del af ens kundeservice eller sådan en first level support. Og her, det er faktisk både en case i forhold til for eksempel Ecom, hvor man får en masse e-mails og chatbeskeder, eller hvor langt er min pakke, og kan jeg få en returlabel og sådan nogle ting. Men det er også i en BSOB-kontekst. Vi har en BSOB-virksomhed, vi lige nu hjælper med at lave en AI-model, trænet på baggrund af deres udgående mails de sidste 10 år, til at lave udkast, når en mulig kunde skriver ind med tekniske spørgsmål eller ønsker et tilbud. Så det behøver ikke nødvendigvis være kundeservice, det kan faktisk også være en del af dit salg- og marketingarbejde. Og jeg synes, den del er interessant, fordi vi ved, at en af de ting, der har den største betydning i BSOB i forhold til, om man lykkes med at lukke ens leads til kunder, det er hastighed. Den sikre måde at tabe et lead på, det er lige at vente to dage med at svare på det, eller sige, at du kommer med et tilbud, og så komme med det to uger senere. Der er nogle vilde statistikker på, hvis du kan ringe inden for fem minutter, hvor høj en lukkerar, du har i forhold til, hvis du ringer inden for to dage, for eksempel. Og det er flere hundrede procent til forskel. Fordi det, der sker, når man hurtigt svarer, det er, at du stopper folks søgeproces. Så hvis de skriver til dig og får svaret med det samme, så behøver de måske ikke skrive til tre andre, fordi nu har I indlægt dialogen, så de stopper søgeprocessen, og du får lov til tidligt at få dem til at fortale meget om deres behov og produkter. Det gider de måske ikke, hvis du er nr. 5, de har skrevet til, men de gider godt, hvis du er nr. 1, de har skrevet til. Så alle mulige fordele ved at reagere hurtigt. Og en måde, hvorpå man kan reagere hurtigt, det kunne også være, at man rent faktisk hjælper folk til, at der står et udkast i deres e-mail-embakke, i det øjeblik, e-mailen rammer. Og det kan man gøre via individuelle værktøjer, men hvis det skal være rigtigt godt, så skal du træne en digital model på din egen data, og upload det her sikre kontekst, lave alt det her arbejde, og det hjælper vi en dansk B2B-virksomhed med lige nu, og det er for, at de skal sælge mere. Det er ikke for at spare penge i kundeservice, det er for, at de skal sælge mere. Men der er også cases i e-commerce, hvor det handler om, at lige nu sidder der måske tre personer i kundeservice, de kan ikke følge med, og når det er Black Friday, så er de to uger bagud. Og der er vores oplevelse, at vi ofte kan tage over halvdelen af deres first level support, og simpelthen automatisere den, fordi folk spørger om de samme ting igen og igen, hvor langt er min pakke? Det behøver du ikke, en person, til at sidde og svare på. Det kunne godt være et workflow, der går ind og tjekker i Shopify, at en afsendt generer et svar, og så bare sender det til folk på to minutter. Det behøver ikke at være en person, der gør det. Det er hurtigere, bedre og billigere, at workflow gør det. Og så er det sådan lidt dumt at arbejde og gå ind og tjekke, om en pakke er sendt, apropos ting, som vi gerne vil automatisere væk. Så det her, det synes jeg også er et kæmpe punkt. Det er ikke den nemmeste punkt at implementere, men det er nok det, der har potentielt den største værdi at implementere for rigtig mange virksomheder. Både i form af, hvad du kan spare, og hvad du kan omsætte mere, især i B2B-kontekst. Prøv at tænke på, som kundeservicemedarbejder, at møde ind til 100 udkast til mails, frem for 100 mails, der skal skrives fra bunden af, fordi man ikke har fået det her udkast lavet af jer. Så kan det godt være, at det kun er halvdelen, der kan sendes direkte af sted. Men lurer mig om ikke, er det jo også det, vi ser, at 20-30 procent af dem, de kan faktisk næsten sendes af sted, der skal bare lige lave sin lille ændring. Hold op og bliver ens dagligdag bare, jamen antager jeg, markant bedre. Jeg kender det i hvert fald selv, når jeg kan få lavet et udkast til en mail, frem for at jeg skulle starte forfra hver evig eneste gang. Ja, lige præcis, det kan gøre en gigantisk forskel. Den sidste automation, vi har med i dag, den handler om at bruge AI til at generere blogpost eller artikler med henblik på SEO. Og jeg tror måske, det her er den mest gengse eller kendte programmatik SEO-usecase, tror du ikke? Det tror jeg. Det tror jeg. Det er i hvert fald her, hvor det også for vores vedkommende virkelig startede, hvor vi sad og nørdede rundt i de her flows her. Ja, fordi det er sådan en helt klassisk kendt case, hvordan laver du SEO? Jamen vi skal simpelthen ind og rank på flere server. Og jeg kan prøve at vise et meget konkret eksempel på, hvad vi har gjort i vores eget tilfælde. Fordi vi har nogle tracking ydelser i AppCDN, så vi vil gerne hjælpe virksomheder med at opsætte bedre tracking. Og det vil vi selvfølgelig gerne fortælle om, men der er faktisk også rigtig mange søgninger på det her. Og så er det sådan nogle søgninger som for eksempel server-side tracking til Google Ads eller bedre tracking af meta-ads i Calendly og alle sådan nogle ting. Uh, nu åbner du altså op for en forretningshemmelighed her i halvstandet. Det er våd! Ja, det gør jeg lidt, men jeg tror vi er snart 50 minutter inde i podcastet, så jeg tror alle konkurrenterne er faldet af nu, så kan jeg godt tilhøre mig at gøre det her. Ellers er det kun konkurrenterne, der er. Ja, måske snillere. Alle konkurrerende byråer skal lige slukke nu. Vi giver jer lige tre sekunder til lige at slukke. Så kommer sådan noget musik her. Og alle konkurrenter er væk nu, så nu kan vi godt fortsætte med at fortælle om det her. Så vi har alle de her tracking-relaterede ydelser, som vi gerne vil sælge og levere rigtig meget af. Og det vi er opmærksomme på, det er, at der er de her meget specifikke søgninger på sådan værktøjer plus platform. Og der har vi lavet et lille mikroprogrammatisk serioprojekt på vores eget site, hvor det vi har gjort, det er, at jeg har taget de mest gængse platforme, og så har jeg taget de mest gængse annonceværktøjer. Så det er på den ene side, at jeg har taget Shopify, Magento, WooCommerce, Webflow. På den anden side, der har jeg taget Google Analytics 4, Google Ads, Mesa Ads osv. Så har jeg ganget dem med hinanden. Det giver 164 kombinationer. Så har vi lavet et workflow i mag.com med fire forskellige chat-GPT 5.2-integrationer, som går ind og skriver de her tekster, laver vores brand guidelines nedover, laver internal links og alle mulige andre ting, og automatisk publicerer dem inde på obsidianagency.com i deres eget template. Og her, nu kan jeg lige vise noget Search Console i forhold til, hvordan det ser ud, og det her er sådan et lille bitte eksempel. Men det er bare på baggrunden 164 sider, vi selv har uploadet, og det er jo ikke svært at se på skærmen, Tino. Hvornår vi uploadede de her sider? Ej, det vil være synd at sige. Altså, der er en meget, meget tydelig spike. Ja, vi går fra at få cirka 0 klik om dagen på tracking-relaterede server. Man kan se op i toppen her, at jeg har taget kun sider, der indeholder tracking lige nu, til øjeblikkeligt at blive vist på et par hundrede, tre, fire, fem hundrede søgninger om dagen, og få... Jamen, gennemsnitligt får vi en 3, 5, 10 klik. Lige i øjeblikket får vi faktisk endnu flere klik. De ranker bedre efter jul af en eller anden årsag. Jeg ved ikke rigtig, hvad vi har gjort bedre, for jeg har faktisk ikke ændret noget på dem, siden de blev uploadet. Men de ranker rigtig godt i øjeblikket og får måske 5-10 klik om dagen. Det er jo godt, du siger jo. Ja, jeg har ikke gjort noget som helst anderledes, og det ranker bedre. Kanon. Men lige nu, der får vi måske 5-10 klik om dagen på det her. Det er jo klik, som ville koste os 10-20 kroner i Google Ads, hvis vi skulle købe dem her et par stykker, og vi får leads ind på baggrunden af det her. Og det er bare et helt simpelt programmatisk saveplay, hvor vi har taget og genereret meget specifikke artikler, så man kan også se de ting, som folk søger på. Altså Microsoft Ads, Server Side Tracking, Magento, Google Ads. Det er lige præcis de ting, vi gerne vil vises på, at vi rent faktisk bliver vist på her. Så det har også fungeret, men det har været helt simpelt, fordi vi har bare genereret en liste i each spreadsheet over alle de artikler, vi gerne vil lave. Så har vi lavet en custom-model, sættet i make.com, og så har vi publiceret det hele på én gang inde i Webflow via make.com. Og hvis vi får 5 klik om dagen resten af året, så er det 1.500 klik. Det er klikværdi for omkring 25-30.000 i Google Ads, vi har fået ved at lave nogle timers arbejde på det. Det er jeg rigtig, rigtig tilfreds med. Og jeg ved ikke med dig, Halftan, men har du været ude for, at man har siddet og fortalt omkring det her, og man føler selv, at dopaminen kører bare i kroppen, fordi det her er så fedt, og så sidder der en forretning foran en og siger, ja, men blogpost, det er ikke lige os, hvad fanden skulle vi lige skrive om, osv.? Og dertil har jeg altså lige to små idéer, hvis du sidder og tænker det samme, hvor hvis du tjekker op på det her og stadigvæk siger, ej, det kan vi ikke skrive noget om, fair nok, så skal jeg nok sætte mig ned igen. Men hvis du kører Google Ads, prøv lige at hive din search term report ud, altså de søgetermer, du rent faktisk enten er blevet eksponeret på eller har købt kliks på. Så ikke din søgeord, men søgetermer. Hiv dem ud i en CSV-fil og smæk dem ind i ChatGab.t eller Gemini og be dem om at rense det, så du kun ser søgetermer, der relaterer sig til spørgsmål eller som kunne gøre sig til gode blogindlæg. Jeg er næsten sikker på, at hvis du bare bruger lidt penge på Google Ads, så vil du se en masse potentielle emner, som folk aktivt ligger og søger på, og som du måske også endda bruger penge på at købe trafik ind på via Google Ads, men sender dem ind på den helt generelle landingsside. Og der kan vi så snakke omkring den landingssideoplevelse, folk får. Det er nr. 1. Nr. 2 er, at du helt sikkert har nogle sælgere eller en kundeservice eller nogen, der sidder og får de samme spørgsmål igen og igen og igen. Og ja, selvfølgelig ikke det her med, hvor er min pakke henne. Det er måske ikke lige den, man skal tilfatte i, men måske ikke der er nogle emner omkring jeres produkter eller jeres serviceydelse, som man netop kunne gå ind og skrive om. Og kan man hive alle de her mails ud fra kundeservice, smække dem ind i en model, be den om at lave det her scope til det content her, og så begynde ud fra det, jamen så har du lige pludselig et hav af blogpost, du kan lave på baggrunden af det her. Så det handler altså lige om at tænke lidt ud af boksen, og jeg vil våben på, at de fleste i hvert fald kan finde nogle emner ud fra det her. Det er jeg helt sikker på. Formlet af den her episode, det var bare at konkretisere nogle eksempler på, hvor du lige nu kan bruge AI. Og jeg vil anbefale, hvis du synes det her er spændende, så skriv i nogle Facebook-grupper. Vi har Facebook-gruppen til marketing på, at du er velkommen til at gå ind og spørge nogle af de der iværksætterne, der kan skrive noget på LinkedIn i forhold til, hvad andre har gjort, fordi jeg vil våge den påstand, at der er relevante implementeringer at lave i alle virksomheder. Alle virksomheder, der har et produkt og sælger et eller andet, de har relevante automatiseringer at lave. Og jeg synes det mest spændende tema for 2026, det er, hvordan man kan skille af omsætning, uden at skille af omkostningerne og svaret på det, det er via AI. Så vi håber, at I kunne bruge nogle af eksemplerne her. Tusind tak, fordi I lyttede med til dagens episode og på genhør.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 4.0,
+      "text": " Hej og velkommen til en ny episode af MarketingPod."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": " Grønland er stadig dansk, AGF fører desværre stadig Superligaen,"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": " og vi skal igen tale om AI i den her episode, når vi kommer lidt længere."
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": " Og jeg ved, Tino, du er i hvert fald glad for en ud af de tre ting, jeg lige nævnte der."
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": " Jeg er ekstremt glad for, at AGF, de er vige, de er på toppen."
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": " Ja, nu er jeg fuldstændig ligeglad."
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "text": " Med Danmarks evne til at få et sæde ved det store bord for NATO og de arktiske magter,"
+    },
+    {
+      "start": 26.0,
+      "end": 30.0,
+      "text": " så længe AGF ligger nummer et, og jeg forstår det."
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "text": " Altså, jeg er overtroisk. Jeg tror, alt det her, det skal til for, at AGF ligger nummer et."
+    },
+    {
+      "start": 35.0,
+      "end": 39.0,
+      "text": " Christian Tino, han har det sådan, at han havde et særligt par underbukser på,"
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": " da AGF kom op at ligge nummer et i Superligaen, og han har faktisk ikke taget dem af i siden."
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": " Det er derfor, jeg stadigvæk sidder i mute-buksen. Jeg er faktisk ikke kommet ud herfra,"
+    },
+    {
+      "start": 45.0,
+      "end": 49.0,
+      "text": " fordi de andre herude, de vil ikke have, at jeg går ud."
+    },
+    {
+      "start": 49.0,
+      "end": 51.0,
+      "text": " Så please, FCK, begynd at vinde jeres kampe."
+    },
+    {
+      "start": 52.0,
+      "end": 55.0,
+      "text": " Så please, FCK, begynd at vinde jeres kampe."
+    },
+    {
+      "start": 55.0,
+      "end": 60.0,
+      "text": " I dag, der skal vi snakke om AI, og vi kommer til at gennemgå otte meget konkrete eksempler"
+    },
+    {
+      "start": 60.0,
+      "end": 64.0,
+      "text": " på AI-workflows og agender, som vi lige nu hjælper vores kunder med at implementere os."
+    },
+    {
+      "start": 64.0,
+      "end": 67.0,
+      "text": " Hvis du synes, AI er fedt at godt kunne tænke dig konkrete eksempler på,"
+    },
+    {
+      "start": 67.0,
+      "end": 71.0,
+      "text": " hvor det skaber værdi i danske virksomheder lige nu, så er det her en god episode."
+    },
+    {
+      "start": 71.0,
+      "end": 76.0,
+      "text": " Men inden da, så har vi ugens vigtigste nyheder i digital marketing, vi gerne vil tale om."
+    },
+    {
+      "start": 76.0,
+      "end": 78.0,
+      "text": " Christian Tino, hvad er der sket i den seneste periode?"
+    },
+    {
+      "start": 78.0,
+      "end": 84.0,
+      "text": " Yes, og vi starter rent faktisk med Google Ads, fordi Google introducerer Mixed Experiments i beta i Google Ads,"
+    },
+    {
+      "start": 84.0,
+      "end": 88.0,
+      "text": " som gør det muligt at teste flere kampagner og budgetter samlet i ét eksperiment."
+    },
+    {
+      "start": 88.0,
+      "end": 94.0,
+      "text": " Formålet er at måle den samlede inkrementelle effekt af et kampanjemix frem for at teste kampagner enkeltvis."
+    },
+    {
+      "start": 94.0,
+      "end": 100.0,
+      "text": " Annonsører kan oprette flere eksperimentarme og sammenligne performance på tværs af kampagnetyper."
+    },
+    {
+      "start": 100.0,
+      "end": 105.0,
+      "text": " Ifølge Google, så skal funktionen give bedre beslutningsgrundlag for budgetallokering på tværs af kanaler."
+    },
+    {
+      "start": 106.0,
+      "end": 110.0,
+      "text": " Funktionen er i øjeblikket i beta og tilgængelig for udvalgte annonsører."
+    },
+    {
+      "start": 112.0,
+      "end": 116.0,
+      "text": " Det tyder på, at striden mellem TikTok og USA nu er overstået."
+    },
+    {
+      "start": 116.0,
+      "end": 122.0,
+      "text": " TikTok har nemlig indgået en aftale om at oprette en ny amerikansk enhed for at undgå et forbud i USA."
+    },
+    {
+      "start": 122.0,
+      "end": 128.0,
+      "text": " Den nye struktur indbærer, at amerikanske investorer får majoritetskontrol, mens ByteDance reducerer sin ejerindel."
+    },
+    {
+      "start": 129.0,
+      "end": 136.0,
+      "text": " Aftalen skal sikre, at amerikanske brugerdata håndteres og kontrolleres i USA, blandt andet med amerikansk ledelse og bestyrelse."
+    },
+    {
+      "start": 136.0,
+      "end": 143.0,
+      "text": " Dermed afsluttes flere års politisk pres og trusler om et totalt TikTok-forbud på det amerikanske marked."
+    },
+    {
+      "start": 145.0,
+      "end": 153.0,
+      "text": " En ny analyse peger på, at annonsører fortsat bruger uforholdsmæssigt mange penge på Flow TV sammenlignet med den reelle seeredeffærd."
+    },
+    {
+      "start": 153.0,
+      "end": 158.0,
+      "text": " Ifølge analysen falder seertallene, mens annonceinvesteringerne ikke følger med ned."
+    },
+    {
+      "start": 158.0,
+      "end": 162.0,
+      "text": " Det betyder, at mange brands får lavere effekt for deres mediebudget end muligt."
+    },
+    {
+      "start": 162.0,
+      "end": 170.0,
+      "text": " Analysen konkluderer, at annonsører bør gentænke mediemixet og i højere grad prioritere digitale og mere målbare kanaler."
+    },
+    {
+      "start": 172.0,
+      "end": 176.0,
+      "text": " Vi starter med den her kommende udvidelse til Google Ads, og jeg synes faktisk, det er rigtig spændende."
+    },
+    {
+      "start": 176.0,
+      "end": 188.0,
+      "text": " Det man skal forstå her, det er, at i både Google Ads og meta og andre platform, er det en udfordring, at vi lige nu kører vores for eksempel upper funnel kampagner og bottom funnel kampagner i forskellige kampagner."
+    },
+    {
+      "start": 188.0,
+      "end": 198.0,
+      "text": " Så vi har en kampagne, som går efter at målrette personer, som ikke kender brandedet i forvejen, og får dem til at lære os at kende og øge sandsynligheden for, at de klikker på vores resultat i Google Ads senere."
+    },
+    {
+      "start": 198.0,
+      "end": 200.0,
+      "text": " Og en anden kampagne, hvor vi så går efter at skabe salg."
+    },
+    {
+      "start": 200.0,
+      "end": 214.0,
+      "text": " Og i teorien, så ville det jo være mere hensigtsmæssigt, hvis du havde en kampagne, hvor de her forskellige kampagnemålsætninger var samlet, og der måske kunne ske en eller anden form for dynamisk budgetallokering mellem upper funnel og lower funnel, som var dynamisk i realtid og bestemte en algoritme."
+    },
+    {
+      "start": 214.0,
+      "end": 224.0,
+      "text": " I stedet for, at vi sådan manuelt siger, jeg vil gerne bruge 30% på branding og 70% på performance, fordi hvad nu hvis det modsatte var bedre, eller hvad nu hvis det er 55, 45 eller et eller andet."
+    },
+    {
+      "start": 224.0,
+      "end": 236.0,
+      "text": " Det er sådan en meget lagging måde at lave budgetallokering på, og der er både Mese og Google faktisk på vej med de her fælles kampagnemålsætninger, som skal gøre, at det er muligt at samle upper funnel og lower funnel."
+    },
+    {
+      "start": 236.0,
+      "end": 242.0,
+      "text": " Hvad tænker du om det her? Jeg tænker nu, det er en ret stor ting, også for dig, som arbejder meget med Google Ads for rigtig mange virksomheder."
+    },
+    {
+      "start": 242.0,
+      "end": 256.0,
+      "text": " Det er en rigtig stor ting det her, og det første jeg gjorde, det var at skrive til vores PPC product lead her i Obsidian, Emil, som jo har direkte kontakt med vores point of contact inde hos Google for at sige, hvornår får vi adgang til det her, og han havde bare allerede kommet meget langt i forvejen."
+    },
+    {
+      "start": 256.0,
+      "end": 260.0,
+      "text": " Han havde også set nyheden her, selvom den lige er kommet ud og havde spurgt."
+    },
+    {
+      "start": 260.0,
+      "end": 265.0,
+      "text": " Men det er kæmpestort det her, fordi det man skal forstå, det er, at man har egentlig altid corporate eksperimenter i Google Ads."
+    },
+    {
+      "start": 265.0,
+      "end": 270.0,
+      "text": " Noget, der evenfører, hvis man skulle tage et af halvdansord, er stærkt underkommercialiserede."
+    },
+    {
+      "start": 270.0,
+      "end": 281.0,
+      "text": " Jeg vil bare sige, det er undervurderet. Hvor du ligesom tester A mod B, altså det vil sige, at du har den her kampagne, og du vil gerne teste manuelt CPC, altså du manuelt siger, hvor meget du vil give for et klik versus target ROAS."
+    },
+    {
+      "start": 281.0,
+      "end": 286.0,
+      "text": " Altså du vil have et eller andet outcome, og så må Google selv finde ud af det. Det har man egentlig altid kunnet."
+    },
+    {
+      "start": 286.0,
+      "end": 291.0,
+      "text": " Det man så nu kan, det er at sige, jamen nu har jeg en søgekampagne, og den her søgekampagne har jeg egentlig gjort det godt."
+    },
+    {
+      "start": 291.0,
+      "end": 307.0,
+      "text": " Det er min kontrolgruppe. Nu vil jeg gerne prøve at teste den op imod, at jeg både kører søgekampagne og Performance Max i en testgruppe, for ligesom at se, om det her spil med flere kanaler, som Performance Max jo åbner op for, om det kan skabe et eller andet positivt."
+    },
+    {
+      "start": 307.0,
+      "end": 317.0,
+      "text": " Og man kan sige, som du også siger, Halvdan, det er jo egentlig den her tankegang, man har forsøgt at brede ud ved netop at lave Performance Max og Demand Gen og så videre i Google Ads."
+    },
+    {
+      "start": 317.0,
+      "end": 326.0,
+      "text": " Jeg tror så bare, at inde hos Google, der har man også mærket den frygt, vi har som annoncører ved bare at smække alt i deres hænder og så sige, værsgo, nu skal du bare finde det perfekte mix her."
+    },
+    {
+      "start": 326.0,
+      "end": 333.0,
+      "text": " Så nu er det som om, de ligesom tager et lille step tilbage og åbner lidt op i maskinerummet og så siger, okay fair nok, men nu kan du altså få lov til at teste af."
+    },
+    {
+      "start": 333.0,
+      "end": 344.0,
+      "text": " Og som jeg har forstået det, så er det på kontoniveau, hvor Google ligesom går ind og så deler de her målgrupper op på tværs af kontoren, for at man ligesom kan få et billede af, hvad virker egentlig bedst."
+    },
+    {
+      "start": 344.0,
+      "end": 348.0,
+      "text": " Er det den her kanal mix, eller er det de enkle afhængige af, hvordan man lige laver sine tests?"
+    },
+    {
+      "start": 348.0,
+      "end": 355.0,
+      "text": " Jeg vil sige, at den største udfordring eller barriere for mig i forhold til at komme til at bruge det her, det er, at jeg stoler faktisk ikke på Google lige nu."
+    },
+    {
+      "start": 355.0,
+      "end": 362.0,
+      "text": " Jeg stoler ikke på, at de har mine interesser, at mine interesser og deres interesser rent faktisk er legnet i det her."
+    },
+    {
+      "start": 362.0,
+      "end": 371.0,
+      "text": " Jeg har oplevet med Performance Max, at den tilskriver sig selv en meget højere omsætning, end search-kampagnen gjorde og brugte mange flere penge, uden at omsætningen steg."
+    },
+    {
+      "start": 371.0,
+      "end": 374.0,
+      "text": " Og det har vi set case på case på case."
+    },
+    {
+      "start": 374.0,
+      "end": 379.0,
+      "text": " Mit indtryk er, at Performance Max er eminent til at finde kunder, der vil have købt det alligevel og så tage æren for dem."
+    },
+    {
+      "start": 379.0,
+      "end": 384.0,
+      "text": " Og jeg stoler faktisk ikke på den kampagnemålsætning og prøver at minimere brugen."
+    },
+    {
+      "start": 384.0,
+      "end": 387.0,
+      "text": " Jeg har fuldstændig fjernet den på opsidiet af hans egen annoncekonto."
+    },
+    {
+      "start": 387.0,
+      "end": 395.0,
+      "text": " Vi bruger stadig Performance Max på nogle af vores kunder, men vi holder den i kort snor, og jeg tjekker den, og jeg stoler ikke på den, og jeg laver mine egen beregninger for at sikre, at det rent faktisk er en god idé."
+    },
+    {
+      "start": 395.0,
+      "end": 402.0,
+      "text": " Og det vil være den største barriere for mig i forhold til at bruge det her værktøj, fordi jeg vil mistænke Google for at sige, at du skal have mere opperfonden."
+    },
+    {
+      "start": 402.0,
+      "end": 406.0,
+      "text": " Her er displayen i værket, som vi ikke kan sælge til nogen andre."
+    },
+    {
+      "start": 406.0,
+      "end": 408.0,
+      "text": " Hvad tænker du om det?"
+    },
+    {
+      "start": 408.0,
+      "end": 420.0,
+      "text": " Bare lige for at forstå, det er mere den værdi, de inde i kanalen tilskriver sig, du har et issue med, end selve tanken om at sprede sig ud på forskellige kanaler."
+    },
+    {
+      "start": 420.0,
+      "end": 428.0,
+      "text": " Ja, og det kan jeg jo godt følge dig i, det kan jeg sagtens følge dig i, og jeg tror faktisk også, du selv nævnte, at vi er jo i gang med at lave nogle egne beregninger på de her ting her."
+    },
+    {
+      "start": 428.0,
+      "end": 436.0,
+      "text": " Og det tror jeg altså også bare bliver vigtigt i fremtiden at kunne lave sine egne beregninger på det her, fordi jeg stoler sgu heller ikke vendt på, hvad Google siger."
+    },
+    {
+      "start": 436.0,
+      "end": 443.0,
+      "text": " Hvis jeg havde gjort det, så havde de forretninger, jeg sidder med, været et helt andet sted, fordi så havde de jo 200% af den omsætning, de reelt set har i dag."
+    },
+    {
+      "start": 443.0,
+      "end": 446.0,
+      "text": " De havde brugt mange flere penge på displayannoncering, og de havde nok omsat en del mindre."
+    },
+    {
+      "start": 446.0,
+      "end": 449.0,
+      "text": " Lad os hoppe videre til TikTok. Jeg synes jo det her, det er også rigtig interessant."
+    },
+    {
+      "start": 449.0,
+      "end": 451.0,
+      "text": " Det man skal forstå er konteksten her."
+    },
+    {
+      "start": 451.0,
+      "end": 457.0,
+      "text": " Donald Trump, han var jo først rigtig meget mod TikTok, så var han rigtig meget for TikTok, da han fandt ud af, at det kunne bidrage til at få ham valgt,"
+    },
+    {
+      "start": 457.0,
+      "end": 463.0,
+      "text": " men har hele tiden sagt, at TikTok skal være ejet på amerikanske hænder, og hosting skal ske i USA og sådan nogle ting."
+    },
+    {
+      "start": 463.0,
+      "end": 469.0,
+      "text": " Og jeg har det sådan konceptuelt en lille smule stramt med det her med, at man ind fra politisk side går ind og siger,"
+    },
+    {
+      "start": 469.0,
+      "end": 473.0,
+      "text": " hvis der er en platform, der skal være til stede i vores land, så skal vi rent faktisk eje den."
+    },
+    {
+      "start": 473.0,
+      "end": 482.0,
+      "text": " Men det man skal huske, det er, at i Kina, der kan du altså ikke bruge hverken Google, eller Facebook, eller Twitter, eller noget som helst andet."
+    },
+    {
+      "start": 482.0,
+      "end": 486.0,
+      "text": " I Kina, der har det outright, altså bannet nærmest alle amerikanske tjenester."
+    },
+    {
+      "start": 486.0,
+      "end": 488.0,
+      "text": " Der får du lov til at bruge de kinesiske pangdanger."
+    },
+    {
+      "start": 488.0,
+      "end": 495.0,
+      "text": " Og jeg tror, at man skal huske den konteksten, når man så kritiserer USA for at kræve, at TikTok skal være på amerikanske hænder for at operere i landet."
+    },
+    {
+      "start": 495.0,
+      "end": 502.0,
+      "text": " Fordi det er faktisk mere, hvad skal man sige, lignende eller mere gavmilde vilkår, end amerikanske virksomheder får i Kina tilsvarende."
+    },
+    {
+      "start": 502.0,
+      "end": 507.0,
+      "text": " Og ud fra det perspektiv, at amerikanske virksomheder faktisk slet ikke får lov til at operere i Kina,"
+    },
+    {
+      "start": 507.0,
+      "end": 512.0,
+      "text": " så kan jeg godt have sympati for synspunktet for, at kinesiske virksomheder så skal være på amerikanske hænder for at få lov til at operere i USA."
+    },
+    {
+      "start": 512.0,
+      "end": 516.0,
+      "text": " Fordi det er faktisk stadig mere gavmilde vilkår, end man får den anden vej."
+    },
+    {
+      "start": 516.0,
+      "end": 517.0,
+      "text": " Og det er så det, der er sket nu."
+    },
+    {
+      "start": 517.0,
+      "end": 521.0,
+      "text": " Der er lavet en amerikansk investorbase, som bl.a. Oracle, som kommer til at stå for deres hosting."
+    },
+    {
+      "start": 521.0,
+      "end": 524.0,
+      "text": " Den gik ned første dagen, da det her skete. Det kan man grine en lille smule af."
+    },
+    {
+      "start": 524.0,
+      "end": 525.0,
+      "text": " Den er ved at være op igen."
+    },
+    {
+      "start": 525.0,
+      "end": 532.0,
+      "text": " Men det er nu sket, således at majoriteten af TikTok i USA rent faktisk er aret af en amerikansk virksomhed."
+    },
+    {
+      "start": 532.0,
+      "end": 534.0,
+      "text": " Jeg tror, at det her er dårlige nyheder for Meta."
+    },
+    {
+      "start": 534.0,
+      "end": 538.0,
+      "text": " Fordi i den periode, hvor TikTok var nede, og hvor man var i tvivl om, hvorvidt man overhovedet måtte annoncere,"
+    },
+    {
+      "start": 538.0,
+      "end": 540.0,
+      "text": " der steg Metas omsætning."
+    },
+    {
+      "start": 540.0,
+      "end": 544.0,
+      "text": " Det kunne man se på CPM-priserne direkte, da TikTok var nede et par dage sidste år."
+    },
+    {
+      "start": 544.0,
+      "end": 549.0,
+      "text": " Fordi der var ikke kommet den her extension af, at nu kunne man få lidt længere tid til at forhandle."
+    },
+    {
+      "start": 549.0,
+      "end": 551.0,
+      "text": " Og det var direkte positivt for Meta."
+    },
+    {
+      "start": 551.0,
+      "end": 554.0,
+      "text": " Så det her er ikke mega godt for mine Meta-aktier, som jeg har rigtig mange af."
+    },
+    {
+      "start": 554.0,
+      "end": 556.0,
+      "text": " Så jeg har selvfølgelig stramme med den her nyhed alene af den årsag."
+    },
+    {
+      "start": 556.0,
+      "end": 562.0,
+      "text": " Men ellers er det jo godt for alle dem, der bruger TikTok og annoncerer på TikTok og alle mulige andre ting."
+    },
+    {
+      "start": 562.0,
+      "end": 565.0,
+      "text": " Er du glad for det, som rent faktisk TikTok bruger nu?"
+    },
+    {
+      "start": 565.0,
+      "end": 569.0,
+      "text": " Du er jo under 30, Gen Z, og bruger rigtig meget i dagen derinde."
+    },
+    {
+      "start": 569.0,
+      "end": 571.0,
+      "text": " Så jeg tænker, at du er vel super glad for den her nyhed?"
+    },
+    {
+      "start": 571.0,
+      "end": 576.0,
+      "text": " Jo, altså man kan sige, at nu er jeg jo ikke på fra USA, så det har jo ikke gjort en stor forskel for mig."
+    },
+    {
+      "start": 576.0,
+      "end": 578.0,
+      "text": " Du er på den originale kinesiske version."
+    },
+    {
+      "start": 578.0,
+      "end": 583.0,
+      "text": " Ja, men selve tanken om at have nogle personer, der ligesom bare tager interessen for det."
+    },
+    {
+      "start": 583.0,
+      "end": 586.0,
+      "text": " Altså der er jo et geopolitisk spil i gang, det er der jo slet ikke nogen tvivl om."
+    },
+    {
+      "start": 586.0,
+      "end": 589.0,
+      "text": " Og den data, man ligesom besidder, har jo også en eller anden form for værdi."
+    },
+    {
+      "start": 589.0,
+      "end": 593.0,
+      "text": " Så det at kunne tage vare på det, kan jeg jo egentlig godt følge."
+    },
+    {
+      "start": 593.0,
+      "end": 598.0,
+      "text": " En hel anden ting. Har du set Det Hvide Hus på TikTok?"
+    },
+    {
+      "start": 598.0,
+      "end": 601.0,
+      "text": " Jeg har set det på Twitter. Shit, det stikker jeg på Twitter."
+    },
+    {
+      "start": 601.0,
+      "end": 604.0,
+      "text": " Så vildt. Altså hvis ikke man har set det, så prøv lige at hoppe ind og se det."
+    },
+    {
+      "start": 604.0,
+      "end": 609.0,
+      "text": " Og der er flere gange, og det er jo også nærmest den mest kommenterede kommentar, hvis man kan sige det på det måde."
+    },
+    {
+      "start": 609.0,
+      "end": 613.0,
+      "text": " Folk, der ligesom er alene og klikker ind og ser, er det reelt set den originale?"
+    },
+    {
+      "start": 613.0,
+      "end": 615.0,
+      "text": " Altså der er det her lille blå checkmark."
+    },
+    {
+      "start": 615.0,
+      "end": 620.0,
+      "text": " Jeg har gjort det flere gange. Også fordi på Twitter, der har den rent faktisk sådan et gråt checkmark, som kun de har."
+    },
+    {
+      "start": 620.0,
+      "end": 623.0,
+      "text": " Fordi der har været nogle ting derinde, hvor man tænker, at det kan lade sig blive kastet."
+    },
+    {
+      "start": 623.0,
+      "end": 624.0,
+      "text": " Det er da en joke, det her."
+    },
+    {
+      "start": 624.0,
+      "end": 631.0,
+      "text": " Det man skal forstå, det er at White House, det er jo den Twitter- og TikTok-konto, som tilhører det til enhver tid værende White House."
+    },
+    {
+      "start": 631.0,
+      "end": 635.0,
+      "text": " Så det vil sige, at det er den nuværende regering, og så når der kommer en ny regering, så overtager den nye regering."
+    },
+    {
+      "start": 635.0,
+      "end": 640.0,
+      "text": " Og det som den her regering gør, og man må jo sige, at de har et social media tech."
+    },
+    {
+      "start": 640.0,
+      "end": 643.0,
+      "text": " Fordi ud over de sædvanlige ting, vi er gode, og de andre er dumme."
+    },
+    {
+      "start": 643.0,
+      "end": 647.0,
+      "text": " Så er der jo memes og shitposting på Twitter."
+    },
+    {
+      "start": 647.0,
+      "end": 649.0,
+      "text": " Desideret memes og shitposting."
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " Og afgenererede billeder."
+    },
+    {
+      "start": 651.0,
+      "end": 655.0,
+      "text": " Altså bare et af de seneste eksempler, som jeg fik i mit eget feed."
+    },
+    {
+      "start": 655.0,
+      "end": 656.0,
+      "text": " Nu følger jeg den ikke."
+    },
+    {
+      "start": 656.0,
+      "end": 658.0,
+      "text": " Men jeg fik den alligevel."
+    },
+    {
+      "start": 658.0,
+      "end": 667.0,
+      "text": " Det er jo White House, der har retweetet et billede med Donald Trump, der går rundt på Grønland med en pingvin ved sin side."
+    },
+    {
+      "start": 667.0,
+      "end": 669.0,
+      "text": " Selvfølgelig straight up afgenereret materiale."
+    },
+    {
+      "start": 669.0,
+      "end": 673.0,
+      "text": " Det så vi altså bare ikke under hverken Obama eller Biden."
+    },
+    {
+      "start": 673.0,
+      "end": 685.0,
+      "text": " Vi har videoer af det amerikanske grænsepolitik, som går rundt og rounder op immigrants samtidig med, at de spiller Bruce Springsteen-musik."
+    },
+    {
+      "start": 685.0,
+      "end": 687.0,
+      "text": " Og jeg tænker, hvad foregår der her?"
+    },
+    {
+      "start": 687.0,
+      "end": 689.0,
+      "text": " Det er fuldstændig sindssygt materiale, de lægger op."
+    },
+    {
+      "start": 689.0,
+      "end": 691.0,
+      "text": " Det er helt vanvittigt."
+    },
+    {
+      "start": 691.0,
+      "end": 692.0,
+      "text": " Er det det samme, de gør på TikTok?"
+    },
+    {
+      "start": 692.0,
+      "end": 693.0,
+      "text": " Ja, fuldstændig."
+    },
+    {
+      "start": 693.0,
+      "end": 697.0,
+      "text": " Det er præcis de der videoer, hvor man sidder og blinker næste gang og siger, er det for real det her?"
+    },
+    {
+      "start": 697.0,
+      "end": 699.0,
+      "text": " Ja, også fordi det ikke engang er sjovt."
+    },
+    {
+      "start": 699.0,
+      "end": 704.0,
+      "text": " Når man ser det, så er der nogle memes og noget shitposting, hvor man kan tænke, haha."
+    },
+    {
+      "start": 704.0,
+      "end": 707.0,
+      "text": " Men så er der de andre videoer, hvor man tænker, det er ikke fedt det her."
+    },
+    {
+      "start": 707.0,
+      "end": 709.0,
+      "text": " Det er overhovedet ikke fedt længere."
+    },
+    {
+      "start": 709.0,
+      "end": 710.0,
+      "text": " Ej, det er vanvittigt."
+    },
+    {
+      "start": 710.0,
+      "end": 712.0,
+      "text": " Jeg glæder mig til, at der kommer nogle..."
+    },
+    {
+      "start": 712.0,
+      "end": 714.0,
+      "text": " Altså, jeg synes memes er sjov."
+    },
+    {
+      "start": 714.0,
+      "end": 717.0,
+      "text": " Og jeg bruger det faktisk som eksempel for nogle af vores kunder, hvor de siger, sådan her kan vi ikke kommunikere."
+    },
+    {
+      "start": 717.0,
+      "end": 719.0,
+      "text": " Så jeg siger, det kan Whitehouse altså godt."
+    },
+    {
+      "start": 719.0,
+      "end": 723.0,
+      "text": " Så jeres B2B-virksomhed, Jesper, de kan nok også godt lave noget, der ikke er så kedeligt."
+    },
+    {
+      "start": 723.0,
+      "end": 725.0,
+      "text": " Men det er godt nok også..."
+    },
+    {
+      "start": 725.0,
+      "end": 726.0,
+      "text": " Ja, det er en vild verden."
+    },
+    {
+      "start": 726.0,
+      "end": 731.0,
+      "text": " Lad os hoppe videre til nyheden nr. 3 med annoncører, som bruger uforholdsmæssigt mange penge på Flow TV"
+    },
+    {
+      "start": 731.0,
+      "end": 733.0,
+      "text": " sammenlignet med den reelle serieadfærd."
+    },
+    {
+      "start": 733.0,
+      "end": 735.0,
+      "text": " Og jeg kunne godt tænke mig at vise dig en graf, Tino."
+    },
+    {
+      "start": 735.0,
+      "end": 739.0,
+      "text": " Til dig, der ser med på Spotify med video eller YouTube, så får du lige lov til at se med her."
+    },
+    {
+      "start": 739.0,
+      "end": 743.0,
+      "text": " Det er deres medieudvikling, altså deres medieundersøgelse, deres årlige medieundersøgelse,"
+    },
+    {
+      "start": 743.0,
+      "end": 745.0,
+      "text": " hvor de spørger en hel masse danskere, hvilke sociale medier bruger du?"
+    },
+    {
+      "start": 745.0,
+      "end": 747.0,
+      "text": " Hvor meget tv ser du? Og sådan noget."
+    },
+    {
+      "start": 747.0,
+      "end": 748.0,
+      "text": " Den er lige kommet ud."
+    },
+    {
+      "start": 748.0,
+      "end": 750.0,
+      "text": " Jeg synes, en af de vildeste grafer, det er den her."
+    },
+    {
+      "start": 750.0,
+      "end": 756.0,
+      "text": " Den her graf, eller bar chart, den viser, hvordan danskere bruger medier afhængig af, hvor gamle de er."
+    },
+    {
+      "start": 756.0,
+      "end": 761.0,
+      "text": " Og det, man skal forestille sig, det er, hvis du fx tager de 12-24-årige eller 25-31-årige."
+    },
+    {
+      "start": 761.0,
+      "end": 764.0,
+      "text": " De bruger rigtig meget tid på sociale medier."
+    },
+    {
+      "start": 764.0,
+      "end": 766.0,
+      "text": " De bruger ret meget tid på streaming og musik."
+    },
+    {
+      "start": 766.0,
+      "end": 770.0,
+      "text": " De hører en del radio og podcast, og så er de selvfølgelig meget på on-demand streaming."
+    },
+    {
+      "start": 770.0,
+      "end": 775.0,
+      "text": " Linear streaming, hvilket jo er tv, det fylder for de 12-24-årige så lidt, at du nærmest ikke kan se den."
+    },
+    {
+      "start": 775.0,
+      "end": 778.0,
+      "text": " Og det fylder 3% for 25-31-årige."
+    },
+    {
+      "start": 778.0,
+      "end": 785.0,
+      "text": " Hvis du så går til toppen, eller de ældste, for 75+, så er det 50% af deres tid, der går med linear streaming."
+    },
+    {
+      "start": 785.0,
+      "end": 788.0,
+      "text": " 50%, og de bruger 3% af tiden på sociale medier."
+    },
+    {
+      "start": 788.0,
+      "end": 790.0,
+      "text": " Så den laver et fuldstændigt flip."
+    },
+    {
+      "start": 790.0,
+      "end": 792.0,
+      "text": " Det, man skal forestille sig her, det er unge mennesker."
+    },
+    {
+      "start": 792.0,
+      "end": 795.0,
+      "text": " Og det her, der snakker vi under 45, fordi det er der, hvor den især skifter."
+    },
+    {
+      "start": 795.0,
+      "end": 797.0,
+      "text": " Ej, prøv at tænke på, at du er ung nu."
+    },
+    {
+      "start": 797.0,
+      "end": 799.0,
+      "text": " Jeg er ung igen. Det er så fedt."
+    },
+    {
+      "start": 799.0,
+      "end": 802.0,
+      "text": " Jeg er ikke 22, jeg er 34, men jeg er ung igen."
+    },
+    {
+      "start": 802.0,
+      "end": 806.0,
+      "text": " Under 45, så er du ung i den her, fordi det er der, hvor den virkelig skifter."
+    },
+    {
+      "start": 806.0,
+      "end": 808.0,
+      "text": " Under 45, der bruger du tid på sociale medier."
+    },
+    {
+      "start": 808.0,
+      "end": 811.0,
+      "text": " Du kører rigtig meget on-demand streaming."
+    },
+    {
+      "start": 811.0,
+      "end": 814.0,
+      "text": " Du hører podcast, du læser nyheder online osv."
+    },
+    {
+      "start": 814.0,
+      "end": 817.0,
+      "text": " Og så sker der et eller andet, når du bliver 45, så begynder du virkelig..."
+    },
+    {
+      "start": 817.0,
+      "end": 820.0,
+      "text": " Altså, der går du fra 7% til 26% af din tid."
+    },
+    {
+      "start": 820.0,
+      "end": 823.0,
+      "text": " Det bliver nu brugt på x-faktor og linear streaming."
+    },
+    {
+      "start": 823.0,
+      "end": 825.0,
+      "text": " Og så stiger den til 50%."
+    },
+    {
+      "start": 825.0,
+      "end": 827.0,
+      "text": " Det er den vildeste graf, den her."
+    },
+    {
+      "start": 827.0,
+      "end": 828.0,
+      "text": " Jeg hørte en anden statistik."
+    },
+    {
+      "start": 828.0,
+      "end": 834.0,
+      "text": " Den gennemsnitlige DDR1-serie, tror jeg, læste jeg her den anden dag, er 66 år gammel."
+    },
+    {
+      "start": 834.0,
+      "end": 837.0,
+      "text": " 66 i gennemsnit."
+    },
+    {
+      "start": 837.0,
+      "end": 839.0,
+      "text": " I gennemsnit."
+    },
+    {
+      "start": 839.0,
+      "end": 841.0,
+      "text": " Prøv at tænke på, hvor mange der trækker den op af."
+    },
+    {
+      "start": 841.0,
+      "end": 843.0,
+      "text": " Jeg synes, det er den vildeste ved det."
+    },
+    {
+      "start": 843.0,
+      "end": 846.0,
+      "text": " Så hvis du bruger tv-annoncering, skal du bare være opmærksom på..."
+    },
+    {
+      "start": 846.0,
+      "end": 849.0,
+      "text": " Du kan jo køre ned ad annoncering med tv2 play osv."
+    },
+    {
+      "start": 849.0,
+      "end": 852.0,
+      "text": " Der er du mere over almindelig streaming. Der rammer du også yngre."
+    },
+    {
+      "start": 852.0,
+      "end": 854.0,
+      "text": " Men rigtig meget tv-annoncering."
+    },
+    {
+      "start": 854.0,
+      "end": 857.0,
+      "text": " Det er 50, hvis ikke 65+."
+    },
+    {
+      "start": 857.0,
+      "end": 860.0,
+      "text": " Det, synes jeg, er den vildeste stat i det her."
+    },
+    {
+      "start": 860.0,
+      "end": 861.0,
+      "text": " Ja, og det er jo lige nu."
+    },
+    {
+      "start": 861.0,
+      "end": 864.0,
+      "text": " Og man kan sige, hvis man lever af de her tv-annoncer, så skal man jo tænke på..."
+    },
+    {
+      "start": 864.0,
+      "end": 868.0,
+      "text": " Den her graf her går jo ned i takt med, at de yngre bliver ældre og ældre."
+    },
+    {
+      "start": 869.0,
+      "end": 872.0,
+      "text": " Og det er jo det, den her analyse også peger på."
+    },
+    {
+      "start": 872.0,
+      "end": 874.0,
+      "text": " Så skal man måske til at kigge sig om."
+    },
+    {
+      "start": 874.0,
+      "end": 876.0,
+      "text": " Og noget af det, jeg synes, er interessant..."
+    },
+    {
+      "start": 876.0,
+      "end": 877.0,
+      "text": " Der er mange ting, der er interessante i den her."
+    },
+    {
+      "start": 877.0,
+      "end": 879.0,
+      "text": " Altså at hoppe ind på DR's sider og hente den her."
+    },
+    {
+      "start": 879.0,
+      "end": 881.0,
+      "text": " For det er virkelig en interessant læsning."
+    },
+    {
+      "start": 881.0,
+      "end": 883.0,
+      "text": " Men især YouTube..."
+    },
+    {
+      "start": 883.0,
+      "end": 885.0,
+      "text": " Hvad skal man kalde det? Se-seningen."
+    },
+    {
+      "start": 885.0,
+      "end": 887.0,
+      "text": " Jeg ved ikke, om det hedder det."
+    },
+    {
+      "start": 887.0,
+      "end": 890.0,
+      "text": " Men det at sidde og kigge på YouTube, det ændrer sig også."
+    },
+    {
+      "start": 890.0,
+      "end": 894.0,
+      "text": " Kan vi se, at der er endnu flere, der sidder og ser det på tv-skærmen."
+    },
+    {
+      "start": 894.0,
+      "end": 896.0,
+      "text": " Og det er jo blandt andet, fordi det bliver nemmere."
+    },
+    {
+      "start": 896.0,
+      "end": 899.0,
+      "text": " Mange tv'ere kommer jo decideret med en YouTube-knap på..."
+    },
+    {
+      "start": 899.0,
+      "end": 901.0,
+      "text": " Hvad hedder det?"
+    },
+    {
+      "start": 901.0,
+      "end": 904.0,
+      "text": " Vores tv'er har en YouTube-knap på fjernbedsætningen."
+    },
+    {
+      "start": 904.0,
+      "end": 906.0,
+      "text": " Den har også en Sky Showtime."
+    },
+    {
+      "start": 906.0,
+      "end": 908.0,
+      "text": " Og der tænker jeg, der kan vi også se den."
+    },
+    {
+      "start": 908.0,
+      "end": 910.0,
+      "text": " I Danmark i hvert fald."
+    },
+    {
+      "start": 910.0,
+      "end": 912.0,
+      "text": " Men apropos YouTube."
+    },
+    {
+      "start": 912.0,
+      "end": 914.0,
+      "text": " Hvis man tager de 10 største streaming-tjenester i Danmark."
+    },
+    {
+      "start": 914.0,
+      "end": 916.0,
+      "text": " YouTube er nummer 1 lige nu."
+    },
+    {
+      "start": 916.0,
+      "end": 918.0,
+      "text": " Med god magten ned til DR-tv."
+    },
+    {
+      "start": 918.0,
+      "end": 921.0,
+      "text": " God magten ned til Netflix, TV2 Play, Viaplay og Disney+."
+    },
+    {
+      "start": 921.0,
+      "end": 923.0,
+      "text": " YouTube er allerede den største."
+    },
+    {
+      "start": 923.0,
+      "end": 925.0,
+      "text": " Og du har ret i, at der er en adfærd, hvor vi går over til at se"
+    },
+    {
+      "start": 925.0,
+      "end": 927.0,
+      "text": " mere og mere på tv'et."
+    },
+    {
+      "start": 927.0,
+      "end": 929.0,
+      "text": " Det kan jeg også godt selv kende."
+    },
+    {
+      "start": 929.0,
+      "end": 931.0,
+      "text": " Når jeg fredag aften har en time for mig selv, når Lise er taget i sauna"
+    },
+    {
+      "start": 931.0,
+      "end": 933.0,
+      "text": " med de andre damer i byen."
+    },
+    {
+      "start": 933.0,
+      "end": 935.0,
+      "text": " Det sker engang imellem, hvor jeg har sådan en time for mig selv"
+    },
+    {
+      "start": 935.0,
+      "end": 937.0,
+      "text": " fredag aften. Det er det vildeste."
+    },
+    {
+      "start": 937.0,
+      "end": 939.0,
+      "text": " Så laver jeg en Old Fashioned."
+    },
+    {
+      "start": 939.0,
+      "end": 941.0,
+      "text": " Og så sætter jeg en ubådsdokumentar på, på fjernsynet."
+    },
+    {
+      "start": 941.0,
+      "end": 943.0,
+      "text": " Og så sidder jeg og drikker min Old Fashioned og spiser is."
+    },
+    {
+      "start": 943.0,
+      "end": 945.0,
+      "text": " Og det er bare..."
+    },
+    {
+      "start": 945.0,
+      "end": 947.0,
+      "text": " Det bliver ikke bedre end det."
+    },
+    {
+      "start": 947.0,
+      "end": 949.0,
+      "text": " Hvor er vi forskellige os to."
+    },
+    {
+      "start": 949.0,
+      "end": 951.0,
+      "text": " Helt vildt."
+    },
+    {
+      "start": 951.0,
+      "end": 953.0,
+      "text": " Jeg ved godt, du tager til Spanien."
+    },
+    {
+      "start": 953.0,
+      "end": 955.0,
+      "text": " Til Spanien, når der er Nick & Jake koncerter."
+    },
+    {
+      "start": 955.0,
+      "end": 957.0,
+      "text": " Og man spiller smart og alt muligt."
+    },
+    {
+      "start": 957.0,
+      "end": 959.0,
+      "text": " Jeg vil bare gerne sidde og se en ubådsdokumentar."
+    },
+    {
+      "start": 959.0,
+      "end": 961.0,
+      "text": " Kl. 20 fredag aften, så er jeg faktisk rigtig glad."
+    },
+    {
+      "start": 961.0,
+      "end": 963.0,
+      "text": " Living La Vida Locatino."
+    },
+    {
+      "start": 969.0,
+      "end": 971.0,
+      "text": " Vi hopper videre til dagens primære emne,"
+    },
+    {
+      "start": 971.0,
+      "end": 973.0,
+      "text": " som kommer til at handle om, hvor AI lige nu skaber værdi"
+    },
+    {
+      "start": 973.0,
+      "end": 975.0,
+      "text": " ved danske virksomheder."
+    },
+    {
+      "start": 975.0,
+      "end": 977.0,
+      "text": " Og her der tager vi eksempel i nogle af de ting,"
+    },
+    {
+      "start": 977.0,
+      "end": 979.0,
+      "text": " vi i Obsidian har lavet for vores kunder."
+    },
+    {
+      "start": 979.0,
+      "end": 981.0,
+      "text": " Så vi kommer til at gennemgå otte eksempler på"
+    },
+    {
+      "start": 981.0,
+      "end": 983.0,
+      "text": " automations og workflows, som vi har implementeret,"
+    },
+    {
+      "start": 983.0,
+      "end": 985.0,
+      "text": " som lige nu kører for flere af vores kunder."
+    },
+    {
+      "start": 985.0,
+      "end": 987.0,
+      "text": " Og årsagen til, at vi laver den her,"
+    },
+    {
+      "start": 987.0,
+      "end": 989.0,
+      "text": " det er, at vi lavede en episode med"
+    },
+    {
+      "start": 989.0,
+      "end": 991.0,
+      "text": " Jesper Weizel for snart et halvt år siden"
+    },
+    {
+      "start": 991.0,
+      "end": 993.0,
+      "text": " fra Fjertal Web, som faktisk blev den mest lyttede"
+    },
+    {
+      "start": 993.0,
+      "end": 995.0,
+      "text": " til episode på Marketingpod i 2025."
+    },
+    {
+      "start": 995.0,
+      "end": 997.0,
+      "text": " Den mest lyttede til i 2024,"
+    },
+    {
+      "start": 997.0,
+      "end": 999.0,
+      "text": " det var jo, hvordan man kom ud af en femårig bindingsperiode"
+    },
+    {
+      "start": 999.0,
+      "end": 1001.0,
+      "text": " med et marketingbureau sammen med advokaten"
+    },
+    {
+      "start": 1001.0,
+      "end": 1003.0,
+      "text": " Niklas Ørum Keller. Det er der stor interesse i."
+    },
+    {
+      "start": 1003.0,
+      "end": 1005.0,
+      "text": " Men i 2025, så var det Jesper Weizels episode"
+    },
+    {
+      "start": 1005.0,
+      "end": 1007.0,
+      "text": " om, hvordan Fjertal Web er gået fra 200"
+    },
+    {
+      "start": 1007.0,
+      "end": 1009.0,
+      "text": " til 500 millioner i omsætning, samtidig med,"
+    },
+    {
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": " at det er gået fra 80 til 28 medarbejdere."
+    },
+    {
+      "start": 1011.0,
+      "end": 1013.0,
+      "text": " Tino, hvad var det ved den episode,"
+    },
+    {
+      "start": 1013.0,
+      "end": 1015.0,
+      "text": " som du tror, der gjorde,"
+    },
+    {
+      "start": 1015.0,
+      "end": 1017.0,
+      "text": " at det blev den mest populære?"
+    },
+    {
+      "start": 1017.0,
+      "end": 1019.0,
+      "text": " Jamen, noget af det, der står frem"
+    },
+    {
+      "start": 1019.0,
+      "end": 1021.0,
+      "text": " for den her episode, også når jeg har snakket"
+    },
+    {
+      "start": 1021.0,
+      "end": 1023.0,
+      "text": " med andre, der har lyttet til den, det er"
+    },
+    {
+      "start": 1023.0,
+      "end": 1025.0,
+      "text": " et citat fra Jesper Weizel om, at det skal"
+    },
+    {
+      "start": 1025.0,
+      "end": 1027.0,
+      "text": " være slut med dumt arbejde."
+    },
+    {
+      "start": 1027.0,
+      "end": 1029.0,
+      "text": " Og jeg tror bare, der er rigtig mange,"
+    },
+    {
+      "start": 1029.0,
+      "end": 1031.0,
+      "text": " der kan se sig selv i det her med at rykke"
+    },
+    {
+      "start": 1031.0,
+      "end": 1033.0,
+      "text": " tal fra det ene Excel-lak over til det andet,"
+    },
+    {
+      "start": 1033.0,
+      "end": 1035.0,
+      "text": " eller sidde og lave nogle udregninger"
+    },
+    {
+      "start": 1035.0,
+      "end": 1037.0,
+      "text": " hver evig eneste dag, som egentlig godt"
+    },
+    {
+      "start": 1037.0,
+      "end": 1039.0,
+      "text": " kunne automatisere. Så alle de her ting,"
+    },
+    {
+      "start": 1039.0,
+      "end": 1041.0,
+      "text": " som man gør igen og igen, hvis man"
+    },
+    {
+      "start": 1041.0,
+      "end": 1043.0,
+      "text": " kan få dem væk fra sit bord, hvor meget"
+    },
+    {
+      "start": 1043.0,
+      "end": 1045.0,
+      "text": " gladere bliver man så rent faktisk for sit arbejde."
+    },
+    {
+      "start": 1045.0,
+      "end": 1047.0,
+      "text": " Og der skulle jeg så hele tiden sige fra Jesper Weizel, og det kan man også høre"
+    },
+    {
+      "start": 1047.0,
+      "end": 1049.0,
+      "text": " i episoden, man kan gladere."
+    },
+    {
+      "start": 1049.0,
+      "end": 1051.0,
+      "text": " Og jeg tror egentlig, at det er det, der indkapsler"
+    },
+    {
+      "start": 1051.0,
+      "end": 1053.0,
+      "text": " den overordnede episode allerbedst."
+    },
+    {
+      "start": 1053.0,
+      "end": 1055.0,
+      "text": " Så kom han også med nogle konkret"
+    },
+    {
+      "start": 1055.0,
+      "end": 1057.0,
+      "text": " eksempler på, hvordan de gør i deres"
+    },
+    {
+      "start": 1057.0,
+      "end": 1059.0,
+      "text": " Ecom, altså med nogle af de her"
+    },
+    {
+      "start": 1059.0,
+      "end": 1061.0,
+      "text": " jeg vil nærmest kalde det daglige"
+    },
+    {
+      "start": 1061.0,
+      "end": 1063.0,
+      "text": " øvelser, såsom"
+    },
+    {
+      "start": 1063.0,
+      "end": 1065.0,
+      "text": " at købe ind eller lave"
+    },
+    {
+      "start": 1065.0,
+      "end": 1067.0,
+      "text": " nogle analysforekast"
+    },
+    {
+      "start": 1067.0,
+      "end": 1069.0,
+      "text": " osv., som de har fået automatiseret."
+    },
+    {
+      "start": 1069.0,
+      "end": 1071.0,
+      "text": " Og det er jo meget lige det, vi sidder"
+    },
+    {
+      "start": 1071.0,
+      "end": 1073.0,
+      "text": " og laver os for mange af"
+    },
+    {
+      "start": 1073.0,
+      "end": 1075.0,
+      "text": " vores cases i større og mindre grad."
+    },
+    {
+      "start": 1075.0,
+      "end": 1077.0,
+      "text": " Og det er også det, som du"
+    },
+    {
+      "start": 1077.0,
+      "end": 1079.0,
+      "text": " lige nævnte før, at vi har samlet den her episode her"
+    },
+    {
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " og det helt konkrete ting,"
+    },
+    {
+      "start": 1081.0,
+      "end": 1083.0,
+      "text": " som vi ligger og laver og implementerer"
+    },
+    {
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": " ude hos vores cases, og som"
+    },
+    {
+      "start": 1085.0,
+      "end": 1087.0,
+      "text": " forhåbentlig kan skabe noget inspiration"
+    },
+    {
+      "start": 1087.0,
+      "end": 1089.0,
+      "text": " og noget perspektiv på, hvad der egentlig kan lade sig"
+    },
+    {
+      "start": 1089.0,
+      "end": 1091.0,
+      "text": " gøre. Noget af det her, det er relativt basalt."
+    },
+    {
+      "start": 1091.0,
+      "end": 1093.0,
+      "text": " Noget af det, det er mere"
+    },
+    {
+      "start": 1093.0,
+      "end": 1095.0,
+      "text": " komplekst, og det kan blive langt mere"
+    },
+    {
+      "start": 1095.0,
+      "end": 1097.0,
+      "text": " komplekst, men her til en start, så handler det altså"
+    },
+    {
+      "start": 1097.0,
+      "end": 1099.0,
+      "text": " bare om at komme i gang, og det er det, vi håber på, at den her episode"
+    },
+    {
+      "start": 1099.0,
+      "end": 1101.0,
+      "text": " kan være med til, at du kommer i gang med."
+    },
+    {
+      "start": 1101.0,
+      "end": 1103.0,
+      "text": " Lige præcis. Det første eksempel, vi godt kunne tænke os"
+    },
+    {
+      "start": 1103.0,
+      "end": 1105.0,
+      "text": " at vise, det er en AI-agent, der kan hjælpe"
+    },
+    {
+      "start": 1105.0,
+      "end": 1107.0,
+      "text": " med at optimere ens betalte spend."
+    },
+    {
+      "start": 1107.0,
+      "end": 1109.0,
+      "text": " Så hvis du bruger mange penge på Google Ads eller"
+    },
+    {
+      "start": 1109.0,
+      "end": 1111.0,
+      "text": " Meta Ads, så kunne det her være relevant."
+    },
+    {
+      "start": 1111.0,
+      "end": 1113.0,
+      "text": " Vi har en del konti, hvor vi bruger mange penge. Det kunne være"
+    },
+    {
+      "start": 1113.0,
+      "end": 1115.0,
+      "text": " en halv million om måneden, en million, to millioner, et eller andet"
+    },
+    {
+      "start": 1115.0,
+      "end": 1117.0,
+      "text": " den stil. På de konti,"
+    },
+    {
+      "start": 1117.0,
+      "end": 1119.0,
+      "text": " der er vi inde og lave rigtig mange analyser hele tiden."
+    },
+    {
+      "start": 1119.0,
+      "end": 1121.0,
+      "text": " Det kunne være analyser som, er der diminishing returns,"
+    },
+    {
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": " eller burde vi omfordele spendet til"
+    },
+    {
+      "start": 1123.0,
+      "end": 1125.0,
+      "text": " andre lande, eller hvad er vores reelle incremental"
+    },
+    {
+      "start": 1125.0,
+      "end": 1127.0,
+      "text": " ROAs, og alle sådan nogle ting."
+    },
+    {
+      "start": 1127.0,
+      "end": 1129.0,
+      "text": " Her, der kan man få en AI-agent til at lave"
+    },
+    {
+      "start": 1129.0,
+      "end": 1131.0,
+      "text": " mange af de her analyser meget nemmere,"
+    },
+    {
+      "start": 1131.0,
+      "end": 1133.0,
+      "text": " meget hurtigere. Og jeg kan vise sådan et konkret"
+    },
+    {
+      "start": 1133.0,
+      "end": 1135.0,
+      "text": " eksempel. Så nu hopper jeg lige"
+    },
+    {
+      "start": 1135.0,
+      "end": 1137.0,
+      "text": " ind i make.com."
+    },
+    {
+      "start": 1137.0,
+      "end": 1139.0,
+      "text": " Make.com er den her flowbuilder. Der er mange, der kender"
+    },
+    {
+      "start": 1139.0,
+      "end": 1141.0,
+      "text": " den som en, du starter her, og så gør du det her, og det"
+    },
+    {
+      "start": 1141.0,
+      "end": 1143.0,
+      "text": " her, og det her, og det har vi også nogle eksempler senere"
+    },
+    {
+      "start": 1143.0,
+      "end": 1145.0,
+      "text": " i den her episode, hvor det er sådan, du bruger det."
+    },
+    {
+      "start": 1145.0,
+      "end": 1147.0,
+      "text": " I det her tilfælde, der har"
+    },
+    {
+      "start": 1147.0,
+      "end": 1149.0,
+      "text": " vi lavet en AI-spent-agent"
+    },
+    {
+      "start": 1149.0,
+      "end": 1151.0,
+      "text": " til The Fashion Brain, der hedder OvalSquare."
+    },
+    {
+      "start": 1151.0,
+      "end": 1153.0,
+      "text": " De har sådan en rimelig god tur i den, og gør også Facebook-"
+    },
+    {
+      "start": 1153.0,
+      "end": 1155.0,
+      "text": " analysering, og gør det rigtig godt. Og den indeholder"
+    },
+    {
+      "start": 1155.0,
+      "end": 1157.0,
+      "text": " nogle forskellige elementer."
+    },
+    {
+      "start": 1157.0,
+      "end": 1159.0,
+      "text": " Så der er et element her øverst,"
+    },
+    {
+      "start": 1159.0,
+      "end": 1161.0,
+      "text": " hvor vi har lavet et system prompt."
+    },
+    {
+      "start": 1161.0,
+      "end": 1163.0,
+      "text": " Og system prompt, det er bare et"
+    },
+    {
+      "start": 1163.0,
+      "end": 1165.0,
+      "text": " meget langt, grundigt prompt, som sådan"
+    },
+    {
+      "start": 1165.0,
+      "end": 1167.0,
+      "text": " ligger bag alle andre ting. Så man kan sige, vi kan godt"
+    },
+    {
+      "start": 1167.0,
+      "end": 1169.0,
+      "text": " prompte nogle ting ovenpå til nogle specifikke cases,"
+    },
+    {
+      "start": 1169.0,
+      "end": 1171.0,
+      "text": " men system promptet, det er"
+    },
+    {
+      "start": 1171.0,
+      "end": 1173.0,
+      "text": " bare sådan, det er baggrundsinformationen."
+    },
+    {
+      "start": 1173.0,
+      "end": 1175.0,
+      "text": " Ja, det er dit onboarding-møde"
+    },
+    {
+      "start": 1175.0,
+      "end": 1177.0,
+      "text": " med en ny medarbejder, hvor du bare læser på,"
+    },
+    {
+      "start": 1177.0,
+      "end": 1179.0,
+      "text": " og bare, her er der 5 timers information om,"
+    },
+    {
+      "start": 1179.0,
+      "end": 1181.0,
+      "text": " hvordan vi gør tingene. Og det her, det er super"
+    },
+    {
+      "start": 1181.0,
+      "end": 1183.0,
+      "text": " grundigt, det er super langt, og"
+    },
+    {
+      "start": 1183.0,
+      "end": 1185.0,
+      "text": " jeg har ret god erfaring med faktisk at sidde"
+    },
+    {
+      "start": 1185.0,
+      "end": 1187.0,
+      "text": " og indtale dem her, og så bare snakke om"
+    },
+    {
+      "start": 1187.0,
+      "end": 1189.0,
+      "text": " alt det, du gerne vil på en given konto,"
+    },
+    {
+      "start": 1189.0,
+      "end": 1191.0,
+      "text": " og få Gemini til at opsummere det."
+    },
+    {
+      "start": 1191.0,
+      "end": 1193.0,
+      "text": " Ej, jeg tænkte nok, at vi kom ind på det her."
+    },
+    {
+      "start": 1193.0,
+      "end": 1195.0,
+      "text": " Ej, nej, nej, nej. Hvad sagde du der?"
+    },
+    {
+      "start": 1195.0,
+      "end": 1197.0,
+      "text": " Det jeg gør, det er, jeg sætter mig"
+    },
+    {
+      "start": 1197.0,
+      "end": 1199.0,
+      "text": " i metronen sammen med alle mulige andre"
+    },
+    {
+      "start": 1199.0,
+      "end": 1201.0,
+      "text": " mennesker, og så begynder jeg bare at diktere,"
+    },
+    {
+      "start": 1201.0,
+      "end": 1203.0,
+      "text": " mens alle andre, de kan lytte til det, ligesom en anden"
+    },
+    {
+      "start": 1203.0,
+      "end": 1205.0,
+      "text": " psykopat."
+    },
+    {
+      "start": 1205.0,
+      "end": 1207.0,
+      "text": " Jeg kan godt læse"
+    },
+    {
+      "start": 1207.0,
+      "end": 1209.0,
+      "text": " den besked op, du sendte mig i weekend."
+    },
+    {
+      "start": 1209.0,
+      "end": 1211.0,
+      "text": " Nej, lad være med det. Lad være med det."
+    },
+    {
+      "start": 1211.0,
+      "end": 1213.0,
+      "text": " Jeg vil, det er,"
+    },
+    {
+      "start": 1213.0,
+      "end": 1215.0,
+      "text": " jeg ved godt, hvad du refererer til. Det er"
+    },
+    {
+      "start": 1215.0,
+      "end": 1217.0,
+      "text": " Tine, der,"
+    },
+    {
+      "start": 1217.0,
+      "end": 1219.0,
+      "text": " altså, jeg bryder jo meget ikke om folk, der"
+    },
+    {
+      "start": 1219.0,
+      "end": 1221.0,
+      "text": " dikterer ting i en publik, men jeg har,"
+    },
+    {
+      "start": 1221.0,
+      "end": 1223.0,
+      "text": " jeg må anerkende, at det der med bare at kunne sidde"
+    },
+    {
+      "start": 1223.0,
+      "end": 1225.0,
+      "text": " og snakke i 10 minutter til en AI, og så bare"
+    },
+    {
+      "start": 1225.0,
+      "end": 1227.0,
+      "text": " overlæse den med information, og få den til selv"
+    },
+    {
+      "start": 1227.0,
+      "end": 1229.0,
+      "text": " at lave, transkribere det og finde ud af,"
+    },
+    {
+      "start": 1229.0,
+      "end": 1231.0,
+      "text": " hvad den så skal gøre derfra. Jeg må indrymme."
+    },
+    {
+      "start": 1231.0,
+      "end": 1233.0,
+      "text": " Det virker faktisk ret godt."
+    },
+    {
+      "start": 1233.0,
+      "end": 1235.0,
+      "text": " Så, hvis man skal lave et system prompt,"
+    },
+    {
+      "start": 1235.0,
+      "end": 1237.0,
+      "text": " indtale en eller anden super lang besked til"
+    },
+    {
+      "start": 1237.0,
+      "end": 1239.0,
+      "text": " Gemini eller ChatGPT, og så få den til at lave"
+    },
+    {
+      "start": 1239.0,
+      "end": 1241.0,
+      "text": " et system prompt ud for det, det virker faktisk rigtig godt."
+    },
+    {
+      "start": 1241.0,
+      "end": 1243.0,
+      "text": " Videre i den her AI-agent, der har vi noget"
+    },
+    {
+      "start": 1243.0,
+      "end": 1245.0,
+      "text": " kontext, der er noget MCP, den er koppet op"
+    },
+    {
+      "start": 1245.0,
+      "end": 1247.0,
+      "text": " med noget tools for BigQuery, det behøver vi ikke gå"
+    },
+    {
+      "start": 1247.0,
+      "end": 1249.0,
+      "text": " igennem i dag, fordi det kan du få hjælp til at sætte op. Hvis du ikke ved,"
+    },
+    {
+      "start": 1249.0,
+      "end": 1251.0,
+      "text": " hvad BigQuery-databaser er, så lad være med at kaste ud i det,"
+    },
+    {
+      "start": 1251.0,
+      "end": 1253.0,
+      "text": " betale en eller anden for 10 timer for at få"
+    },
+    {
+      "start": 1253.0,
+      "end": 1255.0,
+      "text": " sat det op for dig, og så kører det derfra."
+    },
+    {
+      "start": 1255.0,
+      "end": 1257.0,
+      "text": " Alle de her ting, det betyder,"
+    },
+    {
+      "start": 1257.0,
+      "end": 1259.0,
+      "text": " at to gange om ugen, der går"
+    },
+    {
+      "start": 1259.0,
+      "end": 1261.0,
+      "text": " den her bot ind og crawler"
+    },
+    {
+      "start": 1261.0,
+      "end": 1263.0,
+      "text": " hele Mesa-kontoen, holder det op imod"
+    },
+    {
+      "start": 1263.0,
+      "end": 1265.0,
+      "text": " al kontekst, der er på kontoen, og kommer med"
+    },
+    {
+      "start": 1265.0,
+      "end": 1267.0,
+      "text": " enormt specifikke anbefalinger"
+    },
+    {
+      "start": 1267.0,
+      "end": 1269.0,
+      "text": " i forhold til, du skal nok øge budgettet her,"
+    },
+    {
+      "start": 1269.0,
+      "end": 1271.0,
+      "text": " sænke det her, den her kampagne ligner, der er ved at være"
+    },
+    {
+      "start": 1271.0,
+      "end": 1273.0,
+      "text": " diminishing returns, du skal nok overbevare at gøre noget herovre,"
+    },
+    {
+      "start": 1273.0,
+      "end": 1275.0,
+      "text": " osv. Og første gang, jeg så den her"
+    },
+    {
+      "start": 1275.0,
+      "end": 1277.0,
+      "text": " analyse, der tænkte jeg sådan,"
+    },
+    {
+      "start": 1277.0,
+      "end": 1279.0,
+      "text": " shit mand, jeg har arbejdet med Facebook-analyse i 12 år,"
+    },
+    {
+      "start": 1279.0,
+      "end": 1281.0,
+      "text": " det var fandme en god analyse, det der."
+    },
+    {
+      "start": 1281.0,
+      "end": 1283.0,
+      "text": " Det var faktisk sådan et, okay,"
+    },
+    {
+      "start": 1283.0,
+      "end": 1285.0,
+      "text": " der gjorde AI lige noget, der var bedre og hurtigere"
+    },
+    {
+      "start": 1285.0,
+      "end": 1287.0,
+      "text": " og billigere, end jeg kunne have gjort med den der"
+    },
+    {
+      "start": 1287.0,
+      "end": 1289.0,
+      "text": " specifikke analyse. Det AI ikke"
+    },
+    {
+      "start": 1289.0,
+      "end": 1291.0,
+      "text": " kan gøre, det er at komme med en eller anden fuldstændig sindssygt nye idé,"
+    },
+    {
+      "start": 1291.0,
+      "end": 1293.0,
+      "text": " som bare kommer til at få kontoen til at bruge"
+    },
+    {
+      "start": 1293.0,
+      "end": 1295.0,
+      "text": " dobbelt så mange penge, men den er"
+    },
+    {
+      "start": 1295.0,
+      "end": 1297.0,
+      "text": " rigtig god til at hjælpe dig med at få mere ud af det, du kører"
+    },
+    {
+      "start": 1297.0,
+      "end": 1299.0,
+      "text": " i forvejen, og der synes jeg, det her er en fed use case."
+    },
+    {
+      "start": 1299.0,
+      "end": 1301.0,
+      "text": " Ja, for det man skal huske på, det er i takt med, at man bruger"
+    },
+    {
+      "start": 1301.0,
+      "end": 1303.0,
+      "text": " flere penge, så er det typisk også fordi,"
+    },
+    {
+      "start": 1303.0,
+      "end": 1305.0,
+      "text": " man har flere kampagner, eller flere annoncer"
+    },
+    {
+      "start": 1305.0,
+      "end": 1307.0,
+      "text": " afhængig af platform, og de gør bare det hele bliver lidt mere"
+    },
+    {
+      "start": 1307.0,
+      "end": 1309.0,
+      "text": " komplekst."
+    },
+    {
+      "start": 1309.0,
+      "end": 1311.0,
+      "text": " Og så er det nogle gange svært at holde bøjne på olten."
+    },
+    {
+      "start": 1311.0,
+      "end": 1313.0,
+      "text": " Øjnene på bolten hedder det."
+    },
+    {
+      "start": 1313.0,
+      "end": 1315.0,
+      "text": " Ja, bolten på øjnene."
+    },
+    {
+      "start": 1315.0,
+      "end": 1317.0,
+      "text": " Bolten på øjnene, apropos."
+    },
+    {
+      "start": 1317.0,
+      "end": 1319.0,
+      "text": " Og det er her, hvor AI"
+    },
+    {
+      "start": 1319.0,
+      "end": 1321.0,
+      "text": " er bare fantastisk til at gå ind og finde"
+    },
+    {
+      "start": 1321.0,
+      "end": 1323.0,
+      "text": " nålen i høstakken, kunne man nærmest sige, fordi"
+    },
+    {
+      "start": 1323.0,
+      "end": 1325.0,
+      "text": " nogle gange så, når man har gang i flere lande og er rigtig meget"
+    },
+    {
+      "start": 1325.0,
+      "end": 1327.0,
+      "text": " spændt, puha, det bliver svært, der er det"
+    },
+    {
+      "start": 1327.0,
+      "end": 1329.0,
+      "text": " rigtig rart at have et fundament som det her"
+    },
+    {
+      "start": 1329.0,
+      "end": 1331.0,
+      "text": " at arbejde ud fra. 100%."
+    },
+    {
+      "start": 1331.0,
+      "end": 1333.0,
+      "text": " Vil du tage den næste? Ja, lad os gøre det."
+    },
+    {
+      "start": 1333.0,
+      "end": 1335.0,
+      "text": " Vi springer over i noget"
+    },
+    {
+      "start": 1335.0,
+      "end": 1337.0,
+      "text": " videobilledercontent"
+    },
+    {
+      "start": 1337.0,
+      "end": 1339.0,
+      "text": " for at sænke omkostningerne, der"
+    },
+    {
+      "start": 1339.0,
+      "end": 1341.0,
+      "text": " egentlig er forbundet med det, og forhåbentlig"
+    },
+    {
+      "start": 1341.0,
+      "end": 1343.0,
+      "text": " også øge konverteringsraten."
+    },
+    {
+      "start": 1343.0,
+      "end": 1345.0,
+      "text": " Jeg ved, du har nogle eksempler, men jeg tror faktisk, jeg vil prøve"
+    },
+    {
+      "start": 1345.0,
+      "end": 1347.0,
+      "text": " at starte med et lavpraktisk eksempel, jeg lige lavede"
+    },
+    {
+      "start": 1347.0,
+      "end": 1349.0,
+      "text": " her til morgen. Til de af jer, der kan"
+    },
+    {
+      "start": 1349.0,
+      "end": 1351.0,
+      "text": " se med på Spotify eller YouTube, så vil"
+    },
+    {
+      "start": 1351.0,
+      "end": 1353.0,
+      "text": " I kunne se jeg inde på den hjemmeside, der hedder Waterdrop."
+    },
+    {
+      "start": 1353.0,
+      "end": 1355.0,
+      "text": " Det er totalt tilfældigt, jeg søgte faktisk"
+    },
+    {
+      "start": 1355.0,
+      "end": 1357.0,
+      "text": " bare efter en vandflaske."
+    },
+    {
+      "start": 1357.0,
+      "end": 1359.0,
+      "text": " Der er nogle rigtig fine"
+    },
+    {
+      "start": 1359.0,
+      "end": 1361.0,
+      "text": " produktbilleder herinde, og der er også et"
+    },
+    {
+      "start": 1361.0,
+      "end": 1363.0,
+      "text": " enkelt miljøbilled med en, der"
+    },
+    {
+      "start": 1363.0,
+      "end": 1365.0,
+      "text": " holder det, altså sådan et lidt UGC-billede"
+    },
+    {
+      "start": 1365.0,
+      "end": 1367.0,
+      "text": " fra en kunde, der holder den her"
+    },
+    {
+      "start": 1367.0,
+      "end": 1369.0,
+      "text": " vandflaske. Det, jeg så har gjort, det er,"
+    },
+    {
+      "start": 1369.0,
+      "end": 1371.0,
+      "text": " at jeg har været inde i Chat KPT, og"
+    },
+    {
+      "start": 1371.0,
+      "end": 1373.0,
+      "text": " det kunne ligeså godt have været Gemini, hvor jeg ligesom"
+    },
+    {
+      "start": 1373.0,
+      "end": 1375.0,
+      "text": " uploader referencebillederne, det vil sige,"
+    },
+    {
+      "start": 1375.0,
+      "end": 1377.0,
+      "text": " jeg har taget billederne fra deres website og uploadet"
+    },
+    {
+      "start": 1377.0,
+      "end": 1379.0,
+      "text": " herinde, og så bedte Chat KPT"
+    },
+    {
+      "start": 1379.0,
+      "end": 1381.0,
+      "text": " om at hjælpe mig med at lave en prompt"
+    },
+    {
+      "start": 1381.0,
+      "end": 1383.0,
+      "text": " til Google Veo, altså deres"
+    },
+    {
+      "start": 1383.0,
+      "end": 1385.0,
+      "text": " videogenereringstool."
+    },
+    {
+      "start": 1385.0,
+      "end": 1387.0,
+      "text": " I den her forbindelse her"
+    },
+    {
+      "start": 1387.0,
+      "end": 1389.0,
+      "text": " kommer den ud med en lang prompt omkring"
+    },
+    {
+      "start": 1389.0,
+      "end": 1391.0,
+      "text": " hvad der er, at Google Veo skal gøre,"
+    },
+    {
+      "start": 1391.0,
+      "end": 1393.0,
+      "text": " som jeg så, når jeg hopper ind i Google"
+    },
+    {
+      "start": 1393.0,
+      "end": 1395.0,
+      "text": " Veo, kan smække ind. Så det, I kan se"
+    },
+    {
+      "start": 1395.0,
+      "end": 1397.0,
+      "text": " her, det er, at jeg har referencebillederne, og så"
+    },
+    {
+      "start": 1397.0,
+      "end": 1399.0,
+      "text": " den her lange, lange prompt. Og det, jeg"
+    },
+    {
+      "start": 1399.0,
+      "end": 1401.0,
+      "text": " fik ud af det her, det er den her video hernede."
+    },
+    {
+      "start": 1401.0,
+      "end": 1403.0,
+      "text": " Og det er meningen, at den skal se sådan"
+    },
+    {
+      "start": 1403.0,
+      "end": 1405.0,
+      "text": " lidt upoleret ud, altså det er ikke et"
+    },
+    {
+      "start": 1405.0,
+      "end": 1407.0,
+      "text": " 4K-kamera, hvis jeg prøver at afspille her."
+    },
+    {
+      "start": 1407.0,
+      "end": 1409.0,
+      "text": " Husk på, det her er med fingre, og det er noget af det sværeste"
+    },
+    {
+      "start": 1409.0,
+      "end": 1411.0,
+      "text": " at lave, men vi er altså tæt på"
+    },
+    {
+      "start": 1411.0,
+      "end": 1413.0,
+      "text": " at have noget, der er ret fedt."
+    },
+    {
+      "start": 1413.0,
+      "end": 1415.0,
+      "text": " Og jeg ved godt, det her, det handlede om AI Flows."
+    },
+    {
+      "start": 1415.0,
+      "end": 1417.0,
+      "text": " Det her, det er jo bare for at vise, hvordan"
+    },
+    {
+      "start": 1417.0,
+      "end": 1419.0,
+      "text": " selve tankegangen og metodikken er, fordi det her,"
+    },
+    {
+      "start": 1419.0,
+      "end": 1421.0,
+      "text": " det kan nemlig sættes på flaske."
+    },
+    {
+      "start": 1421.0,
+      "end": 1423.0,
+      "text": " På en Intel."
+    },
+    {
+      "start": 1423.0,
+      "end": 1425.0,
+      "text": " Ehm, ej, den var faktisk lidt stort."
+    },
+    {
+      "start": 1425.0,
+      "end": 1427.0,
+      "text": " Du lyder meget ældre, end du er lige nu, Tine."
+    },
+    {
+      "start": 1427.0,
+      "end": 1429.0,
+      "text": " Nå, men jeg er sgu også snart til at være far, så"
+    },
+    {
+      "start": 1429.0,
+      "end": 1431.0,
+      "text": " jeg kunne lige skulle komme i gang."
+    },
+    {
+      "start": 1431.0,
+      "end": 1432.08,
+      "text": " Det er den her video hernede."
+    },
+    {
+      "start": 1432.08,
+      "end": 1435.12,
+      "text": " Og det er meningen, at den skal se sådan lidt upoleret ud."
+    },
+    {
+      "start": 1435.12,
+      "end": 1438.2,
+      "text": " Altså, det er ikke et 4K-kamera, hvis jeg prøver at afspille her."
+    },
+    {
+      "start": 1438.2,
+      "end": 1440.56,
+      "text": " Husk på, det her med fingre, det er noget af det sværeste at lave."
+    },
+    {
+      "start": 1440.56,
+      "end": 1443.84,
+      "text": " Men vi er altså tæt på at have noget, der er ret fedt."
+    },
+    {
+      "start": 1443.84,
+      "end": 1445.92,
+      "text": " Og jeg ved godt, det her, det handlede om AI-flows."
+    },
+    {
+      "start": 1445.92,
+      "end": 1449.24,
+      "text": " Det her, det er jo bare for at vise, hvordan selve tankegangen og metodikken er."
+    },
+    {
+      "start": 1449.24,
+      "end": 1452.28,
+      "text": " Fordi det her, det kan nemlig sættes på flaske."
+    },
+    {
+      "start": 1452.28,
+      "end": 1453.44,
+      "text": " På en Intel."
+    },
+    {
+      "start": 1453.44,
+      "end": 1455.6,
+      "text": " Ehm, ej, den var faktisk lidt stort."
+    },
+    {
+      "start": 1455.6,
+      "end": 1457.72,
+      "text": " Du lyder meget ældre, end du er lige nu, Tine."
+    },
+    {
+      "start": 1457.76,
+      "end": 1461.68,
+      "text": " Nå, men jeg skal også snart til at være far, så jeg kunne lige skulle komme i gang."
+    },
+    {
+      "start": 1461.68,
+      "end": 1464.88,
+      "text": " Men det her, det kan jo sættes på flaske i en proces."
+    },
+    {
+      "start": 1464.88,
+      "end": 1467.68,
+      "text": " Sådan så, at du kan tage dine top X-produkter, og så sige,"
+    },
+    {
+      "start": 1467.68,
+      "end": 1470.2,
+      "text": " nu vil du altså gerne have genereret sådan nogle små video her,"
+    },
+    {
+      "start": 1470.2,
+      "end": 1474.12,
+      "text": " som du fx kan bruge til annoncer, eller du kan bruge dem inde på produktsiden."
+    },
+    {
+      "start": 1474.12,
+      "end": 1475.84,
+      "text": " Det er ret vildt, så tæt vi er kommet."
+    },
+    {
+      "start": 1475.84,
+      "end": 1480.76,
+      "text": " Og jeg vil så lige hilse at sige, at Gemini Veo er ikke nødvendigvis den allerbedste model til det her."
+    },
+    {
+      "start": 1480.76,
+      "end": 1484.56,
+      "text": " Men prøv at forestille dig, hvis det bare bliver lidt bedre end det, som du ser på skærmen lige nu."
+    },
+    {
+      "start": 1484.6,
+      "end": 1488.12,
+      "text": " Vi er så tæt på at være der, hvor det er, at det virkelig bliver svært at se forskel."
+    },
+    {
+      "start": 1488.12,
+      "end": 1491.8,
+      "text": " Vi er i gang med at lave lige præcis det her flow lige nu for en halvstore dansk Shopify-shop."
+    },
+    {
+      "start": 1491.8,
+      "end": 1495.76,
+      "text": " De omsætter omkring 50 millioner om året inden for lifestyle fashion-området."
+    },
+    {
+      "start": 1495.76,
+      "end": 1499.52,
+      "text": " Og der har de den udfordring, at de gerne vil have video-materiale på flere af deres produkter."
+    },
+    {
+      "start": 1499.52,
+      "end": 1501.96,
+      "text": " Men det er sådan prohibitively expensive at gøre det."
+    },
+    {
+      "start": 1501.96,
+      "end": 1503.72,
+      "text": " Det er så dyrt, at de aldrig kommer til at gøre det."
+    },
+    {
+      "start": 1503.72,
+      "end": 1508.04,
+      "text": " Så de har rigtig mange produkter, hvor de bare har billeder eller miljøbilleder, hvis de er gode."
+    },
+    {
+      "start": 1508.04,
+      "end": 1511.4,
+      "text": " Men de kunne godt tænke sig små videoer, og forestille dig sådan små videoer af fem-seks kunder,"
+    },
+    {
+      "start": 1511.4,
+      "end": 1516.4,
+      "text": " hvor folk de gør et eller andet med produkterne, tager det på eller lægger det eller viser det rundt eller et eller andet i den stil."
+    },
+    {
+      "start": 1516.4,
+      "end": 1520.72,
+      "text": " Der er vi i gang med til kategori for kategori og bygge specifikke workflows,"
+    },
+    {
+      "start": 1520.72,
+      "end": 1526.12,
+      "text": " som sidder og lytter på, at når et nyt produkt i Shopify bliver oprettet inden for den pågældende kategori,"
+    },
+    {
+      "start": 1526.12,
+      "end": 1532.0,
+      "text": " tager vi en trænet billedemodel på deres eksisterende materiale, trænet video-model på deres eksisterende materiale."
+    },
+    {
+      "start": 1532.0,
+      "end": 1534.84,
+      "text": " Jeg ved, at video-modellen er baseret på noget, der hedder Kling, som fungerer rigtig godt,"
+    },
+    {
+      "start": 1534.84,
+      "end": 1538.16,
+      "text": " i stedet for Veo, fordi det var en bedre use case til lige præcis det her."
+    },
+    {
+      "start": 1538.16,
+      "end": 1544.84,
+      "text": " Laver materialet, lægger det op i Shopify som draft, således at kunden kan lige gå ind og tjekke materialet igennem,"
+    },
+    {
+      "start": 1544.84,
+      "end": 1550.64,
+      "text": " fordi de er meget conscious omkring deres brand og udtryk, så de skal lige sikre, at det her er rigtigt, og så godkende materialet derfra."
+    },
+    {
+      "start": 1550.64,
+      "end": 1557.36,
+      "text": " Og det her workflow laver vi en af per kategori, fordi de har et udtryk for en kategori og et andet udtryk for en anden kategori af produkter osv."
+    },
+    {
+      "start": 1557.36,
+      "end": 1561.12,
+      "text": " Så man kunne i teorien godt lave et flow, der bare dækkede alle produkter på shoppen,"
+    },
+    {
+      "start": 1561.12,
+      "end": 1566.0,
+      "text": " men der er sådan et særligt udtryk for deres forskellige produktkategorier, som gør, at vi lige tilpasser det."
+    },
+    {
+      "start": 1566.0,
+      "end": 1573.84,
+      "text": " Vi træner en ny billedemodel, en ny videomodel til de enkelte kategorier, således at vi sikrer en overordnet samhørighed i, hvordan kategorierne ser ud hver for sig."
+    },
+    {
+      "start": 1573.84,
+      "end": 1578.4,
+      "text": " Men det her kommer til at ligge og køre, hver eneste gang de uploader et produkt, og så løber det bare igennem."
+    },
+    {
+      "start": 1578.4,
+      "end": 1585.2,
+      "text": " Og jeg tror, at omkostningen har vi regnet os frem til, at det er omkring 1 kroner per video, der bliver produceret på den her måde."
+    },
+    {
+      "start": 1585.2,
+      "end": 1589.48,
+      "text": " Og det betyder bare, at det ikke er fordi de sparer penge på det, fordi før der brugte de ikke de her penge."
+    },
+    {
+      "start": 1589.48,
+      "end": 1591.36,
+      "text": " Det er vigtigt at forstå. Det er jo simpelthen for dyrt."
+    },
+    {
+      "start": 1591.36,
+      "end": 1597.84,
+      "text": " Nu kommer de til at gøre det, og i de indledende tests, vi har lavet, der kan vi se, at det hæver konverteringsretten betragteligt, når du har sådan nogle små produktvideoer her."
+    },
+    {
+      "start": 1597.84,
+      "end": 1599.44,
+      "text": " Så det her, det sælger bare ind i øget omsætning."
+    },
+    {
+      "start": 1599.44,
+      "end": 1607.32,
+      "text": " Og netop, og netop. Ja, lige præcis. Og jeg synes, det er interessant at tage fat i den her med omkostning, for det er jo også det, vi indledte den her sektion her med, at det er med til at sænke omkostningerne."
+    },
+    {
+      "start": 1607.32,
+      "end": 1610.64,
+      "text": " Så en ting er, hvis du gør det normalt, så skal det gerne øge konverteringsretten."
+    },
+    {
+      "start": 1610.64,
+      "end": 1617.48,
+      "text": " Jeg ved, at der er rigtig mange, der bruger rigtig mange penge på de her shoots, som man jo egentlig i høj grad kan spare væk nu."
+    },
+    {
+      "start": 1617.48,
+      "end": 1625.4,
+      "text": " Men det er vigtigt her, at man har øje for, at de produktbilleder, man rent faktisk tager, er så gode som muligt, for at AI'en kan arbejde videre med det."
+    },
+    {
+      "start": 1625.4,
+      "end": 1636.52,
+      "text": " Så have lige det i minden, når I står til produktshoots, at I gerne skal have produkter i alle forskellige vinkler, fordi des flere referencebilleder, I kan upload i fx en prompt som her, des bedre bliver outputtet også."
+    },
+    {
+      "start": 1636.52,
+      "end": 1641.28,
+      "text": " Så husk lige det, når man er ude til shoot, at det skal gerne, kan man egentlig tale om AI-first-shoot?"
+    },
+    {
+      "start": 1641.28,
+      "end": 1644.52,
+      "text": " Åh, dem var nye. Hold kæft, de sidder altså. De sidder der i dag."
+    },
+    {
+      "start": 1644.52,
+      "end": 1646.12,
+      "text": " Okay, okay, okay."
+    },
+    {
+      "start": 1646.12,
+      "end": 1651.4,
+      "text": " Ja, AI-first-shoot.dk, det lyder som et domæne, vi skal have fat i."
+    },
+    {
+      "start": 1651.4,
+      "end": 1656.04,
+      "text": " Jeg vil køre videre med det tredje eksempel, og nu ryger vi over i CO-kategorien her."
+    },
+    {
+      "start": 1656.04,
+      "end": 1660.28,
+      "text": " Og det eksempel, jeg gerne vil vise, det er på kategoritekster."
+    },
+    {
+      "start": 1660.32,
+      "end": 1669.8,
+      "text": " Og årsagen til, at jeg tager det her emne, det er fordi, hvis man tænker CO på især en webshop, så er kategoriteksterne faktisk umiddelbart det vigtigste, fordi det er der, hvor de generiske søgninger naturligt vil lande."
+    },
+    {
+      "start": 1669.8,
+      "end": 1679.72,
+      "text": " Så hvis du søger på kjole eller løbesko, eller hvad det nu skal være, så er det jo kategorien for kjole og løbesko, du rammer, og ikke det enkelte produkt, du ender rammen."
+    },
+    {
+      "start": 1679.72,
+      "end": 1683.0,
+      "text": " Derfor er det super vigtigt, at du har nogle veloptimerede kategorisider."
+    },
+    {
+      "start": 1683.0,
+      "end": 1690.44,
+      "text": " En af de store udfordringer, vi oplever ved mange kunder, det er, at de har enten meget begrænset tekst, eller dårligt tekst, eller ingen tekst på deres kategorisider."
+    },
+    {
+      "start": 1690.44,
+      "end": 1699.48,
+      "text": " Fordi det er også en svær opgave at lave og skrive super god tekst, og du skal jo ikke have FAQ-schememark op, og du skal have alle mulige andre strukturerede data på, og det er bare sådan en opgave, hvor du når det bare ikke."
+    },
+    {
+      "start": 1699.48,
+      "end": 1708.84,
+      "text": " Og så laver du en ny tekst eller en ny kategori, fordi der er nogen, der søger på det, så nu har du produkterne i det, men du har ikke teksten, og det er sådan en af de der opgaver, du ikke når, dem bliver ikke prioriteret i hverdagen."
+    },
+    {
+      "start": 1708.84,
+      "end": 1715.32,
+      "text": " Og det er et fantastisk eksempel på noget, som du burde lave med et flow i stedet for. Så jeg kan lige prøve at vise et konkret flow, der rent faktisk gør det her."
+    },
+    {
+      "start": 1715.32,
+      "end": 1730.04,
+      "text": " Og her er vi inde i make.com igen, så vores konkrete make flow for ResetStore ser sådan her ud. Vi har tidligere brugt ResetStore som eksempel, fordi vi også gør det her med produkttekster, men her er det præcise flow, som faktisk ligger og gør det her for deres kategoritekster."
+    },
+    {
+      "start": 1730.12,
+      "end": 1741.72,
+      "text": " Jeg kommer ikke til at tage det hver for sig, fordi der er en del elementer i det, men den grundlæggende idé er, at du går ind og venter på, at der bliver oprettet en ny kategori i Shopify, eller du løber dem alle sammen igennem på en gang."
+    },
+    {
+      "start": 1741.72,
+      "end": 1751.0,
+      "text": " Du går ind og venter på, at der bliver oprettet en ny kategori i Shopify, eller løber alle dem igennem, du har i forvejen. Så laver du research med perplexity og finder mere information."
+    },
+    {
+      "start": 1751.0,
+      "end": 1761.88,
+      "text": " Så kører du det igennem chat-gbt en 3-4 gange, hvor du først har, at du skriver teksten, så implementerer du brand guidelines, så laver du måske noget faktacheck osv., og til sidst så uploader du teksten tilbage i kategorien."
+    },
+    {
+      "start": 1761.88,
+      "end": 1766.68,
+      "text": " Det er sådan idéen i det, og så kan du eventuelt putte nogle flere trin på, hvis du også vil have schema markup og alt det her."
+    },
+    {
+      "start": 1766.68,
+      "end": 1778.6,
+      "text": " Og jeg har faktisk en case på det her, fordi det her er en dansk fashion webshop, der sælger rigtig meget i Danmark og i Tyskland, og vi har lavet det her for dem over et halvt års tid, hvor vi implementerede det her på tværs af alle deres kategorier."
+    },
+    {
+      "start": 1778.68,
+      "end": 1786.36,
+      "text": " Og det var måske en 300-400 kategorier eller et eller andet af den stil, fordi de havde på tværs af dansk og tysk, som havde ingen eller lidt kategoritekst."
+    },
+    {
+      "start": 1786.36,
+      "end": 1802.28,
+      "text": " Og bare det at implementere gode tekster omkring 500 ord med fuldt struktureret data på tværs af alle deres kategorissider, det betyder, at de gik fra omkring 6.000 til 18.000 organiske besøgende om måneden fra Google, og det var langt overvejende kategorissiderne, der rent faktisk drev det her."
+    },
+    {
+      "start": 1802.28,
+      "end": 1806.28,
+      "text": " Og jeg synes, det her er et sjovt eksempel, fordi det er jo i virkeligheden AI, det er jo programmatik, det er jo det her."
+    },
+    {
+      "start": 1806.28,
+      "end": 1814.76,
+      "text": " Vi havde jo et workflow, som uploadede de her ting automatisk til Cytosurfer, de blev publiceret, og det her det er helt almindeligt programmatik SEO, men det er også bare totalt oldschool SEO."
+    },
+    {
+      "start": 1814.76,
+      "end": 1825.72,
+      "text": " SEO i 2016, 10 år siden, havde også været, at alle dine kategoritekster skal have rigtig god tekst, der skal være indtaget længst, og der skal være struktureret data, så søgemaskinerne forstår, hvad det handler om."
+    },
+    {
+      "start": 1825.72,
+      "end": 1829.88,
+      "text": " Det er det stadig i 2026, forskellen er bare, at du ikke behøver at gøre det helt selv."
+    },
+    {
+      "start": 1829.96,
+      "end": 1839.16,
+      "text": " Og en ting, det er at lave nye kategoritekster, og der sidder der sikkert mange, der tænker, at det er så godt nok sjældent, at jeg får nye kategorier på website, så det her er ikke relevant for mig, jeg har styr på mine kategoritekster."
+    },
+    {
+      "start": 1839.16,
+      "end": 1848.84,
+      "text": " Men en anden ting, det er altså op til at sætte de her eksisterende kategoritekster og berige dem, og en ting er at berige dem ud fra en søversynlys, man kunne også godt tænke den videre, det ved jeg, at vi også er i gang med lige nu."
+    },
+    {
+      "start": 1848.84,
+      "end": 1859.8,
+      "text": " Og ligesom trække søgetabsrapporten ud fra Google Ads, og så sørge for at matche det op med de kategoritekster, der er, og så begynde at berige dem ud fra det, og det er jo en iterativ proces, der kan køre månedligt."
+    },
+    {
+      "start": 1859.8,
+      "end": 1869.56,
+      "text": " Der kunne også godt være en tilføjelse af interne links, sådan en klassisk en, man glemmer, når man lægger kategoritekster op og ikke lige har SEO-mindsetet skruet på."
+    },
+    {
+      "start": 1869.56,
+      "end": 1874.36,
+      "text": " Så der er sådan to forskellige vinkler i det, det her er relevant for alle, man skal bare kunne se perspektiven i det."
+    },
+    {
+      "start": 1874.36,
+      "end": 1877.72,
+      "text": " Jeg er helt enig. Hvad er det næste workflow, vi skal kigge på?"
+    },
+    {
+      "start": 1877.72,
+      "end": 1887.56,
+      "text": " Jamen, du var faktisk næsten inde på det, så lad os bare tage det med det samme nu, hvor vi er ved tekster, fordi tekster er jo et af de områder, der er lettest at gå til."
+    },
+    {
+      "start": 1887.56,
+      "end": 1889.56,
+      "text": " Så lad os hoppe over til produkttekster."
+    },
+    {
+      "start": 1889.56,
+      "end": 1898.76,
+      "text": " Og igen, ligesom jeg lige har sagt med kategoritekster, det her er altså både relevant til nye produkter, men også til produkter, som man ikke har gennembesøgt i sikkert flere år."
+    },
+    {
+      "start": 1898.76,
+      "end": 1908.44,
+      "text": " De fleste kender nok det her med, at de har en masse tekster liggende på produkter, som man er oprettet for flere år siden, og de sælger rigtig godt, men hvor ofte har man lige været inde og kigget dem igennem?"
+    },
+    {
+      "start": 1908.44,
+      "end": 1916.68,
+      "text": " Så der er potentiale for at lave ny, bedre tekster, og sørge for, at de har de rigtige søgetermer. Måske endda også lave interne links, og jeg ved, du har et par eksempler med os."
+    },
+    {
+      "start": 1916.68,
+      "end": 1924.28,
+      "text": " Ja, og vi har faktisk lavet en episode om de præcis et af eksemplerne tidligere, nemlig i form af igen Reset Store, hvor vi har lavet rigtig meget arbejde med programmatik-SEO."
+    },
+    {
+      "start": 1924.28,
+      "end": 1934.84,
+      "text": " Og det konkrete flow, vi kører for dem, kan man faktisk se på siden her. Og igen, der har vi et eksempel med, at vi bruger sådan et spreadsheet som database, eller som sådan en referencepunkt, et lille miniserium til projektet."
+    },
+    {
+      "start": 1934.84,
+      "end": 1945.56,
+      "text": " Det ligger og lytter på, at der bliver oprettet nye produkter i Shopify. Vi researcher de produkter via Perplexity, skriver en tekst, Brand Guidelines, Tone of Voice, Factor Check, og lægger dem op i Shopify til sidst."
+    },
+    {
+      "start": 1945.64,
+      "end": 1962.2,
+      "text": " Og det betyder bare, at i stedet for at bruge de samme tekster, som alle de andre forhandlere af de her sko bruger, eller i stedet for ikke at have nogen, eller i stedet for at have nogen, der er dårlige, så har vi bare nogle mega gode produkttekster, som gør, at vi i flere cases har oplevet, at Reset Store ranker over for eksempel Adidas eller Nike på deres egne produkter."
+    },
+    {
+      "start": 1962.2,
+      "end": 1973.32,
+      "text": " Og det er, fordi Adidas og Nikes tekster bliver brugt på 50 store webshops, hvor Reset er så en af dem, som rent faktisk laver deres egen, og de er længere, og de er bedre, og de er velstrukturerede, og alle guidelines er overholdt, og så videre."
+    },
+    {
+      "start": 1973.32,
+      "end": 1979.24,
+      "text": " Så det er jo mega fedt at se Reset Store ranke bedre på Nike 3 end Nike Graph, for eksempel."
+    },
+    {
+      "start": 1979.24,
+      "end": 1983.24,
+      "text": " Så hvis Nike lytter med, call us."
+    },
+    {
+      "start": 1983.24,
+      "end": 1987.24,
+      "text": " Ja, præcis. I er meget velkomne."
+    },
+    {
+      "start": 1987.24,
+      "end": 1999.48,
+      "text": " Lad os tage til det næste, og jeg kunne godt tænke mig at snakke om en ting, som jeg tror, at der faktisk er mange, der gør, selvom de ikke nødvendigvis tænker så meget over det, og det er konkurrentovervågningen."
+    },
+    {
+      "start": 1999.56,
+      "end": 2004.6,
+      "text": " Og Tino, vi to er jo ikke bange for at indrømme, at vi elsker at overvåge vores konkurrenter."
+    },
+    {
+      "start": 2004.6,
+      "end": 2006.2,
+      "text": " Det er sgu da ikke plads i disciplin."
+    },
+    {
+      "start": 2006.2,
+      "end": 2007.24,
+      "text": " Jeg elsker det."
+    },
+    {
+      "start": 2007.24,
+      "end": 2009.24,
+      "text": " Alle, der siger, at det ikke er det, de lyver."
+    },
+    {
+      "start": 2009.24,
+      "end": 2024.2,
+      "text": " De lyver, og jeg har jo lavet et helt værktøj til bare at sidde og gøre det her på Meta, som vi har omtalt tidligere, så jeg har jo bygget marketing-spendt.com, hvor du kan indtaste i den hvilke som helst virksomheds Ads Library på Facebook eller LinkedIn, det virker på begge to."
+    },
+    {
+      "start": 2024.28,
+      "end": 2035.24,
+      "text": " Så kan du klikke på dem, og så kan du se, hvilke aktive annoncer kører de, nogenlunde, hvor mange penge bruger de på det, hvad er deres bedst performende annoncer, hvordan ser deres historik ud i forhold til tidligere gange, hvor de er blevet tjekket osv."
+    },
+    {
+      "start": 2035.24,
+      "end": 2045.16,
+      "text": " Altså, jeg elsker at kigge på konkurrenter så meget, at jeg har bygget et helt værktøj til at gøre det, som i øvrigt koster os omkring 1000-2000 kroner om måneden i rå API-omkostninger lige nu, fordi det bliver brugt så meget."
+    },
+    {
+      "start": 2045.16,
+      "end": 2047.16,
+      "text": " Det synes jeg selvfølgelig er fantastisk."
+    },
+    {
+      "start": 2047.16,
+      "end": 2048.68,
+      "text": " Men det her er en ting, man kan gøre."
+    },
+    {
+      "start": 2048.68,
+      "end": 2056.36,
+      "text": " En anden ting er, at man kan bygge et decideret flow til det, så konkurrentovervågning er faktisk en legit ting, du kan få hjælp til at ad i."
+    },
+    {
+      "start": 2056.36,
+      "end": 2065.64,
+      "text": " Måden, man kan gøre det her på, det er, at man kan bygge et workflow, som går ind og f.eks. hver uge scraper konkurrenters websites."
+    },
+    {
+      "start": 2065.64,
+      "end": 2069.0,
+      "text": " Det tilmelder sig deres nyhedsbrev og læser alle deres beskeder."
+    },
+    {
+      "start": 2069.0,
+      "end": 2076.28,
+      "text": " Det har en URL til Facebook Ads Library, hvor du bruger det samme API, som jeg gør, til rent faktisk at se, hvad ligger der at køre hver eneste uge."
+    },
+    {
+      "start": 2076.36,
+      "end": 2080.36,
+      "text": " På den måde, at du kan tage alle de områder, hvor du normalt ville tjekke, hvad det er, de har gang i."
+    },
+    {
+      "start": 2080.36,
+      "end": 2087.24,
+      "text": " Og så bare få en AI til at ligge og lytte og selv scrabe og f.eks. lave et executive summary en gang om ugen, hvor den siger,"
+    },
+    {
+      "start": 2087.24,
+      "end": 2094.36,
+      "text": " her er dine fem konkurrenter, her er de nye kampagner, de kører, her er de ting, de lægger væk på i nyhedsbrevet, her er de ting, der har ændret sig på sitet osv."
+    },
+    {
+      "start": 2094.36,
+      "end": 2100.92,
+      "text": " Og du kan jo bygge noget forretningslogik ind i det, hvis du vil det, så du kan sige, her er de produkter, som er vigtige for os, fortsat at være konkurrencedygtige på."
+    },
+    {
+      "start": 2101.08,
+      "end": 2104.44,
+      "text": " Sørg for at give mig en besked, hvis der er nogen andre, der gør et eller andet på det her område."
+    },
+    {
+      "start": 2104.44,
+      "end": 2107.96,
+      "text": " Og jeg ved, apropos Jesper Weichsel, som vi snakkede om til at starte med, han skrev en LinkedIn-beskede til mig."
+    },
+    {
+      "start": 2107.96,
+      "end": 2115.8,
+      "text": " Han har omkring 10.000 linjers kode dybt ned i et vibe-coded prissætningsværktøj, som holder øje med deres egne produkter på alle andre shops"
+    },
+    {
+      "start": 2115.8,
+      "end": 2123.16,
+      "text": " og automatisk og proaktivt sætter deres priser ud fra hver enskede dækningsbidrag, konkurrencesituation og alle mulige andre ting."
+    },
+    {
+      "start": 2123.16,
+      "end": 2129.08,
+      "text": " Så man kan sige, det workflow, jeg lige viste her på skærmen, det kan du bruge til bare at få besked om, hvad der sker."
+    },
+    {
+      "start": 2129.08,
+      "end": 2133.48,
+      "text": " Du kan altså godt bygge noget logik ind, hvor du tager nogle automatiske handlinger på baggrunden af det."
+    },
+    {
+      "start": 2133.48,
+      "end": 2139.24,
+      "text": " Således hvis du har et produkt, der sælger sig til 300 kroner og alle dine konkurrenter sælger sig til 500, så kan du måske sætte det op til 400"
+    },
+    {
+      "start": 2139.24,
+      "end": 2141.0,
+      "text": " og dermed tjene flere penge på det."
+    },
+    {
+      "start": 2141.0,
+      "end": 2145.72,
+      "text": " Det her, det synes jeg er super sjovt og noget, vi faktisk hjælper ret mange af vores kunder med at sætte op i øjeblikket."
+    },
+    {
+      "start": 2145.72,
+      "end": 2154.04,
+      "text": " Og hvis jeg skal give et perspektiv mere på noget, jeg selv er i gang med lige nu, det er et tool, der ligger og scraper på Shopify via et API"
+    },
+    {
+      "start": 2154.04,
+      "end": 2157.08,
+      "text": " priserne på alle konkurrenternes produkter."
+    },
+    {
+      "start": 2157.08,
+      "end": 2157.96,
+      "text": " Hvorfor gør jeg så det?"
+    },
+    {
+      "start": 2157.96,
+      "end": 2165.72,
+      "text": " Jamen det er jo fordi, man kan typisk godt mærke på især Google Ads, men også bare generelt, når der er konkurrenterne, der har tilnærmelsevis samme produkter"
+    },
+    {
+      "start": 2165.72,
+      "end": 2170.36,
+      "text": " eller samme, hvis man ligger og konkurrerer med andre forhandlere, sætter deres priser ned."
+    },
+    {
+      "start": 2170.36,
+      "end": 2177.88,
+      "text": " Så for at få en prishistorik, for at kunne matche det op med ens egen data bagudrettet, altså se, hvor stor en påvirkning har det egentlig"
+    },
+    {
+      "start": 2177.88,
+      "end": 2183.8,
+      "text": " og bør vi trække os fra auktionerne, når de simpelthen går ud og har 30% rabat og vi har fuld pris for eksempel."
+    },
+    {
+      "start": 2183.8,
+      "end": 2185.8,
+      "text": " Jamen der skal vi jo bruge data hen."
+    },
+    {
+      "start": 2185.8,
+      "end": 2191.08,
+      "text": " Og det er så den, som den her prismonitorerings tool ligger og henter ind."
+    },
+    {
+      "start": 2191.08,
+      "end": 2193.8,
+      "text": " Så det her, det kan jo bruges på mange forskellige måder."
+    },
+    {
+      "start": 2193.8,
+      "end": 2199.08,
+      "text": " Jeg tror, det vigtigste her, det er egentlig bare at komme i gang, fordi lige snart man er i gang, så kommer man på flere use cases."
+    },
+    {
+      "start": 2199.08,
+      "end": 2200.12,
+      "text": " Lige præcis."
+    },
+    {
+      "start": 2200.12,
+      "end": 2201.8,
+      "text": " Hvad er den næste automation, vi skal gennemgå?"
+    },
+    {
+      "start": 2201.8,
+      "end": 2208.6,
+      "text": " Jamen lad os tage en af de helt store, som også er relevant for de fleste, det er oversættelse."
+    },
+    {
+      "start": 2208.6,
+      "end": 2215.08,
+      "text": " Oversættelse har jo historisk været noget, der har kostet en masse penge og har taget en rigtig lang tid."
+    },
+    {
+      "start": 2215.08,
+      "end": 2221.88,
+      "text": " Så det vil sige, at barrieren for at komme ud til det store udland har typisk været relativt høj, i hvert fald hvis man sammenligner med, hvordan det ser ud i dag."
+    },
+    {
+      "start": 2221.88,
+      "end": 2232.84,
+      "text": " Og oversættelse, det kan lyde banalt, altså oversætte den her til finsk eller tysk, men det er ikke altid, man får det bedste output."
+    },
+    {
+      "start": 2232.84,
+      "end": 2239.0,
+      "text": " Og det er her, hvor man skal være særlig opmærksom, når man laver de her oversættelser, at man rent faktisk prompter sig ret godt ud af det."
+    },
+    {
+      "start": 2239.16,
+      "end": 2246.44,
+      "text": " Og jeg ved, Halfter, at du har haft et eksempel tidligere med, hvordan vi har gjort det på Obsidian Agency, altså vores hjemmeside, da vi skulle have den oversat."
+    },
+    {
+      "start": 2246.44,
+      "end": 2252.76,
+      "text": " Fordi der gav vi den faktisk en pokkers masse kontekst, og det er også det, vi vil anbefale, at man gør, når man sætter det op i sådan et flow her."
+    },
+    {
+      "start": 2252.76,
+      "end": 2259.0,
+      "text": " Ja, det er præcis, så vi har også brugt AESA at oversætte fra dansk til tysk og finsk på obsidianagency.com."
+    },
+    {
+      "start": 2259.0,
+      "end": 2265.08,
+      "text": " Og det er rigtigt nok, der lavede vi jo vores egen løsning til det, hvor vi via, hvis man skal bruge et pænt ord, så er det jo RAC, Retrieval Augmented Generation."
+    },
+    {
+      "start": 2265.08,
+      "end": 2270.2,
+      "text": " Hvis man skal sige, at det er almindeligt, så uploadede vi en hel masse PDF-filer, så AI kunne forstå, hvordan vi gerne ville oversætte ting."
+    },
+    {
+      "start": 2270.2,
+      "end": 2276.52,
+      "text": " Og så dermed gav det en kontekst til, hvordan lige præcis vi oversætter, fordi vi kan godt bare tage en tekst og lægge den i Google Translate, og så får vi den oversat."
+    },
+    {
+      "start": 2276.52,
+      "end": 2281.4,
+      "text": " Men så bliver der også nogle ting, som for eksempel, så vil den oversætte AI til kunstig intelligens."
+    },
+    {
+      "start": 2281.4,
+      "end": 2290.44,
+      "text": " Og vi kalder det AI, vi kalder det ikke for kunstig intelligens, vi kalder det for SEO, og vi oversætter ikke konsekvent alting til søgemaskinen, optimering osv."
+    },
+    {
+      "start": 2290.44,
+      "end": 2296.52,
+      "text": " Så der er rigtig mange engelske termer, vi faktisk bliver ved med at bruge i vores arbejde, selv når vi arbejder med danske virksomheder."
+    },
+    {
+      "start": 2296.52,
+      "end": 2302.76,
+      "text": " Der er også andre eksempler, hvor den oversætter ting som for eksempel Obsidian Agency, så skriver den Obsidian Bureau, og der skal den faktisk bare skrive Obsidian."
+    },
+    {
+      "start": 2302.76,
+      "end": 2307.4,
+      "text": " Og det er jo ikke forkert oversat, det er jo bare vores Brand Guideline, vi kalder det bare Obsidian."
+    },
+    {
+      "start": 2307.4,
+      "end": 2311.24,
+      "text": " Vi kalder det ikke Obsidian Bureau, vi kalder det ikke Obsidian Danmark, vi kalder det bare Obsidian."
+    },
+    {
+      "start": 2311.24,
+      "end": 2320.2,
+      "text": " Og de ting er du nødt til at give den som kontekst, og så havde vi også taget nogle eksempler på tekster, som vi havde oversat, og selv kigget igennem meget grundigt for at sige, det er sådan her, vi gerne vil kommunikere."
+    },
+    {
+      "start": 2320.84,
+      "end": 2327.0,
+      "text": " Og det hjalp os til at lave et flow, hvor vi kunne oversætte, altså bare få hele siden rullet igennem på en gang."
+    },
+    {
+      "start": 2327.0,
+      "end": 2334.52,
+      "text": " Og nu ligger vores website i Webflow, der lå nogle færdige integrationer, det samme, det gør der med WordPress, Shopify, Genso og det fleste andre systemer."
+    },
+    {
+      "start": 2334.52,
+      "end": 2337.64,
+      "text": " Så det vil sjældent være teknikken, der holder en fra at gøre det her."
+    },
+    {
+      "start": 2337.64,
+      "end": 2344.12,
+      "text": " Det vil som regel være, om man lykkes til at prompte den så godt, at oversættelsen rent faktisk bliver lige så god eller bedre, end hvad den selv ville have lavet."
+    },
+    {
+      "start": 2344.12,
+      "end": 2350.44,
+      "text": " Men jeg er helt sikker på, at den løsning, vi er endte ud med, har kostet 1% af, hvad det ville have kostet at gøre det manuelt, og jeg tror, den er bedre."
+    },
+    {
+      "start": 2350.44,
+      "end": 2351.96,
+      "text": " Ikke lige så god, jeg tror, den er bedre."
+    },
+    {
+      "start": 2351.96,
+      "end": 2355.72,
+      "text": " Lad mig hoppe videre med en af dem, der kan gøre den største forskel på bundlinjen."
+    },
+    {
+      "start": 2355.72,
+      "end": 2361.88,
+      "text": " Og det er også, at man kan bruge AI til at automatisere en del af ens kundeservice eller sådan en first level support."
+    },
+    {
+      "start": 2361.88,
+      "end": 2369.88,
+      "text": " Og her, det er faktisk både en case i forhold til for eksempel Ecom, hvor man får en masse e-mails og chatbeskeder, eller hvor langt er min pakke, og kan jeg få en returlabel og sådan nogle ting."
+    },
+    {
+      "start": 2369.88,
+      "end": 2371.48,
+      "text": " Men det er også i en BSOB-kontekst."
+    },
+    {
+      "start": 2371.48,
+      "end": 2383.32,
+      "text": " Vi har en BSOB-virksomhed, vi lige nu hjælper med at lave en AI-model, trænet på baggrund af deres udgående mails de sidste 10 år, til at lave udkast, når en mulig kunde skriver ind med tekniske spørgsmål eller ønsker et tilbud."
+    },
+    {
+      "start": 2383.32,
+      "end": 2387.48,
+      "text": " Så det behøver ikke nødvendigvis være kundeservice, det kan faktisk også være en del af dit salg- og marketingarbejde."
+    },
+    {
+      "start": 2387.48,
+      "end": 2397.24,
+      "text": " Og jeg synes, den del er interessant, fordi vi ved, at en af de ting, der har den største betydning i BSOB i forhold til, om man lykkes med at lukke ens leads til kunder, det er hastighed."
+    },
+    {
+      "start": 2397.32,
+      "end": 2403.48,
+      "text": " Den sikre måde at tabe et lead på, det er lige at vente to dage med at svare på det, eller sige, at du kommer med et tilbud, og så komme med det to uger senere."
+    },
+    {
+      "start": 2403.48,
+      "end": 2410.52,
+      "text": " Der er nogle vilde statistikker på, hvis du kan ringe inden for fem minutter, hvor høj en lukkerar, du har i forhold til, hvis du ringer inden for to dage, for eksempel."
+    },
+    {
+      "start": 2410.52,
+      "end": 2412.52,
+      "text": " Og det er flere hundrede procent til forskel."
+    },
+    {
+      "start": 2412.52,
+      "end": 2416.2,
+      "text": " Fordi det, der sker, når man hurtigt svarer, det er, at du stopper folks søgeproces."
+    },
+    {
+      "start": 2416.2,
+      "end": 2423.24,
+      "text": " Så hvis de skriver til dig og får svaret med det samme, så behøver de måske ikke skrive til tre andre, fordi nu har I indlægt dialogen, så de stopper søgeprocessen,"
+    },
+    {
+      "start": 2423.24,
+      "end": 2427.24,
+      "text": " og du får lov til tidligt at få dem til at fortale meget om deres behov og produkter."
+    },
+    {
+      "start": 2427.24,
+      "end": 2431.56,
+      "text": " Det gider de måske ikke, hvis du er nr. 5, de har skrevet til, men de gider godt, hvis du er nr. 1, de har skrevet til."
+    },
+    {
+      "start": 2431.56,
+      "end": 2434.2,
+      "text": " Så alle mulige fordele ved at reagere hurtigt."
+    },
+    {
+      "start": 2434.2,
+      "end": 2444.12,
+      "text": " Og en måde, hvorpå man kan reagere hurtigt, det kunne også være, at man rent faktisk hjælper folk til, at der står et udkast i deres e-mail-embakke, i det øjeblik, e-mailen rammer."
+    },
+    {
+      "start": 2444.12,
+      "end": 2450.6,
+      "text": " Og det kan man gøre via individuelle værktøjer, men hvis det skal være rigtigt godt, så skal du træne en digital model på din egen data,"
+    },
+    {
+      "start": 2450.6,
+      "end": 2456.36,
+      "text": " og upload det her sikre kontekst, lave alt det her arbejde, og det hjælper vi en dansk B2B-virksomhed med lige nu,"
+    },
+    {
+      "start": 2456.36,
+      "end": 2460.84,
+      "text": " og det er for, at de skal sælge mere. Det er ikke for at spare penge i kundeservice, det er for, at de skal sælge mere."
+    },
+    {
+      "start": 2460.84,
+      "end": 2466.04,
+      "text": " Men der er også cases i e-commerce, hvor det handler om, at lige nu sidder der måske tre personer i kundeservice, de kan ikke følge med,"
+    },
+    {
+      "start": 2466.04,
+      "end": 2468.04,
+      "text": " og når det er Black Friday, så er de to uger bagud."
+    },
+    {
+      "start": 2468.04,
+      "end": 2472.92,
+      "text": " Og der er vores oplevelse, at vi ofte kan tage over halvdelen af deres first level support,"
+    },
+    {
+      "start": 2472.92,
+      "end": 2477.8,
+      "text": " og simpelthen automatisere den, fordi folk spørger om de samme ting igen og igen, hvor langt er min pakke?"
+    },
+    {
+      "start": 2477.8,
+      "end": 2479.8,
+      "text": " Det behøver du ikke, en person, til at sidde og svare på."
+    },
+    {
+      "start": 2479.8,
+      "end": 2485.08,
+      "text": " Det kunne godt være et workflow, der går ind og tjekker i Shopify, at en afsendt generer et svar, og så bare sender det til folk på to minutter."
+    },
+    {
+      "start": 2485.08,
+      "end": 2490.36,
+      "text": " Det behøver ikke at være en person, der gør det. Det er hurtigere, bedre og billigere, at workflow gør det."
+    },
+    {
+      "start": 2490.36,
+      "end": 2495.32,
+      "text": " Og så er det sådan lidt dumt at arbejde og gå ind og tjekke, om en pakke er sendt, apropos ting, som vi gerne vil automatisere væk."
+    },
+    {
+      "start": 2495.32,
+      "end": 2497.32,
+      "text": " Så det her, det synes jeg også er et kæmpe punkt."
+    },
+    {
+      "start": 2497.32,
+      "end": 2503.32,
+      "text": " Det er ikke den nemmeste punkt at implementere, men det er nok det, der har potentielt den største værdi at implementere for rigtig mange virksomheder."
+    },
+    {
+      "start": 2503.32,
+      "end": 2506.76,
+      "text": " Både i form af, hvad du kan spare, og hvad du kan omsætte mere, især i B2B-kontekst."
+    },
+    {
+      "start": 2506.76,
+      "end": 2515.64,
+      "text": " Prøv at tænke på, som kundeservicemedarbejder, at møde ind til 100 udkast til mails, frem for 100 mails, der skal skrives fra bunden af, fordi man ikke har fået det her udkast lavet af jer."
+    },
+    {
+      "start": 2515.64,
+      "end": 2517.64,
+      "text": " Så kan det godt være, at det kun er halvdelen, der kan sendes direkte af sted."
+    },
+    {
+      "start": 2517.64,
+      "end": 2524.28,
+      "text": " Men lurer mig om ikke, er det jo også det, vi ser, at 20-30 procent af dem, de kan faktisk næsten sendes af sted, der skal bare lige lave sin lille ændring."
+    },
+    {
+      "start": 2524.28,
+      "end": 2528.6,
+      "text": " Hold op og bliver ens dagligdag bare, jamen antager jeg, markant bedre."
+    },
+    {
+      "start": 2528.6,
+      "end": 2533.56,
+      "text": " Jeg kender det i hvert fald selv, når jeg kan få lavet et udkast til en mail, frem for at jeg skulle starte forfra hver evig eneste gang."
+    },
+    {
+      "start": 2533.56,
+      "end": 2536.28,
+      "text": " Ja, lige præcis, det kan gøre en gigantisk forskel."
+    },
+    {
+      "start": 2536.28,
+      "end": 2543.32,
+      "text": " Den sidste automation, vi har med i dag, den handler om at bruge AI til at generere blogpost eller artikler med henblik på SEO."
+    },
+    {
+      "start": 2543.32,
+      "end": 2548.52,
+      "text": " Og jeg tror måske, det her er den mest gengse eller kendte programmatik SEO-usecase, tror du ikke?"
+    },
+    {
+      "start": 2548.52,
+      "end": 2554.84,
+      "text": " Det tror jeg. Det tror jeg. Det er i hvert fald her, hvor det også for vores vedkommende virkelig startede, hvor vi sad og nørdede rundt i de her flows her."
+    },
+    {
+      "start": 2554.84,
+      "end": 2559.72,
+      "text": " Ja, fordi det er sådan en helt klassisk kendt case, hvordan laver du SEO? Jamen vi skal simpelthen ind og rank på flere server."
+    },
+    {
+      "start": 2559.72,
+      "end": 2563.88,
+      "text": " Og jeg kan prøve at vise et meget konkret eksempel på, hvad vi har gjort i vores eget tilfælde."
+    },
+    {
+      "start": 2563.88,
+      "end": 2568.92,
+      "text": " Fordi vi har nogle tracking ydelser i AppCDN, så vi vil gerne hjælpe virksomheder med at opsætte bedre tracking."
+    },
+    {
+      "start": 2568.92,
+      "end": 2572.52,
+      "text": " Og det vil vi selvfølgelig gerne fortælle om, men der er faktisk også rigtig mange søgninger på det her."
+    },
+    {
+      "start": 2572.52,
+      "end": 2581.88,
+      "text": " Og så er det sådan nogle søgninger som for eksempel server-side tracking til Google Ads eller bedre tracking af meta-ads i Calendly og alle sådan nogle ting."
+    },
+    {
+      "start": 2581.96,
+      "end": 2585.8,
+      "text": " Uh, nu åbner du altså op for en forretningshemmelighed her i halvstandet. Det er våd!"
+    },
+    {
+      "start": 2585.8,
+      "end": 2592.04,
+      "text": " Ja, det gør jeg lidt, men jeg tror vi er snart 50 minutter inde i podcastet, så jeg tror alle konkurrenterne er faldet af nu, så kan jeg godt tilhøre mig at gøre det her."
+    },
+    {
+      "start": 2592.04,
+      "end": 2594.04,
+      "text": " Ellers er det kun konkurrenterne, der er."
+    },
+    {
+      "start": 2594.04,
+      "end": 2596.04,
+      "text": " Ja, måske snillere."
+    },
+    {
+      "start": 2596.04,
+      "end": 2602.52,
+      "text": " Alle konkurrerende byråer skal lige slukke nu. Vi giver jer lige tre sekunder til lige at slukke. Så kommer sådan noget musik her."
+    },
+    {
+      "start": 2602.52,
+      "end": 2609.56,
+      "text": " Og alle konkurrenter er væk nu, så nu kan vi godt fortsætte med at fortælle om det her."
+    },
+    {
+      "start": 2609.56,
+      "end": 2614.36,
+      "text": " Så vi har alle de her tracking-relaterede ydelser, som vi gerne vil sælge og levere rigtig meget af."
+    },
+    {
+      "start": 2614.36,
+      "end": 2621.32,
+      "text": " Og det vi er opmærksomme på, det er, at der er de her meget specifikke søgninger på sådan værktøjer plus platform."
+    },
+    {
+      "start": 2621.32,
+      "end": 2629.08,
+      "text": " Og der har vi lavet et lille mikroprogrammatisk serioprojekt på vores eget site, hvor det vi har gjort, det er, at jeg har taget de mest gængse platforme,"
+    },
+    {
+      "start": 2629.08,
+      "end": 2635.48,
+      "text": " og så har jeg taget de mest gængse annonceværktøjer. Så det er på den ene side, at jeg har taget Shopify, Magento, WooCommerce, Webflow."
+    },
+    {
+      "start": 2635.48,
+      "end": 2640.6,
+      "text": " På den anden side, der har jeg taget Google Analytics 4, Google Ads, Mesa Ads osv."
+    },
+    {
+      "start": 2640.6,
+      "end": 2644.12,
+      "text": " Så har jeg ganget dem med hinanden. Det giver 164 kombinationer."
+    },
+    {
+      "start": 2644.12,
+      "end": 2650.36,
+      "text": " Så har vi lavet et workflow i mag.com med fire forskellige chat-GPT 5.2-integrationer,"
+    },
+    {
+      "start": 2650.36,
+      "end": 2656.04,
+      "text": " som går ind og skriver de her tekster, laver vores brand guidelines nedover, laver internal links og alle mulige andre ting,"
+    },
+    {
+      "start": 2656.04,
+      "end": 2660.84,
+      "text": " og automatisk publicerer dem inde på obsidianagency.com i deres eget template."
+    },
+    {
+      "start": 2660.84,
+      "end": 2666.36,
+      "text": " Og her, nu kan jeg lige vise noget Search Console i forhold til, hvordan det ser ud, og det her er sådan et lille bitte eksempel."
+    },
+    {
+      "start": 2666.36,
+      "end": 2671.64,
+      "text": " Men det er bare på baggrunden 164 sider, vi selv har uploadet, og det er jo ikke svært at se på skærmen, Tino."
+    },
+    {
+      "start": 2671.64,
+      "end": 2673.24,
+      "text": " Hvornår vi uploadede de her sider?"
+    },
+    {
+      "start": 2673.24,
+      "end": 2677.24,
+      "text": " Ej, det vil være synd at sige. Altså, der er en meget, meget tydelig spike."
+    },
+    {
+      "start": 2677.24,
+      "end": 2685.48,
+      "text": " Ja, vi går fra at få cirka 0 klik om dagen på tracking-relaterede server. Man kan se op i toppen her, at jeg har taget kun sider, der indeholder tracking lige nu,"
+    },
+    {
+      "start": 2685.48,
+      "end": 2690.92,
+      "text": " til øjeblikkeligt at blive vist på et par hundrede, tre, fire, fem hundrede søgninger om dagen, og få..."
+    },
+    {
+      "start": 2690.92,
+      "end": 2695.4,
+      "text": " Jamen, gennemsnitligt får vi en 3, 5, 10 klik. Lige i øjeblikket får vi faktisk endnu flere klik."
+    },
+    {
+      "start": 2695.4,
+      "end": 2700.92,
+      "text": " De ranker bedre efter jul af en eller anden årsag. Jeg ved ikke rigtig, hvad vi har gjort bedre, for jeg har faktisk ikke ændret noget på dem, siden de blev uploadet."
+    },
+    {
+      "start": 2700.92,
+      "end": 2702.92,
+      "text": " Men de ranker rigtig godt i øjeblikket og får måske 5-10 klik om dagen."
+    },
+    {
+      "start": 2702.92,
+      "end": 2704.28,
+      "text": " Det er jo godt, du siger jo."
+    },
+    {
+      "start": 2704.28,
+      "end": 2707.64,
+      "text": " Ja, jeg har ikke gjort noget som helst anderledes, og det ranker bedre. Kanon."
+    },
+    {
+      "start": 2708.04,
+      "end": 2718.28,
+      "text": " Men lige nu, der får vi måske 5-10 klik om dagen på det her. Det er jo klik, som ville koste os 10-20 kroner i Google Ads, hvis vi skulle købe dem her et par stykker, og vi får leads ind på baggrunden af det her."
+    },
+    {
+      "start": 2718.28,
+      "end": 2725.72,
+      "text": " Og det er bare et helt simpelt programmatisk saveplay, hvor vi har taget og genereret meget specifikke artikler, så man kan også se de ting, som folk søger på."
+    },
+    {
+      "start": 2725.72,
+      "end": 2734.76,
+      "text": " Altså Microsoft Ads, Server Side Tracking, Magento, Google Ads. Det er lige præcis de ting, vi gerne vil vises på, at vi rent faktisk bliver vist på her."
+    },
+    {
+      "start": 2734.84,
+      "end": 2740.44,
+      "text": " Så det har også fungeret, men det har været helt simpelt, fordi vi har bare genereret en liste i each spreadsheet over alle de artikler, vi gerne vil lave."
+    },
+    {
+      "start": 2740.44,
+      "end": 2745.88,
+      "text": " Så har vi lavet en custom-model, sættet i make.com, og så har vi publiceret det hele på én gang inde i Webflow via make.com."
+    },
+    {
+      "start": 2745.88,
+      "end": 2753.48,
+      "text": " Og hvis vi får 5 klik om dagen resten af året, så er det 1.500 klik. Det er klikværdi for omkring 25-30.000 i Google Ads, vi har fået ved at lave nogle timers arbejde på det."
+    },
+    {
+      "start": 2753.48,
+      "end": 2755.48,
+      "text": " Det er jeg rigtig, rigtig tilfreds med."
+    },
+    {
+      "start": 2755.48,
+      "end": 2762.2,
+      "text": " Og jeg ved ikke med dig, Halftan, men har du været ude for, at man har siddet og fortalt omkring det her, og man føler selv, at dopaminen kører bare i kroppen, fordi det her er så fedt,"
+    },
+    {
+      "start": 2762.2,
+      "end": 2768.44,
+      "text": " og så sidder der en forretning foran en og siger, ja, men blogpost, det er ikke lige os, hvad fanden skulle vi lige skrive om, osv.?"
+    },
+    {
+      "start": 2768.44,
+      "end": 2775.16,
+      "text": " Og dertil har jeg altså lige to små idéer, hvis du sidder og tænker det samme, hvor hvis du tjekker op på det her og stadigvæk siger,"
+    },
+    {
+      "start": 2775.16,
+      "end": 2778.36,
+      "text": " ej, det kan vi ikke skrive noget om, fair nok, så skal jeg nok sætte mig ned igen."
+    },
+    {
+      "start": 2778.36,
+      "end": 2786.68,
+      "text": " Men hvis du kører Google Ads, prøv lige at hive din search term report ud, altså de søgetermer, du rent faktisk enten er blevet eksponeret på eller har købt kliks på."
+    },
+    {
+      "start": 2786.68,
+      "end": 2788.68,
+      "text": " Så ikke din søgeord, men søgetermer."
+    },
+    {
+      "start": 2788.68,
+      "end": 2800.84,
+      "text": " Hiv dem ud i en CSV-fil og smæk dem ind i ChatGab.t eller Gemini og be dem om at rense det, så du kun ser søgetermer, der relaterer sig til spørgsmål eller som kunne gøre sig til gode blogindlæg."
+    },
+    {
+      "start": 2800.84,
+      "end": 2806.76,
+      "text": " Jeg er næsten sikker på, at hvis du bare bruger lidt penge på Google Ads, så vil du se en masse potentielle emner, som folk aktivt ligger og søger på,"
+    },
+    {
+      "start": 2806.76,
+      "end": 2812.84,
+      "text": " og som du måske også endda bruger penge på at købe trafik ind på via Google Ads, men sender dem ind på den helt generelle landingsside."
+    },
+    {
+      "start": 2812.84,
+      "end": 2816.12,
+      "text": " Og der kan vi så snakke omkring den landingssideoplevelse, folk får."
+    },
+    {
+      "start": 2816.12,
+      "end": 2816.84,
+      "text": " Det er nr. 1."
+    },
+    {
+      "start": 2816.84,
+      "end": 2823.08,
+      "text": " Nr. 2 er, at du helt sikkert har nogle sælgere eller en kundeservice eller nogen, der sidder og får de samme spørgsmål igen og igen og igen."
+    },
+    {
+      "start": 2823.08,
+      "end": 2825.96,
+      "text": " Og ja, selvfølgelig ikke det her med, hvor er min pakke henne."
+    },
+    {
+      "start": 2825.96,
+      "end": 2832.68,
+      "text": " Det er måske ikke lige den, man skal tilfatte i, men måske ikke der er nogle emner omkring jeres produkter eller jeres serviceydelse, som man netop kunne gå ind og skrive om."
+    },
+    {
+      "start": 2832.68,
+      "end": 2841.48,
+      "text": " Og kan man hive alle de her mails ud fra kundeservice, smække dem ind i en model, be den om at lave det her scope til det content her, og så begynde ud fra det,"
+    },
+    {
+      "start": 2841.48,
+      "end": 2845.96,
+      "text": " jamen så har du lige pludselig et hav af blogpost, du kan lave på baggrunden af det her."
+    },
+    {
+      "start": 2845.96,
+      "end": 2851.0,
+      "text": " Så det handler altså lige om at tænke lidt ud af boksen, og jeg vil våben på, at de fleste i hvert fald kan finde nogle emner ud fra det her."
+    },
+    {
+      "start": 2851.0,
+      "end": 2852.84,
+      "text": " Det er jeg helt sikker på."
+    },
+    {
+      "start": 2852.84,
+      "end": 2857.96,
+      "text": " Formlet af den her episode, det var bare at konkretisere nogle eksempler på, hvor du lige nu kan bruge AI."
+    },
+    {
+      "start": 2857.96,
+      "end": 2863.32,
+      "text": " Og jeg vil anbefale, hvis du synes det her er spændende, så skriv i nogle Facebook-grupper."
+    },
+    {
+      "start": 2863.32,
+      "end": 2868.36,
+      "text": " Vi har Facebook-gruppen til marketing på, at du er velkommen til at gå ind og spørge nogle af de der iværksætterne,"
+    },
+    {
+      "start": 2868.36,
+      "end": 2874.52,
+      "text": " der kan skrive noget på LinkedIn i forhold til, hvad andre har gjort, fordi jeg vil våge den påstand, at der er relevante implementeringer at lave i alle virksomheder."
+    },
+    {
+      "start": 2874.52,
+      "end": 2879.08,
+      "text": " Alle virksomheder, der har et produkt og sælger et eller andet, de har relevante automatiseringer at lave."
+    },
+    {
+      "start": 2879.08,
+      "end": 2885.88,
+      "text": " Og jeg synes det mest spændende tema for 2026, det er, hvordan man kan skille af omsætning, uden at skille af omkostningerne og svaret på det, det er via AI."
+    },
+    {
+      "start": 2885.88,
+      "end": 2887.88,
+      "text": " Så vi håber, at I kunne bruge nogle af eksemplerne her."
+    },
+    {
+      "start": 2887.88,
+      "end": 2891.48,
+      "text": " Tusind tak, fordi I lyttede med til dagens episode og på genhør."
+    }
+  ]
+}

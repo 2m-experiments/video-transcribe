@@ -1,0 +1,816 @@
+{
+  "title": "iOS26 ødelægger din Google Ads tracking om lidt",
+  "url": "https://www.youtube.com/watch?v=703YJl0S24c",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 657.0,
+  "transcribed_at": "2026-04-16T12:28:16.325237+00:00",
+  "full_text": "Christian, vil du ikke fortælle mig om den kommende iOS 26-opdatering, og hvorfor den er rigtig vigtig for folk, der annoncerer på især Google Ads og Meta Ads? Jeg har også gjort det alligevel. Ja, I gjorde det. Men jo, det kan jeg godt. Apple er ude med riven igen, i hvert fald hvis man er annoncerer, så kan man godt føle sig lidt ramt, fordi nu gør de det egentlig bare endnu sværere at tracke på de marketingaktiviteter, vi nu engang foretager os. Et lavpraktisk, så går iOS 26 ind og arbejder lidt imod os i forhold til de klikideer, man måske kender fra for eksempel Google Ads, hvor den går ind og er så venlig at fjerne den endnu oftere, end den har gjort før via Safari-browseren. Og så har vi noget fingerprint, antifingerprint, nogle informationer, som vi normaltvis gerne vil have, der bliver sendt videre til for eksempel platformene, for at kunne matche en device for at øge vores tracking-kvalitet, som nu egentlig bliver reddet lidt væk under os. Og det du nok kommer til at sige, Liam, det er, at man skal bruge server-side tracking, og så vil jeg faktisk ikke tage ordet mere fra dig, for nu kan du få lov til at shine. Jamen, altså du har allerede sagt tak for det, nej, det er i grov tid korrekt. Så det der sker, det er, at Apple har været nogle skidere, der har gjort rent tracking-mæssigt ved os i mange år. Det var dem, der kom med den første version af ITP, Intelligent Tracking Provision, hvor de begyndte at parkere tredje-parts cookies, de begyndte at være meget restriktive på, hvor lang tid første-parts cookies kunne leve på ens computer. Det var Apple, der lavede iOS 14.5, også kendt som App Tracking Transparency, som nok er den største atombombe, der nogensinde er smidt i annoncerindustrien, og jeg tror, det var en stor årsag til, at vi så en recession året efter. Og nu kommer de så igen med iOS 26, som er en ny opdatering, der bliver rullet ud gradvist fra den 19. september 2025. Og det der sker i den her, det er, at der er to ting i den, der er du ret i. Der er både noget fingerprinting, det kommer vi ikke til at bruge så meget tid på, for det er mest platformens problem. Og så har vi ændringen, hvor vi har tidligere fået noget af Apple, der hedder Private Browsing. Hvis man bruger Safari i det, der hedder Private Browsing, så går Safari ind og er endnu mere restriktiv, så den forhindrer bl.a. typisk Google Tag Manager i at affyre, og den fjerner URL-parametre. Og URL-parametre, det kan være sådan noget som for eksempel UTM tags, Google klik-id og Mesa klik-id. Og nu står der så, i den nye Safari 26 beta release note, som kommer ud med iOS 26, Padded Support for Filtering Tracking Parameters in Links in Regular Browsing Mode. Vi ved ikke helt præcis, hvad det her betyder, men det er enten rigtig skidt, eller rigtig, rigtig skidt. Der er ingen måder på, at det her er en god ting. Det her er en dårlig ting. Det betyder, at Apple bliver mere restriktive med klik-parametre. Og der er to problemer i det her. Det ene, det er UTM, og det større problem, det er klik-idéerne fra Google Ads. Fordi, hvad er det, mens de er Google Ads? Hvorfor sælger de klik-idéer op, og hvad bruger de dem til? Jamen, de gør det jo fordi, at folk er kommet alt for teknisk ned i det. Det tør jeg slet ikke gøre. Men det er jo det, de bruger til bl.a. at finde ud af, er der sket en konvertering? Hvor kan vi attribuere det her salg til? Eller hvad er det for en kampagne, en annonce? Hvad er det for et søgeord? Det her unikke klik-idé, de sender med, er deres måde, hvorpå de kan følge den her bruger og følge med i, hvad de egentlig foretager sig af handling på hjemmesiden. Og hvorfor er det det her vigtigt? Jamen, det er jo vigtigt, fordi vi rigtig gerne vil kunne spille algoritmen god. Altså, des mere information, vi kan give algoritmen om, hvad der der sker, når der er en kunde, potentielt kunde, lander på websitet og forhåbentlig bliver til en kunde. Jamen, des bedre bliver algoritmen, des bedre bliver vores targeting og vores annoncering med videre, i forhold til at få de rigtige besøgende ind på websitet. Så det er faktisk, som du selv siger, lort med lort på. Jamen, det her, det er, vi ved ikke til hvilken grad Apple kommer til at fjerne klik-idéer. Lige nu gør de det kun i private browsing, men altså ude fra formuleringen, added support for filtering tracking parameters in things in regular browsing mode. Det lyder som noget, de enten kommer til at slå til som default, det har Apple en tendens til at gøre, eller i hvert fald gør det muligt. Men de har sådan set hele tiden gjort det muligt, så jeg tror, de kommer til at slå det til som default. Og hvis de gør det, så skal man tænke på, rundt regnet halvdelen af en almindelig dansk virksomheds besøgende, de vil komme fra Safari. Og det er fordi, at iPhone er den mest udbredte telefon, det er sådan 70-80% af danske mobilenheder, og der er Safari standard. Så det er endnu mere på mobil, det vil sige endnu mere for især unge personer og lidt mindre på desktop. Og hvis man går ind og fjerner Google klik-idéet, og det her, det gælder sådan set både Google klik-idé, det gælder Mesa klik-idé, det gælder Twitter, Bing Ads, hvis man mod forventningen bruger dem. Det gælder alle dem, som vi i hvert fald har testet indtil nu, hvis man har installeret sådan en beta-version af iOS 26. Så hvis de rent faktisk går ind og fjerner dem, så fjerner de sådan den mest lige til moderspore kommenteringer på, sådan foundational tracking, altså det her, det er sådan, det er en meget vigtig del af Google Ads, at lave de her klik-idéer og tilskrive dem tilbage til ens kommenteringer. Hvis Apple gør det her, som det ser ud til, at de gør fra den 19. september, og så tager det lige et øjeblik at rulle ud, og man sidder og annoncerer på Google Ads, så kommer det til at ske tre ting. Den første del, det er, at man kommer til at rapportere færre kommenteringer. Så hvis man skaber kommenteringer, kan man simpelthen ikke se dem. Den anden del, det er, at man får færre kommenteringer, fordi hvis du ikke tracker dem, så kan Googles kampagne heller ikke se, hvor dine kommenteringer kommer fra. Og den tredje, det er, at alle de medeltagelsene målgrupper kommer til at kommentere dårligere, fordi du får mindre audience sizes. Så der er ikke noget positivt med det her. Altså, der er intet positivt. Det er bare et problem. Og det er faktisk et større problem for Google Ads, end det er for Meta Ads. Og årsagen til det, det er, at Meta Ads åbner rigtig mange links i appens browser. Og når du åbner det i appens browser, altså Facebook-appens browser, så har du meget mere tracking på. Det er først, hvis du åbner i Safari-browseren, vi har et problem. Og det gør du, når du bruger links fra Google. Så derfor er det her både et problem for Google Ads og Meta Ads og alle mulige andre. Det er især et problem i Google Ads, og det er også det sted, hvor vi allerede har en løsning klar. Så godt det her. Det er et halvstort problem. Jo flere penge, du bruger på Google Ads, jo værre er det. Men du kan rent faktisk godt gøre noget ved det. Med så langt? Ja, jeg er med så langt. Jeg er med så langt. Det er jeg jo faktisk lidt stolt over. Og hvad skal vi så gøre ved det, Christian? Hvad er vores anbefaling til folk, der sidder og tænker, at jeg bruger faktisk pænt mange penge på Google Ads, at det kunne være fedt ikke at miste en stor del af de kommenteringer, både i forhold til målbarhed og senere i forhold til at rydde og få dem? Okay, nu prøver jeg. Det skal lige siges, at jeg ved ikke, hvad du kommer til at sige lige om lidt. Men nu prøver jeg. Vi skal track server-site, først og fremmest. Og det skal man uanset hvad. Og så skal vi ind og transformere det her klik-idé, vil vi stadigvæk gerne kunne sende videre, men vi bliver nødt til at lave en transformering af selve den streng, der kommer efter klik-idéet. Og så tør jeg simpelthen ikke sige mere, fordi så tror jeg, at jeg bevæger mig ud i noget, jeg ikke ved noget om. Jeg ved faktisk ikke, om det var rigtigt. Jeg synes faktisk, at du var over i noget af det rigtige der. Har du forberedt dig med chat-GPT til den her episode? Nej, jeg har forberedt mig, men ikke lige i forhold til løsningen. Det glemte jeg at spørge den om. Jeg fandt bare ud af, at det var et problem. Du gjorde det faktisk rigtig godt der, synes jeg. Så det man kan gøre, og hvis man gerne vil gøre det her selv, så ligger der en guide inde på stape.io. Stape.io er en hostingudbydere, og udvikler tags til server-side tracking. Og det er også deres løsning, vi kommer til at implementere for vores kunder. Hvis man gerne vil gøre det her selv, så skal man gå ind på Stapes website, og finde det blog-post fra den 4. september, eller opdaget den 4. september, det er oprindeligt fra den 28. august, der hedder Safari-klik-idé-removal-recover-attribution-with-server-side-tracking. Det ligger derude, og der er en ret præcis guide til, hvad man skal gøre. Og hvis man ved, hvad man laver, så tager det her faktisk ikke mega lang tid. Så det, som løsningen rent faktisk går ud på, det er, at man starter med at gå ind i ens Google Ads-konto, og ind under ens tracking-tab, hvor man har mulighed for at tilføje det, der hedder et final URL suffix, det vil sige noget ekstra, man lægger på ens URL-parameter. Her, der går man ind og laver simpelthen ens eget Google klik-idé, så at sige. Og lægger det ind som en del af strengen på alle kliks på ens Google Ads-konto. Og det her, det kan man altså ikke gøre på Metads. Metads har vi ikke helt det samme problem på, fordi de åbner længst i browseren, men vi har faktisk heller ikke den samme løsning på Metads, fordi man kan ikke gå ind og på den måde bare appende en ekstra del af URL'en på alle ens links. Det er en mulighed i Google Ads-interface, det er altså ikke en mulighed i Facebooks interface lige nu. Når man har gjort det, så skal man bruge et tag i ens server-site, Google Tag Manager-konto, der hedder en Query Replacer. Det er et nyt tag, som Zabe har udviklet. Inden i den her Query Replacer, der kan man sætte den op, hvor man så fanger det her ekstra URL-parameter, som man har appendet til ens links inden i Google Ads, hvor man så replacerer med ens nye Google Ads-ID. Og når man så har gjort det, så går man ind i ens server-site, GCM, Transformations, New, Augmented. Hvis man sidder og lytter til det her og tænker, det kan jeg sgu da ikke huske. Hey, der ligger et blog-anlæg, vi skal nok linke til det. Lige nu fortæller vi bare grundlæggende, hvordan det virker. Og så går man ind og tester ens setup. Så man går ind og sætter det på som et custom-parameter. Man gemmer det lokalt, man lægger det ind i en Query Replacer, og så sender man det selv til Google via server-site tracking. Og ved at gøre det her, altså ved at tage kontrol over, hvor det her URL-parameter bliver gemt, og hvordan det bliver sendt til Google, så kan vi godt sikre, at det fortsat rent faktisk bliver sendt. Fordi det er kun på klient-siden, altså client-side tracking, det der sker i browseren, at Apple har kontrol. Så i det her øjeblik, vi tager vores Google-klik-ID-parameter, og essentielt set gemmer det som en variabel, som vi har kontrol over, og kan sende server-site direkte til Google. Så kan Apple altså ikke gøre noget ved det her. Det er selvfølgelig fuldstændig lovligt at gøre det her. Apples tracking-begrænsninger er ikke lov. Men det omgår faktisk effektivt den begrænsning, der ligger i iOS 26. For så vidt der indgår Google Ads. Og det er faktisk på den måde, at man løser problemet. Man ikke engang mitigerer det. Det her, det er faktisk at løse problemet. Der er lidt mere i det, end det jeg lige har sagt. Men Stabe har lavet en ret grundig guide, hvis man er sådan en light udvikler selv. Og ellers kan man få ens bureau til at lave det her. Det burde ikke tage for mange timer at fikse. Hvem er det her allermest relevant for? Hvem er det, der lytter til episoden, og virkelig skal sørge for at gøre det her inden den 19. september? Alle. Nej, det er selvfølgelig relevant for alle. Men især dem, der bruger... Jamen, du sagde det jo faktisk selv før. Rigtig mange penge på Google Ads. Dem, der gerne vil blive ved med at kunne tracke deres konverteringer. Og spille algoritmen god. Og det håber jeg alle, der lytter med her. Det burde det næsten være. Og så vil jeg især... Ja, alle der tracker på konverteringer. Så vil jeg sige, at det her, det er jo især en e-commerce ting. Fordi på Obsidiens Google Ads-konsol. Vi får mange henvendelser, hvor folk de bare ringer ind. Eller skriver en e-mail. Og vi har ikke sådan en mega god tracking på det. Så der er meget af vores Google Ads-sæt op, der er lidt af. Vi sender trafik ind, fordi vi vurderer, at det her er en god idé. Også selvom vi ikke kommer til at kunne måle, hvorfor vi får flest kunder fra. Det er lidt mere sådan en diffus kunderejse. Men i e-com, hvor der virkelig er mange konverteringer. Og man kan måle henvendelserne. Og man kan se, hvor folk de kommer fra. Jamen, der er det her. Det er meget vigtigt. Så særligt for e-commerce-annonsører, der bruger penge på Google Ads. Så er det her faktisk en rigtig vigtig ting. Lige at få fikset. Hvis du ved, hvad du laver, så kan du også gøre det på relativt kort tid. Stabe har nogle gode blog-anlæg. Og ellers så skrives det til byruget, og sørger for, at de gør det. Det er i hvert fald for dumt ikke at gøre det. Det er det vigtigste. Om hvem der gør det, det er lige meget. Det er bare dumt ikke at gøre det her. Så med det. Tusind tak for, at du gad at lytte med til dagens episode på Genhør på mandag.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 11.0,
+      "text": " Christian, vil du ikke fortælle mig om den kommende iOS 26-opdatering, og hvorfor den er rigtig vigtig for folk, der annoncerer på især Google Ads og Meta Ads?"
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": " Jeg har også gjort det alligevel."
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": " Ja, I gjorde det."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": " Men jo, det kan jeg godt."
+    },
+    {
+      "start": 17.0,
+      "end": 28.0,
+      "text": " Apple er ude med riven igen, i hvert fald hvis man er annoncerer, så kan man godt føle sig lidt ramt, fordi nu gør de det egentlig bare endnu sværere at tracke på de marketingaktiviteter, vi nu engang foretager os."
+    },
+    {
+      "start": 28.0,
+      "end": 44.0,
+      "text": " Et lavpraktisk, så går iOS 26 ind og arbejder lidt imod os i forhold til de klikideer, man måske kender fra for eksempel Google Ads, hvor den går ind og er så venlig at fjerne den endnu oftere, end den har gjort før via Safari-browseren."
+    },
+    {
+      "start": 44.0,
+      "end": 62.0,
+      "text": " Og så har vi noget fingerprint, antifingerprint, nogle informationer, som vi normaltvis gerne vil have, der bliver sendt videre til for eksempel platformene, for at kunne matche en device for at øge vores tracking-kvalitet, som nu egentlig bliver reddet lidt væk under os."
+    },
+    {
+      "start": 62.0,
+      "end": 69.0,
+      "text": " Og det du nok kommer til at sige, Liam, det er, at man skal bruge server-side tracking, og så vil jeg faktisk ikke tage ordet mere fra dig, for nu kan du få lov til at shine."
+    },
+    {
+      "start": 69.0,
+      "end": 81.0,
+      "text": " Jamen, altså du har allerede sagt tak for det, nej, det er i grov tid korrekt. Så det der sker, det er, at Apple har været nogle skidere, der har gjort rent tracking-mæssigt ved os i mange år."
+    },
+    {
+      "start": 81.0,
+      "end": 92.0,
+      "text": " Det var dem, der kom med den første version af ITP, Intelligent Tracking Provision, hvor de begyndte at parkere tredje-parts cookies, de begyndte at være meget restriktive på, hvor lang tid første-parts cookies kunne leve på ens computer."
+    },
+    {
+      "start": 92.0,
+      "end": 103.0,
+      "text": " Det var Apple, der lavede iOS 14.5, også kendt som App Tracking Transparency, som nok er den største atombombe, der nogensinde er smidt i annoncerindustrien, og jeg tror, det var en stor årsag til, at vi så en recession året efter."
+    },
+    {
+      "start": 103.0,
+      "end": 112.0,
+      "text": " Og nu kommer de så igen med iOS 26, som er en ny opdatering, der bliver rullet ud gradvist fra den 19. september 2025."
+    },
+    {
+      "start": 112.0,
+      "end": 118.0,
+      "text": " Og det der sker i den her, det er, at der er to ting i den, der er du ret i. Der er både noget fingerprinting, det kommer vi ikke til at bruge så meget tid på, for det er mest platformens problem."
+    },
+    {
+      "start": 118.0,
+      "end": 124.0,
+      "text": " Og så har vi ændringen, hvor vi har tidligere fået noget af Apple, der hedder Private Browsing."
+    },
+    {
+      "start": 124.0,
+      "end": 134.0,
+      "text": " Hvis man bruger Safari i det, der hedder Private Browsing, så går Safari ind og er endnu mere restriktiv, så den forhindrer bl.a. typisk Google Tag Manager i at affyre, og den fjerner URL-parametre."
+    },
+    {
+      "start": 134.0,
+      "end": 139.0,
+      "text": " Og URL-parametre, det kan være sådan noget som for eksempel UTM tags, Google klik-id og Mesa klik-id."
+    },
+    {
+      "start": 140.0,
+      "end": 154.0,
+      "text": " Og nu står der så, i den nye Safari 26 beta release note, som kommer ud med iOS 26, Padded Support for Filtering Tracking Parameters in Links in Regular Browsing Mode."
+    },
+    {
+      "start": 154.0,
+      "end": 160.0,
+      "text": " Vi ved ikke helt præcis, hvad det her betyder, men det er enten rigtig skidt, eller rigtig, rigtig skidt."
+    },
+    {
+      "start": 160.0,
+      "end": 163.0,
+      "text": " Der er ingen måder på, at det her er en god ting. Det her er en dårlig ting."
+    },
+    {
+      "start": 163.0,
+      "end": 167.0,
+      "text": " Det betyder, at Apple bliver mere restriktive med klik-parametre."
+    },
+    {
+      "start": 167.0,
+      "end": 173.0,
+      "text": " Og der er to problemer i det her. Det ene, det er UTM, og det større problem, det er klik-idéerne fra Google Ads."
+    },
+    {
+      "start": 173.0,
+      "end": 178.0,
+      "text": " Fordi, hvad er det, mens de er Google Ads? Hvorfor sælger de klik-idéer op, og hvad bruger de dem til?"
+    },
+    {
+      "start": 178.0,
+      "end": 182.0,
+      "text": " Jamen, de gør det jo fordi, at folk er kommet alt for teknisk ned i det. Det tør jeg slet ikke gøre."
+    },
+    {
+      "start": 182.0,
+      "end": 188.0,
+      "text": " Men det er jo det, de bruger til bl.a. at finde ud af, er der sket en konvertering? Hvor kan vi attribuere det her salg til?"
+    },
+    {
+      "start": 188.0,
+      "end": 191.0,
+      "text": " Eller hvad er det for en kampagne, en annonce? Hvad er det for et søgeord?"
+    },
+    {
+      "start": 191.0,
+      "end": 202.0,
+      "text": " Det her unikke klik-idé, de sender med, er deres måde, hvorpå de kan følge den her bruger og følge med i, hvad de egentlig foretager sig af handling på hjemmesiden."
+    },
+    {
+      "start": 202.0,
+      "end": 206.0,
+      "text": " Og hvorfor er det det her vigtigt? Jamen, det er jo vigtigt, fordi vi rigtig gerne vil kunne spille algoritmen god."
+    },
+    {
+      "start": 206.0,
+      "end": 214.0,
+      "text": " Altså, des mere information, vi kan give algoritmen om, hvad der der sker, når der er en kunde, potentielt kunde, lander på websitet og forhåbentlig bliver til en kunde."
+    },
+    {
+      "start": 214.0,
+      "end": 223.0,
+      "text": " Jamen, des bedre bliver algoritmen, des bedre bliver vores targeting og vores annoncering med videre, i forhold til at få de rigtige besøgende ind på websitet."
+    },
+    {
+      "start": 223.0,
+      "end": 226.0,
+      "text": " Så det er faktisk, som du selv siger, lort med lort på."
+    },
+    {
+      "start": 226.0,
+      "end": 230.0,
+      "text": " Jamen, det her, det er, vi ved ikke til hvilken grad Apple kommer til at fjerne klik-idéer."
+    },
+    {
+      "start": 230.0,
+      "end": 237.0,
+      "text": " Lige nu gør de det kun i private browsing, men altså ude fra formuleringen, added support for filtering tracking parameters in things in regular browsing mode."
+    },
+    {
+      "start": 237.0,
+      "end": 243.0,
+      "text": " Det lyder som noget, de enten kommer til at slå til som default, det har Apple en tendens til at gøre, eller i hvert fald gør det muligt."
+    },
+    {
+      "start": 243.0,
+      "end": 247.0,
+      "text": " Men de har sådan set hele tiden gjort det muligt, så jeg tror, de kommer til at slå det til som default."
+    },
+    {
+      "start": 247.0,
+      "end": 253.0,
+      "text": " Og hvis de gør det, så skal man tænke på, rundt regnet halvdelen af en almindelig dansk virksomheds besøgende, de vil komme fra Safari."
+    },
+    {
+      "start": 253.0,
+      "end": 259.0,
+      "text": " Og det er fordi, at iPhone er den mest udbredte telefon, det er sådan 70-80% af danske mobilenheder, og der er Safari standard."
+    },
+    {
+      "start": 259.0,
+      "end": 263.0,
+      "text": " Så det er endnu mere på mobil, det vil sige endnu mere for især unge personer og lidt mindre på desktop."
+    },
+    {
+      "start": 263.0,
+      "end": 269.0,
+      "text": " Og hvis man går ind og fjerner Google klik-idéet, og det her, det gælder sådan set både Google klik-idé, det gælder Mesa klik-idé,"
+    },
+    {
+      "start": 269.0,
+      "end": 273.0,
+      "text": " det gælder Twitter, Bing Ads, hvis man mod forventningen bruger dem."
+    },
+    {
+      "start": 273.0,
+      "end": 279.0,
+      "text": " Det gælder alle dem, som vi i hvert fald har testet indtil nu, hvis man har installeret sådan en beta-version af iOS 26."
+    },
+    {
+      "start": 279.0,
+      "end": 285.0,
+      "text": " Så hvis de rent faktisk går ind og fjerner dem, så fjerner de sådan den mest lige til moderspore kommenteringer på,"
+    },
+    {
+      "start": 285.0,
+      "end": 291.0,
+      "text": " sådan foundational tracking, altså det her, det er sådan, det er en meget vigtig del af Google Ads,"
+    },
+    {
+      "start": 291.0,
+      "end": 294.0,
+      "text": " at lave de her klik-idéer og tilskrive dem tilbage til ens kommenteringer."
+    },
+    {
+      "start": 294.0,
+      "end": 300.0,
+      "text": " Hvis Apple gør det her, som det ser ud til, at de gør fra den 19. september, og så tager det lige et øjeblik at rulle ud,"
+    },
+    {
+      "start": 300.0,
+      "end": 303.0,
+      "text": " og man sidder og annoncerer på Google Ads, så kommer det til at ske tre ting."
+    },
+    {
+      "start": 303.0,
+      "end": 306.0,
+      "text": " Den første del, det er, at man kommer til at rapportere færre kommenteringer."
+    },
+    {
+      "start": 306.0,
+      "end": 309.0,
+      "text": " Så hvis man skaber kommenteringer, kan man simpelthen ikke se dem."
+    },
+    {
+      "start": 309.0,
+      "end": 313.0,
+      "text": " Den anden del, det er, at man får færre kommenteringer, fordi hvis du ikke tracker dem,"
+    },
+    {
+      "start": 313.0,
+      "end": 316.0,
+      "text": " så kan Googles kampagne heller ikke se, hvor dine kommenteringer kommer fra."
+    },
+    {
+      "start": 316.0,
+      "end": 320.0,
+      "text": " Og den tredje, det er, at alle de medeltagelsene målgrupper kommer til at kommentere dårligere,"
+    },
+    {
+      "start": 320.0,
+      "end": 322.0,
+      "text": " fordi du får mindre audience sizes."
+    },
+    {
+      "start": 322.0,
+      "end": 326.0,
+      "text": " Så der er ikke noget positivt med det her. Altså, der er intet positivt. Det er bare et problem."
+    },
+    {
+      "start": 326.0,
+      "end": 331.0,
+      "text": " Og det er faktisk et større problem for Google Ads, end det er for Meta Ads."
+    },
+    {
+      "start": 331.0,
+      "end": 338.0,
+      "text": " Og årsagen til det, det er, at Meta Ads åbner rigtig mange links i appens browser."
+    },
+    {
+      "start": 338.0,
+      "end": 343.0,
+      "text": " Og når du åbner det i appens browser, altså Facebook-appens browser, så har du meget mere tracking på."
+    },
+    {
+      "start": 343.0,
+      "end": 346.0,
+      "text": " Det er først, hvis du åbner i Safari-browseren, vi har et problem."
+    },
+    {
+      "start": 346.0,
+      "end": 348.0,
+      "text": " Og det gør du, når du bruger links fra Google."
+    },
+    {
+      "start": 348.0,
+      "end": 351.0,
+      "text": " Så derfor er det her både et problem for Google Ads og Meta Ads og alle mulige andre."
+    },
+    {
+      "start": 351.0,
+      "end": 357.0,
+      "text": " Det er især et problem i Google Ads, og det er også det sted, hvor vi allerede har en løsning klar."
+    },
+    {
+      "start": 357.0,
+      "end": 363.0,
+      "text": " Så godt det her. Det er et halvstort problem. Jo flere penge, du bruger på Google Ads, jo værre er det."
+    },
+    {
+      "start": 363.0,
+      "end": 366.0,
+      "text": " Men du kan rent faktisk godt gøre noget ved det."
+    },
+    {
+      "start": 366.0,
+      "end": 367.0,
+      "text": " Med så langt?"
+    },
+    {
+      "start": 367.0,
+      "end": 370.0,
+      "text": " Ja, jeg er med så langt. Jeg er med så langt. Det er jeg jo faktisk lidt stolt over."
+    },
+    {
+      "start": 370.0,
+      "end": 372.0,
+      "text": " Og hvad skal vi så gøre ved det, Christian?"
+    },
+    {
+      "start": 372.0,
+      "end": 376.0,
+      "text": " Hvad er vores anbefaling til folk, der sidder og tænker, at jeg bruger faktisk pænt mange penge på Google Ads,"
+    },
+    {
+      "start": 376.0,
+      "end": 378.0,
+      "text": " at det kunne være fedt ikke at miste en stor del af de kommenteringer,"
+    },
+    {
+      "start": 378.0,
+      "end": 381.0,
+      "text": " både i forhold til målbarhed og senere i forhold til at rydde og få dem?"
+    },
+    {
+      "start": 381.0,
+      "end": 386.0,
+      "text": " Okay, nu prøver jeg. Det skal lige siges, at jeg ved ikke, hvad du kommer til at sige lige om lidt."
+    },
+    {
+      "start": 386.0,
+      "end": 390.0,
+      "text": " Men nu prøver jeg. Vi skal track server-site, først og fremmest. Og det skal man uanset hvad."
+    },
+    {
+      "start": 390.0,
+      "end": 394.0,
+      "text": " Og så skal vi ind og transformere det her klik-idé, vil vi stadigvæk gerne kunne sende videre,"
+    },
+    {
+      "start": 394.0,
+      "end": 399.0,
+      "text": " men vi bliver nødt til at lave en transformering af selve den streng, der kommer efter klik-idéet."
+    },
+    {
+      "start": 399.0,
+      "end": 402.0,
+      "text": " Og så tør jeg simpelthen ikke sige mere, fordi så tror jeg, at jeg bevæger mig ud i noget, jeg ikke ved noget om."
+    },
+    {
+      "start": 402.0,
+      "end": 404.0,
+      "text": " Jeg ved faktisk ikke, om det var rigtigt."
+    },
+    {
+      "start": 404.0,
+      "end": 407.0,
+      "text": " Jeg synes faktisk, at du var over i noget af det rigtige der. Har du forberedt dig med chat-GPT til den her episode?"
+    },
+    {
+      "start": 407.0,
+      "end": 414.0,
+      "text": " Nej, jeg har forberedt mig, men ikke lige i forhold til løsningen. Det glemte jeg at spørge den om."
+    },
+    {
+      "start": 414.0,
+      "end": 416.0,
+      "text": " Jeg fandt bare ud af, at det var et problem."
+    },
+    {
+      "start": 416.0,
+      "end": 420.0,
+      "text": " Du gjorde det faktisk rigtig godt der, synes jeg."
+    },
+    {
+      "start": 420.0,
+      "end": 426.0,
+      "text": " Så det man kan gøre, og hvis man gerne vil gøre det her selv, så ligger der en guide inde på stape.io."
+    },
+    {
+      "start": 426.0,
+      "end": 430.0,
+      "text": " Stape.io er en hostingudbydere, og udvikler tags til server-side tracking."
+    },
+    {
+      "start": 430.0,
+      "end": 433.0,
+      "text": " Og det er også deres løsning, vi kommer til at implementere for vores kunder."
+    },
+    {
+      "start": 433.0,
+      "end": 436.0,
+      "text": " Hvis man gerne vil gøre det her selv, så skal man gå ind på Stapes website,"
+    },
+    {
+      "start": 436.0,
+      "end": 441.0,
+      "text": " og finde det blog-post fra den 4. september, eller opdaget den 4. september, det er oprindeligt fra den 28. august,"
+    },
+    {
+      "start": 441.0,
+      "end": 447.0,
+      "text": " der hedder Safari-klik-idé-removal-recover-attribution-with-server-side-tracking."
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": " Det ligger derude, og der er en ret præcis guide til, hvad man skal gøre."
+    },
+    {
+      "start": 449.0,
+      "end": 453.0,
+      "text": " Og hvis man ved, hvad man laver, så tager det her faktisk ikke mega lang tid."
+    },
+    {
+      "start": 453.0,
+      "end": 458.0,
+      "text": " Så det, som løsningen rent faktisk går ud på, det er, at man starter med at gå ind i ens Google Ads-konto,"
+    },
+    {
+      "start": 458.0,
+      "end": 463.0,
+      "text": " og ind under ens tracking-tab, hvor man har mulighed for at tilføje det, der hedder et final URL suffix,"
+    },
+    {
+      "start": 463.0,
+      "end": 466.0,
+      "text": " det vil sige noget ekstra, man lægger på ens URL-parameter."
+    },
+    {
+      "start": 466.0,
+      "end": 470.0,
+      "text": " Her, der går man ind og laver simpelthen ens eget Google klik-idé, så at sige."
+    },
+    {
+      "start": 470.0,
+      "end": 474.0,
+      "text": " Og lægger det ind som en del af strengen på alle kliks på ens Google Ads-konto."
+    },
+    {
+      "start": 474.0,
+      "end": 476.0,
+      "text": " Og det her, det kan man altså ikke gøre på Metads."
+    },
+    {
+      "start": 476.0,
+      "end": 480.0,
+      "text": " Metads har vi ikke helt det samme problem på, fordi de åbner længst i browseren,"
+    },
+    {
+      "start": 480.0,
+      "end": 483.0,
+      "text": " men vi har faktisk heller ikke den samme løsning på Metads,"
+    },
+    {
+      "start": 483.0,
+      "end": 487.0,
+      "text": " fordi man kan ikke gå ind og på den måde bare appende en ekstra del af URL'en på alle ens links."
+    },
+    {
+      "start": 487.0,
+      "end": 491.0,
+      "text": " Det er en mulighed i Google Ads-interface, det er altså ikke en mulighed i Facebooks interface lige nu."
+    },
+    {
+      "start": 491.0,
+      "end": 495.0,
+      "text": " Når man har gjort det, så skal man bruge et tag i ens server-site, Google Tag Manager-konto,"
+    },
+    {
+      "start": 495.0,
+      "end": 497.0,
+      "text": " der hedder en Query Replacer."
+    },
+    {
+      "start": 497.0,
+      "end": 500.0,
+      "text": " Det er et nyt tag, som Zabe har udviklet."
+    },
+    {
+      "start": 500.0,
+      "end": 506.0,
+      "text": " Inden i den her Query Replacer, der kan man sætte den op, hvor man så fanger det her ekstra URL-parameter,"
+    },
+    {
+      "start": 506.0,
+      "end": 512.0,
+      "text": " som man har appendet til ens links inden i Google Ads, hvor man så replacerer med ens nye Google Ads-ID."
+    },
+    {
+      "start": 512.0,
+      "end": 517.0,
+      "text": " Og når man så har gjort det, så går man ind i ens server-site, GCM, Transformations, New, Augmented."
+    },
+    {
+      "start": 517.0,
+      "end": 519.0,
+      "text": " Hvis man sidder og lytter til det her og tænker, det kan jeg sgu da ikke huske."
+    },
+    {
+      "start": 519.0,
+      "end": 521.0,
+      "text": " Hey, der ligger et blog-anlæg, vi skal nok linke til det."
+    },
+    {
+      "start": 521.0,
+      "end": 524.0,
+      "text": " Lige nu fortæller vi bare grundlæggende, hvordan det virker."
+    },
+    {
+      "start": 524.0,
+      "end": 526.0,
+      "text": " Og så går man ind og tester ens setup."
+    },
+    {
+      "start": 526.0,
+      "end": 529.0,
+      "text": " Så man går ind og sætter det på som et custom-parameter."
+    },
+    {
+      "start": 529.0,
+      "end": 532.0,
+      "text": " Man gemmer det lokalt, man lægger det ind i en Query Replacer,"
+    },
+    {
+      "start": 532.0,
+      "end": 534.0,
+      "text": " og så sender man det selv til Google via server-site tracking."
+    },
+    {
+      "start": 534.0,
+      "end": 539.0,
+      "text": " Og ved at gøre det her, altså ved at tage kontrol over, hvor det her URL-parameter bliver gemt,"
+    },
+    {
+      "start": 539.0,
+      "end": 544.0,
+      "text": " og hvordan det bliver sendt til Google, så kan vi godt sikre, at det fortsat rent faktisk bliver sendt."
+    },
+    {
+      "start": 544.0,
+      "end": 549.0,
+      "text": " Fordi det er kun på klient-siden, altså client-side tracking, det der sker i browseren, at Apple har kontrol."
+    },
+    {
+      "start": 549.0,
+      "end": 551.0,
+      "text": " Så i det her øjeblik, vi tager vores Google-klik-ID-parameter,"
+    },
+    {
+      "start": 551.0,
+      "end": 557.0,
+      "text": " og essentielt set gemmer det som en variabel, som vi har kontrol over, og kan sende server-site direkte til Google."
+    },
+    {
+      "start": 557.0,
+      "end": 559.0,
+      "text": " Så kan Apple altså ikke gøre noget ved det her."
+    },
+    {
+      "start": 559.0,
+      "end": 561.0,
+      "text": " Det er selvfølgelig fuldstændig lovligt at gøre det her."
+    },
+    {
+      "start": 561.0,
+      "end": 563.0,
+      "text": " Apples tracking-begrænsninger er ikke lov."
+    },
+    {
+      "start": 563.0,
+      "end": 567.0,
+      "text": " Men det omgår faktisk effektivt den begrænsning, der ligger i iOS 26."
+    },
+    {
+      "start": 567.0,
+      "end": 569.0,
+      "text": " For så vidt der indgår Google Ads."
+    },
+    {
+      "start": 569.0,
+      "end": 571.0,
+      "text": " Og det er faktisk på den måde, at man løser problemet."
+    },
+    {
+      "start": 571.0,
+      "end": 573.0,
+      "text": " Man ikke engang mitigerer det."
+    },
+    {
+      "start": 573.0,
+      "end": 576.0,
+      "text": " Det her, det er faktisk at løse problemet."
+    },
+    {
+      "start": 576.0,
+      "end": 578.0,
+      "text": " Der er lidt mere i det, end det jeg lige har sagt."
+    },
+    {
+      "start": 578.0,
+      "end": 580.0,
+      "text": " Men Stabe har lavet en ret grundig guide, hvis man er sådan en light udvikler selv."
+    },
+    {
+      "start": 580.0,
+      "end": 582.0,
+      "text": " Og ellers kan man få ens bureau til at lave det her."
+    },
+    {
+      "start": 582.0,
+      "end": 584.0,
+      "text": " Det burde ikke tage for mange timer at fikse."
+    },
+    {
+      "start": 584.0,
+      "end": 586.0,
+      "text": " Hvem er det her allermest relevant for?"
+    },
+    {
+      "start": 586.0,
+      "end": 589.0,
+      "text": " Hvem er det, der lytter til episoden, og virkelig skal sørge for at gøre det her inden den 19. september?"
+    },
+    {
+      "start": 589.0,
+      "end": 590.0,
+      "text": " Alle."
+    },
+    {
+      "start": 590.0,
+      "end": 592.0,
+      "text": " Nej, det er selvfølgelig relevant for alle."
+    },
+    {
+      "start": 592.0,
+      "end": 594.0,
+      "text": " Men især dem, der bruger..."
+    },
+    {
+      "start": 594.0,
+      "end": 596.0,
+      "text": " Jamen, du sagde det jo faktisk selv før. Rigtig mange penge på Google Ads."
+    },
+    {
+      "start": 596.0,
+      "end": 599.0,
+      "text": " Dem, der gerne vil blive ved med at kunne tracke deres konverteringer."
+    },
+    {
+      "start": 599.0,
+      "end": 601.0,
+      "text": " Og spille algoritmen god."
+    },
+    {
+      "start": 601.0,
+      "end": 603.0,
+      "text": " Og det håber jeg alle, der lytter med her."
+    },
+    {
+      "start": 603.0,
+      "end": 605.0,
+      "text": " Det burde det næsten være."
+    },
+    {
+      "start": 605.0,
+      "end": 607.0,
+      "text": " Og så vil jeg især... Ja, alle der tracker på konverteringer."
+    },
+    {
+      "start": 607.0,
+      "end": 609.0,
+      "text": " Så vil jeg sige, at det her, det er jo især en e-commerce ting."
+    },
+    {
+      "start": 609.0,
+      "end": 611.0,
+      "text": " Fordi på Obsidiens Google Ads-konsol."
+    },
+    {
+      "start": 611.0,
+      "end": 614.0,
+      "text": " Vi får mange henvendelser, hvor folk de bare ringer ind."
+    },
+    {
+      "start": 614.0,
+      "end": 615.0,
+      "text": " Eller skriver en e-mail."
+    },
+    {
+      "start": 615.0,
+      "end": 617.0,
+      "text": " Og vi har ikke sådan en mega god tracking på det."
+    },
+    {
+      "start": 617.0,
+      "end": 619.0,
+      "text": " Så der er meget af vores Google Ads-sæt op, der er lidt af."
+    },
+    {
+      "start": 619.0,
+      "end": 621.0,
+      "text": " Vi sender trafik ind, fordi vi vurderer, at det her er en god idé."
+    },
+    {
+      "start": 621.0,
+      "end": 624.0,
+      "text": " Også selvom vi ikke kommer til at kunne måle, hvorfor vi får flest kunder fra."
+    },
+    {
+      "start": 624.0,
+      "end": 626.0,
+      "text": " Det er lidt mere sådan en diffus kunderejse."
+    },
+    {
+      "start": 626.0,
+      "end": 629.0,
+      "text": " Men i e-com, hvor der virkelig er mange konverteringer."
+    },
+    {
+      "start": 629.0,
+      "end": 630.0,
+      "text": " Og man kan måle henvendelserne."
+    },
+    {
+      "start": 630.0,
+      "end": 632.0,
+      "text": " Og man kan se, hvor folk de kommer fra."
+    },
+    {
+      "start": 632.0,
+      "end": 634.0,
+      "text": " Jamen, der er det her. Det er meget vigtigt."
+    },
+    {
+      "start": 634.0,
+      "end": 636.0,
+      "text": " Så særligt for e-commerce-annonsører, der bruger penge på Google Ads."
+    },
+    {
+      "start": 636.0,
+      "end": 638.0,
+      "text": " Så er det her faktisk en rigtig vigtig ting."
+    },
+    {
+      "start": 638.0,
+      "end": 639.0,
+      "text": " Lige at få fikset."
+    },
+    {
+      "start": 639.0,
+      "end": 641.0,
+      "text": " Hvis du ved, hvad du laver, så kan du også gøre det på relativt kort tid."
+    },
+    {
+      "start": 641.0,
+      "end": 643.0,
+      "text": " Stabe har nogle gode blog-anlæg."
+    },
+    {
+      "start": 643.0,
+      "end": 645.0,
+      "text": " Og ellers så skrives det til byruget, og sørger for, at de gør det."
+    },
+    {
+      "start": 645.0,
+      "end": 647.0,
+      "text": " Det er i hvert fald for dumt ikke at gøre det."
+    },
+    {
+      "start": 647.0,
+      "end": 648.0,
+      "text": " Det er det vigtigste."
+    },
+    {
+      "start": 648.0,
+      "end": 649.0,
+      "text": " Om hvem der gør det, det er lige meget."
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " Det er bare dumt ikke at gøre det her."
+    },
+    {
+      "start": 651.0,
+      "end": 652.0,
+      "text": " Så med det."
+    },
+    {
+      "start": 652.0,
+      "end": 657.0,
+      "text": " Tusind tak for, at du gad at lytte med til dagens episode på Genhør på mandag."
+    }
+  ]
+}

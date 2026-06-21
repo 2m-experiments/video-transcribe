@@ -1,0 +1,106 @@
+{
+  "title": "Okay, så hvad er Consent Mode V2 forklaret på 1 minut? #marketingpod",
+  "url": "https://www.youtube.com/watch?v=VdXl_Fk4-yk",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 76.0,
+  "transcribed_at": "2026-04-17T15:31:00.716563+00:00",
+  "full_text": "Det er en meget lille opgave det her, men det er en meget dum ting at glemme. Så lad os starte med, hvad er det? Det er sådan, når man arbejder med Google Ads, og det her er en Google Ads og Google Analytics 4 ting. Det har ikke noget at gøre med Meta og alle mulige andre platformer. Det er kun Google Ads og Google Analytics 4, det her er relevant for. Når man arbejder med det, så virker Google Ads kommenteringsbrugering på den måde, at hvis brugeren siger ja tak til cookies, så sætter du en førsteparts cookie og så spurger du salget. Done. Hvis brugeren så siger nej til cookies, og det er der omkring 40% af alderen lige, der gør i Danmark, så har du to muligheder for at spurge det salg. Den ene mulighed det er via enhanced conversions, som du også bør have sat op. Det handler om at opsamle informationer som for eksempel e-mailadresse og telefonnummer. Så hashkrypterer man det, således at det ikke kan læses af modtageren. Så sender man den information til Google, der tjekker om det matcher et hash, de har i deres ende. Og så kan man eventuelt identificere en kunde, der er logget ind på Google på den måde. Hvis ikke det virker, så har vi consent mode v2. Og consent mode det er en måde, hvor på Google kan ikke identificere en bruger, men få en lille smule information om hvem de er og hvor de sidder uden at sætte en cookie. Så det du skal forestille dig konceptuelt her, det er at consent mode v2, det er den lille smule data du kan få ind, hvis alle dine andre metoder glipper først.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Det er en meget lille opgave det her, men det er en meget dum ting at glemme."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": " Så lad os starte med, hvad er det?"
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": " Det er sådan, når man arbejder med Google Ads, og det her er en Google Ads og Google Analytics 4 ting."
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Det har ikke noget at gøre med Meta og alle mulige andre platformer."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": " Det er kun Google Ads og Google Analytics 4, det her er relevant for."
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": " Når man arbejder med det, så virker Google Ads kommenteringsbrugering på den måde,"
+    },
+    {
+      "start": 21.0,
+      "end": 27.0,
+      "text": " at hvis brugeren siger ja tak til cookies, så sætter du en førsteparts cookie og så spurger du salget. Done."
+    },
+    {
+      "start": 27.0,
+      "end": 31.0,
+      "text": " Hvis brugeren så siger nej til cookies, og det er der omkring 40% af alderen lige, der gør i Danmark,"
+    },
+    {
+      "start": 31.0,
+      "end": 33.0,
+      "text": " så har du to muligheder for at spurge det salg."
+    },
+    {
+      "start": 33.0,
+      "end": 37.0,
+      "text": " Den ene mulighed det er via enhanced conversions, som du også bør have sat op."
+    },
+    {
+      "start": 37.0,
+      "end": 41.0,
+      "text": " Det handler om at opsamle informationer som for eksempel e-mailadresse og telefonnummer."
+    },
+    {
+      "start": 41.0,
+      "end": 44.0,
+      "text": " Så hashkrypterer man det, således at det ikke kan læses af modtageren."
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": " Så sender man den information til Google, der tjekker om det matcher et hash, de har i deres ende."
+    },
+    {
+      "start": 48.0,
+      "end": 52.0,
+      "text": " Og så kan man eventuelt identificere en kunde, der er logget ind på Google på den måde."
+    },
+    {
+      "start": 52.0,
+      "end": 56.0,
+      "text": " Hvis ikke det virker, så har vi consent mode v2."
+    },
+    {
+      "start": 56.0,
+      "end": 61.0,
+      "text": " Og consent mode det er en måde, hvor på Google kan ikke identificere en bruger,"
+    },
+    {
+      "start": 61.0,
+      "end": 66.0,
+      "text": " men få en lille smule information om hvem de er og hvor de sidder uden at sætte en cookie."
+    },
+    {
+      "start": 66.0,
+      "end": 71.0,
+      "text": " Så det du skal forestille dig konceptuelt her, det er at consent mode v2,"
+    },
+    {
+      "start": 71.0,
+      "end": 75.0,
+      "text": " det er den lille smule data du kan få ind, hvis alle dine andre metoder glipper først."
+    }
+  ]
+}

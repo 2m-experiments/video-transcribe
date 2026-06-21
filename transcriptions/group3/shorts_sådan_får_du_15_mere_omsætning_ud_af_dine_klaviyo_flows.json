@@ -1,0 +1,1171 @@
+{
+  "title": "Shorts: Sådan får du 15% mere omsætning ud af dine Klaviyo flows",
+  "url": "https://www.youtube.com/watch?v=olqO2N6cxgU",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 841.9,
+  "transcribed_at": "2026-04-18T11:09:57.216622+00:00",
+  "full_text": "Christian? Hallo Stian. Den her episode af MarketingPodShorts, som er vores korte podcast imellem de almindelige episoder, handler om det Clayview-hack, som næsten ingen kender til og rigtig få taler om, men som faktisk kan sætte ekstra skub i, f.eks. dine abandoned-card-flows. Det skal handle om server-side tracking til Clayview. Så hvis du gerne vil sende 15% flere relevante personer igennem dine flows, som f.eks. abandoned-card-flows, så er det altså nu, du skal spise øre, fordi jeg ved, at Alstan har en treat for you. Ja, og jeg tænker, at folk, der lytter med her og har lyttet til ting med mig tidligere, ved, at der ville komme noget om tracking på et eller andet tidspunkt, og nu kunne vi altså ikke holde den længere. Jeg er på cykel ellers, det er svært. Ja, virkelig, virkelig. Og du holdt den i en måned. Det, der er interessant ved det her, det er, at server-side i sig selv, tror jeg, at der er mange, der har en conceptual idé om, vi kommer lige tilbage til, hvad det er, men i forhold til Clayview, ikke særlig mange, fordi det er først for nyligt, at det er blevet rigtig muligt, og det er ikke en native i Shopify, som Facebook er det. Så det er altså ikke noget, man har automatisk, hvis man har Shopify eller andre værktøjer. Så det er lidt, jeg vil kalde det, undervurderet, fordi det har ret stor impact, men der er ikke særlig mange, der gør det, og jeg tror simpelthen, at det er, fordi de ikke ved, at det er en mulighed. Så det ændrer vi på. Det var nyt for mig, skal jeg være helt ærlig og erkende. Det var helt nyt for mig, da du kom og fortalte mig om det, og det var også derfor, vi tænkte, det her bliver vi altså nødt til at tale om ASAP. Ja, og det er også først for nyligt, at vi er begyndt at opsætte det for vores kunder, fordi tidligere har det teknisk ikke været muligt. For at man kan opsætte ting server-side, så kræver det, at vi kan sende tingene server-side, det er en ting, men Clayview eller andre platformer skal altså også være sendt til at tage imod tingene server-side, og det har de ikke været i lige så lang tid, som for eksempel Meta og Google har. Lad os lige starte med at sige, at nu arbejder du primært med e-commerce, Christen. Jeg tænker, at det er vel ikke alle dine kunder, der bruger det, men det må være en stor del af dem. Rigtig, rigtig, rigtig mange af dem, og med god grund, fordi vi anbefaler det til langt de fleste. Ja, har du købt aktier i det, at Clayview bliver børsomtaget for få måneder siden? Nej, ikke endnu, men det kommer. Ja, men de faldte 30 procent fra starten af, så det var måske fint nok, at du lige ventede et øjeblik. I øvrigt en interessant ting omkring Clayview, det er, at Clayview er 10-15 procent ejet af Shopify, så hvis man køber aktier i Clayview, så køber man også en lille smule indrekti i Shopify, kan man sige. Det er et play på hinanden, men det er også der, at den største del af deres kundegruppe kommer fra. Og der findes jo andre e-mail-værktøjer end Clayview, men de har også en meget dominerende position blandt mange af vores kunder i opsiden digital, særligt dem, der køber på Shopify. Altså der er det faktisk de fleste af dem, der bruger det, og det er et dejligt værktøj. Det stiger lidt i pris, det er der også mange af de andre værktøjer, der gør, så det er ikke et billigt værktøj længere. På den måde det var, vil jeg sige, så man skal lige huske at rydde op i ens kontakter nogle gange. Men det er et dejligt værktøj, både fordi, at de har et godt analysemodul, let væk CDP, og så er deres automations bare rigtig, rigtig gode. Hvad er de mest hyppige automations, du plejer at sætte op i de projekter, du køber? Altså de mest hyppige, du tænker på Flows, Triggers, det er Abandoned Card, Abandoned Checkout, og nu siger jeg de to, fordi det er faktisk to forskellige, der er mange, der ikke kan differencere. Ja, lad os lige sætte differencering med dem om lidt også, det er vigtigt at nævne. Browse Abandonment er også et rigtig godt flow. Når folk har været inde og kigge på f.eks. Product Browse Abandonment, inden at kigge på et produkt, men har hoppet ud igen uden at købe, der vil vi jo gerne ramme den igen. Der er en del, men det er sådan de tre, der har virkelig gode resultater med dem. At To Cart Abandonment og Checkout Abandonment er ikke det samme. Hvad er det differencering er mellem de to? Og sætter du to forskellige flows op til dem? Ja faktisk, fordi At To Cart, der har folk lagt noget i kurven, men ikke gået videre til Checkouten. Altså der, hvor du indtaster din adresse og dine købsoplysninger. Du har bare lagt det i kurven. Og hvis man kommer til, og det har vi desværre set rigtig mange gange, så det er noget, man godt lige kan gå tilbage og tjekke op på. Hvis man er kommet til at kundesætte Abandonned Checkout op, så miser man faktisk alle dem, der bare har lagt noget i kurven, men ikke har gået videre. Det sker altså relativt ofte, at folk gør det. Så det er lige et lille tip herfra. Og det, der er interessant, det er, at hvis man læser Klavios seneste e-mail-marketing-benchmark-rapport, som de udgiver, i hvert fald en gang om året. Jeg ved faktisk ikke, om det er hyppigere. Men hvis man læser den seneste version af den, som jeg har været inde og gøre, så kan man se, at Abandonned-cart-flowet, uanset om det er den ene eller den anden trigger, men det er i hvert fald det, de omtaler som Abandonned-cart-flowet. Det er den mål på omsætning per e-mail mest profitabele automation, der ligger i Klavio. Den gennemsnitlige værdi af en Abandonned-cart udsendt e-mail er næsten 50 kroner. Hver eneste gang en virksomhed på Klavio sender den ud, så omsætter de næsten 50 kroner på den. Så det er en meget, meget høj værdi. Så er der altid et spørgsmål om incrementality. Er der nogle af de personer, der får den e-mail, der havde købt den alligevel? Det er der helt sikkert. Men det er der ydermægen med også plads til. Ja, til 50 kroner per e-mail. Det er sindssygt vigtigt. Spørgsmålet er jo så, hvordan kan vi sende flere Abandonned-cart-e-mails ud, når de virker så godt? Vi kan jo starte med den dyre og dårlige løsning. Det er at du bare skruer op fra Facebook og Google, så du får flere folk på siden til at lave nogle Abandonned-carts. Men du sender flere e-mails, det er nok ikke en kanon god forretning. Den anden er at identificere flere af de brugere, der rent faktisk gør det, men ikke bliver mål i dag. Og det er der, hvor server-site kommer ind og forbedrer effekten og afkaster al den analysering, du laver. For at forstå det, så skal vi lige forstå, hvad det er for en slags sporing, vi har normalt på Klaviyo, hvis ikke vi har gjort andet. Og den, som næsten alle kører med i dag. Det er det, man kalder client-site tracking. Og det kalder man det, fordi sporingen ligger i klienten, som er det, man kalder enheden, der besøger siden. Så det kan være din mobiltelefon, din computer, din Playstation 5, du går på nettet med, eller hvad det nu skal være. Det er din internet-klient, som det hedde i gamle dage. Det er din klient, din client-site tracking. Så når jeg går ind på en webshop på min telefon, så er det egentlig noget JavaScript, der ligger på telefonen, der sender data til. Klaviyo, der identificerer mig som værende, har været inde på siden, og jeg er måske en identificeret bruger, og nu har jeg lagt et produkt i kuroven, og så kan vi sende en e-mail ud. Så er udfordringen jo bare, der kan ske nogle ting, som gør, at man ikke får den her data sendt afsted. De tre største problemer i praksis, det er intelligent tracking prevention på alle Apples enheder, der sletter din cookies automatisk. Så er det privacy browsers og adblockers. Bruger du egentlig en adblocker, Christian? Du trækker lidt på den? Jo, det gør jeg faktisk. Er det nu, du siger, at du har en installeret af research-hensyn, eller et eller andet? Det har jeg faktisk, men det mærkelige er, at jeg faktisk har slået den fra på langt de fleste af de emmese, der jeg rent faktisk bruger, fordi jeg vil gerne se en ungdom, så jeg burde nok egentlig bare slå det helt fra. Ja, det burde du. Jeg har selvfølgelig ikke en adblocker-installer, og jeg trykker altid jer til cookies. Jeg er en del af løsningen her, ikke en del af problemet. Men det er der mange andre, der har, og det er ikke alle adblockers, der går ind og fjerner dine scripts til for eksempel Klaviyo, Google Analytics og Google Ads, men det er der faktisk en del af dem, der gør. Så de her tre problemer, de gør, at det er meget almindeligt, at man for eksempel i Google Analytics 4 måler 20-30% færre konvertering, end man har haft. Og der er det nemt at se, fordi du ved, at du har omsæt 100.000. Google Analytics siger 70.000. Okay, du mangler 30.000. Det er det fuldstændig samme, der sker på Klaviyo. Det er bare ikke lige så sygeligt, fordi du ved ikke, hvor mange mails, du kunne have sendt. Men det antal mails, du sender i dine flows, i dit browser-abandonement og kart-abandonement, det er nok 30% under, hvad du i virkeligheden kunne have gjort. Og hvis du har meget med yngre brugere at gøre, som har endnu flere iPhones og adblockers, så er tallet endnu større. Så det er fuldstændig det samme. Hvis du er vant til at track for lidt på Google Analytics 4, Google Ads og Meta-apps, så tracker du også for lidt på Klaviyo. Det er bare ikke lige så tydeligt for dig. Så det er jo det problem, som vi gerne vil have løst. Og man kan sige, at det du vinder ved at gøre det, det er to ting. Den ene er, at du måler flere af de købte Klaviyo-skaber, eller i hvert fald var med til at skabe. Og så igen, der er et spørgsmål i min crementality. Hvis en person åbner en mail fra Klaviyo, ikke klikker og køber inden for 4-7 timer, var det så på grund af Klaviyo? Måske. Men den tæller med. Og det kan man så vælge at tro mere eller mindre på. Men jeg vil gerne have maksimal datamængde ind på den tilskrivningsanstilling, jeg nu engang har valgt. Så hvis jeg har valgt, at jeg gerne vil tælle dem med, så vil jeg gerne tælle dem alle sammen med. Men det er mest en analyse ting. Det hjælper dig til at se, hvordan din e-mail-markedering virker. Den anden ting, og det er altså den vigtige her, det er, at du kunne nok godt sende 20% flere abandoned karte-emails ud, end du gjorde i dag. Prøv at tænke på det på årlig basis. Hold nu op. Og det bruger du allerede har betalt for at få ind via Google Ads, eller Facebook Ads, eller SEO-arbejde, eller dine andre e-mails. Du har allerede haft omkostningen på dem, men det er ikke alle sammen, der rent faktisk bliver sendt ud. Så server-side tracking til Klaviyo har til formål at få flere personer ind i dine automations, så du kan øge omsætningen. Og du måler i øvrigt også flere konverteringer. Men det er en sidebonus. For mig handler det om at øge omsætningen. Ikke måle mere den omsætning, du alligevel har skabt. Men det opnår begge ting. Så kan man sige, hvordan gør man rent faktisk det her? Og hvorfor har jeg ikke gjort det nu? Så man kan sige, årsagen til, at du ikke har gjort det nu, det er, at der ikke findes nogle one-click løsninger på det her lige nu. Du kan ikke gøre det i Shopify. Og hvis du bruger i øvrigt super fine værktøjer som for eksempel Reaktion eller Profitmetrix, som kan give dig det til Google Ads og Mesa Ads, så giver det dig ikke til Klaviyo lige nu. Så der er ikke nogen one-click solution, som giver dig server-side på Klaviyo. Der er tre andre løsninger. Vi tager dem fra den værste til den bedste. Den værste løsning er, at du kan bare kode det hele selv. Klaviyo ser piger ud i åbnet. Du kan bare gøre det. Årsagen til, at der ikke er særlig mange, der gør det her i praksis, det er, at... Har du nogensinde bedt nogen om at kostumkode en løsning op til en platform, de ikke har arbejdet med før med nogle API, de ikke kender? Det tager jeg slet ikke at bede folk om. Det er dyrt. Det er dyrt, og du skal vedligeholde det selv, og det bliver bare træls. Så det kan du, det vil jeg ikke anbefale. Så er der to andre løsninger, som jeg har set virksomheder bruge. Den ene, det er, hvis du specifikt er på Shopify, så findes der en tracking-app, der hedder Elevar. Den findes på, jeg mener, det er getelevar.com. Den kan hjælpe dig med at sætte serverside-tracking op til både Klaviyo, Meta, Google Ads og alle mulige andre platformer. Den er ret nem, ret hurtig og ret dyr. Så du skal regne med, at det bliver en omkostning på, lad os sige, 50, 100, 200, 100.000 om året. Afhængig af, hvor mange ordre du har, fordi den er baseret på, hvor mange ordre du har. Men den er ikke billig. Det er bedre end ikke at gøre det, men det er ikke billigt. Så er der en tredje løsning, som er den, jeg vil anbefale, og det er den, vi implementerer for vores grunde. Det er at sætte det op via serverside Google Tag Manager. Og serverside Google Tag Manager, det er som regel den metode, vi bruger til at implementere serverside på Google Analytics 4, og Google Ads, Meta Ads, Snapchat, TikTok, Pinterest og også Klaviyo. Det er teknisk set det, der hedder client-side initiated serverside tagging, hvor man opsamler data i klienten og sender videre server til server. Teknikken i det kan vi altid gennemgå på et andet tidspunkt, men det, man konceptuelt skal forstå med serverside tagging via Google Tag Manager, det er, at du får næsten alle fordele til en bryg, dælder prisen. Fordi en opsætning af serverside Google Tag Manager, det koster måske 10-15-20.000 kroner engang, det koster måske 20-50-100 dollars om måneden, og så er det det, og du får 99% af værdien, du får på alle andre måder. Så det er i praksis den, i min opsigt, bedste måde at gøre det på, og det er sådan, vi implementerer for de fleste af vores grunder. Serverside via Google Tag Manager kan man implementere selv. Der findes guides til det, og der er godt materiale. Man skal nok være lidt udviklingsfærm. Du skal ikke være bange for at lave noget JavaScript og sidde og lave containers og debugge, og eventuelt tilrette dine datalæger og sådan nogle ting. Hvis det ikke lyder kanonfedt, så er det nok nemmere at betale nogen for at gøre det, fordi det er kun en ting, der skal gøres én gang, og så virker det. Men det er der, og det er ikke sådan fuldstændig det custom kodeløsning, hvor du skal hen og fixe dine egne API-endpoints osv. Det er lidt teknisk, og hvis ikke man er vant til at gå ud, så skal man nok ikke begive sig ud i det, men det er ikke en sindssyg omgang. Hvorfor tror du, der ikke er flere, der har hørt om det her? Du sagde jo faktisk selv, at det var relativt nyt, at det kunne lade sig gøre. Alligevel, det er ikke splinternyt. Jeg tænker også, hvorfor kunne vi godt have begyndt det her for et halvt til et helt år siden, hvis vi lige havde været lidt hurtigere? Det er et godt spørgsmål. Man kan sige, at udviklingen presser jo den retning, at det bliver sværere og sværere for os at track, så nu begynder vi så at kigge på de løsninger, der egentlig faktisk er for at track endnu mere. Jeg har ikke noget godt bud ud over det. Har du et bud på det? Mit bedste get, nu hvor jeg tænker over det, det er, at der er også et større fokus på profilabilitet nu, end der var for et par år siden. Hvis man tænker på 2020 og 2021, det var zero interest rate policy, og folk købte alt muligt lort online, og sad hjemmefra med deres corona-checks, og der var bare gang i dem. Så der var det måske også mere fokus på at vækste omsætning, og der var virkelig mange kunder i markedet, og man skulle bare give den gas. Folk var tvunget til at handle online. Hvor 2022, 2023 og 2024 har været en anderledes oplevelse for mange webshops, hvor deres resultat er gået ned, og der har været sådan et skifte i retning af profilabilitet. Og det her er et profilabilitets-measure. Altså det hjælper dig med mere omsætning uden at bruge flere penge på spend. Og hvis du kunne vækste 50% på Google Ads, var det måske det, du gjorde, i stedet for at vækste 15% profilabilitet på e-mail-marketing. Men nu er det bare en anden tid. Så jeg tror, der er rigtig mange, der gerne vil vækste deres e-mail-marketing-omsætning med 15% lige nu. Fordi du betaler ikke flere penge til Klæbio for at gøre det. Du skal ikke have flere kontakter. Du skal bare matche flere personer og sende flere e-mail. Som vi har brugt penge på at få ind på hjemmesiden. Så ja. Så konklusionen er vel overordnet set, at det er, som jeg hørte, en no-brainer at komme i gang med, og det handler om at sætte den her server-site-tracking op. Der er forskellige muligheder for, hvordan man kan gøre det. Men det skal bare gøres. Ja, det vil jeg også sige. Uanset hvem, der gør det, det er det vigtigste. Hvis e-mail-marketing er en reelt omsætningskanal for virksomheden, så får det de 10-15-20% ekstra ud af den, hvis man bare sender 10-15-20% ud af dine automations. Få mere ud af de flows, du allerede har bygget, de mest profitabele e-mails, du allerede sender. Det er no-brainer. Kæmpe anbefaling herfra. Tusind tak, at vi ville lytte med til dagens episode.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": " Christian?"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": " Hallo Stian."
+    },
+    {
+      "start": 5.0,
+      "end": 12.0,
+      "text": " Den her episode af MarketingPodShorts, som er vores korte podcast imellem de almindelige episoder, handler om det Clayview-hack,"
+    },
+    {
+      "start": 12.0,
+      "end": 20.0,
+      "text": " som næsten ingen kender til og rigtig få taler om, men som faktisk kan sætte ekstra skub i, f.eks. dine abandoned-card-flows."
+    },
+    {
+      "start": 20.0,
+      "end": 23.0,
+      "text": " Det skal handle om server-side tracking til Clayview."
+    },
+    {
+      "start": 23.0,
+      "end": 31.0,
+      "text": " Så hvis du gerne vil sende 15% flere relevante personer igennem dine flows, som f.eks. abandoned-card-flows,"
+    },
+    {
+      "start": 31.0,
+      "end": 37.0,
+      "text": " så er det altså nu, du skal spise øre, fordi jeg ved, at Alstan har en treat for you."
+    },
+    {
+      "start": 37.0,
+      "end": 43.0,
+      "text": " Ja, og jeg tænker, at folk, der lytter med her og har lyttet til ting med mig tidligere, ved, at der ville komme noget om tracking på et eller andet tidspunkt,"
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": " og nu kunne vi altså ikke holde den længere."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": " Jeg er på cykel ellers, det er svært."
+    },
+    {
+      "start": 47.0,
+      "end": 50.0,
+      "text": " Ja, virkelig, virkelig. Og du holdt den i en måned."
+    },
+    {
+      "start": 50.0,
+      "end": 56.0,
+      "text": " Det, der er interessant ved det her, det er, at server-side i sig selv, tror jeg, at der er mange, der har en conceptual idé om,"
+    },
+    {
+      "start": 56.0,
+      "end": 60.0,
+      "text": " vi kommer lige tilbage til, hvad det er, men i forhold til Clayview, ikke særlig mange,"
+    },
+    {
+      "start": 60.0,
+      "end": 67.0,
+      "text": " fordi det er først for nyligt, at det er blevet rigtig muligt, og det er ikke en native i Shopify, som Facebook er det."
+    },
+    {
+      "start": 67.0,
+      "end": 71.0,
+      "text": " Så det er altså ikke noget, man har automatisk, hvis man har Shopify eller andre værktøjer."
+    },
+    {
+      "start": 71.0,
+      "end": 75.0,
+      "text": " Så det er lidt, jeg vil kalde det, undervurderet, fordi det har ret stor impact,"
+    },
+    {
+      "start": 75.0,
+      "end": 78.0,
+      "text": " men der er ikke særlig mange, der gør det, og jeg tror simpelthen, at det er, fordi de ikke ved, at det er en mulighed."
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "text": " Så det ændrer vi på."
+    },
+    {
+      "start": 79.0,
+      "end": 83.0,
+      "text": " Det var nyt for mig, skal jeg være helt ærlig og erkende. Det var helt nyt for mig, da du kom og fortalte mig om det,"
+    },
+    {
+      "start": 83.0,
+      "end": 87.0,
+      "text": " og det var også derfor, vi tænkte, det her bliver vi altså nødt til at tale om ASAP."
+    },
+    {
+      "start": 87.0,
+      "end": 90.0,
+      "text": " Ja, og det er også først for nyligt, at vi er begyndt at opsætte det for vores kunder,"
+    },
+    {
+      "start": 90.0,
+      "end": 94.0,
+      "text": " fordi tidligere har det teknisk ikke været muligt. For at man kan opsætte ting server-side, så kræver det,"
+    },
+    {
+      "start": 94.0,
+      "end": 99.0,
+      "text": " at vi kan sende tingene server-side, det er en ting, men Clayview eller andre platformer skal altså også være sendt til at tage imod tingene server-side,"
+    },
+    {
+      "start": 99.0,
+      "end": 103.0,
+      "text": " og det har de ikke været i lige så lang tid, som for eksempel Meta og Google har."
+    },
+    {
+      "start": 103.0,
+      "end": 106.0,
+      "text": " Lad os lige starte med at sige, at nu arbejder du primært med e-commerce, Christen."
+    },
+    {
+      "start": 106.0,
+      "end": 110.0,
+      "text": " Jeg tænker, at det er vel ikke alle dine kunder, der bruger det, men det må være en stor del af dem."
+    },
+    {
+      "start": 110.0,
+      "end": 116.0,
+      "text": " Rigtig, rigtig, rigtig mange af dem, og med god grund, fordi vi anbefaler det til langt de fleste."
+    },
+    {
+      "start": 116.0,
+      "end": 119.0,
+      "text": " Ja, har du købt aktier i det, at Clayview bliver børsomtaget for få måneder siden?"
+    },
+    {
+      "start": 119.0,
+      "end": 122.0,
+      "text": " Nej, ikke endnu, men det kommer."
+    },
+    {
+      "start": 122.0,
+      "end": 131.0,
+      "text": " Ja, men de faldte 30 procent fra starten af, så det var måske fint nok, at du lige ventede et øjeblik."
+    },
+    {
+      "start": 131.0,
+      "end": 137.0,
+      "text": " I øvrigt en interessant ting omkring Clayview, det er, at Clayview er 10-15 procent ejet af Shopify,"
+    },
+    {
+      "start": 137.0,
+      "end": 141.0,
+      "text": " så hvis man køber aktier i Clayview, så køber man også en lille smule indrekti i Shopify, kan man sige."
+    },
+    {
+      "start": 141.0,
+      "end": 145.0,
+      "text": " Det er et play på hinanden, men det er også der, at den største del af deres kundegruppe kommer fra."
+    },
+    {
+      "start": 145.0,
+      "end": 150.0,
+      "text": " Og der findes jo andre e-mail-værktøjer end Clayview, men de har også en meget dominerende position"
+    },
+    {
+      "start": 150.0,
+      "end": 154.0,
+      "text": " blandt mange af vores kunder i opsiden digital, særligt dem, der køber på Shopify."
+    },
+    {
+      "start": 154.0,
+      "end": 159.0,
+      "text": " Altså der er det faktisk de fleste af dem, der bruger det, og det er et dejligt værktøj."
+    },
+    {
+      "start": 159.0,
+      "end": 164.0,
+      "text": " Det stiger lidt i pris, det er der også mange af de andre værktøjer, der gør, så det er ikke et billigt værktøj længere."
+    },
+    {
+      "start": 164.0,
+      "end": 168.0,
+      "text": " På den måde det var, vil jeg sige, så man skal lige huske at rydde op i ens kontakter nogle gange."
+    },
+    {
+      "start": 168.0,
+      "end": 175.0,
+      "text": " Men det er et dejligt værktøj, både fordi, at de har et godt analysemodul, let væk CDP, og så er deres automations bare rigtig, rigtig gode."
+    },
+    {
+      "start": 175.0,
+      "end": 180.0,
+      "text": " Hvad er de mest hyppige automations, du plejer at sætte op i de projekter, du køber?"
+    },
+    {
+      "start": 180.0,
+      "end": 185.0,
+      "text": " Altså de mest hyppige, du tænker på Flows, Triggers, det er Abandoned Card, Abandoned Checkout,"
+    },
+    {
+      "start": 185.0,
+      "end": 189.0,
+      "text": " og nu siger jeg de to, fordi det er faktisk to forskellige, der er mange, der ikke kan differencere."
+    },
+    {
+      "start": 189.0,
+      "end": 192.0,
+      "text": " Ja, lad os lige sætte differencering med dem om lidt også, det er vigtigt at nævne."
+    },
+    {
+      "start": 192.0,
+      "end": 195.0,
+      "text": " Browse Abandonment er også et rigtig godt flow."
+    },
+    {
+      "start": 195.0,
+      "end": 199.0,
+      "text": " Når folk har været inde og kigge på f.eks. Product Browse Abandonment,"
+    },
+    {
+      "start": 199.0,
+      "end": 203.0,
+      "text": " inden at kigge på et produkt, men har hoppet ud igen uden at købe, der vil vi jo gerne ramme den igen."
+    },
+    {
+      "start": 203.0,
+      "end": 208.0,
+      "text": " Der er en del, men det er sådan de tre, der har virkelig gode resultater med dem."
+    },
+    {
+      "start": 209.0,
+      "end": 214.0,
+      "text": " At To Cart Abandonment og Checkout Abandonment er ikke det samme."
+    },
+    {
+      "start": 214.0,
+      "end": 218.0,
+      "text": " Hvad er det differencering er mellem de to? Og sætter du to forskellige flows op til dem?"
+    },
+    {
+      "start": 218.0,
+      "end": 223.0,
+      "text": " Ja faktisk, fordi At To Cart, der har folk lagt noget i kurven, men ikke gået videre til Checkouten."
+    },
+    {
+      "start": 223.0,
+      "end": 226.0,
+      "text": " Altså der, hvor du indtaster din adresse og dine købsoplysninger."
+    },
+    {
+      "start": 226.0,
+      "end": 228.0,
+      "text": " Du har bare lagt det i kurven."
+    },
+    {
+      "start": 228.0,
+      "end": 232.0,
+      "text": " Og hvis man kommer til, og det har vi desværre set rigtig mange gange,"
+    },
+    {
+      "start": 232.0,
+      "end": 235.0,
+      "text": " så det er noget, man godt lige kan gå tilbage og tjekke op på."
+    },
+    {
+      "start": 235.0,
+      "end": 238.0,
+      "text": " Hvis man er kommet til at kundesætte Abandonned Checkout op,"
+    },
+    {
+      "start": 238.0,
+      "end": 241.0,
+      "text": " så miser man faktisk alle dem, der bare har lagt noget i kurven, men ikke har gået videre."
+    },
+    {
+      "start": 241.0,
+      "end": 244.0,
+      "text": " Det sker altså relativt ofte, at folk gør det."
+    },
+    {
+      "start": 244.0,
+      "end": 246.0,
+      "text": " Så det er lige et lille tip herfra."
+    },
+    {
+      "start": 247.0,
+      "end": 253.0,
+      "text": " Og det, der er interessant, det er, at hvis man læser Klavios seneste e-mail-marketing-benchmark-rapport,"
+    },
+    {
+      "start": 253.0,
+      "end": 255.0,
+      "text": " som de udgiver, i hvert fald en gang om året."
+    },
+    {
+      "start": 255.0,
+      "end": 257.0,
+      "text": " Jeg ved faktisk ikke, om det er hyppigere."
+    },
+    {
+      "start": 257.0,
+      "end": 259.0,
+      "text": " Men hvis man læser den seneste version af den, som jeg har været inde og gøre,"
+    },
+    {
+      "start": 259.0,
+      "end": 263.0,
+      "text": " så kan man se, at Abandonned-cart-flowet, uanset om det er den ene eller den anden trigger,"
+    },
+    {
+      "start": 263.0,
+      "end": 265.0,
+      "text": " men det er i hvert fald det, de omtaler som Abandonned-cart-flowet."
+    },
+    {
+      "start": 265.0,
+      "end": 271.0,
+      "text": " Det er den mål på omsætning per e-mail mest profitabele automation, der ligger i Klavio."
+    },
+    {
+      "start": 271.0,
+      "end": 277.0,
+      "text": " Den gennemsnitlige værdi af en Abandonned-cart udsendt e-mail er næsten 50 kroner."
+    },
+    {
+      "start": 277.0,
+      "end": 282.0,
+      "text": " Hver eneste gang en virksomhed på Klavio sender den ud, så omsætter de næsten 50 kroner på den."
+    },
+    {
+      "start": 282.0,
+      "end": 284.0,
+      "text": " Så det er en meget, meget høj værdi."
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": " Så er der altid et spørgsmål om incrementality."
+    },
+    {
+      "start": 286.0,
+      "end": 289.0,
+      "text": " Er der nogle af de personer, der får den e-mail, der havde købt den alligevel?"
+    },
+    {
+      "start": 289.0,
+      "end": 291.0,
+      "text": " Det er der helt sikkert."
+    },
+    {
+      "start": 291.0,
+      "end": 293.0,
+      "text": " Men det er der ydermægen med også plads til."
+    },
+    {
+      "start": 293.0,
+      "end": 295.0,
+      "text": " Ja, til 50 kroner per e-mail."
+    },
+    {
+      "start": 295.0,
+      "end": 297.0,
+      "text": " Det er sindssygt vigtigt."
+    },
+    {
+      "start": 297.0,
+      "end": 302.0,
+      "text": " Spørgsmålet er jo så, hvordan kan vi sende flere Abandonned-cart-e-mails ud, når de virker så godt?"
+    },
+    {
+      "start": 302.0,
+      "end": 305.0,
+      "text": " Vi kan jo starte med den dyre og dårlige løsning."
+    },
+    {
+      "start": 305.0,
+      "end": 309.0,
+      "text": " Det er at du bare skruer op fra Facebook og Google, så du får flere folk på siden til at lave nogle Abandonned-carts."
+    },
+    {
+      "start": 309.0,
+      "end": 314.0,
+      "text": " Men du sender flere e-mails, det er nok ikke en kanon god forretning."
+    },
+    {
+      "start": 314.0,
+      "end": 318.0,
+      "text": " Den anden er at identificere flere af de brugere, der rent faktisk gør det, men ikke bliver mål i dag."
+    },
+    {
+      "start": 318.0,
+      "end": 322.0,
+      "text": " Og det er der, hvor server-site kommer ind og forbedrer effekten og afkaster al den analysering, du laver."
+    },
+    {
+      "start": 322.0,
+      "end": 328.0,
+      "text": " For at forstå det, så skal vi lige forstå, hvad det er for en slags sporing, vi har normalt på Klaviyo, hvis ikke vi har gjort andet."
+    },
+    {
+      "start": 328.0,
+      "end": 330.0,
+      "text": " Og den, som næsten alle kører med i dag."
+    },
+    {
+      "start": 330.0,
+      "end": 332.0,
+      "text": " Det er det, man kalder client-site tracking."
+    },
+    {
+      "start": 332.0,
+      "end": 338.0,
+      "text": " Og det kalder man det, fordi sporingen ligger i klienten, som er det, man kalder enheden, der besøger siden."
+    },
+    {
+      "start": 338.0,
+      "end": 343.0,
+      "text": " Så det kan være din mobiltelefon, din computer, din Playstation 5, du går på nettet med, eller hvad det nu skal være."
+    },
+    {
+      "start": 343.0,
+      "end": 346.0,
+      "text": " Det er din internet-klient, som det hedde i gamle dage."
+    },
+    {
+      "start": 346.0,
+      "end": 348.0,
+      "text": " Det er din klient, din client-site tracking."
+    },
+    {
+      "start": 348.0,
+      "end": 354.0,
+      "text": " Så når jeg går ind på en webshop på min telefon, så er det egentlig noget JavaScript, der ligger på telefonen, der sender data til."
+    },
+    {
+      "start": 354.0,
+      "end": 360.0,
+      "text": " Klaviyo, der identificerer mig som værende, har været inde på siden, og jeg er måske en identificeret bruger, og nu har jeg lagt et produkt i kuroven,"
+    },
+    {
+      "start": 360.0,
+      "end": 362.0,
+      "text": " og så kan vi sende en e-mail ud."
+    },
+    {
+      "start": 362.0,
+      "end": 367.0,
+      "text": " Så er udfordringen jo bare, der kan ske nogle ting, som gør, at man ikke får den her data sendt afsted."
+    },
+    {
+      "start": 367.0,
+      "end": 373.0,
+      "text": " De tre største problemer i praksis, det er intelligent tracking prevention på alle Apples enheder, der sletter din cookies automatisk."
+    },
+    {
+      "start": 373.0,
+      "end": 375.0,
+      "text": " Så er det privacy browsers og adblockers."
+    },
+    {
+      "start": 376.0,
+      "end": 378.0,
+      "text": " Bruger du egentlig en adblocker, Christian?"
+    },
+    {
+      "start": 380.0,
+      "end": 381.0,
+      "text": " Du trækker lidt på den?"
+    },
+    {
+      "start": 381.0,
+      "end": 382.0,
+      "text": " Jo, det gør jeg faktisk."
+    },
+    {
+      "start": 382.0,
+      "end": 386.0,
+      "text": " Er det nu, du siger, at du har en installeret af research-hensyn, eller et eller andet?"
+    },
+    {
+      "start": 388.0,
+      "end": 394.0,
+      "text": " Det har jeg faktisk, men det mærkelige er, at jeg faktisk har slået den fra på langt de fleste af de emmese, der jeg rent faktisk bruger,"
+    },
+    {
+      "start": 394.0,
+      "end": 398.0,
+      "text": " fordi jeg vil gerne se en ungdom, så jeg burde nok egentlig bare slå det helt fra."
+    },
+    {
+      "start": 398.0,
+      "end": 399.0,
+      "text": " Ja, det burde du."
+    },
+    {
+      "start": 399.0,
+      "end": 402.0,
+      "text": " Jeg har selvfølgelig ikke en adblocker-installer, og jeg trykker altid jer til cookies."
+    },
+    {
+      "start": 402.0,
+      "end": 404.0,
+      "text": " Jeg er en del af løsningen her, ikke en del af problemet."
+    },
+    {
+      "start": 404.0,
+      "end": 410.0,
+      "text": " Men det er der mange andre, der har, og det er ikke alle adblockers, der går ind og fjerner dine scripts til for eksempel Klaviyo, Google Analytics og Google Ads,"
+    },
+    {
+      "start": 410.0,
+      "end": 412.0,
+      "text": " men det er der faktisk en del af dem, der gør."
+    },
+    {
+      "start": 412.0,
+      "end": 420.0,
+      "text": " Så de her tre problemer, de gør, at det er meget almindeligt, at man for eksempel i Google Analytics 4 måler 20-30% færre konvertering, end man har haft."
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "text": " Og der er det nemt at se, fordi du ved, at du har omsæt 100.000."
+    },
+    {
+      "start": 422.0,
+      "end": 424.0,
+      "text": " Google Analytics siger 70.000."
+    },
+    {
+      "start": 424.0,
+      "end": 425.0,
+      "text": " Okay, du mangler 30.000."
+    },
+    {
+      "start": 425.0,
+      "end": 428.0,
+      "text": " Det er det fuldstændig samme, der sker på Klaviyo."
+    },
+    {
+      "start": 428.0,
+      "end": 431.0,
+      "text": " Det er bare ikke lige så sygeligt, fordi du ved ikke, hvor mange mails, du kunne have sendt."
+    },
+    {
+      "start": 431.0,
+      "end": 438.0,
+      "text": " Men det antal mails, du sender i dine flows, i dit browser-abandonement og kart-abandonement, det er nok 30% under, hvad du i virkeligheden kunne have gjort."
+    },
+    {
+      "start": 438.0,
+      "end": 442.0,
+      "text": " Og hvis du har meget med yngre brugere at gøre, som har endnu flere iPhones og adblockers, så er tallet endnu større."
+    },
+    {
+      "start": 442.0,
+      "end": 444.0,
+      "text": " Så det er fuldstændig det samme."
+    },
+    {
+      "start": 444.0,
+      "end": 447.0,
+      "text": " Hvis du er vant til at track for lidt på Google Analytics 4, Google Ads og Meta-apps, så tracker du også for lidt på Klaviyo."
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": " Det er bare ikke lige så tydeligt for dig."
+    },
+    {
+      "start": 449.0,
+      "end": 452.0,
+      "text": " Så det er jo det problem, som vi gerne vil have løst."
+    },
+    {
+      "start": 452.0,
+      "end": 455.0,
+      "text": " Og man kan sige, at det du vinder ved at gøre det, det er to ting."
+    },
+    {
+      "start": 455.0,
+      "end": 460.0,
+      "text": " Den ene er, at du måler flere af de købte Klaviyo-skaber, eller i hvert fald var med til at skabe."
+    },
+    {
+      "start": 460.0,
+      "end": 462.0,
+      "text": " Og så igen, der er et spørgsmål i min crementality."
+    },
+    {
+      "start": 462.0,
+      "end": 467.0,
+      "text": " Hvis en person åbner en mail fra Klaviyo, ikke klikker og køber inden for 4-7 timer, var det så på grund af Klaviyo?"
+    },
+    {
+      "start": 469.0,
+      "end": 470.0,
+      "text": " Måske."
+    },
+    {
+      "start": 470.0,
+      "end": 471.0,
+      "text": " Men den tæller med."
+    },
+    {
+      "start": 471.0,
+      "end": 474.0,
+      "text": " Og det kan man så vælge at tro mere eller mindre på."
+    },
+    {
+      "start": 474.0,
+      "end": 478.0,
+      "text": " Men jeg vil gerne have maksimal datamængde ind på den tilskrivningsanstilling, jeg nu engang har valgt."
+    },
+    {
+      "start": 478.0,
+      "end": 481.0,
+      "text": " Så hvis jeg har valgt, at jeg gerne vil tælle dem med, så vil jeg gerne tælle dem alle sammen med."
+    },
+    {
+      "start": 481.0,
+      "end": 483.0,
+      "text": " Men det er mest en analyse ting."
+    },
+    {
+      "start": 483.0,
+      "end": 485.0,
+      "text": " Det hjælper dig til at se, hvordan din e-mail-markedering virker."
+    },
+    {
+      "start": 485.0,
+      "end": 492.0,
+      "text": " Den anden ting, og det er altså den vigtige her, det er, at du kunne nok godt sende 20% flere abandoned karte-emails ud, end du gjorde i dag."
+    },
+    {
+      "start": 494.0,
+      "end": 496.0,
+      "text": " Prøv at tænke på det på årlig basis."
+    },
+    {
+      "start": 496.0,
+      "end": 498.0,
+      "text": " Hold nu op."
+    },
+    {
+      "start": 500.0,
+      "end": 506.0,
+      "text": " Og det bruger du allerede har betalt for at få ind via Google Ads, eller Facebook Ads, eller SEO-arbejde, eller dine andre e-mails."
+    },
+    {
+      "start": 506.0,
+      "end": 510.0,
+      "text": " Du har allerede haft omkostningen på dem, men det er ikke alle sammen, der rent faktisk bliver sendt ud."
+    },
+    {
+      "start": 511.0,
+      "end": 518.0,
+      "text": " Så server-side tracking til Klaviyo har til formål at få flere personer ind i dine automations, så du kan øge omsætningen."
+    },
+    {
+      "start": 518.0,
+      "end": 520.0,
+      "text": " Og du måler i øvrigt også flere konverteringer."
+    },
+    {
+      "start": 520.0,
+      "end": 522.0,
+      "text": " Men det er en sidebonus. For mig handler det om at øge omsætningen."
+    },
+    {
+      "start": 522.0,
+      "end": 524.0,
+      "text": " Ikke måle mere den omsætning, du alligevel har skabt."
+    },
+    {
+      "start": 524.0,
+      "end": 526.0,
+      "text": " Men det opnår begge ting."
+    },
+    {
+      "start": 526.0,
+      "end": 528.0,
+      "text": " Så kan man sige, hvordan gør man rent faktisk det her?"
+    },
+    {
+      "start": 528.0,
+      "end": 530.0,
+      "text": " Og hvorfor har jeg ikke gjort det nu?"
+    },
+    {
+      "start": 530.0,
+      "end": 534.0,
+      "text": " Så man kan sige, årsagen til, at du ikke har gjort det nu, det er, at der ikke findes nogle one-click løsninger på det her lige nu."
+    },
+    {
+      "start": 535.0,
+      "end": 537.0,
+      "text": " Du kan ikke gøre det i Shopify."
+    },
+    {
+      "start": 537.0,
+      "end": 545.0,
+      "text": " Og hvis du bruger i øvrigt super fine værktøjer som for eksempel Reaktion eller Profitmetrix, som kan give dig det til Google Ads og Mesa Ads, så giver det dig ikke til Klaviyo lige nu."
+    },
+    {
+      "start": 545.0,
+      "end": 549.0,
+      "text": " Så der er ikke nogen one-click solution, som giver dig server-side på Klaviyo."
+    },
+    {
+      "start": 549.0,
+      "end": 551.0,
+      "text": " Der er tre andre løsninger."
+    },
+    {
+      "start": 551.0,
+      "end": 554.0,
+      "text": " Vi tager dem fra den værste til den bedste."
+    },
+    {
+      "start": 554.0,
+      "end": 557.0,
+      "text": " Den værste løsning er, at du kan bare kode det hele selv."
+    },
+    {
+      "start": 557.0,
+      "end": 560.0,
+      "text": " Klaviyo ser piger ud i åbnet. Du kan bare gøre det."
+    },
+    {
+      "start": 561.0,
+      "end": 565.0,
+      "text": " Årsagen til, at der ikke er særlig mange, der gør det her i praksis, det er, at..."
+    },
+    {
+      "start": 565.0,
+      "end": 569.0,
+      "text": " Har du nogensinde bedt nogen om at kostumkode en løsning op til en platform, de ikke har arbejdet med før med nogle API, de ikke kender?"
+    },
+    {
+      "start": 569.0,
+      "end": 571.0,
+      "text": " Det tager jeg slet ikke at bede folk om."
+    },
+    {
+      "start": 571.0,
+      "end": 573.0,
+      "text": " Det er dyrt."
+    },
+    {
+      "start": 573.0,
+      "end": 577.0,
+      "text": " Det er dyrt, og du skal vedligeholde det selv, og det bliver bare træls."
+    },
+    {
+      "start": 577.0,
+      "end": 580.0,
+      "text": " Så det kan du, det vil jeg ikke anbefale."
+    },
+    {
+      "start": 580.0,
+      "end": 583.0,
+      "text": " Så er der to andre løsninger, som jeg har set virksomheder bruge."
+    },
+    {
+      "start": 583.0,
+      "end": 588.0,
+      "text": " Den ene, det er, hvis du specifikt er på Shopify, så findes der en tracking-app, der hedder Elevar."
+    },
+    {
+      "start": 588.0,
+      "end": 591.0,
+      "text": " Den findes på, jeg mener, det er getelevar.com."
+    },
+    {
+      "start": 591.0,
+      "end": 596.0,
+      "text": " Den kan hjælpe dig med at sætte serverside-tracking op til både Klaviyo, Meta, Google Ads og alle mulige andre platformer."
+    },
+    {
+      "start": 596.0,
+      "end": 600.0,
+      "text": " Den er ret nem, ret hurtig og ret dyr."
+    },
+    {
+      "start": 600.0,
+      "end": 606.0,
+      "text": " Så du skal regne med, at det bliver en omkostning på, lad os sige, 50, 100, 200, 100.000 om året."
+    },
+    {
+      "start": 606.0,
+      "end": 609.0,
+      "text": " Afhængig af, hvor mange ordre du har, fordi den er baseret på, hvor mange ordre du har."
+    },
+    {
+      "start": 609.0,
+      "end": 611.0,
+      "text": " Men den er ikke billig."
+    },
+    {
+      "start": 611.0,
+      "end": 615.0,
+      "text": " Det er bedre end ikke at gøre det, men det er ikke billigt."
+    },
+    {
+      "start": 616.0,
+      "end": 620.0,
+      "text": " Så er der en tredje løsning, som er den, jeg vil anbefale, og det er den, vi implementerer for vores grunde."
+    },
+    {
+      "start": 620.0,
+      "end": 623.0,
+      "text": " Det er at sætte det op via serverside Google Tag Manager."
+    },
+    {
+      "start": 623.0,
+      "end": 630.0,
+      "text": " Og serverside Google Tag Manager, det er som regel den metode, vi bruger til at implementere serverside på Google Analytics 4,"
+    },
+    {
+      "start": 630.0,
+      "end": 634.0,
+      "text": " og Google Ads, Meta Ads, Snapchat, TikTok, Pinterest og også Klaviyo."
+    },
+    {
+      "start": 634.0,
+      "end": 637.0,
+      "text": " Det er teknisk set det, der hedder client-side initiated serverside tagging,"
+    },
+    {
+      "start": 637.0,
+      "end": 640.0,
+      "text": " hvor man opsamler data i klienten og sender videre server til server."
+    },
+    {
+      "start": 640.0,
+      "end": 643.0,
+      "text": " Teknikken i det kan vi altid gennemgå på et andet tidspunkt,"
+    },
+    {
+      "start": 643.0,
+      "end": 647.0,
+      "text": " men det, man konceptuelt skal forstå med serverside tagging via Google Tag Manager,"
+    },
+    {
+      "start": 647.0,
+      "end": 650.0,
+      "text": " det er, at du får næsten alle fordele til en bryg, dælder prisen."
+    },
+    {
+      "start": 650.0,
+      "end": 654.0,
+      "text": " Fordi en opsætning af serverside Google Tag Manager, det koster måske 10-15-20.000 kroner engang,"
+    },
+    {
+      "start": 654.0,
+      "end": 657.0,
+      "text": " det koster måske 20-50-100 dollars om måneden,"
+    },
+    {
+      "start": 657.0,
+      "end": 661.0,
+      "text": " og så er det det, og du får 99% af værdien, du får på alle andre måder."
+    },
+    {
+      "start": 661.0,
+      "end": 665.0,
+      "text": " Så det er i praksis den, i min opsigt, bedste måde at gøre det på,"
+    },
+    {
+      "start": 665.0,
+      "end": 668.0,
+      "text": " og det er sådan, vi implementerer for de fleste af vores grunder."
+    },
+    {
+      "start": 668.0,
+      "end": 671.0,
+      "text": " Serverside via Google Tag Manager kan man implementere selv."
+    },
+    {
+      "start": 671.0,
+      "end": 673.0,
+      "text": " Der findes guides til det, og der er godt materiale."
+    },
+    {
+      "start": 673.0,
+      "end": 676.0,
+      "text": " Man skal nok være lidt udviklingsfærm."
+    },
+    {
+      "start": 676.0,
+      "end": 680.0,
+      "text": " Du skal ikke være bange for at lave noget JavaScript og sidde og lave containers og debugge,"
+    },
+    {
+      "start": 680.0,
+      "end": 683.0,
+      "text": " og eventuelt tilrette dine datalæger og sådan nogle ting."
+    },
+    {
+      "start": 683.0,
+      "end": 686.0,
+      "text": " Hvis det ikke lyder kanonfedt, så er det nok nemmere at betale nogen for at gøre det,"
+    },
+    {
+      "start": 686.0,
+      "end": 689.0,
+      "text": " fordi det er kun en ting, der skal gøres én gang, og så virker det."
+    },
+    {
+      "start": 689.0,
+      "end": 692.0,
+      "text": " Men det er der, og det er ikke sådan fuldstændig det custom kodeløsning,"
+    },
+    {
+      "start": 692.0,
+      "end": 694.0,
+      "text": " hvor du skal hen og fixe dine egne API-endpoints osv."
+    },
+    {
+      "start": 695.0,
+      "end": 699.0,
+      "text": " Det er lidt teknisk, og hvis ikke man er vant til at gå ud,"
+    },
+    {
+      "start": 699.0,
+      "end": 702.0,
+      "text": " så skal man nok ikke begive sig ud i det, men det er ikke en sindssyg omgang."
+    },
+    {
+      "start": 704.0,
+      "end": 706.0,
+      "text": " Hvorfor tror du, der ikke er flere, der har hørt om det her?"
+    },
+    {
+      "start": 707.0,
+      "end": 710.0,
+      "text": " Du sagde jo faktisk selv, at det var relativt nyt, at det kunne lade sig gøre."
+    },
+    {
+      "start": 713.0,
+      "end": 714.0,
+      "text": " Alligevel, det er ikke splinternyt."
+    },
+    {
+      "start": 714.0,
+      "end": 719.0,
+      "text": " Jeg tænker også, hvorfor kunne vi godt have begyndt det her for et halvt til et helt år siden,"
+    },
+    {
+      "start": 719.0,
+      "end": 720.0,
+      "text": " hvis vi lige havde været lidt hurtigere?"
+    },
+    {
+      "start": 720.0,
+      "end": 722.0,
+      "text": " Det er et godt spørgsmål."
+    },
+    {
+      "start": 722.0,
+      "end": 724.0,
+      "text": " Man kan sige, at udviklingen presser jo den retning,"
+    },
+    {
+      "start": 724.0,
+      "end": 726.0,
+      "text": " at det bliver sværere og sværere for os at track,"
+    },
+    {
+      "start": 726.0,
+      "end": 729.0,
+      "text": " så nu begynder vi så at kigge på de løsninger, der egentlig faktisk er for at track endnu mere."
+    },
+    {
+      "start": 730.0,
+      "end": 733.0,
+      "text": " Jeg har ikke noget godt bud ud over det. Har du et bud på det?"
+    },
+    {
+      "start": 734.0,
+      "end": 737.0,
+      "text": " Mit bedste get, nu hvor jeg tænker over det,"
+    },
+    {
+      "start": 737.0,
+      "end": 740.0,
+      "text": " det er, at der er også et større fokus på profilabilitet nu,"
+    },
+    {
+      "start": 740.0,
+      "end": 742.0,
+      "text": " end der var for et par år siden."
+    },
+    {
+      "start": 742.0,
+      "end": 744.0,
+      "text": " Hvis man tænker på 2020 og 2021,"
+    },
+    {
+      "start": 744.0,
+      "end": 748.0,
+      "text": " det var zero interest rate policy, og folk købte alt muligt lort online,"
+    },
+    {
+      "start": 748.0,
+      "end": 751.0,
+      "text": " og sad hjemmefra med deres corona-checks, og der var bare gang i dem."
+    },
+    {
+      "start": 751.0,
+      "end": 754.0,
+      "text": " Så der var det måske også mere fokus på at vækste omsætning,"
+    },
+    {
+      "start": 754.0,
+      "end": 756.0,
+      "text": " og der var virkelig mange kunder i markedet,"
+    },
+    {
+      "start": 756.0,
+      "end": 759.0,
+      "text": " og man skulle bare give den gas. Folk var tvunget til at handle online."
+    },
+    {
+      "start": 759.0,
+      "end": 763.0,
+      "text": " Hvor 2022, 2023 og 2024 har været en anderledes oplevelse for mange webshops,"
+    },
+    {
+      "start": 763.0,
+      "end": 765.0,
+      "text": " hvor deres resultat er gået ned,"
+    },
+    {
+      "start": 765.0,
+      "end": 767.0,
+      "text": " og der har været sådan et skifte i retning af profilabilitet."
+    },
+    {
+      "start": 767.0,
+      "end": 769.0,
+      "text": " Og det her er et profilabilitets-measure."
+    },
+    {
+      "start": 769.0,
+      "end": 774.0,
+      "text": " Altså det hjælper dig med mere omsætning uden at bruge flere penge på spend."
+    },
+    {
+      "start": 774.0,
+      "end": 776.0,
+      "text": " Og hvis du kunne vækste 50% på Google Ads,"
+    },
+    {
+      "start": 776.0,
+      "end": 778.0,
+      "text": " var det måske det, du gjorde,"
+    },
+    {
+      "start": 778.0,
+      "end": 782.0,
+      "text": " i stedet for at vækste 15% profilabilitet på e-mail-marketing."
+    },
+    {
+      "start": 782.0,
+      "end": 784.0,
+      "text": " Men nu er det bare en anden tid."
+    },
+    {
+      "start": 784.0,
+      "end": 786.0,
+      "text": " Så jeg tror, der er rigtig mange, der gerne vil vækste"
+    },
+    {
+      "start": 786.0,
+      "end": 789.0,
+      "text": " deres e-mail-marketing-omsætning med 15% lige nu."
+    },
+    {
+      "start": 789.0,
+      "end": 792.0,
+      "text": " Fordi du betaler ikke flere penge til Klæbio for at gøre det."
+    },
+    {
+      "start": 792.0,
+      "end": 795.0,
+      "text": " Du skal ikke have flere kontakter. Du skal bare matche flere personer og sende flere e-mail."
+    },
+    {
+      "start": 795.0,
+      "end": 798.0,
+      "text": " Som vi har brugt penge på at få ind på hjemmesiden."
+    },
+    {
+      "start": 798.0,
+      "end": 801.0,
+      "text": " Så ja. Så konklusionen er vel overordnet set,"
+    },
+    {
+      "start": 801.0,
+      "end": 804.0,
+      "text": " at det er, som jeg hørte, en no-brainer at komme i gang med,"
+    },
+    {
+      "start": 804.0,
+      "end": 807.0,
+      "text": " og det handler om at sætte den her server-site-tracking op."
+    },
+    {
+      "start": 807.0,
+      "end": 810.0,
+      "text": " Der er forskellige muligheder for, hvordan man kan gøre det."
+    },
+    {
+      "start": 810.0,
+      "end": 812.0,
+      "text": " Men det skal bare gøres."
+    },
+    {
+      "start": 813.0,
+      "end": 816.0,
+      "text": " Ja, det vil jeg også sige. Uanset hvem, der gør det, det er det vigtigste."
+    },
+    {
+      "start": 816.0,
+      "end": 820.0,
+      "text": " Hvis e-mail-marketing er en reelt omsætningskanal for virksomheden,"
+    },
+    {
+      "start": 820.0,
+      "end": 827.0,
+      "text": " så får det de 10-15-20% ekstra ud af den, hvis man bare sender 10-15-20% ud af dine automations."
+    },
+    {
+      "start": 827.0,
+      "end": 829.0,
+      "text": " Få mere ud af de flows, du allerede har bygget,"
+    },
+    {
+      "start": 829.0,
+      "end": 831.0,
+      "text": " de mest profitabele e-mails, du allerede sender."
+    },
+    {
+      "start": 831.0,
+      "end": 834.0,
+      "text": " Det er no-brainer. Kæmpe anbefaling herfra."
+    },
+    {
+      "start": 838.0,
+      "end": 840.0,
+      "text": " Tusind tak, at vi ville lytte med til dagens episode."
+    }
+  ]
+}

@@ -1,0 +1,1316 @@
+{
+  "title": "Alle i AI taler om MCP'er - om 17 minutter kan du tale med",
+  "url": "https://www.youtube.com/watch?v=Tu9yUd9NJgY",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 1066.1,
+  "transcribed_at": "2026-04-17T06:03:21.546505+00:00",
+  "full_text": "Christian, du ville gerne have lavet den her episode om, hvad man skal gøre med ens annoncering i sommerferien. Og jeg sagde til dig, at det synes jeg godt nok er et kedeligt emne. Det passer ikke. Det er jo dig selv, der har sat annoncering på. Jeg nåede ikke engang at sige andet end sommerferien, og så begyndte du at sige, nej, nej, nej, det er kedeligt. Det kan jeg gerne lige have lov til, hvis jeg skal lave i sommerferien. Hvad synes du om dagens emne, MCPR? Er du lige så hyped, som jeg er for det her? Det håber jeg, at jeg kan blive. Jo, altså jeg er da hyped omkring det, men det synes jeg da også er kedeligt bare at sidde og snakke om. Så kan vi lige så godt lave en episode, som kan ikke roe os. Nå, okay. Jamen, så lad os gøre det. Nej, vi skal snakke om MCPR i dagens episode. MCP, det står for... Ja, hvad står det for, Tinju? Hvis jeg må være alt fræk. Øh, hvad MCP står for? Ja. Model Context Protocol. Og som du kan høre, så er det her heller ikke noget, Tinju har sat sig helt vildt meget ind i. Og det er et rigtig stort fordel, fordi så kan han få lov til at stille de samme spørgsmål, som dig, der lytter med, og heller ikke har sat dig ind i det her. Og hvis du ikke har det, det forstår jeg godt, fordi det er en relativt ny ting, og det handler om AI. Og det er mega spændende, fordi det har stor indflydelse på, hvordan vi kommer til at bruge værktøjer som ChatGPT og Claude i fremtiden. Så jeg tænker, lad mig prøve med at starte med at definere sådan lidt, hvad er en LLM? Altså for eksempel ChatGPT, i forhold til hvad en agent er, fordi det handler lidt om at tage skridtet i retning af AI-agenter. Så for dig, der ser med på Spotify med video eller YouTube, deler jeg lige et lille slide her, eller så forklarer jeg, hvad det er. Man kan sådan dele LLM'er og AI-agenter op på nogle forskellige måder. LLM, det står for Large Language Model, det er for eksempel ChatGPT, var den første store LLM. Claude er en LLM fra virksomheden Anthropic. Grok er en LLM fra Elon Musk. Gemini er en LLM fra Google, osv. Hvis man tager en LLM, så det en LLM kan, det er at generere tekst. Når du går ind i ChatGPT, så genererer den tekst til dig. Den kan også generere et billede, men det er hovedsagelig tekstgenerering. ChatGPT i sig selv, i de tidlige modeller i hvert fald, kan ikke rigtig tage nogle beslutninger. Det kan ikke rigtig integrere med andre ting. Det er sådan meget, at du prompter, og du får et svar, og så prompter du igen. Det typiske outcome er, at du får en tekst. Hvad er en AI-agent så? En AI-agent er, hvor du går ind og beder om at få løst en opgave, og så tager AI-agenten selv nogle beslutninger i forhold til, hvordan den vil løse den opgave. Den kan bruge andre værktøjer, søge på nettet, måske tilgå med API'er eller MCP'er, som vi kommer ind på lige om lidt. Den kan udføre opgaver for dig. Nu ved jeg, at du har arbejdet med ChatGPT. Du har også begyndt at bruge vores kinesiske venner fra Manus. Hvordan oplever du forskellen mellem dem, hvor ChatGPT er en LLM, og Manus er en general purpose AI-agent? Jeg vil sige, at den største forskel, og så meget simpelt forklaret, er, at man fx med ChatGPT virkelig skal være dygtig i sit prompt. Hvis ikke du er rigtig dygtig til at fortælle den præcis, hvad den skal og ikke skal, så opnår du ikke det ønskede resultat. Hvorimod, at med Manus, den er lidt mere tilforladelig, fordi den kan i gåsøjne tænke selv. Så jeg giver den resultat, jeg gerne vil frem til, og så er det sku egentlig op til den, hvordan den kommer frem til det her resultat. Og det må den egentlig lidt selv om, så længe den bare leverer det her resultat. Nu hvor vi har defineret det, så skal vi så snakke om, hvad er en MCP? MCP er faktisk noget, som Anthropic, dvs. dem, der laver chatbotten, klart har fundet på. De kom med det i slutningen af 2024. MCP står for Model Context Protocol, og det er en protokol på samme måde, som HTTPS er en protokol for internettet, som standardiserer, hvordan applikationer, dvs. eksterne værktøjer, giver kontekst til LLM'er. Så de siger, at man skal tænke på MCP'er som en USB-C port for AI-applikationer. Så ligesom USB-C, det giver sådan en standardiseret måde at forbinde ens enheder på, så du kan oplade din telefon og din computer og dit Playstation-controller med det samme stik, så skal MCP'er give en standardiseret måde at connecte AI-modeller til forskellige datakilder og værktøjer. Man kunne også lidt kalde det API'er for AI'er. Og, Tino, jeg ved, det første, man tænker her, det er, at du godt kunne bruge API'er i ChatGPT i forvejen. Problemet er, det var sådan pænt svært. Har du nogensinde gjort det? Nej, nej, det har jeg sgu ikke. Du kunne godt. Jeg har heller ikke gjort det. Det var mega bøvlede. Så skal du rent faktisk sidde og udvikle inde i ChatGPT og lave, altså det er sgu bøvlede. Så det gjorde man ikke, og det er jo det, der gør, at ChatGPT og Claude og Gemini og Grok og alle de andre er fortrinsvist blevet brugt til textgenerering. Det skal MCP'erne ændre på. Og MCP'erne, de er altså opfundet af Anthropic, men man har sådan lidt taget dem til sig i industrien nu. Så ChatGPT og OpenAI snakker også om MCP'er nu, og alle de store platform udvikler MCP'er eller API'er og connector, som du vil, til de forskellige LLM'er. Så det kan godt være, det er Anthropic, der har opfundet det her for et halvt år siden, men det her er ved at udvikle sig til de facto-standarden for, hvordan AI-værktøjer eller LLM'er og chatbots kommer til at connecte med resten af internettet. Fordi det har været sådan lidt et åbent spørgsmål. Det er fint nok, du har ChatGPT, men skal du virkelig sidde og kopiere alt ind for at give den kontekst, når den skal løse hver opgave, fordi så er du alligevel begrænset i din brugscenarier til ChatGPT, hvis den bliver ved med at være så dum og afgrænset, så at sige. Så hvis vi vidste godt, der ville være et problem, men hvordan sikrer vi, at vores AI-værktøjer har adgang til eksterne værktøjer og kan trække data og eventuelt lave ting i dem, det har vi ikke vidst. Det har vi nu et svar på. Industrien har sådan lidt som et samlet sagt, okay, Anthropic har opfundet MCP'er, det er ret fedt, det vil vi gerne arbejde med. Og det er jo super fedt, første trin, at vi er blevet enige om det. Så for at sætte det lidt i kontekst, jeg har jo en drøm om at kunne sidde og chatte med Google Ads data på en given konto og har forsøgt med forskellige, jeg ved så ikke om det er MCP'er eller hvad man skal kalde det, men forskellige omveje, og det har sku faktisk været lidt svært. Fordi at normalvis, hvis jeg virkelig skal have et godt resultat, så hiver jeg data ned og gerne af forskellige tidsperioder og lægger dem ned i en CSV-fil og uploader dem og stiller de spørgsmål, jeg nu engang gerne vil. Men drømmen er jo lidt at kunne gå direkte ind i et chatinterface og så sige, fortæl mig lige om X, Y, Z, hvor den automatisk er connectet ind til Google Ads og selv henter alle de her svar ud. Er det der, hvor MCP'en ligesom er limen ind til for eksempel Google Ads? Ja, Google Ads har ikke udviklet en dedikeret MCP-server endnu, men det kommer de helt sikkert til at gøre, og det her er et rigtig godt eksempel. Jeg bruger jo for eksempel Manus, vores kinesiske venner, bruger jeg meget til serviceanalyser lige nu, fordi jeg oplever, at den er enormt god til at tage et stort dataset, selv filtrere på det, indhende flere informationer ved at søge, gruppere og så give nogle ret brugbare analyser tilbage igen. Det er sådan en ret god use case for Manus for mig. Men jeg skal jo stadig selv lægge analysen ind, så hvis man skulle gøre det her nemmere, så vil jeg jo hellere gå ind i Manus og prompte. Jeg vil gerne trække en content gap-analyse på obsidian.dk vs. de her fire navngivende konkurrenter, og så få nogle strukturerede anbefalinger til, hvor jeg skal sætte ind og lave nye landingssider. Lige nu der skal jeg jo selv hente udtrækket fra Ahrefs. Okay, det er ikke en stor sgene, men skal du gøre det 100 gange om dagen, så begrænser det alligevel din brugscenarie. Og det er her, hvor MCP'erne rent faktisk skal gå ind og hjælpe dig med at gøre det her. Så lad os kigge på, hvordan ser det her ud i virkeligheden? Og det er faktisk ret simpelt. Så hvis man går ind på klort, og det er jo klort, c-l-a-u-d-e.ai, hvor det her er implementeret nu. Det bliver det også i ChatGPT, men er det ikke endnu. Hvis man har lyst til at prøve klort, så har de lige udgivet det, der hedder klort 4, som er deres helt nye model. Det koster 20 dollars om måneden, den er forfærdelig billig, og jeg bruger selv den her sammen med ChatGPT. Jeg bruger både ChatGPT, klort og Manus i en skøn kombination, fordi jeg oplever, at de er gode til hver deres ting. Måden det her virker på, det er når man er inde på klort, så kan man simpelthen sige connect apps. Når man siger connect apps, så har man mulighed for at connecte forskellige ting. Man kan for eksempel se her, at jeg har connectet Google Drive. Så jeg har simpelthen været inde, og det er jo bare at sige connect with Google, ligesom man er vant til, altså authorise og så logge ind på Google. Det har jeg været inde og gøre, og det betyder, at nu kan klort rent faktisk både søge mine dokumenter igennem og tage information ud fra dem og bruge det til at lave analyser, eller lave indhold, eller få kontekst, hvis jeg laver et prompt. Så det vil sige, at bare ved at connecte Google Drive, som er det jeg bruger primært, så er jeg gået fra at jeg skal uploade mine dokumenter i PDF-format til klort til, at nu kan jeg enten linke til dem, eller bare sige, find lige alle dokumenter der vedrører den her kunde, fordi nu skal jeg bruge dem til at lave en eller anden analyse. Og det lyder som en simpel ting, det her kunne vi faktisk ikke før. Det er faktisk en ret stor ting, at vi kan gøre det nu. Jeg kan se op øverst der, der er GitHub inden. Ja. Hvordan pokker fungerer det så, ved du det? Ja, så du kan simpelthen ligeledes connecte GitHub, og så kan du muligvis, man kan altså se på den enkelte connector, hvad den rent faktisk giver adgang til at gøre. Nu kan vi prøve at se her, fordi jeg har sådan et GitHub-konto. Okay, så får jeg lige en authentication code, der giver at vide, hvor den bliver sendt til. Nu er jeg jo ikke udvikler, Tino, så det ved du også godt, at GitHub vil være en lille smule udfordret på, så jeg ved faktisk ikke, hvor jeg får den her kode henne. Det kan jo blive til et andet tidspunkt. Men det er lidt det samme med, at den kan gå ind og se den kode, du har, og i nogle tilfælde faktisk overskrive, fordi hvis man tager Google Drive som eksempel, så kan den gå ind og indlæse data om, hvad der ligger derinde, og det er fint. Men Anthropic har allerede prebuilt en række MCPs. Så hvis man går ind på Anthropic's database, så kan vi se, at der ligger allerede nye MCPs, der er udviklet til for eksempel Cloudflare, Atlassian, som laver på en eller anden trello, Linear, PayPal, Square og Zapier. Hvis vi tager PayPal som eksempel, så kan man få Cloud til at lave fakturer i PayPal, men du prompter Cloud. Det er også en use case på det her nu. Det behøver ikke kun være, at du sidder og downloader data eller indlæser data for at få bedre svar. Det er derfor, vi startede den her episode med at sige, hvad er en AI-agent egentlig? Fordi en AI-agent går jo ind og udfører en opgave for dig, og hvis du nu bruger PayPal til at fakturere, og lige om lidt er der også integrationer til Stripe og alle mulige andre ting. Hvis du nu bruger PayPal til at fakturere, så kan du faktisk godt i dag, nu gå ind i Cloud, lige om lidt sikker chat kan betale, logge ind med PayPal, og så prompte den, jeg vil gerne sende Christian Tiniu en faktur på 5000 kroner for den her serveranalyse, og så bliver den oprettet i PayPal, selvom du sidder i Cloud. Okay, men nu spørger jeg så måske lidt dumt, men i dag kan det jo sådan set godt lade sig gøre, hvis du laver et AI-flow igennem, lad os sige, n8n eller make.com. Er det den proces, det at skulle ind og gøre det, det ligesom går ind og overtager? Jeg ved ikke lige, hvordan jeg skal stille spørgsmålet, jeg ved ikke, om det giver mening. Det er et godt spørgsmål, fordi du har ret i, at vi differentierer mellem to forskellige ting, hvor den ene det er AI-workflows, og den anden det er AI-agenter. Der er nogle similarities eller nogle overlappe mellem de to, så hvis man tager AI-workflows, det der er formålet med et AI-workflow, det er at lave en defineret start og en defineret slutning, og så følger du de samme trin hver eneste gang. Så et AI-workflow kunne for eksempel se sådan her ud, hvis man selv er på Spotify med video eller på YouTube. Her har vi et AI-workflow, der starter i et Google Spreadsheet og går over i ChatGPT, skriver en tekst, implementerer nogle SEO-guidelines, laver noget tone of voice, går ind og lægger den ind i et Google Docs-dokument, lægger den ind i et Spreadsheet, og til sidst publicerer på WordPress. Det her er et AI-workflow, hvor du har en defineret start, en defineret slutning, og nogle specifikke trin i midten. De her trin kan ikke fravises, så AI-workflow er først skridt 1, så 2, så 3, så 4, og så følger den hele vejen. En AI-agent er defineret ved, at du har et start, og du har noget, du gerne vil, men hvordan du kommer dig hen, det er lidt mere op til AI-agenten. Og du skal ikke altid bygge AI-agenter, fordi hvis du ved præcis, hvor du starter, hvor du slutter, og hvad der skal gøres i midten, så skal du bygge et AI-workflow, fordi AI-agenter øger dit udfaldsrum til begge sider. Det vil sige, det kan både blive bedre, men det kan også blive værre, fordi du lægger noget beslutningskraft over til en AI. Så hvis du ved præcis, hvor skal jeg starte, hvor skal jeg slutte, og hvad skal der ske i midten, så skal du ikke lave et AI-agent, så skal du lave et workflow. Men prøv at forestille dig, hvis du skal ind og fakturere engang imellem via PayPal, gider du så gå ind i N8n og definere et workflow, som kommer til at tage dig flere timer for noget, du bruger 5 minutter på engang imellem? Nej, og i den forbindelse forstår jeg det godt, men nu det flow, du viser her, der starter vi med et Google Sheets, hvorefter det bliver prompted, og så ender det i WordPress. Lad os nu sige, at den her MCP fra Klort, og nu siger jeg det måske forkert, men der kommer en MCP, der gør, at den kan connectes med WordPress direkte, fra Klort direkte til WordPress, og du giver Klort en, det bliver så en lang prompt, det ved jeg godt, men en prompt af en vis størrelse, hvor du ligesom styrer den i samme grad, som du gør i det her tilfælde, var det make.com, du havde brugt til at lave det her flow her. Hvad vil argumentet så være for at bruge make.com, som imodvæk er noget mere kompliceret, at skulle sidde og lægge de her steps ind, versus bare at køre det hele igennem. Klort, er det hallucinationer, som vi oplever lige nu, eller hvad er argumentet for ikke at bare gøre det på, direkte fra Klort? Argumentet, jeg tror også, at bruge din LLM, uanset om det er Klort eller ChatGPT, og forbinde den med dine værktøjer. Jeg tror, det er sådan, vi kommer til at gøre for rigtig mange ting i fremtiden. Argumentet for at lave et AI workflow, det er, hvis du har en opgave, der udføres igen og igen og igen, så får du også et mere præcist resultat fra gang til gang med et mindre udfaldsrum ved at definere det via et workflow. Så hvis det er en ting, du laver en, to eller tre gange, giver det ikke mening. Hvis du skal sidde og publicere 1000 tekster, så har du ikke brug for et stort udfaldsrum. Så har du brug for, at det følger et vest template, og du ved, hvad der kommer til at ske. Så jeg vil sige, jo højere frekvens du kommer til at lave tingene, jo bedre giver det mening at lave workflowet. Jeg stjæler faktisk nogle slides fra Anthropic på lige præcis det her emne, fordi det er også et spørgsmål, de bliver stillet. Det er, hvornår skal du egentlig bygge et workflow i forhold til, hvornår skal du rent faktisk bare sidde og bruge en AI-agent eller en general purpose AI-agent til det her. Og hvis man tager Anthropic's bud på det her spørgsmål, så siger de, hvis opgaven er super kompleks, så er det ikke et workflow, så er det en agent. Hvis opgaven er super værdifuld, altså hvis opgaven er mere end en dollar hver per gang, så kunne du godt tage par i retning af en agent. Hvis alle dele af opgaven kan gøres af en AI, så peger det også i den retning, og hvis prisen for at fejle er meget lav, så peger det også i retning af agenter. Og hvorfor meget lav, det er fordi du øger udfaldsrummet med agenter. Med agenter kommer du til at fejle mere, end du gør med workflows. Workflows tager bare meget lang tid at sætte op fra starten af, så du kan ikke sætte workflows op for ting du ikke laver mange gange, så giver det bedre mening at bruge en agent. Hvis en agent fejler, så laver du et nyt prompt, og så prøver du igen. Men det kan du ikke gøre, hvis du skal publicere 1000 tekster. Så kan du ikke sidde og prøve igen hver eneste gang. Så har du pludselig brug for agenten. Jeg vil sige, at medgiver er et meget interessant emne. Du har alligevel hævet op at have den her. Jeg tænker jo altid, at når du kommer med MCP, så tænker jeg, fuck man. Lad mig lige komme med en sidste ting til sidst. Jeg så et interessant interview med Sam Altman, som jo er en af dem, der har været så stiftet i OpenAI og er deres direktør og på mange måder manden bag ChatGPT. Jeg så en rigtig interessant artikel med ham, som jeg også tror, at vi to har snakket om for nytte. Hvor han siger, at der er meget stor forskel på, hvordan folk bruger eller lemmer, afhængig af, hvor gamle de er. Så det, han siger, er, at ældre mennesker bruger ChatGPT, ligesom de ville bruge Google. Så de skriver Google-søgninger ind i ChatGPT, og så skal de finde ud af det. Lidt yngre mennesker, mellem, det er sådan nogle som os, Tine, jo. Vi er ikke unge. Vi er heller ikke gamle endnu. Så vi er sådan mellemstaget. De bruger eller lemmer på en anden måde, hvor de snakker til dem. Så de skriver, at jeg vil gerne opnå det her, og man skriver til dem lidt mere, som man vil med en kollega. Det mest interessante, det var, at han sagde, at unge mennesker bruger ChatGPT som et operating system. De bruger det på en helt anden måde. Det er forankret i deres liv på en helt anden måde. Det er ikke sådan, at du bruger ChatGPT i stedet for at google. Han siger, at unge mennesker er dem, der finder på use cases med ChatGPT, som vi aldrig selv havde fundet ud af. De bruger det som et operating system. Så det, synes jeg, er mega interessant, hvordan forskellige folk bruger det på forskellige måder. Alt det her med MCPs, som gør, at ChatGPT og Cloud lige pludselig kan connecte med alle de tjenester, du sidder og arbejder med, det gør, at din CloudBot jo faktisk bliver dit operating system. Skal du sende en faktur, så skriv det ind i Cloud. Skal du lave en serviceanalyse, så be om den inde i Cloud. Skal du lave en ny tekst, så be om den inde i Cloud. Skal du publicere den her tekst, du nu har lavet, og korrektureret sammen med Cloud, og nu er du glad for den. I dag skal du kopiere den ud og lægge den ind i WordPress og selv publicere den. Det er dumt. Der er en MCP til WordPress, og så får du publiceret den via Cloud. Så du går fra, at ChatGPT og Cloud og Grog og Gemini osv. bliver en ting, du har åbent på en fane, og så sidder du og laver specifikke opgaver i det, som du herefter kopierer ind i det værktøj, du i virkeligheden arbejder med, til at Cloud bliver værktøjet, du arbejder med. Kan du se det for dig? Ja, det kan jeg faktisk godt. Og når man så samtidig tænker på, apropos det her med workflows, altså når man så har brug for et workflow, så forklarer du det til Cloud, og så laver den workflowet for dig, som du så bagefter kan upload. Hooah, exciting times! Det er exciting times. Jeg vil sige, vi ved, ChatGPT 3, som kom i november 2022, det var en af de første store ting, der kom med AI. En af de næste store ting, der i min optik kom med AI, det var de første reasoning modeller. Så det var sådan O1 fra ChatGPT, eller DeepSeek R1, som var meget billigere. Så kom den næste store ting, som var sådan General Purpose AI-agenter, som var for eksempel Manus, og til deles også O3 og Cloud 4. Den næste store ting, der kommer til at ske i AI, som er ved at ske lige nu, det er MCPs, hvor din LLM, den begynder at integrere med dine andre værktøjer, og LLM'en i stigende grad bliver operativsystemet, og derigennem, hvor du arbejder, i stedet for at være noget, du sidder og kopierer tekst til, eller ind imellem, men du i virkeligheden afslutter et andet sted. Altså, ChatGPT bliver dit operating system. Megaspændende, det her er noget, vi kommer til at snakke mere om i flere episoder, men hvis du står ved kaffemaskinen på arbejde i morgen, og der er nogen, der siger, har du hørt, hvad er de der MCPs, så kan du rent faktisk svare på det nu. Det er USB-C for AI-værktøjer, der skal kunne forbinde med alle dine tjenester, indlæse data, outputte, rent faktisk udføre de handlinger, som du gør i dag, hvor du bliver i ChatGPT, eller Cloud, og bruger det som dit operating system. Tusind tak, fordi du lyttede med os i dagens episode.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 8.4,
+      "text": " Christian, du ville gerne have lavet den her episode om, hvad man skal gøre med ens annoncering i sommerferien."
+    },
+    {
+      "start": 8.4,
+      "end": 11.0,
+      "text": " Og jeg sagde til dig, at det synes jeg godt nok er et kedeligt emne."
+    },
+    {
+      "start": 11.0,
+      "end": 16.2,
+      "text": " Det passer ikke. Det er jo dig selv, der har sat annoncering på. Jeg nåede ikke engang at sige andet end sommerferien, og så begyndte du at sige, nej, nej, nej, det er kedeligt."
+    },
+    {
+      "start": 16.2,
+      "end": 18.2,
+      "text": " Det kan jeg gerne lige have lov til, hvis jeg skal lave i sommerferien."
+    },
+    {
+      "start": 18.2,
+      "end": 22.8,
+      "text": " Hvad synes du om dagens emne, MCPR? Er du lige så hyped, som jeg er for det her?"
+    },
+    {
+      "start": 22.8,
+      "end": 27.6,
+      "text": " Det håber jeg, at jeg kan blive. Jo, altså jeg er da hyped omkring det, men det synes jeg da også er kedeligt bare at sidde og snakke om."
+    },
+    {
+      "start": 27.6,
+      "end": 29.6,
+      "text": " Så kan vi lige så godt lave en episode, som kan ikke roe os."
+    },
+    {
+      "start": 29.6,
+      "end": 31.6,
+      "text": " Nå, okay."
+    },
+    {
+      "start": 31.6,
+      "end": 36.2,
+      "text": " Jamen, så lad os gøre det. Nej, vi skal snakke om MCPR i dagens episode."
+    },
+    {
+      "start": 36.2,
+      "end": 41.0,
+      "text": " MCP, det står for... Ja, hvad står det for, Tinju? Hvis jeg må være alt fræk."
+    },
+    {
+      "start": 41.0,
+      "end": 43.0,
+      "text": " Øh, hvad MCP står for?"
+    },
+    {
+      "start": 43.0,
+      "end": 49.2,
+      "text": " Ja. Model Context Protocol. Og som du kan høre, så er det her heller ikke noget, Tinju har sat sig helt vildt meget ind i."
+    },
+    {
+      "start": 49.2,
+      "end": 54.8,
+      "text": " Og det er et rigtig stort fordel, fordi så kan han få lov til at stille de samme spørgsmål, som dig, der lytter med, og heller ikke har sat dig ind i det her."
+    },
+    {
+      "start": 54.8,
+      "end": 59.8,
+      "text": " Og hvis du ikke har det, det forstår jeg godt, fordi det er en relativt ny ting, og det handler om AI."
+    },
+    {
+      "start": 59.8,
+      "end": 66.8,
+      "text": " Og det er mega spændende, fordi det har stor indflydelse på, hvordan vi kommer til at bruge værktøjer som ChatGPT og Claude i fremtiden."
+    },
+    {
+      "start": 66.8,
+      "end": 71.8,
+      "text": " Så jeg tænker, lad mig prøve med at starte med at definere sådan lidt, hvad er en LLM?"
+    },
+    {
+      "start": 71.8,
+      "end": 77.8,
+      "text": " Altså for eksempel ChatGPT, i forhold til hvad en agent er, fordi det handler lidt om at tage skridtet i retning af AI-agenter."
+    },
+    {
+      "start": 77.8,
+      "end": 83.8,
+      "text": " Så for dig, der ser med på Spotify med video eller YouTube, deler jeg lige et lille slide her, eller så forklarer jeg, hvad det er."
+    },
+    {
+      "start": 83.8,
+      "end": 87.8,
+      "text": " Man kan sådan dele LLM'er og AI-agenter op på nogle forskellige måder."
+    },
+    {
+      "start": 87.8,
+      "end": 93.8,
+      "text": " LLM, det står for Large Language Model, det er for eksempel ChatGPT, var den første store LLM."
+    },
+    {
+      "start": 93.8,
+      "end": 96.8,
+      "text": " Claude er en LLM fra virksomheden Anthropic."
+    },
+    {
+      "start": 96.8,
+      "end": 98.8,
+      "text": " Grok er en LLM fra Elon Musk."
+    },
+    {
+      "start": 98.8,
+      "end": 101.8,
+      "text": " Gemini er en LLM fra Google, osv."
+    },
+    {
+      "start": 101.8,
+      "end": 105.8,
+      "text": " Hvis man tager en LLM, så det en LLM kan, det er at generere tekst."
+    },
+    {
+      "start": 105.8,
+      "end": 108.8,
+      "text": " Når du går ind i ChatGPT, så genererer den tekst til dig."
+    },
+    {
+      "start": 108.8,
+      "end": 112.8,
+      "text": " Den kan også generere et billede, men det er hovedsagelig tekstgenerering."
+    },
+    {
+      "start": 112.8,
+      "end": 116.8,
+      "text": " ChatGPT i sig selv, i de tidlige modeller i hvert fald, kan ikke rigtig tage nogle beslutninger."
+    },
+    {
+      "start": 116.8,
+      "end": 118.8,
+      "text": " Det kan ikke rigtig integrere med andre ting."
+    },
+    {
+      "start": 118.8,
+      "end": 121.8,
+      "text": " Det er sådan meget, at du prompter, og du får et svar, og så prompter du igen."
+    },
+    {
+      "start": 121.8,
+      "end": 124.8,
+      "text": " Det typiske outcome er, at du får en tekst."
+    },
+    {
+      "start": 124.8,
+      "end": 126.8,
+      "text": " Hvad er en AI-agent så?"
+    },
+    {
+      "start": 126.8,
+      "end": 135.8,
+      "text": " En AI-agent er, hvor du går ind og beder om at få løst en opgave, og så tager AI-agenten selv nogle beslutninger i forhold til, hvordan den vil løse den opgave."
+    },
+    {
+      "start": 135.8,
+      "end": 141.8,
+      "text": " Den kan bruge andre værktøjer, søge på nettet, måske tilgå med API'er eller MCP'er, som vi kommer ind på lige om lidt."
+    },
+    {
+      "start": 141.8,
+      "end": 143.8,
+      "text": " Den kan udføre opgaver for dig."
+    },
+    {
+      "start": 143.8,
+      "end": 149.8,
+      "text": " Nu ved jeg, at du har arbejdet med ChatGPT. Du har også begyndt at bruge vores kinesiske venner fra Manus."
+    },
+    {
+      "start": 149.8,
+      "end": 155.8,
+      "text": " Hvordan oplever du forskellen mellem dem, hvor ChatGPT er en LLM, og Manus er en general purpose AI-agent?"
+    },
+    {
+      "start": 155.8,
+      "end": 162.8,
+      "text": " Jeg vil sige, at den største forskel, og så meget simpelt forklaret, er, at man fx med ChatGPT virkelig skal være dygtig i sit prompt."
+    },
+    {
+      "start": 162.8,
+      "end": 169.8,
+      "text": " Hvis ikke du er rigtig dygtig til at fortælle den præcis, hvad den skal og ikke skal, så opnår du ikke det ønskede resultat."
+    },
+    {
+      "start": 169.8,
+      "end": 174.8,
+      "text": " Hvorimod, at med Manus, den er lidt mere tilforladelig, fordi den kan i gåsøjne tænke selv."
+    },
+    {
+      "start": 174.8,
+      "end": 180.8,
+      "text": " Så jeg giver den resultat, jeg gerne vil frem til, og så er det sku egentlig op til den, hvordan den kommer frem til det her resultat."
+    },
+    {
+      "start": 180.8,
+      "end": 182.8,
+      "text": " Og det må den egentlig lidt selv om, så længe den bare leverer det her resultat."
+    },
+    {
+      "start": 182.8,
+      "end": 185.8,
+      "text": " Nu hvor vi har defineret det, så skal vi så snakke om, hvad er en MCP?"
+    },
+    {
+      "start": 185.8,
+      "end": 191.8,
+      "text": " MCP er faktisk noget, som Anthropic, dvs. dem, der laver chatbotten, klart har fundet på."
+    },
+    {
+      "start": 191.8,
+      "end": 193.8,
+      "text": " De kom med det i slutningen af 2024."
+    },
+    {
+      "start": 193.8,
+      "end": 201.8,
+      "text": " MCP står for Model Context Protocol, og det er en protokol på samme måde, som HTTPS er en protokol for internettet,"
+    },
+    {
+      "start": 201.8,
+      "end": 207.8,
+      "text": " som standardiserer, hvordan applikationer, dvs. eksterne værktøjer, giver kontekst til LLM'er."
+    },
+    {
+      "start": 207.8,
+      "end": 211.8,
+      "text": " Så de siger, at man skal tænke på MCP'er som en USB-C port for AI-applikationer."
+    },
+    {
+      "start": 211.8,
+      "end": 215.8,
+      "text": " Så ligesom USB-C, det giver sådan en standardiseret måde at forbinde ens enheder på,"
+    },
+    {
+      "start": 215.8,
+      "end": 219.8,
+      "text": " så du kan oplade din telefon og din computer og dit Playstation-controller med det samme stik,"
+    },
+    {
+      "start": 219.8,
+      "end": 225.8,
+      "text": " så skal MCP'er give en standardiseret måde at connecte AI-modeller til forskellige datakilder og værktøjer."
+    },
+    {
+      "start": 225.8,
+      "end": 229.8,
+      "text": " Man kunne også lidt kalde det API'er for AI'er."
+    },
+    {
+      "start": 229.8,
+      "end": 235.8,
+      "text": " Og, Tino, jeg ved, det første, man tænker her, det er, at du godt kunne bruge API'er i ChatGPT i forvejen."
+    },
+    {
+      "start": 235.8,
+      "end": 239.8,
+      "text": " Problemet er, det var sådan pænt svært. Har du nogensinde gjort det?"
+    },
+    {
+      "start": 239.8,
+      "end": 240.8,
+      "text": " Nej, nej, det har jeg sgu ikke."
+    },
+    {
+      "start": 240.8,
+      "end": 243.8,
+      "text": " Du kunne godt. Jeg har heller ikke gjort det. Det var mega bøvlede."
+    },
+    {
+      "start": 243.8,
+      "end": 247.8,
+      "text": " Så skal du rent faktisk sidde og udvikle inde i ChatGPT og lave, altså det er sgu bøvlede."
+    },
+    {
+      "start": 247.8,
+      "end": 252.8,
+      "text": " Så det gjorde man ikke, og det er jo det, der gør, at ChatGPT og Claude og Gemini og Grok og alle de andre"
+    },
+    {
+      "start": 252.8,
+      "end": 256.8,
+      "text": " er fortrinsvist blevet brugt til textgenerering."
+    },
+    {
+      "start": 256.8,
+      "end": 258.8,
+      "text": " Det skal MCP'erne ændre på."
+    },
+    {
+      "start": 258.8,
+      "end": 264.8,
+      "text": " Og MCP'erne, de er altså opfundet af Anthropic, men man har sådan lidt taget dem til sig i industrien nu."
+    },
+    {
+      "start": 264.8,
+      "end": 267.8,
+      "text": " Så ChatGPT og OpenAI snakker også om MCP'er nu,"
+    },
+    {
+      "start": 267.8,
+      "end": 272.8,
+      "text": " og alle de store platform udvikler MCP'er eller API'er og connector, som du vil, til de forskellige LLM'er."
+    },
+    {
+      "start": 272.8,
+      "end": 275.8,
+      "text": " Så det kan godt være, det er Anthropic, der har opfundet det her for et halvt år siden,"
+    },
+    {
+      "start": 275.8,
+      "end": 281.8,
+      "text": " men det her er ved at udvikle sig til de facto-standarden for, hvordan AI-værktøjer eller LLM'er og chatbots"
+    },
+    {
+      "start": 281.8,
+      "end": 283.8,
+      "text": " kommer til at connecte med resten af internettet."
+    },
+    {
+      "start": 283.8,
+      "end": 285.8,
+      "text": " Fordi det har været sådan lidt et åbent spørgsmål."
+    },
+    {
+      "start": 285.8,
+      "end": 289.8,
+      "text": " Det er fint nok, du har ChatGPT, men skal du virkelig sidde og kopiere alt ind for at give den kontekst,"
+    },
+    {
+      "start": 289.8,
+      "end": 294.8,
+      "text": " når den skal løse hver opgave, fordi så er du alligevel begrænset i din brugscenarier til ChatGPT,"
+    },
+    {
+      "start": 294.8,
+      "end": 297.8,
+      "text": " hvis den bliver ved med at være så dum og afgrænset, så at sige."
+    },
+    {
+      "start": 297.8,
+      "end": 299.8,
+      "text": " Så hvis vi vidste godt, der ville være et problem,"
+    },
+    {
+      "start": 299.8,
+      "end": 304.8,
+      "text": " men hvordan sikrer vi, at vores AI-værktøjer har adgang til eksterne værktøjer og kan trække data og eventuelt lave ting i dem,"
+    },
+    {
+      "start": 304.8,
+      "end": 305.8,
+      "text": " det har vi ikke vidst."
+    },
+    {
+      "start": 305.8,
+      "end": 308.8,
+      "text": " Det har vi nu et svar på. Industrien har sådan lidt som et samlet sagt,"
+    },
+    {
+      "start": 308.8,
+      "end": 314.8,
+      "text": " okay, Anthropic har opfundet MCP'er, det er ret fedt, det vil vi gerne arbejde med."
+    },
+    {
+      "start": 314.8,
+      "end": 316.8,
+      "text": " Og det er jo super fedt, første trin, at vi er blevet enige om det."
+    },
+    {
+      "start": 316.8,
+      "end": 319.8,
+      "text": " Så for at sætte det lidt i kontekst,"
+    },
+    {
+      "start": 319.8,
+      "end": 323.8,
+      "text": " jeg har jo en drøm om at kunne sidde og chatte med Google Ads data på en given konto"
+    },
+    {
+      "start": 323.8,
+      "end": 327.8,
+      "text": " og har forsøgt med forskellige, jeg ved så ikke om det er MCP'er eller hvad man skal kalde det,"
+    },
+    {
+      "start": 327.8,
+      "end": 330.8,
+      "text": " men forskellige omveje, og det har sku faktisk været lidt svært."
+    },
+    {
+      "start": 330.8,
+      "end": 333.8,
+      "text": " Fordi at normalvis, hvis jeg virkelig skal have et godt resultat,"
+    },
+    {
+      "start": 333.8,
+      "end": 338.8,
+      "text": " så hiver jeg data ned og gerne af forskellige tidsperioder og lægger dem ned i en CSV-fil og uploader dem"
+    },
+    {
+      "start": 338.8,
+      "end": 340.8,
+      "text": " og stiller de spørgsmål, jeg nu engang gerne vil."
+    },
+    {
+      "start": 340.8,
+      "end": 343.8,
+      "text": " Men drømmen er jo lidt at kunne gå direkte ind i et chatinterface og så sige,"
+    },
+    {
+      "start": 343.8,
+      "end": 350.8,
+      "text": " fortæl mig lige om X, Y, Z, hvor den automatisk er connectet ind til Google Ads og selv henter alle de her svar ud."
+    },
+    {
+      "start": 350.8,
+      "end": 354.8,
+      "text": " Er det der, hvor MCP'en ligesom er limen ind til for eksempel Google Ads?"
+    },
+    {
+      "start": 354.8,
+      "end": 359.8,
+      "text": " Ja, Google Ads har ikke udviklet en dedikeret MCP-server endnu, men det kommer de helt sikkert til at gøre,"
+    },
+    {
+      "start": 359.8,
+      "end": 360.8,
+      "text": " og det her er et rigtig godt eksempel."
+    },
+    {
+      "start": 360.8,
+      "end": 366.8,
+      "text": " Jeg bruger jo for eksempel Manus, vores kinesiske venner, bruger jeg meget til serviceanalyser lige nu,"
+    },
+    {
+      "start": 366.8,
+      "end": 370.8,
+      "text": " fordi jeg oplever, at den er enormt god til at tage et stort dataset, selv filtrere på det,"
+    },
+    {
+      "start": 370.8,
+      "end": 374.8,
+      "text": " indhende flere informationer ved at søge, gruppere og så give nogle ret brugbare analyser tilbage igen."
+    },
+    {
+      "start": 374.8,
+      "end": 376.8,
+      "text": " Det er sådan en ret god use case for Manus for mig."
+    },
+    {
+      "start": 376.8,
+      "end": 381.8,
+      "text": " Men jeg skal jo stadig selv lægge analysen ind, så hvis man skulle gøre det her nemmere,"
+    },
+    {
+      "start": 381.8,
+      "end": 383.8,
+      "text": " så vil jeg jo hellere gå ind i Manus og prompte."
+    },
+    {
+      "start": 383.8,
+      "end": 389.8,
+      "text": " Jeg vil gerne trække en content gap-analyse på obsidian.dk vs. de her fire navngivende konkurrenter,"
+    },
+    {
+      "start": 389.8,
+      "end": 392.8,
+      "text": " og så få nogle strukturerede anbefalinger til, hvor jeg skal sætte ind og lave nye landingssider."
+    },
+    {
+      "start": 392.8,
+      "end": 395.8,
+      "text": " Lige nu der skal jeg jo selv hente udtrækket fra Ahrefs."
+    },
+    {
+      "start": 395.8,
+      "end": 401.8,
+      "text": " Okay, det er ikke en stor sgene, men skal du gøre det 100 gange om dagen, så begrænser det alligevel din brugscenarie."
+    },
+    {
+      "start": 401.8,
+      "end": 404.8,
+      "text": " Og det er her, hvor MCP'erne rent faktisk skal gå ind og hjælpe dig med at gøre det her."
+    },
+    {
+      "start": 404.8,
+      "end": 407.8,
+      "text": " Så lad os kigge på, hvordan ser det her ud i virkeligheden?"
+    },
+    {
+      "start": 407.8,
+      "end": 415.8,
+      "text": " Og det er faktisk ret simpelt. Så hvis man går ind på klort, og det er jo klort, c-l-a-u-d-e.ai,"
+    },
+    {
+      "start": 415.8,
+      "end": 419.8,
+      "text": " hvor det her er implementeret nu. Det bliver det også i ChatGPT, men er det ikke endnu."
+    },
+    {
+      "start": 419.8,
+      "end": 423.8,
+      "text": " Hvis man har lyst til at prøve klort, så har de lige udgivet det, der hedder klort 4,"
+    },
+    {
+      "start": 423.8,
+      "end": 427.8,
+      "text": " som er deres helt nye model. Det koster 20 dollars om måneden, den er forfærdelig billig,"
+    },
+    {
+      "start": 427.8,
+      "end": 432.8,
+      "text": " og jeg bruger selv den her sammen med ChatGPT. Jeg bruger både ChatGPT, klort og Manus i en skøn kombination,"
+    },
+    {
+      "start": 432.8,
+      "end": 434.8,
+      "text": " fordi jeg oplever, at de er gode til hver deres ting."
+    },
+    {
+      "start": 434.8,
+      "end": 439.8,
+      "text": " Måden det her virker på, det er når man er inde på klort, så kan man simpelthen sige connect apps."
+    },
+    {
+      "start": 439.8,
+      "end": 442.8,
+      "text": " Når man siger connect apps, så har man mulighed for at connecte forskellige ting."
+    },
+    {
+      "start": 442.8,
+      "end": 445.8,
+      "text": " Man kan for eksempel se her, at jeg har connectet Google Drive."
+    },
+    {
+      "start": 445.8,
+      "end": 448.8,
+      "text": " Så jeg har simpelthen været inde, og det er jo bare at sige connect with Google,"
+    },
+    {
+      "start": 448.8,
+      "end": 451.8,
+      "text": " ligesom man er vant til, altså authorise og så logge ind på Google."
+    },
+    {
+      "start": 451.8,
+      "end": 458.8,
+      "text": " Det har jeg været inde og gøre, og det betyder, at nu kan klort rent faktisk både søge mine dokumenter igennem"
+    },
+    {
+      "start": 458.8,
+      "end": 463.8,
+      "text": " og tage information ud fra dem og bruge det til at lave analyser, eller lave indhold,"
+    },
+    {
+      "start": 463.8,
+      "end": 466.8,
+      "text": " eller få kontekst, hvis jeg laver et prompt."
+    },
+    {
+      "start": 466.8,
+      "end": 470.8,
+      "text": " Så det vil sige, at bare ved at connecte Google Drive, som er det jeg bruger primært,"
+    },
+    {
+      "start": 470.8,
+      "end": 475.8,
+      "text": " så er jeg gået fra at jeg skal uploade mine dokumenter i PDF-format til klort til,"
+    },
+    {
+      "start": 475.8,
+      "end": 479.8,
+      "text": " at nu kan jeg enten linke til dem, eller bare sige, find lige alle dokumenter der vedrører den her kunde,"
+    },
+    {
+      "start": 479.8,
+      "end": 482.8,
+      "text": " fordi nu skal jeg bruge dem til at lave en eller anden analyse."
+    },
+    {
+      "start": 482.8,
+      "end": 485.8,
+      "text": " Og det lyder som en simpel ting, det her kunne vi faktisk ikke før."
+    },
+    {
+      "start": 485.8,
+      "end": 487.8,
+      "text": " Det er faktisk en ret stor ting, at vi kan gøre det nu."
+    },
+    {
+      "start": 487.8,
+      "end": 490.8,
+      "text": " Jeg kan se op øverst der, der er GitHub inden."
+    },
+    {
+      "start": 490.8,
+      "end": 491.8,
+      "text": " Ja."
+    },
+    {
+      "start": 491.8,
+      "end": 494.8,
+      "text": " Hvordan pokker fungerer det så, ved du det?"
+    },
+    {
+      "start": 494.8,
+      "end": 498.8,
+      "text": " Ja, så du kan simpelthen ligeledes connecte GitHub, og så kan du muligvis,"
+    },
+    {
+      "start": 498.8,
+      "end": 501.8,
+      "text": " man kan altså se på den enkelte connector, hvad den rent faktisk giver adgang til at gøre."
+    },
+    {
+      "start": 501.8,
+      "end": 503.8,
+      "text": " Nu kan vi prøve at se her, fordi jeg har sådan et GitHub-konto."
+    },
+    {
+      "start": 503.8,
+      "end": 508.8,
+      "text": " Okay, så får jeg lige en authentication code, der giver at vide, hvor den bliver sendt til."
+    },
+    {
+      "start": 508.8,
+      "end": 513.8,
+      "text": " Nu er jeg jo ikke udvikler, Tino, så det ved du også godt, at GitHub vil være en lille smule udfordret på,"
+    },
+    {
+      "start": 513.8,
+      "end": 515.8,
+      "text": " så jeg ved faktisk ikke, hvor jeg får den her kode henne."
+    },
+    {
+      "start": 515.8,
+      "end": 516.8,
+      "text": " Det kan jo blive til et andet tidspunkt."
+    },
+    {
+      "start": 516.8,
+      "end": 518.8,
+      "text": " Men det er lidt det samme med, at den kan gå ind og se den kode, du har,"
+    },
+    {
+      "start": 518.8,
+      "end": 523.8,
+      "text": " og i nogle tilfælde faktisk overskrive, fordi hvis man tager Google Drive som eksempel,"
+    },
+    {
+      "start": 523.8,
+      "end": 527.8,
+      "text": " så kan den gå ind og indlæse data om, hvad der ligger derinde, og det er fint."
+    },
+    {
+      "start": 527.8,
+      "end": 531.8,
+      "text": " Men Anthropic har allerede prebuilt en række MCPs."
+    },
+    {
+      "start": 531.8,
+      "end": 535.8,
+      "text": " Så hvis man går ind på Anthropic's database, så kan vi se, at der ligger allerede nye MCPs,"
+    },
+    {
+      "start": 535.8,
+      "end": 539.8,
+      "text": " der er udviklet til for eksempel Cloudflare, Atlassian, som laver på en eller anden trello,"
+    },
+    {
+      "start": 539.8,
+      "end": 542.8,
+      "text": " Linear, PayPal, Square og Zapier."
+    },
+    {
+      "start": 542.8,
+      "end": 549.8,
+      "text": " Hvis vi tager PayPal som eksempel, så kan man få Cloud til at lave fakturer i PayPal,"
+    },
+    {
+      "start": 549.8,
+      "end": 550.8,
+      "text": " men du prompter Cloud."
+    },
+    {
+      "start": 550.8,
+      "end": 551.8,
+      "text": " Det er også en use case på det her nu."
+    },
+    {
+      "start": 551.8,
+      "end": 557.8,
+      "text": " Det behøver ikke kun være, at du sidder og downloader data eller indlæser data for at få bedre svar."
+    },
+    {
+      "start": 557.8,
+      "end": 561.8,
+      "text": " Det er derfor, vi startede den her episode med at sige, hvad er en AI-agent egentlig?"
+    },
+    {
+      "start": 561.8,
+      "end": 564.8,
+      "text": " Fordi en AI-agent går jo ind og udfører en opgave for dig,"
+    },
+    {
+      "start": 564.8,
+      "end": 568.8,
+      "text": " og hvis du nu bruger PayPal til at fakturere, og lige om lidt er der også integrationer til Stripe"
+    },
+    {
+      "start": 568.8,
+      "end": 570.8,
+      "text": " og alle mulige andre ting."
+    },
+    {
+      "start": 570.8,
+      "end": 575.8,
+      "text": " Hvis du nu bruger PayPal til at fakturere, så kan du faktisk godt i dag, nu gå ind i Cloud,"
+    },
+    {
+      "start": 575.8,
+      "end": 580.8,
+      "text": " lige om lidt sikker chat kan betale, logge ind med PayPal, og så prompte den,"
+    },
+    {
+      "start": 580.8,
+      "end": 584.8,
+      "text": " jeg vil gerne sende Christian Tiniu en faktur på 5000 kroner for den her serveranalyse,"
+    },
+    {
+      "start": 584.8,
+      "end": 587.8,
+      "text": " og så bliver den oprettet i PayPal, selvom du sidder i Cloud."
+    },
+    {
+      "start": 587.8,
+      "end": 592.8,
+      "text": " Okay, men nu spørger jeg så måske lidt dumt, men i dag kan det jo sådan set godt lade sig gøre,"
+    },
+    {
+      "start": 592.8,
+      "end": 597.8,
+      "text": " hvis du laver et AI-flow igennem, lad os sige, n8n eller make.com."
+    },
+    {
+      "start": 597.8,
+      "end": 603.8,
+      "text": " Er det den proces, det at skulle ind og gøre det, det ligesom går ind og overtager?"
+    },
+    {
+      "start": 603.8,
+      "end": 606.8,
+      "text": " Jeg ved ikke lige, hvordan jeg skal stille spørgsmålet, jeg ved ikke, om det giver mening."
+    },
+    {
+      "start": 606.8,
+      "end": 609.8,
+      "text": " Det er et godt spørgsmål, fordi du har ret i, at vi differentierer mellem to forskellige ting,"
+    },
+    {
+      "start": 609.8,
+      "end": 613.8,
+      "text": " hvor den ene det er AI-workflows, og den anden det er AI-agenter."
+    },
+    {
+      "start": 613.8,
+      "end": 620.8,
+      "text": " Der er nogle similarities eller nogle overlappe mellem de to, så hvis man tager AI-workflows,"
+    },
+    {
+      "start": 620.8,
+      "end": 625.8,
+      "text": " det der er formålet med et AI-workflow, det er at lave en defineret start og en defineret slutning,"
+    },
+    {
+      "start": 625.8,
+      "end": 628.8,
+      "text": " og så følger du de samme trin hver eneste gang."
+    },
+    {
+      "start": 628.8,
+      "end": 635.8,
+      "text": " Så et AI-workflow kunne for eksempel se sådan her ud, hvis man selv er på Spotify med video eller på YouTube."
+    },
+    {
+      "start": 635.8,
+      "end": 640.8,
+      "text": " Her har vi et AI-workflow, der starter i et Google Spreadsheet og går over i ChatGPT,"
+    },
+    {
+      "start": 640.8,
+      "end": 644.8,
+      "text": " skriver en tekst, implementerer nogle SEO-guidelines, laver noget tone of voice,"
+    },
+    {
+      "start": 644.8,
+      "end": 647.8,
+      "text": " går ind og lægger den ind i et Google Docs-dokument, lægger den ind i et Spreadsheet,"
+    },
+    {
+      "start": 647.8,
+      "end": 648.8,
+      "text": " og til sidst publicerer på WordPress."
+    },
+    {
+      "start": 648.8,
+      "end": 652.8,
+      "text": " Det her er et AI-workflow, hvor du har en defineret start, en defineret slutning,"
+    },
+    {
+      "start": 652.8,
+      "end": 653.8,
+      "text": " og nogle specifikke trin i midten."
+    },
+    {
+      "start": 653.8,
+      "end": 660.8,
+      "text": " De her trin kan ikke fravises, så AI-workflow er først skridt 1, så 2, så 3, så 4, og så følger den hele vejen."
+    },
+    {
+      "start": 660.8,
+      "end": 664.8,
+      "text": " En AI-agent er defineret ved, at du har et start, og du har noget, du gerne vil,"
+    },
+    {
+      "start": 664.8,
+      "end": 668.8,
+      "text": " men hvordan du kommer dig hen, det er lidt mere op til AI-agenten."
+    },
+    {
+      "start": 668.8,
+      "end": 672.8,
+      "text": " Og du skal ikke altid bygge AI-agenter, fordi hvis du ved præcis, hvor du starter, hvor du slutter,"
+    },
+    {
+      "start": 672.8,
+      "end": 674.8,
+      "text": " og hvad der skal gøres i midten, så skal du bygge et AI-workflow,"
+    },
+    {
+      "start": 674.8,
+      "end": 677.8,
+      "text": " fordi AI-agenter øger dit udfaldsrum til begge sider."
+    },
+    {
+      "start": 677.8,
+      "end": 679.8,
+      "text": " Det vil sige, det kan både blive bedre, men det kan også blive værre,"
+    },
+    {
+      "start": 679.8,
+      "end": 681.8,
+      "text": " fordi du lægger noget beslutningskraft over til en AI."
+    },
+    {
+      "start": 681.8,
+      "end": 684.8,
+      "text": " Så hvis du ved præcis, hvor skal jeg starte, hvor skal jeg slutte, og hvad skal der ske i midten,"
+    },
+    {
+      "start": 684.8,
+      "end": 687.8,
+      "text": " så skal du ikke lave et AI-agent, så skal du lave et workflow."
+    },
+    {
+      "start": 687.8,
+      "end": 690.8,
+      "text": " Men prøv at forestille dig, hvis du skal ind og fakturere engang imellem via PayPal,"
+    },
+    {
+      "start": 690.8,
+      "end": 694.8,
+      "text": " gider du så gå ind i N8n og definere et workflow, som kommer til at tage dig flere timer"
+    },
+    {
+      "start": 694.8,
+      "end": 696.8,
+      "text": " for noget, du bruger 5 minutter på engang imellem?"
+    },
+    {
+      "start": 696.8,
+      "end": 701.8,
+      "text": " Nej, og i den forbindelse forstår jeg det godt, men nu det flow, du viser her,"
+    },
+    {
+      "start": 701.8,
+      "end": 707.8,
+      "text": " der starter vi med et Google Sheets, hvorefter det bliver prompted, og så ender det i WordPress."
+    },
+    {
+      "start": 707.8,
+      "end": 712.8,
+      "text": " Lad os nu sige, at den her MCP fra Klort, og nu siger jeg det måske forkert,"
+    },
+    {
+      "start": 712.8,
+      "end": 716.8,
+      "text": " men der kommer en MCP, der gør, at den kan connectes med WordPress direkte,"
+    },
+    {
+      "start": 716.8,
+      "end": 720.8,
+      "text": " fra Klort direkte til WordPress, og du giver Klort en, det bliver så en lang prompt,"
+    },
+    {
+      "start": 720.8,
+      "end": 723.8,
+      "text": " det ved jeg godt, men en prompt af en vis størrelse, hvor du ligesom styrer den"
+    },
+    {
+      "start": 723.8,
+      "end": 728.8,
+      "text": " i samme grad, som du gør i det her tilfælde, var det make.com, du havde brugt til at lave det her flow her."
+    },
+    {
+      "start": 728.8,
+      "end": 733.8,
+      "text": " Hvad vil argumentet så være for at bruge make.com, som imodvæk er noget mere kompliceret,"
+    },
+    {
+      "start": 733.8,
+      "end": 738.8,
+      "text": " at skulle sidde og lægge de her steps ind, versus bare at køre det hele igennem."
+    },
+    {
+      "start": 738.8,
+      "end": 743.8,
+      "text": " Klort, er det hallucinationer, som vi oplever lige nu, eller hvad er argumentet for ikke at bare gøre det på,"
+    },
+    {
+      "start": 743.8,
+      "end": 744.8,
+      "text": " direkte fra Klort?"
+    },
+    {
+      "start": 744.8,
+      "end": 749.8,
+      "text": " Argumentet, jeg tror også, at bruge din LLM, uanset om det er Klort eller ChatGPT,"
+    },
+    {
+      "start": 749.8,
+      "end": 753.8,
+      "text": " og forbinde den med dine værktøjer. Jeg tror, det er sådan, vi kommer til at gøre for rigtig mange ting i fremtiden."
+    },
+    {
+      "start": 753.8,
+      "end": 758.8,
+      "text": " Argumentet for at lave et AI workflow, det er, hvis du har en opgave, der udføres igen og igen og igen,"
+    },
+    {
+      "start": 758.8,
+      "end": 764.8,
+      "text": " så får du også et mere præcist resultat fra gang til gang med et mindre udfaldsrum ved at definere det via et workflow."
+    },
+    {
+      "start": 764.8,
+      "end": 766.8,
+      "text": " Så hvis det er en ting, du laver en, to eller tre gange, giver det ikke mening."
+    },
+    {
+      "start": 766.8,
+      "end": 769.8,
+      "text": " Hvis du skal sidde og publicere 1000 tekster, så har du ikke brug for et stort udfaldsrum."
+    },
+    {
+      "start": 769.8,
+      "end": 773.8,
+      "text": " Så har du brug for, at det følger et vest template, og du ved, hvad der kommer til at ske."
+    },
+    {
+      "start": 773.8,
+      "end": 778.8,
+      "text": " Så jeg vil sige, jo højere frekvens du kommer til at lave tingene, jo bedre giver det mening at lave workflowet."
+    },
+    {
+      "start": 778.8,
+      "end": 783.8,
+      "text": " Jeg stjæler faktisk nogle slides fra Anthropic på lige præcis det her emne, fordi det er også et spørgsmål, de bliver stillet."
+    },
+    {
+      "start": 783.8,
+      "end": 792.8,
+      "text": " Det er, hvornår skal du egentlig bygge et workflow i forhold til, hvornår skal du rent faktisk bare sidde og bruge en AI-agent eller en general purpose AI-agent til det her."
+    },
+    {
+      "start": 792.8,
+      "end": 801.8,
+      "text": " Og hvis man tager Anthropic's bud på det her spørgsmål, så siger de, hvis opgaven er super kompleks, så er det ikke et workflow, så er det en agent."
+    },
+    {
+      "start": 801.8,
+      "end": 808.8,
+      "text": " Hvis opgaven er super værdifuld, altså hvis opgaven er mere end en dollar hver per gang, så kunne du godt tage par i retning af en agent."
+    },
+    {
+      "start": 808.8,
+      "end": 821.8,
+      "text": " Hvis alle dele af opgaven kan gøres af en AI, så peger det også i den retning, og hvis prisen for at fejle er meget lav, så peger det også i retning af agenter."
+    },
+    {
+      "start": 821.8,
+      "end": 824.8,
+      "text": " Og hvorfor meget lav, det er fordi du øger udfaldsrummet med agenter."
+    },
+    {
+      "start": 824.8,
+      "end": 828.8,
+      "text": " Med agenter kommer du til at fejle mere, end du gør med workflows."
+    },
+    {
+      "start": 828.8,
+      "end": 837.8,
+      "text": " Workflows tager bare meget lang tid at sætte op fra starten af, så du kan ikke sætte workflows op for ting du ikke laver mange gange, så giver det bedre mening at bruge en agent."
+    },
+    {
+      "start": 837.8,
+      "end": 840.8,
+      "text": " Hvis en agent fejler, så laver du et nyt prompt, og så prøver du igen."
+    },
+    {
+      "start": 840.8,
+      "end": 843.8,
+      "text": " Men det kan du ikke gøre, hvis du skal publicere 1000 tekster."
+    },
+    {
+      "start": 843.8,
+      "end": 845.8,
+      "text": " Så kan du ikke sidde og prøve igen hver eneste gang."
+    },
+    {
+      "start": 845.8,
+      "end": 848.8,
+      "text": " Så har du pludselig brug for agenten."
+    },
+    {
+      "start": 848.8,
+      "end": 852.8,
+      "text": " Jeg vil sige, at medgiver er et meget interessant emne."
+    },
+    {
+      "start": 852.8,
+      "end": 855.8,
+      "text": " Du har alligevel hævet op at have den her."
+    },
+    {
+      "start": 855.8,
+      "end": 858.8,
+      "text": " Jeg tænker jo altid, at når du kommer med MCP, så tænker jeg, fuck man."
+    },
+    {
+      "start": 858.8,
+      "end": 861.8,
+      "text": " Lad mig lige komme med en sidste ting til sidst."
+    },
+    {
+      "start": 861.8,
+      "end": 872.8,
+      "text": " Jeg så et interessant interview med Sam Altman, som jo er en af dem, der har været så stiftet i OpenAI og er deres direktør og på mange måder manden bag ChatGPT."
+    },
+    {
+      "start": 872.8,
+      "end": 877.8,
+      "text": " Jeg så en rigtig interessant artikel med ham, som jeg også tror, at vi to har snakket om for nytte."
+    },
+    {
+      "start": 877.8,
+      "end": 884.8,
+      "text": " Hvor han siger, at der er meget stor forskel på, hvordan folk bruger eller lemmer, afhængig af, hvor gamle de er."
+    },
+    {
+      "start": 884.8,
+      "end": 890.8,
+      "text": " Så det, han siger, er, at ældre mennesker bruger ChatGPT, ligesom de ville bruge Google."
+    },
+    {
+      "start": 890.8,
+      "end": 893.8,
+      "text": " Så de skriver Google-søgninger ind i ChatGPT, og så skal de finde ud af det."
+    },
+    {
+      "start": 893.8,
+      "end": 898.8,
+      "text": " Lidt yngre mennesker, mellem, det er sådan nogle som os, Tine, jo. Vi er ikke unge."
+    },
+    {
+      "start": 898.8,
+      "end": 900.8,
+      "text": " Vi er heller ikke gamle endnu. Så vi er sådan mellemstaget."
+    },
+    {
+      "start": 900.8,
+      "end": 904.8,
+      "text": " De bruger eller lemmer på en anden måde, hvor de snakker til dem."
+    },
+    {
+      "start": 904.8,
+      "end": 909.8,
+      "text": " Så de skriver, at jeg vil gerne opnå det her, og man skriver til dem lidt mere, som man vil med en kollega."
+    },
+    {
+      "start": 909.8,
+      "end": 914.8,
+      "text": " Det mest interessante, det var, at han sagde, at unge mennesker bruger ChatGPT som et operating system."
+    },
+    {
+      "start": 914.8,
+      "end": 918.8,
+      "text": " De bruger det på en helt anden måde. Det er forankret i deres liv på en helt anden måde."
+    },
+    {
+      "start": 918.8,
+      "end": 921.8,
+      "text": " Det er ikke sådan, at du bruger ChatGPT i stedet for at google."
+    },
+    {
+      "start": 921.8,
+      "end": 926.8,
+      "text": " Han siger, at unge mennesker er dem, der finder på use cases med ChatGPT, som vi aldrig selv havde fundet ud af."
+    },
+    {
+      "start": 926.8,
+      "end": 928.8,
+      "text": " De bruger det som et operating system."
+    },
+    {
+      "start": 928.8,
+      "end": 933.8,
+      "text": " Så det, synes jeg, er mega interessant, hvordan forskellige folk bruger det på forskellige måder."
+    },
+    {
+      "start": 933.8,
+      "end": 939.8,
+      "text": " Alt det her med MCPs, som gør, at ChatGPT og Cloud lige pludselig kan connecte med alle de tjenester, du sidder og arbejder med,"
+    },
+    {
+      "start": 939.8,
+      "end": 943.8,
+      "text": " det gør, at din CloudBot jo faktisk bliver dit operating system."
+    },
+    {
+      "start": 943.8,
+      "end": 945.8,
+      "text": " Skal du sende en faktur, så skriv det ind i Cloud."
+    },
+    {
+      "start": 945.8,
+      "end": 947.8,
+      "text": " Skal du lave en serviceanalyse, så be om den inde i Cloud."
+    },
+    {
+      "start": 947.8,
+      "end": 950.8,
+      "text": " Skal du lave en ny tekst, så be om den inde i Cloud."
+    },
+    {
+      "start": 950.8,
+      "end": 956.8,
+      "text": " Skal du publicere den her tekst, du nu har lavet, og korrektureret sammen med Cloud, og nu er du glad for den."
+    },
+    {
+      "start": 956.8,
+      "end": 960.8,
+      "text": " I dag skal du kopiere den ud og lægge den ind i WordPress og selv publicere den."
+    },
+    {
+      "start": 960.8,
+      "end": 965.8,
+      "text": " Det er dumt. Der er en MCP til WordPress, og så får du publiceret den via Cloud."
+    },
+    {
+      "start": 965.8,
+      "end": 971.8,
+      "text": " Så du går fra, at ChatGPT og Cloud og Grog og Gemini osv. bliver en ting, du har åbent på en fane,"
+    },
+    {
+      "start": 971.8,
+      "end": 977.8,
+      "text": " og så sidder du og laver specifikke opgaver i det, som du herefter kopierer ind i det værktøj, du i virkeligheden arbejder med,"
+    },
+    {
+      "start": 977.8,
+      "end": 979.8,
+      "text": " til at Cloud bliver værktøjet, du arbejder med."
+    },
+    {
+      "start": 979.8,
+      "end": 980.8,
+      "text": " Kan du se det for dig?"
+    },
+    {
+      "start": 980.8,
+      "end": 981.8,
+      "text": " Ja, det kan jeg faktisk godt."
+    },
+    {
+      "start": 981.8,
+      "end": 984.8,
+      "text": " Og når man så samtidig tænker på, apropos det her med workflows,"
+    },
+    {
+      "start": 984.8,
+      "end": 990.8,
+      "text": " altså når man så har brug for et workflow, så forklarer du det til Cloud, og så laver den workflowet for dig,"
+    },
+    {
+      "start": 990.8,
+      "end": 992.8,
+      "text": " som du så bagefter kan upload."
+    },
+    {
+      "start": 992.8,
+      "end": 994.8,
+      "text": " Hooah, exciting times!"
+    },
+    {
+      "start": 994.8,
+      "end": 995.8,
+      "text": " Det er exciting times."
+    },
+    {
+      "start": 995.8,
+      "end": 1003.8,
+      "text": " Jeg vil sige, vi ved, ChatGPT 3, som kom i november 2022, det var en af de første store ting, der kom med AI."
+    },
+    {
+      "start": 1003.8,
+      "end": 1006.8,
+      "text": " En af de næste store ting, der i min optik kom med AI, det var de første reasoning modeller."
+    },
+    {
+      "start": 1006.8,
+      "end": 1011.8,
+      "text": " Så det var sådan O1 fra ChatGPT, eller DeepSeek R1, som var meget billigere."
+    },
+    {
+      "start": 1011.8,
+      "end": 1019.8,
+      "text": " Så kom den næste store ting, som var sådan General Purpose AI-agenter, som var for eksempel Manus, og til deles også O3 og Cloud 4."
+    },
+    {
+      "start": 1019.8,
+      "end": 1027.8,
+      "text": " Den næste store ting, der kommer til at ske i AI, som er ved at ske lige nu, det er MCPs, hvor din LLM,"
+    },
+    {
+      "start": 1027.8,
+      "end": 1032.8,
+      "text": " den begynder at integrere med dine andre værktøjer, og LLM'en i stigende grad bliver operativsystemet,"
+    },
+    {
+      "start": 1032.8,
+      "end": 1035.8,
+      "text": " og derigennem, hvor du arbejder, i stedet for at være noget, du sidder og kopierer tekst til,"
+    },
+    {
+      "start": 1035.8,
+      "end": 1038.8,
+      "text": " eller ind imellem, men du i virkeligheden afslutter et andet sted."
+    },
+    {
+      "start": 1038.8,
+      "end": 1042.8,
+      "text": " Altså, ChatGPT bliver dit operating system."
+    },
+    {
+      "start": 1042.8,
+      "end": 1045.8,
+      "text": " Megaspændende, det her er noget, vi kommer til at snakke mere om i flere episoder,"
+    },
+    {
+      "start": 1045.8,
+      "end": 1048.8,
+      "text": " men hvis du står ved kaffemaskinen på arbejde i morgen, og der er nogen, der siger,"
+    },
+    {
+      "start": 1048.8,
+      "end": 1051.8,
+      "text": " har du hørt, hvad er de der MCPs, så kan du rent faktisk svare på det nu."
+    },
+    {
+      "start": 1051.8,
+      "end": 1057.8,
+      "text": " Det er USB-C for AI-værktøjer, der skal kunne forbinde med alle dine tjenester, indlæse data, outputte,"
+    },
+    {
+      "start": 1057.8,
+      "end": 1060.8,
+      "text": " rent faktisk udføre de handlinger, som du gør i dag, hvor du bliver i ChatGPT,"
+    },
+    {
+      "start": 1060.8,
+      "end": 1063.8,
+      "text": " eller Cloud, og bruger det som dit operating system."
+    },
+    {
+      "start": 1063.8,
+      "end": 1065.8,
+      "text": " Tusind tak, fordi du lyttede med os i dagens episode."
+    }
+  ]
+}
