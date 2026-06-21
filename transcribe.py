@@ -57,6 +57,9 @@ VIDEO_GROUPS = {
         {"url": "https://player.vimeo.com/video/1097517089", "title": "100 bookinger workshop"},
         {"url": "https://player.vimeo.com/video/1114869545", "title": "WORKSHOP Sep 1 2025 TRIM"},
     ],
+    "group4": [
+        {"url": "https://webinar.obsidian.dk/content-masterclass-sadan-far-du-1", "title": "Content Masterclass: Sådan får du kreativ succes på sociale medier i 2026"},
+    ],
 }
 
 
