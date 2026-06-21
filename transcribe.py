@@ -36,6 +36,21 @@ DANISH_PROMPT = (
     "bookinger, timepriser og markedsføring af behandlerklinikker."
 )
 
+# Subtitle-credit phrases Whisper hallucinates over music/silence/non-speech.
+HALLUCINATION_MARKERS = (
+    "amara.org",
+    "undertekster af",
+    "danske tekster af",
+    "tekstet af",
+    "tak fordi du så med",
+)
+
+
+def _is_hallucination(text: str) -> bool:
+    """True if the segment text is a known Whisper subtitle-credit hallucination."""
+    t = text.strip().lower()
+    return any(marker in t for marker in HALLUCINATION_MARKERS)
+
 # ── Video Groups ─────────────────────────────────────────────────────────────
 VIDEO_GROUPS = {
     "group1": [
@@ -332,24 +347,37 @@ def transcribe_audio(audio_path: Path, client: OpenAI, chunks_dir: Path, languag
 
         response = transcribe_file(chunk_path, client, prompt, language)
 
-        chunk_text = response.text
-        all_text.append(chunk_text)
+        # Drop hallucinated subtitle-credit segments. Over music/silence Whisper
+        # emits filler like "Danske tekster af Amara.org fællesskab"; if it leaks
+        # into the next chunk's prompt it cascades and ruins every later chunk.
+        raw_segs = list(response.segments) if getattr(response, "segments", None) else []
+        clean_segs = [s for s in raw_segs if not _is_hallucination(s.text)]
 
-        # Add segments with adjusted timestamps for chunked files
-        if hasattr(response, 'segments') and response.segments:
-            for seg in response.segments:
-                all_segments.append({
-                    "start": round(seg.start + time_offset, 2),
-                    "end": round(seg.end + time_offset, 2),
-                    "text": seg.text,
-                })
-            if is_chunked and response.segments:
-                # Estimate the time offset for the next chunk
-                time_offset += response.segments[-1].end
+        if clean_segs:
+            chunk_text = " ".join(s.text.strip() for s in clean_segs)
+        elif raw_segs:
+            chunk_text = ""  # whole chunk was hallucinated filler
+        else:
+            chunk_text = "" if _is_hallucination(response.text) else response.text
 
-        # Use tail of this chunk's text as context for next chunk
+        if chunk_text:
+            all_text.append(chunk_text)
+
+        # Add cleaned segments with adjusted timestamps for chunked files
+        for seg in clean_segs:
+            all_segments.append({
+                "start": round(seg.start + time_offset, 2),
+                "end": round(seg.end + time_offset, 2),
+                "text": seg.text,
+            })
+        if is_chunked and raw_segs:
+            # Advance offset by raw end (incl. any filler) so timing stays aligned
+            time_offset += raw_segs[-1].end
+
+        # Carry real speech forward as context — never propagate hallucinated text
         if is_chunked:
-            prompt = base_prompt + " " + chunk_text[-200:]
+            tail = chunk_text[-200:]
+            prompt = base_prompt + " " + tail if tail.strip() else base_prompt
 
         if i < len(chunks) - 1:
             time.sleep(API_DELAY_SECONDS)
