@@ -19,10 +19,11 @@ Requires `ffmpeg` and `ffprobe` on PATH.
 ## Pipeline Overview
 
 ```
-1. Download audio    transcribe.py --download-only
-2. Transcribe        transcribe.py --transcribe-only
-3. Build index       index.py build --group <name>
-4. Query index       index.py query --group <name> "your question"
+1. Download audio       transcribe.py --download-only
+2. Transcribe           transcribe.py --transcribe-only
+3. Add speakers (opt.)  diarize.py <transcript>.json
+4. Build index          index.py build --group <name>
+5. Query index          index.py query --group <name> "your question"
 ```
 
 ## 1. Download & Transcribe
@@ -78,11 +79,38 @@ python transcribe.py --channel "https://youtube.com/@channelname" --channel-name
 ### Output structure
 
 ```
-audio/<group>/*.mp3           # Downloaded audio files
-transcriptions/<group>/*.txt  # Plain text transcriptions
-transcriptions/<group>/*.json # JSON with metadata + timestamped segments
-channel_cache/<group>.json    # Cached channel video list (for resume)
+audio/<group>/*.mp3                    # Downloaded audio files
+transcriptions/<group>/*.txt           # Plain text transcriptions
+transcriptions/<group>/*.json          # JSON with metadata + timestamped segments
+transcriptions/<group>/*.speakers.txt  # (optional) transcript grouped by speaker
+transcriptions/<group>/*.speakers.json # (optional) segments annotated with speaker
+channel_cache/<group>.json             # Cached channel video list (for resume)
 ```
+
+## 1b. Add Speaker Labels (optional)
+
+Whisper produces the best Danish *text* but cannot tell speakers apart.
+`diarize.py` adds "who said what" by using **AssemblyAI for diarization only** —
+it sends the audio to AssemblyAI, keeps only its speaker timeline ("who spoke
+when"), discards AssemblyAI's own transcript, and assigns each existing Whisper
+segment to the speaker whose turn overlaps it most. The merge is purely
+timestamp-based, so it runs on an **already-transcribed** file with no
+re-transcription cost, and writes **new** files — the originals are untouched.
+
+```bash
+# Requires ASSEMBLYAI_API_KEY in .env (or the environment)
+python diarize.py transcriptions/group4/<name>.json
+
+# Audio path is inferred as audio/<group>/<name>.mp3; override if needed
+python diarize.py transcriptions/group4/<name>.json --audio path/to/audio.mp3
+```
+
+Outputs `<name>.speakers.txt` (conversation grouped as `Speaker A: ...`) and
+`<name>.speakers.json` (every segment annotated with a `speaker` field).
+
+> Note: AssemblyAI's `speaker_labels` must support the audio language. Danish
+> works via the multilingual model; if rejected, try `--language-code en`
+> (diarization is acoustic, so speakers still group correctly).
 
 ## 2. Build Summary Index
 
