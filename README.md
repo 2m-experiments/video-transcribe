@@ -108,6 +108,24 @@ python diarize.py transcriptions/group4/<name>.json --audio path/to/audio.mp3
 Outputs `<name>.speakers.txt` (conversation grouped as `Speaker A: ...`) and
 `<name>.speakers.json` (every segment annotated with a `speaker` field).
 
+Diarization only knows speakers as letters (A/B/C/D). Once you know who is who,
+map the letters to real names — either in the same run, or **offline** on an
+already-diarized file (no AssemblyAI call, no key, no cost):
+
+```bash
+# Offline relabel of an existing *.speakers.json (rewritten in place)
+python diarize.py --relabel \
+  --names "A=Olivia,B=Kasper,C=Morten,D=Andreas" \
+  transcriptions/group4/<name>.speakers.json
+
+# Or name speakers during a fresh diarization run
+python diarize.py transcriptions/group4/<name>.json \
+  --names "A=Olivia,B=Kasper,C=Morten,D=Andreas"
+```
+
+Named outputs read as real turns (`Olivia: ...`, `Morten: ...`), and the json
+records the mapping under `diarization.speaker_names` so it stays auditable.
+
 > Note: AssemblyAI's `speaker_labels` must support the audio language. Danish
 > works via the multilingual model; if rejected, try `--language-code en`
 > (diarization is acoustic, so speakers still group correctly).

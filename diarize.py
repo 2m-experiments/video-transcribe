@@ -19,6 +19,11 @@ Usage:
     export ASSEMBLYAI_API_KEY=...
     python diarize.py transcriptions/group4/<name>.json
     # audio path is inferred (audio/<group>/<name>.mp3); override with --audio
+    # name speakers in the same pass: --names "A=Olivia,B=Kasper,C=Morten,D=Andreas"
+
+    # Offline: rename letters in an already-diarized file (no key / no cost):
+    python diarize.py --relabel --names "A=Olivia,B=Kasper" \
+        transcriptions/group4/<name>.speakers.json
 
 Caveat: AssemblyAI's `speaker_labels` must support the audio's language. Danish
 is provided via the multilingual model; if a given account/model rejects it,
@@ -72,11 +77,37 @@ def assign_speakers(segments: list[dict], turns: list[dict]) -> list[dict]:
     return out
 
 
-def format_speaker_transcript(segments: list[dict]) -> str:
+def parse_name_map(spec: str) -> dict[str, str]:
+    """Parse a "A=Olivia,B=Kasper" spec into a {label: name} dict."""
+    name_map: dict[str, str] = {}
+    for pair in spec.split(","):
+        pair = pair.strip()
+        if not pair:
+            continue
+        if "=" not in pair:
+            raise ValueError(f"Invalid --names entry {pair!r} (expected LABEL=Name)")
+        label, name = pair.split("=", 1)
+        name_map[label.strip()] = name.strip()
+    return name_map
+
+
+def apply_names(segments: list[dict], name_map: dict[str, str]) -> list[dict]:
+    """Replace each segment's letter `speaker` with its mapped real name.
+
+    Labels absent from the map (including "?") pass through unchanged.
+    """
+    return [{**seg, "speaker": name_map.get(seg.get("speaker"), seg.get("speaker"))}
+            for seg in segments]
+
+
+def format_speaker_transcript(segments: list[dict], label_prefix: str = "Speaker ") -> str:
     """Render speaker-annotated segments as grouped 'Speaker X: ...' turns.
 
     Consecutive segments from the same speaker are merged into one paragraph so
     the output reads as a conversation rather than one line per Whisper segment.
+    `label_prefix` precedes each label — keep the default "Speaker " for letter
+    labels (A/B/...), or pass "" once labels are real names so turns read as
+    "Olivia: ..." rather than "Speaker Olivia: ...".
     """
     blocks: list[str] = []
     cur_speaker = object()  # sentinel distinct from any real label
@@ -85,13 +116,13 @@ def format_speaker_transcript(segments: list[dict]) -> str:
         spk = seg.get("speaker") or "?"
         if spk != cur_speaker:
             if buf:
-                blocks.append(f"Speaker {cur_speaker}: " + " ".join(buf).strip())
+                blocks.append(f"{label_prefix}{cur_speaker}: " + " ".join(buf).strip())
             cur_speaker, buf = spk, []
         text = seg["text"].strip()
         if text:
             buf.append(text)
     if buf:
-        blocks.append(f"Speaker {cur_speaker}: " + " ".join(buf).strip())
+        blocks.append(f"{label_prefix}{cur_speaker}: " + " ".join(buf).strip())
     return "\n\n".join(blocks)
 
 
@@ -184,10 +215,53 @@ def infer_audio_path(transcript_json: dict, transcript_path: Path) -> Path:
     return AUDIO_DIR / group / f"{transcript_path.stem}.mp3"
 
 
+def _write_speaker_outputs(data: dict, labeled: list[dict], speakers: list[str],
+                           json_out: Path, txt_out: Path, *, language_code: str,
+                           name_map: dict[str, str] | None = None) -> None:
+    """Write the *.speakers.{json,txt} pair for already-labeled segments.
+
+    `speakers` is the label list as it should appear (letters, or real names once
+    a `name_map` has been applied). When `name_map` is given, the json records it
+    under `diarization.speaker_names` and the txt drops the "Speaker " prefix so
+    turns read as real names.
+    """
+    named = name_map is not None
+    diarization = {"provider": "assemblyai", "speakers": speakers,
+                   "language_code": language_code}
+    if named:
+        diarization["speaker_names"] = name_map
+
+    with open(json_out, "w", encoding="utf-8") as f:
+        json.dump({
+            **{k: v for k, v in data.items() if k not in ("segments", "diarization")},
+            "diarization": diarization,
+            "segments": labeled,
+        }, f, ensure_ascii=False, indent=2)
+
+    with open(txt_out, "w", encoding="utf-8") as f:
+        f.write(f"{data.get('title', json_out.stem)} — with speakers\n")
+        f.write(f"[Source: {data.get('url', '')}]\n")
+        f.write(f"[Speakers: {', '.join(speakers)} | text: Whisper, "
+                f"diarization: AssemblyAI]\n\n")
+        f.write(format_speaker_transcript(labeled,
+                                          label_prefix="" if named else "Speaker "))
+
+    for out in (json_out, txt_out):
+        try:
+            shown = out.relative_to(SCRIPT_DIR)
+        except ValueError:  # output lives outside the repo
+            shown = out
+        print(f"  Saved: {shown}")
+
+
 def diarize_transcript(transcript_path: Path, api_key: str,
                        audio_path: Path | None = None,
-                       language_code: str = "da") -> tuple[Path, Path]:
-    """Add speaker labels to one transcript; write *.speakers.{json,txt}."""
+                       language_code: str = "da",
+                       name_map: dict[str, str] | None = None) -> tuple[Path, Path]:
+    """Add speaker labels to one transcript; write *.speakers.{json,txt}.
+
+    If `name_map` is given, letter labels are replaced with real names in one pass.
+    """
     with open(transcript_path, encoding="utf-8") as f:
         data = json.load(f)
 
@@ -201,45 +275,81 @@ def diarize_transcript(transcript_path: Path, api_key: str,
         raise RuntimeError(f"Audio not found: {audio_path} (pass --audio)")
 
     turns = assemblyai_diarize(audio_path, api_key, language_code)
-    speakers = sorted({t["speaker"] for t in turns})
-    print(f"  Diarization found {len(speakers)} speaker(s): {', '.join(speakers)}")
+    letters = sorted({t["speaker"] for t in turns})
+    print(f"  Diarization found {len(letters)} speaker(s): {', '.join(letters)}")
 
     labeled = assign_speakers(segments, turns)
+    if name_map:
+        labeled = apply_names(labeled, name_map)
+    speakers = [name_map.get(s, s) for s in letters] if name_map else letters
 
     transcript_path = transcript_path.resolve()
     stem = transcript_path.with_suffix("")  # drop .json
     json_out = stem.with_suffix(".speakers.json")
     txt_out = stem.with_suffix(".speakers.txt")
-
-    with open(json_out, "w", encoding="utf-8") as f:
-        json.dump({
-            **{k: v for k, v in data.items() if k != "segments"},
-            "diarization": {"provider": "assemblyai", "speakers": speakers,
-                            "language_code": language_code},
-            "segments": labeled,
-        }, f, ensure_ascii=False, indent=2)
-
-    with open(txt_out, "w", encoding="utf-8") as f:
-        f.write(f"{data.get('title', transcript_path.stem)} — with speakers\n")
-        f.write(f"[Source: {data.get('url', '')}]\n")
-        f.write(f"[Speakers: {', '.join(speakers)} | text: Whisper, "
-                f"diarization: AssemblyAI]\n\n")
-        f.write(format_speaker_transcript(labeled))
-
-    print(f"  Saved: {json_out.relative_to(SCRIPT_DIR)}")
-    print(f"  Saved: {txt_out.relative_to(SCRIPT_DIR)}")
+    _write_speaker_outputs(data, labeled, speakers, json_out, txt_out,
+                           language_code=language_code, name_map=name_map)
     return json_out, txt_out
+
+
+def relabel_transcript(speakers_json_path: Path,
+                       name_map: dict[str, str]) -> tuple[Path, Path]:
+    """Offline: rewrite an existing *.speakers.json with real speaker names.
+
+    No network call and no API key — this only remaps the letter labels already
+    produced by a prior diarization run, then regenerates the .speakers.{json,txt}
+    in place.
+    """
+    speakers_json_path = speakers_json_path.resolve()
+    with open(speakers_json_path, encoding="utf-8") as f:
+        data = json.load(f)
+
+    segments = data.get("segments") or []
+    if not segments:
+        raise RuntimeError(f"No segments in {speakers_json_path}")
+    if not any("speaker" in s for s in segments):
+        raise RuntimeError(
+            f"{speakers_json_path.name} has no speaker labels — run diarization first.")
+
+    prior = data.get("diarization", {})
+    letters = prior.get("speakers") or sorted({s.get("speaker") for s in segments})
+    labeled = apply_names(segments, name_map)
+    speakers = [name_map.get(s, s) for s in letters]
+
+    txt_out = speakers_json_path.with_name(
+        speakers_json_path.name[:-len(".json")] + ".txt")
+    _write_speaker_outputs(data, labeled, speakers, speakers_json_path, txt_out,
+                           language_code=prior.get("language_code", "da"),
+                           name_map=name_map)
+    return speakers_json_path, txt_out
 
 
 def main():
     parser = argparse.ArgumentParser(
         description="Add AssemblyAI speaker labels to an existing Whisper transcript.")
-    parser.add_argument("transcript", type=Path, help="Path to a transcript .json file")
+    parser.add_argument("transcript", type=Path,
+                        help="Path to a transcript .json file (or a .speakers.json "
+                             "with --relabel)")
     parser.add_argument("--audio", type=Path, default=None,
                         help="Audio file (default: audio/<group>/<stem>.mp3)")
     parser.add_argument("--language-code", default="da",
                         help="AssemblyAI language_code for diarization (default: da)")
+    parser.add_argument("--names", default=None,
+                        help='Map speaker letters to real names, '
+                             'e.g. "A=Olivia,B=Kasper,C=Morten,D=Andreas"')
+    parser.add_argument("--relabel", action="store_true",
+                        help="Offline: apply --names to an existing .speakers.json "
+                             "and rewrite it in place (no AssemblyAI call / key needed)")
     args = parser.parse_args()
+
+    name_map = parse_name_map(args.names) if args.names else None
+
+    if args.relabel:
+        if not name_map:
+            print("ERROR: --relabel requires --names to map the speaker labels.")
+            raise SystemExit(1)
+        relabel_transcript(args.transcript, name_map)
+        return
 
     try:  # .env support is optional; env var works on its own
         from dotenv import load_dotenv
@@ -251,7 +361,8 @@ def main():
         print("ERROR: ASSEMBLYAI_API_KEY not set. Add it to your .env file.")
         raise SystemExit(1)
 
-    diarize_transcript(args.transcript, api_key, args.audio, args.language_code)
+    diarize_transcript(args.transcript, api_key, args.audio,
+                       args.language_code, name_map)
 
 
 if __name__ == "__main__":
