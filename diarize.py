@@ -32,6 +32,7 @@ though the discarded AssemblyAI text will be wrong — which we don't use anyway
 """
 
 import argparse
+import glob
 import json
 import os
 import time
@@ -210,9 +211,21 @@ def assemblyai_diarize(audio_path: Path, api_key: str,
 # ── Orchestration ────────────────────────────────────────────────────────────
 
 def infer_audio_path(transcript_json: dict, transcript_path: Path) -> Path:
-    """Locate the source mp3 for a transcript (audio/<group>/<stem>.mp3)."""
+    """Locate the source mp3 for a transcript (audio/<group>/<stem>.mp3).
+
+    Some transcripts are named with a truncated title, so the mp3 has a longer
+    name. When the exact match is missing, fall back to the audio file whose name
+    *starts with* the transcript stem — but only if that match is unique, so an
+    ambiguous prefix raises a clear "not found" rather than diarizing the wrong
+    audio.
+    """
     group = transcript_json.get("group", transcript_path.parent.name)
-    return AUDIO_DIR / group / f"{transcript_path.stem}.mp3"
+    group_dir = AUDIO_DIR / group
+    exact = group_dir / f"{transcript_path.stem}.mp3"
+    if exact.exists():
+        return exact
+    matches = sorted(group_dir.glob(f"{glob.escape(transcript_path.stem)}*.mp3"))
+    return matches[0] if len(matches) == 1 else exact
 
 
 def _write_speaker_outputs(data: dict, labeled: list[dict], speakers: list[str],
