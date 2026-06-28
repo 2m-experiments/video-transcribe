@@ -1,0 +1,2611 @@
+{
+  "title": "Kæmpe nyhed til Facebook Ads: Incremental Attribution er kommet!",
+  "url": "https://www.youtube.com/watch?v=dnpMptGv2EU",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 952.0,
+  "transcribed_at": "2026-04-18T14:40:11.795755+00:00",
+  "full_text": "Hej og velkommen til dagens episode af MarketingPod med Christian Tinju på ferie. Så er det Morten Bie, Facebook-annonceringsguruen, der er med igen, og vi kommer til at snakke om en opdatering, som jeg har glædet mig sindssygt meget til. Og jeg vil starte med at vise et tweet, der forklarer, hvorfor det her er helt fantastisk. Incremental attribution er nemlig kommet ud på nu over 50% af Facebooks annoncekonting, og det bliver rullet rigtig hurtigt ud i øjeblikket. Incremental attribution handler om at vise den reelle effekt af ens Facebook-kampagne. Vi har et tweet her, som viser et klip fra Succession, et fantastisk succes med skuespilleren David Cox som den aldrende familiefar, som er bygget over Murdoch-dynastiet, som i to billeder siger først, congratulations on saying the biggest number. I billedet nummer to siger, you fucking morons. Morten Bie, kan du forklare joken her? Nu har jeg jo ikke set filmen, eller forstår referencen. Har du ikke set Succession? Ej, er det en serie? Sorry. Hellere opfølge den. Men jeg tænker, at det må være fordi, at dine platforms ser dårlige ud. Er det derfor? Nej, det er fordi, at it wasn't incremental. Det er jo det. It wasn't incremental. Okay, så de har bare banket op for Vue, og så har de givet en gas. De har bare banket op for Vue-konverteringen. Vue attribution har fået en masse konverteringer. Incremental attribution er en fantastisk tilføjelse af Meta-ads. Det er en af de største opdateringer nogensinde. Det er den bedste årsag til at købe Meta-aktier og hjælpe mig op af det hul, jeg har gravet mig ned i de sidste par måneder for dig, som har nogle sparepenge, du ikke har smidt i det amerikanske aktiemarked endnu. Men det handler basically om, at Meta vil hjælpe dig med at finde ud af, hvilke kampagner, der faktisk skaber værdi for dig. Og de kampagner, der faktisk skaber værdi for dig, er ikke nødvendigvis dem, der viser de højeste afkastetal. De kampagner, du har lige nu, der viser den højeste ro, altså er ikke nødvendigvis det, der skaber mest værdi for dig. Og det er det, der er joken i billedet her. Congratulations on saying the biggest number, you fucking morons. Morten, kan du ikke komme med nogle af årsagerne til, hvorfor kan det være, at de kampagner, som viser det højeste afkastetal, den højeste ro, altså i virkeligheden slet ikke leverer det? Hvad er det, der går galt? Ja, så er vi delt nok med to ting. Den ene er selvfølgelig dagens stor emne, incrementality. Og den anden er henholdsvis klik og visningstilskrivning, og så også det, der hedder engage view på Meta nu her, så det er jo den 7-7-1-1-poæng. Så der, hvor vi typisk ser det, det er, at der stadigvæk er mange, der tænker, at de kan hacke et retargeting flow eller sætte et forhøjt existing budget cap på deres advantage plus. Existing customer budget cap, ja. Netop, ja. Og dermed rammer rigtig meget af deres spend på det, som vi definerer som retargeting målgrupper. Men som et bund og grund af retargeting målgrupper, var det ikke Meta, der overhovedet sørgede for det. Altså de, der får annoncen, havde købt alligevel. Du sender mig en mail. Der er 40% inde på Zalando. Jeg går ind på Zalando og kigger og finder ud af, jeg venter lige til senere, fordi jeg vil gerne lige hjem på min computer, sådan en boomer jeg. Og så ser jeg lige Meta på vejen, og så siger Meta, det var mig, der skaffede den. Og dertil incrementality. Altså vi har rigtig, rigtig mange af vores tilskrivninger på Meta, som ikke nødvendigvis er tilskrivninger, vi burde have lavet. Fordi, at de var kommet alligevel. Og det er jo sådan lidt, det er måske lidt svært at forstå, hvis ikke man har snakket om det her før. Men et andet eksempel på incrementality, det er, lad os sige, at man har en webshop, og man kører en annoncering på Facebook, og Facebook siger, at man har omsat 1 million kroner. Og man kører en annoncering på Google, og Google siger, at man har omsat 1 million kroner. Så burde man jo have omsat 2 millioner kroner. Men hvis man går ind og kigger i shoppen, så har man kun omsat 1,5 million kroner. Og det er simpelthen fordi, at både Google og Meta kan tilskrive sig værdien for den samme konvertering. Og så bliver det et spørgsmål om tilskrivning. Hvor meget værdi vil du tilskrive den enkelte kanal, som gør, at du kan afgøre, om du skal skrue op eller ned for den pågældende kanal. Og tilskrivning er bare megasvært. Marketing attribution, som det også hedder, det er et megasvært emne. Fordi platformene snakker ikke sammen, så Google og Meta snakker ikke sammen, og går ind og fordeler værdien af den enkelte konvertering til dig. Google Analytics 4 gør, med det skodredskab, som ikke måler alle dine konverteringer, og har alt for kort cookieperioder og alt muligt andet. Selv hvis du sætter server-side-tagning op, det er bedre, men det er ikke perfekt. Så marketing attribution er en kæmpe udfordring, du bare ikke kan løse. Du er nødt til at være dybt nede i dine tal, og virkelig have en forståelse for, hvad der rent faktisk sker værdi, når du skal allokere dit budget. Og her er der incremental attribution. Fantastisk. Tanken med incremental attribution på Meta, som jeg tror på dansk kommer til at hedde noget med tilvækst, eller sådan noget. Vi bruger ikke rigtig ordet inkremental, så jeg tror, det kommer til at hedde noget i stil med tilvækstkonverteringer. Men på engelsk hedder det i hvert fald incremental attribution. Det er, at du beder Meta om at optimere dine kampagner, således at de leverer salg, du ikke havde fået alligevel. Og det lyder jo for sindssygt åbenlyst. Selvfølgelig vil du gerne have salg, som du ikke havde fået alligevel. Men udfordringen er, at det kræver faktisk temmelig meget data og nogle meget sofistikerede algoritmer, hvis de skal kunne gå ind og vurdere, hvilke af dine kunder ville have købt alligevel, og hvilke ville ikke have købt alligevel. Det sjove er, at Facebook har faktisk allerede tilbudt den her former for analyser eller studier, der køber med det, der hedder et conversion lift study tidligere. Og Morten, hvad er et conversion lift study på Meta i virkeligheden, og hvor meget kræver det at sætte sådan et i gang? Fordi det er jo lidt forløberen til incremental attribution, det her. Yes, conversion lift study, der er to dele af det. Der er det, der hedder self-service, og der er det, der hedder managed. Og det eneste forskel er self-service. Der kan du selv gå ind under dine experiments eller experiment taben, det samme sted du laver en A-B-test, og så sætte det op. Det kan du gøre på annoncekonto niveau, du kan gøre det på kampanjeniveau eller på asset niveau. Og det som man gerne vil måle med conversion lift study, det er, at der er en vis del af målgruppen, af din samlede målgruppe, som ikke får en annonce i en periode. Det plejer at være 10% af din samlede 100% målgruppe. Jamen i en 4-års periode, hvor du kører et conversion lift study, der får de ingen annonce fra dig. Så lad os sige, at du har en målgruppe på 100.000, så er der 10.000 af dem, som simpelthen får intet, hverken fra den her kampagne eller andre kampagner, eller organisk, de får altså ingenting. De er låst helt ud. Og så har der været den kampagne, der selvfølgelig kører, som skal man sige normalt, altså du bliver eksponeret for annoncerne. Og så efter det endte studie, så deler Meta dig op og siger, not exposed to ads, altså vores holdout-gruppe, og dem der er exposed to ads. Fordi så får du det lift, der hedder, hvad er forskellen på at køre ads og ikke køre ads. Der skulle du gerne have et godt lift. Vi har set studier før, hvor det er nogenlunde den samme graf, og så er det selvfølgelig ikke super godt. Men du skulle jo gerne kunne se, at når du rent faktisk eksponerer folk, altså din målgruppe på Meta, så har du et lift, altså et conversion lift. Det du skal være opmærksom på her, det er, at conversion lift er ikke nødvendigvis spendbaseret, det er signalbaseret. Så før du først kan unlock det, så skal det have minimum 500 eksponerede signaler til din konto. Så en ny konto vil være svær at gøre det på. Nummer to, det er, at du skal have, jeg vil sige et sted mellem 500 til 1000 signaler, før det her begynder at blive sjovt. Så du skal egentlig regne din CPA, for at kunne regne ud, hvor mange konverteringer skal der igennem din kampagne. Men for at sætte det op, der skal du bare have et minimumspendt i et periode på 5000 dollars som minimum. Så det er ikke nødvendigvis, fordi du skal bruge rigtig mange penge. Jeg har tidligere kørt et conversion lift-study for en kunde, der viste et konverterings-lift på to. Så det viste, at den målgruppe, som ikke havde fået annoncer, som du også kan se på skærmen her, de havde konverteret cirka, lad os sige, de havde konverteret 668 gange. Så for dem, der ingen annoncer havde fået, den her holdout-målgruppe på 10%, havde konverteret 668 gange. De personer, som så fik annoncer, konverterede 670 gange. Så det vil sige, at vi fik to ekstra konverteringer. Det her, det er jo worst case scenario. Det er det, man ikke ønsker at se. Og det her, det er et rigtigt billede fra et rigtigt conversion lift-study, som var en af vores kunder, der kørte, som viste, at vores Facebook-organisering var basically værdiløs. 668 ud af 670 konverteringer, de var kommet alligevel. Det betyder, at alle de penge, du har brugt, er fuldstændig spillet på to konverteringer. Det er jammerligt. Og hvis jeg husker rigtigt, var det her jo en retargeting-kampagne, som jeg gerne ville have, at en af vores kunder brugte færre penge på. Fordi jeg har set det her mange gange før, men de insisterede på, at den her, den giver rigtig god værdi. Og det gør den. Det er bare værdi, du havde fået alligevel. Det kommer ikke fra den her kampagne. Det målretter kun personer, der havde konverteret alligevel. Og det er her, hvor incrementality bliver så svært. Og det her er faktisk en af mine primære pointer med dagens episode. Fordi Morten, hvad sker der, hvis du slår incremental conversions til på din konto, og du rent faktisk begynder at rapportere på incremental conversions i forhold til den normale tilskrivningsperiode, for eksempel 7.1? Fordi det får jo ikke din annonce til at se bedre ud. Det hele kommer til at se bedre ud. Altså i bund og grund, når du logger ind på din konto, og hvis du sidder og kigger på CPA-niveauer, eller ROAS-niveauer eller andet, og du slår det her til, så vil du fra nærmest den ene dag ind til den anden, se, at din CPA og din ROAS-niveau, henholdsvis stiger og falder. Og det er der, det kommer til at gå galt. Fordi der er allerede mange, hvor vi, hvis vi tester for eksempel 7-dages klik, mod 7-dages klik og 1-dages visning, så kan vi godt vise, at vi faktisk får flere og billigere klik-tilskrivninger. Men fordi det aktivt ser dårligere ud inden i annonceplatformen, så er det ikke alle, der har den forståelse for, jamen det er rent faktisk godt, at det ser dårligere ud. Og det er der, det kommer til. Og jeg tror, der er rigtig, rigtig meget, der hedder om, at der er mange, der ikke har is i maven til at gøre det på deres konto, fordi meta er så stor en forretningsfaktor for mange e-commerces. Så hvis man snor det her til, så skal du jo tænke på, jamen det er bedre, at det er dårligere. Og logisk, så er det rigtig svært. Det ser dårligere ud, men det er bedre. Det er dårligere, men det er bedre. Grunden til det her, det er, at jeg ikke har fået ret meget opmærksomhed. Grunden til det her er også, at jeg tror, der går lang tid inden folk rent faktisk får det her brugt. Jeg tror, der er 10% af det danske marked, de kommer til at adaptere med det samme. Prøv at fortælle dig en case-study fra et bureau, sådan, jeg har slået incremental attribution til i min roersfald 20%. Ja, og det er jo det, der kommer til at ske. Det ser ikke så godt ud. Jeg tror virkelig, jeg tror virkelig, at det er sådan, altså, jeg tror ikke, det er noget nyt for os og dem, der arbejder med meta, det er, at det er noget af det største monsterskab på meta. Men jeg tror, det store totale marked af dem, der arbejder med meta nemlig tænker, at det går rigtig, rigtig, rigtig lang tid inden, at vi har en høj adaptionskubler. Altså, hvis man forestiller sig, at du sidder i sådan en marketingafdeling og viser resultaten til din chef, og det eneste, han eller hun kan se, det er bare, at alt er 20% dårligere end sidste måned, så skal du virkelig være dygtig til at forklare vedkommende, hvorfor det her er en god nyhed. Selvom det er det. Det er en god nyhed. Men du skal virkelig være dygtig til at forklare det, og til en person, der ikke forstår digital marketing. Altså, jeg tror, der er nogle virksomheder derude, som burde bruge det her, som ikke får lov til det, Ja, eller som simpelthen ikke tør, fordi de godt ved, at det kommer til at se dårligt ud, og fordi de ikke kan forklare det. Altså, det er sådan lidt en tabkrig på forhånd. Og det er lidt det samme som, altså, der er heller ikke ret mange, som er shy, der har kørt Conversion Lab Studio. Altså, når det kommer ind på en ny kontor og siger, hvorfor har det kørt Studio? Jamen, vi har bare, altså, i bund og grund driftet, eller det har været fine resultater. Og det er lidt det samme her, det her med, at nogle gange, så kan sandheden godt gøre en bund på kontor. Altså, finde ud af, jamen, der var ikke ret høj incrementality, eller i det her tilfælde, nu optiverer vi efter det, men vi får det til at se dårligt ud. Det kan være rigtig svært at forsvare, og jeg tror, det er det der hele problematikken. Så det er det største, der nogensinde er sket, men det er det, der kommer til at have længst adoptionskåb. Ja, det tror jeg også. Selvom der er mange, der burde bruge det, men til dig, der lyder med på marketingen på det, at hey, du er allerede top 1%, du er rent faktisk og gør det her, så tillykke med, at du ikke er en af dem. Og hvis du nu sidder og tænker, hvordan kan jeg rent faktisk gøre det her? Hvis du er 60% af alle adaccounts, der har fået rullet det her ud, så kan du allerede nu gå ind på din kontor og gøre det. Det kræver, at du går ind under dine annonce-sæt-indstillinger, under attribution, og så vælger incremental attribution. Jeg har set, det faktisk hedder nogle forskellige ting, eller ligger nogle forskellige steder, så der er nogle steder, hvor det hedder advanced option, hvor det ligger under incremental attribution, og andre steder, hvor det bare ligger der, hvor du vælger 7071. Og jeg ved ikke, om det er Facebook, der tester forskellige måder at implementere det på, men det ligger i hvert fald under attribution-indstillinger i dit annonce-sæt, og der har du mulighed for at rulle det her ud. Og hvis du ikke har det allerede, så kommer det lige om lidt. Og altså, min anbefaling, det vil være at begynde over 50%. Altså over 50% rollout. Når de først er opnået på det, så 1. så betyder det, at de har afsluttet alle deres alfabetetestes og alle deres fondetest, og når de er over 50%, så er det kun et spørgsmål om fx, hvordan ser det ud visuelt, layoutmæssigt, inden at annonce-kontroller bliver testet. Så det her, det er noget, der kommer til at være. Jeg tror godt, at jeg tør at sætte min bagdel i relativ højt pladskehøjde og sige, at det her, det er ud på et annonce-kontor inden sommerferien. Og der er to ting, jeg vil anbefale, at man gør sådan rimelig tidligt. Den ene, det er, hvis du kører kampagner, som primært kører i dag på eksisterende kunder eller retargeting, så er det der, at jeg vil starte med at lave en test og så indstille det her til incremental attribution i stedet for. Altså måske køre dem ved siden af hinanden, måske bare skifte den over, men det er der, hvor der er størst risiko for, at du lige nu ligger og overattribuerer konvertering, og det vil sige, at du tror, at det fungerer meget bedre, end det i virkeligheden gør. Det andet, det er, at jeg synes er en interessant afledt effekt af det her, det er, at der er opstået ret mange sådan BSUB SAS-tjenester over de sidste år, hvor det måske mest kendte eksempel, det ville være TripleWell-softwaren, som er sindssygt dyr. Men hvis primært promise det er, at i det mindste, så kan du se, hvor din konvertering rent faktisk kommer fra, som tilbyder et forsøg på at udregne den her incrementality. Hvis du arbejder med de redskaber, så prøv lige at teste, om du egentlig får meget af den samme værdi specifikt på meta. Og nu gælder det jo kun på meta, så hvis du lykkes med at skalere Snapchat eller TikTok eller Google Ads helt sindssygt, så får du stadig ikke det samlede billede. Men vi arbejder bare med mange virksomheder, for hvem meta stadig er 80%, 90% eller et eller andet af den cil, som har brugt tredjepartsværktøjer for at beregne incrementality af deres kampagner for at budgetallokere sig det, der i realiteten gør bedst mening, og ikke det, der tilskriver flest view-konverteringer. Og jeg spekulerer på, om det egentlig er nødvendigt i fremtiden, eller om det her faktisk går ind og gør meget arbejde for det. Der er i hvert fald ingen tvivl om, at vi begge to er enormt bullish på det her, og synes, det er en af de største opdateringer, meta længe har lavet. Har du nogen afslutning vi kan mærke, hvor folk skal bruge det her? Gerne. Jeg har faktisk lige to punkter. Den ene det er, hvis du har hørt om det her før, så det der har været især i testperioden, det er, at dem der har fået adgang til det, de har kun fået adgang til det på kontoniveau. Så det vil sige, det var enten eller. Altså enten skulle alle kompanier køre på det, eller så skulle ingen af dem køre på det. Det der er i den roll-out phase, der kører nu her, og som også kommer til at blive aktivt på de kontor, der får det, det er, at du kan også gøre det på kompanieniveau. Så start med at gøre det på kompanieniveau. Og jeg vil sige, alle test med det her, jeg vil altid sætte dobbelt conversion-løftstøj. Så kan det godt være, det tager fire uger, eller seks uger, eller otte uger at finde ud af, hvad der skal ske, og hvad der er det rigtige. Men at teste incrementality, og i det her tilfælde der er det rigtige svar, det kan du kun finde ved at lave et conversion-løftstøj. Fordi hvis du ellers skal sidde og kigge på breakdowns, og selv sidde og vurdere det, jamen så er der ikke rigtigt noget sådan reelt sammenligningstal, hvor her der får du det reelle løft. Og når der kun er 5000 dollars minimum spend requirement til et conversion-løftstøj, så kan du bare splitte det over 8 uger, 12 uger, hvad du nu kræver af budget, og så får du svaret på, er det her bedre for min forretning, ja eller nej. Nummer to, hvis du tænker, at man forsvinder syv dages klik, en dages visning, en dages engage view, nej det gør det ikke. Den arbejder på præcis samme måde i etableringen. Den går bare efter den anden, så det er lidt sjovt, at den ligger under etableringen, fordi det er i højere grad en målretning det her. Så hvis du går ind og kigger på dine kampagner med incremental attribution, så kan du se, hvor det bliver tilskrevet hen. Altså fx der er kommet 45 konverteringer på klik, 45 konverteringer på view, 45 konverteringer på engage view. Og så får den delt det op i, hvad der er fx first conversion, all conversions, incremental attribution. Så du kan stadig godt kigge på de her etableringsventure og sammenligne det. Men det her er i højere grad en målretning end etableringen. Kæmpe nyhed, virkelig noget, jeg vil anbefale, du går ind og kigger på i din meta-annoncering. En af de ting, jeg har glædet mig allermest til, at Mesa skulle komme med i hele 2025. Vi havde det med på vores slides til vores kunder og et social ads conference og alle mulige ting allerede fra midten af 2024, hvor vi fik at vide, at det her ville blive en ting. Så jeg er stoked over at se det, og jeg tror, det kan være et kæmpe skridt frem for profitabiliteten for rigtig mange af de kunder, vi arbejder med Facebook-organisering for i FCDN Digital. Tusind tak, fordi du lyttede med til dagens episode. Held og lykke med at implementere det, og skyd endelig tilbage til os, hvis du får nogle læringer med, hvor godt det virker, det er vi super interesserede i. På genhør.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": " Hej og velkommen til dagens episode af MarketingPod med Christian Tinju på ferie.",
+      "speaker": "A"
+    },
+    {
+      "start": 3.64,
+      "end": 7.4,
+      "text": " Så er det Morten Bie, Facebook-annonceringsguruen, der er med igen,",
+      "speaker": "A"
+    },
+    {
+      "start": 7.4,
+      "end": 11.24,
+      "text": " og vi kommer til at snakke om en opdatering, som jeg har glædet mig sindssygt meget til.",
+      "speaker": "A"
+    },
+    {
+      "start": 11.24,
+      "end": 15.6,
+      "text": " Og jeg vil starte med at vise et tweet, der forklarer, hvorfor det her er helt fantastisk.",
+      "speaker": "A"
+    },
+    {
+      "start": 15.6,
+      "end": 20.4,
+      "text": " Incremental attribution er nemlig kommet ud på nu over 50% af Facebooks annoncekonting,",
+      "speaker": "A"
+    },
+    {
+      "start": 20.4,
+      "end": 23.04,
+      "text": " og det bliver rullet rigtig hurtigt ud i øjeblikket.",
+      "speaker": "A"
+    },
+    {
+      "start": 23.04,
+      "end": 27.4,
+      "text": " Incremental attribution handler om at vise den reelle effekt af ens Facebook-kampagne.",
+      "speaker": "A"
+    },
+    {
+      "start": 27.4,
+      "end": 31.0,
+      "text": " Vi har et tweet her, som viser et klip fra Succession,",
+      "speaker": "A"
+    },
+    {
+      "start": 31.0,
+      "end": 36.0,
+      "text": " et fantastisk succes med skuespilleren David Cox som den aldrende familiefar,",
+      "speaker": "A"
+    },
+    {
+      "start": 36.0,
+      "end": 41.2,
+      "text": " som er bygget over Murdoch-dynastiet, som i to billeder siger først,",
+      "speaker": "A"
+    },
+    {
+      "start": 41.2,
+      "end": 43.8,
+      "text": " congratulations on saying the biggest number.",
+      "speaker": "A"
+    },
+    {
+      "start": 43.8,
+      "end": 46.4,
+      "text": " I billedet nummer to siger, you fucking morons.",
+      "speaker": "A"
+    },
+    {
+      "start": 46.4,
+      "end": 48.2,
+      "text": " Morten Bie, kan du forklare joken her?",
+      "speaker": "A"
+    },
+    {
+      "start": 48.2,
+      "end": 50.6,
+      "text": " Nu har jeg jo ikke set filmen, eller forstår referencen.",
+      "speaker": "B"
+    },
+    {
+      "start": 50.6,
+      "end": 52.4,
+      "text": " Har du ikke set Succession?",
+      "speaker": "B"
+    },
+    {
+      "start": 52.4,
+      "end": 54.6,
+      "text": " Ej, er det en serie? Sorry.",
+      "speaker": "B"
+    },
+    {
+      "start": 54.6,
+      "end": 57.2,
+      "text": " Hellere opfølge den.",
+      "speaker": "B"
+    },
+    {
+      "start": 57.2,
+      "end": 60.8,
+      "text": " Men jeg tænker, at det må være fordi, at dine platforms ser dårlige ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 60.8,
+      "end": 61.6,
+      "text": " Er det derfor?",
+      "speaker": "B"
+    },
+    {
+      "start": 61.6,
+      "end": 65.0,
+      "text": " Nej, det er fordi, at it wasn't incremental.",
+      "speaker": "B"
+    },
+    {
+      "start": 65.0,
+      "end": 67.2,
+      "text": " Det er jo det. It wasn't incremental.",
+      "speaker": "A"
+    },
+    {
+      "start": 67.2,
+      "end": 70.2,
+      "text": " Okay, så de har bare banket op for Vue, og så har de givet en gas.",
+      "speaker": "B"
+    },
+    {
+      "start": 70.2,
+      "end": 72.2,
+      "text": " De har bare banket op for Vue-konverteringen.",
+      "speaker": "A"
+    },
+    {
+      "start": 72.2,
+      "end": 74.8,
+      "text": " Vue attribution har fået en masse konverteringer.",
+      "speaker": "A"
+    },
+    {
+      "start": 74.8,
+      "end": 80.8,
+      "text": " Incremental attribution er en fantastisk tilføjelse af Meta-ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 80.8,
+      "end": 82.6,
+      "text": " Det er en af de største opdateringer nogensinde.",
+      "speaker": "A"
+    },
+    {
+      "start": 82.6,
+      "end": 85.2,
+      "text": " Det er den bedste årsag til at købe Meta-aktier og hjælpe mig op af det hul,",
+      "speaker": "A"
+    },
+    {
+      "start": 85.2,
+      "end": 87.6,
+      "text": " jeg har gravet mig ned i de sidste par måneder for dig,",
+      "speaker": "A"
+    },
+    {
+      "start": 87.6,
+      "end": 90.4,
+      "text": " som har nogle sparepenge, du ikke har smidt i det amerikanske aktiemarked endnu.",
+      "speaker": "A"
+    },
+    {
+      "start": 90.4,
+      "end": 93.4,
+      "text": " Men det handler basically om, at Meta vil hjælpe dig med at finde ud af,",
+      "speaker": "A"
+    },
+    {
+      "start": 93.4,
+      "end": 96.0,
+      "text": " hvilke kampagner, der faktisk skaber værdi for dig.",
+      "speaker": "A"
+    },
+    {
+      "start": 96.0,
+      "end": 98.4,
+      "text": " Og de kampagner, der faktisk skaber værdi for dig,",
+      "speaker": "A"
+    },
+    {
+      "start": 98.4,
+      "end": 101.4,
+      "text": " er ikke nødvendigvis dem, der viser de højeste afkastetal.",
+      "speaker": "A"
+    },
+    {
+      "start": 101.4,
+      "end": 103.8,
+      "text": " De kampagner, du har lige nu, der viser den højeste ro,",
+      "speaker": "A"
+    },
+    {
+      "start": 103.8,
+      "end": 106.4,
+      "text": " altså er ikke nødvendigvis det, der skaber mest værdi for dig.",
+      "speaker": "A"
+    },
+    {
+      "start": 106.4,
+      "end": 107.8,
+      "text": " Og det er det, der er joken i billedet her.",
+      "speaker": "A"
+    },
+    {
+      "start": 107.8,
+      "end": 111.2,
+      "text": " Congratulations on saying the biggest number, you fucking morons.",
+      "speaker": "A"
+    },
+    {
+      "start": 111.2,
+      "end": 113.0,
+      "text": " Morten, kan du ikke komme med nogle af årsagerne til,",
+      "speaker": "A"
+    },
+    {
+      "start": 113.0,
+      "end": 117.0,
+      "text": " hvorfor kan det være, at de kampagner, som viser det højeste afkastetal,",
+      "speaker": "A"
+    },
+    {
+      "start": 117.0,
+      "end": 119.4,
+      "text": " den højeste ro, altså i virkeligheden slet ikke leverer det?",
+      "speaker": "A"
+    },
+    {
+      "start": 119.4,
+      "end": 120.4,
+      "text": " Hvad er det, der går galt?",
+      "speaker": "A"
+    },
+    {
+      "start": 120.4,
+      "end": 122.0,
+      "text": " Ja, så er vi delt nok med to ting.",
+      "speaker": "B"
+    },
+    {
+      "start": 122.0,
+      "end": 125.2,
+      "text": " Den ene er selvfølgelig dagens stor emne, incrementality.",
+      "speaker": "B"
+    },
+    {
+      "start": 125.2,
+      "end": 129.0,
+      "text": " Og den anden er henholdsvis klik og visningstilskrivning,",
+      "speaker": "B"
+    },
+    {
+      "start": 129.0,
+      "end": 131.0,
+      "text": " og så også det, der hedder engage view på Meta nu her,",
+      "speaker": "B"
+    },
+    {
+      "start": 131.0,
+      "end": 133.0,
+      "text": " så det er jo den 7-7-1-1-poæng.",
+      "speaker": "B"
+    },
+    {
+      "start": 133.2,
+      "end": 135.4,
+      "text": " Så der, hvor vi typisk ser det, det er, at der stadigvæk er mange,",
+      "speaker": "B"
+    },
+    {
+      "start": 135.4,
+      "end": 137.4,
+      "text": " der tænker, at de kan hacke et retargeting flow",
+      "speaker": "B"
+    },
+    {
+      "start": 137.4,
+      "end": 143.0,
+      "text": " eller sætte et forhøjt existing budget cap på deres advantage plus.",
+      "speaker": "B"
+    },
+    {
+      "start": 143.0,
+      "end": 145.2,
+      "text": " Existing customer budget cap, ja.",
+      "speaker": "B"
+    },
+    {
+      "start": 145.2,
+      "end": 146.4,
+      "text": " Netop, ja.",
+      "speaker": "B"
+    },
+    {
+      "start": 146.4,
+      "end": 149.2,
+      "text": " Og dermed rammer rigtig meget af deres spend på det,",
+      "speaker": "B"
+    },
+    {
+      "start": 149.2,
+      "end": 151.2,
+      "text": " som vi definerer som retargeting målgrupper.",
+      "speaker": "B"
+    },
+    {
+      "start": 151.2,
+      "end": 153.8,
+      "text": " Men som et bund og grund af retargeting målgrupper,",
+      "speaker": "B"
+    },
+    {
+      "start": 153.8,
+      "end": 156.2,
+      "text": " var det ikke Meta, der overhovedet sørgede for det.",
+      "speaker": "B"
+    },
+    {
+      "start": 156.2,
+      "end": 159.8,
+      "text": " Altså de, der får annoncen, havde købt alligevel.",
+      "speaker": "B"
+    },
+    {
+      "start": 159.8,
+      "end": 161.0,
+      "text": " Du sender mig en mail.",
+      "speaker": "B"
+    },
+    {
+      "start": 161.0,
+      "end": 163.0,
+      "text": " Der er 40% inde på Zalando.",
+      "speaker": "B"
+    },
+    {
+      "start": 163.0,
+      "end": 165.0,
+      "text": " Jeg går ind på Zalando og kigger og finder ud af,",
+      "speaker": "B"
+    },
+    {
+      "start": 165.0,
+      "end": 167.6,
+      "text": " jeg venter lige til senere, fordi jeg vil gerne lige hjem på min computer,",
+      "speaker": "B"
+    },
+    {
+      "start": 167.6,
+      "end": 169.6,
+      "text": " sådan en boomer jeg.",
+      "speaker": "B"
+    },
+    {
+      "start": 169.6,
+      "end": 171.6,
+      "text": " Og så ser jeg lige Meta på vejen, og så siger Meta,",
+      "speaker": "B"
+    },
+    {
+      "start": 171.6,
+      "end": 173.0,
+      "text": " det var mig, der skaffede den.",
+      "speaker": "B"
+    },
+    {
+      "start": 173.0,
+      "end": 174.8,
+      "text": " Og dertil incrementality.",
+      "speaker": "B"
+    },
+    {
+      "start": 174.8,
+      "end": 178.2,
+      "text": " Altså vi har rigtig, rigtig mange af vores tilskrivninger på Meta,",
+      "speaker": "B"
+    },
+    {
+      "start": 178.2,
+      "end": 181.6,
+      "text": " som ikke nødvendigvis er tilskrivninger, vi burde have lavet.",
+      "speaker": "B"
+    },
+    {
+      "start": 181.6,
+      "end": 183.4,
+      "text": " Fordi, at de var kommet alligevel.",
+      "speaker": "B"
+    },
+    {
+      "start": 183.4,
+      "end": 185.4,
+      "text": " Og det er jo sådan lidt, det er måske lidt svært at forstå,",
+      "speaker": "A"
+    },
+    {
+      "start": 185.4,
+      "end": 187.4,
+      "text": " hvis ikke man har snakket om det her før.",
+      "speaker": "A"
+    },
+    {
+      "start": 187.4,
+      "end": 189.4,
+      "text": " Men et andet eksempel på incrementality, det er,",
+      "speaker": "A"
+    },
+    {
+      "start": 189.4,
+      "end": 192.4,
+      "text": " lad os sige, at man har en webshop, og man kører en annoncering på Facebook,",
+      "speaker": "A"
+    },
+    {
+      "start": 192.4,
+      "end": 194.4,
+      "text": " og Facebook siger, at man har omsat 1 million kroner.",
+      "speaker": "A"
+    },
+    {
+      "start": 194.4,
+      "end": 196.4,
+      "text": " Og man kører en annoncering på Google, og Google siger,",
+      "speaker": "A"
+    },
+    {
+      "start": 196.4,
+      "end": 197.8,
+      "text": " at man har omsat 1 million kroner.",
+      "speaker": "A"
+    },
+    {
+      "start": 197.8,
+      "end": 200.4,
+      "text": " Så burde man jo have omsat 2 millioner kroner.",
+      "speaker": "A"
+    },
+    {
+      "start": 200.4,
+      "end": 202.4,
+      "text": " Men hvis man går ind og kigger i shoppen, så har man kun omsat",
+      "speaker": "A"
+    },
+    {
+      "start": 202.4,
+      "end": 204.0,
+      "text": " 1,5 million kroner.",
+      "speaker": "A"
+    },
+    {
+      "start": 204.0,
+      "end": 206.0,
+      "text": " Og det er simpelthen fordi, at både Google og Meta",
+      "speaker": "A"
+    },
+    {
+      "start": 206.0,
+      "end": 208.4,
+      "text": " kan tilskrive sig værdien for den samme konvertering.",
+      "speaker": "A"
+    },
+    {
+      "start": 208.4,
+      "end": 210.4,
+      "text": " Og så bliver det et spørgsmål om tilskrivning.",
+      "speaker": "A"
+    },
+    {
+      "start": 210.4,
+      "end": 212.4,
+      "text": " Hvor meget værdi vil du tilskrive den enkelte kanal,",
+      "speaker": "A"
+    },
+    {
+      "start": 212.4,
+      "end": 215.4,
+      "text": " som gør, at du kan afgøre, om du skal skrue op eller ned",
+      "speaker": "A"
+    },
+    {
+      "start": 215.4,
+      "end": 216.4,
+      "text": " for den pågældende kanal.",
+      "speaker": "A"
+    },
+    {
+      "start": 216.4,
+      "end": 218.4,
+      "text": " Og tilskrivning er bare megasvært.",
+      "speaker": "A"
+    },
+    {
+      "start": 218.4,
+      "end": 221.4,
+      "text": " Marketing attribution, som det også hedder, det er et megasvært emne.",
+      "speaker": "A"
+    },
+    {
+      "start": 221.4,
+      "end": 223.4,
+      "text": " Fordi platformene snakker ikke sammen, så Google og Meta",
+      "speaker": "A"
+    },
+    {
+      "start": 223.4,
+      "end": 225.4,
+      "text": " snakker ikke sammen, og går ind og fordeler værdien",
+      "speaker": "A"
+    },
+    {
+      "start": 225.4,
+      "end": 227.4,
+      "text": " af den enkelte konvertering til dig.",
+      "speaker": "A"
+    },
+    {
+      "start": 227.4,
+      "end": 229.4,
+      "text": " Google Analytics 4 gør, med det skodredskab,",
+      "speaker": "A"
+    },
+    {
+      "start": 229.4,
+      "end": 231.4,
+      "text": " som ikke måler alle dine konverteringer, og har alt for kort",
+      "speaker": "A"
+    },
+    {
+      "start": 231.4,
+      "end": 233.4,
+      "text": " cookieperioder og alt muligt andet.",
+      "speaker": "A"
+    },
+    {
+      "start": 233.4,
+      "end": 235.4,
+      "text": " Selv hvis du sætter server-side-tagning op, det er bedre,",
+      "speaker": "A"
+    },
+    {
+      "start": 235.4,
+      "end": 236.4,
+      "text": " men det er ikke perfekt.",
+      "speaker": "A"
+    },
+    {
+      "start": 236.4,
+      "end": 238.4,
+      "text": " Så marketing attribution er en kæmpe udfordring,",
+      "speaker": "A"
+    },
+    {
+      "start": 238.4,
+      "end": 240.4,
+      "text": " du bare ikke kan løse.",
+      "speaker": "A"
+    },
+    {
+      "start": 240.4,
+      "end": 242.4,
+      "text": " Du er nødt til at være dybt nede i dine tal,",
+      "speaker": "A"
+    },
+    {
+      "start": 242.4,
+      "end": 244.4,
+      "text": " og virkelig have en forståelse for, hvad der rent faktisk",
+      "speaker": "A"
+    },
+    {
+      "start": 244.4,
+      "end": 246.4,
+      "text": " sker værdi, når du skal allokere dit budget.",
+      "speaker": "A"
+    },
+    {
+      "start": 246.4,
+      "end": 248.4,
+      "text": " Og her er der incremental attribution.",
+      "speaker": "A"
+    },
+    {
+      "start": 248.4,
+      "end": 249.4,
+      "text": " Fantastisk.",
+      "speaker": "A"
+    },
+    {
+      "start": 249.4,
+      "end": 252.4,
+      "text": " Tanken med incremental attribution på Meta,",
+      "speaker": "A"
+    },
+    {
+      "start": 252.4,
+      "end": 254.4,
+      "text": " som jeg tror på dansk kommer til at hedde noget med tilvækst,",
+      "speaker": "A"
+    },
+    {
+      "start": 254.4,
+      "end": 255.4,
+      "text": " eller sådan noget.",
+      "speaker": "A"
+    },
+    {
+      "start": 255.4,
+      "end": 257.4,
+      "text": " Vi bruger ikke rigtig ordet inkremental, så jeg tror,",
+      "speaker": "A"
+    },
+    {
+      "start": 257.4,
+      "end": 259.4,
+      "text": " det kommer til at hedde noget i stil med tilvækstkonverteringer.",
+      "speaker": "A"
+    },
+    {
+      "start": 259.4,
+      "end": 261.4,
+      "text": " Men på engelsk hedder det i hvert fald incremental attribution.",
+      "speaker": "A"
+    },
+    {
+      "start": 261.4,
+      "end": 265.4,
+      "text": " Det er, at du beder Meta om at optimere dine kampagner,",
+      "speaker": "A"
+    },
+    {
+      "start": 265.4,
+      "end": 268.4,
+      "text": " således at de leverer salg, du ikke havde fået alligevel.",
+      "speaker": "A"
+    },
+    {
+      "start": 268.4,
+      "end": 271.4,
+      "text": " Og det lyder jo for sindssygt åbenlyst.",
+      "speaker": "A"
+    },
+    {
+      "start": 271.4,
+      "end": 274.4,
+      "text": " Selvfølgelig vil du gerne have salg, som du ikke havde fået alligevel.",
+      "speaker": "A"
+    },
+    {
+      "start": 274.4,
+      "end": 277.4,
+      "text": " Men udfordringen er, at det kræver faktisk temmelig meget data",
+      "speaker": "A"
+    },
+    {
+      "start": 277.4,
+      "end": 279.4,
+      "text": " og nogle meget sofistikerede algoritmer, hvis de skal kunne gå ind",
+      "speaker": "A"
+    },
+    {
+      "start": 279.4,
+      "end": 283.4,
+      "text": " og vurdere, hvilke af dine kunder ville have købt alligevel,",
+      "speaker": "A"
+    },
+    {
+      "start": 283.4,
+      "end": 285.4,
+      "text": " og hvilke ville ikke have købt alligevel.",
+      "speaker": "A"
+    },
+    {
+      "start": 285.4,
+      "end": 287.4,
+      "text": " Det sjove er, at Facebook har faktisk allerede tilbudt",
+      "speaker": "A"
+    },
+    {
+      "start": 287.4,
+      "end": 290.4,
+      "text": " den her former for analyser eller studier,",
+      "speaker": "A"
+    },
+    {
+      "start": 290.4,
+      "end": 293.4,
+      "text": " der køber med det, der hedder et conversion lift study tidligere.",
+      "speaker": "A"
+    },
+    {
+      "start": 293.4,
+      "end": 296.4,
+      "text": " Og Morten, hvad er et conversion lift study på Meta i virkeligheden,",
+      "speaker": "A"
+    },
+    {
+      "start": 296.4,
+      "end": 298.4,
+      "text": " og hvor meget kræver det at sætte sådan et i gang?",
+      "speaker": "A"
+    },
+    {
+      "start": 298.4,
+      "end": 301.4,
+      "text": " Fordi det er jo lidt forløberen til incremental attribution, det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 301.4,
+      "end": 304.4,
+      "text": " Yes, conversion lift study, der er to dele af det.",
+      "speaker": "B"
+    },
+    {
+      "start": 304.4,
+      "end": 307.4,
+      "text": " Der er det, der hedder self-service, og der er det, der hedder managed.",
+      "speaker": "B"
+    },
+    {
+      "start": 307.4,
+      "end": 309.4,
+      "text": " Og det eneste forskel er self-service.",
+      "speaker": "B"
+    },
+    {
+      "start": 309.4,
+      "end": 312.4,
+      "text": " Der kan du selv gå ind under dine experiments eller experiment taben,",
+      "speaker": "B"
+    },
+    {
+      "start": 312.4,
+      "end": 315.4,
+      "text": " det samme sted du laver en A-B-test, og så sætte det op.",
+      "speaker": "B"
+    },
+    {
+      "start": 315.4,
+      "end": 317.4,
+      "text": " Det kan du gøre på annoncekonto niveau,",
+      "speaker": "B"
+    },
+    {
+      "start": 317.4,
+      "end": 320.4,
+      "text": " du kan gøre det på kampanjeniveau eller på asset niveau.",
+      "speaker": "B"
+    },
+    {
+      "start": 320.4,
+      "end": 323.4,
+      "text": " Og det som man gerne vil måle med conversion lift study,",
+      "speaker": "B"
+    },
+    {
+      "start": 323.4,
+      "end": 326.4,
+      "text": " det er, at der er en vis del af målgruppen,",
+      "speaker": "B"
+    },
+    {
+      "start": 326.4,
+      "end": 329.4,
+      "text": " af din samlede målgruppe, som ikke får en annonce i en periode.",
+      "speaker": "B"
+    },
+    {
+      "start": 329.4,
+      "end": 333.4,
+      "text": " Det plejer at være 10% af din samlede 100% målgruppe.",
+      "speaker": "B"
+    },
+    {
+      "start": 333.4,
+      "end": 336.4,
+      "text": " Jamen i en 4-års periode, hvor du kører et conversion lift study,",
+      "speaker": "B"
+    },
+    {
+      "start": 336.4,
+      "end": 338.4,
+      "text": " der får de ingen annonce fra dig.",
+      "speaker": "B"
+    },
+    {
+      "start": 338.4,
+      "end": 341.4,
+      "text": " Så lad os sige, at du har en målgruppe på 100.000,",
+      "speaker": "A"
+    },
+    {
+      "start": 341.4,
+      "end": 343.4,
+      "text": " så er der 10.000 af dem, som simpelthen får intet,",
+      "speaker": "A"
+    },
+    {
+      "start": 343.4,
+      "end": 345.4,
+      "text": " hverken fra den her kampagne eller andre kampagner,",
+      "speaker": "A"
+    },
+    {
+      "start": 345.4,
+      "end": 347.4,
+      "text": " eller organisk, de får altså ingenting.",
+      "speaker": "A"
+    },
+    {
+      "start": 347.4,
+      "end": 348.4,
+      "text": " De er låst helt ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 348.4,
+      "end": 350.4,
+      "text": " Og så har der været den kampagne, der selvfølgelig kører,",
+      "speaker": "B"
+    },
+    {
+      "start": 350.4,
+      "end": 354.4,
+      "text": " som skal man sige normalt, altså du bliver eksponeret for annoncerne.",
+      "speaker": "B"
+    },
+    {
+      "start": 354.4,
+      "end": 357.4,
+      "text": " Og så efter det endte studie, så deler Meta dig op og siger,",
+      "speaker": "B"
+    },
+    {
+      "start": 357.4,
+      "end": 359.4,
+      "text": " not exposed to ads, altså vores holdout-gruppe,",
+      "speaker": "B"
+    },
+    {
+      "start": 359.4,
+      "end": 360.4,
+      "text": " og dem der er exposed to ads.",
+      "speaker": "B"
+    },
+    {
+      "start": 360.4,
+      "end": 362.4,
+      "text": " Fordi så får du det lift, der hedder,",
+      "speaker": "B"
+    },
+    {
+      "start": 362.4,
+      "end": 364.4,
+      "text": " hvad er forskellen på at køre ads og ikke køre ads.",
+      "speaker": "B"
+    },
+    {
+      "start": 364.4,
+      "end": 367.4,
+      "text": " Der skulle du gerne have et godt lift.",
+      "speaker": "B"
+    },
+    {
+      "start": 367.4,
+      "end": 369.4,
+      "text": " Vi har set studier før, hvor det er nogenlunde den samme graf,",
+      "speaker": "B"
+    },
+    {
+      "start": 369.4,
+      "end": 371.4,
+      "text": " og så er det selvfølgelig ikke super godt.",
+      "speaker": "B"
+    },
+    {
+      "start": 371.4,
+      "end": 373.4,
+      "text": " Men du skulle jo gerne kunne se, at når du rent faktisk eksponerer folk,",
+      "speaker": "B"
+    },
+    {
+      "start": 373.4,
+      "end": 375.4,
+      "text": " altså din målgruppe på Meta,",
+      "speaker": "B"
+    },
+    {
+      "start": 375.4,
+      "end": 377.4,
+      "text": " så har du et lift, altså et conversion lift.",
+      "speaker": "B"
+    },
+    {
+      "start": 379.4,
+      "end": 381.4,
+      "text": " Det du skal være opmærksom på her, det er,",
+      "speaker": "B"
+    },
+    {
+      "start": 381.4,
+      "end": 383.4,
+      "text": " at conversion lift er ikke nødvendigvis spendbaseret,",
+      "speaker": "B"
+    },
+    {
+      "start": 383.4,
+      "end": 385.4,
+      "text": " det er signalbaseret.",
+      "speaker": "B"
+    },
+    {
+      "start": 385.4,
+      "end": 387.4,
+      "text": " Så før du først kan unlock det,",
+      "speaker": "B"
+    },
+    {
+      "start": 387.4,
+      "end": 390.4,
+      "text": " så skal det have minimum 500 eksponerede signaler til din konto.",
+      "speaker": "B"
+    },
+    {
+      "start": 390.4,
+      "end": 392.4,
+      "text": " Så en ny konto vil være svær at gøre det på.",
+      "speaker": "B"
+    },
+    {
+      "start": 392.4,
+      "end": 395.4,
+      "text": " Nummer to, det er, at du skal have,",
+      "speaker": "B"
+    },
+    {
+      "start": 395.4,
+      "end": 398.4,
+      "text": " jeg vil sige et sted mellem 500 til 1000 signaler,",
+      "speaker": "B"
+    },
+    {
+      "start": 398.4,
+      "end": 400.4,
+      "text": " før det her begynder at blive sjovt.",
+      "speaker": "B"
+    },
+    {
+      "start": 401.4,
+      "end": 403.4,
+      "text": " Så du skal egentlig regne din CPA,",
+      "speaker": "B"
+    },
+    {
+      "start": 403.4,
+      "end": 405.4,
+      "text": " for at kunne regne ud, hvor mange konverteringer skal der igennem din kampagne.",
+      "speaker": "B"
+    },
+    {
+      "start": 405.4,
+      "end": 407.4,
+      "text": " Men for at sætte det op,",
+      "speaker": "B"
+    },
+    {
+      "start": 407.4,
+      "end": 410.4,
+      "text": " der skal du bare have et minimumspendt i et periode på 5000 dollars som minimum.",
+      "speaker": "B"
+    },
+    {
+      "start": 410.4,
+      "end": 412.4,
+      "text": " Så det er ikke nødvendigvis, fordi du skal bruge rigtig mange penge.",
+      "speaker": "B"
+    },
+    {
+      "start": 412.4,
+      "end": 415.4,
+      "text": " Jeg har tidligere kørt et conversion lift-study for en kunde,",
+      "speaker": "A"
+    },
+    {
+      "start": 415.4,
+      "end": 418.4,
+      "text": " der viste et konverterings-lift på to.",
+      "speaker": "A"
+    },
+    {
+      "start": 418.4,
+      "end": 421.4,
+      "text": " Så det viste, at den målgruppe, som ikke havde fået annoncer,",
+      "speaker": "A"
+    },
+    {
+      "start": 421.4,
+      "end": 423.4,
+      "text": " som du også kan se på skærmen her,",
+      "speaker": "A"
+    },
+    {
+      "start": 423.4,
+      "end": 425.4,
+      "text": " de havde konverteret cirka, lad os sige,",
+      "speaker": "A"
+    },
+    {
+      "start": 425.4,
+      "end": 427.4,
+      "text": " de havde konverteret 668 gange.",
+      "speaker": "A"
+    },
+    {
+      "start": 427.4,
+      "end": 429.4,
+      "text": " Så for dem, der ingen annoncer havde fået,",
+      "speaker": "A"
+    },
+    {
+      "start": 429.4,
+      "end": 431.4,
+      "text": " den her holdout-målgruppe på 10%,",
+      "speaker": "A"
+    },
+    {
+      "start": 431.4,
+      "end": 433.4,
+      "text": " havde konverteret 668 gange.",
+      "speaker": "A"
+    },
+    {
+      "start": 433.4,
+      "end": 435.4,
+      "text": " De personer, som så fik annoncer,",
+      "speaker": "A"
+    },
+    {
+      "start": 435.4,
+      "end": 437.4,
+      "text": " konverterede 670 gange.",
+      "speaker": "A"
+    },
+    {
+      "start": 437.4,
+      "end": 439.4,
+      "text": " Så det vil sige, at vi fik to ekstra konverteringer.",
+      "speaker": "A"
+    },
+    {
+      "start": 439.4,
+      "end": 441.4,
+      "text": " Det her, det er jo worst case scenario.",
+      "speaker": "A"
+    },
+    {
+      "start": 441.4,
+      "end": 443.4,
+      "text": " Det er det, man ikke ønsker at se.",
+      "speaker": "A"
+    },
+    {
+      "start": 443.4,
+      "end": 446.4,
+      "text": " Og det her, det er et rigtigt billede fra et rigtigt conversion lift-study,",
+      "speaker": "A"
+    },
+    {
+      "start": 446.4,
+      "end": 448.4,
+      "text": " som var en af vores kunder, der kørte,",
+      "speaker": "A"
+    },
+    {
+      "start": 448.4,
+      "end": 450.4,
+      "text": " som viste, at vores Facebook-organisering var basically værdiløs.",
+      "speaker": "A"
+    },
+    {
+      "start": 450.4,
+      "end": 453.4,
+      "text": " 668 ud af 670 konverteringer,",
+      "speaker": "A"
+    },
+    {
+      "start": 453.4,
+      "end": 455.4,
+      "text": " de var kommet alligevel.",
+      "speaker": "A"
+    },
+    {
+      "start": 455.4,
+      "end": 457.4,
+      "text": " Det betyder, at alle de penge, du har brugt,",
+      "speaker": "A"
+    },
+    {
+      "start": 457.4,
+      "end": 459.4,
+      "text": " er fuldstændig spillet på to konverteringer.",
+      "speaker": "A"
+    },
+    {
+      "start": 459.4,
+      "end": 461.4,
+      "text": " Det er jammerligt.",
+      "speaker": "A"
+    },
+    {
+      "start": 461.4,
+      "end": 463.4,
+      "text": " Og hvis jeg husker rigtigt, var det her jo en retargeting-kampagne,",
+      "speaker": "A"
+    },
+    {
+      "start": 463.4,
+      "end": 465.4,
+      "text": " som jeg gerne ville have, at en af vores kunder brugte færre penge på.",
+      "speaker": "A"
+    },
+    {
+      "start": 465.4,
+      "end": 467.4,
+      "text": " Fordi jeg har set det her mange gange før,",
+      "speaker": "A"
+    },
+    {
+      "start": 467.4,
+      "end": 469.4,
+      "text": " men de insisterede på, at den her, den giver rigtig god værdi.",
+      "speaker": "A"
+    },
+    {
+      "start": 469.4,
+      "end": 471.4,
+      "text": " Og det gør den.",
+      "speaker": "A"
+    },
+    {
+      "start": 471.4,
+      "end": 473.4,
+      "text": " Det er bare værdi, du havde fået alligevel.",
+      "speaker": "A"
+    },
+    {
+      "start": 473.4,
+      "end": 475.4,
+      "text": " Det kommer ikke fra den her kampagne.",
+      "speaker": "A"
+    },
+    {
+      "start": 475.4,
+      "end": 477.4,
+      "text": " Det målretter kun personer, der havde konverteret alligevel.",
+      "speaker": "A"
+    },
+    {
+      "start": 477.4,
+      "end": 479.4,
+      "text": " Og det er her, hvor incrementality bliver så svært.",
+      "speaker": "A"
+    },
+    {
+      "start": 479.4,
+      "end": 481.4,
+      "text": " Og det her er faktisk en af mine primære pointer med dagens episode.",
+      "speaker": "A"
+    },
+    {
+      "start": 481.4,
+      "end": 483.4,
+      "text": " Fordi Morten, hvad sker der,",
+      "speaker": "A"
+    },
+    {
+      "start": 483.4,
+      "end": 485.4,
+      "text": " hvis du slår incremental conversions til på din konto,",
+      "speaker": "A"
+    },
+    {
+      "start": 485.4,
+      "end": 487.4,
+      "text": " og du rent faktisk begynder at rapportere på incremental conversions",
+      "speaker": "A"
+    },
+    {
+      "start": 487.4,
+      "end": 489.4,
+      "text": " i forhold til den normale tilskrivningsperiode,",
+      "speaker": "A"
+    },
+    {
+      "start": 489.4,
+      "end": 491.4,
+      "text": " for eksempel 7.1?",
+      "speaker": "A"
+    },
+    {
+      "start": 491.4,
+      "end": 493.4,
+      "text": " Fordi det får jo ikke din annonce til at se bedre ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 493.4,
+      "end": 495.4,
+      "text": " Det hele kommer til at se bedre ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 495.4,
+      "end": 497.4,
+      "text": " Altså i bund og grund, når du logger ind på din konto,",
+      "speaker": "A"
+    },
+    {
+      "start": 497.4,
+      "end": 499.4,
+      "text": " og hvis du sidder og kigger på CPA-niveauer,",
+      "speaker": "B"
+    },
+    {
+      "start": 499.4,
+      "end": 501.4,
+      "text": " eller ROAS-niveauer eller andet,",
+      "speaker": "B"
+    },
+    {
+      "start": 501.4,
+      "end": 503.4,
+      "text": " og du slår det her til,",
+      "speaker": "B"
+    },
+    {
+      "start": 503.4,
+      "end": 505.4,
+      "text": " så vil du fra nærmest den ene dag ind til den anden,",
+      "speaker": "B"
+    },
+    {
+      "start": 505.4,
+      "end": 507.4,
+      "text": " se, at din CPA og din ROAS-niveau,",
+      "speaker": "B"
+    },
+    {
+      "start": 507.4,
+      "end": 509.4,
+      "text": " henholdsvis stiger og falder.",
+      "speaker": "B"
+    },
+    {
+      "start": 509.4,
+      "end": 511.4,
+      "text": " Og det er der, det kommer til at gå galt.",
+      "speaker": "B"
+    },
+    {
+      "start": 511.4,
+      "end": 513.4,
+      "text": " Fordi der er allerede mange, hvor vi,",
+      "speaker": "B"
+    },
+    {
+      "start": 513.4,
+      "end": 515.4,
+      "text": " hvis vi tester for eksempel 7-dages klik,",
+      "speaker": "B"
+    },
+    {
+      "start": 515.4,
+      "end": 517.4,
+      "text": " mod 7-dages klik og 1-dages visning,",
+      "speaker": "B"
+    },
+    {
+      "start": 517.4,
+      "end": 519.4,
+      "text": " så kan vi godt vise, at vi faktisk får flere",
+      "speaker": "B"
+    },
+    {
+      "start": 519.4,
+      "end": 521.4,
+      "text": " og billigere klik-tilskrivninger.",
+      "speaker": "B"
+    },
+    {
+      "start": 521.4,
+      "end": 523.4,
+      "text": " Men fordi det aktivt ser dårligere ud",
+      "speaker": "B"
+    },
+    {
+      "start": 523.4,
+      "end": 525.4,
+      "text": " inden i annonceplatformen,",
+      "speaker": "B"
+    },
+    {
+      "start": 525.4,
+      "end": 527.4,
+      "text": " så er det ikke alle, der har den forståelse for,",
+      "speaker": "B"
+    },
+    {
+      "start": 527.4,
+      "end": 529.4,
+      "text": " jamen det er rent faktisk godt,",
+      "speaker": "B"
+    },
+    {
+      "start": 529.4,
+      "end": 531.4,
+      "text": " at det ser dårligere ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 531.4,
+      "end": 533.4,
+      "text": " Og det er der, det kommer til.",
+      "speaker": "B"
+    },
+    {
+      "start": 533.4,
+      "end": 535.4,
+      "text": " Og jeg tror, der er rigtig, rigtig meget,",
+      "speaker": "B"
+    },
+    {
+      "start": 535.4,
+      "end": 537.4,
+      "text": " der hedder om, at der er mange,",
+      "speaker": "B"
+    },
+    {
+      "start": 537.4,
+      "end": 539.4,
+      "text": " der ikke har is i maven til at gøre det på deres konto,",
+      "speaker": "B"
+    },
+    {
+      "start": 539.4,
+      "end": 541.4,
+      "text": " fordi meta er så stor en forretningsfaktor",
+      "speaker": "B"
+    },
+    {
+      "start": 541.4,
+      "end": 543.4,
+      "text": " for mange e-commerces. Så hvis man snor det her til,",
+      "speaker": "B"
+    },
+    {
+      "start": 543.4,
+      "end": 545.4,
+      "text": " så skal du jo tænke på, jamen det er bedre,",
+      "speaker": "B"
+    },
+    {
+      "start": 545.4,
+      "end": 547.4,
+      "text": " at det er dårligere. Og logisk,",
+      "speaker": "B"
+    },
+    {
+      "start": 547.4,
+      "end": 549.4,
+      "text": " så er det rigtig svært. Det ser dårligere ud,",
+      "speaker": "A"
+    },
+    {
+      "start": 549.4,
+      "end": 551.4,
+      "text": " men det er bedre. Det er dårligere, men det er bedre.",
+      "speaker": "A"
+    },
+    {
+      "start": 551.4,
+      "end": 553.4,
+      "text": " Grunden til det her, det er, at jeg ikke har fået",
+      "speaker": "B"
+    },
+    {
+      "start": 553.4,
+      "end": 555.4,
+      "text": " ret meget opmærksomhed. Grunden til det her er også,",
+      "speaker": "B"
+    },
+    {
+      "start": 555.4,
+      "end": 557.4,
+      "text": " at jeg tror, der går lang tid inden folk rent faktisk får det her brugt.",
+      "speaker": "B"
+    },
+    {
+      "start": 557.4,
+      "end": 559.4,
+      "text": " Jeg tror, der er 10% af det danske marked,",
+      "speaker": "B"
+    },
+    {
+      "start": 559.4,
+      "end": 561.4,
+      "text": " de kommer til at adaptere",
+      "speaker": "B"
+    },
+    {
+      "start": 561.4,
+      "end": 563.4,
+      "text": " med det samme.",
+      "speaker": "B"
+    },
+    {
+      "start": 563.4,
+      "end": 565.4,
+      "text": " Prøv at fortælle dig en case-study fra et bureau,",
+      "speaker": "A"
+    },
+    {
+      "start": 565.4,
+      "end": 567.4,
+      "text": " sådan, jeg har slået incremental attribution til",
+      "speaker": "A"
+    },
+    {
+      "start": 567.4,
+      "end": 569.4,
+      "text": " i min roersfald 20%.",
+      "speaker": "A"
+    },
+    {
+      "start": 569.4,
+      "end": 571.4,
+      "text": " Ja, og det er jo det, der kommer til at ske.",
+      "speaker": "A"
+    },
+    {
+      "start": 571.4,
+      "end": 573.4,
+      "text": " Det ser ikke så godt ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 573.4,
+      "end": 575.4,
+      "text": " Jeg tror virkelig,",
+      "speaker": "B"
+    },
+    {
+      "start": 575.4,
+      "end": 577.4,
+      "text": " jeg tror virkelig, at det er sådan, altså,",
+      "speaker": "B"
+    },
+    {
+      "start": 577.4,
+      "end": 579.4,
+      "text": " jeg tror ikke, det er noget nyt for os og dem, der arbejder med meta,",
+      "speaker": "B"
+    },
+    {
+      "start": 579.4,
+      "end": 581.4,
+      "text": " det er, at det er noget af det største monsterskab",
+      "speaker": "B"
+    },
+    {
+      "start": 581.4,
+      "end": 583.4,
+      "text": " på meta. Men jeg tror,",
+      "speaker": "B"
+    },
+    {
+      "start": 583.4,
+      "end": 585.4,
+      "text": " det store totale marked",
+      "speaker": "B"
+    },
+    {
+      "start": 585.4,
+      "end": 587.4,
+      "text": " af dem, der arbejder med meta nemlig tænker,",
+      "speaker": "B"
+    },
+    {
+      "start": 587.4,
+      "end": 589.4,
+      "text": " at det går rigtig, rigtig, rigtig lang tid inden, at vi har",
+      "speaker": "B"
+    },
+    {
+      "start": 589.4,
+      "end": 591.4,
+      "text": " en høj adaptionskubler.",
+      "speaker": "B"
+    },
+    {
+      "start": 591.4,
+      "end": 593.4,
+      "text": " Altså, hvis man forestiller sig, at du sidder i sådan en",
+      "speaker": "A"
+    },
+    {
+      "start": 593.4,
+      "end": 595.4,
+      "text": " marketingafdeling og viser resultaten til din chef,",
+      "speaker": "A"
+    },
+    {
+      "start": 595.4,
+      "end": 597.4,
+      "text": " og det eneste, han eller hun kan se,",
+      "speaker": "A"
+    },
+    {
+      "start": 597.4,
+      "end": 599.4,
+      "text": " det er bare, at alt er 20% dårligere end sidste måned,",
+      "speaker": "A"
+    },
+    {
+      "start": 599.4,
+      "end": 601.4,
+      "text": " så skal du virkelig være dygtig til at forklare vedkommende,",
+      "speaker": "A"
+    },
+    {
+      "start": 601.4,
+      "end": 603.4,
+      "text": " hvorfor det her er en god nyhed. Selvom det er det.",
+      "speaker": "A"
+    },
+    {
+      "start": 603.4,
+      "end": 605.4,
+      "text": " Det er en god nyhed.",
+      "speaker": "A"
+    },
+    {
+      "start": 605.4,
+      "end": 607.4,
+      "text": " Men du skal virkelig være dygtig til at forklare det,",
+      "speaker": "A"
+    },
+    {
+      "start": 607.4,
+      "end": 609.4,
+      "text": " og til en person, der ikke forstår digital marketing.",
+      "speaker": "A"
+    },
+    {
+      "start": 609.4,
+      "end": 611.4,
+      "text": " Altså, jeg tror, der er nogle virksomheder derude,",
+      "speaker": "A"
+    },
+    {
+      "start": 611.4,
+      "end": 613.4,
+      "text": " som burde bruge det her, som ikke får lov til det,",
+      "speaker": "A"
+    },
+    {
+      "start": 614.4,
+      "end": 616.4,
+      "text": " Ja, eller som simpelthen ikke tør,",
+      "speaker": "B"
+    },
+    {
+      "start": 616.4,
+      "end": 618.4,
+      "text": " fordi de godt ved, at det kommer til at se dårligt ud,",
+      "speaker": "B"
+    },
+    {
+      "start": 618.4,
+      "end": 620.4,
+      "text": " og fordi de ikke kan forklare det.",
+      "speaker": "B"
+    },
+    {
+      "start": 620.4,
+      "end": 622.4,
+      "text": " Altså, det er sådan lidt en tabkrig på forhånd.",
+      "speaker": "B"
+    },
+    {
+      "start": 622.4,
+      "end": 624.4,
+      "text": " Og det er lidt det samme som, altså, der er heller ikke ret mange,",
+      "speaker": "B"
+    },
+    {
+      "start": 624.4,
+      "end": 626.4,
+      "text": " som er shy, der har kørt Conversion Lab Studio.",
+      "speaker": "B"
+    },
+    {
+      "start": 626.4,
+      "end": 628.4,
+      "text": " Altså, når det kommer ind på en ny kontor og siger,",
+      "speaker": "B"
+    },
+    {
+      "start": 628.4,
+      "end": 630.4,
+      "text": " hvorfor har det kørt Studio? Jamen, vi har bare,",
+      "speaker": "B"
+    },
+    {
+      "start": 630.4,
+      "end": 632.4,
+      "text": " altså, i bund og grund driftet, eller det har været fine resultater.",
+      "speaker": "B"
+    },
+    {
+      "start": 632.4,
+      "end": 634.4,
+      "text": " Og det er lidt det samme her, det her med,",
+      "speaker": "B"
+    },
+    {
+      "start": 634.4,
+      "end": 636.4,
+      "text": " at nogle gange, så kan sandheden godt gøre en bund",
+      "speaker": "B"
+    },
+    {
+      "start": 636.4,
+      "end": 638.4,
+      "text": " på kontor. Altså, finde ud af, jamen,",
+      "speaker": "B"
+    },
+    {
+      "start": 638.4,
+      "end": 640.4,
+      "text": " der var ikke ret høj incrementality,",
+      "speaker": "B"
+    },
+    {
+      "start": 640.4,
+      "end": 642.4,
+      "text": " eller i det her tilfælde, nu optiverer vi efter det,",
+      "speaker": "B"
+    },
+    {
+      "start": 642.4,
+      "end": 644.4,
+      "text": " men vi får det til at se dårligt ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 644.4,
+      "end": 646.4,
+      "text": " Det kan være rigtig svært at forsvare,",
+      "speaker": "B"
+    },
+    {
+      "start": 646.4,
+      "end": 648.4,
+      "text": " og jeg tror, det er det der hele problematikken.",
+      "speaker": "B"
+    },
+    {
+      "start": 648.4,
+      "end": 650.4,
+      "text": " Så det er det største, der nogensinde er sket,",
+      "speaker": "B"
+    },
+    {
+      "start": 650.4,
+      "end": 652.4,
+      "text": " men det er det, der kommer til at have længst adoptionskåb.",
+      "speaker": "B"
+    },
+    {
+      "start": 652.4,
+      "end": 654.4,
+      "text": " Ja, det tror jeg også.",
+      "speaker": "B"
+    },
+    {
+      "start": 654.4,
+      "end": 656.4,
+      "text": " Selvom der er mange, der burde bruge det,",
+      "speaker": "A"
+    },
+    {
+      "start": 656.4,
+      "end": 658.4,
+      "text": " men til dig, der lyder med på marketingen på det,",
+      "speaker": "A"
+    },
+    {
+      "start": 658.4,
+      "end": 660.4,
+      "text": " at hey, du er allerede top 1%, du er rent faktisk",
+      "speaker": "A"
+    },
+    {
+      "start": 660.4,
+      "end": 662.4,
+      "text": " og gør det her, så tillykke med, at du ikke er en af dem.",
+      "speaker": "A"
+    },
+    {
+      "start": 662.4,
+      "end": 664.4,
+      "text": " Og hvis du nu sidder og tænker,",
+      "speaker": "A"
+    },
+    {
+      "start": 664.4,
+      "end": 666.4,
+      "text": " hvordan kan jeg rent faktisk gøre det her?",
+      "speaker": "A"
+    },
+    {
+      "start": 666.4,
+      "end": 668.4,
+      "text": " Hvis du er 60% af alle adaccounts, der har fået rullet det her ud,",
+      "speaker": "A"
+    },
+    {
+      "start": 668.4,
+      "end": 670.4,
+      "text": " så kan du allerede nu gå ind på din kontor og gøre det.",
+      "speaker": "A"
+    },
+    {
+      "start": 670.4,
+      "end": 672.4,
+      "text": " Det kræver, at du går ind under dine annonce-sæt-indstillinger,",
+      "speaker": "A"
+    },
+    {
+      "start": 672.4,
+      "end": 674.4,
+      "text": " under attribution,",
+      "speaker": "A"
+    },
+    {
+      "start": 674.4,
+      "end": 676.4,
+      "text": " og så vælger incremental attribution.",
+      "speaker": "A"
+    },
+    {
+      "start": 676.4,
+      "end": 678.4,
+      "text": " Jeg har set, det faktisk hedder nogle forskellige ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 678.4,
+      "end": 680.4,
+      "text": " eller ligger nogle forskellige steder,",
+      "speaker": "A"
+    },
+    {
+      "start": 680.4,
+      "end": 682.4,
+      "text": " så der er nogle steder, hvor det hedder advanced option,",
+      "speaker": "A"
+    },
+    {
+      "start": 682.4,
+      "end": 684.4,
+      "text": " hvor det ligger under incremental attribution,",
+      "speaker": "A"
+    },
+    {
+      "start": 684.4,
+      "end": 686.4,
+      "text": " og andre steder, hvor det bare ligger der,",
+      "speaker": "A"
+    },
+    {
+      "start": 686.4,
+      "end": 688.4,
+      "text": " hvor du vælger 7071.",
+      "speaker": "A"
+    },
+    {
+      "start": 688.4,
+      "end": 690.4,
+      "text": " Og jeg ved ikke, om det er Facebook, der tester forskellige måder",
+      "speaker": "A"
+    },
+    {
+      "start": 690.4,
+      "end": 692.4,
+      "text": " at implementere det på, men det ligger i hvert fald",
+      "speaker": "A"
+    },
+    {
+      "start": 692.4,
+      "end": 694.4,
+      "text": " under attribution-indstillinger i dit annonce-sæt,",
+      "speaker": "A"
+    },
+    {
+      "start": 694.4,
+      "end": 696.4,
+      "text": " og der har du mulighed for at rulle det her ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 696.4,
+      "end": 698.4,
+      "text": " Og hvis du ikke har det allerede, så kommer det lige om lidt.",
+      "speaker": "A"
+    },
+    {
+      "start": 698.4,
+      "end": 700.4,
+      "text": " Og altså, min anbefaling, det vil være at begynde over 50%.",
+      "speaker": "A"
+    },
+    {
+      "start": 700.4,
+      "end": 702.4,
+      "text": " Altså over 50% rollout.",
+      "speaker": "B"
+    },
+    {
+      "start": 702.4,
+      "end": 704.4,
+      "text": " Når de først er opnået på det,",
+      "speaker": "B"
+    },
+    {
+      "start": 704.4,
+      "end": 706.4,
+      "text": " så 1. så betyder det, at de har afsluttet",
+      "speaker": "B"
+    },
+    {
+      "start": 706.4,
+      "end": 708.4,
+      "text": " alle deres alfabetetestes",
+      "speaker": "B"
+    },
+    {
+      "start": 708.4,
+      "end": 710.4,
+      "text": " og alle deres fondetest,",
+      "speaker": "B"
+    },
+    {
+      "start": 710.4,
+      "end": 712.4,
+      "text": " og når de er over 50%, så er det kun et spørgsmål om",
+      "speaker": "B"
+    },
+    {
+      "start": 712.4,
+      "end": 714.4,
+      "text": " fx, hvordan ser det ud visuelt, layoutmæssigt,",
+      "speaker": "B"
+    },
+    {
+      "start": 714.4,
+      "end": 716.4,
+      "text": " inden at annonce-kontroller bliver testet.",
+      "speaker": "B"
+    },
+    {
+      "start": 716.4,
+      "end": 718.4,
+      "text": " Så det her, det er noget, der kommer til at være.",
+      "speaker": "B"
+    },
+    {
+      "start": 718.4,
+      "end": 720.4,
+      "text": " Jeg tror godt, at jeg tør at sætte min bagdel i",
+      "speaker": "B"
+    },
+    {
+      "start": 720.4,
+      "end": 722.4,
+      "text": " relativ højt pladskehøjde",
+      "speaker": "B"
+    },
+    {
+      "start": 722.4,
+      "end": 724.4,
+      "text": " og sige, at det her, det er ud på",
+      "speaker": "B"
+    },
+    {
+      "start": 724.4,
+      "end": 726.4,
+      "text": " et annonce-kontor inden sommerferien.",
+      "speaker": "B"
+    },
+    {
+      "start": 726.4,
+      "end": 728.4,
+      "text": " Og der er to ting, jeg vil anbefale, at man gør sådan rimelig tidligt.",
+      "speaker": "A"
+    },
+    {
+      "start": 728.4,
+      "end": 730.4,
+      "text": " Den ene, det er,",
+      "speaker": "A"
+    },
+    {
+      "start": 730.4,
+      "end": 732.4,
+      "text": " hvis du kører kampagner,",
+      "speaker": "A"
+    },
+    {
+      "start": 732.4,
+      "end": 734.4,
+      "text": " som primært kører i dag på eksisterende kunder",
+      "speaker": "A"
+    },
+    {
+      "start": 734.4,
+      "end": 736.4,
+      "text": " eller retargeting,",
+      "speaker": "A"
+    },
+    {
+      "start": 736.4,
+      "end": 738.4,
+      "text": " så er det der, at jeg vil starte med at lave en test",
+      "speaker": "A"
+    },
+    {
+      "start": 738.4,
+      "end": 740.4,
+      "text": " og så indstille det her til incremental attribution i stedet for.",
+      "speaker": "A"
+    },
+    {
+      "start": 740.4,
+      "end": 742.4,
+      "text": " Altså måske køre dem ved siden af hinanden,",
+      "speaker": "A"
+    },
+    {
+      "start": 742.4,
+      "end": 744.4,
+      "text": " måske bare skifte den over, men det er der, hvor der er størst risiko for,",
+      "speaker": "A"
+    },
+    {
+      "start": 744.4,
+      "end": 746.4,
+      "text": " at du lige nu ligger og overattribuerer konvertering,",
+      "speaker": "A"
+    },
+    {
+      "start": 746.4,
+      "end": 748.4,
+      "text": " og det vil sige, at du tror, at det fungerer meget bedre,",
+      "speaker": "A"
+    },
+    {
+      "start": 748.4,
+      "end": 750.4,
+      "text": " end det i virkeligheden gør.",
+      "speaker": "A"
+    },
+    {
+      "start": 750.4,
+      "end": 752.4,
+      "text": " Det andet, det er, at jeg synes er en interessant",
+      "speaker": "A"
+    },
+    {
+      "start": 752.4,
+      "end": 754.4,
+      "text": " afledt effekt af det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 754.4,
+      "end": 756.4,
+      "text": " det er, at der er opstået ret mange",
+      "speaker": "A"
+    },
+    {
+      "start": 756.4,
+      "end": 758.4,
+      "text": " sådan BSUB SAS-tjenester",
+      "speaker": "A"
+    },
+    {
+      "start": 758.4,
+      "end": 760.4,
+      "text": " over de sidste år, hvor det måske",
+      "speaker": "A"
+    },
+    {
+      "start": 760.4,
+      "end": 762.4,
+      "text": " mest kendte eksempel, det ville være",
+      "speaker": "A"
+    },
+    {
+      "start": 762.4,
+      "end": 764.4,
+      "text": " TripleWell-softwaren, som er sindssygt dyr.",
+      "speaker": "A"
+    },
+    {
+      "start": 764.4,
+      "end": 766.4,
+      "text": " Men hvis primært promise det er,",
+      "speaker": "A"
+    },
+    {
+      "start": 766.4,
+      "end": 768.4,
+      "text": " at i det mindste, så kan du se, hvor din konvertering rent faktisk",
+      "speaker": "A"
+    },
+    {
+      "start": 768.4,
+      "end": 770.4,
+      "text": " kommer fra, som tilbyder et forsøg på at udregne",
+      "speaker": "A"
+    },
+    {
+      "start": 770.4,
+      "end": 772.4,
+      "text": " den her incrementality.",
+      "speaker": "A"
+    },
+    {
+      "start": 772.4,
+      "end": 774.4,
+      "text": " Hvis du arbejder med de redskaber, så prøv lige at teste,",
+      "speaker": "A"
+    },
+    {
+      "start": 774.4,
+      "end": 776.4,
+      "text": " om du egentlig får meget af den samme værdi specifikt på meta.",
+      "speaker": "A"
+    },
+    {
+      "start": 776.4,
+      "end": 778.4,
+      "text": " Og nu gælder det jo kun på meta,",
+      "speaker": "A"
+    },
+    {
+      "start": 778.4,
+      "end": 780.4,
+      "text": " så hvis du lykkes med at skalere Snapchat",
+      "speaker": "A"
+    },
+    {
+      "start": 780.4,
+      "end": 782.4,
+      "text": " eller TikTok eller Google Ads helt sindssygt,",
+      "speaker": "A"
+    },
+    {
+      "start": 782.4,
+      "end": 784.4,
+      "text": " så får du stadig ikke det samlede billede.",
+      "speaker": "A"
+    },
+    {
+      "start": 784.4,
+      "end": 786.4,
+      "text": " Men vi arbejder bare med mange virksomheder,",
+      "speaker": "A"
+    },
+    {
+      "start": 786.4,
+      "end": 788.4,
+      "text": " for hvem meta stadig er 80%, 90%",
+      "speaker": "A"
+    },
+    {
+      "start": 788.4,
+      "end": 790.4,
+      "text": " eller et eller andet af den cil, som har brugt",
+      "speaker": "A"
+    },
+    {
+      "start": 790.4,
+      "end": 792.4,
+      "text": " tredjepartsværktøjer for at",
+      "speaker": "A"
+    },
+    {
+      "start": 792.4,
+      "end": 794.4,
+      "text": " beregne incrementality af deres kampagner",
+      "speaker": "A"
+    },
+    {
+      "start": 794.4,
+      "end": 796.4,
+      "text": " for at budgetallokere sig det, der i realiteten gør bedst mening,",
+      "speaker": "A"
+    },
+    {
+      "start": 796.4,
+      "end": 798.4,
+      "text": " og ikke det, der tilskriver flest view-konverteringer.",
+      "speaker": "A"
+    },
+    {
+      "start": 798.4,
+      "end": 800.4,
+      "text": " Og jeg spekulerer på, om det egentlig er nødvendigt",
+      "speaker": "A"
+    },
+    {
+      "start": 800.4,
+      "end": 802.4,
+      "text": " i fremtiden, eller om det her",
+      "speaker": "A"
+    },
+    {
+      "start": 802.4,
+      "end": 804.4,
+      "text": " faktisk går ind og gør meget arbejde for det.",
+      "speaker": "A"
+    },
+    {
+      "start": 804.4,
+      "end": 806.4,
+      "text": " Der er i hvert fald ingen tvivl om, at vi begge to",
+      "speaker": "A"
+    },
+    {
+      "start": 806.4,
+      "end": 808.4,
+      "text": " er enormt bullish på det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 808.4,
+      "end": 810.4,
+      "text": " og synes, det er en af de største opdateringer,",
+      "speaker": "A"
+    },
+    {
+      "start": 810.4,
+      "end": 812.4,
+      "text": " meta længe har lavet.",
+      "speaker": "A"
+    },
+    {
+      "start": 812.4,
+      "end": 814.4,
+      "text": " Har du nogen afslutning vi kan mærke, hvor folk skal bruge det her?",
+      "speaker": "A"
+    },
+    {
+      "start": 814.4,
+      "end": 816.4,
+      "text": " Gerne.",
+      "speaker": "B"
+    },
+    {
+      "start": 816.4,
+      "end": 818.4,
+      "text": " Jeg har faktisk lige to punkter.",
+      "speaker": "B"
+    },
+    {
+      "start": 818.4,
+      "end": 820.4,
+      "text": " Den ene det er, hvis du har hørt om det her før,",
+      "speaker": "B"
+    },
+    {
+      "start": 820.4,
+      "end": 822.4,
+      "text": " så det der har været især i testperioden,",
+      "speaker": "B"
+    },
+    {
+      "start": 822.4,
+      "end": 824.4,
+      "text": " det er, at dem der har fået adgang til det,",
+      "speaker": "B"
+    },
+    {
+      "start": 824.4,
+      "end": 826.4,
+      "text": " de har kun fået adgang til det på kontoniveau.",
+      "speaker": "B"
+    },
+    {
+      "start": 826.4,
+      "end": 828.4,
+      "text": " Så det vil sige, det var enten eller.",
+      "speaker": "B"
+    },
+    {
+      "start": 828.4,
+      "end": 830.4,
+      "text": " Altså enten skulle alle kompanier køre på det,",
+      "speaker": "B"
+    },
+    {
+      "start": 830.4,
+      "end": 832.4,
+      "text": " eller så skulle ingen af dem køre på det.",
+      "speaker": "B"
+    },
+    {
+      "start": 832.4,
+      "end": 834.4,
+      "text": " Det der er i den roll-out phase, der kører nu her,",
+      "speaker": "B"
+    },
+    {
+      "start": 834.4,
+      "end": 836.4,
+      "text": " og som også kommer til at blive aktivt på de kontor, der får det,",
+      "speaker": "B"
+    },
+    {
+      "start": 836.4,
+      "end": 838.4,
+      "text": " det er, at du kan også gøre det på kompanieniveau.",
+      "speaker": "B"
+    },
+    {
+      "start": 838.4,
+      "end": 840.4,
+      "text": " Så start med at gøre det på kompanieniveau.",
+      "speaker": "B"
+    },
+    {
+      "start": 840.4,
+      "end": 842.4,
+      "text": " Og jeg vil sige, alle test med det her,",
+      "speaker": "B"
+    },
+    {
+      "start": 842.4,
+      "end": 844.4,
+      "text": " jeg vil altid sætte dobbelt conversion-løftstøj.",
+      "speaker": "B"
+    },
+    {
+      "start": 844.4,
+      "end": 846.4,
+      "text": " Så kan det godt være, det tager fire uger,",
+      "speaker": "B"
+    },
+    {
+      "start": 846.4,
+      "end": 848.4,
+      "text": " eller seks uger, eller otte uger at finde ud af, hvad der skal ske,",
+      "speaker": "B"
+    },
+    {
+      "start": 848.4,
+      "end": 850.4,
+      "text": " og hvad der er det rigtige.",
+      "speaker": "B"
+    },
+    {
+      "start": 850.4,
+      "end": 852.4,
+      "text": " Men at teste incrementality, og i det her tilfælde",
+      "speaker": "B"
+    },
+    {
+      "start": 852.4,
+      "end": 854.4,
+      "text": " der er det rigtige svar, det kan du kun finde ved",
+      "speaker": "B"
+    },
+    {
+      "start": 854.4,
+      "end": 856.4,
+      "text": " at lave et conversion-løftstøj.",
+      "speaker": "B"
+    },
+    {
+      "start": 856.4,
+      "end": 858.4,
+      "text": " Fordi hvis du ellers skal sidde og kigge på breakdowns,",
+      "speaker": "B"
+    },
+    {
+      "start": 858.4,
+      "end": 860.4,
+      "text": " og selv sidde og vurdere det,",
+      "speaker": "B"
+    },
+    {
+      "start": 860.4,
+      "end": 862.4,
+      "text": " jamen så er der ikke rigtigt noget sådan",
+      "speaker": "B"
+    },
+    {
+      "start": 862.4,
+      "end": 864.4,
+      "text": " reelt sammenligningstal,",
+      "speaker": "B"
+    },
+    {
+      "start": 864.4,
+      "end": 866.4,
+      "text": " hvor her der får du det reelle løft.",
+      "speaker": "B"
+    },
+    {
+      "start": 866.4,
+      "end": 868.4,
+      "text": " Og når der kun er 5000 dollars minimum spend requirement",
+      "speaker": "B"
+    },
+    {
+      "start": 868.4,
+      "end": 870.4,
+      "text": " til et conversion-løftstøj,",
+      "speaker": "B"
+    },
+    {
+      "start": 870.4,
+      "end": 872.4,
+      "text": " så kan du bare splitte det over 8 uger, 12 uger,",
+      "speaker": "B"
+    },
+    {
+      "start": 872.4,
+      "end": 874.4,
+      "text": " hvad du nu kræver af budget,",
+      "speaker": "B"
+    },
+    {
+      "start": 874.4,
+      "end": 876.4,
+      "text": " og så får du svaret på,",
+      "speaker": "B"
+    },
+    {
+      "start": 876.4,
+      "end": 878.4,
+      "text": " er det her bedre for min forretning, ja eller nej.",
+      "speaker": "B"
+    },
+    {
+      "start": 878.4,
+      "end": 880.4,
+      "text": " Nummer to, hvis du tænker,",
+      "speaker": "B"
+    },
+    {
+      "start": 880.4,
+      "end": 882.4,
+      "text": " at man forsvinder syv dages klik,",
+      "speaker": "B"
+    },
+    {
+      "start": 882.4,
+      "end": 884.4,
+      "text": " en dages visning, en dages engage view,",
+      "speaker": "B"
+    },
+    {
+      "start": 884.4,
+      "end": 886.4,
+      "text": " nej det gør det ikke.",
+      "speaker": "B"
+    },
+    {
+      "start": 886.4,
+      "end": 888.4,
+      "text": " Den arbejder på præcis samme måde i etableringen.",
+      "speaker": "B"
+    },
+    {
+      "start": 888.4,
+      "end": 890.4,
+      "text": " Den går bare efter den anden, så det er lidt sjovt,",
+      "speaker": "B"
+    },
+    {
+      "start": 890.4,
+      "end": 892.4,
+      "text": " at den ligger under etableringen, fordi det er i højere grad en målretning det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 892.4,
+      "end": 894.4,
+      "text": " Så hvis du går ind og kigger på dine kampagner",
+      "speaker": "B"
+    },
+    {
+      "start": 894.4,
+      "end": 896.4,
+      "text": " med incremental attribution, så kan du se,",
+      "speaker": "B"
+    },
+    {
+      "start": 896.4,
+      "end": 898.4,
+      "text": " hvor det bliver tilskrevet hen.",
+      "speaker": "B"
+    },
+    {
+      "start": 898.4,
+      "end": 900.4,
+      "text": " Altså fx der er kommet 45 konverteringer på klik,",
+      "speaker": "B"
+    },
+    {
+      "start": 900.4,
+      "end": 902.4,
+      "text": " 45 konverteringer på view,",
+      "speaker": "B"
+    },
+    {
+      "start": 902.4,
+      "end": 904.4,
+      "text": " 45 konverteringer på engage view.",
+      "speaker": "B"
+    },
+    {
+      "start": 904.4,
+      "end": 906.4,
+      "text": " Og så får den delt det op i, hvad der er fx",
+      "speaker": "B"
+    },
+    {
+      "start": 906.4,
+      "end": 908.4,
+      "text": " first conversion, all conversions,",
+      "speaker": "B"
+    },
+    {
+      "start": 908.4,
+      "end": 910.4,
+      "text": " incremental attribution.",
+      "speaker": "B"
+    },
+    {
+      "start": 910.4,
+      "end": 912.4,
+      "text": " Så du kan stadig godt kigge på de her",
+      "speaker": "B"
+    },
+    {
+      "start": 912.4,
+      "end": 914.4,
+      "text": " etableringsventure og sammenligne det.",
+      "speaker": "B"
+    },
+    {
+      "start": 914.4,
+      "end": 916.4,
+      "text": " Men det her er i højere grad en målretning end etableringen.",
+      "speaker": "B"
+    },
+    {
+      "start": 916.4,
+      "end": 918.4,
+      "text": " Kæmpe nyhed, virkelig noget,",
+      "speaker": "A"
+    },
+    {
+      "start": 918.4,
+      "end": 920.4,
+      "text": " jeg vil anbefale, du går ind og kigger på",
+      "speaker": "A"
+    },
+    {
+      "start": 920.4,
+      "end": 922.4,
+      "text": " i din meta-annoncering. En af de ting, jeg har glædet mig",
+      "speaker": "A"
+    },
+    {
+      "start": 922.4,
+      "end": 924.4,
+      "text": " allermest til, at Mesa skulle komme med",
+      "speaker": "A"
+    },
+    {
+      "start": 924.4,
+      "end": 926.4,
+      "text": " i hele 2025.",
+      "speaker": "A"
+    },
+    {
+      "start": 926.4,
+      "end": 928.4,
+      "text": " Vi havde det med på vores slides til vores kunder",
+      "speaker": "A"
+    },
+    {
+      "start": 928.4,
+      "end": 930.4,
+      "text": " og et social ads conference og alle mulige ting",
+      "speaker": "A"
+    },
+    {
+      "start": 930.4,
+      "end": 932.4,
+      "text": " allerede fra midten af 2024, hvor vi fik at vide,",
+      "speaker": "A"
+    },
+    {
+      "start": 932.4,
+      "end": 934.4,
+      "text": " at det her ville blive en ting. Så jeg er stoked over",
+      "speaker": "A"
+    },
+    {
+      "start": 934.4,
+      "end": 936.4,
+      "text": " at se det, og jeg tror, det kan være et kæmpe skridt",
+      "speaker": "A"
+    },
+    {
+      "start": 936.4,
+      "end": 938.4,
+      "text": " frem for profitabiliteten",
+      "speaker": "A"
+    },
+    {
+      "start": 938.4,
+      "end": 940.4,
+      "text": " for rigtig mange af de kunder, vi arbejder med",
+      "speaker": "A"
+    },
+    {
+      "start": 940.4,
+      "end": 942.4,
+      "text": " Facebook-organisering for i FCDN Digital.",
+      "speaker": "A"
+    },
+    {
+      "start": 942.4,
+      "end": 944.4,
+      "text": " Tusind tak, fordi du lyttede med til dagens episode.",
+      "speaker": "A"
+    },
+    {
+      "start": 944.4,
+      "end": 946.4,
+      "text": " Held og lykke med at implementere det, og skyd",
+      "speaker": "A"
+    },
+    {
+      "start": 946.4,
+      "end": 948.4,
+      "text": " endelig tilbage til os, hvis du får nogle læringer med,",
+      "speaker": "A"
+    },
+    {
+      "start": 948.4,
+      "end": 950.4,
+      "text": " hvor godt det virker, det er vi super interesserede i.",
+      "speaker": "A"
+    },
+    {
+      "start": 950.4,
+      "end": 952.4,
+      "text": " På genhør.",
+      "speaker": "A"
+    }
+  ]
+}

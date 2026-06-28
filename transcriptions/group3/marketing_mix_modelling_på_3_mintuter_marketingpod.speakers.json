@@ -1,0 +1,379 @@
+{
+  "title": "Marketing Mix Modelling på 3 mintuter #marketingpod",
+  "url": "https://www.youtube.com/watch?v=jlx0o9qCK6A",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 193.4,
+  "transcribed_at": "2026-04-16T11:53:26.521064+00:00",
+  "full_text": "Det er ikke en ny ting. Det nye er, at der er kommet enormt billige måder at lave det på, takket være Google og Meta. Så Marketing Mixed Modeling in Essence, det er statistisk regressionsanalyse. Og det er en pæn måde at sige på, at man forsøger at finde korrelation og kausalitet mellem at du har brugt flere penge på en kanal, og om du har fået mere omsætning. Så det man lidt konceptuelt skal forestille sig, det er nogle kæmpe store regneark, hvor du f.eks. for de sidste tre år har al din omsætning uge for uge, og så har du mange penge, du har brugt på Meta uge for uge. Hvor meget har du brugt på Google? Hvor meget har du brugt på Influencers? Hvor meget har du brugt på YouTube? Hvor meget har du brugt på Snapchat? Og så tager du al den her data, forbereder den, ensretter den, gør den klar, og så kører du regressionsanalyser. Og det kan man gøre via det, der hedder Google Meridian. Det er gratis. Eller Meta Brobbing. Det er gratis. Det er to open source modeller, som Google og Meta har lavet. De er fantastiske. Og så får man nogle ret vilde analyser tilbage. Nu har jeg gjort det ret simpelt. I realiteten kan det godt tage 50 eller 100 timer at lave sådan en studie, fordi der er ret meget data, der skal forberedes. Man skal kunne kode en lille smule i nogle statistiske sprog, eller noget R fra Meta, eller et eller andet. Men det kan det også gøre. Hvis man gør det, så får man nogle vildt spændende analyser. Og vi har lige færdiggjort et Marketing Mix Modelling Studie fra en af vores kunder. De bruger omkring 20 millioner kroner om året i marketing. Og af de penge, der bruger de, cirka halvdelen, omkring 10 millioner på Google Ads. Og de har brugt flere og flere og flere penge på Google Ads de sidste par år, fordi de kunne se, hvad de fik ud af det i Google Ads. De brugte også mange penge på radio, tv, programmatic, native advertising og influencers. Men hvad får du ud af din radioanoncering og din influencers? Det er fandme svært at regne ud. Men de kunne se, hvad de fik med Google. De fik i hvert fald et eller andet med Google. Så en større og større del af deres marketingbudget er bare gået til Google. Det der så samtidig er sket, det er faktisk, at deres omsætning er faldet. Så man står der og tænker, hvad fanden sker der her? Og i det her Marketing Mix Modeling Studie, der kunne vi påvise, at Google Ads havde en negativ ROI. De har simpelthen overinvesteret i bottom funnel, og nogle af deres bedste marketingkanaler lå i upper funnel. Hvor du måler, hvad sker der i løbet af 8 uger, efter du har brugt flere penge her. Så det her Marketing Mix Modeling Studie har helt konkret foreslået, at de tager deres 10 millioner til Google Ads. Det er 6 millioner næste år, og så har de lavet en foreslået fordeling til de andre platform, ud fra den data, de rent faktisk har. Og jeg synes det her er så fedt, fordi du kan rent faktisk sætte en værdi på tv-annoncering, eller radio, eller influencer, ved at gøre det på den her måde. Og det betyder en helt anden spendjustering for den her virksomhed, på baggrund af det Marketing Mix Modeling Studie, vi har lavet over de sidste par måneder. Så det her, det synes jeg er en kanon fed måde at måle incrementality på. Ikke den laveste indgangsbarriere, fordi det har også taget os 50-100 timer at lave det. Men nej, hvor er det fede data, vi tænker egentlig har fået ud af det for dem. Og det er så brugbart, hvis du især annoncerer på non-digitale kanaler, altså radio, tv, influencers og alle sådan nogle ting der. Så det vil jeg sige, det vil være min favorit lige nu. Ja, og så synes jeg også, det er hver igen understreget, grunden til den her modelhed er så fedt til at estimere de her sammenhænge mellem spend og salg. Det er jo, at den kontrollerer for de her andre faktorer, så som sæson. Ja, selvfølgelig sælger du for mere, når du kører Black Month, Black Week eller Black Friday. Selvfølgelig bliver det taget ud af modellen. Præcis, lige præcis. Det er det, der er counted for. Ja, lige mærke det.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Det er ikke en ny ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 2.0,
+      "end": 7.0,
+      "text": " Det nye er, at der er kommet enormt billige måder at lave det på, takket være Google og Meta.",
+      "speaker": "A"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": " Så Marketing Mixed Modeling in Essence, det er statistisk regressionsanalyse.",
+      "speaker": "A"
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": " Og det er en pæn måde at sige på, at man forsøger at finde korrelation og kausalitet",
+      "speaker": "A"
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": " mellem at du har brugt flere penge på en kanal, og om du har fået mere omsætning.",
+      "speaker": "A"
+    },
+    {
+      "start": 19.0,
+      "end": 23.0,
+      "text": " Så det man lidt konceptuelt skal forestille sig, det er nogle kæmpe store regneark,",
+      "speaker": "A"
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": " hvor du f.eks. for de sidste tre år har al din omsætning uge for uge,",
+      "speaker": "A"
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": " og så har du mange penge, du har brugt på Meta uge for uge.",
+      "speaker": "A"
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": " Hvor meget har du brugt på Google? Hvor meget har du brugt på Influencers?",
+      "speaker": "A"
+    },
+    {
+      "start": 31.0,
+      "end": 34.0,
+      "text": " Hvor meget har du brugt på YouTube? Hvor meget har du brugt på Snapchat?",
+      "speaker": "A"
+    },
+    {
+      "start": 34.0,
+      "end": 38.0,
+      "text": " Og så tager du al den her data, forbereder den, ensretter den, gør den klar,",
+      "speaker": "A"
+    },
+    {
+      "start": 38.0,
+      "end": 41.0,
+      "text": " og så kører du regressionsanalyser.",
+      "speaker": "A"
+    },
+    {
+      "start": 41.0,
+      "end": 44.0,
+      "text": " Og det kan man gøre via det, der hedder Google Meridian. Det er gratis.",
+      "speaker": "A"
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": " Eller Meta Brobbing. Det er gratis.",
+      "speaker": "A"
+    },
+    {
+      "start": 46.0,
+      "end": 49.0,
+      "text": " Det er to open source modeller, som Google og Meta har lavet. De er fantastiske.",
+      "speaker": "A"
+    },
+    {
+      "start": 49.0,
+      "end": 52.0,
+      "text": " Og så får man nogle ret vilde analyser tilbage.",
+      "speaker": "A"
+    },
+    {
+      "start": 52.0,
+      "end": 53.0,
+      "text": " Nu har jeg gjort det ret simpelt.",
+      "speaker": "A"
+    },
+    {
+      "start": 53.0,
+      "end": 56.0,
+      "text": " I realiteten kan det godt tage 50 eller 100 timer at lave sådan en studie,",
+      "speaker": "A"
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "text": " fordi der er ret meget data, der skal forberedes.",
+      "speaker": "A"
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "text": " Man skal kunne kode en lille smule i nogle statistiske sprog,",
+      "speaker": "A"
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": " eller noget R fra Meta, eller et eller andet.",
+      "speaker": "A"
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "text": " Men det kan det også gøre.",
+      "speaker": "A"
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": " Hvis man gør det, så får man nogle vildt spændende analyser.",
+      "speaker": "A"
+    },
+    {
+      "start": 66.0,
+      "end": 69.0,
+      "text": " Og vi har lige færdiggjort et Marketing Mix Modelling Studie fra en af vores kunder.",
+      "speaker": "A"
+    },
+    {
+      "start": 69.0,
+      "end": 73.0,
+      "text": " De bruger omkring 20 millioner kroner om året i marketing.",
+      "speaker": "A"
+    },
+    {
+      "start": 73.0,
+      "end": 77.0,
+      "text": " Og af de penge, der bruger de, cirka halvdelen, omkring 10 millioner på Google Ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 77.0,
+      "end": 80.0,
+      "text": " Og de har brugt flere og flere og flere penge på Google Ads de sidste par år,",
+      "speaker": "A"
+    },
+    {
+      "start": 80.0,
+      "end": 83.0,
+      "text": " fordi de kunne se, hvad de fik ud af det i Google Ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 83.0,
+      "end": 89.0,
+      "text": " De brugte også mange penge på radio, tv, programmatic, native advertising og influencers.",
+      "speaker": "A"
+    },
+    {
+      "start": 89.0,
+      "end": 92.0,
+      "text": " Men hvad får du ud af din radioanoncering og din influencers?",
+      "speaker": "A"
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": " Det er fandme svært at regne ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 94.0,
+      "end": 96.0,
+      "text": " Men de kunne se, hvad de fik med Google.",
+      "speaker": "A"
+    },
+    {
+      "start": 96.0,
+      "end": 98.0,
+      "text": " De fik i hvert fald et eller andet med Google.",
+      "speaker": "A"
+    },
+    {
+      "start": 98.0,
+      "end": 101.0,
+      "text": " Så en større og større del af deres marketingbudget er bare gået til Google.",
+      "speaker": "A"
+    },
+    {
+      "start": 101.0,
+      "end": 105.0,
+      "text": " Det der så samtidig er sket, det er faktisk, at deres omsætning er faldet.",
+      "speaker": "A"
+    },
+    {
+      "start": 105.0,
+      "end": 107.0,
+      "text": " Så man står der og tænker, hvad fanden sker der her?",
+      "speaker": "A"
+    },
+    {
+      "start": 107.0,
+      "end": 113.0,
+      "text": " Og i det her Marketing Mix Modeling Studie, der kunne vi påvise, at Google Ads havde en negativ ROI.",
+      "speaker": "A"
+    },
+    {
+      "start": 113.0,
+      "end": 119.0,
+      "text": " De har simpelthen overinvesteret i bottom funnel, og nogle af deres bedste marketingkanaler lå i upper funnel.",
+      "speaker": "A"
+    },
+    {
+      "start": 119.0,
+      "end": 123.0,
+      "text": " Hvor du måler, hvad sker der i løbet af 8 uger, efter du har brugt flere penge her.",
+      "speaker": "A"
+    },
+    {
+      "start": 123.0,
+      "end": 127.0,
+      "text": " Så det her Marketing Mix Modeling Studie har helt konkret foreslået, at de tager deres 10 millioner til Google Ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 127.0,
+      "end": 131.0,
+      "text": " Det er 6 millioner næste år, og så har de lavet en foreslået fordeling til de andre platform,",
+      "speaker": "A"
+    },
+    {
+      "start": 131.0,
+      "end": 133.0,
+      "text": " ud fra den data, de rent faktisk har.",
+      "speaker": "A"
+    },
+    {
+      "start": 133.0,
+      "end": 138.0,
+      "text": " Og jeg synes det her er så fedt, fordi du kan rent faktisk sætte en værdi på tv-annoncering,",
+      "speaker": "A"
+    },
+    {
+      "start": 138.0,
+      "end": 141.0,
+      "text": " eller radio, eller influencer, ved at gøre det på den her måde.",
+      "speaker": "A"
+    },
+    {
+      "start": 141.0,
+      "end": 145.0,
+      "text": " Og det betyder en helt anden spendjustering for den her virksomhed,",
+      "speaker": "A"
+    },
+    {
+      "start": 145.0,
+      "end": 148.0,
+      "text": " på baggrund af det Marketing Mix Modeling Studie, vi har lavet over de sidste par måneder.",
+      "speaker": "A"
+    },
+    {
+      "start": 148.0,
+      "end": 152.0,
+      "text": " Så det her, det synes jeg er en kanon fed måde at måle incrementality på.",
+      "speaker": "A"
+    },
+    {
+      "start": 152.0,
+      "end": 156.0,
+      "text": " Ikke den laveste indgangsbarriere, fordi det har også taget os 50-100 timer at lave det.",
+      "speaker": "A"
+    },
+    {
+      "start": 156.0,
+      "end": 160.0,
+      "text": " Men nej, hvor er det fede data, vi tænker egentlig har fået ud af det for dem.",
+      "speaker": "A"
+    },
+    {
+      "start": 160.0,
+      "end": 164.0,
+      "text": " Og det er så brugbart, hvis du især annoncerer på non-digitale kanaler,",
+      "speaker": "A"
+    },
+    {
+      "start": 164.0,
+      "end": 167.0,
+      "text": " altså radio, tv, influencers og alle sådan nogle ting der.",
+      "speaker": "A"
+    },
+    {
+      "start": 167.0,
+      "end": 170.0,
+      "text": " Så det vil jeg sige, det vil være min favorit lige nu.",
+      "speaker": "A"
+    },
+    {
+      "start": 170.0,
+      "end": 173.0,
+      "text": " Ja, og så synes jeg også, det er hver igen understreget,",
+      "speaker": "B"
+    },
+    {
+      "start": 173.0,
+      "end": 178.0,
+      "text": " grunden til den her modelhed er så fedt til at estimere de her sammenhænge mellem spend og salg.",
+      "speaker": "B"
+    },
+    {
+      "start": 178.0,
+      "end": 182.0,
+      "text": " Det er jo, at den kontrollerer for de her andre faktorer, så som sæson.",
+      "speaker": "B"
+    },
+    {
+      "start": 182.0,
+      "end": 187.0,
+      "text": " Ja, selvfølgelig sælger du for mere, når du kører Black Month, Black Week eller Black Friday.",
+      "speaker": "B"
+    },
+    {
+      "start": 187.0,
+      "end": 189.0,
+      "text": " Selvfølgelig bliver det taget ud af modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 189.0,
+      "end": 191.0,
+      "text": " Præcis, lige præcis.",
+      "speaker": "A"
+    },
+    {
+      "start": 191.0,
+      "end": 193.0,
+      "text": " Det er det, der er counted for.",
+      "speaker": "A"
+    },
+    {
+      "start": 193.0,
+      "end": 195.0,
+      "text": " Ja, lige mærke det.",
+      "speaker": "A"
+    }
+  ]
+}

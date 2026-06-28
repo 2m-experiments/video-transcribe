@@ -1,0 +1,1183 @@
+{
+  "title": "Sådan omgår du adblocker og tracker 5-10% mere",
+  "url": "https://www.youtube.com/watch?v=lLNcHDgA0tY",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 574.6,
+  "transcribed_at": "2026-04-17T07:23:12.446400+00:00",
+  "full_text": "Christian? Halvstand? Har du stadig en adblocker installeret på din telefon? Nej, ikke på telefonen. Okay, hvem er din computer? Ah, shit. Jamen, det har jeg. Men, der er lige et kæmpestort men. Jeg vil sige, at fordi jeg ikke ved det, så bruger jeg Google Chrome. Og der er sådan en extension, der hedder adblock, hvor den lyser rød, når man rent faktisk blokerer. Og grøn, når man har sagt, at den har hjemmesiddet. Det er okay, der vil jeg gerne se annoncer fra. Og jeg vil sige, at når den er mere grøn end rød, normalt, fordi jeg simpelthen har aktiveret det igen, så... Ja, jeg ved ikke, hvad jeg prøver at undskylde. Ja, jeg har adblock på. Ja, det har du. Og dermed så er du jo en del af problemet. Yes. Man skulle egentlig tro, at du havde arbejdet med digital marketing længe nok, til at du selvfølgelig ville være en del af løsningen her. Men nej, her er vi på trods af adskillige episoder, hvor jeg har forsøgt at udskamme dig. Så den her episode, den handler om, hvordan man kan blokere folk som Christian Tiniu fra ikke at se ens annoncer, oppebolet, når man køber et produkt. Fordi det skal vi selvfølgelig ikke unde. Det handler om adblock også. Hvor mange tror du, der bruger adblockere i Danmark? Uh, det er et godt spørgsmål. Øhm... Jeg tror sgu, vi er mange. Jeg siger 70... Nej, det er mange. 60 procent. Øh, det er også mange. Jeg kan sige, at den statistik, jeg kan finde på, det er, at Danmark er det land med anden højest adblocker-penetration i verden, efter Tyskland, hvor Adblock Plus også er fra. Det er en virksomhed, baseret i Hamburg. Men det er rundt regnet en fjerdedel af danskere, der har en adblocker installeret. Omkring 20-25 procent. Der er flere unge, der har det, end der er ældre. Det har sådan en slagsid mod yngre mennesker. Det kan også forklare, hvorfor du rent faktisk har en, og hvorfor jeg ikke har en. Og derudover... Så er det selvfølgelig større... Ja, det er et halvt stort problem. Fordi det, der er med adblockers, det er, at ikke alene kan de blokere annoncer, hvilket til at starte med er træls, men i denne tilfælde vil de faktisk også gå ind og blokere ens sporing, for at blive affyret korrekt. Og det er der, jeg ser det store problem. Så spørgsmålet, hvor stort er problemet på sådan en almindelig site? Hvis man bruger stape.io til infrastruktur til server-site-tagging, som vi gør, så er der faktisk noget data på det her. Hvis man går ind på ens stape-konto, som jeg har gjort her, og så nu deler jeg skærmen et øjeblik, så kan man slå noget, der hedder analytics til. Jeg har lige gjort det på Obsidians egen konto. Og der kan vi se, siden jeg slog det til, så har vi fået 3.200 requests på vores server-site-containere. Hvoraf 161 af dem, eller 5%, faktisk havde en adblocker, som ellers ville have blokeret det. Så i vores tilfælde på obsidian.dk, så er det ca. 5% af de besøgende, vi får, bare lige baseret på den her datamængde, som vi faktisk ikke kunne have målt, fordi de simpelthen havde blokeret os fra at affyre fx vores Metapixel, eller vores Google Analytics-script, eller vores Google Ads-script, selv hvis de har sagt ja tak til cookies. Og nu sagde jeg jo 25% før. Det er, fordi det ikke er alle adblockers, der rent faktisk blokerer for, at man affyrer tracking pixels. Der er mange af dem, der bare blokerer for, at man får vist annoncer. Men altså 5%, det er sgu stadig en hel del køb, man ikke kan spore alene på det. Ja, for helt lavpraktisk, lad os sige, at nu er jeg jo så nok en af de her 161 her, kommer ind på obsidian.dk og vil kontakte jer og udfylder, hvad hedder det, formularen derinde, så kan det faktisk ikke spores tilbage til den givende kanal, hvor jeg er kommet fra, eller lignende, fordi jeg har haft adblock på. Er det ikke sådan helt lavpraktisk forstået? Jo, det forhindrer simpelthen vores tracking pixels lige at affyre korrekt, så vi kan ikke se, hvor du kom fra. Så vi kan ikke målekøbe det i Google Analytics. Hvis man så sidder på en Shopify-shop, så bliver det selvfølgelig målt. Men man kan have udfordringer med at tilskrive det til de oprindelige marketingkanaler. Og den største udfordring, det er, at Meta eller Google, hvis de sender en besøgende, som rent faktisk ender med at købe, så har vi jo brug for at sende den information tilbage til Meta og Google. Du sendte Christian Tineau ind, Christian Tineau har købt, derfor vil vi gerne ramme flere personer som Christian Tineau. Og hvis du ødelægger det link der mellem klikket og kommenteringen, så fungerer vores annoncering bare meget, meget dårligere. Og det er det, der er vigtigt at forstå. Det handler ikke om at måle 5% mere, det gør det også, det er nice, men det handler om, hvis du får 5% flere signaler ind til Google eller Meta eller de andre annonceplatformer, du bruger, så vil du få bedre levering tilbage igen, så det sænker effektivt den pris, du betaler for at få en ny kunde. Så det kommer simpelthen til at hæve afkastet. Adblockers gør ondt på afkastet, men det er et problem, der kan løses. Det er en god nyhed. Så Christian Tineau, hvordan løser vi problemet? Det glæder jeg mig så meget til, at du skal fortælle os. Jeg er bare klar på spørgsmålet. Jeg kan godt høre, at du falder ikke ind i dag. Jeg prøver at se dig igen i den her episode. Det, det handler om, det er, at vi skal have implementeret server-side tagging, og så skal vi maskere for adblockeren, hvornår vi rent faktisk indlæser adblockeren. Så det, man så let skal forsælle sig, det er, at når de her forskellige platform gerne vil spore besøgende på vores websites, så sker det gennem sådan små pings, eller signaler, eller beskeder, hvad man nu vil kalde det. Så når man ser en side klikker på noget, køber et produkt. De her forspørgelser, de bliver blokeret af adblockeren, i 5% i vores tilfælde. Blokeret, altså de kan simpelthen ikke sendes. Men måden, at adblockeren gør det her på, det er, at den genkender specifikke, for eksempel, mønstre i webadresserne. Det kunne være, at det indeholder, lad os sige, gklik id, eller det kunne være, at man kan se i kildekoden, at der er indlæst noget fra GoogleTagManager.com, eller Metas Script, eller hvad det skal være. Altså adblockerne kigger efter, hvad hedder det normalt, når du implementerer Google Ads, eller Meta Ads. Og hvis de så kan finde lige præcis det script, så fjerner de det simpelthen bare. Men det kræver, at de kan genkende det. Så det, vi skal gøre som marketers, det er at maskere, hvornår vi rent faktisk indlæser, for eksempel Google Tag Manager, eller Metas Pixel, eller hvad det nu skal være. Måden, man gør det på, det er, at man kan starte med at sætte server-site-tagging op. Vi anbefaler at bruge stape.io til infrastruktur til det. Det fungerer skide godt. Vi bruger det også selv på obsidian.dk, og vi bruger det på mange af vores kunder. Når man så har gennemført ens implementering af Stape, altså man har opsat en server-site-container, man har lavet ens scripts, man har provisioneret en server, og alting virker, så skal man benytte den funktionalitet i Stape, der hedder en custom loader. Jeg deler skærmen her igen, så man kan se det, hvis man ser Spotify med video, eller hvis man er på YouTube. Man skal implementere det, der hedder en custom loader. Det betyder, at man modificerer, hvilken URL man faktisk indlæser ens Google Tag Manager fra. Man skal ind i ens Stape-konto og generere den her custom loader, hvor man simpelthen vælger et nyt navn til at indlæse det fra. Jeg kan prøve at vise, hvordan det rent faktisk ser ud i praksis, når det så er implementeret. Hvis man nu tager Obsidiens kildekode, så er jeg gået ind i Google Chrome-browseren og taget view-source obsidian.dk, så vil man se, at man kan finde den her. Jeg kan faktisk ikke engang huske, hvad vores Google Tag Manager custom loader rent faktisk hedder. Så er den der. Her har vi fundet den. Hvis man går ind på view-source obsidian.dk, så vil man kunne se, at vores Google Tag Manager indlæses her. Der står Google Tag Manager. I kildekoden, der står, at den indlæses via sst.obsidian.dk-et-eller-andet.javescript. Her er to ting i det her, som går ind og maskerer det. Så det her script mwofeceq.javescript, det er selvfølgelig bare noget, der er scrambled, så en adblocker ikke kan genkende det. Og så sst.obsidian.dk, det står for server-side tracking. Det kunne jeg have kaldt hvad som helst. Jeg skal lade være med at kalde det tracking.obsidian.dk, for det kan de godt regne ud. Men jeg kunne have kaldt det her christiantinus-hemmelig-data-genvej.obsidian.dk, men der er i hvert fald ikke nogen, der vil kunne genkende det. Og i det øjeblik, vi indlæser vores custom loader, og indlæser Google Tag Manager via den, så kan adblockeren ikke længere genkende, hov, det her er et Google Tag Manager script, eller det er et Google Ads script, eller det er et Meta Ads script. Og så går de ikke ind og blokerer det længere. Og det er faktisk sådan, man omgår adblockers i praksis. Okay, så lavpraktisk adblock går ind, når du går ind på en hjemmeside, gennemgår kildekoden, ser, er der noget her, jeg kan genkende, som normalvis giver udtryk for, at det skulle være noget, jeg normalt blokerer, så blokerer den det selvfølgelig. Det, vi så gør her, det er, at vi giver den et Halloween-kostym på, vi maskerer den simpelthen, og på den måde kan affyre. Ja, det er præcis. Vi giver den effektivt et lille Halloween-kostym på, for på den måde at forhindre adblockeren i at genkende, at der er tale om Google Tag Manager her. Og det hjælper både på vores tracking, fordi vi rent faktisk kan få lov til at affyre den, og hvis man har anden nødvendig funktionalitet liggende inde i Google Tag Manager, fordi der er jo nogen, der har mange ting liggende inde i Google Tag Manager, det kunne også være ens, lad os sige, pop-up-software, som nogle gange ikke vil affyre korrekt, det kunne være ens chat-software, som man bruger til rent faktisk at hjælpe kunderne på vej, altså der kan være mange ting, der har decideret side-breaking functionality, der ligger inde i en Google Tag Manager-konto, som kan blive helt forhindret i at blive affyret af mange af de her genkende adblockers. Men det tænker dem, der har en slæder adblocker nok ikke overgør alligevel. Nej, det her... Det her ved jeg ikke, hvad jeg skal sige. Det er selvfølgelig dumt, at jeg ikke har fået den fjernenden her i dag. Jeg vidste jo godt, at du ville komme med spørgsmålet. Du vidste jo godt, at den her episode lå der, så du havde alle muligheder, og alligevel ligger du stadig med en adblocker installeret. Så, her til sidst, helt lavpraktisk. Man har lyttet med, man synes, det her lyder interessant, det er noget, der skal tages action på. Hvad gør man så? Ind og implementere server-side tagging til at starte med. Brug et værktøj eller en hosting-platform, der understøtter sådan en custom loader her. Implementer custom loader. Udskift scriptet, der indlæser Google Tag Manager. Og slå eventuelt analytics til i stable, hvis du ender med at bruge dem, så du kan se, hvor meget du rent faktisk vinder. Og så er du også klar til at tage fra arbejde, fordi så har du gjort dagens godgjerning allerede der.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": " Christian?",
+      "speaker": "A"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": " Halvstand?",
+      "speaker": "B"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": " Har du stadig en adblocker installeret på din telefon?",
+      "speaker": "A"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Nej, ikke på telefonen.",
+      "speaker": "B"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": " Okay, hvem er din computer?",
+      "speaker": "A"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Ah, shit.",
+      "speaker": "B"
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": " Jamen, det har jeg.",
+      "speaker": "B"
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": " Men, der er lige et kæmpestort men.",
+      "speaker": "B"
+    },
+    {
+      "start": 19.0,
+      "end": 23.0,
+      "text": " Jeg vil sige, at fordi jeg ikke ved det, så bruger jeg Google Chrome.",
+      "speaker": "B"
+    },
+    {
+      "start": 23.0,
+      "end": 28.0,
+      "text": " Og der er sådan en extension, der hedder adblock, hvor den lyser rød, når man rent faktisk blokerer.",
+      "speaker": "B"
+    },
+    {
+      "start": 28.0,
+      "end": 31.0,
+      "text": " Og grøn, når man har sagt, at den har hjemmesiddet.",
+      "speaker": "B"
+    },
+    {
+      "start": 31.0,
+      "end": 33.0,
+      "text": " Det er okay, der vil jeg gerne se annoncer fra.",
+      "speaker": "B"
+    },
+    {
+      "start": 33.0,
+      "end": 37.0,
+      "text": " Og jeg vil sige, at når den er mere grøn end rød, normalt, fordi jeg simpelthen har aktiveret det igen, så...",
+      "speaker": "B"
+    },
+    {
+      "start": 37.0,
+      "end": 39.0,
+      "text": " Ja, jeg ved ikke, hvad jeg prøver at undskylde.",
+      "speaker": "B"
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": " Ja, jeg har adblock på.",
+      "speaker": "B"
+    },
+    {
+      "start": 41.0,
+      "end": 43.0,
+      "text": " Ja, det har du.",
+      "speaker": "A"
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": " Og dermed så er du jo en del af problemet.",
+      "speaker": "A"
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": " Yes.",
+      "speaker": "A"
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "text": " Man skulle egentlig tro, at du havde arbejdet med digital marketing længe nok, til at du selvfølgelig ville være en del af løsningen her.",
+      "speaker": "A"
+    },
+    {
+      "start": 52.0,
+      "end": 56.0,
+      "text": " Men nej, her er vi på trods af adskillige episoder, hvor jeg har forsøgt at udskamme dig.",
+      "speaker": "A"
+    },
+    {
+      "start": 56.0,
+      "end": 60.0,
+      "text": " Så den her episode, den handler om, hvordan man kan blokere folk som Christian Tiniu fra ikke at se ens annoncer,",
+      "speaker": "A"
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": " oppebolet, når man køber et produkt.",
+      "speaker": "A"
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "text": " Fordi det skal vi selvfølgelig ikke unde.",
+      "speaker": "A"
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": " Det handler om adblock også.",
+      "speaker": "A"
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "text": " Hvor mange tror du, der bruger adblockere i Danmark?",
+      "speaker": "A"
+    },
+    {
+      "start": 68.0,
+      "end": 71.0,
+      "text": " Uh, det er et godt spørgsmål.",
+      "speaker": "B"
+    },
+    {
+      "start": 71.0,
+      "end": 73.0,
+      "text": " Øhm...",
+      "speaker": "B"
+    },
+    {
+      "start": 73.0,
+      "end": 75.0,
+      "text": " Jeg tror sgu, vi er mange.",
+      "speaker": "B"
+    },
+    {
+      "start": 75.0,
+      "end": 77.0,
+      "text": " Jeg siger 70... Nej, det er mange.",
+      "speaker": "B"
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "text": " 60 procent.",
+      "speaker": "B"
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "text": " Øh, det er også mange.",
+      "speaker": "A"
+    },
+    {
+      "start": 79.0,
+      "end": 83.0,
+      "text": " Jeg kan sige, at den statistik, jeg kan finde på, det er, at Danmark er det land med anden højest adblocker-penetration i verden,",
+      "speaker": "A"
+    },
+    {
+      "start": 83.0,
+      "end": 85.0,
+      "text": " efter Tyskland, hvor Adblock Plus også er fra.",
+      "speaker": "A"
+    },
+    {
+      "start": 85.0,
+      "end": 87.0,
+      "text": " Det er en virksomhed, baseret i Hamburg.",
+      "speaker": "A"
+    },
+    {
+      "start": 87.0,
+      "end": 90.0,
+      "text": " Men det er rundt regnet en fjerdedel af danskere, der har en adblocker installeret.",
+      "speaker": "A"
+    },
+    {
+      "start": 90.0,
+      "end": 92.0,
+      "text": " Omkring 20-25 procent.",
+      "speaker": "A"
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": " Der er flere unge, der har det, end der er ældre.",
+      "speaker": "A"
+    },
+    {
+      "start": 94.0,
+      "end": 96.0,
+      "text": " Det har sådan en slagsid mod yngre mennesker.",
+      "speaker": "A"
+    },
+    {
+      "start": 96.0,
+      "end": 98.0,
+      "text": " Det kan også forklare, hvorfor du rent faktisk har en, og hvorfor jeg ikke har en.",
+      "speaker": "A"
+    },
+    {
+      "start": 98.0,
+      "end": 100.0,
+      "text": " Og derudover...",
+      "speaker": "A"
+    },
+    {
+      "start": 100.0,
+      "end": 102.0,
+      "text": " Så er det selvfølgelig større...",
+      "speaker": "A"
+    },
+    {
+      "start": 102.0,
+      "end": 104.0,
+      "text": " Ja, det er et halvt stort problem.",
+      "speaker": "A"
+    },
+    {
+      "start": 104.0,
+      "end": 108.0,
+      "text": " Fordi det, der er med adblockers, det er, at ikke alene kan de blokere annoncer,",
+      "speaker": "A"
+    },
+    {
+      "start": 108.0,
+      "end": 110.0,
+      "text": " hvilket til at starte med er træls,",
+      "speaker": "A"
+    },
+    {
+      "start": 110.0,
+      "end": 112.0,
+      "text": " men i denne tilfælde vil de faktisk også gå ind og blokere ens sporing,",
+      "speaker": "A"
+    },
+    {
+      "start": 112.0,
+      "end": 114.0,
+      "text": " for at blive affyret korrekt.",
+      "speaker": "A"
+    },
+    {
+      "start": 114.0,
+      "end": 116.0,
+      "text": " Og det er der, jeg ser det store problem.",
+      "speaker": "A"
+    },
+    {
+      "start": 116.0,
+      "end": 118.0,
+      "text": " Så spørgsmålet, hvor stort er problemet på sådan en almindelig site?",
+      "speaker": "A"
+    },
+    {
+      "start": 118.0,
+      "end": 124.0,
+      "text": " Hvis man bruger stape.io til infrastruktur til server-site-tagging, som vi gør,",
+      "speaker": "A"
+    },
+    {
+      "start": 124.0,
+      "end": 126.0,
+      "text": " så er der faktisk noget data på det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 126.0,
+      "end": 129.0,
+      "text": " Hvis man går ind på ens stape-konto, som jeg har gjort her,",
+      "speaker": "A"
+    },
+    {
+      "start": 129.0,
+      "end": 132.0,
+      "text": " og så nu deler jeg skærmen et øjeblik, så kan man slå noget, der hedder analytics til.",
+      "speaker": "A"
+    },
+    {
+      "start": 132.0,
+      "end": 134.0,
+      "text": " Jeg har lige gjort det på Obsidians egen konto.",
+      "speaker": "A"
+    },
+    {
+      "start": 134.0,
+      "end": 139.0,
+      "text": " Og der kan vi se, siden jeg slog det til, så har vi fået 3.200 requests på vores server-site-containere.",
+      "speaker": "A"
+    },
+    {
+      "start": 139.0,
+      "end": 145.0,
+      "text": " Hvoraf 161 af dem, eller 5%, faktisk havde en adblocker, som ellers ville have blokeret det.",
+      "speaker": "A"
+    },
+    {
+      "start": 145.0,
+      "end": 151.0,
+      "text": " Så i vores tilfælde på obsidian.dk, så er det ca. 5% af de besøgende, vi får,",
+      "speaker": "A"
+    },
+    {
+      "start": 151.0,
+      "end": 154.0,
+      "text": " bare lige baseret på den her datamængde, som vi faktisk ikke kunne have målt,",
+      "speaker": "A"
+    },
+    {
+      "start": 154.0,
+      "end": 158.0,
+      "text": " fordi de simpelthen havde blokeret os fra at affyre fx vores Metapixel,",
+      "speaker": "A"
+    },
+    {
+      "start": 158.0,
+      "end": 161.0,
+      "text": " eller vores Google Analytics-script, eller vores Google Ads-script,",
+      "speaker": "A"
+    },
+    {
+      "start": 161.0,
+      "end": 163.0,
+      "text": " selv hvis de har sagt ja tak til cookies.",
+      "speaker": "A"
+    },
+    {
+      "start": 163.0,
+      "end": 165.0,
+      "text": " Og nu sagde jeg jo 25% før.",
+      "speaker": "A"
+    },
+    {
+      "start": 165.0,
+      "end": 170.0,
+      "text": " Det er, fordi det ikke er alle adblockers, der rent faktisk blokerer for, at man affyrer tracking pixels.",
+      "speaker": "A"
+    },
+    {
+      "start": 170.0,
+      "end": 172.0,
+      "text": " Der er mange af dem, der bare blokerer for, at man får vist annoncer.",
+      "speaker": "A"
+    },
+    {
+      "start": 172.0,
+      "end": 177.0,
+      "text": " Men altså 5%, det er sgu stadig en hel del køb, man ikke kan spore alene på det.",
+      "speaker": "A"
+    },
+    {
+      "start": 177.0,
+      "end": 181.0,
+      "text": " Ja, for helt lavpraktisk, lad os sige, at nu er jeg jo så nok en af de her 161 her,",
+      "speaker": "B"
+    },
+    {
+      "start": 181.0,
+      "end": 187.0,
+      "text": " kommer ind på obsidian.dk og vil kontakte jer og udfylder, hvad hedder det, formularen derinde,",
+      "speaker": "B"
+    },
+    {
+      "start": 187.0,
+      "end": 191.0,
+      "text": " så kan det faktisk ikke spores tilbage til den givende kanal, hvor jeg er kommet fra,",
+      "speaker": "B"
+    },
+    {
+      "start": 191.0,
+      "end": 193.0,
+      "text": " eller lignende, fordi jeg har haft adblock på.",
+      "speaker": "B"
+    },
+    {
+      "start": 193.0,
+      "end": 194.0,
+      "text": " Er det ikke sådan helt lavpraktisk forstået?",
+      "speaker": "B"
+    },
+    {
+      "start": 194.0,
+      "end": 197.0,
+      "text": " Jo, det forhindrer simpelthen vores tracking pixels lige at affyre korrekt,",
+      "speaker": "A"
+    },
+    {
+      "start": 197.0,
+      "end": 199.0,
+      "text": " så vi kan ikke se, hvor du kom fra.",
+      "speaker": "A"
+    },
+    {
+      "start": 199.0,
+      "end": 201.0,
+      "text": " Så vi kan ikke målekøbe det i Google Analytics.",
+      "speaker": "A"
+    },
+    {
+      "start": 201.0,
+      "end": 204.0,
+      "text": " Hvis man så sidder på en Shopify-shop, så bliver det selvfølgelig målt.",
+      "speaker": "A"
+    },
+    {
+      "start": 204.0,
+      "end": 207.0,
+      "text": " Men man kan have udfordringer med at tilskrive det til de oprindelige marketingkanaler.",
+      "speaker": "A"
+    },
+    {
+      "start": 207.0,
+      "end": 211.0,
+      "text": " Og den største udfordring, det er, at Meta eller Google, hvis de sender en besøgende,",
+      "speaker": "A"
+    },
+    {
+      "start": 211.0,
+      "end": 217.0,
+      "text": " som rent faktisk ender med at købe, så har vi jo brug for at sende den information tilbage til Meta og Google.",
+      "speaker": "A"
+    },
+    {
+      "start": 217.0,
+      "end": 219.0,
+      "text": " Du sendte Christian Tineau ind, Christian Tineau har købt,",
+      "speaker": "A"
+    },
+    {
+      "start": 219.0,
+      "end": 221.0,
+      "text": " derfor vil vi gerne ramme flere personer som Christian Tineau.",
+      "speaker": "A"
+    },
+    {
+      "start": 222.0,
+      "end": 225.0,
+      "text": " Og hvis du ødelægger det link der mellem klikket og kommenteringen,",
+      "speaker": "A"
+    },
+    {
+      "start": 225.0,
+      "end": 228.0,
+      "text": " så fungerer vores annoncering bare meget, meget dårligere.",
+      "speaker": "A"
+    },
+    {
+      "start": 228.0,
+      "end": 230.0,
+      "text": " Og det er det, der er vigtigt at forstå.",
+      "speaker": "A"
+    },
+    {
+      "start": 230.0,
+      "end": 233.0,
+      "text": " Det handler ikke om at måle 5% mere, det gør det også, det er nice,",
+      "speaker": "A"
+    },
+    {
+      "start": 233.0,
+      "end": 237.0,
+      "text": " men det handler om, hvis du får 5% flere signaler ind til Google eller Meta",
+      "speaker": "A"
+    },
+    {
+      "start": 237.0,
+      "end": 242.0,
+      "text": " eller de andre annonceplatformer, du bruger, så vil du få bedre levering tilbage igen,",
+      "speaker": "A"
+    },
+    {
+      "start": 242.0,
+      "end": 245.0,
+      "text": " så det sænker effektivt den pris, du betaler for at få en ny kunde.",
+      "speaker": "A"
+    },
+    {
+      "start": 245.0,
+      "end": 247.0,
+      "text": " Så det kommer simpelthen til at hæve afkastet.",
+      "speaker": "A"
+    },
+    {
+      "start": 247.0,
+      "end": 249.0,
+      "text": " Adblockers gør ondt på afkastet, men det er et problem, der kan løses.",
+      "speaker": "A"
+    },
+    {
+      "start": 249.0,
+      "end": 252.0,
+      "text": " Det er en god nyhed. Så Christian Tineau, hvordan løser vi problemet?",
+      "speaker": "A"
+    },
+    {
+      "start": 252.0,
+      "end": 255.0,
+      "text": " Det glæder jeg mig så meget til, at du skal fortælle os.",
+      "speaker": "B"
+    },
+    {
+      "start": 257.0,
+      "end": 259.0,
+      "text": " Jeg er bare klar på spørgsmålet.",
+      "speaker": "A"
+    },
+    {
+      "start": 261.0,
+      "end": 263.0,
+      "text": " Jeg kan godt høre, at du falder ikke ind i dag.",
+      "speaker": "A"
+    },
+    {
+      "start": 263.0,
+      "end": 265.0,
+      "text": " Jeg prøver at se dig igen i den her episode.",
+      "speaker": "A"
+    },
+    {
+      "start": 265.0,
+      "end": 269.0,
+      "text": " Det, det handler om, det er, at vi skal have implementeret server-side tagging,",
+      "speaker": "A"
+    },
+    {
+      "start": 269.0,
+      "end": 274.0,
+      "text": " og så skal vi maskere for adblockeren, hvornår vi rent faktisk indlæser adblockeren.",
+      "speaker": "A"
+    },
+    {
+      "start": 274.0,
+      "end": 278.0,
+      "text": " Så det, man så let skal forsælle sig, det er, at når de her forskellige platform",
+      "speaker": "A"
+    },
+    {
+      "start": 278.0,
+      "end": 280.0,
+      "text": " gerne vil spore besøgende på vores websites,",
+      "speaker": "A"
+    },
+    {
+      "start": 280.0,
+      "end": 284.0,
+      "text": " så sker det gennem sådan små pings, eller signaler, eller beskeder,",
+      "speaker": "A"
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": " hvad man nu vil kalde det.",
+      "speaker": "A"
+    },
+    {
+      "start": 286.0,
+      "end": 288.0,
+      "text": " Så når man ser en side klikker på noget, køber et produkt.",
+      "speaker": "A"
+    },
+    {
+      "start": 288.0,
+      "end": 292.0,
+      "text": " De her forspørgelser, de bliver blokeret af adblockeren, i 5% i vores tilfælde.",
+      "speaker": "A"
+    },
+    {
+      "start": 292.0,
+      "end": 294.0,
+      "text": " Blokeret, altså de kan simpelthen ikke sendes.",
+      "speaker": "A"
+    },
+    {
+      "start": 294.0,
+      "end": 298.0,
+      "text": " Men måden, at adblockeren gør det her på, det er, at den genkender specifikke,",
+      "speaker": "A"
+    },
+    {
+      "start": 298.0,
+      "end": 301.0,
+      "text": " for eksempel, mønstre i webadresserne.",
+      "speaker": "A"
+    },
+    {
+      "start": 301.0,
+      "end": 304.0,
+      "text": " Det kunne være, at det indeholder, lad os sige, gklik id,",
+      "speaker": "A"
+    },
+    {
+      "start": 304.0,
+      "end": 307.0,
+      "text": " eller det kunne være, at man kan se i kildekoden,",
+      "speaker": "A"
+    },
+    {
+      "start": 307.0,
+      "end": 310.0,
+      "text": " at der er indlæst noget fra GoogleTagManager.com,",
+      "speaker": "A"
+    },
+    {
+      "start": 310.0,
+      "end": 312.0,
+      "text": " eller Metas Script, eller hvad det skal være.",
+      "speaker": "A"
+    },
+    {
+      "start": 312.0,
+      "end": 316.0,
+      "text": " Altså adblockerne kigger efter, hvad hedder det normalt,",
+      "speaker": "A"
+    },
+    {
+      "start": 316.0,
+      "end": 319.0,
+      "text": " når du implementerer Google Ads, eller Meta Ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 319.0,
+      "end": 323.0,
+      "text": " Og hvis de så kan finde lige præcis det script, så fjerner de det simpelthen bare.",
+      "speaker": "A"
+    },
+    {
+      "start": 323.0,
+      "end": 326.0,
+      "text": " Men det kræver, at de kan genkende det.",
+      "speaker": "A"
+    },
+    {
+      "start": 326.0,
+      "end": 330.0,
+      "text": " Så det, vi skal gøre som marketers, det er at maskere,",
+      "speaker": "A"
+    },
+    {
+      "start": 330.0,
+      "end": 332.0,
+      "text": " hvornår vi rent faktisk indlæser, for eksempel Google Tag Manager,",
+      "speaker": "A"
+    },
+    {
+      "start": 332.0,
+      "end": 335.0,
+      "text": " eller Metas Pixel, eller hvad det nu skal være.",
+      "speaker": "A"
+    },
+    {
+      "start": 335.0,
+      "end": 339.0,
+      "text": " Måden, man gør det på, det er, at man kan starte med at sætte server-site-tagging op.",
+      "speaker": "A"
+    },
+    {
+      "start": 339.0,
+      "end": 342.0,
+      "text": " Vi anbefaler at bruge stape.io til infrastruktur til det.",
+      "speaker": "A"
+    },
+    {
+      "start": 342.0,
+      "end": 344.0,
+      "text": " Det fungerer skide godt.",
+      "speaker": "A"
+    },
+    {
+      "start": 344.0,
+      "end": 348.0,
+      "text": " Vi bruger det også selv på obsidian.dk, og vi bruger det på mange af vores kunder.",
+      "speaker": "A"
+    },
+    {
+      "start": 348.0,
+      "end": 351.0,
+      "text": " Når man så har gennemført ens implementering af Stape,",
+      "speaker": "A"
+    },
+    {
+      "start": 351.0,
+      "end": 353.0,
+      "text": " altså man har opsat en server-site-container,",
+      "speaker": "A"
+    },
+    {
+      "start": 353.0,
+      "end": 355.0,
+      "text": " man har lavet ens scripts,",
+      "speaker": "A"
+    },
+    {
+      "start": 355.0,
+      "end": 358.0,
+      "text": " man har provisioneret en server, og alting virker,",
+      "speaker": "A"
+    },
+    {
+      "start": 358.0,
+      "end": 363.0,
+      "text": " så skal man benytte den funktionalitet i Stape, der hedder en custom loader.",
+      "speaker": "A"
+    },
+    {
+      "start": 364.0,
+      "end": 367.0,
+      "text": " Jeg deler skærmen her igen, så man kan se det, hvis man ser Spotify med video,",
+      "speaker": "A"
+    },
+    {
+      "start": 367.0,
+      "end": 368.0,
+      "text": " eller hvis man er på YouTube.",
+      "speaker": "A"
+    },
+    {
+      "start": 368.0,
+      "end": 371.0,
+      "text": " Man skal implementere det, der hedder en custom loader.",
+      "speaker": "A"
+    },
+    {
+      "start": 371.0,
+      "end": 378.0,
+      "text": " Det betyder, at man modificerer, hvilken URL man faktisk indlæser ens Google Tag Manager fra.",
+      "speaker": "A"
+    },
+    {
+      "start": 378.0,
+      "end": 383.0,
+      "text": " Man skal ind i ens Stape-konto og generere den her custom loader,",
+      "speaker": "A"
+    },
+    {
+      "start": 383.0,
+      "end": 387.0,
+      "text": " hvor man simpelthen vælger et nyt navn til at indlæse det fra.",
+      "speaker": "A"
+    },
+    {
+      "start": 387.0,
+      "end": 390.0,
+      "text": " Jeg kan prøve at vise, hvordan det rent faktisk ser ud i praksis,",
+      "speaker": "A"
+    },
+    {
+      "start": 390.0,
+      "end": 392.0,
+      "text": " når det så er implementeret.",
+      "speaker": "A"
+    },
+    {
+      "start": 392.0,
+      "end": 395.0,
+      "text": " Hvis man nu tager Obsidiens kildekode,",
+      "speaker": "A"
+    },
+    {
+      "start": 395.0,
+      "end": 400.0,
+      "text": " så er jeg gået ind i Google Chrome-browseren og taget view-source obsidian.dk,",
+      "speaker": "A"
+    },
+    {
+      "start": 400.0,
+      "end": 405.0,
+      "text": " så vil man se, at man kan finde den her.",
+      "speaker": "A"
+    },
+    {
+      "start": 405.0,
+      "end": 410.0,
+      "text": " Jeg kan faktisk ikke engang huske, hvad vores Google Tag Manager custom loader rent faktisk hedder.",
+      "speaker": "A"
+    },
+    {
+      "start": 410.0,
+      "end": 412.0,
+      "text": " Så er den der. Her har vi fundet den.",
+      "speaker": "A"
+    },
+    {
+      "start": 412.0,
+      "end": 415.0,
+      "text": " Hvis man går ind på view-source obsidian.dk,",
+      "speaker": "A"
+    },
+    {
+      "start": 415.0,
+      "end": 418.0,
+      "text": " så vil man kunne se, at vores Google Tag Manager indlæses her.",
+      "speaker": "A"
+    },
+    {
+      "start": 418.0,
+      "end": 420.0,
+      "text": " Der står Google Tag Manager.",
+      "speaker": "A"
+    },
+    {
+      "start": 420.0,
+      "end": 427.0,
+      "text": " I kildekoden, der står, at den indlæses via sst.obsidian.dk-et-eller-andet.javescript.",
+      "speaker": "A"
+    },
+    {
+      "start": 427.0,
+      "end": 430.0,
+      "text": " Her er to ting i det her, som går ind og maskerer det.",
+      "speaker": "A"
+    },
+    {
+      "start": 430.0,
+      "end": 435.0,
+      "text": " Så det her script mwofeceq.javescript, det er selvfølgelig bare noget, der er scrambled,",
+      "speaker": "A"
+    },
+    {
+      "start": 435.0,
+      "end": 437.0,
+      "text": " så en adblocker ikke kan genkende det.",
+      "speaker": "A"
+    },
+    {
+      "start": 437.0,
+      "end": 440.0,
+      "text": " Og så sst.obsidian.dk, det står for server-side tracking.",
+      "speaker": "A"
+    },
+    {
+      "start": 440.0,
+      "end": 442.0,
+      "text": " Det kunne jeg have kaldt hvad som helst.",
+      "speaker": "A"
+    },
+    {
+      "start": 442.0,
+      "end": 445.0,
+      "text": " Jeg skal lade være med at kalde det tracking.obsidian.dk, for det kan de godt regne ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 445.0,
+      "end": 448.0,
+      "text": " Men jeg kunne have kaldt det her christiantinus-hemmelig-data-genvej.obsidian.dk,",
+      "speaker": "A"
+    },
+    {
+      "start": 448.0,
+      "end": 450.0,
+      "text": " men der er i hvert fald ikke nogen, der vil kunne genkende det.",
+      "speaker": "A"
+    },
+    {
+      "start": 450.0,
+      "end": 455.0,
+      "text": " Og i det øjeblik, vi indlæser vores custom loader, og indlæser Google Tag Manager via den,",
+      "speaker": "A"
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": " så kan adblockeren ikke længere genkende,",
+      "speaker": "A"
+    },
+    {
+      "start": 457.0,
+      "end": 459.0,
+      "text": " hov, det her er et Google Tag Manager script,",
+      "speaker": "A"
+    },
+    {
+      "start": 459.0,
+      "end": 460.0,
+      "text": " eller det er et Google Ads script,",
+      "speaker": "A"
+    },
+    {
+      "start": 460.0,
+      "end": 461.0,
+      "text": " eller det er et Meta Ads script.",
+      "speaker": "A"
+    },
+    {
+      "start": 461.0,
+      "end": 463.0,
+      "text": " Og så går de ikke ind og blokerer det længere.",
+      "speaker": "A"
+    },
+    {
+      "start": 463.0,
+      "end": 466.0,
+      "text": " Og det er faktisk sådan, man omgår adblockers i praksis.",
+      "speaker": "A"
+    },
+    {
+      "start": 467.0,
+      "end": 470.0,
+      "text": " Okay, så lavpraktisk adblock går ind, når du går ind på en hjemmeside,",
+      "speaker": "B"
+    },
+    {
+      "start": 470.0,
+      "end": 473.0,
+      "text": " gennemgår kildekoden, ser, er der noget her, jeg kan genkende,",
+      "speaker": "B"
+    },
+    {
+      "start": 473.0,
+      "end": 478.0,
+      "text": " som normalvis giver udtryk for, at det skulle være noget, jeg normalt blokerer,",
+      "speaker": "B"
+    },
+    {
+      "start": 478.0,
+      "end": 479.0,
+      "text": " så blokerer den det selvfølgelig.",
+      "speaker": "B"
+    },
+    {
+      "start": 479.0,
+      "end": 483.0,
+      "text": " Det, vi så gør her, det er, at vi giver den et Halloween-kostym på,",
+      "speaker": "B"
+    },
+    {
+      "start": 483.0,
+      "end": 487.0,
+      "text": " vi maskerer den simpelthen, og på den måde kan affyre.",
+      "speaker": "B"
+    },
+    {
+      "start": 487.0,
+      "end": 488.0,
+      "text": " Ja, det er præcis.",
+      "speaker": "B"
+    },
+    {
+      "start": 488.0,
+      "end": 491.0,
+      "text": " Vi giver den effektivt et lille Halloween-kostym på,",
+      "speaker": "A"
+    },
+    {
+      "start": 491.0,
+      "end": 494.0,
+      "text": " for på den måde at forhindre adblockeren i at genkende,",
+      "speaker": "A"
+    },
+    {
+      "start": 494.0,
+      "end": 496.0,
+      "text": " at der er tale om Google Tag Manager her.",
+      "speaker": "A"
+    },
+    {
+      "start": 496.0,
+      "end": 498.0,
+      "text": " Og det hjælper både på vores tracking,",
+      "speaker": "A"
+    },
+    {
+      "start": 498.0,
+      "end": 500.0,
+      "text": " fordi vi rent faktisk kan få lov til at affyre den,",
+      "speaker": "A"
+    },
+    {
+      "start": 500.0,
+      "end": 504.0,
+      "text": " og hvis man har anden nødvendig funktionalitet liggende inde i Google Tag Manager,",
+      "speaker": "A"
+    },
+    {
+      "start": 504.0,
+      "end": 506.0,
+      "text": " fordi der er jo nogen, der har mange ting liggende inde i Google Tag Manager,",
+      "speaker": "A"
+    },
+    {
+      "start": 506.0,
+      "end": 509.0,
+      "text": " det kunne også være ens, lad os sige, pop-up-software,",
+      "speaker": "A"
+    },
+    {
+      "start": 509.0,
+      "end": 511.0,
+      "text": " som nogle gange ikke vil affyre korrekt,",
+      "speaker": "A"
+    },
+    {
+      "start": 511.0,
+      "end": 515.0,
+      "text": " det kunne være ens chat-software, som man bruger til rent faktisk at hjælpe kunderne på vej,",
+      "speaker": "A"
+    },
+    {
+      "start": 515.0,
+      "end": 519.0,
+      "text": " altså der kan være mange ting, der har decideret side-breaking functionality,",
+      "speaker": "A"
+    },
+    {
+      "start": 519.0,
+      "end": 521.0,
+      "text": " der ligger inde i en Google Tag Manager-konto,",
+      "speaker": "A"
+    },
+    {
+      "start": 521.0,
+      "end": 525.0,
+      "text": " som kan blive helt forhindret i at blive affyret af mange af de her genkende adblockers.",
+      "speaker": "A"
+    },
+    {
+      "start": 525.0,
+      "end": 528.0,
+      "text": " Men det tænker dem, der har en slæder adblocker nok ikke overgør alligevel.",
+      "speaker": "A"
+    },
+    {
+      "start": 529.0,
+      "end": 530.0,
+      "text": " Nej, det her...",
+      "speaker": "B"
+    },
+    {
+      "start": 532.0,
+      "end": 534.0,
+      "text": " Det her ved jeg ikke, hvad jeg skal sige.",
+      "speaker": "B"
+    },
+    {
+      "start": 534.0,
+      "end": 536.0,
+      "text": " Det er selvfølgelig dumt, at jeg ikke har fået den fjernenden her i dag.",
+      "speaker": "B"
+    },
+    {
+      "start": 536.0,
+      "end": 538.0,
+      "text": " Jeg vidste jo godt, at du ville komme med spørgsmålet.",
+      "speaker": "B"
+    },
+    {
+      "start": 538.0,
+      "end": 541.0,
+      "text": " Du vidste jo godt, at den her episode lå der, så du havde alle muligheder,",
+      "speaker": "A"
+    },
+    {
+      "start": 541.0,
+      "end": 544.0,
+      "text": " og alligevel ligger du stadig med en adblocker installeret.",
+      "speaker": "A"
+    },
+    {
+      "start": 544.0,
+      "end": 547.0,
+      "text": " Så, her til sidst, helt lavpraktisk.",
+      "speaker": "B"
+    },
+    {
+      "start": 547.0,
+      "end": 549.0,
+      "text": " Man har lyttet med, man synes, det her lyder interessant,",
+      "speaker": "B"
+    },
+    {
+      "start": 549.0,
+      "end": 551.0,
+      "text": " det er noget, der skal tages action på.",
+      "speaker": "B"
+    },
+    {
+      "start": 551.0,
+      "end": 552.0,
+      "text": " Hvad gør man så?",
+      "speaker": "B"
+    },
+    {
+      "start": 552.0,
+      "end": 556.0,
+      "text": " Ind og implementere server-side tagging til at starte med.",
+      "speaker": "A"
+    },
+    {
+      "start": 556.0,
+      "end": 559.0,
+      "text": " Brug et værktøj eller en hosting-platform, der understøtter sådan en custom loader her.",
+      "speaker": "A"
+    },
+    {
+      "start": 559.0,
+      "end": 561.0,
+      "text": " Implementer custom loader.",
+      "speaker": "A"
+    },
+    {
+      "start": 561.0,
+      "end": 564.0,
+      "text": " Udskift scriptet, der indlæser Google Tag Manager.",
+      "speaker": "A"
+    },
+    {
+      "start": 564.0,
+      "end": 567.0,
+      "text": " Og slå eventuelt analytics til i stable, hvis du ender med at bruge dem,",
+      "speaker": "A"
+    },
+    {
+      "start": 567.0,
+      "end": 569.0,
+      "text": " så du kan se, hvor meget du rent faktisk vinder.",
+      "speaker": "A"
+    },
+    {
+      "start": 569.0,
+      "end": 572.0,
+      "text": " Og så er du også klar til at tage fra arbejde,",
+      "speaker": "A"
+    },
+    {
+      "start": 572.0,
+      "end": 574.0,
+      "text": " fordi så har du gjort dagens godgjerning allerede der.",
+      "speaker": "A"
+    }
+  ]
+}

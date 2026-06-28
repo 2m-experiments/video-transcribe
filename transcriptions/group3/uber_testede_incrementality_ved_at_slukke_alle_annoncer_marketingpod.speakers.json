@@ -1,0 +1,415 @@
+{
+  "title": "Uber testede incrementality ved at slukke alle annoncer #marketingpod",
+  "url": "https://www.youtube.com/watch?v=1x035QvsHJs",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 207.1,
+  "transcribed_at": "2026-04-16T11:58:16.238839+00:00",
+  "full_text": "En af de ting, man kan lave med studier, det er det, der hedder Ground Zero-betrækninger. Lad mig prøve at komme et eksempel på det. Signe, du kender Uber. Ja, jeg er fra Pocketer. Og Uber er ret kendt for en case, og det her er i omkring 2017, hvis jeg husker rigtigt, hvor de bruger rigtig, rigtig mange penge på bl.a. meta-annoncering. Og det, de så var lidt i tvivl om, det er, at vi bruger rigtig mange penge på meta, omkring 35 millioner dollars om året, og vi får rigtig mange riders. Hænger de egentlig sammen eller hvad? Og det, de gjorde, det var, at de i en ret kendt case faktisk gik ind og slukkede deres meta-annoncering i en periode for at se, hvad der skete. Og det endte med, at grafen for mængden af tilmeldte drivers fortsat fuldstændig uhindret. For trods af, at de slukkede al deres annoncering. Så der er sådan en artikler med, how Uber saved 35 million dollars a year on ads. Det der med at slukke alle dine annoncer og se, hvad der så sker, det kan man kalde forskellige ting. Det kunne bl.a. kaldes en ground zero betragtning. Det vil sige, at hvis du laver ingenting, hvis du slukker alt, slukker hele lyset, hvad sker der så? Og det er en enormt effektiv og også lidt farlig måde at teste incrementality på. Fordi det gode ved den, det er, at når du slukker det, så får du også effekten. Så hvis du slukkede din annoncering, og du mistede en masse salg, så havde de to sgu nok noget med hinanden at gøre. Derover bliver det her en rigtig lorte metode til at teste incrementality. For det første er sådan en kortsigtig, så den viser ikke en langsigtig effekt. Det kan godt være, at du slukker dine annoncer nu, og du ikke mistede noget salg nu, men det er jo fordi, du har opbygget en branch af stedetværelsen med annoncering over en lang periode, og effekten af at slukke dine annoncer viser sig ikke på dag 1, den viser sig over en lang periode. Den anden ting er, at det er svært at isolere effekten, medmindre det er en stor kanal, du bruger virkelig, virkelig, virkelig mange penge på. Og det tredje er, at rent teknisk, hvis du bare går ind og klipper alle dine annoncer, altså du klipper alle dine læringsfaser, så når du så starter dine annoncer op igen, så virker de faktisk dårligere, end de gjorde før, i hvert fald på alle auktionsplatformene. Og det hører jo med til historien, at Uber, de brugte også Facebook-annoncer forkert, så Uber er en kæmpe annonsør på meta i dag, men de er blevet meget bedre til det, fordi de ikke bruger penge på non-incremental ads. Så det var i realiteten faktisk ikke meta-annoncerne, det var ikke meta som platform, der var dårligt, de brugte dem bare forkert. Men de brugte dem forkert, og det fandt de ud af ved at lave en Ground Zero-betrækning. Så det er sådan en måde at gøre det på, ikke min favorit, men det er en måde at gøre det på. Hvordan kan man ellers måle incrementality? Lad os prøve at hoppe til en, som vi ikke har snakket så forfærdeligt meget om tidligere, de her Geolift-studier. Her skal vi ind og lege lidt med, jeg mener med geografi og på sin vis også demografi. Så forestil jer, at man har et produkt, der er egentlig relativt gængs, og man opdeler Danmark i to regioner. Så vi har Vestdanmark, altså Vestforbrugene og Østforbrugene. Og den ene, lad os bare sige Øst... Det er Lillebæltsbrugen, vi snakker om, ikke? Nå, nu er du fra Fyn, altså nu skal jeg lige tænke mig om. Åh, det kan vi godt sige. Du tager Vestfra, Vejlefjord og Vestfra. Vi tager Vestland versus... Det er selvfølgelig Storebæltsbrugen. Så lad os sige, at man i Vestdanmark, der kører man for eksempel MetaX aktivt, og man kører på der. Og over i Øst, der gør man ikke. Så kigger man på efter, lad os bare sige fire uger, altså man har en kontrolgruppe, man har en testgruppe, og så kigger man efter fire uger, hvordan ser det egentlig ud. Har vi højere omsætning, det sted, hvor vi rent faktisk har kørt den her test, altså hvor vi har kørt de her meta-annoncer, kan vi se, at vi rent faktisk har kørt annoncering der.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.88,
+      "text": " En af de ting, man kan lave med studier, det er det, der hedder Ground Zero-betrækninger.",
+      "speaker": "A"
+    },
+    {
+      "start": 3.88,
+      "end": 6.92,
+      "text": " Lad mig prøve at komme et eksempel på det.",
+      "speaker": "A"
+    },
+    {
+      "start": 6.92,
+      "end": 9.28,
+      "text": " Signe, du kender Uber.",
+      "speaker": "A"
+    },
+    {
+      "start": 9.28,
+      "end": 11.76,
+      "text": " Ja, jeg er fra Pocketer.",
+      "speaker": "A"
+    },
+    {
+      "start": 11.76,
+      "end": 18.56,
+      "text": " Og Uber er ret kendt for en case, og det her er i omkring 2017, hvis jeg husker rigtigt,",
+      "speaker": "A"
+    },
+    {
+      "start": 18.56,
+      "end": 23.12,
+      "text": " hvor de bruger rigtig, rigtig mange penge på bl.a. meta-annoncering.",
+      "speaker": "A"
+    },
+    {
+      "start": 23.12,
+      "end": 27.88,
+      "text": " Og det, de så var lidt i tvivl om, det er, at vi bruger rigtig mange penge på meta,",
+      "speaker": "A"
+    },
+    {
+      "start": 27.88,
+      "end": 31.84,
+      "text": " omkring 35 millioner dollars om året, og vi får rigtig mange riders.",
+      "speaker": "A"
+    },
+    {
+      "start": 31.84,
+      "end": 34.32,
+      "text": " Hænger de egentlig sammen eller hvad?",
+      "speaker": "A"
+    },
+    {
+      "start": 34.32,
+      "end": 40.2,
+      "text": " Og det, de gjorde, det var, at de i en ret kendt case faktisk gik ind og slukkede deres meta-annoncering",
+      "speaker": "A"
+    },
+    {
+      "start": 40.2,
+      "end": 42.4,
+      "text": " i en periode for at se, hvad der skete.",
+      "speaker": "A"
+    },
+    {
+      "start": 42.4,
+      "end": 49.32,
+      "text": " Og det endte med, at grafen for mængden af tilmeldte drivers fortsat fuldstændig uhindret.",
+      "speaker": "A"
+    },
+    {
+      "start": 49.32,
+      "end": 51.8,
+      "text": " For trods af, at de slukkede al deres annoncering.",
+      "speaker": "A"
+    },
+    {
+      "start": 51.8,
+      "end": 56.52,
+      "text": " Så der er sådan en artikler med, how Uber saved 35 million dollars a year on ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 56.52,
+      "end": 59.88,
+      "text": " Det der med at slukke alle dine annoncer og se, hvad der så sker,",
+      "speaker": "A"
+    },
+    {
+      "start": 59.88,
+      "end": 61.6,
+      "text": " det kan man kalde forskellige ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 61.6,
+      "end": 63.68,
+      "text": " Det kunne bl.a. kaldes en ground zero betragtning.",
+      "speaker": "A"
+    },
+    {
+      "start": 63.68,
+      "end": 68.8,
+      "text": " Det vil sige, at hvis du laver ingenting, hvis du slukker alt, slukker hele lyset, hvad sker der så?",
+      "speaker": "A"
+    },
+    {
+      "start": 68.8,
+      "end": 73.44,
+      "text": " Og det er en enormt effektiv og også lidt farlig måde at teste incrementality på.",
+      "speaker": "A"
+    },
+    {
+      "start": 73.44,
+      "end": 77.44,
+      "text": " Fordi det gode ved den, det er, at når du slukker det, så får du også effekten.",
+      "speaker": "A"
+    },
+    {
+      "start": 77.44,
+      "end": 80.56,
+      "text": " Så hvis du slukkede din annoncering, og du mistede en masse salg,",
+      "speaker": "A"
+    },
+    {
+      "start": 80.56,
+      "end": 83.0,
+      "text": " så havde de to sgu nok noget med hinanden at gøre.",
+      "speaker": "A"
+    },
+    {
+      "start": 83.0,
+      "end": 86.36,
+      "text": " Derover bliver det her en rigtig lorte metode til at teste incrementality.",
+      "speaker": "A"
+    },
+    {
+      "start": 86.36,
+      "end": 89.64,
+      "text": " For det første er sådan en kortsigtig, så den viser ikke en langsigtig effekt.",
+      "speaker": "A"
+    },
+    {
+      "start": 89.64,
+      "end": 93.0,
+      "text": " Det kan godt være, at du slukker dine annoncer nu, og du ikke mistede noget salg nu,",
+      "speaker": "A"
+    },
+    {
+      "start": 93.0,
+      "end": 96.28,
+      "text": " men det er jo fordi, du har opbygget en branch af stedetværelsen med annoncering over en lang periode,",
+      "speaker": "A"
+    },
+    {
+      "start": 96.28,
+      "end": 98.72,
+      "text": " og effekten af at slukke dine annoncer viser sig ikke på dag 1,",
+      "speaker": "A"
+    },
+    {
+      "start": 98.72,
+      "end": 100.72,
+      "text": " den viser sig over en lang periode.",
+      "speaker": "A"
+    },
+    {
+      "start": 100.72,
+      "end": 102.96,
+      "text": " Den anden ting er, at det er svært at isolere effekten,",
+      "speaker": "A"
+    },
+    {
+      "start": 102.96,
+      "end": 106.52,
+      "text": " medmindre det er en stor kanal, du bruger virkelig, virkelig, virkelig mange penge på.",
+      "speaker": "A"
+    },
+    {
+      "start": 106.52,
+      "end": 109.96,
+      "text": " Og det tredje er, at rent teknisk, hvis du bare går ind og klipper alle dine annoncer,",
+      "speaker": "A"
+    },
+    {
+      "start": 109.96,
+      "end": 112.44,
+      "text": " altså du klipper alle dine læringsfaser,",
+      "speaker": "A"
+    },
+    {
+      "start": 112.44,
+      "end": 115.12,
+      "text": " så når du så starter dine annoncer op igen, så virker de faktisk dårligere,",
+      "speaker": "A"
+    },
+    {
+      "start": 115.12,
+      "end": 117.72,
+      "text": " end de gjorde før, i hvert fald på alle auktionsplatformene.",
+      "speaker": "A"
+    },
+    {
+      "start": 117.72,
+      "end": 122.6,
+      "text": " Og det hører jo med til historien, at Uber, de brugte også Facebook-annoncer forkert,",
+      "speaker": "A"
+    },
+    {
+      "start": 122.6,
+      "end": 126.44,
+      "text": " så Uber er en kæmpe annonsør på meta i dag, men de er blevet meget bedre til det,",
+      "speaker": "A"
+    },
+    {
+      "start": 126.44,
+      "end": 129.24,
+      "text": " fordi de ikke bruger penge på non-incremental ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 129.24,
+      "end": 131.04,
+      "text": " Så det var i realiteten faktisk ikke meta-annoncerne,",
+      "speaker": "A"
+    },
+    {
+      "start": 131.04,
+      "end": 134.08,
+      "text": " det var ikke meta som platform, der var dårligt, de brugte dem bare forkert.",
+      "speaker": "A"
+    },
+    {
+      "start": 134.08,
+      "end": 137.72,
+      "text": " Men de brugte dem forkert, og det fandt de ud af ved at lave en Ground Zero-betrækning.",
+      "speaker": "A"
+    },
+    {
+      "start": 137.76,
+      "end": 140.56,
+      "text": " Så det er sådan en måde at gøre det på, ikke min favorit,",
+      "speaker": "A"
+    },
+    {
+      "start": 140.56,
+      "end": 142.16,
+      "text": " men det er en måde at gøre det på.",
+      "speaker": "A"
+    },
+    {
+      "start": 142.16,
+      "end": 145.8,
+      "text": " Hvordan kan man ellers måle incrementality?",
+      "speaker": "A"
+    },
+    {
+      "start": 145.8,
+      "end": 149.16,
+      "text": " Lad os prøve at hoppe til en, som vi ikke har snakket så forfærdeligt meget om tidligere,",
+      "speaker": "B"
+    },
+    {
+      "start": 149.16,
+      "end": 150.76,
+      "text": " de her Geolift-studier.",
+      "speaker": "B"
+    },
+    {
+      "start": 150.76,
+      "end": 156.28,
+      "text": " Her skal vi ind og lege lidt med, jeg mener med geografi og på sin vis også demografi.",
+      "speaker": "B"
+    },
+    {
+      "start": 156.28,
+      "end": 160.08,
+      "text": " Så forestil jer, at man har et produkt, der er egentlig relativt gængs,",
+      "speaker": "B"
+    },
+    {
+      "start": 160.08,
+      "end": 162.2,
+      "text": " og man opdeler Danmark i to regioner.",
+      "speaker": "B"
+    },
+    {
+      "start": 162.2,
+      "end": 165.56,
+      "text": " Så vi har Vestdanmark, altså Vestforbrugene og Østforbrugene.",
+      "speaker": "B"
+    },
+    {
+      "start": 165.68,
+      "end": 167.68,
+      "text": " Og den ene, lad os bare sige Øst...",
+      "speaker": "B"
+    },
+    {
+      "start": 167.68,
+      "end": 169.68,
+      "text": " Det er Lillebæltsbrugen, vi snakker om, ikke?",
+      "speaker": "A"
+    },
+    {
+      "start": 170.6,
+      "end": 172.6,
+      "text": " Nå, nu er du fra Fyn, altså nu skal jeg lige tænke mig om.",
+      "speaker": "B"
+    },
+    {
+      "start": 174.48,
+      "end": 176.12,
+      "text": " Åh, det kan vi godt sige.",
+      "speaker": "B"
+    },
+    {
+      "start": 176.12,
+      "end": 179.48,
+      "text": " Du tager Vestfra, Vejlefjord og Vestfra.",
+      "speaker": "A"
+    },
+    {
+      "start": 179.48,
+      "end": 181.48,
+      "text": " Vi tager Vestland versus...",
+      "speaker": "B"
+    },
+    {
+      "start": 182.6,
+      "end": 184.6,
+      "text": " Det er selvfølgelig Storebæltsbrugen.",
+      "speaker": "B"
+    },
+    {
+      "start": 184.6,
+      "end": 189.0,
+      "text": " Så lad os sige, at man i Vestdanmark, der kører man for eksempel MetaX aktivt,",
+      "speaker": "B"
+    },
+    {
+      "start": 189.0,
+      "end": 190.48,
+      "text": " og man kører på der.",
+      "speaker": "B"
+    },
+    {
+      "start": 190.48,
+      "end": 192.2,
+      "text": " Og over i Øst, der gør man ikke.",
+      "speaker": "B"
+    },
+    {
+      "start": 192.2,
+      "end": 194.28,
+      "text": " Så kigger man på efter, lad os bare sige fire uger,",
+      "speaker": "B"
+    },
+    {
+      "start": 194.28,
+      "end": 196.28,
+      "text": " altså man har en kontrolgruppe, man har en testgruppe,",
+      "speaker": "B"
+    },
+    {
+      "start": 196.28,
+      "end": 198.28,
+      "text": " og så kigger man efter fire uger, hvordan ser det egentlig ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 198.28,
+      "end": 200.28,
+      "text": " Har vi højere omsætning,",
+      "speaker": "B"
+    },
+    {
+      "start": 200.28,
+      "end": 203.08,
+      "text": " det sted, hvor vi rent faktisk har kørt den her test,",
+      "speaker": "B"
+    },
+    {
+      "start": 203.08,
+      "end": 205.08,
+      "text": " altså hvor vi har kørt de her meta-annoncer,",
+      "speaker": "B"
+    },
+    {
+      "start": 205.08,
+      "end": 207.08,
+      "text": " kan vi se, at vi rent faktisk har kørt annoncering der.",
+      "speaker": "B"
+    }
+  ]
+}

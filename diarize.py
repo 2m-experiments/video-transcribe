@@ -228,6 +228,14 @@ def infer_audio_path(transcript_json: dict, transcript_path: Path) -> Path:
     return matches[0] if len(matches) == 1 else exact
 
 
+def _atomic_write(path: Path, text: str) -> None:
+    """Write `text` to `path` atomically via a temp file + os.replace."""
+    tmp = path.with_name(path.name + ".tmp")
+    with open(tmp, "w", encoding="utf-8") as f:
+        f.write(text)
+    os.replace(tmp, path)
+
+
 def _write_speaker_outputs(data: dict, labeled: list[dict], speakers: list[str],
                            json_out: Path, txt_out: Path, *, language_code: str,
                            name_map: dict[str, str] | None = None) -> None:
@@ -244,20 +252,24 @@ def _write_speaker_outputs(data: dict, labeled: list[dict], speakers: list[str],
     if named:
         diarization["speaker_names"] = name_map
 
-    with open(json_out, "w", encoding="utf-8") as f:
-        json.dump({
-            **{k: v for k, v in data.items() if k not in ("segments", "diarization")},
-            "diarization": diarization,
-            "segments": labeled,
-        }, f, ensure_ascii=False, indent=2)
+    # Write atomically (temp + os.replace) so an interrupted run never leaves a
+    # truncated .speakers.json — a half-written file would otherwise look "done"
+    # to the prefix-skip logic and be silently skipped on the next pass.
+    json_body = json.dumps({
+        **{k: v for k, v in data.items() if k not in ("segments", "diarization")},
+        "diarization": diarization,
+        "segments": labeled,
+    }, ensure_ascii=False, indent=2)
+    _atomic_write(json_out, json_body)
 
-    with open(txt_out, "w", encoding="utf-8") as f:
-        f.write(f"{data.get('title', json_out.stem)} — with speakers\n")
-        f.write(f"[Source: {data.get('url', '')}]\n")
-        f.write(f"[Speakers: {', '.join(speakers)} | text: Whisper, "
-                f"diarization: AssemblyAI]\n\n")
-        f.write(format_speaker_transcript(labeled,
-                                          label_prefix="" if named else "Speaker "))
+    txt_body = (
+        f"{data.get('title', json_out.stem)} — with speakers\n"
+        f"[Source: {data.get('url', '')}]\n"
+        f"[Speakers: {', '.join(speakers)} | text: Whisper, "
+        f"diarization: AssemblyAI]\n\n"
+        + format_speaker_transcript(labeled, label_prefix="" if named else "Speaker ")
+    )
+    _atomic_write(txt_out, txt_body)
 
     for out in (json_out, txt_out):
         try:

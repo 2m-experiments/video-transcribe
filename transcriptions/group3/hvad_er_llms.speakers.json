@@ -1,0 +1,781 @@
+{
+  "title": "Hvad er LLMs.txt, og kan den hjælpe dig med at ranke bedre i ChatGPT?",
+  "url": "https://www.youtube.com/watch?v=4trCk2D-6w0",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 460.3,
+  "transcribed_at": "2026-04-16T09:26:42.420924+00:00",
+  "full_text": "Hej og velkommen til en kort episode af MarketingPod. Vi har et emne i dag, og det er, hvad er en LLM.txt-fil, og bør du have en på dit site? Og for at forklare, hvad en LLM.txt-fil er, spørger vi Tredje Skridt tilbage, og lige start med at sige, hvad er en robots.txt-fil, som er den lidt mere, hvad skal vi kalde det, voksne fætter? Kan vi kalde den det, Signeo? Ja, det er du en onkel fætter. Jeg er jo en fætter, det er da meget godt. Hvad er en robots.txt-fil? Ja, og det er sjovt, at jeg tror, at der er mange, der ikke ved, at de har en på deres website, men det har de fleste. Så en robots.txt-fil, det er sådan en lille tekstfil, der er placeret i rodmappen på websitetet, som ligesom instruerer søgemaskinerne, eller crawler og bots om, hvad for nogle sider eller mapper, de gerne må både besøge og indeksere og ikke må. Så hvis der er et eller andet, du gerne vil have væk fra, altså det skal slet ikke indekseres i Google, den her side her, så vil det være i robots.txt. Det kommer i virkeligheden tilbage til, at vi har den her aftale om det åbne internet. Og det åbne internet, det betyder, at Google og andre søgemaskiner som udgangspunkt, uden at vi giver eksplicit tilladelse, må crawle vores websites mod, at de til gengæld sender os trafik. Det er jo den åbne kontrakt, Google så er begyndt at forbryde sig en lille smule imod, i og med, at de laver AI-åbenvivelse og beholder al trafikken selv. Det er emnet, som vi har talt lidt om. Det er jo den åbne kontrakt, Google så er begyndt at forbryde sig en lille smule imod, i og med, at de laver AI-åbenvivelse og beholder al trafikken selv. Det er emnet til en anden episode. Men det er udgangspunktet, at Google og andre søgemaskiner må crawle dit site med mindre du opter ud. Og robots.txt kan bruges til at opte ud. Tilsvarende, så har vi nu en llms.txt-field, som er en relativt ny ting. Og Tino, det er jo ikke alle virksomheder i hele verden, der understøtter den her, men der er nogle ret store virksomheder, som i hvert fald går ud og siger, at de gør det. Hvad er det for nogle virksomheder, som siger, ja, vi kigger i hvert fald på den her llms.txt-field? Ja, det er jo sådan lidt et omdiskuteret emne, det her. Og det kan faktisk være lidt svært lige at finde hovedet og hale i, men vi ved i hvert fald, at Anthropic og Perplexity, som de to store, har været ude og endorse it, altså at sige det her, det her forslåede standardmåde at forklare, og det vi skal nok komme ind på, hvad llms.txt er, at den godkender de. Så er der sådan lidt diskussion om Google, om hvorvidt de gør eller ej. Men faktum er, at det er ligesom den her forslåede standardmåde. Ja, og årsagen til, at vi bringer det op i et emne, det er, at vi er begyndt at implementere det på nogle af vores kunder. Og her der har jeg et screenshot fra en af vores kunder, om hvad der skete, da vi implementerede llms.txt på deres site. Det her er et screenshot fra slutningen af 2025, og det man kan se, hvis du ikke ser med på Spotify med video eller YouTube, det er en udvikling over deres trafik fra Large Language Models. Altså det her, hvor meget trafik kommer der fra ChatGPT og Perplexity og Gemini osv. De implementerer llms.txt-filen, og ser øjeblikkeligt en næsten 3-dobling af den trafik. Altså det er fra dag til dag, efter de har implementeret den her fil, der kommer fra llm'erne. Så vi går fra at få måske 50 klik om dagen til, lad os få 100-150 klik om dagen. Og det er øjeblikkeligt, det rent faktisk sker. Og jeg synes det her, det var så interessant, at jeg er begyndt at implementere den på mange andre sites også. Også fordi det meste af trafikken i den her specifikke case på den her kunde kommer faktisk fra ChatGPT, på trods af at OpenAI ikke har meldt ud, at de understøtter det her. De har heller ikke sagt, at de ikke gør. De har bare ikke rigtig forholdt sig til det, kan man sige. Og det som llms.txt-filen er, man kan også se mere på llms.txt.org, det er den her lille tekstfile. Og jeg har faktisk et eksempel her. Hvis man går ind på obsidianagency.com-llms.txt, så kan man se vores llms.txt-file. Og det her, det er en lille bitte tekstfile. Ligesom robots.txt, der ligger på roden af serveren, og i virkeligheden hjælper llm'erne til at forstå, hvad er det her for et site. I det her konkrete tilfælde, der har vi lavet en llms.txt-file, hvor der står, hvad er Obsidian Digital, hvor har vi kontor henne, hvad er vores core agency services, vi laver noget med tracking, vi laver noget med Google Ads, med Meta Ads. Der er nogle links til noget industriekspertise, nogle platform og teknologier, og et link til vores kontaktinformationer. Så det er sådan en tusind år lang tekst i markdown-format, der forklarer llm'erne, hvad er Obsidian og hvorfor skal de linke til os, og hvornår er vi relevante for en given søgning. Den her konkrete llms.txt-file, den har jeg faktisk lavet ved at lægge Obsidian ind i Perplexity og se research alt muligt om Obsidian, kopiere hele resultatet ind i Gemini og be den om at lave en llms.txt-file om obsidianagency.com. Så har jeg taget den, lagt den ind i en tekstfil og uploadet den direkte i Webflow, fordi der er et felt, hvor du kan uploade din llms.txt-file. Så det var enormt nemt rent faktisk at gøre det her. Og det her er et meget simpelt eksempel i praksis på, hvordan sådan en her kan se ud. Og Tinju, er dit indtryk, at det her er noget, som rent faktisk bliver implementeret lige nu sådan bredt? Det er sjældent, at vi ser det, men det er noget, der kommer mere og mere snak om, og jeg oplever også, at der bliver stillet spørgsmål til det ofte og ofte. Og jeg tror, dels er det selvfølgelig, at der begynder at komme nogle gode cases ud med, hvad der sker, som højst sandsynligt er sket på grund af, at man implementerer den her standard, som du også lige har vist. Men jeg tror også, at der er hele den her rumstering omkring, hvem anerkender den og hvem anerkender den. Og mens du lige viste frem her, så sad jeg lige og ville have de konkrete facts på, og man kan sige, Google, der er jo de to store, der er Google med Gemini, og så er der OpenAI med ChatGPT. Og Google har faktisk officielt meldt ud, at de ikke bruger LLM S.txt til at rangere hjemmesider, men filen er begyndt at dukke op i nogle af deres dokumentationssider, så man begynder at spekulere i, om hvorvidt det rent faktisk er noget. Så det er sådan, at vi bruger den ikke, vi kigger ikke på den, men hvis du udfylder den, så er det her, hvordan du gør det rigtigt. Lige præcis. Og OpenAI, der er der så observeret aktivitet i nogle serverlogs, der viser, at OpenAI's robotter, altså GPT-bot, rent faktisk har tjekket efter, decideret LLM.txt på visse hjemmesider, så det indikerer jo på en eller anden måde, at de vil ikke helt ud at sige, at de bruger den, men de bruger den måske nok alligevel. Og det er bare nok til mig, i og med, at det jo kræver det store at få lavet det. Altså det er klart, at man skal lige tænke sig om, når man laver den, men som du også selv sagde, man kan altså få hjælp af LLM'erne selv til at lave den her. Så endelig få den lavet for pokker, jeg kan ikke sige, det kan skade. Nej, det er nemme det, fordi her er der tale om en opgave, som tager dig måske 10 minutter at løse. Du kan vitterligt få en large language model til at gå ind og implementere, eller udarbejde en LLM.txt-fil, så gemmer du den på dit skrivebord, LLM.txt. Txt, det er jo bare et filformat tekst, som både er understøttet af Mac og Windows. Og så skal du finde en måde, hvor på du kan uploade den til roden af din server. Og hvis det er WordPress, Shopify, Webflow eller et eller andet af den stil, så er der sikkert en knap eller plugin, der lige kan hjælpe dig med at gøre det. Hvis ikke, så er der sikkert en IT-afdeling. Du kan jo vitterligt bare åbne en FTP-adgang op, og så bare lægge den i roden af serveren, fuldstændig ligesom du gør med robots.txt. Hvis du ikke ved, hvad det betyder, er der helt sikkert en person i virksomheden, der ved det. Og hvis du har den her adgang, så er det en to-minutters opgave. Rent faktisk at få lagt den her fil op, og den skader ikke. Så jeg synes også, det er et godt eksempel på noget, hvor vi ved, det her skader ikke, og der er allerede large language models som Claude og Perplexity, som er ude og sige, ja, vi bruger den her. Og især Perplexity vil jeg super gerne have refereret til os, hvis der er nogen, der går ind og stiller spørgsmål til, hvem skal jeg have hjælp til med digital marketing i Danmark? Så er det fedt, hvis man kan pege på os i den forbindelse. Der er ingen grund til, at jeg ikke kan gøre det. Tag vitterligt fem minutter, og du har unlimited opside formats, så kan du få mere trafik. Og vi har eksempler på, at vi har gjort det for vores kunder, og de øjeblikkeligt er begyndt at få mere trafik efterfølgende. Støv virkeligheden, dagens anbefaling. Udarbejde den llm.txt-fil, upload den, og så kan du virkeligheden tage fra arbejde i dag med god samvittighed, fordi nu har du i hvert fald gjort noget rigtigt. Tusind tak, fordi du lydede med til dagens episode på Genhør på mandag.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": " Hej og velkommen til en kort episode af MarketingPod.",
+      "speaker": "?"
+    },
+    {
+      "start": 3.0,
+      "end": 9.0,
+      "text": " Vi har et emne i dag, og det er, hvad er en LLM.txt-fil, og bør du have en på dit site?",
+      "speaker": "A"
+    },
+    {
+      "start": 9.0,
+      "end": 14.0,
+      "text": " Og for at forklare, hvad en LLM.txt-fil er, spørger vi Tredje Skridt tilbage, og lige start med at sige,",
+      "speaker": "A"
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": " hvad er en robots.txt-fil, som er den lidt mere, hvad skal vi kalde det, voksne fætter?",
+      "speaker": "A"
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "text": " Kan vi kalde den det, Signeo?",
+      "speaker": "A"
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": " Ja, det er du en onkel fætter. Jeg er jo en fætter, det er da meget godt.",
+      "speaker": "A"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": " Hvad er en robots.txt-fil?",
+      "speaker": "B"
+    },
+    {
+      "start": 26.0,
+      "end": 30.0,
+      "text": " Ja, og det er sjovt, at jeg tror, at der er mange, der ikke ved, at de har en på deres website,",
+      "speaker": "A"
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "text": " men det har de fleste.",
+      "speaker": "A"
+    },
+    {
+      "start": 31.0,
+      "end": 36.0,
+      "text": " Så en robots.txt-fil, det er sådan en lille tekstfil, der er placeret i rodmappen på websitetet,",
+      "speaker": "B"
+    },
+    {
+      "start": 36.0,
+      "end": 41.0,
+      "text": " som ligesom instruerer søgemaskinerne, eller crawler og bots om,",
+      "speaker": "B"
+    },
+    {
+      "start": 41.0,
+      "end": 46.0,
+      "text": " hvad for nogle sider eller mapper, de gerne må både besøge og indeksere og ikke må.",
+      "speaker": "B"
+    },
+    {
+      "start": 46.0,
+      "end": 50.0,
+      "text": " Så hvis der er et eller andet, du gerne vil have væk fra, altså det skal slet ikke indekseres i Google,",
+      "speaker": "B"
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": " den her side her, så vil det være i robots.txt.",
+      "speaker": "B"
+    },
+    {
+      "start": 53.0,
+      "end": 57.0,
+      "text": " Det kommer i virkeligheden tilbage til, at vi har den her aftale om det åbne internet.",
+      "speaker": "B"
+    },
+    {
+      "start": 57.0,
+      "end": 62.0,
+      "text": " Og det åbne internet, det betyder, at Google og andre søgemaskiner som udgangspunkt,",
+      "speaker": "B"
+    },
+    {
+      "start": 62.0,
+      "end": 66.0,
+      "text": " uden at vi giver eksplicit tilladelse, må crawle vores websites mod,",
+      "speaker": "A"
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "text": " at de til gengæld sender os trafik.",
+      "speaker": "A"
+    },
+    {
+      "start": 68.0,
+      "end": 71.0,
+      "text": " Det er jo den åbne kontrakt, Google så er begyndt at forbryde sig en lille smule imod,",
+      "speaker": "A"
+    },
+    {
+      "start": 71.0,
+      "end": 74.0,
+      "text": " i og med, at de laver AI-åbenvivelse og beholder al trafikken selv.",
+      "speaker": "A"
+    },
+    {
+      "start": 74.0,
+      "end": 76.0,
+      "text": " Det er emnet, som vi har talt lidt om.",
+      "speaker": "A"
+    },
+    {
+      "start": 76.0,
+      "end": 78.0,
+      "text": " Det er jo den åbne kontrakt, Google så er begyndt at forbryde sig en lille smule imod,",
+      "speaker": "A"
+    },
+    {
+      "start": 78.0,
+      "end": 81.0,
+      "text": " i og med, at de laver AI-åbenvivelse og beholder al trafikken selv.",
+      "speaker": "A"
+    },
+    {
+      "start": 81.0,
+      "end": 83.0,
+      "text": " Det er emnet til en anden episode.",
+      "speaker": "A"
+    },
+    {
+      "start": 83.0,
+      "end": 87.0,
+      "text": " Men det er udgangspunktet, at Google og andre søgemaskiner må crawle dit site med mindre du opter ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 87.0,
+      "end": 90.0,
+      "text": " Og robots.txt kan bruges til at opte ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 90.0,
+      "end": 96.0,
+      "text": " Tilsvarende, så har vi nu en llms.txt-field, som er en relativt ny ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 96.0,
+      "end": 100.0,
+      "text": " Og Tino, det er jo ikke alle virksomheder i hele verden, der understøtter den her,",
+      "speaker": "A"
+    },
+    {
+      "start": 100.0,
+      "end": 104.0,
+      "text": " men der er nogle ret store virksomheder, som i hvert fald går ud og siger, at de gør det.",
+      "speaker": "A"
+    },
+    {
+      "start": 104.0,
+      "end": 109.0,
+      "text": " Hvad er det for nogle virksomheder, som siger, ja, vi kigger i hvert fald på den her llms.txt-field?",
+      "speaker": "A"
+    },
+    {
+      "start": 109.0,
+      "end": 112.0,
+      "text": " Ja, det er jo sådan lidt et omdiskuteret emne, det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 112.0,
+      "end": 114.0,
+      "text": " Og det kan faktisk være lidt svært lige at finde hovedet og hale i,",
+      "speaker": "B"
+    },
+    {
+      "start": 114.0,
+      "end": 119.0,
+      "text": " men vi ved i hvert fald, at Anthropic og Perplexity, som de to store, har været ude og endorse it,",
+      "speaker": "B"
+    },
+    {
+      "start": 119.0,
+      "end": 123.0,
+      "text": " altså at sige det her, det her forslåede standardmåde at forklare,",
+      "speaker": "B"
+    },
+    {
+      "start": 123.0,
+      "end": 128.0,
+      "text": " og det vi skal nok komme ind på, hvad llms.txt er, at den godkender de.",
+      "speaker": "B"
+    },
+    {
+      "start": 128.0,
+      "end": 131.0,
+      "text": " Så er der sådan lidt diskussion om Google, om hvorvidt de gør eller ej.",
+      "speaker": "B"
+    },
+    {
+      "start": 131.0,
+      "end": 134.0,
+      "text": " Men faktum er, at det er ligesom den her forslåede standardmåde.",
+      "speaker": "B"
+    },
+    {
+      "start": 134.0,
+      "end": 140.0,
+      "text": " Ja, og årsagen til, at vi bringer det op i et emne, det er, at vi er begyndt at implementere det på nogle af vores kunder.",
+      "speaker": "A"
+    },
+    {
+      "start": 140.0,
+      "end": 142.0,
+      "text": " Og her der har jeg et screenshot fra en af vores kunder,",
+      "speaker": "A"
+    },
+    {
+      "start": 142.0,
+      "end": 146.0,
+      "text": " om hvad der skete, da vi implementerede llms.txt på deres site.",
+      "speaker": "A"
+    },
+    {
+      "start": 146.0,
+      "end": 148.0,
+      "text": " Det her er et screenshot fra slutningen af 2025,",
+      "speaker": "A"
+    },
+    {
+      "start": 148.0,
+      "end": 152.0,
+      "text": " og det man kan se, hvis du ikke ser med på Spotify med video eller YouTube,",
+      "speaker": "A"
+    },
+    {
+      "start": 152.0,
+      "end": 156.0,
+      "text": " det er en udvikling over deres trafik fra Large Language Models.",
+      "speaker": "A"
+    },
+    {
+      "start": 156.0,
+      "end": 161.0,
+      "text": " Altså det her, hvor meget trafik kommer der fra ChatGPT og Perplexity og Gemini osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 161.0,
+      "end": 167.0,
+      "text": " De implementerer llms.txt-filen, og ser øjeblikkeligt en næsten 3-dobling af den trafik.",
+      "speaker": "A"
+    },
+    {
+      "start": 167.0,
+      "end": 172.0,
+      "text": " Altså det er fra dag til dag, efter de har implementeret den her fil, der kommer fra llm'erne.",
+      "speaker": "A"
+    },
+    {
+      "start": 172.0,
+      "end": 176.0,
+      "text": " Så vi går fra at få måske 50 klik om dagen til, lad os få 100-150 klik om dagen.",
+      "speaker": "A"
+    },
+    {
+      "start": 176.0,
+      "end": 178.0,
+      "text": " Og det er øjeblikkeligt, det rent faktisk sker.",
+      "speaker": "A"
+    },
+    {
+      "start": 178.0,
+      "end": 183.0,
+      "text": " Og jeg synes det her, det var så interessant, at jeg er begyndt at implementere den på mange andre sites også.",
+      "speaker": "A"
+    },
+    {
+      "start": 183.0,
+      "end": 187.0,
+      "text": " Også fordi det meste af trafikken i den her specifikke case på den her kunde kommer faktisk fra ChatGPT,",
+      "speaker": "A"
+    },
+    {
+      "start": 187.0,
+      "end": 190.0,
+      "text": " på trods af at OpenAI ikke har meldt ud, at de understøtter det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 190.0,
+      "end": 193.0,
+      "text": " De har heller ikke sagt, at de ikke gør. De har bare ikke rigtig forholdt sig til det, kan man sige.",
+      "speaker": "A"
+    },
+    {
+      "start": 193.0,
+      "end": 199.0,
+      "text": " Og det som llms.txt-filen er, man kan også se mere på llms.txt.org,",
+      "speaker": "A"
+    },
+    {
+      "start": 199.0,
+      "end": 201.0,
+      "text": " det er den her lille tekstfile.",
+      "speaker": "A"
+    },
+    {
+      "start": 201.0,
+      "end": 203.0,
+      "text": " Og jeg har faktisk et eksempel her.",
+      "speaker": "A"
+    },
+    {
+      "start": 203.0,
+      "end": 209.0,
+      "text": " Hvis man går ind på obsidianagency.com-llms.txt,",
+      "speaker": "A"
+    },
+    {
+      "start": 209.0,
+      "end": 212.0,
+      "text": " så kan man se vores llms.txt-file.",
+      "speaker": "A"
+    },
+    {
+      "start": 212.0,
+      "end": 215.0,
+      "text": " Og det her, det er en lille bitte tekstfile.",
+      "speaker": "A"
+    },
+    {
+      "start": 215.0,
+      "end": 218.0,
+      "text": " Ligesom robots.txt, der ligger på roden af serveren,",
+      "speaker": "A"
+    },
+    {
+      "start": 218.0,
+      "end": 223.0,
+      "text": " og i virkeligheden hjælper llm'erne til at forstå, hvad er det her for et site.",
+      "speaker": "A"
+    },
+    {
+      "start": 223.0,
+      "end": 226.0,
+      "text": " I det her konkrete tilfælde, der har vi lavet en llms.txt-file,",
+      "speaker": "A"
+    },
+    {
+      "start": 226.0,
+      "end": 229.0,
+      "text": " hvor der står, hvad er Obsidian Digital, hvor har vi kontor henne,",
+      "speaker": "A"
+    },
+    {
+      "start": 229.0,
+      "end": 232.0,
+      "text": " hvad er vores core agency services, vi laver noget med tracking,",
+      "speaker": "A"
+    },
+    {
+      "start": 232.0,
+      "end": 234.0,
+      "text": " vi laver noget med Google Ads, med Meta Ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 234.0,
+      "end": 238.0,
+      "text": " Der er nogle links til noget industriekspertise, nogle platform og teknologier,",
+      "speaker": "A"
+    },
+    {
+      "start": 238.0,
+      "end": 240.0,
+      "text": " og et link til vores kontaktinformationer.",
+      "speaker": "A"
+    },
+    {
+      "start": 240.0,
+      "end": 246.0,
+      "text": " Så det er sådan en tusind år lang tekst i markdown-format, der forklarer llm'erne,",
+      "speaker": "A"
+    },
+    {
+      "start": 246.0,
+      "end": 251.0,
+      "text": " hvad er Obsidian og hvorfor skal de linke til os, og hvornår er vi relevante for en given søgning.",
+      "speaker": "A"
+    },
+    {
+      "start": 251.0,
+      "end": 258.0,
+      "text": " Den her konkrete llms.txt-file, den har jeg faktisk lavet ved at lægge Obsidian ind i Perplexity",
+      "speaker": "A"
+    },
+    {
+      "start": 258.0,
+      "end": 262.0,
+      "text": " og se research alt muligt om Obsidian, kopiere hele resultatet ind i Gemini",
+      "speaker": "A"
+    },
+    {
+      "start": 262.0,
+      "end": 266.0,
+      "text": " og be den om at lave en llms.txt-file om obsidianagency.com.",
+      "speaker": "A"
+    },
+    {
+      "start": 266.0,
+      "end": 270.0,
+      "text": " Så har jeg taget den, lagt den ind i en tekstfil og uploadet den direkte i Webflow,",
+      "speaker": "A"
+    },
+    {
+      "start": 270.0,
+      "end": 272.0,
+      "text": " fordi der er et felt, hvor du kan uploade din llms.txt-file.",
+      "speaker": "A"
+    },
+    {
+      "start": 272.0,
+      "end": 275.0,
+      "text": " Så det var enormt nemt rent faktisk at gøre det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 275.0,
+      "end": 281.0,
+      "text": " Og det her er et meget simpelt eksempel i praksis på, hvordan sådan en her kan se ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 281.0,
+      "end": 288.0,
+      "text": " Og Tinju, er dit indtryk, at det her er noget, som rent faktisk bliver implementeret lige nu sådan bredt?",
+      "speaker": "A"
+    },
+    {
+      "start": 288.0,
+      "end": 293.0,
+      "text": " Det er sjældent, at vi ser det, men det er noget, der kommer mere og mere snak om,",
+      "speaker": "B"
+    },
+    {
+      "start": 293.0,
+      "end": 297.0,
+      "text": " og jeg oplever også, at der bliver stillet spørgsmål til det ofte og ofte.",
+      "speaker": "B"
+    },
+    {
+      "start": 297.0,
+      "end": 302.0,
+      "text": " Og jeg tror, dels er det selvfølgelig, at der begynder at komme nogle gode cases ud med,",
+      "speaker": "B"
+    },
+    {
+      "start": 302.0,
+      "end": 308.0,
+      "text": " hvad der sker, som højst sandsynligt er sket på grund af, at man implementerer den her standard,",
+      "speaker": "B"
+    },
+    {
+      "start": 308.0,
+      "end": 309.0,
+      "text": " som du også lige har vist.",
+      "speaker": "B"
+    },
+    {
+      "start": 309.0,
+      "end": 313.0,
+      "text": " Men jeg tror også, at der er hele den her rumstering omkring, hvem anerkender den og hvem anerkender den.",
+      "speaker": "B"
+    },
+    {
+      "start": 313.0,
+      "end": 317.0,
+      "text": " Og mens du lige viste frem her, så sad jeg lige og ville have de konkrete facts på,",
+      "speaker": "B"
+    },
+    {
+      "start": 317.0,
+      "end": 321.0,
+      "text": " og man kan sige, Google, der er jo de to store, der er Google med Gemini,",
+      "speaker": "B"
+    },
+    {
+      "start": 321.0,
+      "end": 323.0,
+      "text": " og så er der OpenAI med ChatGPT.",
+      "speaker": "B"
+    },
+    {
+      "start": 323.0,
+      "end": 329.0,
+      "text": " Og Google har faktisk officielt meldt ud, at de ikke bruger LLM S.txt til at rangere hjemmesider,",
+      "speaker": "B"
+    },
+    {
+      "start": 329.0,
+      "end": 333.0,
+      "text": " men filen er begyndt at dukke op i nogle af deres dokumentationssider,",
+      "speaker": "B"
+    },
+    {
+      "start": 333.0,
+      "end": 336.0,
+      "text": " så man begynder at spekulere i, om hvorvidt det rent faktisk er noget.",
+      "speaker": "B"
+    },
+    {
+      "start": 336.0,
+      "end": 339.0,
+      "text": " Så det er sådan, at vi bruger den ikke, vi kigger ikke på den,",
+      "speaker": "B"
+    },
+    {
+      "start": 339.0,
+      "end": 341.0,
+      "text": " men hvis du udfylder den, så er det her, hvordan du gør det rigtigt.",
+      "speaker": "A"
+    },
+    {
+      "start": 341.0,
+      "end": 342.0,
+      "text": " Lige præcis.",
+      "speaker": "B"
+    },
+    {
+      "start": 342.0,
+      "end": 347.0,
+      "text": " Og OpenAI, der er der så observeret aktivitet i nogle serverlogs,",
+      "speaker": "B"
+    },
+    {
+      "start": 347.0,
+      "end": 351.0,
+      "text": " der viser, at OpenAI's robotter, altså GPT-bot, rent faktisk har tjekket efter,",
+      "speaker": "B"
+    },
+    {
+      "start": 351.0,
+      "end": 356.0,
+      "text": " decideret LLM.txt på visse hjemmesider, så det indikerer jo på en eller anden måde,",
+      "speaker": "B"
+    },
+    {
+      "start": 356.0,
+      "end": 360.0,
+      "text": " at de vil ikke helt ud at sige, at de bruger den, men de bruger den måske nok alligevel.",
+      "speaker": "B"
+    },
+    {
+      "start": 360.0,
+      "end": 364.0,
+      "text": " Og det er bare nok til mig, i og med, at det jo kræver det store at få lavet det.",
+      "speaker": "B"
+    },
+    {
+      "start": 364.0,
+      "end": 366.0,
+      "text": " Altså det er klart, at man skal lige tænke sig om, når man laver den,",
+      "speaker": "B"
+    },
+    {
+      "start": 366.0,
+      "end": 370.0,
+      "text": " men som du også selv sagde, man kan altså få hjælp af LLM'erne selv til at lave den her.",
+      "speaker": "B"
+    },
+    {
+      "start": 370.0,
+      "end": 374.0,
+      "text": " Så endelig få den lavet for pokker, jeg kan ikke sige, det kan skade.",
+      "speaker": "B"
+    },
+    {
+      "start": 374.0,
+      "end": 378.0,
+      "text": " Nej, det er nemme det, fordi her er der tale om en opgave, som tager dig måske 10 minutter at løse.",
+      "speaker": "A"
+    },
+    {
+      "start": 378.0,
+      "end": 381.0,
+      "text": " Du kan vitterligt få en large language model til at gå ind og implementere,",
+      "speaker": "A"
+    },
+    {
+      "start": 381.0,
+      "end": 387.0,
+      "text": " eller udarbejde en LLM.txt-fil, så gemmer du den på dit skrivebord, LLM.txt.",
+      "speaker": "A"
+    },
+    {
+      "start": 387.0,
+      "end": 390.0,
+      "text": " Txt, det er jo bare et filformat tekst, som både er understøttet af Mac og Windows.",
+      "speaker": "A"
+    },
+    {
+      "start": 390.0,
+      "end": 393.0,
+      "text": " Og så skal du finde en måde, hvor på du kan uploade den til roden af din server.",
+      "speaker": "A"
+    },
+    {
+      "start": 393.0,
+      "end": 396.0,
+      "text": " Og hvis det er WordPress, Shopify, Webflow eller et eller andet af den stil,",
+      "speaker": "A"
+    },
+    {
+      "start": 396.0,
+      "end": 398.0,
+      "text": " så er der sikkert en knap eller plugin, der lige kan hjælpe dig med at gøre det.",
+      "speaker": "A"
+    },
+    {
+      "start": 398.0,
+      "end": 400.0,
+      "text": " Hvis ikke, så er der sikkert en IT-afdeling.",
+      "speaker": "A"
+    },
+    {
+      "start": 400.0,
+      "end": 405.0,
+      "text": " Du kan jo vitterligt bare åbne en FTP-adgang op, og så bare lægge den i roden af serveren,",
+      "speaker": "A"
+    },
+    {
+      "start": 405.0,
+      "end": 407.0,
+      "text": " fuldstændig ligesom du gør med robots.txt.",
+      "speaker": "A"
+    },
+    {
+      "start": 407.0,
+      "end": 410.0,
+      "text": " Hvis du ikke ved, hvad det betyder, er der helt sikkert en person i virksomheden, der ved det.",
+      "speaker": "A"
+    },
+    {
+      "start": 410.0,
+      "end": 413.0,
+      "text": " Og hvis du har den her adgang, så er det en to-minutters opgave.",
+      "speaker": "A"
+    },
+    {
+      "start": 413.0,
+      "end": 416.0,
+      "text": " Rent faktisk at få lagt den her fil op, og den skader ikke.",
+      "speaker": "A"
+    },
+    {
+      "start": 416.0,
+      "end": 421.0,
+      "text": " Så jeg synes også, det er et godt eksempel på noget, hvor vi ved, det her skader ikke,",
+      "speaker": "A"
+    },
+    {
+      "start": 421.0,
+      "end": 425.0,
+      "text": " og der er allerede large language models som Claude og Perplexity,",
+      "speaker": "A"
+    },
+    {
+      "start": 425.0,
+      "end": 427.0,
+      "text": " som er ude og sige, ja, vi bruger den her.",
+      "speaker": "A"
+    },
+    {
+      "start": 427.0,
+      "end": 430.0,
+      "text": " Og især Perplexity vil jeg super gerne have refereret til os,",
+      "speaker": "A"
+    },
+    {
+      "start": 430.0,
+      "end": 434.0,
+      "text": " hvis der er nogen, der går ind og stiller spørgsmål til, hvem skal jeg have hjælp til med digital marketing i Danmark?",
+      "speaker": "A"
+    },
+    {
+      "start": 434.0,
+      "end": 436.0,
+      "text": " Så er det fedt, hvis man kan pege på os i den forbindelse.",
+      "speaker": "A"
+    },
+    {
+      "start": 436.0,
+      "end": 438.0,
+      "text": " Der er ingen grund til, at jeg ikke kan gøre det.",
+      "speaker": "A"
+    },
+    {
+      "start": 438.0,
+      "end": 441.0,
+      "text": " Tag vitterligt fem minutter, og du har unlimited opside formats, så kan du få mere trafik.",
+      "speaker": "A"
+    },
+    {
+      "start": 441.0,
+      "end": 444.0,
+      "text": " Og vi har eksempler på, at vi har gjort det for vores kunder,",
+      "speaker": "A"
+    },
+    {
+      "start": 444.0,
+      "end": 448.0,
+      "text": " og de øjeblikkeligt er begyndt at få mere trafik efterfølgende.",
+      "speaker": "A"
+    },
+    {
+      "start": 448.0,
+      "end": 450.0,
+      "text": " Støv virkeligheden, dagens anbefaling.",
+      "speaker": "A"
+    },
+    {
+      "start": 450.0,
+      "end": 452.0,
+      "text": " Udarbejde den llm.txt-fil, upload den,",
+      "speaker": "A"
+    },
+    {
+      "start": 452.0,
+      "end": 455.0,
+      "text": " og så kan du virkeligheden tage fra arbejde i dag med god samvittighed,",
+      "speaker": "A"
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": " fordi nu har du i hvert fald gjort noget rigtigt.",
+      "speaker": "A"
+    },
+    {
+      "start": 457.0,
+      "end": 460.0,
+      "text": " Tusind tak, fordi du lydede med til dagens episode på Genhør på mandag.",
+      "speaker": "A"
+    }
+  ]
+}

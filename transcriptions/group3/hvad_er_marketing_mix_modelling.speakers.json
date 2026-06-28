@@ -1,0 +1,2041 @@
+{
+  "title": "Hvad er Marketing Mix Modelling?",
+  "url": "https://www.youtube.com/watch?v=jRWhVodX1gs",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 1043.6,
+  "transcribed_at": "2026-04-16T12:43:12.025854+00:00",
+  "full_text": "Christian, kan du huske nogle gange, at jeg endte et episode med at stille dig et ret svært spørgsmål fra starten af på at drille dig lidt? Kan du forklare mig, hvad er statistisk analyse, som indebærer regressionsmodeller? Altså nu dumpede jeg jo kvantitativ metode på uni og måtte op til en regeksamen, hvor jeg så kom igennem. Det er du ude i, det er Marketing Mixed Modelling, og det ved jeg da kun fordi, at du her for cirka to minutter siden sagde til mig, vi tager sgu en episode omkring det. Ja, selv tak, for jeg synes det her er et sindssygt spændende emne. Den her episode kommer til at handle om, hvad er Marketing Mixed Modelling, hvornår skal du bruge det og hvordan laver man det rent faktisk. Og det er en fortælling, som starter i 2011 af alle steder. Og det er fordi i 2011, der er jeg i Dublin inviteret over til Mesa sammen med nogle dygtige kollegaer, hvor vi er med til et oplæg, hvor Mesa snakker hele tiden om Marketing Mixed Modelling som den ultimative måde at løse tracking på i fremtiden, hvor vi ikke kan måle noget. Og jeg tænker, hvad fanden er Marketing Mixed Modelling? Det ved jeg ikke, men jeg kan konstatere, at DK-domænet er ledigt. Så mit første touchpoint med Marketing Mixed Modelling, det er, at jeg køber domænet marketingmixedmodelling.dk den 21. november 2022. Og så sker der faktisk ikke noget de næste tre år, fordi så har vi lige travlt med nogle andre ting. Og så begynder vi at læse mere op på det. Jeg har en kollega, der begynder at interessere sig ret meget for det, begynder at lære rent faktisk at sætte det op og kan konstatere, at Mesa snakker stadig om det. Og nu har vi for nylig lavet første studie for en af vores kunder, og jeg synes, at det er sindssygt interessant. Og jeg kan se, at det her er noget, vi kommer til at lave meget mere af i fremtiden. Det vil vi selvfølgelig have lyst til at lave en episode om. Og lad os starte med at tage problemstillingen. Hvorfor er Marketing Mixed Modelling relevant? Fordi det er blevet sværere at tracke på internettet. Og kan du huske dengang, du startede digital marketing? Vi startede begge to i 10-11 stykker. Man smed jo bare et script ind, og så målte du det hele. Ja, det var så fedt. Og det var dengang, hvor Google Analytics fortalte, hvad er det for nogle søger, man får besøgende indfra fra de organiske søger. Det var så lækkert. Der var ikke noget nutsat. Der var ikke nogen cookies. Der var ikke noget pjat. Man fik bare at vide lige præcis, hvad har folk søgt på, hvad er det, de har klikket på, og her er jo et deres CPR-nummer. Det var Google Analytics i 2011. Det virkede skide godt. Men siden da har vi jo fået en masse tekniske og juridiske udfordringer i forhold til at måle, og det er juridiske udfordringer. Det er GDPR, kokelovkivning og EU-direktiver. Og tekniske udfordringer, det er sådan noget som ITP, Intelligent Tracking Prevention fra Apple, Adblockers og andre ting. Det har vi lavet episode om tidligere, fordi du kan i stort træk løse alle de tekniske problemer. Rigtig meget starter med at implementere server-side tracking, mens de juridiske problemer ikke kan løses. Men hvad fanden gør du så, hvis dit salg ligger i en butik, eller du annoncerer rigtig meget på tv, eller du bruger helt vildt mange penge på programmatic eller podcast-annoncering, eller anden upper funnel, hvor det ikke er klik og køb. Så det vil sige, at når du er ude i en case, hvor enten konverteringen er afkoblet fra klikket, så du for eksempel laver Facebook-ads, men folk køber en fysisk butik, eller din visning er afkoblet fra konverteringen, fordi du for eksempel laver tv-annoncering, hvor folk ikke kan trykke, så de skal gå direkte ind på siden og købe. Hvordan vil du tilskrive den værdi? Her, og til nogle andre cases, er Marketing Mix Modeling super interessant. Det handler om, at man tager et kæmpestort dataset af forskellige ting, forbereder, renser det, og kører statistiske modeller for at finde linjer af sammenhæng mellem, at du bruger flere penge på en kanal, og at der kommer et given output. Og det kan vi selvfølgelig forklare en del bedre end det, og det er det, den her episode rent faktisk handler om. Så Marketing Mix Modeling, det er først og fremmest en statistisk analyse, og det er faktisk ikke en ny ting som sådan. I gamle dage ville vi bare kalde det salgsmodellering. Havde du det på, var du på HTX eller STX? Nej, HHX. HHX, ja, havde man ikke sådan noget salgsmodellering i afsætning der, eller et eller andet? Jo, det skal sgu nok passe. Jo, det er nok meget rigtigt, jo. Salgsmodellering i gamle dage, hvor du siger, hvis jeg nu køber en avis-annonce og bruger 100.000 kroner på det, og så måler jeg at stige af salget de næste tre uger, og hvis ikke det gør det, så virker den sgu nok ikke. Det er jo sådan en gammeldags salgsmodellering. Du lavede et eller andet, og så så du, om der rent faktisk skete noget. Udfordringen med at lave så simpel salgsmodellering som det der, det er, at hvis du nu annoncerer i slutningen af november, og så måler effekten i starten af december, så skal du nok komme til at se en effekt af det, fordi, hey, det er starten af december, det er julesalg, alle køber mere lige nu. Så det gør, at du ikke bare kan tage én ting og lægge ind i en model, og så konstatere, at det var årsagen til, at der skete et eller andet. Så er der godt nok korrelation, men der er ikke nødvendigvis kausalitet mellem de to. Så marketing mixed modeling, det handler om, at man tager en masse data ind, og så forsøger ikke alene at finde korrelation, men også kausalitet mellem tingene via de her statistiske regressionsanalyser. Så den data, man tager ind, det er for eksempel al en spændt og klik og kommentering, eller ikke kommentering, og bare spændt og klik faktisk fra Metas, spændt og klik fra Google Ads. Man tager alle de penge, man har brugt på tv-analysering, uge for uge, eller dag for dag, eller et eller andet. Alle de penge, man har brugt på radio, alle de penge, man har brugt på podcast, så lægger man det ind i en model. Så tager man alle ens konverteringer. Hvor mange konverteringer, eller hvor mange nye kunder, eller hvor meget omsætning, hvad du nu laver dit studie på, har jeg fået uge for uge de sidste minimum tre år, hvis man følger Google og Metas anbefalinger. En anden ting, man gør, det er, at man skal forsøge at tage højde for seasonality, eller ekstraordinære aktiviteter. Hvad betyder det? En gang til? Hvad er seasonality? En anden ting, man skal gøre, det er at tage højde for seasonality og ekstraordinære effekter, som f.eks. Black Friday. Hvad betyder det? Det betyder, som du faktisk selv lige kommer med et eksempel på, at man kigger ind i, at inden for sengebranchen, der er januar kæmpestor, så der skal man jo forvente, at der er rigtig godt salt. Så det tager man højde for her, og forsøger ligesom at flade det ud, så den effekt ikke går ind og mudrer dataen til. Så man kan simpelthen i modellen lave en variable, der hedder, at det er januar. Og hvis det er januar, så siger du bare, at nu er det januar, og alle andre måneder, så er det ikke januar. Og så er den faktisk inden at forklare en del af årsagen, til du har stiget i salg. Det samme f.eks. med rabatter. Din Facebook-organisering virker nok bedre, hvis du kører et kæmpe udsalg. Men det kan også være det, fordi du kører udsalg. Så på den måde, så skal man have al ens seasonality og særlige kampagne og alle mulige andre ting med ind i modellen. Du kan også tage vejret ind i modellen. Du kan tage forbrugertidligindeksetalget ind i modellen. Du kan tage arbejdsløshedstalget ind i modellen. Du kan tage alle mulige ting. Og det er det, der gør det fascinerende. Fordi værdien af et marketing mix modelingprojekt, det afhænger i virkeligheden af, hvor god du er til at bygge din model. Og der er nogle ting, der er nemme. Omsætning uge for uge, den er nem. Den har de fleste. Og træk spændtal ud fra alle ens marketingkanaler. Det burde du også kunne lade sig gøre derfra. Derfra, så bliver det et spørgsmål om, hvad kan du gøre for yderligere at forklare udsving i modellen. Så f.eks. det projekt, vi lige har været i gang med for en af vores kunder. Der havde vi tre store udsving. Det ene var faktisk Black Friday kampagne. Og da vi gik ind og lavede en variabel, der hedder, er det Black Friday, eller er det ikke Black Friday. Så øgede vi væsentligt mængden af modellen, vi nu havde forklaret. Og kunne forstå og dermed forudsige, hvad der havde effekt eller ej. Den anden var, at de kørte nogle halvstore, halvårlige tilbudskampagne. Og det var vi simpelthen nødt til at lave en decideret variabel for. Er der en tilbudskampagne lige nu? Fordi hvis der var en tilbudskampagne, så alle marketing virkede bare meget, meget bedre. Og hvis vi ikke lagde den variabel ind, så fik vi større usikkerhed i modellen. Fordi så kan modellen simpelthen ikke forstå, hvorfor virker det lige pludselig så godt i den her uge. Så på den måde er der sådan et arbejde i Marketing Mixed Modeling med at forklare og lægge variabler ind for, hvorfor ser vi lige nu et bedre eller et dårligere salg. Og det er også der, hvor Marketing Mixed Modeling tager tid. Fordi lige pludselig sidder du med 20 forskellige spreadsheets og skal formatere dem på en og samme måde, så det kan lægges ind i en model. Og det tager den tid, det nu engang tager. Nu nævner du det her med at øge modellen. Jeg er lige så alle er helt med. Er det for at opnå statistisk... Hvad er ordet, jeg søger her? Signifikans. Signifikans, sådan det var. Er det det, du mener? Når man så får den jævnt ud og får forklaret modellen, at det her er fordi, at der er et spike på grund af, lad os bare sige Black Friday, at den så begynder at kunne finde korrelationerne, når den har taget højde for det. Fordi det mudrer dataen lidt, det er abnormalt. Ja, det er i virkeligheden, hvis man... I dag er det et projekt, vi har lavet, der bruger vi en model fra Google, der hedder Meridian. Så der findes to open source modeller. Den ene er Metas modell, den hedder Robin, og den anden er Googles modell, den hedder Meridian. Vi valgte Googles modell, fordi den passede bedre til det her projekt. Og i Googles modell har du så to tal, og det ene er, at du har sådan R², som går fra 0 til 1, hvor du vil gerne have den over 0,7, og det er, hvor stor sammenhæng du ser mellem dine indsatser og dine outcomes. Og det andet er, at vi har en variabel, der hedder VMAPE, som jeg kan ikke lige huske forkorrelsen, men det er basically, hvor meget af modellen kan du ikke forklare. Og den skal helst ligge under 15%. Så du skal jo gerne have R² over 70 og VMAPE under 15, og så har du en model, hvor Google siger, nu begynder det lige noget. Nu begynder du at have forklaret så mange usikkerhederne væk, at du begynder at kunne stole en lille smule på resultatet. Så på den måde er Marketing Mix Modeling også til at arbejde med, fordi hvis du får en lavere R² værdi eller en højere VMAPE værdi, så er det sådan lidt Googles måde at fortælle sig derpå. Du skal nok lige kigge lidt mere ind i at forklare variablerne her, inden du begynder at stole alt for meget på resultaterne, fordi lige nu er den statistiske usikkerhed i modellen simpelthen for stor. Men når man så har gjort det, og det er jo der, det bliver spændende, når du så har taget dine spreadsheets fra alle dine forskellige kilder, og du har forklaret Seasonality, og du har lagt din omsætningsdata ind, og alle mulige ting, så vælger du det, der hedder en Ad Stock Rate. Og en Ad Stock Rate, det er grundlæggende, hvor lang tid, at din marketing har effekt. Så i det studie, vi lige har lavet, der har vi sagt 8 uger. Og det betyder, at hvis du annoncerer på tv, og der så sker noget inden for de 8 uger, som er abnormalt, så vil vi forsøge at tilskrive det til tv-annoncering, og se om vi kan finde en korrelation mellem de to. Hvis de selv så stiger 4 måneder, altså 16 uger efter, så siger vi, det kan ikke have noget med tv-annoncering at gøre, fordi nu anser jeg, at vi nu virker den faktisk ikke længere. Så du har sådan en statisk værdi, du kalder en Ad Stock Rate, altså hvor lang tid har din marketing effekt. Og det er klart, at den vil variere afhængig af, hvad man sælger. Er den selvvalgt? Ja, den er selvvalgt. Okay. Og du kan køre modellen med forskellige Ad Stock Rates, fordi når du først har indsamlet al den her data, det er meget, meget nemt. Det store arbejde ligger i at indsamle og formatere dataen til at starte med, fordi du får data fra mange forskellige kilder, der overhovedet ikke passer sammen. Så når du først har gjort det, så kan du vælge 3 forskellige Ad Stock Rates, 4, 8, 12 uger, og så se, gør det en forskel egentlig i modellen det her, og kan vi forklare en større eller en mindre del af modellen ved at ændre Ad Stock Rates eller andre forudsætninger, der ligger inde i modellen. Når du så har gjort det, så begynder det at blive spændende, fordi så kan du faktisk tage alle de her resultater, og så grundlæggende lægge op i et Looker Studio dashboard, hvor du så får nogle helt andre tal på din marketing. Sådan et eksempel på en graf, man kan lave, når man først har gjort alt det her, den har jeg på skærmen her, og nu, det her er ikke et tal for et projekt, det er noget dummy data, men vi har faktisk lavet lige præcis den her visualisering på det projekt, vi lige har lavet. Så det her, det er sådan en baseline contribution, hvor man siger, hvor meget af omsætningen er bare baseline, altså hvor meget af omsætningen kan vi i virkeligheden ikke forklare med marketing, og det på den her dummy data, så er det sådan 79%. Men så har vi kanal 1, 2, 3, 4 og 5, hvor man kan se, hvor meget ekstra, eller hvor meget af vores omsætning, er i virkeligheden forklaret ved den pågældende kanal på baggrund af den data, du har lavet. Og det er så fordi, Google Meridian har ligget og lavet de her statistiske regressionanalyser, og forsøgt at finde korrelation og kausalitet mellem din marketingindsats og dine outcomes, og så har den bare lavet tusindvis af forskellige analyser, og det her, det ligger i skyen. Og så er der bare Google Server i gang med at regne alt det her igennem, igen og igen og igen og igen. Har tv virket med koldt vejr? Har det virket med varmt vejr? Har det virket med lunt vejr? Har det virket i regn? Har det virket i slut? Har det virket med metatent? Har det virket med metaslukket? Du ved, den har bare kørt uendelige mange analyser, for at finde statistisk sammenhæng mellem, at du starter en aktivitet, og at der sker en eller anden stigning, eller håber man ikke, fald i dine målte resultater, inden for den ad-stock-rate, du har valgt for eksempel 8 uger. Og det betyder nu, at vi er ude over iOS 14, vi er ude over cookie-perioder, vi er ude over klik og visninger og alt mulig pis. Det er helt konkrete, kolde tal. Du har kørt en aktivitet. Har du solgt mere? Når du kører det her, sælger du mere, end hvis du ikke kører det. Mål på de sidste minimum tre års data. Og det giver nogle sindssygt spændende ting, fordi lige pludselig så er vi ude over det der med, ej, altså meta og Google har etableret den samme konvertering. Det er ikke noget, vi snakker om længere. Altså, det er bare, stiger omsætningen, når vi kører Google, og hvis vi stiger Google-spændet, stiger omsætningen så, eller gør den ikke? Og det er så interessant at kigge på, og lige pludselig koboler TV og radio på den måde, hvor du bare siger, fik vi flere kunder, eller fik vi ikke flere kunder? Og hvis vi fik flere kunder, er det, fordi der er noget andet, der kørte, eller kørte der ikke noget andet? Og på den måde udregnes den sidste signifikans. Forfærdeligt ord. Og det giver jo så udgangspunktet for at optimere sin markedsbudget. I hvert fald et fundament for at kigge på, hvordan man eventuelt kunne optimere ens markedsbudget og strategier. Jeg skal lige høre, Alfred, hvornår giver det her mening? Er der en eller anden tommelfingerregel om, at man skal minimum have x i spændet, eller x i omsætning, eller i forhold til datamængden, der egentlig skal bruges? Jeg vil sige, der er to, tre ting, hvor man kan begynde at snakke om, det giver mening. Det er klart, jo flere penge, du bruger i det hele taget, jo mere gør det. Men jeg vil ikke engang sige, det er den primære, fordi hvis du bruger helt vildt mange penge på Facebook, altså det er din eneste kanal, så kan du godt regne ud, hvis de særligt kommer fra Facebook. Så kan du overveje at køre det på den enkelte kampagne, eller du kan lave et modelstudie i forhold til, får vi mere eller mindre omsætning ud af at køre en 3 for 2 kampagne, i forhold til en Black Friday kampagne, i forhold til en Member Get Member kampagne, så er der nogle andre ting, du kan køre det på. Så marketing mix modeling kan stadig give mening, hvor du bare modellerer forskellige kampagnetyper i forhold til den samlede omsætning. Men hvis man tager den her version, vi laver lige nu, hvor vi ser på effekten af forskellige marketing kanaler, så giver det ikke mening, hvis du kun har én marketing kanal. Så jo flere marketing kanaler, du har, jo bedre. Især hvis det er offline kanaler, fordi de er sværere at måle, og jeg tror også nogle typer online kanaler. Så hvis du reelt vil have en chance for at måle ting, som for eksempel værdien af dit pressearbejde, podcast annoncering, tv annoncering, radio annoncering, outdoor og rigtig meget programmatic annoncering, og tv2 play annoncering og sådan nogle ting, der tror jeg marketing mix modeling er den bedste måde at måle det på. Men når du har en eller anden rabatkode, så skal folk indtaste direkte på checkout-siden, fordi så kan de gøre det på den måde. Men der ved vi jo ikke så godt, at den rabatkode bliver delt lynhurtigt på alle mulige apps, så det er jo ikke engang en særlig god måde at gøre det på. Så det vil sige, at marketing mix modeling er næsten en bedre måde at gøre det på, fordi det er en helt nøgtans afstilling til, om salget det steg i en periode efterfølgende, eller om det ikke gjorde. Så jo flere marketing kanaler, du har, jo mere offline, det er en rigtig god indikation. Og en anden ting, det er jo så hvis du har flere salgskanaler. Så hvis du både sælger online, men du også sælger i en butik, eller du også sælger ved forhandlere, eller et eller andet den stil. Fordi så kan du lige pludselig begynde at måle din marketingseffekt ud i forhandlerne. Så forestil dig for eksempel, at du er et brand. Du bruger rigtig mange penge på Facebook-analysering, og du sælger på din egen shop, men du har også wholesalere. Og du har en hypotese om, at når du bruger mange flere penge på Facebook-ads, så sælger Boost flere produkter for dig. Men du har svært ved at lave en direkte koalition. Det kan du faktisk godt her, fordi du får jo din egen salgstal for Boost. Og du har jo din egen spændtal for Facebook. Så du skal i virkeligheden bare ind i din model og sige, nu måler vi den på to ting. Hvad sker der med mit eget salg, når vi kører Facebook-analysering? Hvad sker der med Boost salg, når vi kører Facebook-analysering? Hvad sker der med vores retail salg, når vi kører Facebook-analysering? Så du kan se sådan fragmenterede salgskanaler er også en god anledning til at kigge på det, fordi du kan faktisk modellere noget effekt ind i din andre salgsled, end dem du sidder direkte med. Hvis din hypotese er, at din egen analysering faktisk skaber kommenteringer i andre salgsled, end din egen webshop for eksempel, så er det også en fantastisk interessant case at køre det. Det har været et fantastisk emne at bringe op. Et emne, som Halvdan har siddet og forberedt sig på i flere måneder. Ja, det er spændende det her. To minutter inden vi går på, han laver simpelthen et u-turn og siger, i dag skal vi faktisk snakke om det her, i stedet for det vi egentlig havde regnet med at snakke om. Så det siger jeg tak for, Halvdan. Endnu et afsnit, hvor jeg kan sidde og lytte og lære. Jeg er vild med det. Jeg glæder mig til, at du begynder at gøre det samme med mig. Det er jo åndssvagt at ikke gøre det. Det er jo åndssvagt. Jeg sidder der også og tænker på det samme nu. Hvorfor fanden gør jeg ikke selv det her? Jeg sidder bare og venter. Hvornår får vi dit emne inden for sådan, i dag skal vi snakke om server-side-tracking, hvor du overhovedet ikke har forberedt dig på det, og ikke ved noget om emnet, men jeg til gengæld bare kan få lov. Hvornår laver vi det op? Jeg synes jo, det er synd for dig. Jeg har simpelthen så meget empati, hvad det angår. Jeg ved ikke, hvor meget jeg skal drille dig med din hyppige ferie eller jernerystelsesferie. Jeg føler, jeg har bragt et tungt skyts op, og du har alligevel stadig for meget empati til at trække mig igennem sådan en episode, hvor du gør det samme mod mig. Ja. Hvis vi alle sammen var lige så gode mennesker som dig, Tinjo. Jeg synes, det her er et mega spændende emne. Jeg tror, vi kommer til at lave flere af de her studier i efteråret, og jeg kommer til at lave nogle flere episoder om det, selvfølgelig unannounced, når vi har nogle flere resultater, og eventuelt noget, vi kan dele af det. For jeg kan bare sige, den ene, vi har lavet det endnu, der er en marketingkanal, der bruger 10 gange så mange penge, som en anden marketingkanal, og den anden marketingkanal er tilskrevet med mere værdi i modellen. Og sådan nogle findings kan gøre en verden til forskel i, hvordan vi kommer til at allokere budget på den kunde fremadrettet. Der er en kanal, der kommer til at få meget mindre, og der er en, der kommer til at få meget mere. Og det er det, jeg synes, der er sindssygt spændende. Jeg håber, det er Pinterest. Jeg håber, det er Pinterest for mine aktier. Endelig. Endelig er det Pinterest-tid. Det var ikke Pinterest. Det er jeg ked af ikke. Det er jeg ked af ikke. Måske en anden gang. Tusind tak for, at I lytter med til dagens episode.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 8.0,
+      "text": " Christian, kan du huske nogle gange, at jeg endte et episode med at stille dig et ret svært spørgsmål fra starten af på at drille dig lidt?",
+      "speaker": "A"
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "text": " Kan du forklare mig, hvad er statistisk analyse, som indebærer regressionsmodeller?",
+      "speaker": "A"
+    },
+    {
+      "start": 17.0,
+      "end": 24.0,
+      "text": " Altså nu dumpede jeg jo kvantitativ metode på uni og måtte op til en regeksamen, hvor jeg så kom igennem.",
+      "speaker": "B"
+    },
+    {
+      "start": 25.0,
+      "end": 34.0,
+      "text": " Det er du ude i, det er Marketing Mixed Modelling, og det ved jeg da kun fordi, at du her for cirka to minutter siden sagde til mig, vi tager sgu en episode omkring det.",
+      "speaker": "B"
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": " Ja, selv tak, for jeg synes det her er et sindssygt spændende emne.",
+      "speaker": "A"
+    },
+    {
+      "start": 40.0,
+      "end": 45.0,
+      "text": " Den her episode kommer til at handle om, hvad er Marketing Mixed Modelling, hvornår skal du bruge det og hvordan laver man det rent faktisk.",
+      "speaker": "A"
+    },
+    {
+      "start": 45.0,
+      "end": 49.0,
+      "text": " Og det er en fortælling, som starter i 2011 af alle steder.",
+      "speaker": "A"
+    },
+    {
+      "start": 50.0,
+      "end": 63.0,
+      "text": " Og det er fordi i 2011, der er jeg i Dublin inviteret over til Mesa sammen med nogle dygtige kollegaer, hvor vi er med til et oplæg, hvor Mesa snakker hele tiden om Marketing Mixed Modelling som den ultimative måde at løse tracking på i fremtiden, hvor vi ikke kan måle noget.",
+      "speaker": "A"
+    },
+    {
+      "start": 64.0,
+      "end": 69.0,
+      "text": " Og jeg tænker, hvad fanden er Marketing Mixed Modelling? Det ved jeg ikke, men jeg kan konstatere, at DK-domænet er ledigt.",
+      "speaker": "A"
+    },
+    {
+      "start": 69.0,
+      "end": 76.0,
+      "text": " Så mit første touchpoint med Marketing Mixed Modelling, det er, at jeg køber domænet marketingmixedmodelling.dk den 21. november 2022.",
+      "speaker": "A"
+    },
+    {
+      "start": 77.0,
+      "end": 82.0,
+      "text": " Og så sker der faktisk ikke noget de næste tre år, fordi så har vi lige travlt med nogle andre ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 83.0,
+      "end": 91.0,
+      "text": " Og så begynder vi at læse mere op på det. Jeg har en kollega, der begynder at interessere sig ret meget for det, begynder at lære rent faktisk at sætte det op og kan konstatere, at Mesa snakker stadig om det.",
+      "speaker": "A"
+    },
+    {
+      "start": 92.0,
+      "end": 96.0,
+      "text": " Og nu har vi for nylig lavet første studie for en af vores kunder, og jeg synes, at det er sindssygt interessant.",
+      "speaker": "A"
+    },
+    {
+      "start": 97.0,
+      "end": 101.0,
+      "text": " Og jeg kan se, at det her er noget, vi kommer til at lave meget mere af i fremtiden. Det vil vi selvfølgelig have lyst til at lave en episode om.",
+      "speaker": "A"
+    },
+    {
+      "start": 102.0,
+      "end": 109.0,
+      "text": " Og lad os starte med at tage problemstillingen. Hvorfor er Marketing Mixed Modelling relevant? Fordi det er blevet sværere at tracke på internettet.",
+      "speaker": "A"
+    },
+    {
+      "start": 110.0,
+      "end": 116.0,
+      "text": " Og kan du huske dengang, du startede digital marketing? Vi startede begge to i 10-11 stykker. Man smed jo bare et script ind, og så målte du det hele.",
+      "speaker": "A"
+    },
+    {
+      "start": 117.0,
+      "end": 124.0,
+      "text": " Ja, det var så fedt. Og det var dengang, hvor Google Analytics fortalte, hvad er det for nogle søger, man får besøgende indfra fra de organiske søger.",
+      "speaker": "B"
+    },
+    {
+      "start": 125.0,
+      "end": 130.0,
+      "text": " Det var så lækkert. Der var ikke noget nutsat. Der var ikke nogen cookies. Der var ikke noget pjat.",
+      "speaker": "A"
+    },
+    {
+      "start": 131.0,
+      "end": 137.0,
+      "text": " Man fik bare at vide lige præcis, hvad har folk søgt på, hvad er det, de har klikket på, og her er jo et deres CPR-nummer. Det var Google Analytics i 2011.",
+      "speaker": "A"
+    },
+    {
+      "start": 138.0,
+      "end": 145.0,
+      "text": " Det virkede skide godt. Men siden da har vi jo fået en masse tekniske og juridiske udfordringer i forhold til at måle, og det er juridiske udfordringer.",
+      "speaker": "A"
+    },
+    {
+      "start": 146.0,
+      "end": 152.0,
+      "text": " Det er GDPR, kokelovkivning og EU-direktiver. Og tekniske udfordringer, det er sådan noget som ITP, Intelligent Tracking Prevention fra Apple, Adblockers og andre ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 153.0,
+      "end": 160.0,
+      "text": " Det har vi lavet episode om tidligere, fordi du kan i stort træk løse alle de tekniske problemer. Rigtig meget starter med at implementere server-side tracking, mens de juridiske problemer ikke kan løses.",
+      "speaker": "A"
+    },
+    {
+      "start": 160.0,
+      "end": 170.0,
+      "text": " Men hvad fanden gør du så, hvis dit salg ligger i en butik, eller du annoncerer rigtig meget på tv, eller du bruger helt vildt mange penge på programmatic eller podcast-annoncering,",
+      "speaker": "A"
+    },
+    {
+      "start": 171.0,
+      "end": 179.0,
+      "text": " eller anden upper funnel, hvor det ikke er klik og køb. Så det vil sige, at når du er ude i en case, hvor enten konverteringen er afkoblet fra klikket, så du for eksempel laver Facebook-ads,",
+      "speaker": "A"
+    },
+    {
+      "start": 180.0,
+      "end": 187.0,
+      "text": " men folk køber en fysisk butik, eller din visning er afkoblet fra konverteringen, fordi du for eksempel laver tv-annoncering, hvor folk ikke kan trykke, så de skal gå direkte ind på siden og købe.",
+      "speaker": "A"
+    },
+    {
+      "start": 187.0,
+      "end": 195.0,
+      "text": " Hvordan vil du tilskrive den værdi? Her, og til nogle andre cases, er Marketing Mix Modeling super interessant.",
+      "speaker": "A"
+    },
+    {
+      "start": 196.0,
+      "end": 206.0,
+      "text": " Det handler om, at man tager et kæmpestort dataset af forskellige ting, forbereder, renser det, og kører statistiske modeller for at finde linjer af sammenhæng mellem,",
+      "speaker": "A"
+    },
+    {
+      "start": 207.0,
+      "end": 213.0,
+      "text": " at du bruger flere penge på en kanal, og at der kommer et given output. Og det kan vi selvfølgelig forklare en del bedre end det, og det er det, den her episode rent faktisk handler om.",
+      "speaker": "A"
+    },
+    {
+      "start": 214.0,
+      "end": 222.0,
+      "text": " Så Marketing Mix Modeling, det er først og fremmest en statistisk analyse, og det er faktisk ikke en ny ting som sådan. I gamle dage ville vi bare kalde det salgsmodellering.",
+      "speaker": "A"
+    },
+    {
+      "start": 223.0,
+      "end": 230.0,
+      "text": " Havde du det på, var du på HTX eller STX? Nej, HHX. HHX, ja, havde man ikke sådan noget salgsmodellering i afsætning der, eller et eller andet?",
+      "speaker": "A"
+    },
+    {
+      "start": 231.0,
+      "end": 234.0,
+      "text": " Jo, det skal sgu nok passe. Jo, det er nok meget rigtigt, jo.",
+      "speaker": "A"
+    },
+    {
+      "start": 235.0,
+      "end": 241.0,
+      "text": " Salgsmodellering i gamle dage, hvor du siger, hvis jeg nu køber en avis-annonce og bruger 100.000 kroner på det, og så måler jeg at stige af salget de næste tre uger,",
+      "speaker": "A"
+    },
+    {
+      "start": 241.0,
+      "end": 246.0,
+      "text": " og hvis ikke det gør det, så virker den sgu nok ikke. Det er jo sådan en gammeldags salgsmodellering.",
+      "speaker": "A"
+    },
+    {
+      "start": 246.0,
+      "end": 249.0,
+      "text": " Du lavede et eller andet, og så så du, om der rent faktisk skete noget.",
+      "speaker": "A"
+    },
+    {
+      "start": 249.0,
+      "end": 254.0,
+      "text": " Udfordringen med at lave så simpel salgsmodellering som det der, det er, at hvis du nu annoncerer i slutningen af november,",
+      "speaker": "A"
+    },
+    {
+      "start": 254.0,
+      "end": 261.0,
+      "text": " og så måler effekten i starten af december, så skal du nok komme til at se en effekt af det, fordi, hey, det er starten af december, det er julesalg, alle køber mere lige nu.",
+      "speaker": "A"
+    },
+    {
+      "start": 261.0,
+      "end": 268.0,
+      "text": " Så det gør, at du ikke bare kan tage én ting og lægge ind i en model, og så konstatere, at det var årsagen til, at der skete et eller andet.",
+      "speaker": "A"
+    },
+    {
+      "start": 268.0,
+      "end": 271.0,
+      "text": " Så er der godt nok korrelation, men der er ikke nødvendigvis kausalitet mellem de to.",
+      "speaker": "A"
+    },
+    {
+      "start": 271.0,
+      "end": 278.0,
+      "text": " Så marketing mixed modeling, det handler om, at man tager en masse data ind, og så forsøger ikke alene at finde korrelation,",
+      "speaker": "A"
+    },
+    {
+      "start": 278.0,
+      "end": 282.0,
+      "text": " men også kausalitet mellem tingene via de her statistiske regressionsanalyser.",
+      "speaker": "A"
+    },
+    {
+      "start": 282.0,
+      "end": 287.0,
+      "text": " Så den data, man tager ind, det er for eksempel al en spændt og klik og kommentering, eller ikke kommentering,",
+      "speaker": "A"
+    },
+    {
+      "start": 287.0,
+      "end": 291.0,
+      "text": " og bare spændt og klik faktisk fra Metas, spændt og klik fra Google Ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 291.0,
+      "end": 297.0,
+      "text": " Man tager alle de penge, man har brugt på tv-analysering, uge for uge, eller dag for dag, eller et eller andet.",
+      "speaker": "A"
+    },
+    {
+      "start": 297.0,
+      "end": 302.0,
+      "text": " Alle de penge, man har brugt på radio, alle de penge, man har brugt på podcast, så lægger man det ind i en model.",
+      "speaker": "A"
+    },
+    {
+      "start": 302.0,
+      "end": 307.0,
+      "text": " Så tager man alle ens konverteringer. Hvor mange konverteringer, eller hvor mange nye kunder, eller hvor meget omsætning,",
+      "speaker": "A"
+    },
+    {
+      "start": 307.0,
+      "end": 314.0,
+      "text": " hvad du nu laver dit studie på, har jeg fået uge for uge de sidste minimum tre år, hvis man følger Google og Metas anbefalinger.",
+      "speaker": "A"
+    },
+    {
+      "start": 314.0,
+      "end": 319.0,
+      "text": " En anden ting, man gør, det er, at man skal forsøge at tage højde for seasonality, eller ekstraordinære aktiviteter.",
+      "speaker": "A"
+    },
+    {
+      "start": 319.0,
+      "end": 321.0,
+      "text": " Hvad betyder det?",
+      "speaker": "A"
+    },
+    {
+      "start": 321.0,
+      "end": 324.0,
+      "text": " En gang til? Hvad er seasonality?",
+      "speaker": "A"
+    },
+    {
+      "start": 325.0,
+      "end": 331.0,
+      "text": " En anden ting, man skal gøre, det er at tage højde for seasonality og ekstraordinære effekter, som f.eks. Black Friday.",
+      "speaker": "A"
+    },
+    {
+      "start": 331.0,
+      "end": 332.0,
+      "text": " Hvad betyder det?",
+      "speaker": "A"
+    },
+    {
+      "start": 332.0,
+      "end": 338.0,
+      "text": " Det betyder, som du faktisk selv lige kommer med et eksempel på, at man kigger ind i, at inden for sengebranchen,",
+      "speaker": "B"
+    },
+    {
+      "start": 338.0,
+      "end": 342.0,
+      "text": " der er januar kæmpestor, så der skal man jo forvente, at der er rigtig godt salt.",
+      "speaker": "B"
+    },
+    {
+      "start": 342.0,
+      "end": 348.0,
+      "text": " Så det tager man højde for her, og forsøger ligesom at flade det ud, så den effekt ikke går ind og mudrer dataen til.",
+      "speaker": "B"
+    },
+    {
+      "start": 348.0,
+      "end": 351.0,
+      "text": " Så man kan simpelthen i modellen lave en variable, der hedder, at det er januar.",
+      "speaker": "A"
+    },
+    {
+      "start": 351.0,
+      "end": 356.0,
+      "text": " Og hvis det er januar, så siger du bare, at nu er det januar, og alle andre måneder, så er det ikke januar.",
+      "speaker": "A"
+    },
+    {
+      "start": 356.0,
+      "end": 359.0,
+      "text": " Og så er den faktisk inden at forklare en del af årsagen, til du har stiget i salg.",
+      "speaker": "A"
+    },
+    {
+      "start": 359.0,
+      "end": 361.0,
+      "text": " Det samme f.eks. med rabatter.",
+      "speaker": "A"
+    },
+    {
+      "start": 361.0,
+      "end": 363.0,
+      "text": " Din Facebook-organisering virker nok bedre, hvis du kører et kæmpe udsalg.",
+      "speaker": "A"
+    },
+    {
+      "start": 363.0,
+      "end": 365.0,
+      "text": " Men det kan også være det, fordi du kører udsalg.",
+      "speaker": "A"
+    },
+    {
+      "start": 365.0,
+      "end": 371.0,
+      "text": " Så på den måde, så skal man have al ens seasonality og særlige kampagne og alle mulige andre ting med ind i modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 371.0,
+      "end": 373.0,
+      "text": " Du kan også tage vejret ind i modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 373.0,
+      "end": 375.0,
+      "text": " Du kan tage forbrugertidligindeksetalget ind i modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 375.0,
+      "end": 377.0,
+      "text": " Du kan tage arbejdsløshedstalget ind i modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 377.0,
+      "end": 379.0,
+      "text": " Du kan tage alle mulige ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 379.0,
+      "end": 381.0,
+      "text": " Og det er det, der gør det fascinerende.",
+      "speaker": "A"
+    },
+    {
+      "start": 381.0,
+      "end": 385.0,
+      "text": " Fordi værdien af et marketing mix modelingprojekt, det afhænger i virkeligheden af, hvor god du er til at bygge din model.",
+      "speaker": "A"
+    },
+    {
+      "start": 385.0,
+      "end": 387.0,
+      "text": " Og der er nogle ting, der er nemme.",
+      "speaker": "A"
+    },
+    {
+      "start": 387.0,
+      "end": 389.0,
+      "text": " Omsætning uge for uge, den er nem. Den har de fleste.",
+      "speaker": "A"
+    },
+    {
+      "start": 389.0,
+      "end": 391.0,
+      "text": " Og træk spændtal ud fra alle ens marketingkanaler.",
+      "speaker": "A"
+    },
+    {
+      "start": 391.0,
+      "end": 393.0,
+      "text": " Det burde du også kunne lade sig gøre derfra.",
+      "speaker": "A"
+    },
+    {
+      "start": 393.0,
+      "end": 397.0,
+      "text": " Derfra, så bliver det et spørgsmål om, hvad kan du gøre for yderligere at forklare udsving i modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 397.0,
+      "end": 400.0,
+      "text": " Så f.eks. det projekt, vi lige har været i gang med for en af vores kunder.",
+      "speaker": "A"
+    },
+    {
+      "start": 400.0,
+      "end": 402.0,
+      "text": " Der havde vi tre store udsving.",
+      "speaker": "A"
+    },
+    {
+      "start": 403.0,
+      "end": 405.0,
+      "text": " Det ene var faktisk Black Friday kampagne.",
+      "speaker": "A"
+    },
+    {
+      "start": 405.0,
+      "end": 409.0,
+      "text": " Og da vi gik ind og lavede en variabel, der hedder, er det Black Friday, eller er det ikke Black Friday.",
+      "speaker": "A"
+    },
+    {
+      "start": 409.0,
+      "end": 413.0,
+      "text": " Så øgede vi væsentligt mængden af modellen, vi nu havde forklaret.",
+      "speaker": "A"
+    },
+    {
+      "start": 413.0,
+      "end": 416.0,
+      "text": " Og kunne forstå og dermed forudsige, hvad der havde effekt eller ej.",
+      "speaker": "A"
+    },
+    {
+      "start": 416.0,
+      "end": 420.0,
+      "text": " Den anden var, at de kørte nogle halvstore, halvårlige tilbudskampagne.",
+      "speaker": "A"
+    },
+    {
+      "start": 420.0,
+      "end": 423.0,
+      "text": " Og det var vi simpelthen nødt til at lave en decideret variabel for.",
+      "speaker": "A"
+    },
+    {
+      "start": 423.0,
+      "end": 425.0,
+      "text": " Er der en tilbudskampagne lige nu?",
+      "speaker": "A"
+    },
+    {
+      "start": 425.0,
+      "end": 429.0,
+      "text": " Fordi hvis der var en tilbudskampagne, så alle marketing virkede bare meget, meget bedre.",
+      "speaker": "A"
+    },
+    {
+      "start": 429.0,
+      "end": 433.0,
+      "text": " Og hvis vi ikke lagde den variabel ind, så fik vi større usikkerhed i modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 433.0,
+      "end": 436.0,
+      "text": " Fordi så kan modellen simpelthen ikke forstå, hvorfor virker det lige pludselig så godt i den her uge.",
+      "speaker": "A"
+    },
+    {
+      "start": 436.0,
+      "end": 440.0,
+      "text": " Så på den måde er der sådan et arbejde i Marketing Mixed Modeling med at forklare",
+      "speaker": "A"
+    },
+    {
+      "start": 440.0,
+      "end": 444.0,
+      "text": " og lægge variabler ind for, hvorfor ser vi lige nu et bedre eller et dårligere salg.",
+      "speaker": "A"
+    },
+    {
+      "start": 444.0,
+      "end": 447.0,
+      "text": " Og det er også der, hvor Marketing Mixed Modeling tager tid.",
+      "speaker": "A"
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": " Fordi lige pludselig sidder du med 20 forskellige spreadsheets",
+      "speaker": "A"
+    },
+    {
+      "start": 449.0,
+      "end": 452.0,
+      "text": " og skal formatere dem på en og samme måde, så det kan lægges ind i en model.",
+      "speaker": "A"
+    },
+    {
+      "start": 452.0,
+      "end": 455.0,
+      "text": " Og det tager den tid, det nu engang tager.",
+      "speaker": "A"
+    },
+    {
+      "start": 455.0,
+      "end": 458.0,
+      "text": " Nu nævner du det her med at øge modellen.",
+      "speaker": "B"
+    },
+    {
+      "start": 458.0,
+      "end": 461.0,
+      "text": " Jeg er lige så alle er helt med. Er det for at opnå statistisk...",
+      "speaker": "B"
+    },
+    {
+      "start": 461.0,
+      "end": 463.0,
+      "text": " Hvad er ordet, jeg søger her?",
+      "speaker": "B"
+    },
+    {
+      "start": 463.0,
+      "end": 464.0,
+      "text": " Signifikans.",
+      "speaker": "B"
+    },
+    {
+      "start": 464.0,
+      "end": 466.0,
+      "text": " Signifikans, sådan det var.",
+      "speaker": "B"
+    },
+    {
+      "start": 466.0,
+      "end": 468.0,
+      "text": " Er det det, du mener?",
+      "speaker": "B"
+    },
+    {
+      "start": 468.0,
+      "end": 472.0,
+      "text": " Når man så får den jævnt ud og får forklaret modellen, at det her er fordi,",
+      "speaker": "B"
+    },
+    {
+      "start": 472.0,
+      "end": 475.0,
+      "text": " at der er et spike på grund af, lad os bare sige Black Friday,",
+      "speaker": "B"
+    },
+    {
+      "start": 475.0,
+      "end": 479.0,
+      "text": " at den så begynder at kunne finde korrelationerne, når den har taget højde for det.",
+      "speaker": "B"
+    },
+    {
+      "start": 479.0,
+      "end": 481.0,
+      "text": " Fordi det mudrer dataen lidt, det er abnormalt.",
+      "speaker": "B"
+    },
+    {
+      "start": 481.0,
+      "end": 483.0,
+      "text": " Ja, det er i virkeligheden, hvis man...",
+      "speaker": "A"
+    },
+    {
+      "start": 483.0,
+      "end": 486.0,
+      "text": " I dag er det et projekt, vi har lavet, der bruger vi en model fra Google, der hedder Meridian.",
+      "speaker": "A"
+    },
+    {
+      "start": 486.0,
+      "end": 488.0,
+      "text": " Så der findes to open source modeller.",
+      "speaker": "A"
+    },
+    {
+      "start": 488.0,
+      "end": 492.0,
+      "text": " Den ene er Metas modell, den hedder Robin, og den anden er Googles modell, den hedder Meridian.",
+      "speaker": "A"
+    },
+    {
+      "start": 492.0,
+      "end": 495.0,
+      "text": " Vi valgte Googles modell, fordi den passede bedre til det her projekt.",
+      "speaker": "A"
+    },
+    {
+      "start": 495.0,
+      "end": 500.0,
+      "text": " Og i Googles modell har du så to tal, og det ene er, at du har sådan R²,",
+      "speaker": "A"
+    },
+    {
+      "start": 500.0,
+      "end": 503.0,
+      "text": " som går fra 0 til 1, hvor du vil gerne have den over 0,7,",
+      "speaker": "A"
+    },
+    {
+      "start": 503.0,
+      "end": 507.0,
+      "text": " og det er, hvor stor sammenhæng du ser mellem dine indsatser og dine outcomes.",
+      "speaker": "A"
+    },
+    {
+      "start": 507.0,
+      "end": 510.0,
+      "text": " Og det andet er, at vi har en variabel, der hedder VMAPE,",
+      "speaker": "A"
+    },
+    {
+      "start": 510.0,
+      "end": 513.0,
+      "text": " som jeg kan ikke lige huske forkorrelsen, men det er basically,",
+      "speaker": "A"
+    },
+    {
+      "start": 513.0,
+      "end": 515.0,
+      "text": " hvor meget af modellen kan du ikke forklare.",
+      "speaker": "A"
+    },
+    {
+      "start": 515.0,
+      "end": 517.0,
+      "text": " Og den skal helst ligge under 15%.",
+      "speaker": "A"
+    },
+    {
+      "start": 517.0,
+      "end": 521.0,
+      "text": " Så du skal jo gerne have R² over 70 og VMAPE under 15,",
+      "speaker": "A"
+    },
+    {
+      "start": 521.0,
+      "end": 524.0,
+      "text": " og så har du en model, hvor Google siger, nu begynder det lige noget.",
+      "speaker": "A"
+    },
+    {
+      "start": 524.0,
+      "end": 527.0,
+      "text": " Nu begynder du at have forklaret så mange usikkerhederne væk,",
+      "speaker": "A"
+    },
+    {
+      "start": 527.0,
+      "end": 530.0,
+      "text": " at du begynder at kunne stole en lille smule på resultatet.",
+      "speaker": "A"
+    },
+    {
+      "start": 530.0,
+      "end": 533.0,
+      "text": " Så på den måde er Marketing Mix Modeling også til at arbejde med,",
+      "speaker": "A"
+    },
+    {
+      "start": 533.0,
+      "end": 537.0,
+      "text": " fordi hvis du får en lavere R² værdi eller en højere VMAPE værdi,",
+      "speaker": "A"
+    },
+    {
+      "start": 537.0,
+      "end": 539.0,
+      "text": " så er det sådan lidt Googles måde at fortælle sig derpå.",
+      "speaker": "A"
+    },
+    {
+      "start": 539.0,
+      "end": 542.0,
+      "text": " Du skal nok lige kigge lidt mere ind i at forklare variablerne her,",
+      "speaker": "A"
+    },
+    {
+      "start": 542.0,
+      "end": 544.0,
+      "text": " inden du begynder at stole alt for meget på resultaterne,",
+      "speaker": "A"
+    },
+    {
+      "start": 544.0,
+      "end": 548.0,
+      "text": " fordi lige nu er den statistiske usikkerhed i modellen simpelthen for stor.",
+      "speaker": "A"
+    },
+    {
+      "start": 548.0,
+      "end": 551.0,
+      "text": " Men når man så har gjort det, og det er jo der, det bliver spændende,",
+      "speaker": "A"
+    },
+    {
+      "start": 551.0,
+      "end": 554.0,
+      "text": " når du så har taget dine spreadsheets fra alle dine forskellige kilder,",
+      "speaker": "A"
+    },
+    {
+      "start": 554.0,
+      "end": 557.0,
+      "text": " og du har forklaret Seasonality, og du har lagt din omsætningsdata ind,",
+      "speaker": "A"
+    },
+    {
+      "start": 557.0,
+      "end": 560.0,
+      "text": " og alle mulige ting, så vælger du det, der hedder en Ad Stock Rate.",
+      "speaker": "A"
+    },
+    {
+      "start": 560.0,
+      "end": 563.0,
+      "text": " Og en Ad Stock Rate, det er grundlæggende, hvor lang tid,",
+      "speaker": "A"
+    },
+    {
+      "start": 563.0,
+      "end": 564.0,
+      "text": " at din marketing har effekt.",
+      "speaker": "A"
+    },
+    {
+      "start": 564.0,
+      "end": 567.0,
+      "text": " Så i det studie, vi lige har lavet, der har vi sagt 8 uger.",
+      "speaker": "A"
+    },
+    {
+      "start": 567.0,
+      "end": 570.0,
+      "text": " Og det betyder, at hvis du annoncerer på tv,",
+      "speaker": "A"
+    },
+    {
+      "start": 570.0,
+      "end": 573.0,
+      "text": " og der så sker noget inden for de 8 uger, som er abnormalt,",
+      "speaker": "A"
+    },
+    {
+      "start": 573.0,
+      "end": 575.0,
+      "text": " så vil vi forsøge at tilskrive det til tv-annoncering,",
+      "speaker": "A"
+    },
+    {
+      "start": 575.0,
+      "end": 577.0,
+      "text": " og se om vi kan finde en korrelation mellem de to.",
+      "speaker": "A"
+    },
+    {
+      "start": 577.0,
+      "end": 580.0,
+      "text": " Hvis de selv så stiger 4 måneder, altså 16 uger efter,",
+      "speaker": "A"
+    },
+    {
+      "start": 580.0,
+      "end": 582.0,
+      "text": " så siger vi, det kan ikke have noget med tv-annoncering at gøre,",
+      "speaker": "A"
+    },
+    {
+      "start": 582.0,
+      "end": 584.0,
+      "text": " fordi nu anser jeg, at vi nu virker den faktisk ikke længere.",
+      "speaker": "A"
+    },
+    {
+      "start": 584.0,
+      "end": 587.0,
+      "text": " Så du har sådan en statisk værdi, du kalder en Ad Stock Rate,",
+      "speaker": "A"
+    },
+    {
+      "start": 587.0,
+      "end": 589.0,
+      "text": " altså hvor lang tid har din marketing effekt.",
+      "speaker": "A"
+    },
+    {
+      "start": 589.0,
+      "end": 591.0,
+      "text": " Og det er klart, at den vil variere afhængig af, hvad man sælger.",
+      "speaker": "A"
+    },
+    {
+      "start": 591.0,
+      "end": 593.0,
+      "text": " Er den selvvalgt?",
+      "speaker": "A"
+    },
+    {
+      "start": 593.0,
+      "end": 594.0,
+      "text": " Ja, den er selvvalgt.",
+      "speaker": "A"
+    },
+    {
+      "start": 594.0,
+      "end": 595.0,
+      "text": " Okay.",
+      "speaker": "A"
+    },
+    {
+      "start": 595.0,
+      "end": 597.0,
+      "text": " Og du kan køre modellen med forskellige Ad Stock Rates,",
+      "speaker": "A"
+    },
+    {
+      "start": 597.0,
+      "end": 599.0,
+      "text": " fordi når du først har indsamlet al den her data,",
+      "speaker": "A"
+    },
+    {
+      "start": 603.0,
+      "end": 604.0,
+      "text": " det er meget, meget nemt.",
+      "speaker": "A"
+    },
+    {
+      "start": 604.0,
+      "end": 607.0,
+      "text": " Det store arbejde ligger i at indsamle og formatere dataen til at starte med,",
+      "speaker": "A"
+    },
+    {
+      "start": 607.0,
+      "end": 611.0,
+      "text": " fordi du får data fra mange forskellige kilder, der overhovedet ikke passer sammen.",
+      "speaker": "A"
+    },
+    {
+      "start": 611.0,
+      "end": 614.0,
+      "text": " Så når du først har gjort det, så kan du vælge 3 forskellige Ad Stock Rates,",
+      "speaker": "A"
+    },
+    {
+      "start": 614.0,
+      "end": 619.0,
+      "text": " 4, 8, 12 uger, og så se, gør det en forskel egentlig i modellen det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 619.0,
+      "end": 621.0,
+      "text": " og kan vi forklare en større eller en mindre del af modellen",
+      "speaker": "A"
+    },
+    {
+      "start": 621.0,
+      "end": 626.0,
+      "text": " ved at ændre Ad Stock Rates eller andre forudsætninger, der ligger inde i modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 626.0,
+      "end": 628.0,
+      "text": " Når du så har gjort det, så begynder det at blive spændende,",
+      "speaker": "A"
+    },
+    {
+      "start": 628.0,
+      "end": 630.0,
+      "text": " fordi så kan du faktisk tage alle de her resultater,",
+      "speaker": "A"
+    },
+    {
+      "start": 630.0,
+      "end": 633.0,
+      "text": " og så grundlæggende lægge op i et Looker Studio dashboard,",
+      "speaker": "A"
+    },
+    {
+      "start": 633.0,
+      "end": 636.0,
+      "text": " hvor du så får nogle helt andre tal på din marketing.",
+      "speaker": "A"
+    },
+    {
+      "start": 636.0,
+      "end": 640.0,
+      "text": " Sådan et eksempel på en graf, man kan lave, når man først har gjort alt det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 640.0,
+      "end": 643.0,
+      "text": " den har jeg på skærmen her, og nu, det her er ikke et tal for et projekt,",
+      "speaker": "A"
+    },
+    {
+      "start": 643.0,
+      "end": 646.0,
+      "text": " det er noget dummy data, men vi har faktisk lavet lige præcis den her visualisering",
+      "speaker": "A"
+    },
+    {
+      "start": 646.0,
+      "end": 648.0,
+      "text": " på det projekt, vi lige har lavet.",
+      "speaker": "A"
+    },
+    {
+      "start": 648.0,
+      "end": 651.0,
+      "text": " Så det her, det er sådan en baseline contribution, hvor man siger,",
+      "speaker": "A"
+    },
+    {
+      "start": 651.0,
+      "end": 655.0,
+      "text": " hvor meget af omsætningen er bare baseline,",
+      "speaker": "A"
+    },
+    {
+      "start": 655.0,
+      "end": 658.0,
+      "text": " altså hvor meget af omsætningen kan vi i virkeligheden ikke forklare med marketing,",
+      "speaker": "A"
+    },
+    {
+      "start": 658.0,
+      "end": 661.0,
+      "text": " og det på den her dummy data, så er det sådan 79%.",
+      "speaker": "A"
+    },
+    {
+      "start": 661.0,
+      "end": 664.0,
+      "text": " Men så har vi kanal 1, 2, 3, 4 og 5, hvor man kan se,",
+      "speaker": "A"
+    },
+    {
+      "start": 664.0,
+      "end": 667.0,
+      "text": " hvor meget ekstra, eller hvor meget af vores omsætning,",
+      "speaker": "A"
+    },
+    {
+      "start": 667.0,
+      "end": 670.0,
+      "text": " er i virkeligheden forklaret ved den pågældende kanal",
+      "speaker": "A"
+    },
+    {
+      "start": 670.0,
+      "end": 672.0,
+      "text": " på baggrund af den data, du har lavet.",
+      "speaker": "A"
+    },
+    {
+      "start": 672.0,
+      "end": 676.0,
+      "text": " Og det er så fordi, Google Meridian har ligget og lavet de her statistiske regressionanalyser,",
+      "speaker": "A"
+    },
+    {
+      "start": 676.0,
+      "end": 681.0,
+      "text": " og forsøgt at finde korrelation og kausalitet mellem din marketingindsats og dine outcomes,",
+      "speaker": "A"
+    },
+    {
+      "start": 681.0,
+      "end": 683.0,
+      "text": " og så har den bare lavet tusindvis af forskellige analyser,",
+      "speaker": "A"
+    },
+    {
+      "start": 683.0,
+      "end": 685.0,
+      "text": " og det her, det ligger i skyen.",
+      "speaker": "A"
+    },
+    {
+      "start": 685.0,
+      "end": 688.0,
+      "text": " Og så er der bare Google Server i gang med at regne alt det her igennem,",
+      "speaker": "A"
+    },
+    {
+      "start": 688.0,
+      "end": 690.0,
+      "text": " igen og igen og igen og igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 690.0,
+      "end": 692.0,
+      "text": " Har tv virket med koldt vejr? Har det virket med varmt vejr?",
+      "speaker": "A"
+    },
+    {
+      "start": 692.0,
+      "end": 694.0,
+      "text": " Har det virket med lunt vejr? Har det virket i regn?",
+      "speaker": "A"
+    },
+    {
+      "start": 694.0,
+      "end": 696.0,
+      "text": " Har det virket i slut? Har det virket med metatent?",
+      "speaker": "A"
+    },
+    {
+      "start": 696.0,
+      "end": 698.0,
+      "text": " Har det virket med metaslukket?",
+      "speaker": "A"
+    },
+    {
+      "start": 698.0,
+      "end": 701.0,
+      "text": " Du ved, den har bare kørt uendelige mange analyser,",
+      "speaker": "A"
+    },
+    {
+      "start": 701.0,
+      "end": 705.0,
+      "text": " for at finde statistisk sammenhæng mellem, at du starter en aktivitet,",
+      "speaker": "A"
+    },
+    {
+      "start": 705.0,
+      "end": 707.0,
+      "text": " og at der sker en eller anden stigning,",
+      "speaker": "A"
+    },
+    {
+      "start": 707.0,
+      "end": 710.0,
+      "text": " eller håber man ikke, fald i dine målte resultater,",
+      "speaker": "A"
+    },
+    {
+      "start": 710.0,
+      "end": 713.0,
+      "text": " inden for den ad-stock-rate, du har valgt for eksempel 8 uger.",
+      "speaker": "A"
+    },
+    {
+      "start": 713.0,
+      "end": 715.0,
+      "text": " Og det betyder nu, at vi er ude over iOS 14,",
+      "speaker": "A"
+    },
+    {
+      "start": 715.0,
+      "end": 717.0,
+      "text": " vi er ude over cookie-perioder,",
+      "speaker": "A"
+    },
+    {
+      "start": 717.0,
+      "end": 720.0,
+      "text": " vi er ude over klik og visninger og alt mulig pis.",
+      "speaker": "A"
+    },
+    {
+      "start": 720.0,
+      "end": 722.0,
+      "text": " Det er helt konkrete, kolde tal.",
+      "speaker": "A"
+    },
+    {
+      "start": 722.0,
+      "end": 725.0,
+      "text": " Du har kørt en aktivitet. Har du solgt mere?",
+      "speaker": "A"
+    },
+    {
+      "start": 725.0,
+      "end": 728.0,
+      "text": " Når du kører det her, sælger du mere, end hvis du ikke kører det.",
+      "speaker": "A"
+    },
+    {
+      "start": 728.0,
+      "end": 730.0,
+      "text": " Mål på de sidste minimum tre års data.",
+      "speaker": "A"
+    },
+    {
+      "start": 730.0,
+      "end": 733.0,
+      "text": " Og det giver nogle sindssygt spændende ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 733.0,
+      "end": 735.0,
+      "text": " fordi lige pludselig så er vi ude over det der med,",
+      "speaker": "A"
+    },
+    {
+      "start": 735.0,
+      "end": 738.0,
+      "text": " ej, altså meta og Google har etableret den samme konvertering.",
+      "speaker": "A"
+    },
+    {
+      "start": 738.0,
+      "end": 740.0,
+      "text": " Det er ikke noget, vi snakker om længere.",
+      "speaker": "A"
+    },
+    {
+      "start": 740.0,
+      "end": 743.0,
+      "text": " Altså, det er bare, stiger omsætningen, når vi kører Google,",
+      "speaker": "A"
+    },
+    {
+      "start": 743.0,
+      "end": 745.0,
+      "text": " og hvis vi stiger Google-spændet, stiger omsætningen så,",
+      "speaker": "A"
+    },
+    {
+      "start": 745.0,
+      "end": 746.0,
+      "text": " eller gør den ikke?",
+      "speaker": "A"
+    },
+    {
+      "start": 746.0,
+      "end": 748.0,
+      "text": " Og det er så interessant at kigge på,",
+      "speaker": "A"
+    },
+    {
+      "start": 748.0,
+      "end": 750.0,
+      "text": " og lige pludselig koboler TV og radio på den måde,",
+      "speaker": "A"
+    },
+    {
+      "start": 750.0,
+      "end": 753.0,
+      "text": " hvor du bare siger, fik vi flere kunder, eller fik vi ikke flere kunder?",
+      "speaker": "A"
+    },
+    {
+      "start": 753.0,
+      "end": 755.0,
+      "text": " Og hvis vi fik flere kunder, er det, fordi der er noget andet,",
+      "speaker": "A"
+    },
+    {
+      "start": 755.0,
+      "end": 756.0,
+      "text": " der kørte, eller kørte der ikke noget andet?",
+      "speaker": "A"
+    },
+    {
+      "start": 756.0,
+      "end": 760.0,
+      "text": " Og på den måde udregnes den sidste signifikans.",
+      "speaker": "A"
+    },
+    {
+      "start": 760.0,
+      "end": 762.0,
+      "text": " Forfærdeligt ord.",
+      "speaker": "A"
+    },
+    {
+      "start": 762.0,
+      "end": 765.0,
+      "text": " Og det giver jo så udgangspunktet for at optimere sin markedsbudget.",
+      "speaker": "B"
+    },
+    {
+      "start": 765.0,
+      "end": 768.0,
+      "text": " I hvert fald et fundament for at kigge på,",
+      "speaker": "B"
+    },
+    {
+      "start": 768.0,
+      "end": 772.0,
+      "text": " hvordan man eventuelt kunne optimere ens markedsbudget og strategier.",
+      "speaker": "B"
+    },
+    {
+      "start": 772.0,
+      "end": 774.0,
+      "text": " Jeg skal lige høre, Alfred, hvornår giver det her mening?",
+      "speaker": "B"
+    },
+    {
+      "start": 774.0,
+      "end": 776.0,
+      "text": " Er der en eller anden tommelfingerregel om,",
+      "speaker": "B"
+    },
+    {
+      "start": 776.0,
+      "end": 778.0,
+      "text": " at man skal minimum have x i spændet, eller x i omsætning,",
+      "speaker": "B"
+    },
+    {
+      "start": 778.0,
+      "end": 782.0,
+      "text": " eller i forhold til datamængden, der egentlig skal bruges?",
+      "speaker": "B"
+    },
+    {
+      "start": 782.0,
+      "end": 786.0,
+      "text": " Jeg vil sige, der er to, tre ting, hvor man kan begynde at snakke om,",
+      "speaker": "A"
+    },
+    {
+      "start": 786.0,
+      "end": 787.0,
+      "text": " det giver mening.",
+      "speaker": "A"
+    },
+    {
+      "start": 787.0,
+      "end": 788.0,
+      "text": " Det er klart, jo flere penge, du bruger i det hele taget,",
+      "speaker": "A"
+    },
+    {
+      "start": 788.0,
+      "end": 789.0,
+      "text": " jo mere gør det.",
+      "speaker": "A"
+    },
+    {
+      "start": 789.0,
+      "end": 790.0,
+      "text": " Men jeg vil ikke engang sige, det er den primære,",
+      "speaker": "A"
+    },
+    {
+      "start": 790.0,
+      "end": 793.0,
+      "text": " fordi hvis du bruger helt vildt mange penge på Facebook,",
+      "speaker": "A"
+    },
+    {
+      "start": 793.0,
+      "end": 794.0,
+      "text": " altså det er din eneste kanal,",
+      "speaker": "A"
+    },
+    {
+      "start": 795.0,
+      "end": 796.0,
+      "text": " så kan du godt regne ud,",
+      "speaker": "A"
+    },
+    {
+      "start": 796.0,
+      "end": 798.0,
+      "text": " hvis de særligt kommer fra Facebook.",
+      "speaker": "A"
+    },
+    {
+      "start": 798.0,
+      "end": 800.0,
+      "text": " Så kan du overveje at køre det på den enkelte kampagne,",
+      "speaker": "A"
+    },
+    {
+      "start": 800.0,
+      "end": 802.0,
+      "text": " eller du kan lave et modelstudie i forhold til,",
+      "speaker": "A"
+    },
+    {
+      "start": 802.0,
+      "end": 805.0,
+      "text": " får vi mere eller mindre omsætning ud af at køre en 3 for 2 kampagne,",
+      "speaker": "A"
+    },
+    {
+      "start": 805.0,
+      "end": 807.0,
+      "text": " i forhold til en Black Friday kampagne,",
+      "speaker": "A"
+    },
+    {
+      "start": 807.0,
+      "end": 809.0,
+      "text": " i forhold til en Member Get Member kampagne,",
+      "speaker": "A"
+    },
+    {
+      "start": 809.0,
+      "end": 810.0,
+      "text": " så er der nogle andre ting, du kan køre det på.",
+      "speaker": "A"
+    },
+    {
+      "start": 810.0,
+      "end": 812.0,
+      "text": " Så marketing mix modeling kan stadig give mening,",
+      "speaker": "A"
+    },
+    {
+      "start": 812.0,
+      "end": 814.0,
+      "text": " hvor du bare modellerer forskellige kampagnetyper",
+      "speaker": "A"
+    },
+    {
+      "start": 814.0,
+      "end": 816.0,
+      "text": " i forhold til den samlede omsætning.",
+      "speaker": "A"
+    },
+    {
+      "start": 816.0,
+      "end": 818.0,
+      "text": " Men hvis man tager den her version, vi laver lige nu,",
+      "speaker": "A"
+    },
+    {
+      "start": 818.0,
+      "end": 821.0,
+      "text": " hvor vi ser på effekten af forskellige marketing kanaler,",
+      "speaker": "A"
+    },
+    {
+      "start": 821.0,
+      "end": 824.0,
+      "text": " så giver det ikke mening, hvis du kun har én marketing kanal.",
+      "speaker": "A"
+    },
+    {
+      "start": 824.0,
+      "end": 827.0,
+      "text": " Så jo flere marketing kanaler, du har, jo bedre.",
+      "speaker": "A"
+    },
+    {
+      "start": 827.0,
+      "end": 829.0,
+      "text": " Især hvis det er offline kanaler,",
+      "speaker": "A"
+    },
+    {
+      "start": 829.0,
+      "end": 830.0,
+      "text": " fordi de er sværere at måle,",
+      "speaker": "A"
+    },
+    {
+      "start": 830.0,
+      "end": 832.0,
+      "text": " og jeg tror også nogle typer online kanaler.",
+      "speaker": "A"
+    },
+    {
+      "start": 832.0,
+      "end": 835.0,
+      "text": " Så hvis du reelt vil have en chance for at måle ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 835.0,
+      "end": 837.0,
+      "text": " som for eksempel værdien af dit pressearbejde,",
+      "speaker": "A"
+    },
+    {
+      "start": 837.0,
+      "end": 841.0,
+      "text": " podcast annoncering, tv annoncering, radio annoncering,",
+      "speaker": "A"
+    },
+    {
+      "start": 841.0,
+      "end": 844.0,
+      "text": " outdoor og rigtig meget programmatic annoncering,",
+      "speaker": "A"
+    },
+    {
+      "start": 844.0,
+      "end": 846.0,
+      "text": " og tv2 play annoncering og sådan nogle ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 846.0,
+      "end": 849.0,
+      "text": " der tror jeg marketing mix modeling er den bedste måde at måle det på.",
+      "speaker": "A"
+    },
+    {
+      "start": 849.0,
+      "end": 851.0,
+      "text": " Men når du har en eller anden rabatkode,",
+      "speaker": "A"
+    },
+    {
+      "start": 851.0,
+      "end": 853.0,
+      "text": " så skal folk indtaste direkte på checkout-siden,",
+      "speaker": "A"
+    },
+    {
+      "start": 853.0,
+      "end": 854.0,
+      "text": " fordi så kan de gøre det på den måde.",
+      "speaker": "A"
+    },
+    {
+      "start": 854.0,
+      "end": 857.0,
+      "text": " Men der ved vi jo ikke så godt, at den rabatkode bliver delt lynhurtigt",
+      "speaker": "A"
+    },
+    {
+      "start": 857.0,
+      "end": 859.0,
+      "text": " på alle mulige apps, så det er jo ikke engang en særlig god måde at gøre det på.",
+      "speaker": "A"
+    },
+    {
+      "start": 859.0,
+      "end": 862.0,
+      "text": " Så det vil sige, at marketing mix modeling er næsten en bedre måde at gøre det på,",
+      "speaker": "A"
+    },
+    {
+      "start": 862.0,
+      "end": 864.0,
+      "text": " fordi det er en helt nøgtans afstilling til,",
+      "speaker": "A"
+    },
+    {
+      "start": 864.0,
+      "end": 866.0,
+      "text": " om salget det steg i en periode efterfølgende, eller om det ikke gjorde.",
+      "speaker": "A"
+    },
+    {
+      "start": 866.0,
+      "end": 869.0,
+      "text": " Så jo flere marketing kanaler, du har, jo mere offline,",
+      "speaker": "A"
+    },
+    {
+      "start": 869.0,
+      "end": 870.0,
+      "text": " det er en rigtig god indikation.",
+      "speaker": "A"
+    },
+    {
+      "start": 870.0,
+      "end": 872.0,
+      "text": " Og en anden ting, det er jo så hvis du har flere salgskanaler.",
+      "speaker": "A"
+    },
+    {
+      "start": 872.0,
+      "end": 875.0,
+      "text": " Så hvis du både sælger online, men du også sælger i en butik,",
+      "speaker": "A"
+    },
+    {
+      "start": 875.0,
+      "end": 877.0,
+      "text": " eller du også sælger ved forhandlere, eller et eller andet den stil.",
+      "speaker": "A"
+    },
+    {
+      "start": 877.0,
+      "end": 880.0,
+      "text": " Fordi så kan du lige pludselig begynde at måle din marketingseffekt ud i forhandlerne.",
+      "speaker": "A"
+    },
+    {
+      "start": 880.0,
+      "end": 882.0,
+      "text": " Så forestil dig for eksempel, at du er et brand.",
+      "speaker": "A"
+    },
+    {
+      "start": 882.0,
+      "end": 884.0,
+      "text": " Du bruger rigtig mange penge på Facebook-analysering,",
+      "speaker": "A"
+    },
+    {
+      "start": 884.0,
+      "end": 886.0,
+      "text": " og du sælger på din egen shop, men du har også wholesalere.",
+      "speaker": "A"
+    },
+    {
+      "start": 886.0,
+      "end": 889.0,
+      "text": " Og du har en hypotese om, at når du bruger mange flere penge på Facebook-ads,",
+      "speaker": "A"
+    },
+    {
+      "start": 889.0,
+      "end": 891.0,
+      "text": " så sælger Boost flere produkter for dig.",
+      "speaker": "A"
+    },
+    {
+      "start": 891.0,
+      "end": 893.0,
+      "text": " Men du har svært ved at lave en direkte koalition.",
+      "speaker": "A"
+    },
+    {
+      "start": 893.0,
+      "end": 895.0,
+      "text": " Det kan du faktisk godt her, fordi du får jo din egen salgstal for Boost.",
+      "speaker": "A"
+    },
+    {
+      "start": 896.0,
+      "end": 898.0,
+      "text": " Og du har jo din egen spændtal for Facebook.",
+      "speaker": "A"
+    },
+    {
+      "start": 898.0,
+      "end": 900.0,
+      "text": " Så du skal i virkeligheden bare ind i din model og sige,",
+      "speaker": "A"
+    },
+    {
+      "start": 900.0,
+      "end": 902.0,
+      "text": " nu måler vi den på to ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 902.0,
+      "end": 904.0,
+      "text": " Hvad sker der med mit eget salg, når vi kører Facebook-analysering?",
+      "speaker": "A"
+    },
+    {
+      "start": 904.0,
+      "end": 906.0,
+      "text": " Hvad sker der med Boost salg, når vi kører Facebook-analysering?",
+      "speaker": "A"
+    },
+    {
+      "start": 906.0,
+      "end": 909.0,
+      "text": " Hvad sker der med vores retail salg, når vi kører Facebook-analysering?",
+      "speaker": "A"
+    },
+    {
+      "start": 909.0,
+      "end": 913.0,
+      "text": " Så du kan se sådan fragmenterede salgskanaler er også en god anledning til at kigge på det,",
+      "speaker": "A"
+    },
+    {
+      "start": 913.0,
+      "end": 916.0,
+      "text": " fordi du kan faktisk modellere noget effekt ind i din andre salgsled,",
+      "speaker": "A"
+    },
+    {
+      "start": 916.0,
+      "end": 918.0,
+      "text": " end dem du sidder direkte med.",
+      "speaker": "A"
+    },
+    {
+      "start": 918.0,
+      "end": 921.0,
+      "text": " Hvis din hypotese er, at din egen analysering faktisk skaber kommenteringer i andre salgsled,",
+      "speaker": "A"
+    },
+    {
+      "start": 921.0,
+      "end": 923.0,
+      "text": " end din egen webshop for eksempel,",
+      "speaker": "A"
+    },
+    {
+      "start": 923.0,
+      "end": 926.0,
+      "text": " så er det også en fantastisk interessant case at køre det.",
+      "speaker": "A"
+    },
+    {
+      "start": 927.0,
+      "end": 929.0,
+      "text": " Det har været et fantastisk emne at bringe op.",
+      "speaker": "A"
+    },
+    {
+      "start": 929.0,
+      "end": 933.0,
+      "text": " Et emne, som Halvdan har siddet og forberedt sig på i flere måneder.",
+      "speaker": "B"
+    },
+    {
+      "start": 933.0,
+      "end": 934.0,
+      "text": " Ja, det er spændende det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 934.0,
+      "end": 936.0,
+      "text": " To minutter inden vi går på,",
+      "speaker": "B"
+    },
+    {
+      "start": 936.0,
+      "end": 938.0,
+      "text": " han laver simpelthen et u-turn og siger,",
+      "speaker": "B"
+    },
+    {
+      "start": 938.0,
+      "end": 939.0,
+      "text": " i dag skal vi faktisk snakke om det her,",
+      "speaker": "B"
+    },
+    {
+      "start": 939.0,
+      "end": 941.0,
+      "text": " i stedet for det vi egentlig havde regnet med at snakke om.",
+      "speaker": "B"
+    },
+    {
+      "start": 941.0,
+      "end": 942.0,
+      "text": " Så det siger jeg tak for, Halvdan.",
+      "speaker": "B"
+    },
+    {
+      "start": 942.0,
+      "end": 945.0,
+      "text": " Endnu et afsnit, hvor jeg kan sidde og lytte og lære.",
+      "speaker": "B"
+    },
+    {
+      "start": 945.0,
+      "end": 947.0,
+      "text": " Jeg er vild med det.",
+      "speaker": "B"
+    },
+    {
+      "start": 947.0,
+      "end": 950.0,
+      "text": " Jeg glæder mig til, at du begynder at gøre det samme med mig.",
+      "speaker": "A"
+    },
+    {
+      "start": 950.0,
+      "end": 951.0,
+      "text": " Det er jo åndssvagt at ikke gøre det.",
+      "speaker": "B"
+    },
+    {
+      "start": 951.0,
+      "end": 952.0,
+      "text": " Det er jo åndssvagt.",
+      "speaker": "B"
+    },
+    {
+      "start": 952.0,
+      "end": 954.0,
+      "text": " Jeg sidder der også og tænker på det samme nu.",
+      "speaker": "B"
+    },
+    {
+      "start": 954.0,
+      "end": 956.0,
+      "text": " Hvorfor fanden gør jeg ikke selv det her?",
+      "speaker": "B"
+    },
+    {
+      "start": 956.0,
+      "end": 957.0,
+      "text": " Jeg sidder bare og venter.",
+      "speaker": "A"
+    },
+    {
+      "start": 957.0,
+      "end": 958.0,
+      "text": " Hvornår får vi dit emne inden for sådan,",
+      "speaker": "A"
+    },
+    {
+      "start": 958.0,
+      "end": 960.0,
+      "text": " i dag skal vi snakke om server-side-tracking,",
+      "speaker": "A"
+    },
+    {
+      "start": 960.0,
+      "end": 962.0,
+      "text": " hvor du overhovedet ikke har forberedt dig på det,",
+      "speaker": "A"
+    },
+    {
+      "start": 962.0,
+      "end": 963.0,
+      "text": " og ikke ved noget om emnet,",
+      "speaker": "A"
+    },
+    {
+      "start": 963.0,
+      "end": 964.0,
+      "text": " men jeg til gengæld bare kan få lov.",
+      "speaker": "A"
+    },
+    {
+      "start": 964.0,
+      "end": 965.0,
+      "text": " Hvornår laver vi det op?",
+      "speaker": "B"
+    },
+    {
+      "start": 965.0,
+      "end": 966.0,
+      "text": " Jeg synes jo, det er synd for dig.",
+      "speaker": "B"
+    },
+    {
+      "start": 966.0,
+      "end": 968.0,
+      "text": " Jeg har simpelthen så meget empati, hvad det angår.",
+      "speaker": "B"
+    },
+    {
+      "start": 972.0,
+      "end": 974.0,
+      "text": " Jeg ved ikke, hvor meget jeg skal drille dig",
+      "speaker": "A"
+    },
+    {
+      "start": 974.0,
+      "end": 977.0,
+      "text": " med din hyppige ferie eller jernerystelsesferie.",
+      "speaker": "A"
+    },
+    {
+      "start": 977.0,
+      "end": 979.0,
+      "text": " Jeg føler, jeg har bragt et tungt skyts op,",
+      "speaker": "A"
+    },
+    {
+      "start": 979.0,
+      "end": 981.0,
+      "text": " og du har alligevel stadig for meget empati",
+      "speaker": "A"
+    },
+    {
+      "start": 981.0,
+      "end": 982.0,
+      "text": " til at trække mig igennem sådan en episode,",
+      "speaker": "A"
+    },
+    {
+      "start": 982.0,
+      "end": 984.0,
+      "text": " hvor du gør det samme mod mig.",
+      "speaker": "A"
+    },
+    {
+      "start": 984.0,
+      "end": 985.0,
+      "text": " Ja.",
+      "speaker": "A"
+    },
+    {
+      "start": 987.0,
+      "end": 988.0,
+      "text": " Hvis vi alle sammen var lige så gode mennesker",
+      "speaker": "A"
+    },
+    {
+      "start": 988.0,
+      "end": 989.0,
+      "text": " som dig, Tinjo.",
+      "speaker": "A"
+    },
+    {
+      "start": 992.0,
+      "end": 993.0,
+      "text": " Jeg synes, det her er et mega spændende emne.",
+      "speaker": "A"
+    },
+    {
+      "start": 993.0,
+      "end": 995.0,
+      "text": " Jeg tror, vi kommer til at lave flere af de her studier",
+      "speaker": "A"
+    },
+    {
+      "start": 995.0,
+      "end": 996.0,
+      "text": " i efteråret,",
+      "speaker": "A"
+    },
+    {
+      "start": 996.0,
+      "end": 999.0,
+      "text": " og jeg kommer til at lave nogle flere episoder om det,",
+      "speaker": "A"
+    },
+    {
+      "start": 999.0,
+      "end": 1000.0,
+      "text": " selvfølgelig unannounced,",
+      "speaker": "A"
+    },
+    {
+      "start": 1000.0,
+      "end": 1001.0,
+      "text": " når vi har nogle flere resultater,",
+      "speaker": "A"
+    },
+    {
+      "start": 1001.0,
+      "end": 1003.0,
+      "text": " og eventuelt noget, vi kan dele af det.",
+      "speaker": "A"
+    },
+    {
+      "start": 1003.0,
+      "end": 1004.0,
+      "text": " For jeg kan bare sige,",
+      "speaker": "A"
+    },
+    {
+      "start": 1004.0,
+      "end": 1006.0,
+      "text": " den ene, vi har lavet det endnu,",
+      "speaker": "A"
+    },
+    {
+      "start": 1006.0,
+      "end": 1007.0,
+      "text": " der er en marketingkanal,",
+      "speaker": "A"
+    },
+    {
+      "start": 1007.0,
+      "end": 1008.0,
+      "text": " der bruger 10 gange så mange penge,",
+      "speaker": "A"
+    },
+    {
+      "start": 1008.0,
+      "end": 1009.0,
+      "text": " som en anden marketingkanal,",
+      "speaker": "A"
+    },
+    {
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": " og den anden marketingkanal er tilskrevet",
+      "speaker": "A"
+    },
+    {
+      "start": 1011.0,
+      "end": 1013.0,
+      "text": " med mere værdi i modellen.",
+      "speaker": "A"
+    },
+    {
+      "start": 1013.0,
+      "end": 1015.0,
+      "text": " Og sådan nogle findings",
+      "speaker": "A"
+    },
+    {
+      "start": 1015.0,
+      "end": 1017.0,
+      "text": " kan gøre en verden til forskel",
+      "speaker": "A"
+    },
+    {
+      "start": 1017.0,
+      "end": 1019.0,
+      "text": " i, hvordan vi kommer til at allokere budget",
+      "speaker": "A"
+    },
+    {
+      "start": 1019.0,
+      "end": 1020.0,
+      "text": " på den kunde fremadrettet.",
+      "speaker": "A"
+    },
+    {
+      "start": 1020.0,
+      "end": 1022.0,
+      "text": " Der er en kanal, der kommer til at få meget mindre,",
+      "speaker": "A"
+    },
+    {
+      "start": 1022.0,
+      "end": 1025.0,
+      "text": " og der er en, der kommer til at få meget mere.",
+      "speaker": "A"
+    },
+    {
+      "start": 1025.0,
+      "end": 1027.0,
+      "text": " Og det er det, jeg synes, der er sindssygt spændende.",
+      "speaker": "A"
+    },
+    {
+      "start": 1027.0,
+      "end": 1028.0,
+      "text": " Jeg håber, det er Pinterest.",
+      "speaker": "B"
+    },
+    {
+      "start": 1028.0,
+      "end": 1030.0,
+      "text": " Jeg håber, det er Pinterest for mine aktier.",
+      "speaker": "B"
+    },
+    {
+      "start": 1032.0,
+      "end": 1033.0,
+      "text": " Endelig.",
+      "speaker": "B"
+    },
+    {
+      "start": 1033.0,
+      "end": 1035.0,
+      "text": " Endelig er det Pinterest-tid.",
+      "speaker": "B"
+    },
+    {
+      "start": 1035.0,
+      "end": 1036.0,
+      "text": " Det var ikke Pinterest.",
+      "speaker": "B"
+    },
+    {
+      "start": 1036.0,
+      "end": 1037.0,
+      "text": " Det er jeg ked af ikke.",
+      "speaker": "A"
+    },
+    {
+      "start": 1037.0,
+      "end": 1038.0,
+      "text": " Det er jeg ked af ikke.",
+      "speaker": "A"
+    },
+    {
+      "start": 1038.0,
+      "end": 1039.0,
+      "text": " Måske en anden gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 1039.0,
+      "end": 1042.0,
+      "text": " Tusind tak for, at I lytter med til dagens episode.",
+      "speaker": "A"
+    }
+  ]
+}

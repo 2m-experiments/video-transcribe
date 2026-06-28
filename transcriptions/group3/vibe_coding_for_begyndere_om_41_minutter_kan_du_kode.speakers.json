@@ -1,0 +1,5221 @@
+{
+  "title": "Vibe coding for begyndere (om 41 minutter kan du kode)",
+  "url": "https://www.youtube.com/watch?v=bFg0rmWJj30",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 2465.3,
+  "transcribed_at": "2026-04-16T09:44:53.188742+00:00",
+  "full_text": "Hej og velkommen til en ny episode af Marketingpod. I den her episode der kører vi uden nyheder og vi går direkte på dagens emne som er Vibe Coding 101 eller Vibe Coding for begyndere. Og vi tager det her emne med, fordi der lige nu sker en revolution, en demokratisering af muligheden for at udvikle apps, så man ikke længere er begrænset af udviklere, men bare i naturlig sprog i prose kan beskrive, hvad man gerne vil have bygget og så virker det rent faktisk. Og Tine og jeg, vi er begge to mindblown over, hvad der kan lade sig gøre. I den her episode kommer vi til at vise, hvordan man gør det her med nogle af de ting, vi har lavet og en helt konkret gennemgang med skærmdeling, hvordan vibe coder du apps. Så hvis du har set alle de her længde indopslag, nyheder og tweets om, at det her er for sindssygt, så er det her episode, der viser dig helt lavpraktisk, hvordan du rent faktisk gør. Og Tine, hvis vi lige skal starte med at definere, hvad er Vibe Coding egentlig? Det er jo ikke et helt nyt begreb, men jeg føler bare, der er sket enormt meget bare inden for den sidste korte periode, de sidste par måneder. Ja, begrebet dækker jo lidt over det at kunne kode uden at kunne en eneste ting inden for kodesprog, som det er tilfældet for mig. Så jeg kan med det danske eller engelske sprog forklare mig til, hvad jeg godt kunne tænke mig at se for eksempel i en app. Og så på magisk vis, mens jeg sidder og viber med mine høretelefoner på og hører noget musik, jamen så fra det ene sekund til det andet, så kommer der en app frem, som kan nogenlunde det, som jeg har bedt den om, og så ville det godt være, at der kommer nogle rettelser bagefter, men det er sådan meget lavpraktisk det. Så hvad vil man sige, Herre for Danmark kan nu kode. Ej, det kan de jo ikke, men de kan i hvert fald forklare, hvad de gerne vil have kodet, og så er der jo noget AI, der tager over og koder for os. Ja, og jeg synes, det er jo et begreb, som kom allerede for et par år siden, hvor man begyndte at kunne bruge ChatGPT til at kode osv., men jeg har også en idé om, at der virkelig er sket en revolution inden for den sidste korte periode, og vi snakker inden for de sidste par måneder her, og jeg kunne godt tænke mig at vise dig et par tweets, som jeg har set, og jeg tror faktisk, at det måske er noget, jeg har sendt dig allerede. Det ene, det er et fra Torbjørn Lytke, som jo er stifteren af Shopify. Han skrev i går, og vi snakker i starten af januar her, Torbjørn Lytke på Twitter, jeg deler den også, hvis du ser med, med video på Spotify, med video eller YouTube, han skriver, og jeg synes, det er så vildt tweet det her, fordi det er vildt og lidt manden, der har bygget Shopify, der skriver, at de sidste tre uger har han lavet mere, eller han har produceret, han har shippet mere kode, end han har gjort de sidste år ti, og det er manden, der har bygget Shopify, han har shippet pænt meget kode de sidste år ti, det skal der altså ikke være nogen tvivl om her. En anden en, som jeg synes var ret vildt, det er ham her, André Carpati, som er en kæmpe figur inden for AI, hvor han var på et podcast, for et halvt år siden, på det, der hedder The Marrakech Podcast, som er sådan altså virkelig high-end nørdepodcast, deeply researched interviews, nogle gange handler det om AI, nogle gange handler det om anden verdensrig, jeg elsker det her podcast, men han var på det her for et halvt år siden, hvor han sagde, ja AI er fedt, men der går lang tid før, det kan gøre alt, hvad en softwareingenør kan lave, det er et halvt år siden, nu går han ind og siger, jeg tror fejl, der går ikke lang tid før, AI kan lave det, en softwareingenør kan lave, det kan den nu, og jeg føler mig mere bagud, end jeg har følt mig i mange, mange år, skriver han, og det her, det er en af de personer, som vidderligt, altså det her, det er en af dem, der har været med til at opfinde AI, som vi kender det i dag, der siger, at tingene går for stærkt, og han kan ikke følge med, hvad får det da til at føle, senior? Ja, hvis han føler sig bagud, så føler jeg mig endnu mere bagud, så er det ikke nogen tvivl om, men det er jo for fedt, altså det er jo for fedt, det fortæller bare noget om, hvad der sker i øjeblikket, og jeg tror, noget af det, der har gjort en stor forskel, det er de specifikke værktøjer, der er kommet, og vi kommer til at snakke om et par af dem i dag, og jeg tror, der er tre, man skal nævne her fra starten af, det ene, det er Lovable, som det her svenske startup, det hurtigst voksende svenske startup nogensinde, jeg tror faktisk, det er det hurtigst voksende europæiske startup nogensinde, det kommer jeg til at se udgangspunkt i, og vise mig, hvordan man virker med nogle ting, jeg har lavet i det, man kan også bruge Gemini, Google Gemini, som du kommer til at se udgangspunkt i, Tinjun, og hvis man bare er lidt sejere end os, så er jeg ret sikker på, at man vil bruge Cloud Code, det har været meta på min Twitter for den sidste uge eller to, at Cloud Code, som kan implementeres direkte i en terminal eller i andre apps, er lige nu sådan en final frontier inden for udvikling, og i øvrigt også det, som Manus bruger, hvis man bruger Manus, så er det bygget på Opus 4.5, kombineret med nogle andre modeller, så hvis man bruger Manus, så kender man allerede til nogle af de ting, som Cloud Code kan, som man snakker rigtig meget om. Hvis man slet ikke ved, hvad man laver, som jo er kendetegnende for os to, så er Cloud Code måske et halvstort skridt til at starte med, fordi det har stadig en vis teknisk indgangsbarriere, hvor Gemini og Loveabroad vitterligt ingen teknisk indgangsbarriere har. Så i denne her episode har vi tænkt os at gennemgå helt lavpraktisk, hvordan de rent faktisk har vibecoded apps, og jeg kommer også ind på nogle af de feller, der er i forhold til distribution og især SEO, hvor man skal være meget opmærksom, fordi det her er out of the box, ikke særlig SEO-bindeligt, men du kan gøre nogle ting for at ændre på det, så det bliver et gigantisk programmatisk SEO-projekt, lige pludselig. Hvor synes du, vi skal starte hen? Vi har jo nogle forskellige apps, vi gerne vil vise frem, og præcis hvordan de rent faktisk er bygget. Men jeg kan prøve at tage et eksempel fra Gemini. Lad os gøre det. Så prøver jeg lige at se her, om ikke jeg kan få lov til at stille min skærm, fordi kære lytter, ser, det vi håber på med episoden i dag, det er at kunne give nogle perspektiver til, hvad det er, man rent faktisk kan lave med de her tools, fordi det er nu engang sådan, så når man får præsenteret alle muligheder i hele verden, altså der er ikke noget limit, så er det typisk der, at man bliver allermest begrænset, for så kan man ikke lige komme i tanke om, hvad pokker er det egentlig, man bør lave. Og den har vi begge to stød i i flere omgange, og jeg håber simpelthen, at når man lytter eller ser med i dag, at man får åbnet øjnene op for nogle nye perspektiver, hvorved at de her tools, de kan bruges. Det her, det er et stort rådet Excel Google Sheets, det man skal forestille sig her, det er at man sidder inde i Google Ads og gerne vil finde ud af, hvad er det egentlig for nogle søgetermer, der fungerer godt på ens konto. Det der så er problemet, det er når man hiver de her søgetermer ud og lægger det over i et Excel-ark, det kommer i sådan en CSV-fil og lægger det over i et Excel-ark, så er det for det første en lille smule svært at kode, altså at aflæse ud fra Excel-arket, hvad det er for nogle søgetermer, der fungerer godt. Og derudover så gør Google Ads det lidt svært for os, fordi at den deler faktisk performance på søgeterms-niveau ud på enten kampagne- eller annoncegruppe-niveau. Så det man kan se her, hvis man følger med på skærmen, det er, at jeg har testet, og det her det er dummy-data med en søgeterm 10 4, 7, 8 ind. Så hvis jeg prøver at lave en søgning herinde i mit Google Sheets-ark, så kan vi se, at den fremgår flere gange. Og hvorfor gør den det? Jamen hvis vi tager udgangspunkt i den her, så er det fordi den ligger i kampagne 3 og annoncegruppe 3, og hvis vi tager udgangspunkt i en af de andre, så ligger den i kampagne 2 og annoncegruppe 2. Så det vil sige, at det er samme søgeterm, men den ligger forskellige steder. Det vil sige, at datan bliver spredt ud. Så hvis jeg skal gå ind og finde ud af, om det her søgeterm er præcis det, jeg for eksempel skulle gå efter rent SEO-mæssigt, eller jeg burde bruge flere penge på Google Ads, så skal jeg konsolidere det på en eller anden måde. Og det har jeg tidligere gjort igennem Google Sheets, men jeg tænkte, at der måske skulle være en lidt smartere måde. Så jeg hoppede ind i Gemini, og det I kan se nu, det er et eksempel på den prompt, jeg har givet. Og nej, det er ikke verdens bedste prompt, det skal jeg være helt ærlig at sige. Men det, jeg beder Gemini om, det er at lave en prompt til mig, som jeg kan bruge i AI Studio, som jo er Googles, hvad skal man sige... Hvad kaldte vi det sidste halvstand? Jeg tror, at du havde ret godt ord for det. Sådan en legeplads. Deres Canvas AI Studio til at lave sig til at vibecode. Ja, det er det. AI Studio, skal man forstå, det er bare et sted, hvor du kan gå ind og prompte, og så har den selv den nødvendige funktionalitet til at lave funktionelle apps. Det vil sige, at du skal ikke selv gå ind og tænke over, hvor jeg skal satte en server op, og hvordan laver jeg en backend, og hvordan forbinder jeg en til frontend, osv. Fordi Gemini er jo først og fremmest en large language model, der bare kan give dig tekst. Så du kan ikke skrive til Gemini, bygge en app, og så bygger den app'en til dig i Gemini. Men du kan bruge Gemini til at lave det prompt, som du så lægger ind i din app builder, hvor Google AI Studio er en app builder. Jeg tror, teknisk set, så er det det, man kalder et IDE, som står for Integrated Developer Environment, hvor du har alt, og i virkeligheden bare kan lave dine apps der, inklusiv hosting og forbindelse og alle mulige andre ting. Ja, allerede der er jeg stød af. Nå, men det virker i hvert fald. Så det, man skal se her, og det her, det er altså et lille tip, som vi også har snakket om tidligere i MarketingPod, det er, at jeg beder LLM'en om at prompte det her for mig, for det kan den altså gøre meget bedre end mig selv. Så for at tage udgangspunkt i det prompt, jeg har givet Gemini her, det er, du skal hjælpe mig med at lave beskrivelsen til en webapp, der skal laves via Gemini Canva i AI Studio. Meningen er, at den skal kunne tage en søgtermsrapport fra Google Ads, som jeg som bruger uploader, og så skal den konsolidere den data, der er på søgtermsniveau. Prompten er lidt længere. Hvis man har lyst til at læse det hele, så kan man se med på enten Spotify eller YouTube, og så uploader jeg et eksempel på den her rapport her, så går den ellers i gang og giver mig en lang, lang, lang prompt. Den kopierer jeg, og sætter så ind over i AI Studio. Og nu skal I se her, for nu kom der faktisk et resultat frem herovre med, hvordan den her app ser ud. Så hvis jeg tager fullscreen her og viser et eksempel, så uploader jeg nu den her dummy data, jeg har vist før inden i Google Sheets, så processerer den den, og bum, så kom det faktisk ud konsolideret. Så det man kan sige, det er søgterm 1047, som bare et eksempel på et søgterm, fremgår i de her kampagner, de her match types, og al den data, der ligger herude, den er nu konsolideret. Det vil sige, jeg kan gå ind og sige, hvor er det egentlig, vi har fået den højeste konverteringsværdi hen? Og jeg kan samtidig se, ligger den i flere kampagner? Det er måske ikke helt meningen. Hvilke match types er det? Og jeg kan sågar gå ind, og det er noget, jeg har promptet den tilbagefter, og sagt, jeg kunne godt tænke mig en søgefunktion her, så jeg kan sige indeholder ikke, hvis man gerne vil se alt, der ikke har med brand at gøre. Jeg bruger det hver dag, og jeg bruger det både i forbindelse med arbejde på eksisterende kunder, og præsenterer oplæg for nye potentielle kunder. Og det har taget 10-15 minutter, fordi jeg vidste, hvad jeg gerne ville have. Jeg gør det til dagligt, men det kunne da godt gøres lidt smartere. Og det her, det er et af mine tre eksempler for i dag. Og jeg synes, det er super fedt, fordi det her, det er jo et værktøj, som du godt kunne have bygget tidligere også, men hvis du skulle have bygget det her selv, ej, du ville ikke kunne have gjort det, og jeg ville ikke kunne have gjort det. Vi kunne godt have betalt en udvikler for at gøre det, men så havde det jo været en ting, der havde kostet 10-15-20.000, det er pludselig, og taget den lidt tid, og så gør du det ikke bare. Hvor her, du har lavet et prompt i Gemini, som er gratis, eller koster meget lidt, og du har lagt det ind i Google AI Studio, det tror jeg ikke, du betaler for. Gør du? Ikke i din nuværende brug i hvert fald. Nej, nej, nej, det gør jeg ikke. Det har også været gratis. Og så har du lavet en app, der i hvert fald løser dit eget problem. Og jeg synes, det her, det er et fantastisk eksempel på den her demokratisering, jeg snakkede om lige før. Hvor det, at du har en idé, er faktisk det eneste, der skal til. Du er ikke længere begrænset af implementering eller kunskaber i forhold til at lave den her app. Og så hvis du skal lave et eller andet helt vildt stort jord, selvfølgelig, på et eller andet tidspunkt, så er det heller ikke en hindring. Men hvis du har en idé om noget, du kan lave, så kan du rent faktisk beskrive det i et naturligt sprog og få lavet et værktøj, som løser det her. Lad mig prøve at vise et eksempel på det samme. Fordi jeg har lavet et andet værktøj, som faktisk også løser et af mine egne problemer. Og Christian, du ved, at jeg elsker tracking. Jeg elsker at arbejde med tracking og server-side tracking, og det er skide sjovt. Jeg vil også rigtig gerne sælge tracking i Obsidian Digital, så vi hjælper mange virksomheder med at implementere server-side tracking og enhance conversions og alle mulige ting. Det koster tit 10.000 eller 15.000, og så får de et permanent forbedret afkast på alle deres Google Ads og Meta Ads. Det er et supergodt produkt, og vi har nogle dygtige kollegaer til at lave det. En af de måder, hvorpå vi historisk har solgt det her produkt, det er, at vi har lavet gratis tracking audits. Så det har fungeret på den måde, at man har måske set en Facebook-annonce fra mig, eller et Google Ads-annonce, eller et LinkedIn-opslag, hvor man er rådt ind på en landingside, hvor man så kan be om et tracking audit. Og på den her landingside, der har man så udfyldt en formular. Så har vi, når man har udfyldt formularen, sendt en mail, hvor man kan få nogle instruktioner til, hvordan man giver os adgang. Så der er noget med, hvordan du giver adgang på Google Ads, og hvordan du giver adgang på Meta Ads, osv. Jeg vil faktisk lige vise et eksempel. Her er en landingside, som er lavet i et værktøj, der hedder Landingi, som vi har... Hov, det var faktisk takkesiden. Men... Her har vi en landingside, som vi har kørt tidligere, hvor der bare står noget om, hvad vil bedre tracking hjælpe med, osv. Og så er der en formular, du kan udfylde, og den er lige stylet forkert, fordi det er en gammel side, vi ikke har brugt det et stykke tid. Men så udfyldte man formularen, fik en mail, gav os adgang. Vi gik så ind på Google Ads, og Facebook Ads, og LinkedIn Ads, osv. Tjekkede opsætningen, så lavede vi en rapport. En pdf-rapport. Vi gik ind og klikkede nogle ting af et spreadsheet, og afhængig af, om vi klikkede ja eller nej til dem, så genererede vi et tracking audit i en pdf-rapport, og så satte vi et møde op med vores kunde for at gennemgå det. Den her samlede proces fra en person ønsker et audit, til vi sidder og gennemgår auditet med dem, tog nok i gennemsnit syv dage. Og det tog også måske en eller to timer i samlede tid med at skrive mails, få adgangen, komme ind, lave rapporten, og så overlevere det. Lad os sige, der har ligget et par timer i det for os. Det gode er, at der også er en del af dem, der er blevet sekunderefterfølgende, så det har været godt, men det har også været tungt. Og en stor udfordring er, at over halvdelen af dem, der bad om et tracking audit, de fik det aldrig, fordi de ikke kunne finde ud af at give os adgang, eller de mistede motivation, eller det var lige lidt sværere end de havde håbet, det ville være. Det var ikke en fed proces. Så det virkede, men det var hård at skalere, og mine kollegaer i trackingafdelingen har ikke tænkt superskønne tanker om mig, når jeg har bruteforceret dem og skaffet en masse audit leads, fordi de var sgu lidt sværere at håndtere for os. Jeg tænkte, at det her må jeg kunne lave et værktøj til i stedet for. Det første jeg gjorde for at lave det her, det var ligesom dig at gå ind i Gemini, og man kunne også bruge ChatGemT eller noget andet, det er ikke så vigtigt. Her der lavede jeg et prompt, hvor jeg sagde, at jeg vil gerne lave et tool, hvor jeg kan indtaste en URL på et website og tjekke op på nogle ting inden for tracking og performance marketing, for eksempel. Og så er jeg faktisk kommet til at trykke enter. Jeg ville have lavet et line break, og så trykkede jeg enter. Klassisk fejl. Så skrev jeg Gemini en masse ting, for at have uddybet mit prompt efterfølgende. Så har jeg sagt, at jeg vil gerne have, at den kan tjekke Google Tag Manager, Facebook Pixel, LinkedIn Pixel, Google Ads Conversion, er der server side tracking setup, alle mulige andre ting. Og så har jeg skrevet lidt frem og tilbage, og til sidst bedt, lav et grundigt prompt til at bygge denne side. Så har jeg fået det her prompt fra Gemini. Så igen, lidt ligesom med dig, jeg har faktisk lagt det ind i Gemini og sagt, at jeg vil gerne have det her, men hjælp mig lige med at beskrive det. Fordi hvis jeg lægger en dårlig beskrivelse ind, så gør jeg også et dårligt værktøj tilbage igen. Så jeg brugte lige 10 minutter inden i Gemini på at få den til at hjælpe mig med at lave en god beskrivelse af det. Det jeg så gjorde derefter, det var, at jeg gik ind på lovable.def. Og lovable, det er det her svenske startup, som også er et integrated development environment. Og det er i hvert fald den hurtigst voksende svenske startup nogensinde, og de har altså også lavet Klarna og Spotify og alle mulige andre fede ting. Jeg tror faktisk, at det er det hurtigste europæiske startup nogensinde det her. Det er sindssygt sejt, hvad de har gang i. Lovable virker pissegodt. Det man gør inde i lovable, det er, at man starter med bare at skrive et prompt, og så bygger den for en. Så jeg tog faktisk det prompt, jeg havde lavet i Gemini, og så lagde jeg det ind i lovable, i det felt her. Og bad øjnene at begynde at bygge. Og man kan faktisk se det i min tråd her. Så den 29. december kl 21.34, jeg ved ikke, hvad du lavede mellem jul og nytår til nu, jeg så Jurassic Park og Vibecoded. Så den 29. december 21.34, der har jeg kopieret det her prompt ind fra Google Gemini, og så bedt den om at gå i gang med at lave det. Omkring et kvarter senere, så havde jeg den første MVP på det værktøj, jeg gerne ville bygge. Så har jeg så promptet frem og tilbage på det senere. Jeg har siddet og hygget mig og bygget ud på værktøjet og alle mulige andre ting. Men det startede faktisk med, at jeg bare lavede et prompt via Gemini, og bad den om at bygge det. Og så fik jeg et værktøj, der faktisk virkede ret godt allerede der. Jeg kan lige prøve at vise dig, hvordan det fungerer nu. Fordi nu er det en uge eller to gammelt, og jeg har forbedret en lille smule på det. Min samlede indsats på det her værktøj, vil jeg sige, ligger nok på fem timer nu. Fra jeg startede, til hvor vi er lige nu. Og det er med, at jeg har promptet frem og tilbage, jeg har skaffet API'er, jeg har testet værktøjet, jeg har udbygget det og alle mulige andre ting. Så værktøjet virker... Og hvad vil du antage, kosten har været til for eksempel Lovable? Jamen det ved jeg faktisk, fordi det kan man se i deres billing, så den er ret transparent. Det her værktøj har kostet mig omkring 50 dollar til bygge indtil nu. Det er den ene omkostning. Den anden omkostning, det er, at vi bruger et API fra en service, der hedder Browserless, som koster os 20 dollars om måneden at have adgang til. Så Browserless, det er et værktøj, hvor du kan sætte den til at gå ind på et site, klikke ja til cookie-boksen og så se, hvad skydes af før og efter. Og det her, det var faktisk ikke et værktøj, jeg kendte før. Det sjove ved Browserless, det er, at jeg siger til Lovable, jeg vil gerne have, at du tjekker, hvilke cookies der bliver sat før og efter du går ind på siden. Og så siger Lovable til mig, okay, det kan jeg godt, men så skal du lige koble det her API på. Så jeg har faktisk ikke selv researchet, at jeg skulle bruge det her værktøj. Det er Lovable, der fortæller mig, ud fra det, du beskriver, det kan jeg godt, men jeg skal bruge et API fra det der værktøj. Så har jeg gået ind og har signet op, betaler 20 dollars om måneden og lagt mit API ind i Lovable. Og så siger den fem minutter senere, okay, nu er det bygget, og så tester jeg, og det virker. Det er så fucking sindssygt, hvordan det her, det virker. Og der, hvor tracking-værktøjet er i dag, og du der lytter med, du er velkommen til at prøve det. Det ligger fri afbenyttelse tracking.obsidianagency.com. Måden det virker på, det er, at man tager ens website. Nu kan vi jo for eksempel tage design as a service.dk. Det ligger i Webflow, jeg tror ikke, vi har server- site på det lige nu. Så skriver man ens URL ind og trykker Analyze. Det, der så sker, det er, at værktøjet nu connector til to forskellige APIs. Det ene API, det er fra browserless.io, så det vil sige browserless.io starter nu en computer op og sender en bruger ind på design-as-a-service.dk og klikker på vores cookie-boks og kigger på vores scripts og kigger på vores html og gør alle mulige ting. Den anden ting, det er, at vi faktisk starter Google PageSpeed API'et op. Så Google har det her PageSpeed-værktøj, hvor man kan se, hvor hurtigt eller hvor langsomt et givet værktøj er eller et site er, så du kan bruge det med henblik på hastighedsoptimering, og du kan se, om du kan forbedre din user-experience. Der er et API, der ligger tilgængeligt derinde også. Det har faktisk også koblet på, så man får noget information om, hvor mange scripts man loader og hvor tung siden er. Så venter man cirka 30 sekunder. Du kan se, at værktøjet er færdigt nu, og så får man en score. Så design-as-a-service har 43 ud af 100, og det er, fordi vi har implementeret consent-mode korrekt, men server-side tagging er ikke på. Det er nogle lidt tunge scripts, der ligger. Vi har ikke sat enhanced conversions op, og vi har ikke sat meta-conversions-API op, og det er korrekt. Det har vi ikke. Det er bare et webflow-site, vi hurtigt har sat op. Så er der en udregning af, hvor meget kunne vi vinde ved at forbedre vores tracking-setup på vores Google Ads og Meta Ads. Der er en formular, hvor folk kan udfylde den, og der er nogle flere informationer om, hvad vi rent faktisk har kigget på. Det her værktøj, hele den proces, jeg talte om lige før, med at folk udfylder formularen, de kommer ind på sitetet, de skal give os deres adgang, vi skal lave deres audit, vi skal aftale et møde, vi skal levere det til dem. Hele den proces der, fra de udfylder formularen, til de ved om deres tracking-setup, det er helt fucked. Det er gået fra omkring en uge til cirka 30 sekunder. Og det her, det er et værktøj, jeg bruger hver dag lige nu. Fordi det løser mit eget problem, ligesom dit eget værktøj gør. Jeg synes, det er så sjovt at høre, at det er det, du bruger hver dag, fordi jeg har lavet det her til mig selv, fordi vi laver de her tracking audits hele tiden, og jeg har lavet ekstra funktioner i det, så jeg har lavet en Google Slides export på værktøjet, fordi jeg sidder og bruger de her tracking audits i mine pitches og præsentationer. Så jeg har lavet en Google Slides export, og måden jeg lavede den her Google Slides export på, det var, at jeg gik ind i Lovable og sagde, at jeg vil gerne have en Google Slides export. Og så sagde den, okay. Og så fik jeg en kom-knap nederst på siden til Download Slides, og hvis man trykker på den, så får man det ud i Slidesformat og kan lægge det lige ind i Google Slides eller PowerPoint på en one-page, der beskriver alt det vigtigste. Det gjorde den bare i et prompt. Okay. Og nu har jeg den også i PDF og et link, man kan dele. Jeg synes, det er... Ej, det er jeg glad for at vide. Fantastisk. Det er jeg godt nok glad for at vide, fordi du ved jo om nogen, og det ved de fleste, der lytter med på MarketingPod også, at tracking for mig, der er det bare noget, der skal virke. Jeg gider ikke forholde mig til det. En kæmpe passion. Jeg gider ikke forholde mig til det. Det skal bare virke. Men jeg har sgu svært ved at sige, hvad der ikke virker og virker, fordi det er bare et andet område for mig. Så det at have det her tool her at kunne køre en side igennem, og så bare det er jo basalt set en bestillingslist og kunne sende den videre og sige, fiks det? Det skal bare virke, det her. Ej, det er jeg godt nok. Det er fedt. Ja, og det sjove er, jeg kører jo faktisk Facebook Ads til det lige nu, hvor jeg siger til folk, du kan prøve det her på dit eget site, og vi har brugt, nu skal jeg lige se, jeg startede i starten af januar, vi har brugt... Årh, nu er jeg spændt på. Det skal bare virke, men jeg har sgu svært ved at sige, hvad der ikke virker og virker, fordi det er bare et andet område for mig, så det at have det her tool her, at kunne køre en side igennem, og så bare, det er jo basalt set en bestillingslist, og kunne sende den videre, og sige, fiks det, det skal bare virke det her. Ej, det går nok, det er fedt. Ja, og det sjove er, jeg køber faktisk Facebook Ads til det lige nu, hvor jeg siger til folk, du kan prøve det her på dit eget site, og vi har brugt, nu skal jeg lige se, jeg startede i starten af januar, vi har brugt... Årh, nu er jeg spændt på at høre det her, fordi det er vores penge, du så ligger og bruger lige nu. Det er nemlig lige præcis vores penge, det er absolut vores penge, jeg ligger og bruger lige nu. Jeg har brugt 600 kroner, den bruger 100 kroner om dagen cirka, og jeg startede den i starten af januar på et tidspunkt, så jeg har brugt 600 kroner på den, for de 600 kroner, der har vi købt i hvert fald 111 personer, nu er der ikke serverside tracking på det her site, så jeg måler nok lidt for lidt på den i virkeligheden. Men i hvert fald 111 trackingchecks er gennemført til 5 kroner og 50 øre pr. styk, og det har givet de første 5 udfyldninger af hopsportformularen også, så vi har genereret 5 leads til 600 kroner i adspent, og sure ikke alle sammen er lige kvalificerede, og det er ikke alle vi kan kommentere, men det ligner faktisk, at vi kan bruge det her værktøj til at tjene penge lige nu, på baggrund af denne annoncering, der kører os. Ikke alene så har vi lavet noget, som løser mit eget problem i forhold til, at jeg har brugt for lang tid på at lave dem her, men det er faktisk også en leadgenerator via Facebook ads, som genererer leads ind til Obsidian, som vi måske kan få lov til at hjælpe med tracking efterfølgende, og hvis et af de 5 leads her går hjem, og de betaler os 10.000 kroner for at fixe deres tracking, som er et beløb, som det ofte passer med, så har vi tjent at spænde hjem 20 gange allerede, og det er hvis et ud af de 5 går hjem, og det håber jeg da, at det gør. Så jeg synes, at det her er en rigtig god indikation på, at vibecoding faktisk kan være noget, der leder til mere forretning også, altså det behøver ikke kun være sjove ting, man laver til sig selv, for mig så er det her en mulighed for, hvordan vi kan skaffe mere forretning til Obsidian, samtidig som vi bruger mindre tid på manuel behandling. Det synes jeg er et sjovt værktøj det her. Det er et fedt eksempel, og jeg tror også nu kan lytterne og serien allerede se, at der er forskellige grader og niveauer i det her. Mit første eksempel det er, altså det var uden API og alt muligt, det var bare ren Gemini Canvas igennem AI Studio, hvor du har jo integreret nogle API og noget udefra, og det kan man også, men hvis man bare er i gang, så er det måske bare at gå i gang med at lave den første webapp uden, men det kan jo, altså nu skal jeg ikke tage noget fra dig Alfdan, men kodemæssigt er det jo ikke fordi, at du er på, altså det her det kan man godt som almen marketer, hvis bare man sætter sig for det ikke, altså bruger API'er til at lave de her tools. Ja, det er præcis. Jeg synes vi skal tage et eksempel mere med dig, og så går vi videre til de fælder der er i forhold til særligt SEO, og hvordan man bygger distribution på, når man har bygget værktøjer, hvordan får man så folk til rent faktisk at bruge det. Og jeg ved du har lavet et værktøj i forhold til at identificere landingssider på et hvilket som helst site, som jeg faktisk synes er ret fedt, og som jeg også bruger. Hvad kan det her værktøj, og hvordan har du bygget det? Yes, i hvert fald Shopify og WooCommerce, de fleste WooCommerce sites. Lad os prøve at hoppe ind i det. Og så skal man forestille sig at man er inde på, det kan være en konkurrent, eller det kan være nogen der gør det rigtig godt annonceringsmæssigt, og her har jeg taget udgangspunkt i Loop Earplugs, fordi de gør det her en masse, altså bygge landingssider. Så en ting er hvad vi ser når vi går ind på hjemmesiden, men noget helt andet er at de landingssider, de rent faktisk sender trafik ind til fra deres betalede annoncering. Det er det der er lidt sjovere at kigge på, for det giver altså et indblik i hvordan det er den her forretning, tænker forretning, og tænker deres produkter, tænker deres målgrupper. Og historisk set, når jeg har sku' ind og kigge på, hvad er det for nogle landingssider de laver, især når det er Shopify shops, nu er det jo rigtig meget e-commerce jeg sidder og arbejder med til dagligt, så sku' jeg ind på deres sitemap. Og deres sitemap i Shopify ser sådan her ud, og det ser forfærdeligt ud. Det er sådan lidt noget bøvl og ligge og kigge rundt i, fordi man skal ind og finde det sitemap der er lavet for deres pages, for det er jo typisk hvad det er at man laver sine landingssider og så gennemgå alle de her pages. Og jeg gjorde det med glæde, men det var ikke en fed opgave at skulle sidde og gå igennem. Så jeg satte mig ned og tænkte over, hvordan kunne jeg prompte mig til en eller anden white-coated løsning her, som gjorde det bare en lille bitte smule nemmere. Og det jeg har gjort her, det er at jeg lige har taget et Google Doc sag, hvor jeg viser eksemple på det prompt jeg har brugt inde i Gemini. Så jeg har uploadet et screenshot af det her sitemap, og så har jeg egentlig bare forklaret Gemini at lave et tool, hvor man kan indtaste en URL på en Shopify webshop, hvorefter toolet automatisk finder sitemappet med pages. Og så giver jeg lidt ekstra forklaring, men vi snakker 3-4 linjer ekstra. Altså det er virkelig ikke særlig meget. Så lad os prøve at hoppe ind og se hvordan det egentlig ser ud. Så hvis jeg starter med lige at kopiere URL'en på Loop Earplugs, så skulle det gerne være sådan. Så når jeg indtaster Loop Earplugs her, og trykker find sider, så gør den to ting. Det første det er, at den finder alle pages frem, altså alle landing pages. Dernæst har jeg bedt den om at sortere efter, hvilke landing pages der er blevet ændret i senest. Og hvorfor gør jeg så det? Fordi det typisk er en eller anden indikator for, at det man ligger og tester af lige nu, det er det man forventer skal kunne fungere. Så det er bare for at jeg kan finde hovedet og hale i den data jeg ligger og kigger på. Så hvis jeg trykker find sider nu, så er den faktisk fundet alle deres nuværende landing sider, og hvornår de senest er blevet redigeret i. Man kan godt se her, og det er jo med vilje at have brugt Loop Earplugs, fordi de laver så mange landing sider, og det er så specifikke landing sider. De gør det mega godt på landing siderne. Så kan jeg trykke her, og så vil jeg kunne gå ind og se, at de har en landing side her, dedikeret til Gift Ideas for Students. Så ja, det er altså rigtig granulat, de går til værktøjer. Så kan jeg sidde og kigge det her igennem. Igen et tool, som jeg bruger nærmest hver dag, fordi det bare gør det 10 gange nemmere for mig lige hurtigt at teste en URL ind herinde. Jeg synes, det her er nogle sjove eksempler på, hvordan man gør det, og det vigtigste take er virkeligheden. Hvis du får en lille smule hjælp til at prompte i ChatGPT eller Gemini, så kan du vitterligt bare gå ind i Lovable, der koster meget let, eller Google AI Studio, som koster ingenting. Eller hvis du er lidt mere hardcore, så brug Cloud Code eller Google Antigravity, som også er fede værktøjer, men det behøver ikke engang at være det. Så bare skriv, hvad du gerne vil have, og så kan du faktisk bygge det. Det er så nemt. Vi kunne faktisk stoppe episoden her og sige, at det var det. Men der er lige to ting mere, vi gerne vil have ind på. Den ene er i forhold til SEO, og den anden er, hvordan du så i øvrigt opbygger distribution, når du så har lavet dit værktøj. Det, man skal vide i forhold til SEO, det er, at mange af de her integrated development environments, de laver dine apps primært i JavaScript. JavaScript, det betyder bare, at du laver det, så det kører teknisk set i din egen browser. Så der er ikke en server, der kører og så laver nogle URL'er, hvor du indlæser HTML'en, ligesom man vil gøre med et WordPress-site eller et eller andet stil. Udfordringen med det her, det er, at SEO-venligheden er helt i bund som udgangspunkt, hvis du laver en app via for eksempel Loverbooth eller Google Antigravity eller Google AI Studio. Det er ikke lavet med henblik på at opnå distribution via søgemaskinerne. Helt konkret, så kan vi tage udgangspunkt i det site, jeg har lavet, som vi tidligere har optalt i en episode, der hedder marketingspent.com. Marketing-spent.com er et værktøj, hvor man kan gå ind og indtaste URL'en på et Facebook Ads Library, og så går den her ind og analyserer deres annoncer, estimerer, hvor mange penge de bruger, hvad deres bedste annoncer er osv. Det er også et værktøj, som jeg har bygget, fordi jeg selv gerne vil bruge det, fordi jeg bruger rigtig meget tid i Ads Library på at blive inspireret og se, hvad der rent faktisk virker. Så lavede jeg det ud på LinkedIn og så om der var andre, der var interesseret i at bruge det. Og siden da har den faktisk haft 5.000 besøgende, bare de sidste syv dage, hvor folk bruger 6 minutter i gennemsnit og har analyseret mere end 1.000 virksomheder. Folk har virkelig taget godt imod det her. Jeg synes, det er så fedt, at man kan få noget ud af det. Men værktøjet virker på den måde, at man indtaster en URL på en virksomhed, et Facebook Ads Library. Lad os tage udgangspunkt i, nu tager vi bare lige Sisi Copenhagen. Den kan jeg se, at der er nogen, der har analyseret her. Og så estimerer den, hvor mange penge de bruger på baggrund af at tage et reach-tal og gange det ind med en statisk CPM-pris. Vi ved, hvor mange personer de har nået, og vi kan dermed estimere et spend. Og så kan vi se, hvilke annoncer, der fungerer bedst lige nu på baggrund af, hvilke der får mest reach. Se deres landingssider og alle sådan nogle ting. Det, der er udfordring her, det er, at i den første version af det her site, der var hele den her URL genereret on the fly, hver eneste gang, man indtaster en virksomhed. Så hvis du indtaster Facebook Ads Library til Sisi Copenhagen i det her tilfælde, så genererede den i øjeblikket faktisk den landingsside. Den landingsside var så midlertidig. Det vil sige, at hvis du gik ud af den side, så eksisterer den ikke længere. Det kan man ikke lave SEO på. Så har vi kun en forside. Alle de sider, du genererer, de forsvinder vidderligt igen. Så det er et forfærdeligt udgangspunkt til SEO. Og det er jo sådan, at den bygger det som standard. Nok fordi, det er den nemmeste måde at bygge det på. Det, man skal gøre for rent faktisk at lykkes med SEO, det er sådan tre forskellige ting, hvis man for eksempel bruger Loverboard som miljø, som jeg gør. Den ene ting er, at du skal have en fast URL. Altså en permanent URL til alle de sider, du genererer. Og det er simpelthen bare noget, jeg har prompted inden i Loverboard det her. Jeg har sagt, at hver gang der genereres et resultat, så skal det være en fast URL, der gemmes på siden. Så har den sagt, okay nu laver jeg en fast URL og gemmer på siden. Så man kan bare be om det og så får man det, men du får det bare ikke som standard. Det er det der er min pointe her. Så hvis man bruger siden i dag, den her URL vi er inde på lige nu, det hedder marketing-spend.com skrælstræk DA, skrælstræk Company, skrælstræk CC, bindestræk København. Det betyder, at den er nu indexerbar. Den næste udfordring, vi skal løse, det er, at Google kan godt nok godt læse JavaScript, men det er ikke sådan super meget best practice, og der er risiko for, at den ikke læser det hele på siden. Og alt indholdet på siden er genereret via JavaScript. Og det kan man se, hvis jeg nu går ind og så tager kildekoden på den her side. Kildekoden, der kan man altså bare gå ind i Google Chrome, sige view-source for en URL, og så kan man se kildekoden. Der er næsten intet indhold på den her side. Altså, jeg kan ikke scrolle ned fra det, du ser her lige nu, Tynio. Det her, det er alt indhold, der er på siden. Der er ingen tekst. Der er ingen tekst på den her. Og det er, fordi det er JavaScript genereret og gemt i en database, og så bliver det faktisk først genereret, når brugeren beder om at se siden. Der er da nogle fordele ved i forhold til hastighedsoptimering og nogle andre ting, men der er den ulæmpe, at når Googles bot ser den her side, så ser de ingenting, og den her side kommer aldrig til at ranke på noget som helst. Måden, jeg har løst det her problem på, det er ved at lave en version af siden, som vises til Googles bot, og en anden version af siden, som vises til brugeren. Det er det, man i gamle dage kaldte cloaking. Det kan godt lyde som noget gris til de af jer, der ved, hvad cloaking betyder. Det kan det også godt være, men hvis du har at gøre med sider, som leverer JavaScript, så er det faktisk en helt fin måde at gøre tingene på. Helt konkret så bruger jeg en side, der hedder pre-render.io. Det er et andet værktøj, som Loveable faktisk har gjort mig opmærksom på, at det eksisterer. Det her er et værktøj, som hjælper med at øge synligheden i både Googles søgemaskine og i large language models og alle mulige andre ting. Det er fuldstændig compliant efter Googles retningslinjer. Jeg fandt det selv, for jeg skulle være helt sikker på det her. I Googles retningslinjer, du må gerne lave en pre-rendered side, eller en HTML-blendered side, du viser til bot, hvis det er det samme indhold, du viser til brugere via JavaScript. Det må du gerne, og det er det i mit selvfælde. Det, som den her change gør, det er, at når en bot går ind på siden, og Googles egen bot identificerer sig selv, så det kan man godt se, og det samme gør ChatGPT og så videre. Når en bot går ind på siden, så går pre-render ind og laver en HTML-version af den side, de går ind på, og så er det HTML-versionen, de får serveret, så de kan indeksere alt indholdet, mens brugeren stadig får serveret JavaScript-indholdet. Det virker rent faktisk det her. Jeg kan prøve at vise et eksempel på, hvordan det ser ud. Hvis man går ind i Google Search Console, så kan man undersøge en hvilken som helst side. Nu har jeg taget den URL, der hedder marketing-spend.com-en-company-li-Atea-Denmark. Det er siden, hvor jeg har taget Atea Danmarks spend på LinkedIn. Mit tool virker også med LinkedIn-apps. Jeg kan se, at de er estimeret til at have brugt omkring 500.000 den sidste måned på LinkedIn. Hold kæft, de giver den gas inde ved Atea i deres annoncering. Den her side er lige nu indekseret i Google. Måden jeg har lykkes med at gøre det her på, det er via det her pre-render. Hvis man går ind i Google Search Console, som jeg er på her for lige præcis den her URL, så kan jeg sige test aktiv webadresse, så jeg får Google til at teste, om de rent faktisk kan tilgå den her URL. Når man har testet den, så kan man se lige præcis det, som Google selv kan se. Så du på den måde kan verificere, at de rent faktisk indlæser det korrekte på siden. Hvis jeg tager Atea Danmarks side på mit tool og bare tjekker det, så kan man se igen, at der er ingen HTML på den her side nærmest. Altså den er uendelig kort. Google kan ikke se noget indhold på den her side. De har ingen idé om, hvad det handler om. Der er ikke noget, der kan indekseres. Den her side vil aldrig nogensinde komme til at ranke. Men den er indekseret, og den ranker. Og årsagen til, at den er det, det er, at jeg har det her prerender, som rent faktisk viser siden til Google i HTML i stedet for. Og det kan man gå ind og verificere i Google Search Console, at den rent faktisk kan. Så det er en relativt simpel måde med et værktøj, som jeg bare skulle koble et API op, som øjeblikkeligt løser hele det her problem. Og så kan man verificere direkte i Google Search Console efterfølgende, at den rent faktisk virker. Så jeg kan få flere opløsninger, og jeg kan se en rapport på, hvordan den rent faktisk virker, og hvor meget den er blevet indekseret. Jeg kan gøre alle mulige ting, men det korte er, det lange er. Jeg kan rent faktisk bekræfte herinde, at den kan indekseres, og se, hvad de har set på siden. Og det her er så vigtigt, for hvis ikke jeg havde gjort det her, så var den her side aldrig blevet indekseret. Og nu hvor jeg rent faktisk har gjort det, så kan jeg se inde i Google Search Console for marketingspændt. Der er et sitemap, som jeg også har lavet, der har registreret 2006 sider, og folk de har virkelig givet en gas med at analysere virksomheder. Vi kan mærke det på omkostningen til de her. Puha! Der er kommet lidt API omkostninger ind i opsiden. Ej, så det samlede API omkostninger, det ligger på et par hundrede kroner om måneden lige nu, så det er sjovt at blive lavet. Men jeg kan se rent faktisk de søger, altså folk de søger specifikke, de søger Spent Analysis Companies og sådan noget. Men det søger også, altså jeg er blevet vist 9 gange på søgeret Rudolf Kær. Og det er fordi jeg har en indekseret side om, hvor mange penge bruger Rudolf Kær på Facebook-kanalens søgering. Hahaha! Du får simpelthen samtlige danske virksomheder på langen lige om lidt. Når vi lægger op under Hård Josh-pejl lidt og det hele der. Det er jo lidt sjovt, ikke? Fordi, vil du klikke på et søgeresultat, hvor der står, hvor mange penge bruger Rudolf Kær egentlig for en annoncering? Du ville da bare lidt nysgerrig, ville du ikke? Haha, jo. Haha, nu kan jeg give dig svaret. Så det her er bare vigtigt, fordi hvis du ikke gør de her ting. Hvis du ikke har en permanent URL, en prerenderet version til bots og et sitemap, som Google Search Console kan læse. Så bliver du ikke indekseret. Men hvis du gør de tre ting, så har jeg jo lige effektivt lavet et sindssygt programmatisk SEO-projekt. Hvor hver eneste gang, der er en person, der bruger siden. Så laver den unikke version af siden. Gør HTML'en tilgængelig. Cacher billederne med schema-marker og alle mulige ting. Så jo flere, der bruger siden, jo flere server kommer han til at rank på. Så det her er effektivt et programmatisk SEO-projekt for mig lige nu. Hvor jeg vil komme til at rank på alle danske virksomheder, der bruger penge på Facebook-organisering. Jeg synes, det er så sjovt, det her. Og når vi er på the topic of distribution, Tino. Hvad kan man ellers gøre for at få folk til at besøge ens app? Du har nu bygget din app. Du vil gerne have, at folk bruger den. Hvad kan du gøre? Ja, altså hvis man har lavet, og det er jo vigtigt lige at skille det her. Hvis man har lavet app'en for, at eksterne kan bruge den. Fordi nogle af de her tools, vi også har nævnt i dag, det er jo noget, som vi bruger internt. Men hvis man gerne vil have det eksternt. Så synes jeg faktisk, at du selv kom med et ret godt eksempel, Halvsten. Fordi du viste jo, hvor mange var det, der havde brugt. Var det tracking eller marketing-spændt toolet? Der var en af dem, hvor der havde været en god tjat tusinde besøgende. Og de er jo ikke kommet igennem SEO. Altså det kunne vi jo se på den skærmdeling, du lige lavede fra Google Search Console. Der er kommet lidt kliks derfra, men det er jo ikke derfor, at det er kommet. Så du har jo distribueret det her tool ud af et sted. Og det har jo især været organisk på LinkedIn. På LinkedIn har du jo delt, for uden selvfølgelig de her annoncer. Men det siger sig selv. Selvfølgelig kan du køre betalt annoncering ind. Men på LinkedIn, og faktisk også i podcasten, har du forsøgt at distribuere det her tool ud. Og det har jo virket. Og hvad fortæller det os? Jamen det fortæller, at det er imod ikke nemmere at lancere et tool, der skal bruges af andre, hvis du i forvejen har distributionen. Og det er derfor, vi bliver ved med at prædike om, hvis du kan opbygge distributionen. Altså du skulle have startet i går. Start, start, start. Også fordi lige nu er vi et sted, Tine, hvor alle kan faktisk bygge det her. Vi har vidderligt lige skærmdelt og vist vores egen prompts til at bygge det her værktøj. Så alle er der, hvor du med meget billige værktøjer og simpel prompting og hjælp fra nogle LLM'ere, der koster praktisk sat ingenting, kan lave deres egne værktøjer. Så det at lave værktøjet er ikke længere en differentiator. På samme måde som, hvis du er en indie developer eller hacker, hvor du har lavet B2B SaaS-værktøjer i de sidste fem år, så har man kunnet lave en forretning på det, fordi du kunne lave noget, alle andre ikke kunne. Hvis du kunne lave et værktøj, de kunne betale nogle penge for, og så kunne de løse deres problem på den måde. Nu, ikke lige om lidt, nu er vi et sted, hvor alle vidderligt kan lave det her værktøj. Så hvordan kommer man til at udmærke sig i fremtiden, hvis alle kan lave de samme værktøjer? Hvis alle bare kan lave dem ved at bruge et par timer og prompte, og så lave det præcis til, hvordan de gerne vil have det, i stedet for at have en fast omkostning. Altså hvad er ens edge i fremtiden? Jeg bliver ved med at komme tilbage til den samme ene ting, det er distribution. I en verden, hvor alle kan lave det samme, og har de samme geniale redskaber til rådighed, hvad er det så, der afgør, hvem der bliver vist i fremtiden? Og det gælder, hvis du bygger værktøjer, det gælder, hvis du laver indhold, det gælder, hvis du laver marketing. Der er en god perspektivering over til marketing, hvis alle kan lave de samme længde indopslag. Hvordan er det så, du sikrer, at det er rent faktisk dine, der bliver vist? Det er ved at have et foregående distribution og have et kendt brand, så folk rent faktisk gider at læse dit indhold i forhold til alle andre, som de ikke kender i forarbejde. Så det hele det kommer tilbage til distribution i min optik. Fordi alle kan lave de her værktøjer, men årsagen til, at jeg får dem til at rank, eller jeg får dem distribueret ud, eller at vi har fået 100 personer til at tage tracking over det, det er fordi vi har den kombinerede distribution af vores organiske LinkedIn. Jeg kan sende det ud på en e-mail, jeg kan køre Facebook-organisering, vi kan nævne det på et podcast. Altså, vi har distributionen til rent faktisk at få folk til at bruge værktøjerne. Og i en verden, hvor det at bygge værktøjerne ikke er differentierende i sig selv, så er det distributionen, der kommer til at afgøre det i stedet for. Helt enig. En ting, som jeg håber, at man som lytter eller ser i dagens episode også ser, det er faktisk noget af det, du lige nævnte før, Halftan. Det her med, at alle kan gøre det. Det er imod væk ikke nogle gode start-prompts, nogen af os har lavet, men vi får eleverne til at hjælpe os. Altså, har man en idé op i hovedet, og kan man bare forklare sig nogenlunde? Jeg har endda gjort det på dansk, du har gjort det på engelsk. Og få eleverne til at hjælpe dig. Altså, når først du ser første version af webappen, de er langt nemmere at begynde at rette i det. Og det kan du gøre, og de er ikke med kode, de er bare ved at skrive det. Og det er jo der, hvor det her vibe-coding bare bliver. Jamen, det er jo for vildt, altså. Ja, det er det. Det er den der ultimative demokratisering. Jeg er helt vild med det. Jeg tror, det store takeaway for den her episode, det er, hvis du ikke er i gang. Altså, lidt ligesom vi har sagt med AI-browsers. Det vigtigste, du kan gøre med AI-browsers, det er bare at bruge dem. Fordi det, at du begynder at bruge dem og binder dig til dem, det er det, der gør, at du bliver dygtig til at bruge dem i fremtiden. Og det er en del af fremtiden. Og jeg har det med samme måde med vibe-coding. Det, at du kan sidde og lave dine egne små værktøjer, som kan løse dine problemer eller virksomhedsproblemer. Og bare gøre hverdagen en lille smule nemmere og fjerne manuelt arbejde. Det er fremtidens måde at arbejde på. Så min største anbefaling, det er bare at gå i gang med dem. Og Gemini og AI-studio er vidderligt gratis at gå i gang med. Loveable koster uendeligt lidt og har også en gratis plan, hvis du ikke laver særlig meget. Så min største anbefaling, det er bare, hvilke problemer har du, hvilke ting sidder du og laver manuelt. Og prøv at se, om du ikke kan løse dem, fordi du bliver så meget klogere, når du først går i gang. Og den største anbefaling herfra, hvis du sidder og tænker over, hvad er det for nogle problemer, du har i hverdagen. Og det er lidt svært lige at komme i tanke om noget, som du kan lave en app til. Og du gerne vil i gang, så prøv at bygge et spil. Og det her tip her, det kommer sig faktisk af, at jeg hen over julen sad med min far og skulle vise ham, hvor nemt det faktisk er blevet, det her. Og både min far og jeg, vil godt lide at sidde og lave Sudoku, når der overhovedet lige skal slås fra. Så vi gik i gang med at bygge en Sudoku. Og det her med at sidde og kunne spille det live og så se, ah det der med, hvis man spiller Sudoku, så ved man, det her med at kunne sidde og tage noter, så du lægger ikke selve tallet ind, men du laver noter til. Det her, det kunne være, at det er tallet, der skal stå der. Men det var ikke en del af første draft. Okay, så går vi ind og forklarer den, det skal altså være med. Jamen så kom det med. Okay, næste gang, så vil vi gerne have, at når man trykker på ét tallet, så skal det ligesom lyse op på hele spillepladen. Okay, det var heller ikke med i første draft. Men hele den her, det gik bare op for mig, det første spil jeg laver, det gik op for mig, hvor værdifuldt det er i forhold til at forstå, dels hvad der kan lade sig gøre, men også hvordan man skal forklare det, man skal. Så hvis du sidder og er i tvivl om, hvor du skal starte hen, så prøv at starte med et simpelt spil. Du får så meget læring ud af det. Jeg er vild med simplet. Fremragende. Bare start, og så skal du nok lære resten. Tusind tak, fordi du lyttede med til dagens episode. Du er meget velkommen til at prøve vores apps. Mine ligger på tracking.obsidianagency.com Vi lægger links ind til dem i episode-description, så du kan se dem på Spotify og YouTube eller LinkedIn, eller hvor du følger med. Tusind tak, fordi du lyttede med. Op og genhør.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 7.0,
+      "text": " Hej og velkommen til en ny episode af Marketingpod.",
+      "speaker": "A"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": " I den her episode der kører vi uden nyheder og vi går direkte på dagens emne som er",
+      "speaker": "A"
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": " Vibe Coding 101 eller Vibe Coding for begyndere.",
+      "speaker": "A"
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": " Og vi tager det her emne med, fordi der lige nu sker en revolution, en demokratisering",
+      "speaker": "A"
+    },
+    {
+      "start": 19.0,
+      "end": 24.0,
+      "text": " af muligheden for at udvikle apps, så man ikke længere er begrænset af udviklere,",
+      "speaker": "A"
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": " men bare i naturlig sprog i prose kan beskrive, hvad man gerne vil have bygget",
+      "speaker": "A"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": " og så virker det rent faktisk.",
+      "speaker": "A"
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": " Og Tine og jeg, vi er begge to mindblown over, hvad der kan lade sig gøre.",
+      "speaker": "A"
+    },
+    {
+      "start": 33.0,
+      "end": 37.0,
+      "text": " I den her episode kommer vi til at vise, hvordan man gør det her med nogle af de ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 37.0,
+      "end": 42.0,
+      "text": " vi har lavet og en helt konkret gennemgang med skærmdeling, hvordan vibe coder du apps.",
+      "speaker": "A"
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": " Så hvis du har set alle de her længde indopslag, nyheder og tweets om, at det her er for sindssygt,",
+      "speaker": "A"
+    },
+    {
+      "start": 46.0,
+      "end": 50.0,
+      "text": " så er det her episode, der viser dig helt lavpraktisk, hvordan du rent faktisk gør.",
+      "speaker": "A"
+    },
+    {
+      "start": 50.0,
+      "end": 56.0,
+      "text": " Og Tine, hvis vi lige skal starte med at definere, hvad er Vibe Coding egentlig?",
+      "speaker": "A"
+    },
+    {
+      "start": 56.0,
+      "end": 59.0,
+      "text": " Det er jo ikke et helt nyt begreb, men jeg føler bare, der er sket enormt meget",
+      "speaker": "A"
+    },
+    {
+      "start": 59.0,
+      "end": 61.0,
+      "text": " bare inden for den sidste korte periode, de sidste par måneder.",
+      "speaker": "A"
+    },
+    {
+      "start": 61.0,
+      "end": 69.0,
+      "text": " Ja, begrebet dækker jo lidt over det at kunne kode uden at kunne en eneste ting inden for kodesprog,",
+      "speaker": "B"
+    },
+    {
+      "start": 69.0,
+      "end": 70.0,
+      "text": " som det er tilfældet for mig.",
+      "speaker": "B"
+    },
+    {
+      "start": 70.0,
+      "end": 75.0,
+      "text": " Så jeg kan med det danske eller engelske sprog forklare mig til, hvad jeg godt kunne tænke mig at se",
+      "speaker": "B"
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "text": " for eksempel i en app.",
+      "speaker": "B"
+    },
+    {
+      "start": 76.0,
+      "end": 81.0,
+      "text": " Og så på magisk vis, mens jeg sidder og viber med mine høretelefoner på og hører noget musik,",
+      "speaker": "B"
+    },
+    {
+      "start": 81.0,
+      "end": 86.0,
+      "text": " jamen så fra det ene sekund til det andet, så kommer der en app frem, som kan nogenlunde det,",
+      "speaker": "B"
+    },
+    {
+      "start": 86.0,
+      "end": 88.0,
+      "text": " som jeg har bedt den om, og så ville det godt være, at der kommer nogle rettelser bagefter,",
+      "speaker": "B"
+    },
+    {
+      "start": 88.0,
+      "end": 90.0,
+      "text": " men det er sådan meget lavpraktisk det.",
+      "speaker": "B"
+    },
+    {
+      "start": 90.0,
+      "end": 93.0,
+      "text": " Så hvad vil man sige, Herre for Danmark kan nu kode.",
+      "speaker": "B"
+    },
+    {
+      "start": 93.0,
+      "end": 96.0,
+      "text": " Ej, det kan de jo ikke, men de kan i hvert fald forklare, hvad de gerne vil have kodet,",
+      "speaker": "B"
+    },
+    {
+      "start": 96.0,
+      "end": 98.0,
+      "text": " og så er der jo noget AI, der tager over og koder for os.",
+      "speaker": "B"
+    },
+    {
+      "start": 98.0,
+      "end": 102.0,
+      "text": " Ja, og jeg synes, det er jo et begreb, som kom allerede for et par år siden,",
+      "speaker": "A"
+    },
+    {
+      "start": 102.0,
+      "end": 104.0,
+      "text": " hvor man begyndte at kunne bruge ChatGPT til at kode osv.,",
+      "speaker": "A"
+    },
+    {
+      "start": 104.0,
+      "end": 108.0,
+      "text": " men jeg har også en idé om, at der virkelig er sket en revolution inden for den sidste korte periode,",
+      "speaker": "A"
+    },
+    {
+      "start": 108.0,
+      "end": 110.0,
+      "text": " og vi snakker inden for de sidste par måneder her,",
+      "speaker": "A"
+    },
+    {
+      "start": 110.0,
+      "end": 112.0,
+      "text": " og jeg kunne godt tænke mig at vise dig et par tweets, som jeg har set,",
+      "speaker": "A"
+    },
+    {
+      "start": 112.0,
+      "end": 114.0,
+      "text": " og jeg tror faktisk, at det måske er noget, jeg har sendt dig allerede.",
+      "speaker": "A"
+    },
+    {
+      "start": 114.0,
+      "end": 118.0,
+      "text": " Det ene, det er et fra Torbjørn Lytke, som jo er stifteren af Shopify.",
+      "speaker": "A"
+    },
+    {
+      "start": 118.0,
+      "end": 122.0,
+      "text": " Han skrev i går, og vi snakker i starten af januar her,",
+      "speaker": "A"
+    },
+    {
+      "start": 122.0,
+      "end": 124.0,
+      "text": " Torbjørn Lytke på Twitter, jeg deler den også, hvis du ser med,",
+      "speaker": "A"
+    },
+    {
+      "start": 124.0,
+      "end": 126.0,
+      "text": " med video på Spotify, med video eller YouTube,",
+      "speaker": "A"
+    },
+    {
+      "start": 126.0,
+      "end": 128.0,
+      "text": " han skriver,",
+      "speaker": "A"
+    },
+    {
+      "start": 134.0,
+      "end": 142.0,
+      "text": " og jeg synes, det er så vildt tweet det her, fordi det er vildt og lidt manden, der har bygget Shopify,",
+      "speaker": "A"
+    },
+    {
+      "start": 142.0,
+      "end": 144.0,
+      "text": " der skriver, at de sidste tre uger har han lavet mere,",
+      "speaker": "A"
+    },
+    {
+      "start": 144.0,
+      "end": 146.0,
+      "text": " eller han har produceret, han har shippet mere kode,",
+      "speaker": "A"
+    },
+    {
+      "start": 146.0,
+      "end": 148.0,
+      "text": " end han har gjort de sidste år ti,",
+      "speaker": "A"
+    },
+    {
+      "start": 148.0,
+      "end": 150.0,
+      "text": " og det er manden, der har bygget Shopify,",
+      "speaker": "A"
+    },
+    {
+      "start": 150.0,
+      "end": 152.0,
+      "text": " han har shippet pænt meget kode de sidste år ti,",
+      "speaker": "A"
+    },
+    {
+      "start": 152.0,
+      "end": 154.0,
+      "text": " det skal der altså ikke være nogen tvivl om her.",
+      "speaker": "A"
+    },
+    {
+      "start": 154.0,
+      "end": 156.0,
+      "text": " En anden en, som jeg synes var ret vildt,",
+      "speaker": "A"
+    },
+    {
+      "start": 156.0,
+      "end": 158.0,
+      "text": " det er ham her, André Carpati,",
+      "speaker": "A"
+    },
+    {
+      "start": 158.0,
+      "end": 160.0,
+      "text": " som er en kæmpe figur inden for AI,",
+      "speaker": "A"
+    },
+    {
+      "start": 160.0,
+      "end": 162.0,
+      "text": " hvor han var på et podcast,",
+      "speaker": "A"
+    },
+    {
+      "start": 162.0,
+      "end": 164.0,
+      "text": " for et halvt år siden,",
+      "speaker": "A"
+    },
+    {
+      "start": 164.0,
+      "end": 166.0,
+      "text": " på det, der hedder The Marrakech Podcast,",
+      "speaker": "A"
+    },
+    {
+      "start": 166.0,
+      "end": 168.0,
+      "text": " som er sådan altså virkelig",
+      "speaker": "A"
+    },
+    {
+      "start": 168.0,
+      "end": 170.0,
+      "text": " high-end nørdepodcast,",
+      "speaker": "A"
+    },
+    {
+      "start": 170.0,
+      "end": 172.0,
+      "text": " deeply researched interviews,",
+      "speaker": "A"
+    },
+    {
+      "start": 172.0,
+      "end": 174.0,
+      "text": " nogle gange handler det om AI,",
+      "speaker": "A"
+    },
+    {
+      "start": 174.0,
+      "end": 176.0,
+      "text": " nogle gange handler det om anden verdensrig, jeg elsker det her podcast,",
+      "speaker": "A"
+    },
+    {
+      "start": 176.0,
+      "end": 178.0,
+      "text": " men han var på det her for et halvt år siden,",
+      "speaker": "A"
+    },
+    {
+      "start": 178.0,
+      "end": 180.0,
+      "text": " hvor han sagde, ja AI er fedt,",
+      "speaker": "A"
+    },
+    {
+      "start": 180.0,
+      "end": 182.0,
+      "text": " men der går lang tid før, det kan gøre alt, hvad en softwareingenør kan lave,",
+      "speaker": "A"
+    },
+    {
+      "start": 182.0,
+      "end": 184.0,
+      "text": " det er et halvt år siden,",
+      "speaker": "A"
+    },
+    {
+      "start": 184.0,
+      "end": 186.0,
+      "text": " nu går han ind og siger, jeg tror fejl,",
+      "speaker": "A"
+    },
+    {
+      "start": 186.0,
+      "end": 188.0,
+      "text": " der går ikke lang tid før, AI kan lave det, en softwareingenør kan lave,",
+      "speaker": "A"
+    },
+    {
+      "start": 188.0,
+      "end": 190.0,
+      "text": " det kan den nu,",
+      "speaker": "A"
+    },
+    {
+      "start": 190.0,
+      "end": 192.0,
+      "text": " og jeg føler mig mere bagud,",
+      "speaker": "A"
+    },
+    {
+      "start": 192.0,
+      "end": 194.0,
+      "text": " end jeg har følt mig i mange, mange år,",
+      "speaker": "A"
+    },
+    {
+      "start": 194.0,
+      "end": 196.0,
+      "text": " skriver han, og det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 196.0,
+      "end": 198.0,
+      "text": " det er en af de personer, som vidderligt,",
+      "speaker": "A"
+    },
+    {
+      "start": 198.0,
+      "end": 200.0,
+      "text": " altså det her, det er en af dem, der har været med til at opfinde AI,",
+      "speaker": "A"
+    },
+    {
+      "start": 200.0,
+      "end": 202.0,
+      "text": " som vi kender det i dag, der siger, at tingene går for stærkt,",
+      "speaker": "A"
+    },
+    {
+      "start": 202.0,
+      "end": 204.0,
+      "text": " og han kan ikke følge med,",
+      "speaker": "A"
+    },
+    {
+      "start": 204.0,
+      "end": 206.0,
+      "text": " hvad får det da til at føle, senior?",
+      "speaker": "A"
+    },
+    {
+      "start": 206.0,
+      "end": 208.0,
+      "text": " Ja, hvis han føler sig bagud, så føler jeg mig endnu mere bagud,",
+      "speaker": "B"
+    },
+    {
+      "start": 208.0,
+      "end": 210.0,
+      "text": " så er det ikke nogen tvivl om,",
+      "speaker": "B"
+    },
+    {
+      "start": 212.0,
+      "end": 214.0,
+      "text": " men det er jo for fedt,",
+      "speaker": "B"
+    },
+    {
+      "start": 214.0,
+      "end": 216.0,
+      "text": " altså det er jo for fedt,",
+      "speaker": "B"
+    },
+    {
+      "start": 216.0,
+      "end": 218.0,
+      "text": " det fortæller bare noget om, hvad der sker i øjeblikket,",
+      "speaker": "A"
+    },
+    {
+      "start": 218.0,
+      "end": 220.0,
+      "text": " og jeg tror, noget af det, der har gjort en stor forskel,",
+      "speaker": "A"
+    },
+    {
+      "start": 220.0,
+      "end": 222.0,
+      "text": " det er de specifikke værktøjer, der er kommet,",
+      "speaker": "A"
+    },
+    {
+      "start": 222.0,
+      "end": 224.0,
+      "text": " og vi kommer til at snakke om et par af dem i dag,",
+      "speaker": "A"
+    },
+    {
+      "start": 224.0,
+      "end": 226.0,
+      "text": " og jeg tror, der er tre, man skal nævne her fra starten af,",
+      "speaker": "A"
+    },
+    {
+      "start": 226.0,
+      "end": 228.0,
+      "text": " det ene, det er Lovable, som det her svenske startup,",
+      "speaker": "A"
+    },
+    {
+      "start": 228.0,
+      "end": 230.0,
+      "text": " det hurtigst voksende svenske startup nogensinde,",
+      "speaker": "A"
+    },
+    {
+      "start": 230.0,
+      "end": 232.0,
+      "text": " jeg tror faktisk, det er det hurtigst voksende europæiske startup nogensinde,",
+      "speaker": "A"
+    },
+    {
+      "start": 232.0,
+      "end": 234.0,
+      "text": " det kommer jeg til at se udgangspunkt i,",
+      "speaker": "A"
+    },
+    {
+      "start": 234.0,
+      "end": 236.0,
+      "text": " og vise mig, hvordan man virker med nogle ting, jeg har lavet i det,",
+      "speaker": "A"
+    },
+    {
+      "start": 236.0,
+      "end": 238.0,
+      "text": " man kan også bruge Gemini, Google Gemini,",
+      "speaker": "A"
+    },
+    {
+      "start": 238.0,
+      "end": 240.0,
+      "text": " som du kommer til at se udgangspunkt i, Tinjun,",
+      "speaker": "A"
+    },
+    {
+      "start": 240.0,
+      "end": 242.0,
+      "text": " og hvis man bare er lidt sejere end os,",
+      "speaker": "A"
+    },
+    {
+      "start": 242.0,
+      "end": 244.0,
+      "text": " så er jeg ret sikker på, at man vil bruge Cloud Code,",
+      "speaker": "A"
+    },
+    {
+      "start": 244.0,
+      "end": 246.0,
+      "text": " det har været meta på min Twitter",
+      "speaker": "A"
+    },
+    {
+      "start": 246.0,
+      "end": 248.0,
+      "text": " for den sidste uge eller to,",
+      "speaker": "A"
+    },
+    {
+      "start": 248.0,
+      "end": 250.0,
+      "text": " at Cloud Code, som kan implementeres",
+      "speaker": "A"
+    },
+    {
+      "start": 250.0,
+      "end": 252.0,
+      "text": " direkte i en terminal eller i andre apps,",
+      "speaker": "A"
+    },
+    {
+      "start": 252.0,
+      "end": 254.0,
+      "text": " er lige nu sådan en",
+      "speaker": "A"
+    },
+    {
+      "start": 254.0,
+      "end": 256.0,
+      "text": " final frontier inden for udvikling,",
+      "speaker": "A"
+    },
+    {
+      "start": 256.0,
+      "end": 258.0,
+      "text": " og i øvrigt også det, som Manus bruger,",
+      "speaker": "A"
+    },
+    {
+      "start": 258.0,
+      "end": 260.0,
+      "text": " hvis man bruger Manus, så er det bygget på",
+      "speaker": "A"
+    },
+    {
+      "start": 260.0,
+      "end": 262.0,
+      "text": " Opus 4.5, kombineret med nogle andre modeller,",
+      "speaker": "A"
+    },
+    {
+      "start": 262.0,
+      "end": 264.0,
+      "text": " så hvis man bruger Manus, så kender man allerede",
+      "speaker": "A"
+    },
+    {
+      "start": 264.0,
+      "end": 266.0,
+      "text": " til nogle af de ting, som Cloud Code kan,",
+      "speaker": "A"
+    },
+    {
+      "start": 266.0,
+      "end": 268.0,
+      "text": " som man snakker rigtig meget om.",
+      "speaker": "A"
+    },
+    {
+      "start": 268.0,
+      "end": 270.0,
+      "text": " Hvis man slet ikke ved, hvad man laver, som jo er kendetegnende",
+      "speaker": "A"
+    },
+    {
+      "start": 270.0,
+      "end": 272.0,
+      "text": " for os to, så er Cloud Code måske",
+      "speaker": "A"
+    },
+    {
+      "start": 272.0,
+      "end": 274.0,
+      "text": " et halvstort skridt til at starte med,",
+      "speaker": "A"
+    },
+    {
+      "start": 274.0,
+      "end": 276.0,
+      "text": " fordi det har stadig en vis teknisk indgangsbarriere,",
+      "speaker": "A"
+    },
+    {
+      "start": 276.0,
+      "end": 278.0,
+      "text": " hvor Gemini og Loveabroad vitterligt",
+      "speaker": "A"
+    },
+    {
+      "start": 278.0,
+      "end": 280.0,
+      "text": " ingen teknisk indgangsbarriere har.",
+      "speaker": "A"
+    },
+    {
+      "start": 280.0,
+      "end": 282.0,
+      "text": " Så i denne her episode har vi tænkt os",
+      "speaker": "A"
+    },
+    {
+      "start": 282.0,
+      "end": 284.0,
+      "text": " at gennemgå helt lavpraktisk,",
+      "speaker": "A"
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": " hvordan de rent faktisk har",
+      "speaker": "A"
+    },
+    {
+      "start": 286.0,
+      "end": 288.0,
+      "text": " vibecoded apps, og jeg kommer også ind på nogle",
+      "speaker": "A"
+    },
+    {
+      "start": 288.0,
+      "end": 290.0,
+      "text": " af de feller, der er i forhold til distribution og især",
+      "speaker": "A"
+    },
+    {
+      "start": 290.0,
+      "end": 292.0,
+      "text": " SEO, hvor man skal være meget opmærksom, fordi",
+      "speaker": "A"
+    },
+    {
+      "start": 292.0,
+      "end": 294.0,
+      "text": " det her er out of the box, ikke særlig",
+      "speaker": "A"
+    },
+    {
+      "start": 294.0,
+      "end": 296.0,
+      "text": " SEO-bindeligt, men du kan gøre nogle ting for at ændre på det,",
+      "speaker": "A"
+    },
+    {
+      "start": 296.0,
+      "end": 298.0,
+      "text": " så det bliver et gigantisk programmatisk SEO-projekt,",
+      "speaker": "A"
+    },
+    {
+      "start": 298.0,
+      "end": 300.0,
+      "text": " lige pludselig. Hvor synes du, vi skal starte hen?",
+      "speaker": "A"
+    },
+    {
+      "start": 300.0,
+      "end": 302.0,
+      "text": " Vi har jo nogle forskellige apps, vi gerne vil vise frem, og præcis",
+      "speaker": "A"
+    },
+    {
+      "start": 302.0,
+      "end": 304.0,
+      "text": " hvordan de rent faktisk er bygget. Men jeg kan prøve at tage et",
+      "speaker": "A"
+    },
+    {
+      "start": 304.0,
+      "end": 306.0,
+      "text": " eksempel fra Gemini. Lad os gøre det.",
+      "speaker": "B"
+    },
+    {
+      "start": 306.0,
+      "end": 308.0,
+      "text": " Så prøver jeg lige at se her, om ikke jeg kan få lov til",
+      "speaker": "B"
+    },
+    {
+      "start": 308.0,
+      "end": 310.0,
+      "text": " at stille min skærm, fordi kære",
+      "speaker": "B"
+    },
+    {
+      "start": 310.0,
+      "end": 312.0,
+      "text": " lytter, ser, det vi håber på",
+      "speaker": "B"
+    },
+    {
+      "start": 312.0,
+      "end": 314.0,
+      "text": " med episoden i dag, det er at kunne give nogle",
+      "speaker": "B"
+    },
+    {
+      "start": 314.0,
+      "end": 316.0,
+      "text": " perspektiver til, hvad det er,",
+      "speaker": "B"
+    },
+    {
+      "start": 316.0,
+      "end": 318.0,
+      "text": " man rent faktisk kan lave med",
+      "speaker": "B"
+    },
+    {
+      "start": 318.0,
+      "end": 320.0,
+      "text": " de her tools, fordi det er",
+      "speaker": "B"
+    },
+    {
+      "start": 320.0,
+      "end": 322.0,
+      "text": " nu engang sådan, så når man får",
+      "speaker": "B"
+    },
+    {
+      "start": 322.0,
+      "end": 324.0,
+      "text": " præsenteret alle muligheder i hele verden,",
+      "speaker": "B"
+    },
+    {
+      "start": 324.0,
+      "end": 326.0,
+      "text": " altså der er ikke noget limit, så er det typisk der,",
+      "speaker": "B"
+    },
+    {
+      "start": 326.0,
+      "end": 328.0,
+      "text": " at man bliver allermest begrænset, for så kan man ikke lige komme i tanke om,",
+      "speaker": "B"
+    },
+    {
+      "start": 328.0,
+      "end": 330.0,
+      "text": " hvad pokker er det egentlig, man bør lave.",
+      "speaker": "B"
+    },
+    {
+      "start": 330.0,
+      "end": 332.0,
+      "text": " Og den har vi begge to stød i",
+      "speaker": "B"
+    },
+    {
+      "start": 332.0,
+      "end": 334.0,
+      "text": " i flere omgange,",
+      "speaker": "B"
+    },
+    {
+      "start": 334.0,
+      "end": 336.0,
+      "text": " og jeg håber simpelthen, at når man lytter",
+      "speaker": "B"
+    },
+    {
+      "start": 336.0,
+      "end": 338.0,
+      "text": " eller ser med i dag, at man får åbnet",
+      "speaker": "B"
+    },
+    {
+      "start": 338.0,
+      "end": 340.0,
+      "text": " øjnene op for nogle nye perspektiver,",
+      "speaker": "B"
+    },
+    {
+      "start": 340.0,
+      "end": 342.0,
+      "text": " hvorved at de her tools,",
+      "speaker": "B"
+    },
+    {
+      "start": 342.0,
+      "end": 344.0,
+      "text": " de kan bruges. Det her, det er et stort",
+      "speaker": "B"
+    },
+    {
+      "start": 344.0,
+      "end": 346.0,
+      "text": " rådet Excel Google Sheets,",
+      "speaker": "B"
+    },
+    {
+      "start": 346.0,
+      "end": 348.0,
+      "text": " det man skal forestille sig her, det er",
+      "speaker": "B"
+    },
+    {
+      "start": 348.0,
+      "end": 350.0,
+      "text": " at man sidder inde i Google Ads",
+      "speaker": "B"
+    },
+    {
+      "start": 350.0,
+      "end": 352.0,
+      "text": " og gerne vil finde ud af, hvad er det egentlig for nogle",
+      "speaker": "B"
+    },
+    {
+      "start": 352.0,
+      "end": 354.0,
+      "text": " søgetermer, der fungerer",
+      "speaker": "B"
+    },
+    {
+      "start": 354.0,
+      "end": 356.0,
+      "text": " godt på ens konto.",
+      "speaker": "B"
+    },
+    {
+      "start": 356.0,
+      "end": 358.0,
+      "text": " Det der så er problemet, det er når man",
+      "speaker": "B"
+    },
+    {
+      "start": 358.0,
+      "end": 360.0,
+      "text": " hiver de her søgetermer ud og lægger",
+      "speaker": "B"
+    },
+    {
+      "start": 360.0,
+      "end": 362.0,
+      "text": " det over i et Excel-ark, det kommer i sådan en CSV-fil",
+      "speaker": "B"
+    },
+    {
+      "start": 362.0,
+      "end": 364.0,
+      "text": " og lægger det over i et Excel-ark, så er det for det første",
+      "speaker": "B"
+    },
+    {
+      "start": 364.0,
+      "end": 366.0,
+      "text": " en lille smule svært at",
+      "speaker": "B"
+    },
+    {
+      "start": 366.0,
+      "end": 368.0,
+      "text": " kode, altså at aflæse",
+      "speaker": "B"
+    },
+    {
+      "start": 368.0,
+      "end": 370.0,
+      "text": " ud fra Excel-arket, hvad det er for nogle",
+      "speaker": "B"
+    },
+    {
+      "start": 370.0,
+      "end": 372.0,
+      "text": " søgetermer, der fungerer godt. Og derudover så gør",
+      "speaker": "B"
+    },
+    {
+      "start": 372.0,
+      "end": 374.0,
+      "text": " Google Ads det lidt svært for os, fordi",
+      "speaker": "B"
+    },
+    {
+      "start": 374.0,
+      "end": 376.0,
+      "text": " at den deler faktisk performance",
+      "speaker": "B"
+    },
+    {
+      "start": 376.0,
+      "end": 378.0,
+      "text": " på søgeterms-niveau ud på",
+      "speaker": "B"
+    },
+    {
+      "start": 378.0,
+      "end": 380.0,
+      "text": " enten kampagne- eller annoncegruppe-niveau.",
+      "speaker": "B"
+    },
+    {
+      "start": 380.0,
+      "end": 382.0,
+      "text": " Så det man kan se her, hvis man følger med på skærmen,",
+      "speaker": "B"
+    },
+    {
+      "start": 382.0,
+      "end": 384.0,
+      "text": " det er, at jeg har testet, og det her det er",
+      "speaker": "B"
+    },
+    {
+      "start": 384.0,
+      "end": 386.0,
+      "text": " dummy-data med en søgeterm 10",
+      "speaker": "B"
+    },
+    {
+      "start": 386.0,
+      "end": 388.0,
+      "text": " 4, 7, 8 ind.",
+      "speaker": "B"
+    },
+    {
+      "start": 388.0,
+      "end": 390.0,
+      "text": " Så hvis jeg prøver at lave en søgning herinde i mit Google Sheets-ark,",
+      "speaker": "B"
+    },
+    {
+      "start": 390.0,
+      "end": 392.0,
+      "text": " så kan vi se, at den fremgår flere gange.",
+      "speaker": "B"
+    },
+    {
+      "start": 392.0,
+      "end": 394.0,
+      "text": " Og hvorfor gør den det? Jamen hvis vi tager udgangspunkt",
+      "speaker": "B"
+    },
+    {
+      "start": 394.0,
+      "end": 396.0,
+      "text": " i den her, så er det fordi",
+      "speaker": "B"
+    },
+    {
+      "start": 396.0,
+      "end": 398.0,
+      "text": " den ligger i kampagne 3 og annoncegruppe",
+      "speaker": "B"
+    },
+    {
+      "start": 398.0,
+      "end": 400.0,
+      "text": " 3, og hvis vi tager udgangspunkt i en af de andre,",
+      "speaker": "B"
+    },
+    {
+      "start": 400.0,
+      "end": 402.0,
+      "text": " så ligger den i kampagne 2 og annoncegruppe",
+      "speaker": "B"
+    },
+    {
+      "start": 402.0,
+      "end": 404.0,
+      "text": " 2. Så det vil sige, at det er samme søgeterm,",
+      "speaker": "B"
+    },
+    {
+      "start": 404.0,
+      "end": 406.0,
+      "text": " men den ligger forskellige steder.",
+      "speaker": "B"
+    },
+    {
+      "start": 406.0,
+      "end": 408.0,
+      "text": " Det vil sige, at datan bliver spredt ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 408.0,
+      "end": 410.0,
+      "text": " Så hvis jeg skal gå ind og finde ud af, om det her søgeterm",
+      "speaker": "B"
+    },
+    {
+      "start": 410.0,
+      "end": 412.0,
+      "text": " er præcis det, jeg for eksempel skulle gå efter",
+      "speaker": "B"
+    },
+    {
+      "start": 412.0,
+      "end": 414.0,
+      "text": " rent SEO-mæssigt, eller jeg burde bruge flere penge",
+      "speaker": "B"
+    },
+    {
+      "start": 414.0,
+      "end": 416.0,
+      "text": " på Google Ads, så skal jeg konsolidere",
+      "speaker": "B"
+    },
+    {
+      "start": 416.0,
+      "end": 418.0,
+      "text": " det på en eller anden måde. Og det har jeg",
+      "speaker": "B"
+    },
+    {
+      "start": 418.0,
+      "end": 420.0,
+      "text": " tidligere gjort igennem Google Sheets,",
+      "speaker": "B"
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "text": " men jeg tænkte, at der måske skulle være en lidt",
+      "speaker": "B"
+    },
+    {
+      "start": 422.0,
+      "end": 424.0,
+      "text": " smartere måde. Så",
+      "speaker": "B"
+    },
+    {
+      "start": 424.0,
+      "end": 426.0,
+      "text": " jeg hoppede ind i Gemini, og det",
+      "speaker": "B"
+    },
+    {
+      "start": 426.0,
+      "end": 428.0,
+      "text": " I kan se nu, det er et eksempel",
+      "speaker": "B"
+    },
+    {
+      "start": 428.0,
+      "end": 430.0,
+      "text": " på den prompt, jeg har givet. Og nej, det er",
+      "speaker": "B"
+    },
+    {
+      "start": 430.0,
+      "end": 432.0,
+      "text": " ikke verdens bedste prompt, det skal jeg være helt",
+      "speaker": "B"
+    },
+    {
+      "start": 432.0,
+      "end": 434.0,
+      "text": " ærlig at sige. Men det, jeg beder",
+      "speaker": "B"
+    },
+    {
+      "start": 434.0,
+      "end": 436.0,
+      "text": " Gemini om, det er at lave en",
+      "speaker": "B"
+    },
+    {
+      "start": 436.0,
+      "end": 438.0,
+      "text": " prompt til mig, som jeg kan bruge",
+      "speaker": "B"
+    },
+    {
+      "start": 438.0,
+      "end": 440.0,
+      "text": " i AI Studio, som",
+      "speaker": "B"
+    },
+    {
+      "start": 440.0,
+      "end": 442.0,
+      "text": " jo er Googles, hvad skal man",
+      "speaker": "B"
+    },
+    {
+      "start": 442.0,
+      "end": 444.0,
+      "text": " sige... Hvad kaldte vi det sidste",
+      "speaker": "B"
+    },
+    {
+      "start": 444.0,
+      "end": 446.0,
+      "text": " halvstand? Jeg tror, at du havde ret godt",
+      "speaker": "B"
+    },
+    {
+      "start": 446.0,
+      "end": 448.0,
+      "text": " ord for det. Sådan en legeplads.",
+      "speaker": "B"
+    },
+    {
+      "start": 448.0,
+      "end": 450.0,
+      "text": " Deres Canvas AI Studio til at lave",
+      "speaker": "B"
+    },
+    {
+      "start": 450.0,
+      "end": 452.0,
+      "text": " sig til at vibecode. Ja,",
+      "speaker": "A"
+    },
+    {
+      "start": 452.0,
+      "end": 454.0,
+      "text": " det er det. AI Studio, skal man forstå, det er bare",
+      "speaker": "A"
+    },
+    {
+      "start": 454.0,
+      "end": 456.0,
+      "text": " et sted, hvor du kan gå ind og prompte, og så har",
+      "speaker": "A"
+    },
+    {
+      "start": 456.0,
+      "end": 458.0,
+      "text": " den selv den nødvendige funktionalitet til at lave",
+      "speaker": "A"
+    },
+    {
+      "start": 458.0,
+      "end": 460.0,
+      "text": " funktionelle apps. Det vil sige, at du skal ikke",
+      "speaker": "A"
+    },
+    {
+      "start": 460.0,
+      "end": 462.0,
+      "text": " selv gå ind og tænke over, hvor jeg skal",
+      "speaker": "A"
+    },
+    {
+      "start": 462.0,
+      "end": 464.0,
+      "text": " satte en server op, og hvordan laver jeg en",
+      "speaker": "A"
+    },
+    {
+      "start": 464.0,
+      "end": 466.0,
+      "text": " backend, og hvordan forbinder jeg en til frontend, osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 466.0,
+      "end": 468.0,
+      "text": " Fordi Gemini er jo først og fremmest en",
+      "speaker": "A"
+    },
+    {
+      "start": 468.0,
+      "end": 470.0,
+      "text": " large language model, der bare kan give dig tekst.",
+      "speaker": "A"
+    },
+    {
+      "start": 470.0,
+      "end": 472.0,
+      "text": " Så du kan ikke skrive til Gemini, bygge en app, og så",
+      "speaker": "A"
+    },
+    {
+      "start": 472.0,
+      "end": 474.0,
+      "text": " bygger den app'en til dig i Gemini.",
+      "speaker": "A"
+    },
+    {
+      "start": 474.0,
+      "end": 476.0,
+      "text": " Men du kan bruge Gemini til at lave det prompt,",
+      "speaker": "A"
+    },
+    {
+      "start": 476.0,
+      "end": 478.0,
+      "text": " som du så lægger ind i din app",
+      "speaker": "A"
+    },
+    {
+      "start": 478.0,
+      "end": 480.0,
+      "text": " builder, hvor Google AI Studio",
+      "speaker": "A"
+    },
+    {
+      "start": 480.0,
+      "end": 482.0,
+      "text": " er en app builder. Jeg tror,",
+      "speaker": "A"
+    },
+    {
+      "start": 482.0,
+      "end": 484.0,
+      "text": " teknisk set, så er det det, man kalder et IDE,",
+      "speaker": "A"
+    },
+    {
+      "start": 484.0,
+      "end": 486.0,
+      "text": " som står for Integrated Developer",
+      "speaker": "A"
+    },
+    {
+      "start": 486.0,
+      "end": 488.0,
+      "text": " Environment, hvor du har alt, og i virkeligheden",
+      "speaker": "A"
+    },
+    {
+      "start": 488.0,
+      "end": 490.0,
+      "text": " bare kan lave dine apps der, inklusiv hosting",
+      "speaker": "A"
+    },
+    {
+      "start": 490.0,
+      "end": 492.0,
+      "text": " og forbindelse og alle mulige andre ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 492.0,
+      "end": 494.0,
+      "text": " Ja, allerede der er jeg stød af. Nå, men det virker i hvert fald.",
+      "speaker": "B"
+    },
+    {
+      "start": 494.0,
+      "end": 496.0,
+      "text": " Så det, man skal se her,",
+      "speaker": "B"
+    },
+    {
+      "start": 496.0,
+      "end": 498.0,
+      "text": " og det her, det er altså et lille tip,",
+      "speaker": "B"
+    },
+    {
+      "start": 498.0,
+      "end": 500.0,
+      "text": " som vi også har snakket om tidligere i MarketingPod,",
+      "speaker": "B"
+    },
+    {
+      "start": 500.0,
+      "end": 502.0,
+      "text": " det er, at jeg beder LLM'en om at",
+      "speaker": "B"
+    },
+    {
+      "start": 502.0,
+      "end": 504.0,
+      "text": " prompte det her for mig, for det kan den altså gøre",
+      "speaker": "B"
+    },
+    {
+      "start": 504.0,
+      "end": 506.0,
+      "text": " meget bedre end mig selv. Så for at tage udgangspunkt",
+      "speaker": "B"
+    },
+    {
+      "start": 506.0,
+      "end": 508.0,
+      "text": " i det prompt, jeg har givet Gemini her, det er,",
+      "speaker": "B"
+    },
+    {
+      "start": 508.0,
+      "end": 510.0,
+      "text": " du skal hjælpe mig med at lave beskrivelsen til en webapp,",
+      "speaker": "B"
+    },
+    {
+      "start": 510.0,
+      "end": 512.0,
+      "text": " der skal laves via Gemini Canva i",
+      "speaker": "B"
+    },
+    {
+      "start": 512.0,
+      "end": 514.0,
+      "text": " AI Studio. Meningen er, at den skal kunne tage",
+      "speaker": "B"
+    },
+    {
+      "start": 514.0,
+      "end": 516.0,
+      "text": " en søgtermsrapport fra Google Ads, som",
+      "speaker": "B"
+    },
+    {
+      "start": 516.0,
+      "end": 518.0,
+      "text": " jeg som bruger",
+      "speaker": "B"
+    },
+    {
+      "start": 518.0,
+      "end": 520.0,
+      "text": " uploader, og så skal den",
+      "speaker": "B"
+    },
+    {
+      "start": 520.0,
+      "end": 522.0,
+      "text": " konsolidere den data, der er på søgtermsniveau.",
+      "speaker": "B"
+    },
+    {
+      "start": 522.0,
+      "end": 524.0,
+      "text": " Prompten er lidt længere.",
+      "speaker": "B"
+    },
+    {
+      "start": 524.0,
+      "end": 526.0,
+      "text": " Hvis man har lyst til at læse det hele, så kan man se med",
+      "speaker": "B"
+    },
+    {
+      "start": 526.0,
+      "end": 528.0,
+      "text": " på enten Spotify eller YouTube,",
+      "speaker": "B"
+    },
+    {
+      "start": 528.0,
+      "end": 530.0,
+      "text": " og så uploader jeg et eksempel på den her rapport her,",
+      "speaker": "B"
+    },
+    {
+      "start": 530.0,
+      "end": 532.0,
+      "text": " så går den ellers i gang og giver mig",
+      "speaker": "B"
+    },
+    {
+      "start": 532.0,
+      "end": 534.0,
+      "text": " en lang, lang, lang prompt.",
+      "speaker": "B"
+    },
+    {
+      "start": 534.0,
+      "end": 536.0,
+      "text": " Den kopierer jeg, og sætter så ind",
+      "speaker": "B"
+    },
+    {
+      "start": 536.0,
+      "end": 538.0,
+      "text": " over i AI Studio.",
+      "speaker": "B"
+    },
+    {
+      "start": 538.0,
+      "end": 540.0,
+      "text": " Og nu skal I se her, for nu kom der faktisk",
+      "speaker": "B"
+    },
+    {
+      "start": 540.0,
+      "end": 542.0,
+      "text": " et resultat frem herovre med, hvordan",
+      "speaker": "B"
+    },
+    {
+      "start": 542.0,
+      "end": 544.0,
+      "text": " den her app ser ud. Så hvis jeg",
+      "speaker": "B"
+    },
+    {
+      "start": 544.0,
+      "end": 546.0,
+      "text": " tager fullscreen her og viser et eksempel,",
+      "speaker": "B"
+    },
+    {
+      "start": 546.0,
+      "end": 548.0,
+      "text": " så uploader jeg nu den her",
+      "speaker": "B"
+    },
+    {
+      "start": 548.0,
+      "end": 550.0,
+      "text": " dummy data, jeg",
+      "speaker": "B"
+    },
+    {
+      "start": 550.0,
+      "end": 552.0,
+      "text": " har vist før inden i Google Sheets,",
+      "speaker": "B"
+    },
+    {
+      "start": 552.0,
+      "end": 554.0,
+      "text": " så processerer den den, og bum,",
+      "speaker": "B"
+    },
+    {
+      "start": 554.0,
+      "end": 556.0,
+      "text": " så kom det faktisk ud",
+      "speaker": "B"
+    },
+    {
+      "start": 556.0,
+      "end": 558.0,
+      "text": " konsolideret. Så det man kan sige,",
+      "speaker": "B"
+    },
+    {
+      "start": 558.0,
+      "end": 560.0,
+      "text": " det er søgterm 1047,",
+      "speaker": "B"
+    },
+    {
+      "start": 560.0,
+      "end": 562.0,
+      "text": " som bare et eksempel på et søgterm,",
+      "speaker": "B"
+    },
+    {
+      "start": 562.0,
+      "end": 564.0,
+      "text": " fremgår i de her kampagner,",
+      "speaker": "B"
+    },
+    {
+      "start": 564.0,
+      "end": 566.0,
+      "text": " de her match types,",
+      "speaker": "B"
+    },
+    {
+      "start": 566.0,
+      "end": 568.0,
+      "text": " og al den data, der ligger herude,",
+      "speaker": "B"
+    },
+    {
+      "start": 568.0,
+      "end": 570.0,
+      "text": " den er nu konsolideret.",
+      "speaker": "B"
+    },
+    {
+      "start": 570.0,
+      "end": 572.0,
+      "text": " Det vil sige, jeg kan gå ind og sige, hvor er det egentlig, vi har fået",
+      "speaker": "B"
+    },
+    {
+      "start": 572.0,
+      "end": 574.0,
+      "text": " den højeste konverteringsværdi hen?",
+      "speaker": "B"
+    },
+    {
+      "start": 574.0,
+      "end": 576.0,
+      "text": " Og jeg kan samtidig se, ligger den i flere kampagner?",
+      "speaker": "B"
+    },
+    {
+      "start": 576.0,
+      "end": 578.0,
+      "text": " Det er måske ikke helt meningen.",
+      "speaker": "B"
+    },
+    {
+      "start": 578.0,
+      "end": 580.0,
+      "text": " Hvilke match types er det?",
+      "speaker": "B"
+    },
+    {
+      "start": 580.0,
+      "end": 582.0,
+      "text": " Og jeg kan sågar gå ind, og det er noget, jeg har promptet den tilbagefter,",
+      "speaker": "B"
+    },
+    {
+      "start": 582.0,
+      "end": 584.0,
+      "text": " og sagt, jeg kunne godt tænke mig",
+      "speaker": "B"
+    },
+    {
+      "start": 584.0,
+      "end": 586.0,
+      "text": " en søgefunktion her, så jeg kan sige",
+      "speaker": "B"
+    },
+    {
+      "start": 586.0,
+      "end": 588.0,
+      "text": " indeholder ikke, hvis man gerne vil se alt,",
+      "speaker": "B"
+    },
+    {
+      "start": 588.0,
+      "end": 590.0,
+      "text": " der ikke har med brand at gøre.",
+      "speaker": "B"
+    },
+    {
+      "start": 590.0,
+      "end": 592.0,
+      "text": " Jeg bruger det hver dag,",
+      "speaker": "B"
+    },
+    {
+      "start": 592.0,
+      "end": 594.0,
+      "text": " og jeg bruger det både i forbindelse med",
+      "speaker": "B"
+    },
+    {
+      "start": 594.0,
+      "end": 596.0,
+      "text": " arbejde på eksisterende kunder,",
+      "speaker": "B"
+    },
+    {
+      "start": 596.0,
+      "end": 598.0,
+      "text": " og præsenterer",
+      "speaker": "B"
+    },
+    {
+      "start": 598.0,
+      "end": 600.0,
+      "text": " oplæg for nye potentielle kunder.",
+      "speaker": "B"
+    },
+    {
+      "start": 600.0,
+      "end": 602.0,
+      "text": " Og det har taget 10-15 minutter,",
+      "speaker": "B"
+    },
+    {
+      "start": 602.0,
+      "end": 604.0,
+      "text": " fordi jeg vidste, hvad jeg gerne ville have.",
+      "speaker": "B"
+    },
+    {
+      "start": 604.0,
+      "end": 606.0,
+      "text": " Jeg gør det til dagligt, men det kunne da godt gøres lidt smartere.",
+      "speaker": "B"
+    },
+    {
+      "start": 606.0,
+      "end": 608.0,
+      "text": " Og det her, det er",
+      "speaker": "B"
+    },
+    {
+      "start": 608.0,
+      "end": 610.0,
+      "text": " et af mine tre eksempler",
+      "speaker": "B"
+    },
+    {
+      "start": 610.0,
+      "end": 612.0,
+      "text": " for i dag.",
+      "speaker": "B"
+    },
+    {
+      "start": 612.0,
+      "end": 614.0,
+      "text": " Og jeg synes, det er super fedt, fordi det her, det er jo",
+      "speaker": "A"
+    },
+    {
+      "start": 614.0,
+      "end": 616.0,
+      "text": " et værktøj, som du godt kunne have bygget tidligere",
+      "speaker": "A"
+    },
+    {
+      "start": 616.0,
+      "end": 618.0,
+      "text": " også, men hvis du skulle have bygget",
+      "speaker": "A"
+    },
+    {
+      "start": 618.0,
+      "end": 620.0,
+      "text": " det her selv, ej, du ville ikke kunne have gjort det,",
+      "speaker": "A"
+    },
+    {
+      "start": 620.0,
+      "end": 622.0,
+      "text": " og jeg ville ikke kunne have gjort det.",
+      "speaker": "A"
+    },
+    {
+      "start": 622.0,
+      "end": 624.0,
+      "text": " Vi kunne godt have betalt en udvikler for at gøre det, men så havde det jo været en ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 624.0,
+      "end": 626.0,
+      "text": " der havde kostet 10-15-20.000, det er pludselig,",
+      "speaker": "A"
+    },
+    {
+      "start": 626.0,
+      "end": 628.0,
+      "text": " og taget den lidt tid, og så gør du det ikke bare.",
+      "speaker": "A"
+    },
+    {
+      "start": 628.0,
+      "end": 630.0,
+      "text": " Hvor her, du har lavet et prompt i Gemini,",
+      "speaker": "A"
+    },
+    {
+      "start": 630.0,
+      "end": 632.0,
+      "text": " som er gratis, eller koster meget lidt,",
+      "speaker": "A"
+    },
+    {
+      "start": 632.0,
+      "end": 634.0,
+      "text": " og du har lagt det ind i Google AI Studio, det tror jeg ikke, du betaler for.",
+      "speaker": "A"
+    },
+    {
+      "start": 634.0,
+      "end": 636.0,
+      "text": " Gør du? Ikke i din",
+      "speaker": "A"
+    },
+    {
+      "start": 636.0,
+      "end": 638.0,
+      "text": " nuværende brug i hvert fald. Nej, nej, nej, det gør jeg ikke.",
+      "speaker": "A"
+    },
+    {
+      "start": 638.0,
+      "end": 640.0,
+      "text": " Det har også været gratis. Og så har du lavet en app, der i hvert fald løser",
+      "speaker": "A"
+    },
+    {
+      "start": 640.0,
+      "end": 642.0,
+      "text": " dit eget problem. Og jeg synes, det her, det er et fantastisk",
+      "speaker": "A"
+    },
+    {
+      "start": 642.0,
+      "end": 644.0,
+      "text": " eksempel på den her demokratisering, jeg snakkede om lige før.",
+      "speaker": "A"
+    },
+    {
+      "start": 644.0,
+      "end": 646.0,
+      "text": " Hvor det, at du har",
+      "speaker": "A"
+    },
+    {
+      "start": 646.0,
+      "end": 648.0,
+      "text": " en idé, er faktisk det",
+      "speaker": "A"
+    },
+    {
+      "start": 648.0,
+      "end": 650.0,
+      "text": " eneste, der skal til. Du er ikke længere",
+      "speaker": "A"
+    },
+    {
+      "start": 650.0,
+      "end": 652.0,
+      "text": " begrænset af implementering eller kunskaber",
+      "speaker": "A"
+    },
+    {
+      "start": 652.0,
+      "end": 654.0,
+      "text": " i forhold til at lave",
+      "speaker": "A"
+    },
+    {
+      "start": 654.0,
+      "end": 656.0,
+      "text": " den her app. Og så hvis du skal lave et eller andet helt vildt stort jord,",
+      "speaker": "A"
+    },
+    {
+      "start": 656.0,
+      "end": 658.0,
+      "text": " selvfølgelig, på et eller andet tidspunkt, så er det",
+      "speaker": "A"
+    },
+    {
+      "start": 658.0,
+      "end": 660.0,
+      "text": " heller ikke en hindring. Men hvis du har en idé om noget,",
+      "speaker": "A"
+    },
+    {
+      "start": 660.0,
+      "end": 662.0,
+      "text": " du kan lave, så kan du rent faktisk beskrive det i et naturligt sprog",
+      "speaker": "A"
+    },
+    {
+      "start": 662.0,
+      "end": 664.0,
+      "text": " og få lavet et værktøj, som løser det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 664.0,
+      "end": 666.0,
+      "text": " Lad mig prøve at vise et eksempel på det samme.",
+      "speaker": "A"
+    },
+    {
+      "start": 666.0,
+      "end": 668.0,
+      "text": " Fordi jeg har lavet et andet værktøj,",
+      "speaker": "A"
+    },
+    {
+      "start": 668.0,
+      "end": 670.0,
+      "text": " som faktisk også løser et af mine egne",
+      "speaker": "A"
+    },
+    {
+      "start": 670.0,
+      "end": 672.0,
+      "text": " problemer. Og Christian, du ved,",
+      "speaker": "A"
+    },
+    {
+      "start": 672.0,
+      "end": 674.0,
+      "text": " at jeg elsker tracking. Jeg elsker at arbejde",
+      "speaker": "A"
+    },
+    {
+      "start": 674.0,
+      "end": 676.0,
+      "text": " med tracking og server-side tracking, og det er skide sjovt.",
+      "speaker": "A"
+    },
+    {
+      "start": 676.0,
+      "end": 678.0,
+      "text": " Jeg vil også rigtig gerne sælge",
+      "speaker": "A"
+    },
+    {
+      "start": 678.0,
+      "end": 680.0,
+      "text": " tracking i Obsidian Digital, så vi hjælper mange",
+      "speaker": "A"
+    },
+    {
+      "start": 680.0,
+      "end": 682.0,
+      "text": " virksomheder med at implementere server-side tracking",
+      "speaker": "A"
+    },
+    {
+      "start": 682.0,
+      "end": 684.0,
+      "text": " og enhance conversions og alle mulige ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 684.0,
+      "end": 686.0,
+      "text": " Det koster tit 10.000 eller 15.000,",
+      "speaker": "A"
+    },
+    {
+      "start": 686.0,
+      "end": 688.0,
+      "text": " og så får de et permanent forbedret afkast på alle deres",
+      "speaker": "A"
+    },
+    {
+      "start": 688.0,
+      "end": 690.0,
+      "text": " Google Ads og Meta Ads. Det er et supergodt produkt, og vi har",
+      "speaker": "A"
+    },
+    {
+      "start": 690.0,
+      "end": 692.0,
+      "text": " nogle dygtige kollegaer til at lave det.",
+      "speaker": "A"
+    },
+    {
+      "start": 692.0,
+      "end": 694.0,
+      "text": " En af de måder, hvorpå vi historisk har solgt det her produkt,",
+      "speaker": "A"
+    },
+    {
+      "start": 694.0,
+      "end": 696.0,
+      "text": " det er, at vi har lavet gratis",
+      "speaker": "A"
+    },
+    {
+      "start": 696.0,
+      "end": 698.0,
+      "text": " tracking audits. Så det har fungeret",
+      "speaker": "A"
+    },
+    {
+      "start": 698.0,
+      "end": 700.0,
+      "text": " på den måde, at man har",
+      "speaker": "A"
+    },
+    {
+      "start": 700.0,
+      "end": 702.0,
+      "text": " måske set en Facebook-annonce fra mig,",
+      "speaker": "A"
+    },
+    {
+      "start": 702.0,
+      "end": 704.0,
+      "text": " eller et Google Ads-annonce,",
+      "speaker": "A"
+    },
+    {
+      "start": 704.0,
+      "end": 706.0,
+      "text": " eller et LinkedIn-opslag, hvor man er rådt ind på",
+      "speaker": "A"
+    },
+    {
+      "start": 706.0,
+      "end": 708.0,
+      "text": " en landingside, hvor man så kan",
+      "speaker": "A"
+    },
+    {
+      "start": 708.0,
+      "end": 710.0,
+      "text": " be om et tracking audit. Og på den her",
+      "speaker": "A"
+    },
+    {
+      "start": 710.0,
+      "end": 712.0,
+      "text": " landingside, der har man så udfyldt en formular.",
+      "speaker": "A"
+    },
+    {
+      "start": 712.0,
+      "end": 714.0,
+      "text": " Så har vi, når man har udfyldt formularen,",
+      "speaker": "A"
+    },
+    {
+      "start": 714.0,
+      "end": 716.0,
+      "text": " sendt en mail, hvor man kan",
+      "speaker": "A"
+    },
+    {
+      "start": 716.0,
+      "end": 718.0,
+      "text": " få nogle instruktioner",
+      "speaker": "A"
+    },
+    {
+      "start": 718.0,
+      "end": 720.0,
+      "text": " til, hvordan man giver os adgang. Så der er noget med,",
+      "speaker": "A"
+    },
+    {
+      "start": 720.0,
+      "end": 722.0,
+      "text": " hvordan du giver adgang på Google Ads, og hvordan du",
+      "speaker": "A"
+    },
+    {
+      "start": 722.0,
+      "end": 724.0,
+      "text": " giver adgang på Meta Ads, osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 724.0,
+      "end": 726.0,
+      "text": " Jeg vil faktisk lige vise et eksempel. Her er en landingside,",
+      "speaker": "A"
+    },
+    {
+      "start": 726.0,
+      "end": 728.0,
+      "text": " som er lavet i et værktøj, der hedder Landingi,",
+      "speaker": "A"
+    },
+    {
+      "start": 728.0,
+      "end": 730.0,
+      "text": " som vi har... Hov, det var faktisk takkesiden.",
+      "speaker": "A"
+    },
+    {
+      "start": 730.0,
+      "end": 732.0,
+      "text": " Men...",
+      "speaker": "A"
+    },
+    {
+      "start": 732.0,
+      "end": 734.0,
+      "text": " Her har vi",
+      "speaker": "A"
+    },
+    {
+      "start": 734.0,
+      "end": 736.0,
+      "text": " en landingside, som vi har",
+      "speaker": "A"
+    },
+    {
+      "start": 736.0,
+      "end": 738.0,
+      "text": " kørt tidligere, hvor der bare står noget",
+      "speaker": "A"
+    },
+    {
+      "start": 738.0,
+      "end": 740.0,
+      "text": " om, hvad vil bedre tracking hjælpe med, osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 740.0,
+      "end": 742.0,
+      "text": " Og så er der en formular, du kan udfylde,",
+      "speaker": "A"
+    },
+    {
+      "start": 742.0,
+      "end": 744.0,
+      "text": " og den er lige stylet forkert, fordi det er en gammel side,",
+      "speaker": "A"
+    },
+    {
+      "start": 744.0,
+      "end": 746.0,
+      "text": " vi ikke har brugt det et stykke tid. Men så udfyldte man",
+      "speaker": "A"
+    },
+    {
+      "start": 746.0,
+      "end": 748.0,
+      "text": " formularen, fik en mail, gav os adgang.",
+      "speaker": "A"
+    },
+    {
+      "start": 748.0,
+      "end": 750.0,
+      "text": " Vi gik så ind på Google Ads,",
+      "speaker": "A"
+    },
+    {
+      "start": 750.0,
+      "end": 752.0,
+      "text": " og Facebook Ads, og LinkedIn Ads,",
+      "speaker": "A"
+    },
+    {
+      "start": 752.0,
+      "end": 754.0,
+      "text": " osv. Tjekkede opsætningen,",
+      "speaker": "A"
+    },
+    {
+      "start": 754.0,
+      "end": 756.0,
+      "text": " så lavede vi en rapport.",
+      "speaker": "A"
+    },
+    {
+      "start": 756.0,
+      "end": 758.0,
+      "text": " En pdf-rapport. Vi gik ind og klikkede",
+      "speaker": "A"
+    },
+    {
+      "start": 758.0,
+      "end": 760.0,
+      "text": " nogle ting af et spreadsheet, og afhængig af, om vi klikkede",
+      "speaker": "A"
+    },
+    {
+      "start": 760.0,
+      "end": 762.0,
+      "text": " ja eller nej til dem, så genererede vi",
+      "speaker": "A"
+    },
+    {
+      "start": 762.0,
+      "end": 764.0,
+      "text": " et tracking audit i en pdf-rapport, og så satte vi et",
+      "speaker": "A"
+    },
+    {
+      "start": 764.0,
+      "end": 766.0,
+      "text": " møde op med vores kunde for at gennemgå det.",
+      "speaker": "A"
+    },
+    {
+      "start": 766.0,
+      "end": 768.0,
+      "text": " Den her samlede proces fra en person",
+      "speaker": "A"
+    },
+    {
+      "start": 768.0,
+      "end": 770.0,
+      "text": " ønsker et audit, til vi sidder og",
+      "speaker": "A"
+    },
+    {
+      "start": 770.0,
+      "end": 772.0,
+      "text": " gennemgår auditet med dem,",
+      "speaker": "A"
+    },
+    {
+      "start": 772.0,
+      "end": 774.0,
+      "text": " tog nok i gennemsnit syv dage.",
+      "speaker": "A"
+    },
+    {
+      "start": 774.0,
+      "end": 776.0,
+      "text": " Og det tog også måske en eller to",
+      "speaker": "A"
+    },
+    {
+      "start": 776.0,
+      "end": 778.0,
+      "text": " timer i samlede tid med at skrive mails,",
+      "speaker": "A"
+    },
+    {
+      "start": 778.0,
+      "end": 780.0,
+      "text": " få adgangen, komme ind, lave rapporten,",
+      "speaker": "A"
+    },
+    {
+      "start": 780.0,
+      "end": 782.0,
+      "text": " og så overlevere det. Lad os sige, der har ligget",
+      "speaker": "A"
+    },
+    {
+      "start": 782.0,
+      "end": 784.0,
+      "text": " et par timer i det for os. Det gode er,",
+      "speaker": "A"
+    },
+    {
+      "start": 784.0,
+      "end": 786.0,
+      "text": " at der også er en del af dem, der er blevet sekunderefterfølgende,",
+      "speaker": "A"
+    },
+    {
+      "start": 786.0,
+      "end": 788.0,
+      "text": " så det har været godt, men det har også været tungt.",
+      "speaker": "A"
+    },
+    {
+      "start": 788.0,
+      "end": 790.0,
+      "text": " Og en stor udfordring er, at over halvdelen",
+      "speaker": "A"
+    },
+    {
+      "start": 790.0,
+      "end": 792.0,
+      "text": " af dem, der bad om et tracking audit,",
+      "speaker": "A"
+    },
+    {
+      "start": 792.0,
+      "end": 794.0,
+      "text": " de fik det aldrig, fordi de ikke kunne finde ud af at give os adgang,",
+      "speaker": "A"
+    },
+    {
+      "start": 794.0,
+      "end": 796.0,
+      "text": " eller de mistede motivation, eller det var lige lidt sværere",
+      "speaker": "A"
+    },
+    {
+      "start": 796.0,
+      "end": 798.0,
+      "text": " end de havde håbet, det ville være.",
+      "speaker": "A"
+    },
+    {
+      "start": 798.0,
+      "end": 800.0,
+      "text": " Det var ikke en fed proces. Så det virkede,",
+      "speaker": "A"
+    },
+    {
+      "start": 800.0,
+      "end": 802.0,
+      "text": " men det var hård at skalere, og",
+      "speaker": "A"
+    },
+    {
+      "start": 802.0,
+      "end": 804.0,
+      "text": " mine kollegaer i trackingafdelingen",
+      "speaker": "A"
+    },
+    {
+      "start": 804.0,
+      "end": 806.0,
+      "text": " har ikke tænkt superskønne",
+      "speaker": "A"
+    },
+    {
+      "start": 806.0,
+      "end": 808.0,
+      "text": " tanker om mig, når jeg har bruteforceret",
+      "speaker": "A"
+    },
+    {
+      "start": 808.0,
+      "end": 810.0,
+      "text": " dem og skaffet en masse audit leads, fordi de var",
+      "speaker": "A"
+    },
+    {
+      "start": 810.0,
+      "end": 812.0,
+      "text": " sgu lidt sværere at håndtere for os.",
+      "speaker": "A"
+    },
+    {
+      "start": 812.0,
+      "end": 814.0,
+      "text": " Jeg tænkte, at det her må jeg kunne lave et værktøj til",
+      "speaker": "A"
+    },
+    {
+      "start": 814.0,
+      "end": 816.0,
+      "text": " i stedet for.",
+      "speaker": "A"
+    },
+    {
+      "start": 816.0,
+      "end": 818.0,
+      "text": " Det første jeg gjorde for at lave det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 818.0,
+      "end": 820.0,
+      "text": " det var ligesom dig at gå ind i Gemini, og man kunne",
+      "speaker": "A"
+    },
+    {
+      "start": 820.0,
+      "end": 822.0,
+      "text": " også bruge ChatGemT eller noget andet, det er ikke så vigtigt.",
+      "speaker": "A"
+    },
+    {
+      "start": 822.0,
+      "end": 824.0,
+      "text": " Her der lavede jeg et prompt,",
+      "speaker": "A"
+    },
+    {
+      "start": 824.0,
+      "end": 826.0,
+      "text": " hvor jeg sagde, at jeg vil gerne lave et tool, hvor jeg kan indtaste",
+      "speaker": "A"
+    },
+    {
+      "start": 826.0,
+      "end": 828.0,
+      "text": " en URL på et website og tjekke op på nogle ting",
+      "speaker": "A"
+    },
+    {
+      "start": 828.0,
+      "end": 830.0,
+      "text": " inden for tracking og performance marketing,",
+      "speaker": "A"
+    },
+    {
+      "start": 830.0,
+      "end": 832.0,
+      "text": " for eksempel. Og så er jeg faktisk kommet til",
+      "speaker": "A"
+    },
+    {
+      "start": 832.0,
+      "end": 834.0,
+      "text": " at trykke enter.",
+      "speaker": "A"
+    },
+    {
+      "start": 834.0,
+      "end": 836.0,
+      "text": " Jeg ville have lavet et line break, og så trykkede jeg enter.",
+      "speaker": "A"
+    },
+    {
+      "start": 836.0,
+      "end": 838.0,
+      "text": " Klassisk fejl.",
+      "speaker": "A"
+    },
+    {
+      "start": 838.0,
+      "end": 840.0,
+      "text": " Så skrev jeg Gemini en masse ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 840.0,
+      "end": 842.0,
+      "text": " for at have uddybet mit prompt efterfølgende.",
+      "speaker": "A"
+    },
+    {
+      "start": 842.0,
+      "end": 844.0,
+      "text": " Så har jeg sagt, at jeg vil gerne have, at den kan tjekke",
+      "speaker": "A"
+    },
+    {
+      "start": 844.0,
+      "end": 846.0,
+      "text": " Google Tag Manager, Facebook Pixel,",
+      "speaker": "A"
+    },
+    {
+      "start": 846.0,
+      "end": 848.0,
+      "text": " LinkedIn Pixel, Google Ads Conversion,",
+      "speaker": "A"
+    },
+    {
+      "start": 848.0,
+      "end": 850.0,
+      "text": " er der server side tracking setup,",
+      "speaker": "A"
+    },
+    {
+      "start": 850.0,
+      "end": 852.0,
+      "text": " alle mulige andre ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 852.0,
+      "end": 854.0,
+      "text": " Og så har jeg skrevet lidt frem og tilbage,",
+      "speaker": "A"
+    },
+    {
+      "start": 854.0,
+      "end": 856.0,
+      "text": " og til sidst bedt, lav et grundigt prompt til at bygge",
+      "speaker": "A"
+    },
+    {
+      "start": 856.0,
+      "end": 858.0,
+      "text": " denne side. Så har jeg fået det her",
+      "speaker": "A"
+    },
+    {
+      "start": 858.0,
+      "end": 860.0,
+      "text": " prompt fra Gemini.",
+      "speaker": "A"
+    },
+    {
+      "start": 860.0,
+      "end": 862.0,
+      "text": " Så igen, lidt ligesom med dig, jeg har faktisk",
+      "speaker": "A"
+    },
+    {
+      "start": 862.0,
+      "end": 864.0,
+      "text": " lagt det ind i Gemini og sagt, at jeg vil gerne have det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 864.0,
+      "end": 866.0,
+      "text": " men hjælp mig lige med at beskrive det.",
+      "speaker": "A"
+    },
+    {
+      "start": 866.0,
+      "end": 868.0,
+      "text": " Fordi hvis jeg lægger en dårlig beskrivelse ind,",
+      "speaker": "A"
+    },
+    {
+      "start": 868.0,
+      "end": 870.0,
+      "text": " så gør jeg også et dårligt værktøj tilbage igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 870.0,
+      "end": 872.0,
+      "text": " Så jeg brugte lige 10 minutter inden i Gemini på at få",
+      "speaker": "A"
+    },
+    {
+      "start": 872.0,
+      "end": 874.0,
+      "text": " den til at hjælpe mig med at lave en god beskrivelse af det.",
+      "speaker": "A"
+    },
+    {
+      "start": 874.0,
+      "end": 876.0,
+      "text": " Det jeg så gjorde derefter,",
+      "speaker": "A"
+    },
+    {
+      "start": 876.0,
+      "end": 878.0,
+      "text": " det var, at jeg gik ind på",
+      "speaker": "A"
+    },
+    {
+      "start": 878.0,
+      "end": 880.0,
+      "text": " lovable.def.",
+      "speaker": "A"
+    },
+    {
+      "start": 880.0,
+      "end": 882.0,
+      "text": " Og lovable, det er det her svenske startup, som også",
+      "speaker": "A"
+    },
+    {
+      "start": 882.0,
+      "end": 884.0,
+      "text": " er et integrated development environment.",
+      "speaker": "A"
+    },
+    {
+      "start": 884.0,
+      "end": 886.0,
+      "text": " Og det er i hvert fald den hurtigst",
+      "speaker": "A"
+    },
+    {
+      "start": 886.0,
+      "end": 888.0,
+      "text": " voksende svenske startup nogensinde,",
+      "speaker": "A"
+    },
+    {
+      "start": 888.0,
+      "end": 890.0,
+      "text": " og de har altså også lavet Klarna og Spotify",
+      "speaker": "A"
+    },
+    {
+      "start": 890.0,
+      "end": 892.0,
+      "text": " og alle mulige andre fede ting. Jeg tror faktisk, at det er det hurtigste",
+      "speaker": "A"
+    },
+    {
+      "start": 892.0,
+      "end": 894.0,
+      "text": " europæiske startup",
+      "speaker": "A"
+    },
+    {
+      "start": 894.0,
+      "end": 896.0,
+      "text": " nogensinde det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 896.0,
+      "end": 898.0,
+      "text": " Det er sindssygt sejt, hvad de har gang i.",
+      "speaker": "A"
+    },
+    {
+      "start": 898.0,
+      "end": 900.0,
+      "text": " Lovable virker pissegodt.",
+      "speaker": "A"
+    },
+    {
+      "start": 900.0,
+      "end": 902.0,
+      "text": " Det man gør inde i lovable, det er, at man starter med",
+      "speaker": "A"
+    },
+    {
+      "start": 902.0,
+      "end": 904.0,
+      "text": " bare at skrive et prompt, og så bygger",
+      "speaker": "A"
+    },
+    {
+      "start": 904.0,
+      "end": 906.0,
+      "text": " den for en. Så jeg tog faktisk",
+      "speaker": "A"
+    },
+    {
+      "start": 906.0,
+      "end": 908.0,
+      "text": " det prompt, jeg havde lavet i Gemini,",
+      "speaker": "A"
+    },
+    {
+      "start": 908.0,
+      "end": 910.0,
+      "text": " og så lagde jeg det ind i lovable, i det felt her.",
+      "speaker": "A"
+    },
+    {
+      "start": 910.0,
+      "end": 912.0,
+      "text": " Og bad øjnene at begynde at bygge.",
+      "speaker": "A"
+    },
+    {
+      "start": 912.0,
+      "end": 914.0,
+      "text": " Og man kan faktisk se det i min tråd her.",
+      "speaker": "A"
+    },
+    {
+      "start": 914.0,
+      "end": 916.0,
+      "text": " Så den 29. december kl 21.34,",
+      "speaker": "A"
+    },
+    {
+      "start": 916.0,
+      "end": 918.0,
+      "text": " jeg ved ikke, hvad du lavede mellem jul og nytår til nu,",
+      "speaker": "A"
+    },
+    {
+      "start": 918.0,
+      "end": 920.0,
+      "text": " jeg så Jurassic Park og Vibecoded.",
+      "speaker": "A"
+    },
+    {
+      "start": 920.0,
+      "end": 922.0,
+      "text": " Så den 29. december",
+      "speaker": "A"
+    },
+    {
+      "start": 922.0,
+      "end": 924.0,
+      "text": " 21.34, der har jeg kopieret",
+      "speaker": "A"
+    },
+    {
+      "start": 924.0,
+      "end": 926.0,
+      "text": " det her prompt ind fra",
+      "speaker": "A"
+    },
+    {
+      "start": 926.0,
+      "end": 928.0,
+      "text": " Google Gemini, og så bedt den om",
+      "speaker": "A"
+    },
+    {
+      "start": 928.0,
+      "end": 930.0,
+      "text": " at gå i gang med at lave det.",
+      "speaker": "A"
+    },
+    {
+      "start": 930.0,
+      "end": 932.0,
+      "text": " Omkring et kvarter senere, så havde jeg",
+      "speaker": "A"
+    },
+    {
+      "start": 932.0,
+      "end": 934.0,
+      "text": " den første MVP på det værktøj,",
+      "speaker": "A"
+    },
+    {
+      "start": 934.0,
+      "end": 936.0,
+      "text": " jeg gerne ville bygge. Så har jeg så promptet",
+      "speaker": "A"
+    },
+    {
+      "start": 936.0,
+      "end": 938.0,
+      "text": " frem og tilbage på det senere.",
+      "speaker": "A"
+    },
+    {
+      "start": 938.0,
+      "end": 940.0,
+      "text": " Jeg har siddet og hygget mig og bygget ud på",
+      "speaker": "A"
+    },
+    {
+      "start": 940.0,
+      "end": 942.0,
+      "text": " værktøjet og alle mulige andre ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 942.0,
+      "end": 944.0,
+      "text": " Men det startede faktisk med, at jeg bare lavede et prompt",
+      "speaker": "A"
+    },
+    {
+      "start": 944.0,
+      "end": 946.0,
+      "text": " via Gemini, og bad den om at bygge det.",
+      "speaker": "A"
+    },
+    {
+      "start": 946.0,
+      "end": 948.0,
+      "text": " Og så fik jeg et værktøj, der faktisk virkede ret godt",
+      "speaker": "A"
+    },
+    {
+      "start": 948.0,
+      "end": 950.0,
+      "text": " allerede der. Jeg kan lige prøve at vise dig,",
+      "speaker": "A"
+    },
+    {
+      "start": 950.0,
+      "end": 952.0,
+      "text": " hvordan det fungerer nu. Fordi nu er det",
+      "speaker": "A"
+    },
+    {
+      "start": 952.0,
+      "end": 954.0,
+      "text": " en uge eller to gammelt, og jeg har forbedret en lille smule på det.",
+      "speaker": "A"
+    },
+    {
+      "start": 954.0,
+      "end": 956.0,
+      "text": " Min samlede indsats på det her",
+      "speaker": "A"
+    },
+    {
+      "start": 956.0,
+      "end": 958.0,
+      "text": " værktøj, vil jeg sige, ligger nok på fem timer nu.",
+      "speaker": "A"
+    },
+    {
+      "start": 958.0,
+      "end": 960.0,
+      "text": " Fra jeg startede, til hvor vi er lige nu.",
+      "speaker": "A"
+    },
+    {
+      "start": 960.0,
+      "end": 962.0,
+      "text": " Og det er med, at jeg har promptet frem og tilbage,",
+      "speaker": "A"
+    },
+    {
+      "start": 962.0,
+      "end": 964.0,
+      "text": " jeg har skaffet API'er, jeg har",
+      "speaker": "A"
+    },
+    {
+      "start": 964.0,
+      "end": 966.0,
+      "text": " testet værktøjet, jeg har udbygget det og alle mulige andre ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 966.0,
+      "end": 968.0,
+      "text": " Så værktøjet virker...",
+      "speaker": "A"
+    },
+    {
+      "start": 968.0,
+      "end": 970.0,
+      "text": " Og hvad vil du antage, kosten har",
+      "speaker": "B"
+    },
+    {
+      "start": 970.0,
+      "end": 972.0,
+      "text": " været til for eksempel Lovable?",
+      "speaker": "B"
+    },
+    {
+      "start": 972.0,
+      "end": 974.0,
+      "text": " Jamen det ved jeg faktisk, fordi det kan man se",
+      "speaker": "A"
+    },
+    {
+      "start": 974.0,
+      "end": 976.0,
+      "text": " i deres billing, så den er ret transparent.",
+      "speaker": "A"
+    },
+    {
+      "start": 976.0,
+      "end": 978.0,
+      "text": " Det her værktøj har kostet mig omkring 50 dollar",
+      "speaker": "A"
+    },
+    {
+      "start": 978.0,
+      "end": 980.0,
+      "text": " til bygge indtil nu.",
+      "speaker": "A"
+    },
+    {
+      "start": 980.0,
+      "end": 982.0,
+      "text": " Det er den ene omkostning.",
+      "speaker": "A"
+    },
+    {
+      "start": 982.0,
+      "end": 984.0,
+      "text": " Den anden omkostning, det er, at vi bruger et API",
+      "speaker": "A"
+    },
+    {
+      "start": 984.0,
+      "end": 986.0,
+      "text": " fra en service, der hedder Browserless,",
+      "speaker": "A"
+    },
+    {
+      "start": 986.0,
+      "end": 988.0,
+      "text": " som koster os 20 dollars om måneden",
+      "speaker": "A"
+    },
+    {
+      "start": 988.0,
+      "end": 990.0,
+      "text": " at have adgang til. Så Browserless, det er et værktøj,",
+      "speaker": "A"
+    },
+    {
+      "start": 990.0,
+      "end": 992.0,
+      "text": " hvor du kan sætte den til at gå ind på et site,",
+      "speaker": "A"
+    },
+    {
+      "start": 992.0,
+      "end": 994.0,
+      "text": " klikke ja til cookie-boksen og så se,",
+      "speaker": "A"
+    },
+    {
+      "start": 994.0,
+      "end": 996.0,
+      "text": " hvad skydes af før og efter.",
+      "speaker": "A"
+    },
+    {
+      "start": 996.0,
+      "end": 998.0,
+      "text": " Og det her, det var faktisk ikke et værktøj, jeg kendte før.",
+      "speaker": "A"
+    },
+    {
+      "start": 998.0,
+      "end": 1000.0,
+      "text": " Det sjove ved Browserless, det er, at jeg siger til",
+      "speaker": "A"
+    },
+    {
+      "start": 1000.0,
+      "end": 1002.0,
+      "text": " Lovable, jeg vil gerne have, at du",
+      "speaker": "A"
+    },
+    {
+      "start": 1002.0,
+      "end": 1004.0,
+      "text": " tjekker, hvilke cookies der bliver sat før og efter",
+      "speaker": "A"
+    },
+    {
+      "start": 1004.0,
+      "end": 1006.0,
+      "text": " du går ind på siden. Og så siger",
+      "speaker": "A"
+    },
+    {
+      "start": 1006.0,
+      "end": 1008.0,
+      "text": " Lovable til mig, okay, det kan jeg godt,",
+      "speaker": "A"
+    },
+    {
+      "start": 1008.0,
+      "end": 1010.0,
+      "text": " men så skal du lige koble det her API på.",
+      "speaker": "A"
+    },
+    {
+      "start": 1010.0,
+      "end": 1012.0,
+      "text": " Så jeg har faktisk ikke selv researchet, at jeg",
+      "speaker": "A"
+    },
+    {
+      "start": 1012.0,
+      "end": 1014.0,
+      "text": " skulle bruge det her værktøj. Det er Lovable, der",
+      "speaker": "A"
+    },
+    {
+      "start": 1014.0,
+      "end": 1016.0,
+      "text": " fortæller mig, ud fra det, du beskriver, det kan",
+      "speaker": "A"
+    },
+    {
+      "start": 1016.0,
+      "end": 1018.0,
+      "text": " jeg godt, men jeg skal bruge et API fra det der værktøj.",
+      "speaker": "A"
+    },
+    {
+      "start": 1018.0,
+      "end": 1020.0,
+      "text": " Så har jeg gået ind og har signet op, betaler",
+      "speaker": "A"
+    },
+    {
+      "start": 1020.0,
+      "end": 1022.0,
+      "text": " 20 dollars om måneden og lagt mit",
+      "speaker": "A"
+    },
+    {
+      "start": 1022.0,
+      "end": 1024.0,
+      "text": " API ind i Lovable. Og så siger",
+      "speaker": "A"
+    },
+    {
+      "start": 1024.0,
+      "end": 1026.0,
+      "text": " den fem minutter senere, okay, nu er det bygget, og så",
+      "speaker": "A"
+    },
+    {
+      "start": 1026.0,
+      "end": 1028.0,
+      "text": " tester jeg, og det virker. Det er så fucking",
+      "speaker": "A"
+    },
+    {
+      "start": 1028.0,
+      "end": 1030.0,
+      "text": " sindssygt, hvordan det her, det virker.",
+      "speaker": "A"
+    },
+    {
+      "start": 1030.0,
+      "end": 1032.0,
+      "text": " Og der, hvor tracking-værktøjet er i dag,",
+      "speaker": "A"
+    },
+    {
+      "start": 1032.0,
+      "end": 1034.0,
+      "text": " og du der lytter med, du er velkommen til at prøve",
+      "speaker": "A"
+    },
+    {
+      "start": 1034.0,
+      "end": 1036.0,
+      "text": " det. Det ligger fri afbenyttelse",
+      "speaker": "A"
+    },
+    {
+      "start": 1036.0,
+      "end": 1039.0,
+      "text": " tracking.obsidianagency.com.",
+      "speaker": "A"
+    },
+    {
+      "start": 1039.0,
+      "end": 1041.0,
+      "text": " Måden det virker på, det er, at man tager",
+      "speaker": "A"
+    },
+    {
+      "start": 1041.0,
+      "end": 1043.0,
+      "text": " ens website. Nu kan vi jo for eksempel",
+      "speaker": "A"
+    },
+    {
+      "start": 1043.0,
+      "end": 1045.0,
+      "text": " tage design",
+      "speaker": "A"
+    },
+    {
+      "start": 1045.0,
+      "end": 1047.0,
+      "text": " as a service.dk.",
+      "speaker": "A"
+    },
+    {
+      "start": 1047.0,
+      "end": 1049.0,
+      "text": " Det ligger i Webflow, jeg tror ikke, vi har server-",
+      "speaker": "A"
+    },
+    {
+      "start": 1049.0,
+      "end": 1051.0,
+      "text": " site på det lige nu. Så skriver man ens URL",
+      "speaker": "A"
+    },
+    {
+      "start": 1051.0,
+      "end": 1053.0,
+      "text": " ind og trykker Analyze.",
+      "speaker": "A"
+    },
+    {
+      "start": 1053.0,
+      "end": 1055.0,
+      "text": " Det, der så sker, det er, at værktøjet nu",
+      "speaker": "A"
+    },
+    {
+      "start": 1055.0,
+      "end": 1057.0,
+      "text": " connector til to forskellige APIs.",
+      "speaker": "A"
+    },
+    {
+      "start": 1057.0,
+      "end": 1059.0,
+      "text": " Det ene API, det er fra",
+      "speaker": "A"
+    },
+    {
+      "start": 1059.0,
+      "end": 1061.0,
+      "text": " browserless.io, så det vil sige",
+      "speaker": "A"
+    },
+    {
+      "start": 1061.0,
+      "end": 1063.0,
+      "text": " browserless.io starter nu en computer",
+      "speaker": "A"
+    },
+    {
+      "start": 1063.0,
+      "end": 1065.0,
+      "text": " op og sender en bruger ind på",
+      "speaker": "A"
+    },
+    {
+      "start": 1065.0,
+      "end": 1067.0,
+      "text": " design-as-a-service.dk",
+      "speaker": "A"
+    },
+    {
+      "start": 1067.0,
+      "end": 1069.0,
+      "text": " og klikker på vores cookie-boks og kigger på",
+      "speaker": "A"
+    },
+    {
+      "start": 1069.0,
+      "end": 1071.0,
+      "text": " vores scripts og kigger på vores html",
+      "speaker": "A"
+    },
+    {
+      "start": 1071.0,
+      "end": 1073.0,
+      "text": " og gør alle mulige ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 1073.0,
+      "end": 1075.0,
+      "text": " Den anden ting, det er, at vi faktisk starter Google PageSpeed",
+      "speaker": "A"
+    },
+    {
+      "start": 1075.0,
+      "end": 1077.0,
+      "text": " API'et op. Så Google har",
+      "speaker": "A"
+    },
+    {
+      "start": 1077.0,
+      "end": 1079.0,
+      "text": " det her PageSpeed-værktøj, hvor man kan se, hvor",
+      "speaker": "A"
+    },
+    {
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " hurtigt eller hvor langsomt et givet værktøj er",
+      "speaker": "A"
+    },
+    {
+      "start": 1081.0,
+      "end": 1083.0,
+      "text": " eller et site er, så du kan bruge det med henblik på",
+      "speaker": "A"
+    },
+    {
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": " hastighedsoptimering, og du kan se, om du kan forbedre",
+      "speaker": "A"
+    },
+    {
+      "start": 1085.0,
+      "end": 1087.0,
+      "text": " din user-experience. Der er et API, der ligger",
+      "speaker": "A"
+    },
+    {
+      "start": 1087.0,
+      "end": 1089.0,
+      "text": " tilgængeligt derinde også. Det har faktisk også",
+      "speaker": "A"
+    },
+    {
+      "start": 1089.0,
+      "end": 1091.0,
+      "text": " koblet på, så man får noget information om, hvor mange",
+      "speaker": "A"
+    },
+    {
+      "start": 1091.0,
+      "end": 1093.0,
+      "text": " scripts man loader og hvor tung siden er.",
+      "speaker": "A"
+    },
+    {
+      "start": 1093.0,
+      "end": 1095.0,
+      "text": " Så venter man cirka 30 sekunder.",
+      "speaker": "A"
+    },
+    {
+      "start": 1095.0,
+      "end": 1097.0,
+      "text": " Du kan se, at værktøjet er færdigt nu,",
+      "speaker": "A"
+    },
+    {
+      "start": 1097.0,
+      "end": 1099.0,
+      "text": " og så får man en score. Så design-as-a-service",
+      "speaker": "A"
+    },
+    {
+      "start": 1099.0,
+      "end": 1101.0,
+      "text": " har 43 ud af 100,",
+      "speaker": "A"
+    },
+    {
+      "start": 1101.0,
+      "end": 1103.0,
+      "text": " og det er, fordi vi har implementeret consent-mode",
+      "speaker": "A"
+    },
+    {
+      "start": 1103.0,
+      "end": 1105.0,
+      "text": " korrekt, men server-side tagging er ikke på.",
+      "speaker": "A"
+    },
+    {
+      "start": 1105.0,
+      "end": 1107.0,
+      "text": " Det er nogle lidt tunge scripts, der ligger.",
+      "speaker": "A"
+    },
+    {
+      "start": 1107.0,
+      "end": 1109.0,
+      "text": " Vi har ikke sat enhanced conversions op, og vi har ikke sat",
+      "speaker": "A"
+    },
+    {
+      "start": 1109.0,
+      "end": 1111.0,
+      "text": " meta-conversions-API op, og det er korrekt. Det har vi ikke.",
+      "speaker": "A"
+    },
+    {
+      "start": 1111.0,
+      "end": 1113.0,
+      "text": " Det er bare et webflow-site,",
+      "speaker": "A"
+    },
+    {
+      "start": 1113.0,
+      "end": 1115.0,
+      "text": " vi hurtigt har sat op. Så er der",
+      "speaker": "A"
+    },
+    {
+      "start": 1115.0,
+      "end": 1117.0,
+      "text": " en udregning af, hvor meget kunne vi vinde ved at",
+      "speaker": "A"
+    },
+    {
+      "start": 1117.0,
+      "end": 1119.0,
+      "text": " forbedre vores tracking-setup på vores",
+      "speaker": "A"
+    },
+    {
+      "start": 1119.0,
+      "end": 1121.0,
+      "text": " Google Ads og Meta Ads. Der er en formular,",
+      "speaker": "A"
+    },
+    {
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": " hvor folk kan udfylde den, og der er nogle",
+      "speaker": "A"
+    },
+    {
+      "start": 1123.0,
+      "end": 1125.0,
+      "text": " flere informationer om, hvad vi rent faktisk har kigget på.",
+      "speaker": "A"
+    },
+    {
+      "start": 1125.0,
+      "end": 1127.0,
+      "text": " Det her værktøj, hele",
+      "speaker": "A"
+    },
+    {
+      "start": 1127.0,
+      "end": 1129.0,
+      "text": " den proces, jeg talte om lige før,",
+      "speaker": "A"
+    },
+    {
+      "start": 1129.0,
+      "end": 1131.0,
+      "text": " med at folk udfylder formularen,",
+      "speaker": "A"
+    },
+    {
+      "start": 1131.0,
+      "end": 1133.0,
+      "text": " de kommer ind på sitetet, de skal",
+      "speaker": "A"
+    },
+    {
+      "start": 1133.0,
+      "end": 1135.0,
+      "text": " give os deres adgang, vi skal lave deres audit,",
+      "speaker": "A"
+    },
+    {
+      "start": 1135.0,
+      "end": 1137.0,
+      "text": " vi skal aftale et møde, vi skal",
+      "speaker": "A"
+    },
+    {
+      "start": 1137.0,
+      "end": 1139.0,
+      "text": " levere det til dem.",
+      "speaker": "A"
+    },
+    {
+      "start": 1139.0,
+      "end": 1141.0,
+      "text": " Hele den proces der, fra de",
+      "speaker": "A"
+    },
+    {
+      "start": 1141.0,
+      "end": 1143.0,
+      "text": " udfylder formularen, til de ved om deres tracking-setup,",
+      "speaker": "A"
+    },
+    {
+      "start": 1143.0,
+      "end": 1145.0,
+      "text": " det er helt fucked. Det er gået fra omkring",
+      "speaker": "A"
+    },
+    {
+      "start": 1145.0,
+      "end": 1147.0,
+      "text": " en uge til cirka 30 sekunder.",
+      "speaker": "A"
+    },
+    {
+      "start": 1147.0,
+      "end": 1149.0,
+      "text": " Og det her, det er et værktøj,",
+      "speaker": "A"
+    },
+    {
+      "start": 1149.0,
+      "end": 1151.0,
+      "text": " jeg bruger hver dag lige nu.",
+      "speaker": "A"
+    },
+    {
+      "start": 1151.0,
+      "end": 1153.0,
+      "text": " Fordi det løser mit eget problem,",
+      "speaker": "A"
+    },
+    {
+      "start": 1153.0,
+      "end": 1155.0,
+      "text": " ligesom dit eget værktøj gør. Jeg synes, det er så sjovt",
+      "speaker": "A"
+    },
+    {
+      "start": 1155.0,
+      "end": 1157.0,
+      "text": " at høre, at det er det, du bruger hver dag, fordi jeg har lavet det her",
+      "speaker": "A"
+    },
+    {
+      "start": 1157.0,
+      "end": 1159.0,
+      "text": " til mig selv, fordi vi laver de her tracking audits",
+      "speaker": "A"
+    },
+    {
+      "start": 1159.0,
+      "end": 1161.0,
+      "text": " hele tiden, og jeg har lavet ekstra",
+      "speaker": "A"
+    },
+    {
+      "start": 1161.0,
+      "end": 1163.0,
+      "text": " funktioner i det, så jeg har lavet en Google Slides",
+      "speaker": "A"
+    },
+    {
+      "start": 1163.0,
+      "end": 1165.0,
+      "text": " export på værktøjet, fordi jeg sidder og bruger",
+      "speaker": "A"
+    },
+    {
+      "start": 1165.0,
+      "end": 1167.0,
+      "text": " de her tracking audits",
+      "speaker": "A"
+    },
+    {
+      "start": 1167.0,
+      "end": 1169.0,
+      "text": " i mine pitches",
+      "speaker": "A"
+    },
+    {
+      "start": 1169.0,
+      "end": 1171.0,
+      "text": " og præsentationer. Så jeg har",
+      "speaker": "A"
+    },
+    {
+      "start": 1171.0,
+      "end": 1173.0,
+      "text": " lavet en Google Slides export, og måden",
+      "speaker": "A"
+    },
+    {
+      "start": 1173.0,
+      "end": 1175.0,
+      "text": " jeg lavede den her Google Slides export på, det var,",
+      "speaker": "A"
+    },
+    {
+      "start": 1175.0,
+      "end": 1177.0,
+      "text": " at jeg gik ind i Lovable og sagde, at jeg vil gerne have en Google Slides export.",
+      "speaker": "A"
+    },
+    {
+      "start": 1177.0,
+      "end": 1179.0,
+      "text": " Og så sagde den, okay.",
+      "speaker": "A"
+    },
+    {
+      "start": 1179.0,
+      "end": 1181.0,
+      "text": " Og så fik jeg en kom-knap nederst på siden",
+      "speaker": "A"
+    },
+    {
+      "start": 1181.0,
+      "end": 1183.0,
+      "text": " til Download Slides, og hvis man trykker på den,",
+      "speaker": "A"
+    },
+    {
+      "start": 1183.0,
+      "end": 1185.0,
+      "text": " så får man det ud i Slidesformat og kan lægge det lige ind i",
+      "speaker": "A"
+    },
+    {
+      "start": 1185.0,
+      "end": 1187.0,
+      "text": " Google Slides eller PowerPoint på en one-page, der beskriver",
+      "speaker": "A"
+    },
+    {
+      "start": 1187.0,
+      "end": 1189.0,
+      "text": " alt det vigtigste. Det gjorde den bare i et prompt.",
+      "speaker": "A"
+    },
+    {
+      "start": 1189.0,
+      "end": 1191.0,
+      "text": " Okay. Og nu har jeg den også i PDF og et link,",
+      "speaker": "A"
+    },
+    {
+      "start": 1191.0,
+      "end": 1193.0,
+      "text": " man kan dele. Jeg synes, det er... Ej, det er jeg glad for at vide.",
+      "speaker": "A"
+    },
+    {
+      "start": 1193.0,
+      "end": 1195.0,
+      "text": " Fantastisk. Det er jeg godt nok glad for at vide, fordi du ved",
+      "speaker": "B"
+    },
+    {
+      "start": 1195.0,
+      "end": 1197.0,
+      "text": " jo om nogen, og det ved de fleste, der lytter med",
+      "speaker": "B"
+    },
+    {
+      "start": 1197.0,
+      "end": 1199.0,
+      "text": " på MarketingPod også, at tracking for mig,",
+      "speaker": "B"
+    },
+    {
+      "start": 1199.0,
+      "end": 1201.0,
+      "text": " der er det bare noget, der skal virke. Jeg gider ikke forholde mig til det.",
+      "speaker": "B"
+    },
+    {
+      "start": 1201.0,
+      "end": 1203.0,
+      "text": " En kæmpe passion. Jeg gider ikke forholde mig til det.",
+      "speaker": "B"
+    },
+    {
+      "start": 1203.0,
+      "end": 1205.0,
+      "text": " Det skal bare virke. Men jeg har sgu svært ved at",
+      "speaker": "B"
+    },
+    {
+      "start": 1205.0,
+      "end": 1207.0,
+      "text": " sige, hvad der ikke virker og virker,",
+      "speaker": "B"
+    },
+    {
+      "start": 1207.0,
+      "end": 1209.0,
+      "text": " fordi det er bare et andet",
+      "speaker": "B"
+    },
+    {
+      "start": 1209.0,
+      "end": 1211.0,
+      "text": " område for mig. Så det at have det her tool her",
+      "speaker": "B"
+    },
+    {
+      "start": 1211.0,
+      "end": 1213.0,
+      "text": " at kunne køre en side igennem, og så bare",
+      "speaker": "B"
+    },
+    {
+      "start": 1213.0,
+      "end": 1215.0,
+      "text": " det er jo basalt set en bestillingslist",
+      "speaker": "B"
+    },
+    {
+      "start": 1215.0,
+      "end": 1217.0,
+      "text": " og kunne sende den videre og sige,",
+      "speaker": "B"
+    },
+    {
+      "start": 1217.0,
+      "end": 1219.0,
+      "text": " fiks det? Det skal bare virke, det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 1219.0,
+      "end": 1221.0,
+      "text": " Ej, det er jeg godt nok. Det er fedt.",
+      "speaker": "B"
+    },
+    {
+      "start": 1221.0,
+      "end": 1223.0,
+      "text": " Ja, og det sjove er,",
+      "speaker": "A"
+    },
+    {
+      "start": 1223.0,
+      "end": 1225.0,
+      "text": " jeg kører jo faktisk Facebook Ads til det lige nu,",
+      "speaker": "A"
+    },
+    {
+      "start": 1225.0,
+      "end": 1227.0,
+      "text": " hvor jeg siger til folk, du kan prøve det her",
+      "speaker": "A"
+    },
+    {
+      "start": 1227.0,
+      "end": 1229.0,
+      "text": " på dit eget site, og vi har",
+      "speaker": "A"
+    },
+    {
+      "start": 1229.0,
+      "end": 1231.0,
+      "text": " brugt, nu skal jeg lige se, jeg startede i",
+      "speaker": "A"
+    },
+    {
+      "start": 1231.0,
+      "end": 1233.0,
+      "text": " starten af januar, vi har brugt... Årh, nu er jeg spændt på.",
+      "speaker": "A"
+    },
+    {
+      "start": 1233.0,
+      "end": 1252.0,
+      "text": " Det skal bare virke, men jeg har sgu svært ved at sige, hvad der ikke virker og virker, fordi det er bare et andet område for mig, så det at have det her tool her, at kunne køre en side igennem, og så bare, det er jo basalt set en bestillingslist, og kunne sende den videre, og sige, fiks det, det skal bare virke det her. Ej, det går nok, det er fedt.",
+      "speaker": "A"
+    },
+    {
+      "start": 1252.0,
+      "end": 1265.0,
+      "text": " Ja, og det sjove er, jeg køber faktisk Facebook Ads til det lige nu, hvor jeg siger til folk, du kan prøve det her på dit eget site, og vi har brugt, nu skal jeg lige se, jeg startede i starten af januar, vi har brugt... Årh, nu er jeg spændt på at høre det her, fordi det er vores penge, du så ligger og bruger lige nu.",
+      "speaker": "A"
+    },
+    {
+      "start": 1265.0,
+      "end": 1283.0,
+      "text": " Det er nemlig lige præcis vores penge, det er absolut vores penge, jeg ligger og bruger lige nu. Jeg har brugt 600 kroner, den bruger 100 kroner om dagen cirka, og jeg startede den i starten af januar på et tidspunkt, så jeg har brugt 600 kroner på den, for de 600 kroner, der har vi købt i hvert fald 111 personer, nu er der ikke serverside tracking på det her site, så jeg måler nok lidt for lidt på den i virkeligheden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1283.0,
+      "end": 1307.0,
+      "text": " Men i hvert fald 111 trackingchecks er gennemført til 5 kroner og 50 øre pr. styk, og det har givet de første 5 udfyldninger af hopsportformularen også, så vi har genereret 5 leads til 600 kroner i adspent, og sure ikke alle sammen er lige kvalificerede, og det er ikke alle vi kan kommentere, men det ligner faktisk, at vi kan bruge det her værktøj til at tjene penge lige nu, på baggrund af denne annoncering, der kører os.",
+      "speaker": "A"
+    },
+    {
+      "start": 1307.0,
+      "end": 1331.0,
+      "text": " Ikke alene så har vi lavet noget, som løser mit eget problem i forhold til, at jeg har brugt for lang tid på at lave dem her, men det er faktisk også en leadgenerator via Facebook ads, som genererer leads ind til Obsidian, som vi måske kan få lov til at hjælpe med tracking efterfølgende, og hvis et af de 5 leads her går hjem, og de betaler os 10.000 kroner for at fixe deres tracking, som er et beløb, som det ofte passer med, så har vi tjent at spænde hjem 20 gange allerede, og det er hvis et ud af de 5 går hjem, og det håber jeg da, at det gør.",
+      "speaker": "B"
+    },
+    {
+      "start": 1331.0,
+      "end": 1347.0,
+      "text": " Så jeg synes, at det her er en rigtig god indikation på, at vibecoding faktisk kan være noget, der leder til mere forretning også, altså det behøver ikke kun være sjove ting, man laver til sig selv, for mig så er det her en mulighed for, hvordan vi kan skaffe mere forretning til Obsidian, samtidig som vi bruger mindre tid på manuel behandling.",
+      "speaker": "B"
+    },
+    {
+      "start": 1347.0,
+      "end": 1349.0,
+      "text": " Det synes jeg er et sjovt værktøj det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 1349.0,
+      "end": 1355.0,
+      "text": " Det er et fedt eksempel, og jeg tror også nu kan lytterne og serien allerede se, at der er forskellige grader og niveauer i det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 1355.0,
+      "end": 1378.0,
+      "text": " Mit første eksempel det er, altså det var uden API og alt muligt, det var bare ren Gemini Canvas igennem AI Studio, hvor du har jo integreret nogle API og noget udefra, og det kan man også, men hvis man bare er i gang, så er det måske bare at gå i gang med at lave den første webapp uden, men det kan jo, altså nu skal jeg ikke tage noget fra dig Alfdan, men kodemæssigt er det jo ikke fordi, at du er på, altså det her det kan man godt som almen marketer,",
+      "speaker": "A"
+    },
+    {
+      "start": 1379.0,
+      "end": 1383.0,
+      "text": " hvis bare man sætter sig for det ikke, altså bruger API'er til at lave de her tools.",
+      "speaker": "B"
+    },
+    {
+      "start": 1383.0,
+      "end": 1394.0,
+      "text": " Ja, det er præcis. Jeg synes vi skal tage et eksempel mere med dig, og så går vi videre til de fælder der er i forhold til særligt SEO, og hvordan man bygger distribution på, når man har bygget værktøjer, hvordan får man så folk til rent faktisk at bruge det.",
+      "speaker": "B"
+    },
+    {
+      "start": 1394.0,
+      "end": 1407.0,
+      "text": " Og jeg ved du har lavet et værktøj i forhold til at identificere landingssider på et hvilket som helst site, som jeg faktisk synes er ret fedt, og som jeg også bruger. Hvad kan det her værktøj, og hvordan har du bygget det?",
+      "speaker": "B"
+    },
+    {
+      "start": 1407.0,
+      "end": 1414.0,
+      "text": " Yes, i hvert fald Shopify og WooCommerce, de fleste WooCommerce sites. Lad os prøve at hoppe ind i det.",
+      "speaker": "B"
+    },
+    {
+      "start": 1414.0,
+      "end": 1425.0,
+      "text": " Og så skal man forestille sig at man er inde på, det kan være en konkurrent, eller det kan være nogen der gør det rigtig godt annonceringsmæssigt, og her har jeg taget udgangspunkt i Loop Earplugs, fordi de gør det her en masse, altså bygge landingssider.",
+      "speaker": "B"
+    },
+    {
+      "start": 1425.0,
+      "end": 1432.0,
+      "text": " Så en ting er hvad vi ser når vi går ind på hjemmesiden, men noget helt andet er at de landingssider, de rent faktisk sender trafik ind til fra deres betalede annoncering.",
+      "speaker": "B"
+    },
+    {
+      "start": 1432.0,
+      "end": 1440.0,
+      "text": " Det er det der er lidt sjovere at kigge på, for det giver altså et indblik i hvordan det er den her forretning, tænker forretning, og tænker deres produkter, tænker deres målgrupper.",
+      "speaker": "B"
+    },
+    {
+      "start": 1440.0,
+      "end": 1450.0,
+      "text": " Og historisk set, når jeg har sku' ind og kigge på, hvad er det for nogle landingssider de laver, især når det er Shopify shops, nu er det jo rigtig meget e-commerce jeg sidder og arbejder med til dagligt, så sku' jeg ind på deres sitemap.",
+      "speaker": "B"
+    },
+    {
+      "start": 1450.0,
+      "end": 1454.0,
+      "text": " Og deres sitemap i Shopify ser sådan her ud, og det ser forfærdeligt ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 1454.0,
+      "end": 1465.0,
+      "text": " Det er sådan lidt noget bøvl og ligge og kigge rundt i, fordi man skal ind og finde det sitemap der er lavet for deres pages, for det er jo typisk hvad det er at man laver sine landingssider og så gennemgå alle de her pages.",
+      "speaker": "B"
+    },
+    {
+      "start": 1465.0,
+      "end": 1471.0,
+      "text": " Og jeg gjorde det med glæde, men det var ikke en fed opgave at skulle sidde og gå igennem.",
+      "speaker": "B"
+    },
+    {
+      "start": 1471.0,
+      "end": 1479.0,
+      "text": " Så jeg satte mig ned og tænkte over, hvordan kunne jeg prompte mig til en eller anden white-coated løsning her, som gjorde det bare en lille bitte smule nemmere.",
+      "speaker": "B"
+    },
+    {
+      "start": 1479.0,
+      "end": 1486.0,
+      "text": " Og det jeg har gjort her, det er at jeg lige har taget et Google Doc sag, hvor jeg viser eksemple på det prompt jeg har brugt inde i Gemini.",
+      "speaker": "B"
+    },
+    {
+      "start": 1486.0,
+      "end": 1499.0,
+      "text": " Så jeg har uploadet et screenshot af det her sitemap, og så har jeg egentlig bare forklaret Gemini at lave et tool, hvor man kan indtaste en URL på en Shopify webshop, hvorefter toolet automatisk finder sitemappet med pages.",
+      "speaker": "B"
+    },
+    {
+      "start": 1499.0,
+      "end": 1503.0,
+      "text": " Og så giver jeg lidt ekstra forklaring, men vi snakker 3-4 linjer ekstra.",
+      "speaker": "B"
+    },
+    {
+      "start": 1503.0,
+      "end": 1505.0,
+      "text": " Altså det er virkelig ikke særlig meget.",
+      "speaker": "B"
+    },
+    {
+      "start": 1505.0,
+      "end": 1508.0,
+      "text": " Så lad os prøve at hoppe ind og se hvordan det egentlig ser ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 1508.0,
+      "end": 1514.0,
+      "text": " Så hvis jeg starter med lige at kopiere URL'en på Loop Earplugs, så skulle det gerne være sådan.",
+      "speaker": "B"
+    },
+    {
+      "start": 1514.0,
+      "end": 1519.0,
+      "text": " Så når jeg indtaster Loop Earplugs her, og trykker find sider, så gør den to ting.",
+      "speaker": "B"
+    },
+    {
+      "start": 1519.0,
+      "end": 1523.0,
+      "text": " Det første det er, at den finder alle pages frem, altså alle landing pages.",
+      "speaker": "B"
+    },
+    {
+      "start": 1523.0,
+      "end": 1529.0,
+      "text": " Dernæst har jeg bedt den om at sortere efter, hvilke landing pages der er blevet ændret i senest.",
+      "speaker": "B"
+    },
+    {
+      "start": 1529.0,
+      "end": 1540.0,
+      "text": " Og hvorfor gør jeg så det? Fordi det typisk er en eller anden indikator for, at det man ligger og tester af lige nu, det er det man forventer skal kunne fungere.",
+      "speaker": "B"
+    },
+    {
+      "start": 1540.0,
+      "end": 1544.0,
+      "text": " Så det er bare for at jeg kan finde hovedet og hale i den data jeg ligger og kigger på.",
+      "speaker": "B"
+    },
+    {
+      "start": 1544.0,
+      "end": 1552.0,
+      "text": " Så hvis jeg trykker find sider nu, så er den faktisk fundet alle deres nuværende landing sider, og hvornår de senest er blevet redigeret i.",
+      "speaker": "B"
+    },
+    {
+      "start": 1553.0,
+      "end": 1560.0,
+      "text": " Man kan godt se her, og det er jo med vilje at have brugt Loop Earplugs, fordi de laver så mange landing sider, og det er så specifikke landing sider.",
+      "speaker": "A"
+    },
+    {
+      "start": 1560.0,
+      "end": 1563.0,
+      "text": " De gør det mega godt på landing siderne.",
+      "speaker": "A"
+    },
+    {
+      "start": 1563.0,
+      "end": 1571.0,
+      "text": " Så kan jeg trykke her, og så vil jeg kunne gå ind og se, at de har en landing side her, dedikeret til Gift Ideas for Students.",
+      "speaker": "A"
+    },
+    {
+      "start": 1571.0,
+      "end": 1573.0,
+      "text": " Så ja, det er altså rigtig granulat, de går til værktøjer.",
+      "speaker": "A"
+    },
+    {
+      "start": 1573.0,
+      "end": 1575.0,
+      "text": " Så kan jeg sidde og kigge det her igennem.",
+      "speaker": "A"
+    },
+    {
+      "start": 1575.0,
+      "end": 1582.0,
+      "text": " Igen et tool, som jeg bruger nærmest hver dag, fordi det bare gør det 10 gange nemmere for mig lige hurtigt at teste en URL ind herinde.",
+      "speaker": "A"
+    },
+    {
+      "start": 1582.0,
+      "end": 1587.0,
+      "text": " Jeg synes, det her er nogle sjove eksempler på, hvordan man gør det, og det vigtigste take er virkeligheden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1587.0,
+      "end": 1593.0,
+      "text": " Hvis du får en lille smule hjælp til at prompte i ChatGPT eller Gemini, så kan du vitterligt bare gå ind i Lovable, der koster meget let,",
+      "speaker": "A"
+    },
+    {
+      "start": 1593.0,
+      "end": 1595.0,
+      "text": " eller Google AI Studio, som koster ingenting.",
+      "speaker": "A"
+    },
+    {
+      "start": 1595.0,
+      "end": 1601.0,
+      "text": " Eller hvis du er lidt mere hardcore, så brug Cloud Code eller Google Antigravity, som også er fede værktøjer, men det behøver ikke engang at være det.",
+      "speaker": "A"
+    },
+    {
+      "start": 1601.0,
+      "end": 1603.0,
+      "text": " Så bare skriv, hvad du gerne vil have, og så kan du faktisk bygge det.",
+      "speaker": "A"
+    },
+    {
+      "start": 1603.0,
+      "end": 1606.0,
+      "text": " Det er så nemt. Vi kunne faktisk stoppe episoden her og sige, at det var det.",
+      "speaker": "A"
+    },
+    {
+      "start": 1606.0,
+      "end": 1608.0,
+      "text": " Men der er lige to ting mere, vi gerne vil have ind på.",
+      "speaker": "A"
+    },
+    {
+      "start": 1608.0,
+      "end": 1614.0,
+      "text": " Den ene er i forhold til SEO, og den anden er, hvordan du så i øvrigt opbygger distribution, når du så har lavet dit værktøj.",
+      "speaker": "A"
+    },
+    {
+      "start": 1614.0,
+      "end": 1623.0,
+      "text": " Det, man skal vide i forhold til SEO, det er, at mange af de her integrated development environments, de laver dine apps primært i JavaScript.",
+      "speaker": "A"
+    },
+    {
+      "start": 1623.0,
+      "end": 1629.0,
+      "text": " JavaScript, det betyder bare, at du laver det, så det kører teknisk set i din egen browser.",
+      "speaker": "A"
+    },
+    {
+      "start": 1629.0,
+      "end": 1637.0,
+      "text": " Så der er ikke en server, der kører og så laver nogle URL'er, hvor du indlæser HTML'en, ligesom man vil gøre med et WordPress-site eller et eller andet stil.",
+      "speaker": "A"
+    },
+    {
+      "start": 1637.0,
+      "end": 1647.0,
+      "text": " Udfordringen med det her, det er, at SEO-venligheden er helt i bund som udgangspunkt, hvis du laver en app via for eksempel Loverbooth eller Google Antigravity eller Google AI Studio.",
+      "speaker": "A"
+    },
+    {
+      "start": 1647.0,
+      "end": 1651.0,
+      "text": " Det er ikke lavet med henblik på at opnå distribution via søgemaskinerne.",
+      "speaker": "A"
+    },
+    {
+      "start": 1651.0,
+      "end": 1658.0,
+      "text": " Helt konkret, så kan vi tage udgangspunkt i det site, jeg har lavet, som vi tidligere har optalt i en episode, der hedder marketingspent.com.",
+      "speaker": "A"
+    },
+    {
+      "start": 1658.0,
+      "end": 1666.0,
+      "text": " Marketing-spent.com er et værktøj, hvor man kan gå ind og indtaste URL'en på et Facebook Ads Library, og så går den her ind og analyserer deres annoncer,",
+      "speaker": "A"
+    },
+    {
+      "start": 1666.0,
+      "end": 1670.0,
+      "text": " estimerer, hvor mange penge de bruger, hvad deres bedste annoncer er osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 1670.0,
+      "end": 1678.0,
+      "text": " Det er også et værktøj, som jeg har bygget, fordi jeg selv gerne vil bruge det, fordi jeg bruger rigtig meget tid i Ads Library på at blive inspireret og se, hvad der rent faktisk virker.",
+      "speaker": "A"
+    },
+    {
+      "start": 1678.0,
+      "end": 1682.0,
+      "text": " Så lavede jeg det ud på LinkedIn og så om der var andre, der var interesseret i at bruge det.",
+      "speaker": "A"
+    },
+    {
+      "start": 1682.0,
+      "end": 1691.0,
+      "text": " Og siden da har den faktisk haft 5.000 besøgende, bare de sidste syv dage, hvor folk bruger 6 minutter i gennemsnit og har analyseret mere end 1.000 virksomheder.",
+      "speaker": "A"
+    },
+    {
+      "start": 1691.0,
+      "end": 1694.0,
+      "text": " Folk har virkelig taget godt imod det her. Jeg synes, det er så fedt, at man kan få noget ud af det.",
+      "speaker": "A"
+    },
+    {
+      "start": 1694.0,
+      "end": 1698.0,
+      "text": " Men værktøjet virker på den måde, at man indtaster en URL på en virksomhed, et Facebook Ads Library.",
+      "speaker": "A"
+    },
+    {
+      "start": 1698.0,
+      "end": 1703.0,
+      "text": " Lad os tage udgangspunkt i, nu tager vi bare lige Sisi Copenhagen. Den kan jeg se, at der er nogen, der har analyseret her.",
+      "speaker": "A"
+    },
+    {
+      "start": 1703.0,
+      "end": 1708.0,
+      "text": " Og så estimerer den, hvor mange penge de bruger på baggrund af at tage et reach-tal og gange det ind med en statisk CPM-pris.",
+      "speaker": "A"
+    },
+    {
+      "start": 1708.0,
+      "end": 1712.0,
+      "text": " Vi ved, hvor mange personer de har nået, og vi kan dermed estimere et spend.",
+      "speaker": "A"
+    },
+    {
+      "start": 1712.0,
+      "end": 1716.0,
+      "text": " Og så kan vi se, hvilke annoncer, der fungerer bedst lige nu på baggrund af, hvilke der får mest reach.",
+      "speaker": "A"
+    },
+    {
+      "start": 1716.0,
+      "end": 1718.0,
+      "text": " Se deres landingssider og alle sådan nogle ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 1718.0,
+      "end": 1728.0,
+      "text": " Det, der er udfordring her, det er, at i den første version af det her site, der var hele den her URL genereret on the fly, hver eneste gang, man indtaster en virksomhed.",
+      "speaker": "A"
+    },
+    {
+      "start": 1728.0,
+      "end": 1735.0,
+      "text": " Så hvis du indtaster Facebook Ads Library til Sisi Copenhagen i det her tilfælde, så genererede den i øjeblikket faktisk den landingsside.",
+      "speaker": "A"
+    },
+    {
+      "start": 1735.0,
+      "end": 1737.0,
+      "text": " Den landingsside var så midlertidig.",
+      "speaker": "A"
+    },
+    {
+      "start": 1737.0,
+      "end": 1741.0,
+      "text": " Det vil sige, at hvis du gik ud af den side, så eksisterer den ikke længere.",
+      "speaker": "A"
+    },
+    {
+      "start": 1741.0,
+      "end": 1743.0,
+      "text": " Det kan man ikke lave SEO på.",
+      "speaker": "A"
+    },
+    {
+      "start": 1743.0,
+      "end": 1745.0,
+      "text": " Så har vi kun en forside.",
+      "speaker": "A"
+    },
+    {
+      "start": 1745.0,
+      "end": 1748.0,
+      "text": " Alle de sider, du genererer, de forsvinder vidderligt igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 1748.0,
+      "end": 1750.0,
+      "text": " Så det er et forfærdeligt udgangspunkt til SEO.",
+      "speaker": "A"
+    },
+    {
+      "start": 1750.0,
+      "end": 1752.0,
+      "text": " Og det er jo sådan, at den bygger det som standard.",
+      "speaker": "A"
+    },
+    {
+      "start": 1752.0,
+      "end": 1754.0,
+      "text": " Nok fordi, det er den nemmeste måde at bygge det på.",
+      "speaker": "A"
+    },
+    {
+      "start": 1754.0,
+      "end": 1760.0,
+      "text": " Det, man skal gøre for rent faktisk at lykkes med SEO, det er sådan tre forskellige ting, hvis man for eksempel bruger Loverboard som miljø, som jeg gør.",
+      "speaker": "A"
+    },
+    {
+      "start": 1761.0,
+      "end": 1764.0,
+      "text": " Den ene ting er, at du skal have en fast URL.",
+      "speaker": "A"
+    },
+    {
+      "start": 1764.0,
+      "end": 1767.0,
+      "text": " Altså en permanent URL til alle de sider, du genererer.",
+      "speaker": "A"
+    },
+    {
+      "start": 1767.0,
+      "end": 1769.0,
+      "text": " Og det er simpelthen bare noget, jeg har prompted inden i Loverboard det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 1769.0,
+      "end": 1774.0,
+      "text": " Jeg har sagt, at hver gang der genereres et resultat, så skal det være en fast URL, der gemmes på siden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1774.0,
+      "end": 1777.0,
+      "text": " Så har den sagt, okay nu laver jeg en fast URL og gemmer på siden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1777.0,
+      "end": 1780.0,
+      "text": " Så man kan bare be om det og så får man det, men du får det bare ikke som standard.",
+      "speaker": "A"
+    },
+    {
+      "start": 1780.0,
+      "end": 1781.0,
+      "text": " Det er det der er min pointe her.",
+      "speaker": "A"
+    },
+    {
+      "start": 1781.0,
+      "end": 1786.0,
+      "text": " Så hvis man bruger siden i dag, den her URL vi er inde på lige nu, det hedder marketing-spend.com",
+      "speaker": "A"
+    },
+    {
+      "start": 1786.0,
+      "end": 1790.0,
+      "text": " skrælstræk DA, skrælstræk Company, skrælstræk CC, bindestræk København.",
+      "speaker": "A"
+    },
+    {
+      "start": 1790.0,
+      "end": 1792.0,
+      "text": " Det betyder, at den er nu indexerbar.",
+      "speaker": "A"
+    },
+    {
+      "start": 1792.0,
+      "end": 1797.0,
+      "text": " Den næste udfordring, vi skal løse, det er, at Google kan godt nok godt læse JavaScript,",
+      "speaker": "A"
+    },
+    {
+      "start": 1797.0,
+      "end": 1802.0,
+      "text": " men det er ikke sådan super meget best practice, og der er risiko for, at den ikke læser det hele på siden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1802.0,
+      "end": 1805.0,
+      "text": " Og alt indholdet på siden er genereret via JavaScript.",
+      "speaker": "A"
+    },
+    {
+      "start": 1805.0,
+      "end": 1808.0,
+      "text": " Og det kan man se, hvis jeg nu går ind og så tager kildekoden på den her side.",
+      "speaker": "A"
+    },
+    {
+      "start": 1808.0,
+      "end": 1814.0,
+      "text": " Kildekoden, der kan man altså bare gå ind i Google Chrome, sige view-source for en URL, og så kan man se kildekoden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1814.0,
+      "end": 1817.0,
+      "text": " Der er næsten intet indhold på den her side.",
+      "speaker": "A"
+    },
+    {
+      "start": 1817.0,
+      "end": 1819.0,
+      "text": " Altså, jeg kan ikke scrolle ned fra det, du ser her lige nu, Tynio.",
+      "speaker": "A"
+    },
+    {
+      "start": 1819.0,
+      "end": 1821.0,
+      "text": " Det her, det er alt indhold, der er på siden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1821.0,
+      "end": 1825.0,
+      "text": " Der er ingen tekst. Der er ingen tekst på den her.",
+      "speaker": "A"
+    },
+    {
+      "start": 1825.0,
+      "end": 1828.0,
+      "text": " Og det er, fordi det er JavaScript genereret og gemt i en database,",
+      "speaker": "A"
+    },
+    {
+      "start": 1828.0,
+      "end": 1831.0,
+      "text": " og så bliver det faktisk først genereret, når brugeren beder om at se siden.",
+      "speaker": "B"
+    },
+    {
+      "start": 1831.0,
+      "end": 1835.0,
+      "text": " Der er da nogle fordele ved i forhold til hastighedsoptimering og nogle andre ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 1835.0,
+      "end": 1840.0,
+      "text": " men der er den ulæmpe, at når Googles bot ser den her side, så ser de ingenting,",
+      "speaker": "A"
+    },
+    {
+      "start": 1840.0,
+      "end": 1843.0,
+      "text": " og den her side kommer aldrig til at ranke på noget som helst.",
+      "speaker": "A"
+    },
+    {
+      "start": 1843.0,
+      "end": 1848.0,
+      "text": " Måden, jeg har løst det her problem på, det er ved at lave en version af siden,",
+      "speaker": "A"
+    },
+    {
+      "start": 1848.0,
+      "end": 1852.0,
+      "text": " som vises til Googles bot, og en anden version af siden, som vises til brugeren.",
+      "speaker": "A"
+    },
+    {
+      "start": 1852.0,
+      "end": 1855.0,
+      "text": " Det er det, man i gamle dage kaldte cloaking.",
+      "speaker": "A"
+    },
+    {
+      "start": 1855.0,
+      "end": 1859.0,
+      "text": " Det kan godt lyde som noget gris til de af jer, der ved, hvad cloaking betyder.",
+      "speaker": "A"
+    },
+    {
+      "start": 1859.0,
+      "end": 1863.0,
+      "text": " Det kan det også godt være, men hvis du har at gøre med sider, som leverer JavaScript,",
+      "speaker": "A"
+    },
+    {
+      "start": 1863.0,
+      "end": 1865.0,
+      "text": " så er det faktisk en helt fin måde at gøre tingene på.",
+      "speaker": "A"
+    },
+    {
+      "start": 1865.0,
+      "end": 1869.0,
+      "text": " Helt konkret så bruger jeg en side, der hedder pre-render.io.",
+      "speaker": "A"
+    },
+    {
+      "start": 1869.0,
+      "end": 1872.0,
+      "text": " Det er et andet værktøj, som Loveable faktisk har gjort mig opmærksom på, at det eksisterer.",
+      "speaker": "A"
+    },
+    {
+      "start": 1872.0,
+      "end": 1876.0,
+      "text": " Det her er et værktøj, som hjælper med at øge synligheden i både Googles søgemaskine",
+      "speaker": "A"
+    },
+    {
+      "start": 1876.0,
+      "end": 1879.0,
+      "text": " og i large language models og alle mulige andre ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 1879.0,
+      "end": 1882.0,
+      "text": " Det er fuldstændig compliant efter Googles retningslinjer.",
+      "speaker": "A"
+    },
+    {
+      "start": 1882.0,
+      "end": 1885.0,
+      "text": " Jeg fandt det selv, for jeg skulle være helt sikker på det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 1885.0,
+      "end": 1888.0,
+      "text": " I Googles retningslinjer, du må gerne lave en pre-rendered side,",
+      "speaker": "A"
+    },
+    {
+      "start": 1888.0,
+      "end": 1890.0,
+      "text": " eller en HTML-blendered side, du viser til bot,",
+      "speaker": "A"
+    },
+    {
+      "start": 1890.0,
+      "end": 1893.0,
+      "text": " hvis det er det samme indhold, du viser til brugere via JavaScript.",
+      "speaker": "A"
+    },
+    {
+      "start": 1893.0,
+      "end": 1896.0,
+      "text": " Det må du gerne, og det er det i mit selvfælde.",
+      "speaker": "A"
+    },
+    {
+      "start": 1896.0,
+      "end": 1902.0,
+      "text": " Det, som den her change gør, det er, at når en bot går ind på siden,",
+      "speaker": "A"
+    },
+    {
+      "start": 1902.0,
+      "end": 1905.0,
+      "text": " og Googles egen bot identificerer sig selv, så det kan man godt se,",
+      "speaker": "A"
+    },
+    {
+      "start": 1905.0,
+      "end": 1907.0,
+      "text": " og det samme gør ChatGPT og så videre.",
+      "speaker": "A"
+    },
+    {
+      "start": 1907.0,
+      "end": 1911.0,
+      "text": " Når en bot går ind på siden, så går pre-render ind og laver en HTML-version",
+      "speaker": "A"
+    },
+    {
+      "start": 1911.0,
+      "end": 1915.0,
+      "text": " af den side, de går ind på, og så er det HTML-versionen, de får serveret,",
+      "speaker": "A"
+    },
+    {
+      "start": 1915.0,
+      "end": 1920.0,
+      "text": " så de kan indeksere alt indholdet, mens brugeren stadig får serveret JavaScript-indholdet.",
+      "speaker": "A"
+    },
+    {
+      "start": 1920.0,
+      "end": 1922.0,
+      "text": " Det virker rent faktisk det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 1922.0,
+      "end": 1925.0,
+      "text": " Jeg kan prøve at vise et eksempel på, hvordan det ser ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 1925.0,
+      "end": 1930.0,
+      "text": " Hvis man går ind i Google Search Console, så kan man undersøge en hvilken som helst side.",
+      "speaker": "A"
+    },
+    {
+      "start": 1930.0,
+      "end": 1938.0,
+      "text": " Nu har jeg taget den URL, der hedder marketing-spend.com-en-company-li-Atea-Denmark.",
+      "speaker": "A"
+    },
+    {
+      "start": 1938.0,
+      "end": 1941.0,
+      "text": " Det er siden, hvor jeg har taget Atea Danmarks spend på LinkedIn.",
+      "speaker": "A"
+    },
+    {
+      "start": 1941.0,
+      "end": 1943.0,
+      "text": " Mit tool virker også med LinkedIn-apps.",
+      "speaker": "A"
+    },
+    {
+      "start": 1943.0,
+      "end": 1947.0,
+      "text": " Jeg kan se, at de er estimeret til at have brugt omkring 500.000 den sidste måned på LinkedIn.",
+      "speaker": "A"
+    },
+    {
+      "start": 1947.0,
+      "end": 1950.0,
+      "text": " Hold kæft, de giver den gas inde ved Atea i deres annoncering.",
+      "speaker": "A"
+    },
+    {
+      "start": 1950.0,
+      "end": 1953.0,
+      "text": " Den her side er lige nu indekseret i Google.",
+      "speaker": "A"
+    },
+    {
+      "start": 1953.0,
+      "end": 1957.0,
+      "text": " Måden jeg har lykkes med at gøre det her på, det er via det her pre-render.",
+      "speaker": "A"
+    },
+    {
+      "start": 1957.0,
+      "end": 1961.0,
+      "text": " Hvis man går ind i Google Search Console, som jeg er på her for lige præcis den her URL,",
+      "speaker": "A"
+    },
+    {
+      "start": 1961.0,
+      "end": 1968.0,
+      "text": " så kan jeg sige test aktiv webadresse, så jeg får Google til at teste, om de rent faktisk kan tilgå den her URL.",
+      "speaker": "A"
+    },
+    {
+      "start": 1968.0,
+      "end": 1972.0,
+      "text": " Når man har testet den, så kan man se lige præcis det, som Google selv kan se.",
+      "speaker": "A"
+    },
+    {
+      "start": 1972.0,
+      "end": 1977.0,
+      "text": " Så du på den måde kan verificere, at de rent faktisk indlæser det korrekte på siden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1977.0,
+      "end": 1988.0,
+      "text": " Hvis jeg tager Atea Danmarks side på mit tool og bare tjekker det, så kan man se igen, at der er ingen HTML på den her side nærmest.",
+      "speaker": "A"
+    },
+    {
+      "start": 1988.0,
+      "end": 1992.0,
+      "text": " Altså den er uendelig kort. Google kan ikke se noget indhold på den her side.",
+      "speaker": "A"
+    },
+    {
+      "start": 1992.0,
+      "end": 1995.0,
+      "text": " De har ingen idé om, hvad det handler om. Der er ikke noget, der kan indekseres.",
+      "speaker": "A"
+    },
+    {
+      "start": 1995.0,
+      "end": 1998.0,
+      "text": " Den her side vil aldrig nogensinde komme til at ranke.",
+      "speaker": "A"
+    },
+    {
+      "start": 1998.0,
+      "end": 2001.0,
+      "text": " Men den er indekseret, og den ranker.",
+      "speaker": "A"
+    },
+    {
+      "start": 2001.0,
+      "end": 2011.0,
+      "text": " Og årsagen til, at den er det, det er, at jeg har det her prerender, som rent faktisk viser siden til Google i HTML i stedet for.",
+      "speaker": "A"
+    },
+    {
+      "start": 2011.0,
+      "end": 2015.0,
+      "text": " Og det kan man gå ind og verificere i Google Search Console, at den rent faktisk kan.",
+      "speaker": "A"
+    },
+    {
+      "start": 2015.0,
+      "end": 2022.0,
+      "text": " Så det er en relativt simpel måde med et værktøj, som jeg bare skulle koble et API op, som øjeblikkeligt løser hele det her problem.",
+      "speaker": "A"
+    },
+    {
+      "start": 2022.0,
+      "end": 2027.0,
+      "text": " Og så kan man verificere direkte i Google Search Console efterfølgende, at den rent faktisk virker.",
+      "speaker": "A"
+    },
+    {
+      "start": 2027.0,
+      "end": 2034.0,
+      "text": " Så jeg kan få flere opløsninger, og jeg kan se en rapport på, hvordan den rent faktisk virker, og hvor meget den er blevet indekseret.",
+      "speaker": "A"
+    },
+    {
+      "start": 2034.0,
+      "end": 2038.0,
+      "text": " Jeg kan gøre alle mulige ting, men det korte er, det lange er.",
+      "speaker": "B"
+    },
+    {
+      "start": 2038.0,
+      "end": 2044.0,
+      "text": " Jeg kan rent faktisk bekræfte herinde, at den kan indekseres, og se, hvad de har set på siden.",
+      "speaker": "A"
+    },
+    {
+      "start": 2044.0,
+      "end": 2050.0,
+      "text": " Og det her er så vigtigt, for hvis ikke jeg havde gjort det her, så var den her side aldrig blevet indekseret.",
+      "speaker": "A"
+    },
+    {
+      "start": 2050.0,
+      "end": 2056.0,
+      "text": " Og nu hvor jeg rent faktisk har gjort det, så kan jeg se inde i Google Search Console for marketingspændt.",
+      "speaker": "A"
+    },
+    {
+      "start": 2056.0,
+      "end": 2063.0,
+      "text": " Der er et sitemap, som jeg også har lavet, der har registreret 2006 sider, og folk de har virkelig givet en gas med at analysere virksomheder.",
+      "speaker": "A"
+    },
+    {
+      "start": 2063.0,
+      "end": 2067.0,
+      "text": " Vi kan mærke det på omkostningen til de her.",
+      "speaker": "B"
+    },
+    {
+      "start": 2067.0,
+      "end": 2069.0,
+      "text": " Puha!",
+      "speaker": "A"
+    },
+    {
+      "start": 2069.0,
+      "end": 2071.0,
+      "text": " Der er kommet lidt API omkostninger ind i opsiden.",
+      "speaker": "A"
+    },
+    {
+      "start": 2071.0,
+      "end": 2076.0,
+      "text": " Ej, så det samlede API omkostninger, det ligger på et par hundrede kroner om måneden lige nu, så det er sjovt at blive lavet.",
+      "speaker": "A"
+    },
+    {
+      "start": 2076.0,
+      "end": 2081.0,
+      "text": " Men jeg kan se rent faktisk de søger, altså folk de søger specifikke, de søger Spent Analysis Companies og sådan noget.",
+      "speaker": "A"
+    },
+    {
+      "start": 2081.0,
+      "end": 2084.0,
+      "text": " Men det søger også, altså jeg er blevet vist 9 gange på søgeret Rudolf Kær.",
+      "speaker": "A"
+    },
+    {
+      "start": 2084.0,
+      "end": 2089.0,
+      "text": " Og det er fordi jeg har en indekseret side om, hvor mange penge bruger Rudolf Kær på Facebook-kanalens søgering.",
+      "speaker": "A"
+    },
+    {
+      "start": 2089.0,
+      "end": 2091.0,
+      "text": " Hahaha!",
+      "speaker": "A"
+    },
+    {
+      "start": 2091.0,
+      "end": 2094.0,
+      "text": " Du får simpelthen samtlige danske virksomheder på langen lige om lidt.",
+      "speaker": "A"
+    },
+    {
+      "start": 2094.0,
+      "end": 2097.0,
+      "text": " Når vi lægger op under Hård Josh-pejl lidt og det hele der.",
+      "speaker": "A"
+    },
+    {
+      "start": 2097.0,
+      "end": 2098.0,
+      "text": " Det er jo lidt sjovt, ikke?",
+      "speaker": "A"
+    },
+    {
+      "start": 2098.0,
+      "end": 2102.0,
+      "text": " Fordi, vil du klikke på et søgeresultat, hvor der står, hvor mange penge bruger Rudolf Kær egentlig for en annoncering?",
+      "speaker": "A"
+    },
+    {
+      "start": 2102.0,
+      "end": 2104.0,
+      "text": " Du ville da bare lidt nysgerrig, ville du ikke?",
+      "speaker": "A"
+    },
+    {
+      "start": 2104.0,
+      "end": 2105.0,
+      "text": " Haha, jo.",
+      "speaker": "A"
+    },
+    {
+      "start": 2105.0,
+      "end": 2107.0,
+      "text": " Haha, nu kan jeg give dig svaret.",
+      "speaker": "A"
+    },
+    {
+      "start": 2107.0,
+      "end": 2110.0,
+      "text": " Så det her er bare vigtigt, fordi hvis du ikke gør de her ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 2110.0,
+      "end": 2115.0,
+      "text": " Hvis du ikke har en permanent URL, en prerenderet version til bots og et sitemap, som Google Search Console kan læse.",
+      "speaker": "A"
+    },
+    {
+      "start": 2115.0,
+      "end": 2116.0,
+      "text": " Så bliver du ikke indekseret.",
+      "speaker": "A"
+    },
+    {
+      "start": 2116.0,
+      "end": 2121.0,
+      "text": " Men hvis du gør de tre ting, så har jeg jo lige effektivt lavet et sindssygt programmatisk SEO-projekt.",
+      "speaker": "B"
+    },
+    {
+      "start": 2121.0,
+      "end": 2123.0,
+      "text": " Hvor hver eneste gang, der er en person, der bruger siden.",
+      "speaker": "B"
+    },
+    {
+      "start": 2123.0,
+      "end": 2125.0,
+      "text": " Så laver den unikke version af siden.",
+      "speaker": "B"
+    },
+    {
+      "start": 2125.0,
+      "end": 2126.0,
+      "text": " Gør HTML'en tilgængelig.",
+      "speaker": "B"
+    },
+    {
+      "start": 2126.0,
+      "end": 2129.0,
+      "text": " Cacher billederne med schema-marker og alle mulige ting.",
+      "speaker": "B"
+    },
+    {
+      "start": 2129.0,
+      "end": 2132.0,
+      "text": " Så jo flere, der bruger siden, jo flere server kommer han til at rank på.",
+      "speaker": "B"
+    },
+    {
+      "start": 2132.0,
+      "end": 2135.0,
+      "text": " Så det her er effektivt et programmatisk SEO-projekt for mig lige nu.",
+      "speaker": "B"
+    },
+    {
+      "start": 2135.0,
+      "end": 2138.0,
+      "text": " Hvor jeg vil komme til at rank på alle danske virksomheder, der bruger penge på Facebook-organisering.",
+      "speaker": "B"
+    },
+    {
+      "start": 2138.0,
+      "end": 2139.0,
+      "text": " Jeg synes, det er så sjovt, det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 2139.0,
+      "end": 2142.0,
+      "text": " Og når vi er på the topic of distribution, Tino.",
+      "speaker": "B"
+    },
+    {
+      "start": 2142.0,
+      "end": 2144.0,
+      "text": " Hvad kan man ellers gøre for at få folk til at besøge ens app?",
+      "speaker": "B"
+    },
+    {
+      "start": 2144.0,
+      "end": 2147.0,
+      "text": " Du har nu bygget din app. Du vil gerne have, at folk bruger den.",
+      "speaker": "B"
+    },
+    {
+      "start": 2147.0,
+      "end": 2148.0,
+      "text": " Hvad kan du gøre?",
+      "speaker": "B"
+    },
+    {
+      "start": 2148.0,
+      "end": 2150.0,
+      "text": " Ja, altså hvis man har lavet, og det er jo vigtigt lige at skille det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 2150.0,
+      "end": 2152.0,
+      "text": " Hvis man har lavet app'en for, at eksterne kan bruge den.",
+      "speaker": "B"
+    },
+    {
+      "start": 2152.0,
+      "end": 2155.0,
+      "text": " Fordi nogle af de her tools, vi også har nævnt i dag, det er jo noget, som vi bruger internt.",
+      "speaker": "B"
+    },
+    {
+      "start": 2155.0,
+      "end": 2157.0,
+      "text": " Men hvis man gerne vil have det eksternt.",
+      "speaker": "B"
+    },
+    {
+      "start": 2157.0,
+      "end": 2159.0,
+      "text": " Så synes jeg faktisk, at du selv kom med et ret godt eksempel, Halvsten.",
+      "speaker": "B"
+    },
+    {
+      "start": 2159.0,
+      "end": 2162.0,
+      "text": " Fordi du viste jo, hvor mange var det, der havde brugt.",
+      "speaker": "B"
+    },
+    {
+      "start": 2162.0,
+      "end": 2164.0,
+      "text": " Var det tracking eller marketing-spændt toolet?",
+      "speaker": "B"
+    },
+    {
+      "start": 2164.0,
+      "end": 2168.0,
+      "text": " Der var en af dem, hvor der havde været en god tjat tusinde besøgende.",
+      "speaker": "B"
+    },
+    {
+      "start": 2168.0,
+      "end": 2170.0,
+      "text": " Og de er jo ikke kommet igennem SEO.",
+      "speaker": "B"
+    },
+    {
+      "start": 2170.0,
+      "end": 2173.0,
+      "text": " Altså det kunne vi jo se på den skærmdeling, du lige lavede fra Google Search Console.",
+      "speaker": "B"
+    },
+    {
+      "start": 2173.0,
+      "end": 2176.0,
+      "text": " Der er kommet lidt kliks derfra, men det er jo ikke derfor, at det er kommet.",
+      "speaker": "B"
+    },
+    {
+      "start": 2176.0,
+      "end": 2179.0,
+      "text": " Så du har jo distribueret det her tool ud af et sted.",
+      "speaker": "A"
+    },
+    {
+      "start": 2179.0,
+      "end": 2183.0,
+      "text": " Og det har jo især været organisk på LinkedIn.",
+      "speaker": "A"
+    },
+    {
+      "start": 2183.0,
+      "end": 2186.0,
+      "text": " På LinkedIn har du jo delt, for uden selvfølgelig de her annoncer.",
+      "speaker": "A"
+    },
+    {
+      "start": 2187.0,
+      "end": 2188.0,
+      "text": " Men det siger sig selv.",
+      "speaker": "A"
+    },
+    {
+      "start": 2188.0,
+      "end": 2190.0,
+      "text": " Selvfølgelig kan du køre betalt annoncering ind.",
+      "speaker": "A"
+    },
+    {
+      "start": 2190.0,
+      "end": 2194.0,
+      "text": " Men på LinkedIn, og faktisk også i podcasten, har du forsøgt at distribuere det her tool ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 2194.0,
+      "end": 2195.0,
+      "text": " Og det har jo virket.",
+      "speaker": "A"
+    },
+    {
+      "start": 2195.0,
+      "end": 2197.0,
+      "text": " Og hvad fortæller det os?",
+      "speaker": "A"
+    },
+    {
+      "start": 2197.0,
+      "end": 2202.0,
+      "text": " Jamen det fortæller, at det er imod ikke nemmere at lancere et tool, der skal bruges af andre, hvis du i forvejen har distributionen.",
+      "speaker": "A"
+    },
+    {
+      "start": 2202.0,
+      "end": 2205.0,
+      "text": " Og det er derfor, vi bliver ved med at prædike om, hvis du kan opbygge distributionen.",
+      "speaker": "A"
+    },
+    {
+      "start": 2205.0,
+      "end": 2208.0,
+      "text": " Altså du skulle have startet i går. Start, start, start.",
+      "speaker": "A"
+    },
+    {
+      "start": 2208.0,
+      "end": 2215.0,
+      "text": " Også fordi lige nu er vi et sted, Tine, hvor alle kan faktisk bygge det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 2215.0,
+      "end": 2219.0,
+      "text": " Vi har vidderligt lige skærmdelt og vist vores egen prompts til at bygge det her værktøj.",
+      "speaker": "A"
+    },
+    {
+      "start": 2219.0,
+      "end": 2228.0,
+      "text": " Så alle er der, hvor du med meget billige værktøjer og simpel prompting og hjælp fra nogle LLM'ere, der koster praktisk sat ingenting, kan lave deres egne værktøjer.",
+      "speaker": "A"
+    },
+    {
+      "start": 2228.0,
+      "end": 2231.0,
+      "text": " Så det at lave værktøjet er ikke længere en differentiator.",
+      "speaker": "A"
+    },
+    {
+      "start": 2231.0,
+      "end": 2241.0,
+      "text": " På samme måde som, hvis du er en indie developer eller hacker, hvor du har lavet B2B SaaS-værktøjer i de sidste fem år, så har man kunnet lave en forretning på det, fordi du kunne lave noget, alle andre ikke kunne.",
+      "speaker": "A"
+    },
+    {
+      "start": 2241.0,
+      "end": 2245.0,
+      "text": " Hvis du kunne lave et værktøj, de kunne betale nogle penge for, og så kunne de løse deres problem på den måde.",
+      "speaker": "A"
+    },
+    {
+      "start": 2245.0,
+      "end": 2251.0,
+      "text": " Nu, ikke lige om lidt, nu er vi et sted, hvor alle vidderligt kan lave det her værktøj.",
+      "speaker": "A"
+    },
+    {
+      "start": 2251.0,
+      "end": 2256.0,
+      "text": " Så hvordan kommer man til at udmærke sig i fremtiden, hvis alle kan lave de samme værktøjer?",
+      "speaker": "A"
+    },
+    {
+      "start": 2256.0,
+      "end": 2262.0,
+      "text": " Hvis alle bare kan lave dem ved at bruge et par timer og prompte, og så lave det præcis til, hvordan de gerne vil have det, i stedet for at have en fast omkostning.",
+      "speaker": "A"
+    },
+    {
+      "start": 2262.0,
+      "end": 2265.0,
+      "text": " Altså hvad er ens edge i fremtiden?",
+      "speaker": "A"
+    },
+    {
+      "start": 2265.0,
+      "end": 2270.0,
+      "text": " Jeg bliver ved med at komme tilbage til den samme ene ting, det er distribution.",
+      "speaker": "A"
+    },
+    {
+      "start": 2270.0,
+      "end": 2278.0,
+      "text": " I en verden, hvor alle kan lave det samme, og har de samme geniale redskaber til rådighed, hvad er det så, der afgør, hvem der bliver vist i fremtiden?",
+      "speaker": "A"
+    },
+    {
+      "start": 2278.0,
+      "end": 2282.0,
+      "text": " Og det gælder, hvis du bygger værktøjer, det gælder, hvis du laver indhold, det gælder, hvis du laver marketing.",
+      "speaker": "A"
+    },
+    {
+      "start": 2282.0,
+      "end": 2286.0,
+      "text": " Der er en god perspektivering over til marketing, hvis alle kan lave de samme længde indopslag.",
+      "speaker": "A"
+    },
+    {
+      "start": 2287.0,
+      "end": 2290.0,
+      "text": " Hvordan er det så, du sikrer, at det er rent faktisk dine, der bliver vist?",
+      "speaker": "A"
+    },
+    {
+      "start": 2290.0,
+      "end": 2296.0,
+      "text": " Det er ved at have et foregående distribution og have et kendt brand, så folk rent faktisk gider at læse dit indhold i forhold til alle andre, som de ikke kender i forarbejde.",
+      "speaker": "B"
+    },
+    {
+      "start": 2296.0,
+      "end": 2300.0,
+      "text": " Så det hele det kommer tilbage til distribution i min optik.",
+      "speaker": "B"
+    },
+    {
+      "start": 2300.0,
+      "end": 2305.0,
+      "text": " Fordi alle kan lave de her værktøjer, men årsagen til, at jeg får dem til at rank, eller jeg får dem distribueret ud,",
+      "speaker": "B"
+    },
+    {
+      "start": 2305.0,
+      "end": 2310.0,
+      "text": " eller at vi har fået 100 personer til at tage tracking over det, det er fordi vi har den kombinerede distribution af vores organiske LinkedIn.",
+      "speaker": "B"
+    },
+    {
+      "start": 2310.0,
+      "end": 2314.0,
+      "text": " Jeg kan sende det ud på en e-mail, jeg kan køre Facebook-organisering, vi kan nævne det på et podcast.",
+      "speaker": "B"
+    },
+    {
+      "start": 2314.0,
+      "end": 2317.0,
+      "text": " Altså, vi har distributionen til rent faktisk at få folk til at bruge værktøjerne.",
+      "speaker": "B"
+    },
+    {
+      "start": 2317.0,
+      "end": 2323.0,
+      "text": " Og i en verden, hvor det at bygge værktøjerne ikke er differentierende i sig selv, så er det distributionen, der kommer til at afgøre det i stedet for.",
+      "speaker": "B"
+    },
+    {
+      "start": 2323.0,
+      "end": 2324.0,
+      "text": " Helt enig.",
+      "speaker": "B"
+    },
+    {
+      "start": 2324.0,
+      "end": 2330.0,
+      "text": " En ting, som jeg håber, at man som lytter eller ser i dagens episode også ser, det er faktisk noget af det, du lige nævnte før, Halftan.",
+      "speaker": "B"
+    },
+    {
+      "start": 2330.0,
+      "end": 2332.0,
+      "text": " Det her med, at alle kan gøre det.",
+      "speaker": "A"
+    },
+    {
+      "start": 2332.0,
+      "end": 2339.0,
+      "text": " Det er imod væk ikke nogle gode start-prompts, nogen af os har lavet, men vi får eleverne til at hjælpe os.",
+      "speaker": "A"
+    },
+    {
+      "start": 2339.0,
+      "end": 2343.0,
+      "text": " Altså, har man en idé op i hovedet, og kan man bare forklare sig nogenlunde?",
+      "speaker": "A"
+    },
+    {
+      "start": 2343.0,
+      "end": 2346.0,
+      "text": " Jeg har endda gjort det på dansk, du har gjort det på engelsk.",
+      "speaker": "A"
+    },
+    {
+      "start": 2346.0,
+      "end": 2348.0,
+      "text": " Og få eleverne til at hjælpe dig.",
+      "speaker": "A"
+    },
+    {
+      "start": 2348.0,
+      "end": 2352.0,
+      "text": " Altså, når først du ser første version af webappen, de er langt nemmere at begynde at rette i det.",
+      "speaker": "A"
+    },
+    {
+      "start": 2352.0,
+      "end": 2355.0,
+      "text": " Og det kan du gøre, og de er ikke med kode, de er bare ved at skrive det.",
+      "speaker": "A"
+    },
+    {
+      "start": 2355.0,
+      "end": 2358.0,
+      "text": " Og det er jo der, hvor det her vibe-coding bare bliver.",
+      "speaker": "A"
+    },
+    {
+      "start": 2358.0,
+      "end": 2359.0,
+      "text": " Jamen, det er jo for vildt, altså.",
+      "speaker": "A"
+    },
+    {
+      "start": 2359.0,
+      "end": 2360.0,
+      "text": " Ja, det er det.",
+      "speaker": "A"
+    },
+    {
+      "start": 2360.0,
+      "end": 2362.0,
+      "text": " Det er den der ultimative demokratisering.",
+      "speaker": "A"
+    },
+    {
+      "start": 2362.0,
+      "end": 2363.0,
+      "text": " Jeg er helt vild med det.",
+      "speaker": "A"
+    },
+    {
+      "start": 2363.0,
+      "end": 2367.0,
+      "text": " Jeg tror, det store takeaway for den her episode, det er, hvis du ikke er i gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 2367.0,
+      "end": 2371.0,
+      "text": " Altså, lidt ligesom vi har sagt med AI-browsers.",
+      "speaker": "A"
+    },
+    {
+      "start": 2371.0,
+      "end": 2373.0,
+      "text": " Det vigtigste, du kan gøre med AI-browsers, det er bare at bruge dem.",
+      "speaker": "A"
+    },
+    {
+      "start": 2373.0,
+      "end": 2376.0,
+      "text": " Fordi det, at du begynder at bruge dem og binder dig til dem, det er det, der gør, at du bliver dygtig til at bruge dem i fremtiden.",
+      "speaker": "A"
+    },
+    {
+      "start": 2376.0,
+      "end": 2378.0,
+      "text": " Og det er en del af fremtiden.",
+      "speaker": "A"
+    },
+    {
+      "start": 2378.0,
+      "end": 2380.0,
+      "text": " Og jeg har det med samme måde med vibe-coding.",
+      "speaker": "B"
+    },
+    {
+      "start": 2380.0,
+      "end": 2384.0,
+      "text": " Det, at du kan sidde og lave dine egne små værktøjer, som kan løse dine problemer eller virksomhedsproblemer.",
+      "speaker": "B"
+    },
+    {
+      "start": 2384.0,
+      "end": 2388.0,
+      "text": " Og bare gøre hverdagen en lille smule nemmere og fjerne manuelt arbejde.",
+      "speaker": "B"
+    },
+    {
+      "start": 2388.0,
+      "end": 2390.0,
+      "text": " Det er fremtidens måde at arbejde på.",
+      "speaker": "B"
+    },
+    {
+      "start": 2390.0,
+      "end": 2393.0,
+      "text": " Så min største anbefaling, det er bare at gå i gang med dem.",
+      "speaker": "B"
+    },
+    {
+      "start": 2394.0,
+      "end": 2398.0,
+      "text": " Og Gemini og AI-studio er vidderligt gratis at gå i gang med.",
+      "speaker": "B"
+    },
+    {
+      "start": 2398.0,
+      "end": 2402.0,
+      "text": " Loveable koster uendeligt lidt og har også en gratis plan, hvis du ikke laver særlig meget.",
+      "speaker": "B"
+    },
+    {
+      "start": 2402.0,
+      "end": 2406.0,
+      "text": " Så min største anbefaling, det er bare, hvilke problemer har du, hvilke ting sidder du og laver manuelt.",
+      "speaker": "B"
+    },
+    {
+      "start": 2406.0,
+      "end": 2409.0,
+      "text": " Og prøv at se, om du ikke kan løse dem, fordi du bliver så meget klogere, når du først går i gang.",
+      "speaker": "B"
+    },
+    {
+      "start": 2409.0,
+      "end": 2413.0,
+      "text": " Og den største anbefaling herfra, hvis du sidder og tænker over, hvad er det for nogle problemer, du har i hverdagen.",
+      "speaker": "B"
+    },
+    {
+      "start": 2413.0,
+      "end": 2416.0,
+      "text": " Og det er lidt svært lige at komme i tanke om noget, som du kan lave en app til.",
+      "speaker": "B"
+    },
+    {
+      "start": 2416.0,
+      "end": 2419.0,
+      "text": " Og du gerne vil i gang, så prøv at bygge et spil.",
+      "speaker": "B"
+    },
+    {
+      "start": 2419.0,
+      "end": 2424.0,
+      "text": " Og det her tip her, det kommer sig faktisk af, at jeg hen over julen sad med min far og skulle vise ham,",
+      "speaker": "B"
+    },
+    {
+      "start": 2424.0,
+      "end": 2427.0,
+      "text": " hvor nemt det faktisk er blevet, det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 2427.0,
+      "end": 2432.0,
+      "text": " Og både min far og jeg, vil godt lide at sidde og lave Sudoku, når der overhovedet lige skal slås fra.",
+      "speaker": "B"
+    },
+    {
+      "start": 2432.0,
+      "end": 2434.0,
+      "text": " Så vi gik i gang med at bygge en Sudoku.",
+      "speaker": "B"
+    },
+    {
+      "start": 2434.0,
+      "end": 2439.0,
+      "text": " Og det her med at sidde og kunne spille det live og så se, ah det der med, hvis man spiller Sudoku,",
+      "speaker": "B"
+    },
+    {
+      "start": 2439.0,
+      "end": 2444.0,
+      "text": " så ved man, det her med at kunne sidde og tage noter, så du lægger ikke selve tallet ind,",
+      "speaker": "B"
+    },
+    {
+      "start": 2444.0,
+      "end": 2447.0,
+      "text": " men du laver noter til. Det her, det kunne være, at det er tallet, der skal stå der.",
+      "speaker": "A"
+    },
+    {
+      "start": 2447.0,
+      "end": 2449.0,
+      "text": " Men det var ikke en del af første draft.",
+      "speaker": "A"
+    },
+    {
+      "start": 2449.0,
+      "end": 2451.0,
+      "text": " Okay, så går vi ind og forklarer den, det skal altså være med.",
+      "speaker": "A"
+    },
+    {
+      "start": 2451.0,
+      "end": 2452.0,
+      "text": " Jamen så kom det med.",
+      "speaker": "A"
+    },
+    {
+      "start": 2452.0,
+      "end": 2457.0,
+      "text": " Okay, næste gang, så vil vi gerne have, at når man trykker på ét tallet, så skal det ligesom lyse op på hele spillepladen.",
+      "speaker": "A"
+    },
+    {
+      "start": 2457.0,
+      "end": 2459.0,
+      "text": " Okay, det var heller ikke med i første draft.",
+      "speaker": "A"
+    },
+    {
+      "start": 2459.0,
+      "end": 2462.0,
+      "text": " Men hele den her, det gik bare op for mig, det første spil jeg laver,",
+      "speaker": "A"
+    },
+    {
+      "start": 2462.0,
+      "end": 2466.0,
+      "text": " det gik op for mig, hvor værdifuldt det er i forhold til at forstå, dels hvad der kan lade sig gøre,",
+      "speaker": "A"
+    },
+    {
+      "start": 2466.0,
+      "end": 2469.0,
+      "text": " men også hvordan man skal forklare det, man skal.",
+      "speaker": "A"
+    },
+    {
+      "start": 2469.0,
+      "end": 2471.0,
+      "text": " Så hvis du sidder og er i tvivl om, hvor du skal starte hen,",
+      "speaker": "A"
+    },
+    {
+      "start": 2471.0,
+      "end": 2473.0,
+      "text": " så prøv at starte med et simpelt spil.",
+      "speaker": "A"
+    },
+    {
+      "start": 2473.0,
+      "end": 2475.0,
+      "text": " Du får så meget læring ud af det.",
+      "speaker": "A"
+    },
+    {
+      "start": 2475.0,
+      "end": 2476.0,
+      "text": " Jeg er vild med simplet.",
+      "speaker": "A"
+    },
+    {
+      "start": 2476.0,
+      "end": 2477.0,
+      "text": " Fremragende.",
+      "speaker": "A"
+    },
+    {
+      "start": 2477.0,
+      "end": 2479.0,
+      "text": " Bare start, og så skal du nok lære resten.",
+      "speaker": "A"
+    },
+    {
+      "start": 2479.0,
+      "end": 2482.0,
+      "text": " Tusind tak, fordi du lyttede med til dagens episode.",
+      "speaker": "A"
+    },
+    {
+      "start": 2482.0,
+      "end": 2484.0,
+      "text": " Du er meget velkommen til at prøve vores apps.",
+      "speaker": "A"
+    },
+    {
+      "start": 2484.0,
+      "end": 2487.0,
+      "text": " Mine ligger på tracking.obsidianagency.com",
+      "speaker": "A"
+    },
+    {
+      "start": 2487.0,
+      "end": 2492.0,
+      "text": " Vi lægger links ind til dem i episode-description, så du kan se dem på Spotify og YouTube eller LinkedIn,",
+      "speaker": "A"
+    },
+    {
+      "start": 2492.0,
+      "end": 2493.0,
+      "text": " eller hvor du følger med.",
+      "speaker": "A"
+    },
+    {
+      "start": 2493.0,
+      "end": 2494.0,
+      "text": " Tusind tak, fordi du lyttede med.",
+      "speaker": "A"
+    },
+    {
+      "start": 2494.0,
+      "end": 2495.0,
+      "text": " Op og genhør.",
+      "speaker": "A"
+    }
+  ]
+}

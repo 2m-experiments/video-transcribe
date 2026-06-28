@@ -1,0 +1,433 @@
+{
+  "title": "Tracking-special #5: Hvad er Event Match Quality, og hvordan øger du den?",
+  "url": "https://www.youtube.com/watch?v=5KLdamo3laQ",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 404.6,
+  "transcribed_at": "2026-04-17T12:33:10.906674+00:00",
+  "full_text": "Christian, i den her fømte episode af vores lille Tracking-kursus, der skal vi snakke om Event Match Quality på META, det der hedder EMQ, og et tal, der går fra 0 til 10. Er det et tal, du bruger meget tid på normalt? Både ja og nej. Ikke til daglig, men vi har faktisk en fast check i gang hver anden tredje måned af højden i størrelsen på casen, hvor vi lige hurtigt går ind og kigger, fordi vi har desværre, klog af skade, tidligere oplevet, at der kan ske et eller andet af uansagelige oversager, hvor den her match quality simpelthen, som du selv siger, så går den fra et spænd fra 1 til 10. 10 er bedst, 1 er noget skidt. Det er ikke godt. Længere ned mod 1 end op mod 10, hvor man sådan set tænker, åååh, det der, det skal vi simpelthen være over. Det bliver typisk sådan fordømt, den bliver typisk ikke bedre af sig selv. Nogle gange bliver den dårligere, men den bliver typisk ikke bedre af sig selv. Nej, det lyder dejligt ellers. Nej, det er rigtigt. Det er generelt en god idé at gøre det. Event match quality, det handler om, hvor meget ekstra data, du kan sende med i dine Facebook-kommenteringer. Og det er et tal, du får, hvis du har opsat server-side tagging på Facebook, som Facebook også selv kalder for conversions-API. Og hvis man har tænkt, hvad forskellen er på de to, der er ingen forskel. Conversions-API lyder bare mere sexet end server-side tagging, men det er det samme. Event match quality, det handler om, hvor meget ekstra information, du kan sende med. Så man kan sige, at basis-informationen for at måle en hændelse på Facebook-organiseringen, det er jo at affyre et stykke skribt, der siger, at der er sket et køb. Done. Det var det. Så kan du eventuelt lige lægge lidt mere data på og sige, at købet var af det her produkt, og det havde den her værdi i den her valuta. Det ville være standard. Det har de fleste e-commerce virksomheder. Hvis det var en B2B virksomhed, ville det være, at folk har udfyldt kontaktformularen. Og så måske ikke så meget mere end det. Det, man så kan gøre med event match quality, det er, at man kan sende mere information med om brugeren. Og den her information lidt i stil med enhanced conversions, som vi har snakket om med Google Ads tidligere, hjælper med til at identificere flere brugere. Så event match quality, det handler om, sender du for eksempel e-mail med, sender du telefonnummeret, sender du fornavn, efternavn, by, postnummer, Facebook-klik-idé, IP-adresse og alle mulige andre ting. Og igen er jeg jo bare nødt til at sige til alle dem, der sidder og tænker, at det her, det lyder som en GDPR-katastrofe. Det er hashkrypteret, det hele. Så Facebook kan ikke se e-mailadressen, de kan ikke se telefonnummeret, de kan ikke se fornavnet og efternavnet. Ligesom i episoden med enhanced conversions, når den her information, den bliver hashkrypteret via SHA-256-kryptering, så bliver det omdannet til total vulopyg, som ingen kan aflæse. Det eneste, Mesa kan, det er, at de kan konstatere, om det her, det matcher noget data, de allerede selv har, som er hashkrypteret og dermed tilskrive en konvertering. Så de har ikke adgang til det, de kan bare konstatere, om det har udført en konvertering i de kampagner, man rent faktisk har kørt. Så derfor er det GDPR-venligt af den årsag. Der kan da være en masse andre ting, der ikke er i dine opsætninger, men det er en anden episode. I sig selv at sætte event match quality op, er fint, fordi Facebook vil slet ikke modtage dataen, og det vil Google heller ikke, hvis man sætter den ukrypteret. Så afviser den det bare og giver dig en advarsel ind i din Facebook Ads Manager. Så det, man skal gøre, det er, at man skal gå ind på ens Facebook-konto, ens Facebook-pixel, og så kigge på ens events. Events, det vil jo normalt være sådan noget som visning af indhold, får I til indkøbsvogn, begyndt betaling, tilføjer I betalingsoplysninger og køb. Så skal man især tjekke det her på de events, man rent faktisk optimerer efter. Fordi lidt ligesom Google har primære og sekundære hendelser, så har Metoo en masse hendelser, og sådan nogle får du rent faktisk at optimere din kampagne efter. Og hvis du har et får I til indkøbsvogns event, som har en meget lav event match quality, er der ingen skade sket, hvis du ingen kampagne har, der rent faktisk bruger det som optimeringsmål. Men hvis du optimerer efter køb, og det har en meget lav event match quality, så er der et potentiale for rent faktisk at få mere ud af det. Altså det man skal gøre helt simpelt, det er at gå ind og tjekke de konverteringshendelser, man rent faktisk optimerer efter. Hvor høj en event match quality vil man gerne have. Så spørgsmålet er så, hvad for en event match quality skal man sådan gå efter? Hvad er godt? Hvad er skidt? Har du nogle sådan tommelfingerele, du gerne vil se her? Ej, jeg plejer at sige 8. Hvis vi kan ramme omkring de 8, så er jeg egentlig glad langt hen ad vejen. Det vil også være en god tommelfingerele for mig, fordi Shopify's standard opsætning i sales channel, hvis man bare slår den til og slår maximum tracking på det andet, så har du 7,9. Og så sender du de vigtige. Altså så sender du e-mail, telefonnummer, fornavn, eftenavn, klikidé, når du kan få det osv. Så allerede det vil være rigtig flot. Og du kan ikke rigtig få 10 ud af 10 i praksis. Og årsagen er, at et af de parametre, man skal sende med, det er klikidéet fra Facebook. Og det betyder, at hvis en person har klikket sig ind for en Facebook-annonce, så ligger der i URL'en en lang streng, som udgør et ID. Det ID kan man gemme og sende med tilbage, når der er sket en kommentering. Men hvis du skal have 10 ud af 10, så forudsætter det, at samtlige af dine besøgende kommer fra Facebook og har det her ID. Og så skal du slukke alle dine andre trafikkanaler, og det har du heller ikke lyst til at gøre. Så man kan sige, at du skulle gerne sende 100% af dine e-mailadresser, og du skulle gerne sende 100% af din telefonnummer. Klikidéet vil normalt stå til sådan 13%, eller 20%, eller afhænger lidt af, hvor offensivt du er på Facebook. Og det er meningen. Det er altså fordi, at dem, der klikker sig ind for Google Ads, især en sådan tur, ikke får et klikidé fra Facebook. Så skal man være opmærksom på, at det her ikke er en, man kan få på 10 ud af 10. Men det er en, hvor hvis du ligger på 1, 2, 3, 4, 5, så er der også et ret stort potentiale for at optimere på den her, øge dine event match quality, og på den måde få mere data ind i Facebook. Og man siger helt high level, hvorfor er det, vi har interesse i at gøre det her? Jamen det er jo fordi, at vi arbejder med algoritmer, der lever af at blive fodret. Og hvis vi har en for lav event match quality score, så fodrer vi ikke algoritmen i høj nok grad. I hvert fald ikke i lige så høj grad, som vi kunne. Og det vil vi jo rigtig gerne. Fordi så får algoritmen altså mere arbejde, men den bliver klogere, den bliver dygtigere til lige præcis den forretning, som du sidder og annoncerer for. Og det vil vi jo rigtig gerne, for det plejer alt andet lige at give markant bedre resultater. Ja, det handler simpelthen om at få mest ud af de annoncekroner, du bruger. Du kan servere ind på de events, du rent faktisk bruger, jo mere eller jo højere afkast får du. Så det handler om at optimere det afkast, man får på de penge, man bruger alligevel på Facebook-annoncering. Så kort opsummeret ind i din Facebook-pixel, kig på de hendelser, du rent faktisk optimerer efter. Og så se, hvad din event match quality er. Og til alle de annoncerere, som optimerer primært efter on-page events på Facebook. Det kunne være for eksempel lead ads, eller begivenhedssvar, eller køb på Facebook-shop. Tillykke, din tracking virker fantastisk, og du behøver ikke at gøre mere herfra, fordi det hele er indbygget. Så det her er kun til alle os, der prøver at sælge noget på en webshop, eller får folk til at udfølge en kontaktformler på websitet, eller hvad det nu skal være. Her er det relevant, og det er et af de tal, man bør tjekke og holde øje med.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 12.0,
+      "text": " Christian, i den her fømte episode af vores lille Tracking-kursus, der skal vi snakke om Event Match Quality på META, det der hedder EMQ,",
+      "speaker": "A"
+    },
+    {
+      "start": 12.0,
+      "end": 19.0,
+      "text": " og et tal, der går fra 0 til 10. Er det et tal, du bruger meget tid på normalt?",
+      "speaker": "A"
+    },
+    {
+      "start": 19.0,
+      "end": 26.0,
+      "text": " Både ja og nej. Ikke til daglig, men vi har faktisk en fast check i gang hver anden tredje måned af højden i størrelsen på casen,",
+      "speaker": "B"
+    },
+    {
+      "start": 26.0,
+      "end": 33.0,
+      "text": " hvor vi lige hurtigt går ind og kigger, fordi vi har desværre, klog af skade, tidligere oplevet, at der kan ske et eller andet af uansagelige oversager,",
+      "speaker": "B"
+    },
+    {
+      "start": 33.0,
+      "end": 39.0,
+      "text": " hvor den her match quality simpelthen, som du selv siger, så går den fra et spænd fra 1 til 10. 10 er bedst, 1 er noget skidt.",
+      "speaker": "B"
+    },
+    {
+      "start": 39.0,
+      "end": 45.0,
+      "text": " Det er ikke godt. Længere ned mod 1 end op mod 10, hvor man sådan set tænker, åååh, det der, det skal vi simpelthen være over.",
+      "speaker": "B"
+    },
+    {
+      "start": 45.0,
+      "end": 50.0,
+      "text": " Det bliver typisk sådan fordømt, den bliver typisk ikke bedre af sig selv. Nogle gange bliver den dårligere, men den bliver typisk ikke bedre af sig selv.",
+      "speaker": "A"
+    },
+    {
+      "start": 50.0,
+      "end": 55.0,
+      "text": " Nej, det lyder dejligt ellers. Nej, det er rigtigt. Det er generelt en god idé at gøre det.",
+      "speaker": "A"
+    },
+    {
+      "start": 55.0,
+      "end": 60.0,
+      "text": " Event match quality, det handler om, hvor meget ekstra data, du kan sende med i dine Facebook-kommenteringer.",
+      "speaker": "A"
+    },
+    {
+      "start": 60.0,
+      "end": 66.0,
+      "text": " Og det er et tal, du får, hvis du har opsat server-side tagging på Facebook, som Facebook også selv kalder for conversions-API.",
+      "speaker": "A"
+    },
+    {
+      "start": 66.0,
+      "end": 73.0,
+      "text": " Og hvis man har tænkt, hvad forskellen er på de to, der er ingen forskel. Conversions-API lyder bare mere sexet end server-side tagging, men det er det samme.",
+      "speaker": "A"
+    },
+    {
+      "start": 74.0,
+      "end": 81.0,
+      "text": " Event match quality, det handler om, hvor meget ekstra information, du kan sende med. Så man kan sige, at basis-informationen for at måle en hændelse på Facebook-organiseringen,",
+      "speaker": "A"
+    },
+    {
+      "start": 81.0,
+      "end": 87.0,
+      "text": " det er jo at affyre et stykke skribt, der siger, at der er sket et køb. Done. Det var det.",
+      "speaker": "A"
+    },
+    {
+      "start": 87.0,
+      "end": 94.0,
+      "text": " Så kan du eventuelt lige lægge lidt mere data på og sige, at købet var af det her produkt, og det havde den her værdi i den her valuta.",
+      "speaker": "A"
+    },
+    {
+      "start": 94.0,
+      "end": 101.0,
+      "text": " Det ville være standard. Det har de fleste e-commerce virksomheder. Hvis det var en B2B virksomhed, ville det være, at folk har udfyldt kontaktformularen.",
+      "speaker": "A"
+    },
+    {
+      "start": 101.0,
+      "end": 109.0,
+      "text": " Og så måske ikke så meget mere end det. Det, man så kan gøre med event match quality, det er, at man kan sende mere information med om brugeren.",
+      "speaker": "A"
+    },
+    {
+      "start": 109.0,
+      "end": 119.0,
+      "text": " Og den her information lidt i stil med enhanced conversions, som vi har snakket om med Google Ads tidligere, hjælper med til at identificere flere brugere.",
+      "speaker": "A"
+    },
+    {
+      "start": 119.0,
+      "end": 128.0,
+      "text": " Så event match quality, det handler om, sender du for eksempel e-mail med, sender du telefonnummeret, sender du fornavn, efternavn, by, postnummer,",
+      "speaker": "A"
+    },
+    {
+      "start": 128.0,
+      "end": 136.0,
+      "text": " Facebook-klik-idé, IP-adresse og alle mulige andre ting. Og igen er jeg jo bare nødt til at sige til alle dem, der sidder og tænker, at det her, det lyder som en GDPR-katastrofe.",
+      "speaker": "A"
+    },
+    {
+      "start": 136.0,
+      "end": 144.0,
+      "text": " Det er hashkrypteret, det hele. Så Facebook kan ikke se e-mailadressen, de kan ikke se telefonnummeret, de kan ikke se fornavnet og efternavnet.",
+      "speaker": "A"
+    },
+    {
+      "start": 144.0,
+      "end": 153.0,
+      "text": " Ligesom i episoden med enhanced conversions, når den her information, den bliver hashkrypteret via SHA-256-kryptering, så bliver det omdannet til total vulopyg, som ingen kan aflæse.",
+      "speaker": "A"
+    },
+    {
+      "start": 153.0,
+      "end": 161.0,
+      "text": " Det eneste, Mesa kan, det er, at de kan konstatere, om det her, det matcher noget data, de allerede selv har, som er hashkrypteret og dermed tilskrive en konvertering.",
+      "speaker": "A"
+    },
+    {
+      "start": 161.0,
+      "end": 167.0,
+      "text": " Så de har ikke adgang til det, de kan bare konstatere, om det har udført en konvertering i de kampagner, man rent faktisk har kørt.",
+      "speaker": "A"
+    },
+    {
+      "start": 167.0,
+      "end": 170.0,
+      "text": " Så derfor er det GDPR-venligt af den årsag.",
+      "speaker": "A"
+    },
+    {
+      "start": 170.0,
+      "end": 174.0,
+      "text": " Der kan da være en masse andre ting, der ikke er i dine opsætninger, men det er en anden episode.",
+      "speaker": "A"
+    },
+    {
+      "start": 175.0,
+      "end": 182.0,
+      "text": " I sig selv at sætte event match quality op, er fint, fordi Facebook vil slet ikke modtage dataen, og det vil Google heller ikke, hvis man sætter den ukrypteret.",
+      "speaker": "A"
+    },
+    {
+      "start": 182.0,
+      "end": 186.0,
+      "text": " Så afviser den det bare og giver dig en advarsel ind i din Facebook Ads Manager.",
+      "speaker": "A"
+    },
+    {
+      "start": 186.0,
+      "end": 193.0,
+      "text": " Så det, man skal gøre, det er, at man skal gå ind på ens Facebook-konto, ens Facebook-pixel, og så kigge på ens events.",
+      "speaker": "A"
+    },
+    {
+      "start": 193.0,
+      "end": 199.0,
+      "text": " Events, det vil jo normalt være sådan noget som visning af indhold, får I til indkøbsvogn, begyndt betaling, tilføjer I betalingsoplysninger og køb.",
+      "speaker": "A"
+    },
+    {
+      "start": 199.0,
+      "end": 203.0,
+      "text": " Så skal man især tjekke det her på de events, man rent faktisk optimerer efter.",
+      "speaker": "A"
+    },
+    {
+      "start": 203.0,
+      "end": 210.0,
+      "text": " Fordi lidt ligesom Google har primære og sekundære hendelser, så har Metoo en masse hendelser, og sådan nogle får du rent faktisk at optimere din kampagne efter.",
+      "speaker": "A"
+    },
+    {
+      "start": 210.0,
+      "end": 219.0,
+      "text": " Og hvis du har et får I til indkøbsvogns event, som har en meget lav event match quality, er der ingen skade sket, hvis du ingen kampagne har, der rent faktisk bruger det som optimeringsmål.",
+      "speaker": "A"
+    },
+    {
+      "start": 219.0,
+      "end": 227.0,
+      "text": " Men hvis du optimerer efter køb, og det har en meget lav event match quality, så er der et potentiale for rent faktisk at få mere ud af det.",
+      "speaker": "A"
+    },
+    {
+      "start": 228.0,
+      "end": 233.0,
+      "text": " Altså det man skal gøre helt simpelt, det er at gå ind og tjekke de konverteringshendelser, man rent faktisk optimerer efter.",
+      "speaker": "A"
+    },
+    {
+      "start": 233.0,
+      "end": 237.0,
+      "text": " Hvor høj en event match quality vil man gerne have.",
+      "speaker": "A"
+    },
+    {
+      "start": 237.0,
+      "end": 241.0,
+      "text": " Så spørgsmålet er så, hvad for en event match quality skal man sådan gå efter?",
+      "speaker": "A"
+    },
+    {
+      "start": 241.0,
+      "end": 246.0,
+      "text": " Hvad er godt? Hvad er skidt? Har du nogle sådan tommelfingerele, du gerne vil se her?",
+      "speaker": "A"
+    },
+    {
+      "start": 246.0,
+      "end": 253.0,
+      "text": " Ej, jeg plejer at sige 8. Hvis vi kan ramme omkring de 8, så er jeg egentlig glad langt hen ad vejen.",
+      "speaker": "B"
+    },
+    {
+      "start": 253.0,
+      "end": 263.0,
+      "text": " Det vil også være en god tommelfingerele for mig, fordi Shopify's standard opsætning i sales channel, hvis man bare slår den til og slår maximum tracking på det andet, så har du 7,9.",
+      "speaker": "A"
+    },
+    {
+      "start": 263.0,
+      "end": 269.0,
+      "text": " Og så sender du de vigtige. Altså så sender du e-mail, telefonnummer, fornavn, eftenavn, klikidé, når du kan få det osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 269.0,
+      "end": 271.0,
+      "text": " Så allerede det vil være rigtig flot.",
+      "speaker": "A"
+    },
+    {
+      "start": 271.0,
+      "end": 278.0,
+      "text": " Og du kan ikke rigtig få 10 ud af 10 i praksis. Og årsagen er, at et af de parametre, man skal sende med, det er klikidéet fra Facebook.",
+      "speaker": "A"
+    },
+    {
+      "start": 278.0,
+      "end": 284.0,
+      "text": " Og det betyder, at hvis en person har klikket sig ind for en Facebook-annonce, så ligger der i URL'en en lang streng, som udgør et ID.",
+      "speaker": "A"
+    },
+    {
+      "start": 284.0,
+      "end": 288.0,
+      "text": " Det ID kan man gemme og sende med tilbage, når der er sket en kommentering.",
+      "speaker": "A"
+    },
+    {
+      "start": 288.0,
+      "end": 294.0,
+      "text": " Men hvis du skal have 10 ud af 10, så forudsætter det, at samtlige af dine besøgende kommer fra Facebook og har det her ID.",
+      "speaker": "A"
+    },
+    {
+      "start": 294.0,
+      "end": 298.0,
+      "text": " Og så skal du slukke alle dine andre trafikkanaler, og det har du heller ikke lyst til at gøre.",
+      "speaker": "A"
+    },
+    {
+      "start": 298.0,
+      "end": 304.0,
+      "text": " Så man kan sige, at du skulle gerne sende 100% af dine e-mailadresser, og du skulle gerne sende 100% af din telefonnummer.",
+      "speaker": "A"
+    },
+    {
+      "start": 304.0,
+      "end": 310.0,
+      "text": " Klikidéet vil normalt stå til sådan 13%, eller 20%, eller afhænger lidt af, hvor offensivt du er på Facebook.",
+      "speaker": "A"
+    },
+    {
+      "start": 310.0,
+      "end": 315.0,
+      "text": " Og det er meningen. Det er altså fordi, at dem, der klikker sig ind for Google Ads, især en sådan tur, ikke får et klikidé fra Facebook.",
+      "speaker": "A"
+    },
+    {
+      "start": 315.0,
+      "end": 319.0,
+      "text": " Så skal man være opmærksom på, at det her ikke er en, man kan få på 10 ud af 10.",
+      "speaker": "A"
+    },
+    {
+      "start": 319.0,
+      "end": 326.0,
+      "text": " Men det er en, hvor hvis du ligger på 1, 2, 3, 4, 5, så er der også et ret stort potentiale for at optimere på den her,",
+      "speaker": "A"
+    },
+    {
+      "start": 326.0,
+      "end": 330.0,
+      "text": " øge dine event match quality, og på den måde få mere data ind i Facebook.",
+      "speaker": "A"
+    },
+    {
+      "start": 330.0,
+      "end": 333.0,
+      "text": " Og man siger helt high level, hvorfor er det, vi har interesse i at gøre det her?",
+      "speaker": "A"
+    },
+    {
+      "start": 333.0,
+      "end": 337.0,
+      "text": " Jamen det er jo fordi, at vi arbejder med algoritmer, der lever af at blive fodret.",
+      "speaker": "B"
+    },
+    {
+      "start": 337.0,
+      "end": 343.0,
+      "text": " Og hvis vi har en for lav event match quality score, så fodrer vi ikke algoritmen i høj nok grad.",
+      "speaker": "B"
+    },
+    {
+      "start": 343.0,
+      "end": 346.0,
+      "text": " I hvert fald ikke i lige så høj grad, som vi kunne. Og det vil vi jo rigtig gerne.",
+      "speaker": "B"
+    },
+    {
+      "start": 346.0,
+      "end": 351.0,
+      "text": " Fordi så får algoritmen altså mere arbejde, men den bliver klogere, den bliver dygtigere til lige præcis den forretning, som du sidder og annoncerer for.",
+      "speaker": "B"
+    },
+    {
+      "start": 351.0,
+      "end": 356.0,
+      "text": " Og det vil vi jo rigtig gerne, for det plejer alt andet lige at give markant bedre resultater.",
+      "speaker": "B"
+    },
+    {
+      "start": 356.0,
+      "end": 359.0,
+      "text": " Ja, det handler simpelthen om at få mest ud af de annoncekroner, du bruger.",
+      "speaker": "A"
+    },
+    {
+      "start": 360.0,
+      "end": 364.0,
+      "text": " Du kan servere ind på de events, du rent faktisk bruger, jo mere eller jo højere afkast får du.",
+      "speaker": "A"
+    },
+    {
+      "start": 364.0,
+      "end": 369.0,
+      "text": " Så det handler om at optimere det afkast, man får på de penge, man bruger alligevel på Facebook-annoncering.",
+      "speaker": "A"
+    },
+    {
+      "start": 369.0,
+      "end": 375.0,
+      "text": " Så kort opsummeret ind i din Facebook-pixel, kig på de hendelser, du rent faktisk optimerer efter.",
+      "speaker": "A"
+    },
+    {
+      "start": 375.0,
+      "end": 378.0,
+      "text": " Og så se, hvad din event match quality er.",
+      "speaker": "A"
+    },
+    {
+      "start": 378.0,
+      "end": 382.0,
+      "text": " Og til alle de annoncerere, som optimerer primært efter on-page events på Facebook.",
+      "speaker": "A"
+    },
+    {
+      "start": 382.0,
+      "end": 386.0,
+      "text": " Det kunne være for eksempel lead ads, eller begivenhedssvar, eller køb på Facebook-shop.",
+      "speaker": "A"
+    },
+    {
+      "start": 386.0,
+      "end": 391.0,
+      "text": " Tillykke, din tracking virker fantastisk, og du behøver ikke at gøre mere herfra, fordi det hele er indbygget.",
+      "speaker": "A"
+    },
+    {
+      "start": 391.0,
+      "end": 394.0,
+      "text": " Så det her er kun til alle os, der prøver at sælge noget på en webshop,",
+      "speaker": "A"
+    },
+    {
+      "start": 394.0,
+      "end": 398.0,
+      "text": " eller får folk til at udfølge en kontaktformler på websitet, eller hvad det nu skal være.",
+      "speaker": "A"
+    },
+    {
+      "start": 398.0,
+      "end": 402.0,
+      "text": " Her er det relevant, og det er et af de tal, man bør tjekke og holde øje med.",
+      "speaker": "A"
+    }
+  ]
+}
