@@ -9,1871 +9,1875 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 10.0,
       "text": " Christian, i denne korte episode af MarketingPod skal vi snakke om leading vs. lagging indikatorer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 18.0,
       "text": " Årsagen til, at vi tager det her emne op, er, at vi har lavet et relativt stort skifte i Obsidiens egen måde at måle salg og markeding på herfra efter året 2024,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 18.0,
       "end": 23.0,
       "text": " hvor vi er gået fra en lagging til en leading indikator. Det har vi gjort os mange overvejelser om i forhold til, hvordan vi måler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 26.0,
       "text": " og hvad det kommer til at betyde for vores egen markeding og salgsindsats.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 26.0,
       "end": 32.0,
       "text": " Og det her er både relevant for B2B og B2C virksomheder, hvis man bare har sådan relativt lange og komplekse kunderejser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 32.0,
       "end": 39.0,
       "text": " Lad mig starte med at spørge dig, hvad gør I rent KPI-mæssigt i forhold til egen salg og marketing?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 39.0,
       "end": 44.0,
       "text": " Ja, men det er jo faktisk et rigtig godt spørgsmål, fordi vi har altid været drevet meget inbound.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 44.0,
       "end": 53.0,
       "text": " Og inbound er super fedt, fordi dem, der så kontakter dig, de er typisk mere varme, end hvis du havde lavet et webinar og fået en tilmelding ind der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 53.0,
       "end": 58.0,
       "text": " Issuet er, at det er svært at skrue op for, fordi hvad er det egentlig, der gør, at vi får de her inbound-leads?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 58.0,
       "end": 61.0,
       "text": " Men det er, at der er nogen, der har refereret os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 61.0,
       "end": 68.0,
       "text": " Så vi har faktisk aldrig rigtig arbejdet så aktivt med det, som vi gør nu i forbindelse med, at vi er kommet ind under Obsidian Digital.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 68.0,
       "end": 72.0,
       "text": " Lad os starte med lige at definere, hvad kunne lagging og leading være?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 72.0,
       "end": 79.0,
       "text": " Og vi kan starte med lagging indicators, fordi det er det, vi har kørt efter indtil nu, de første 7-8-9 år i vores selvfælde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 79.0,
       "end": 84.0,
       "text": " og som jeg tror, mange virksomheder kører efter, fordi lagging indicators har også en tendens til at være de mest business-cruciale,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 84.0,
       "end": 87.0,
       "text": " eller dem, der tættest bedre vil virkeligheden optimere efter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 87.0,
       "end": 91.0,
       "text": " Så i vores tilfælde, i Obsidians tilfælde, der er tre lagging indicators for os.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 91.0,
       "end": 96.0,
       "text": " Det vil være salg og omsætning, som jo er en positiv kopi, men den er laggende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 96.0,
       "end": 102.0,
       "text": " Det er, fordi fra vi opretter en deal i vores hopspot, til at den rent faktisk bliver lukket, går der i gennemsnit 62 dage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 102.0,
       "end": 105.0,
       "text": " Og jeg tror ikke, at det er alle, der er lige gode til at oprette med det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 105.0,
       "end": 110.0,
       "text": " Jeg tror også, at den virkelige konverteringstid for os er nærmere 90 dage, hvis vi kan komme med et get på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 110.0,
       "end": 115.0,
       "text": " Hvis vi kigger på, hvor mange af de deals, vi opretter, vi rent faktisk lukker og alt andet lige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 115.0,
       "end": 118.0,
       "text": " så tror jeg, at vi er tre måneder bagud i forhold til den indsats, vi gør for at få dem ind lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 118.0,
       "end": 120.0,
       "text": " Og derfor er det en lagging indicator.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 120.0,
       "end": 122.0,
       "text": " En anden ting, vi kigger på, det er livstidsværdi.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 126.0,
       "text": " Det er også en dejlig kopi, men det tager jo år at realisere livstidsværdien.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 129.0,
       "text": " Vi har mange kunder, vi fik i 2016 i Obsidian, som stadig er her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 133.0,
       "text": " Så vores livstidsværdi udvikler sig hele tiden, så den er også meget lagging.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 133.0,
       "end": 135.0,
       "text": " En kopi, vi også kigger på, det er churn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 135.0,
       "end": 137.0,
       "text": " Hvad er vores månedlige og vores årlige churn?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 140.0,
       "text": " Det er også en super vigtig kopi, men den er også lagging.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 142.0,
       "text": " Fordi folk beslutter sig ikke for at churne fra den ene dag til den anden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 142.0,
       "end": 146.0,
       "text": " Der går typisk noget forud, hvor det kan være, der er noget, de ikke er glade for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 148.0,
       "text": " Det kan være, virksomheden struggler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 150.0,
       "text": " Det kan være, der kommer nye CMO'er ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 154.0,
       "text": " Det er også meget laggende indikatorer, der typisk følger et eller andet, der er sket forud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 159.0,
       "text": " Og udfordringen ved det her, det er, at nu er vi i efteråret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 159.0,
       "end": 162.0,
       "text": " og det er den vigtigste periode på hele året i vores forretning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.0,
       "end": 164.0,
       "text": " Der sker mere i efteråret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 164.0,
       "end": 166.0,
       "text": " På BSUC-siden har vi Q4, der er Black Friday.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 168.0,
       "text": " Der sker meget mere i BSUC-siden, eller BSUB-siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 168.0,
       "end": 170.0,
       "text": " Der sker også bare flere ting, der er flere mæsser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 170.0,
       "end": 171.0,
       "text": " Det er sådan lidt mere komprimeret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 171.0,
       "end": 173.0,
       "text": " Der er bare mere gang i den i efteråret, end der er i foråret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 173.0,
       "end": 175.0,
       "text": " Men jeg er meget opmærksom på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 175.0,
       "end": 179.0,
       "text": " jeg vil ikke først evaluere vores efterår i december og januar i forhold til, hvordan det gik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 179.0,
       "end": 183.0,
       "text": " Fordi så sætter vi jo slet og ret for sent den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 183.0,
       "end": 188.0,
       "text": " Så derfor er vi ikke interesserede i at skifte over i det, man ville kalde en leading indikator,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 192.0,
       "text": " som måske ikke er det, der er aller tættest på forretningsvurdi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 197.0,
       "text": " men noget, der kommer forud og som tidligere kan indikere, hvordan det egentlig går.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 197.0,
       "end": 200.0,
       "text": " Hvad kunne nogle eksempler på leading indicators være?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.0,
       "end": 202.0,
       "text": " For eksempel MQL'er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 202.0,
       "end": 203.0,
       "text": " Vi opretter derinde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 203.0,
       "end": 205.0,
       "text": " Det kan være, at der er nogen, der har tilmeldt sig et eller andet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 205.0,
       "end": 208.0,
       "text": " eller vi har lavet et white paper, hvor de har tilmeldt sig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 208.0,
       "end": 211.0,
       "text": " og er interessante for os at snakke med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 211.0,
       "end": 213.0,
       "text": " Det kommer jo typisk forud for, at der bliver lavet en deal.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 213.0,
       "end": 215.0,
       "text": " Og jeg skal lige hurtigt sige, at når vi siger deals,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 215.0,
       "end": 217.0,
       "text": " så er det ikke nødvendigvis en lukket deal.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 217.0,
       "end": 222.0,
       "text": " Det er bare terminologien inden for HubSpot, hvor man opretter en kontakt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 222.0,
       "end": 226.0,
       "text": " med et eller andet estimat på, hvad det her kan blive til en gang i fremtiden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 226.0,
       "end": 229.0,
       "text": " Når der er en eller anden dialog med et potentielt samarbejde, så er det en deal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 229.0,
       "end": 231.0,
       "text": " Og hvad er en MQL?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 231.0,
       "end": 236.0,
       "text": " En Marketing Qualified Lead, hvis man skal tage den hele terminologien.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 236.0,
       "end": 238.0,
       "text": " Men det er gennem vores marketing.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 238.0,
       "end": 241.0,
       "text": " Det kunne for eksempel være et webinar, eller det kunne være et white paper,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 241.0,
       "end": 243.0,
       "text": " hvor det er, at de ligesom er blevet et lead,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 243.0,
       "end": 246.0,
       "text": " kvad at de har skrevet sig op eller har modtaget noget fra os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 246.0,
       "end": 248.0,
       "text": " Det kunne være et eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 248.0,
       "end": 250.0,
       "text": " Et andet eksempel, ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 252.0,
       "text": " Ja, det er deals oprettet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 252.0,
       "end": 255.0,
       "text": " Det kan være, at jeg er afsted til et netværksarrangement",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 255.0,
       "end": 258.0,
       "text": " og kommer i snak med en, der er interesseret i at høre lidt mere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 258.0,
       "end": 261.0,
       "text": " Han sælger Donut hulsængen, sandsynligvis.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 261.0,
       "end": 264.0,
       "text": " Ja, ja, ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 264.0,
       "end": 267.0,
       "text": " Der kan jeg næsten lige så godt oprette den som bundet med det samme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 267.0,
       "end": 270.0,
       "text": " fordi når det er Donut hulsængen, så vinder han ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 270.0,
       "end": 272.0,
       "text": " Det er sådan en bedre ekspert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 272.0,
       "end": 275.0,
       "text": " Så det, at du lukker den her 10-20-30, det er 90 procent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 275.0,
       "end": 278.0,
       "text": " Den er praktisk taget hjem. Jeg kan kun tale det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 281.0,
       "text": " 100.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 281.0,
       "end": 283.0,
       "text": " Men det er jo et eksempel på en deal, der er oprettet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 283.0,
       "end": 286.0,
       "text": " Det kunne også godt være et upsell på en eksisterende kunde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 286.0,
       "end": 288.0,
       "text": " altså der skal bruge noget tracking, for eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 288.0,
       "end": 290.0,
       "text": " Så opretter vi den derinde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 290.0,
       "end": 294.0,
       "text": " Det var to positive. Så har vi en negativ en, og det er en lav NPS-score,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 294.0,
       "end": 297.0,
       "text": " hvis vi sender de her NPS-bagskemmer ud og kan se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 297.0,
       "end": 299.0,
       "text": " at der er et eller andet her, der ikke spiller.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 299.0,
       "end": 306.0,
       "text": " Det vil jo være enormt negativt, og det vil være en negativ indikator for os,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 306.0,
       "end": 309.0,
       "text": " hvor vi kan se, hvad er det, det her leder til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 309.0,
       "end": 313.0,
       "text": " Det kan måske lede frem til noget churn, som jo igen var en lagging indicator.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 313.0,
       "end": 316.0,
       "text": " Men kan vi tage det i opløbet, inden det rent faktisk bliver i churn,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 316.0,
       "end": 319.0,
       "text": " så vil det være skide godt for at sige det på godt jysk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 319.0,
       "end": 322.0,
       "text": " Ja, så man kan godt sige, at churn er vores ultimative KPI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 322.0,
       "end": 324.0,
       "text": " men det vi er interesseret i at kigge på, det er måske nærmere at lave NPS,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 324.0,
       "end": 326.0,
       "text": " fordi så kan vi rent faktisk forhindre churn,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 326.0,
       "end": 329.0,
       "text": " fordi hvis vi bare konstaterer, at vores churn er højt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 329.0,
       "end": 331.0,
       "text": " og hvad så?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 331.0,
       "end": 336.0,
       "text": " Men hvis vi tre måneder forud kan se, at de her tre har indgivet en halvdårlig NPS-skor,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 336.0,
       "end": 338.0,
       "text": " og der er noget, de ikke er helt tilfredse med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 341.0,
       "text": " så kan vi rent faktisk handle på det, og på den måde operationalisere vi vores KPI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 341.0,
       "end": 343.0,
       "text": " så det bliver mere brugbart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 343.0,
       "end": 346.0,
       "text": " Den KPI, som vi har valgt for vores efterår, det er Deals Created.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 346.0,
       "end": 348.0,
       "text": " Og det er, fordi vi skulle finde en eller anden balance.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 348.0,
       "end": 350.0,
       "text": " Vi kunne godt kigge på MQL og oprettet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 350.0,
       "end": 353.0,
       "text": " men det tal er også i meget høj grad influeret af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.0,
       "end": 356.0,
       "text": " hvor mange aktiviteter vi kører, hvor mange webinars vi afholder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 356.0,
       "end": 360.0,
       "text": " hvor mange whitepapers vi laver, hvor mange guides og alle mulige andre ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 360.0,
       "end": 362.0,
       "text": " Og udfordringen her, det er, at vi kan godt lave et webinar,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 362.0,
       "end": 364.0,
       "text": " hvor der kommer rigtig, rigtig mange deltagere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 364.0,
       "end": 367.0,
       "text": " men hvor det måske ikke matcher vores ICP,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 367.0,
       "end": 369.0,
       "text": " vores Ideal Customer Profile særlig godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 372.0,
       "text": " så den estimerede konverteringsret hen ad vejen på det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 373.0,
       "text": " den vil være meget, meget lav.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 375.0,
       "text": " Der er også en anden ting med, at de webinars,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 375.0,
       "end": 377.0,
       "text": " som måske er mest produktrelevante,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 377.0,
       "end": 381.0,
       "text": " også har færre tilmeldinger, fordi de tiltaler en mindre målgruppe og sådan noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 385.0,
       "text": " Så antallet af MQL'er er en lidt svær størrelse for os rent faktisk at arbejde med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 385.0,
       "end": 387.0,
       "text": " og jeg tror ikke, der vil være særlig stor sammenhæng mellem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 387.0,
       "end": 390.0,
       "text": " når vi laver allerflest, og hvad der så sker de næste 3-6 måneder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 390.0,
       "end": 392.0,
       "text": " Jeg tror, det er en meget, super vigtig kobi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 392.0,
       "end": 394.0,
       "text": " men den er meget mere langsigtet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 394.0,
       "end": 398.0,
       "text": " Vi kunne også sige, hvor mange kunder lukker vi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 400.0,
       "text": " hvor meget salg har vi, men så er vi tilbage på en meget lagging indikator,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 400.0,
       "end": 402.0,
       "text": " som ikke fortæller, om den indsats ligger forud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 402.0,
       "end": 404.0,
       "text": " og jeg vil gerne evaluere efteråret løbende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 404.0,
       "end": 406.0,
       "text": " Så vi er inde på Deals Created,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 409.0,
       "text": " og det er vi, fordi i Deals Created, så er der en reelt dialog",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " om et potentielt samarbejde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " og man kan sige, forud for, at der er nogen, der ønsker at blive kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 415.0,
       "text": " så skal der være en dialog for et samarbejde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 417.0,
       "text": " ligesom de jo skal lære at kendiseres,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 417.0,
       "end": 419.0,
       "text": " men dialogen for samarbejdet ligger allerede i Hopspot,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 422.0,
       "text": " på tværs af alle dem, der er med til at sælge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 424.0,
       "text": " hvilket primært er partnergruppen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 424.0,
       "end": 426.0,
       "text": " og udvalgte andre medarbejdere i vores tilfælde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 429.0,
       "text": " Så de ligger der allerede, vi ved, at de ligger sådan 60-90 dage",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 431.0,
       "text": " forud for et salg, at de bliver oprettet i Hopspot,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 433.0,
       "text": " så det er sådan en acceptable timeline for mig at arbejde med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " i forhold til at optimere på tallet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 437.0,
       "text": " og det er et tal, vi rent faktisk kan optimere på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 437.0,
       "end": 439.0,
       "text": " Vi kan godt lave indsatser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " der gør, at vi får flere deals created.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 445.0,
       "text": " Så på den måde er vi endt på det som det mest relevante tal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 447.0,
       "text": " Så vi holder meget øje med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 447.0,
       "end": 450.0,
       "text": " og jeg har det på et dashboard, og jeg kigger på det meget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 452.0,
       "text": " og det bliver sendt ud i Slack en gang om ugen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 452.0,
       "end": 454.0,
       "text": " og vi kigger på det på hvert partnermøde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 454.0,
       "end": 456.0,
       "text": " og du er jo med i den der Slack-tråd, hvor det kommer ud en gang om ugen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " hvor mange deals er blevet oprettet sidste uge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 460.0,
       "text": " hvad er vores målsætning, er vi over eller under,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 460.0,
       "end": 463.0,
       "text": " og det tal bruger jeg til at justere vores marketing og salgsindsatser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " i forhold til, om vi ligger på det, hvor vi burde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " Hvis vi ligger under, skal vi lave flere tiltag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 469.0,
       "text": " eller skrue op for budget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 469.0,
       "end": 471.0,
       "text": " Hvis vi ligger meget over, skal vi overveje,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 471.0,
       "end": 474.0,
       "text": " om vi lige skal flade vores indsats lidt mere ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 474.0,
       "end": 476.0,
       "text": " således at der ikke er nogen, der får en dårlig oplevelse af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 476.0,
       "end": 478.0,
       "text": " at vi svarer for langsomt, eller hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 478.0,
       "end": 480.0,
       "text": " Der er sådan en kapacitetsallokering inden over det her også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Men det er i hvert fald deals created, som vi har valgt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 482.0,
       "end": 484.0,
       "text": " som den ultimative metric, vi gerne vil optimere efter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 486.0,
       "text": " Og lad os tage fordele og ulemper ved den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 486.0,
       "end": 489.0,
       "text": " Fordelene, det er, at vi kan måle uge for uge, hvordan det går.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 489.0,
       "end": 491.0,
       "text": " Fordi jeg har ikke et deals created per måned.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " Jeg har det per uge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 497.0,
       "text": " Og man kan sige, ultimativt, hvis vi så når det samlede antal for måneden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 497.0,
       "end": 499.0,
       "text": " så kan det godt være lidt udsving uge for uge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 501.0,
       "text": " Men hvis vi ligger på halvdelen af det, vi skal alle to uger at strege,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 503.0,
       "text": " så kommer vi ikke til at hente det de sidste to uger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Så jeg synes, ugenligt er en god frekvens for os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " at kigge på, om vi når vores tal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 510.0,
       "text": " Og vi kan aflæse vores indsatser ret hurtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " Altså, hvis vi laver et rigtig godt event,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 514.0,
       "text": " og skriver ud til nogle efterfølgende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 514.0,
       "end": 515.0,
       "text": " og spørger, om de vil høre mere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 515.0,
       "end": 517.0,
       "text": " så vil vi typisk kunne aflæse det inden for en til to uger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 517.0,
       "end": 520.0,
       "text": " i forhold til, om det rent faktisk sker flere kvalificerede dialoger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 520.0,
       "end": 522.0,
       "text": " med relevante virksomheder, vi gerne vil tale med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 522.0,
       "end": 525.0,
       "text": " Men der er også nogle ulæmper ved det, som du jo også kender til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 525.0,
       "end": 528.0,
       "text": " fordi du jo også underlagt mit KPI-regime.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 528.0,
       "end": 533.0,
       "text": " Så hvad er nogle af de potentielle ulæmper ved den her metode?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 533.0,
       "end": 538.0,
       "text": " En af de helt store, det er, at nu er det jo et mindset shift,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 538.0,
       "end": 542.0,
       "text": " og opretter folk så pludselig de ting, som de egentlig ikke gjorde før,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 542.0,
       "end": 544.0,
       "text": " bare fordi man skal op og nå et eller andet målsætning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 544.0,
       "end": 547.0,
       "text": " og derfor tager man også nogle små, hvad skal man sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 547.0,
       "end": 551.0,
       "text": " opsalg eller salg med på 1.000 kroner, 2.000 kroner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 551.0,
       "end": 555.0,
       "text": " Fordi at, man kan sige, den måde at styre det på lige nu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 555.0,
       "end": 558.0,
       "text": " tager ikke højde for størrelsen på de enkelte deals,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 558.0,
       "end": 560.0,
       "text": " det er bare en mængde af deals.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 560.0,
       "end": 562.0,
       "text": " Og det er jo en beslutning, vi har truffet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 562.0,
       "end": 564.0,
       "text": " og det er sådan, vi forsøger nu her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 564.0,
       "end": 566.0,
       "text": " men det er en ulæmpe ikke at kunne vægte de her deals,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 566.0,
       "end": 567.0,
       "text": " der nu engang er oprettet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 567.0,
       "end": 570.0,
       "text": " Der kan også godt være en, der har en kæmpe deal oprettet",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 570.0,
       "end": 573.0,
       "text": " i en given uge, hvor en anden måske har oprettet 10 små deals.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 573.0,
       "end": 576.0,
       "text": " Jamen, hvad er egentlig bedst lige i første omgang?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 576.0,
       "end": 578.0,
       "text": " Ud fra det, vi måler på, så er det jo faktisk de 10,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 578.0,
       "end": 580.0,
       "text": " fordi vi har jo et eller andet target, vi skal nå.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 580.0,
       "end": 582.0,
       "text": " Men i sidste ende, når man så kigger på salget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 582.0,
       "end": 586.0,
       "text": " var det måske bedre med den enkelt store her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 586.0,
       "end": 587.0,
       "text": " Vi kan jo tage et eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 589.0,
       "text": " Altså, mens vi har siddet og optaget den her episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 591.0,
       "text": " så er der lige kommet en opdatering i en slagkanal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 593.0,
       "text": " vi begge to er med i, hvor vores kollega Niklas",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 596.0,
       "text": " har markeret en deal som brønd til en værdi på 80.000 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 598.0,
       "text": " Men for tre dage siden var der en anden kollega,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 601.0,
       "text": " der markerede en deal som brønd på 3.000 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 601.0,
       "end": 603.0,
       "text": " Og det ligger altså med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 606.0,
       "text": " Flot, Tino.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 606.0,
       "end": 608.0,
       "text": " Mange tak for din store bidrag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 611.0,
       "text": " Vi anerkender, at vi er alle sammen virkelig flot.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 612.0,
       "text": " Og der kan man så sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 614.0,
       "text": " er der en risiko for, at du sidder og ser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 617.0,
       "text": " at Niklas, okay, han er lidt foran.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 617.0,
       "end": 619.0,
       "text": " Jeg skal vist lige have nogle hurtige 3.000'ere ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 619.0,
       "end": 620.0,
       "text": " fordi det vil blive aflæst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 620.0,
       "end": 623.0,
       "text": " En deal er jo en deal i den her måde at opgøre det på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " Så er du i virkeligheden et eksempel på noget af det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 627.0,
       "text": " der kunne komme til at ske her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 628.0,
       "end": 630.0,
       "text": " Åh, den er uheldig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 632.0,
       "text": " Ville du have oprettet den her for et halvt år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 632.0,
       "end": 634.0,
       "text": " før jeg styrede det på den her måde?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " Nej, det tror jeg sgu ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 636.0,
       "end": 637.0,
       "text": " Det tror jeg ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 637.0,
       "end": 639.0,
       "text": " Det tror jeg sgu, for at være helt ærlig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 641.0,
       "end": 643.0,
       "text": " Som I siger, der er en risiko der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 644.0,
       "text": " Og den risiko, det leder til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 644.0,
       "end": 646.0,
       "text": " det er jo sådan den der risiko for suboptimering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 646.0,
       "end": 649.0,
       "text": " Altså går man lige pludselig ind og opretter mange små deals,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 649.0,
       "end": 650.0,
       "text": " i stedet for at håndtere en stor,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 650.0,
       "end": 652.0,
       "text": " som sagtens skal have en større værdi for virksomheden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 652.0,
       "end": 654.0,
       "text": " Det er der en risiko for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 654.0,
       "end": 656.0,
       "text": " og det er jo noget af det, vi skal justere hen ad vejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 656.0,
       "end": 658.0,
       "text": " En anden ting, man skal være opmærksom på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 660.0,
       "text": " det kræver også noget follow-up på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 660.0,
       "end": 661.0,
       "text": " hvordan de deals, der så bliver oprettet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 661.0,
       "end": 662.0,
       "text": " rent faktisk udvikler sig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 662.0,
       "end": 664.0,
       "text": " Og det her er det en, du har skrevet på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 664.0,
       "end": 666.0,
       "text": " fordi hvis vi før havde 20 deals om ugen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 668.0,
       "text": " og vi havde en konverteringsrat på 50%,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 668.0,
       "end": 669.0,
       "text": " og vi nu har 40 deals om ugen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 669.0,
       "end": 671.0,
       "text": " men en konverteringsrat på 25%,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 671.0,
       "end": 673.0,
       "text": " så får vi det samme ansat kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " Det er ikke federe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " Hvordan løser man det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 681.0,
       "text": " Ja, men lige nu, der er jo et andet ligebetragtning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 681.0,
       "end": 685.0,
       "text": " at vi kigger på rejsen for en lukket deal hos os,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 685.0,
       "end": 687.0,
       "text": " og siger, hvordan vi kan påvirke det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 687.0,
       "end": 689.0,
       "text": " og være over det med det samme.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 689.0,
       "end": 691.0,
       "text": " I det her tilfælde har vi valgt at sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 691.0,
       "end": 693.0,
       "text": " at det er et antal oprettede deals.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 693.0,
       "end": 694.0,
       "text": " Issuet er bare, at det igen er,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 694.0,
       "end": 695.0,
       "text": " at den her alt er en ligebetragtning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 695.0,
       "end": 696.0,
       "text": " og at det derfor er vigtigt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 696.0,
       "end": 697.0,
       "text": " at vi hele tiden følger op på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 697.0,
       "end": 699.0,
       "text": " kan vi så også se det i den anden ende,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 699.0,
       "end": 701.0,
       "text": " at det rent faktisk skaber mere salg?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 701.0,
       "end": 703.0,
       "text": " Fordi hvis ikke, så er den knækket et eller andet sted,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 703.0,
       "end": 705.0,
       "text": " så er det måske den forkerte kopi, vi måler efter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 705.0,
       "end": 706.0,
       "text": " Det gode ved at gøre det på den her måde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 706.0,
       "end": 709.0,
       "text": " er jo, at vi relativt hurtigt burde kunne opdage det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 710.0,
       "end": 712.0,
       "text": " og ikke først i 2025, hvor vi så kigger tilbage,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 712.0,
       "end": 713.0,
       "text": " kløver sig selv i håret og siger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 713.0,
       "end": 715.0,
       "text": " ah, den var ikke god.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 716.0,
       "end": 718.0,
       "text": " Jeg tror, et endnu bedre scenarie for os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 718.0,
       "end": 720.0,
       "text": " det ville være, hvis vi kiggede både på deals oprettet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 720.0,
       "end": 722.0,
       "text": " og den værdi, som rent faktisk blev tilknyttet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 722.0,
       "end": 723.0,
       "text": " på den her deal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 723.0,
       "end": 724.0,
       "text": " for der kan vi jo gå ind og lave et estimat af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 724.0,
       "end": 726.0,
       "text": " hvor stor en aftale, det her taler om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 726.0,
       "end": 729.0,
       "text": " Og det er et mandatory felt i vores hopspot,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 729.0,
       "end": 731.0,
       "text": " i takt med, at man progresser den her deal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 731.0,
       "end": 736.0,
       "text": " Der er to udfordringer med at skulle værdiansætte ens deals.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 736.0,
       "end": 739.0,
       "text": " Den ene, det er, folk har en tendens til at være",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 739.0,
       "end": 741.0,
       "text": " lidt overoptimistiske nogle gange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 741.0,
       "end": 744.0,
       "text": " Så nu ved jeg ikke, om du havde lagt den her ind til 10.000,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 744.0,
       "end": 745.0,
       "text": " og så endte den på 3.000,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 746.0,
       "text": " men det sker bare nogle gange,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 746.0,
       "end": 748.0,
       "text": " og folk er sådan lidt optimistiske,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 748.0,
       "end": 750.0,
       "text": " og jeg tror ikke, det er os, der er at forholde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 750.0,
       "end": 752.0,
       "text": " Jeg tror, det er sådan et menneskeligt ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 752.0,
       "end": 755.0,
       "text": " Så vi har oplevet, at nogle gange ender det lige et nyk under,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 757.0,
       "text": " hvad folk de måske håbede og troede til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 757.0,
       "end": 758.0,
       "text": " Den anden ting, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 758.0,
       "end": 760.0,
       "text": " at det kan være meget svært tidligt i dialogen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 760.0,
       "end": 762.0,
       "text": " at estimere, hvad vi rent faktisk er ude i her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 763.0,
       "end": 766.0,
       "text": " Nogle gange så møder man en virksomhed, hvor man tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 766.0,
       "end": 767.0,
       "text": " det ser da fint ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 767.0,
       "end": 769.0,
       "text": " og så finder man ud af, at de bruger en million om måneden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 769.0,
       "end": 770.0,
       "text": " og er den mest sindssyge virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 770.0,
       "end": 772.0,
       "text": " og hold kæft, de har bare styr på deres processer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 772.0,
       "end": 773.0,
       "text": " og det er fuldstændig vanvittigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 773.0,
       "end": 775.0,
       "text": " Og man oplever det også til modsatte.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 775.0,
       "end": 777.0,
       "text": " Stort kendt brand, hvor man så kommer ind på Facebook,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 777.0,
       "end": 778.0,
       "text": " deres kontor bruger 10.000 om måneden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 778.0,
       "end": 779.0,
       "text": " har ikke sat en piksel op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 779.0,
       "end": 781.0,
       "text": " og man tænker, what the fuck?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 781.0,
       "end": 784.0,
       "text": " Det kan være svært udefra nogle gange tidligt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 784.0,
       "end": 786.0,
       "text": " at estimere, hvad er værdien af en deal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 786.0,
       "end": 788.0,
       "text": " Så hvis vi tvinger folk til at gøre det tidligere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 788.0,
       "end": 790.0,
       "text": " så tror jeg også, at vi vil få et ekstra talt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 790.0,
       "end": 791.0,
       "text": " at holde vores deals op imod,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 791.0,
       "end": 793.0,
       "text": " men jeg er også personligt bange for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 793.0,
       "end": 796.0,
       "text": " at den data, vi vil få ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 796.0,
       "end": 797.0,
       "text": " ikke vil være særlig god,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 797.0,
       "end": 799.0,
       "text": " og at vi vil risikere at træffe nogle forkerte beslutninger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 799.0,
       "end": 800.0,
       "text": " på baggrunden af den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 800.0,
       "end": 802.0,
       "text": " Men det er jo også et setup, vi kan forbedre hen ad vejen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 802.0,
       "end": 803.0,
       "text": " i takt med, at folks data-disciplin",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 803.0,
       "end": 805.0,
       "text": " måske bliver en smule bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

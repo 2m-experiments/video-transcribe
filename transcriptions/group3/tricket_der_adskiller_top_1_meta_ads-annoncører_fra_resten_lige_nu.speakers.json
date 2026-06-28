@@ -9,2855 +9,2859 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Morten"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Morten"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 6.0,
       "text": " Hej og velkommen til en kort episode af Marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.0,
       "end": 11.0,
       "text": " Morten B. og jeg er tilbage i vores vante emne, nemlig meta-annonsering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 15.0,
       "text": " I dag skal vi snakke om det, vi har kaldt trækket de bedste meta-annonsører bruger lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 19.0,
       "text": " Det er fordi, vi oplever faktisk ikke særlig mange bruger det her, men det er noget af det, der virkelig adskiller dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.0,
       "end": 23.0,
       "text": " der får den højeste ro og bruger flest penge på meta fra alle de andre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 28.0,
       "text": " Det vi skal snakke om, det handler om Advantage Plus-kampagner, hvordan du giver algoritmen til at give dig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 28.0,
       "end": 34.0,
       "text": " de bedste resultater, og så det værktøj, der hedder Value Rules eller værdiregler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.0,
       "end": 39.0,
       "text": " Og Morten, bare lige den korte intro til Value Rules. Hvad er det, de rent faktisk er?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 39.0,
       "end": 41.0,
       "text": " Hvad er det, du kan gøre med de her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 41.0,
       "end": 45.0,
       "text": " Så Value Rules kan du faktisk bruge til næsten de fleste ting, der indgår i et kampagneformat,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 45.0,
       "end": 50.0,
       "text": " og det er egentlig bare en mekanisme, som du er med til at kontrollere direkte på din kampagne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 50.0,
       "end": 54.0,
       "text": " hvor du kan sige, jeg vil gerne byde enten op eller ned i Facebooks sektion,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 55.0,
       "end": 58.0,
       "text": " på enkelte områder, som jeg ved, der er en god grund til at gøre.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 58.0,
       "end": 62.0,
       "text": " Så det er din måde at kontrollere den der aktion, vi førhen ved, der går op og ned.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 62.0,
       "end": 65.0,
       "text": " I gamle dage, der blev det i virkeligheden kaldt for bid modifiers,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 65.0,
       "end": 69.0,
       "text": " så du kunne modificere dit bud direkte i auktionen, og det var noget, der kun var tilgængeligt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 69.0,
       "end": 73.0,
       "text": " for de allerstørste annoncører, der bydde en direkte via API-opkobling til meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 73.0,
       "end": 76.0,
       "text": " Og der kunne man gå ind i de her bid modifiers, og så sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 76.0,
       "end": 81.0,
       "text": " jeg ved, at kvinder har en 10% højere livstidsværdi, end mænd har i min forretning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 81.0,
       "end": 85.0,
       "text": " og derfor vil jeg gerne byde lidt højere på kvindelige kunder, end mandelige kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.0,
       "end": 89.0,
       "text": " Og så havde du effektivt en bid modifier, som maksimerede værdien for din forretning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.0,
       "end": 94.0,
       "text": " og ikke lavede sådan en alt andet ligebetrækning i forhold til, at alle lease eller salg er lige meget værd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.0,
       "end": 96.0,
       "text": " For det er de selvfølgelig ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 96.0,
       "end": 99.0,
       "text": " Tidligere skulle man bruge rigtig mange penge for at få adgang til de her bid modifiers.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 99.0,
       "end": 101.0,
       "text": " Flere penge, end nærmest nogen danske annoncører gjorde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 101.0,
       "end": 106.0,
       "text": " Og det er en rigtig god nyhed, at de her bid modifiers, de bliver faktisk lagt direkte ind i Metas redskab",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 107.0,
       "end": 110.0,
       "text": " og hedder nu Value Rules, eller værdiregler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 110.0,
       "end": 115.0,
       "text": " Så det her er altså en funktion, som tidligere var reserveret til de allerstørste annoncører på Meta,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 115.0,
       "end": 117.0,
       "text": " som nu er blevet tilgængelig for alle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 117.0,
       "end": 120.0,
       "text": " Og det taler også egentlig en algoritmisk kontekst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 120.0,
       "end": 124.0,
       "text": " fordi i løbet af 2025 fik vi nogle rigtig store opdateringer på Meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 124.0,
       "end": 128.0,
       "text": " Det er det, der hedder Andromeda, Meta Lattice og Sequence Learning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 128.0,
       "end": 131.0,
       "text": " Det har vi tidligere lavet en marketingpod episode om med dig, Morten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 131.0,
       "end": 136.0,
       "text": " men det er grundlæggende bare, at Mesa bruger meget mere AI til at udvælge de rigtige opslag på det rigtige tidspunkt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 136.0,
       "end": 138.0,
       "text": " og i den rigtige rækkefølge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.0,
       "end": 143.0,
       "text": " Men forudsætningen for, at du får adgang til Meta Andromeda og Lattice og Sequence Learning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.0,
       "end": 146.0,
       "text": " det er, at du bruger Advantage+.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 148.0,
       "text": " Og her kommer også et relevant spørgsmål, Morten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 151.0,
       "text": " Hvad fanden er Advantage+, egentlig, til dem, der lige skal have en genopfredsning?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 151.0,
       "end": 154.0,
       "text": " Advantage+, det er et sales- og lead-kampagne.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 154.0,
       "end": 156.0,
       "text": " Du kan også bruge den til appen stalls.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 156.0,
       "end": 158.0,
       "text": " Men hvis du sidder i B2B-virksomheden og tænker,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 159.0,
       "end": 161.0,
       "text": " Vent lige en gang. Det gør det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 161.0,
       "end": 164.0,
       "text": " Du kan bruge det til leads, du kan bruge det til appen stalls, du kan bruge det til salg,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 164.0,
       "end": 167.0,
       "text": " altså alt, der hedder kommenteringstjernelser på et website.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 167.0,
       "end": 171.0,
       "text": " Det er en sales-kampagnestruktur, som er simplificeret,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 171.0,
       "end": 178.0,
       "text": " som er bakket op omkring de tre, fire algoritmiske, ja, algoritmer, som Halsten lige nævnte,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 178.0,
       "end": 181.0,
       "text": " som er lavet til at følge Metas best practice.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 181.0,
       "end": 183.0,
       "text": " Altså, at du arbejder med signalbesidde målgrupper.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 183.0,
       "end": 189.0,
       "text": " Meta arbejder ude for dine signaler og skal nok finde køb, leads, appen stalls, view content, at-to-cards.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 189.0,
       "end": 193.0,
       "text": " Du skal ikke sidde og modifye den helt vildt meget.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 193.0,
       "end": 197.0,
       "text": " Du skal faktisk frigive mest muligt kontrol og give den til Meta,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 197.0,
       "end": 199.0,
       "text": " så den kan arbejde mest og bedst muligt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 199.0,
       "end": 203.0,
       "text": " Og det, du skal fokusere på, det er at have dit tracking i orden og at have dit content i orden.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 203.0,
       "end": 205.0,
       "text": " I gamle dage, der kørte du bilen selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 205.0,
       "end": 208.0,
       "text": " Du satte dig ind i bilen, satte den i gear, manuelt og kørte frem og tilbage",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 208.0,
       "end": 210.0,
       "text": " og havde hænderne på rattet hele tiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 210.0,
       "end": 216.0,
       "text": " Metas Advantage Plus-kampagne, det er den nyeste Tesla-model med full self-driving,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 216.0,
       "end": 220.0,
       "text": " som bare kører dig fra A til Z, uden at du i virkeligheden skal tage særlig mange aktive handlinger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 224.0,
       "text": " Så det er en måde, hvorpå du lægger mere af ansvaret over til Meta og deres algoritme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 227.0,
       "text": " Og det virker langt hen ad vejen rigtig, rigtig godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.0,
       "end": 231.0,
       "text": " De fleste af de kampagner, vi kører for vores kunder i Obsidian, er baseret på Advantage Plus,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 231.0,
       "end": 233.0,
       "text": " fordi vores kunder tjener flere penge med det, og det er vores rolle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 233.0,
       "end": 235.0,
       "text": " Det er, at vi skal hjælpe vores kunder med at tjene flere penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.0,
       "end": 237.0,
       "text": " Men der er nogle udfordringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 237.0,
       "end": 242.0,
       "text": " Fordi udgangspunktet med Advantage Plus, det er, at du lægger alt ansvaret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 246.0,
       "text": " og alle handlinger og målretning og målgruppe og placering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 246.0,
       "end": 248.0,
       "text": " og du lægger alt over til Meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 248.0,
       "end": 251.0,
       "text": " Så i virkeligheden siger du bare, at jeg vil gerne have et eller andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 252.0,
       "text": " Det kunne være køb.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 253.0,
       "text": " Her er mine kreativer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 253.0,
       "end": 257.0,
       "text": " Nu må du Meta vælge, hvem det skal vises til, hvor det skal vises,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.0,
       "end": 259.0,
       "text": " og du må endda gå ind og ændre dem i forhold til, hvordan det ser ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 259.0,
       "end": 262.0,
       "text": " Så hvis jeg har oplottet kreativt uden musik, så sætter du bare musik på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 262.0,
       "end": 264.0,
       "text": " Du ændrer farvekompositionen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.0,
       "end": 265.0,
       "text": " Du lægger måske nogle overlæs ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 265.0,
       "end": 267.0,
       "text": " Du gør bare, hvad du har lyst til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.0,
       "end": 270.0,
       "text": " Og der har vi en udfordring, hvor mange af de virksomheder, vi arbejder sammen med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 271.0,
       "text": " ønsker en kombination.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 271.0,
       "end": 274.0,
       "text": " Vi vil gerne have adgang til den nyeste og bedste algoritme hos Meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.0,
       "end": 277.0,
       "text": " Vi vil også gerne have en lille smule kontrol over, hvem vi viser til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 277.0,
       "end": 279.0,
       "text": " hvad vi viser, og hvor vi viser det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 279.0,
       "end": 283.0,
       "text": " Både brandmæssige årsager, men også fordi vi måske ved noget, Meta ikke ved.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 283.0,
       "end": 284.0,
       "text": " Måske er kvinder mere værd for os.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 284.0,
       "end": 287.0,
       "text": " Måske er der en meget højere returprocent i Tyskland end i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 287.0,
       "end": 290.0,
       "text": " Måske er der en højere livstidsværdi med unge mennesker end gamle mennesker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 290.0,
       "end": 293.0,
       "text": " Whatever it might be, du ved noget, Meta ikke ved.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 296.0,
       "text": " Og value rules er måden, hvorpå du både får den nyeste algoritme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 296.0,
       "end": 300.0,
       "text": " men bevarer en vis kontrol, og kan øge den maksimale forretningsværdi for dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 301.0,
       "text": " Spørgsmålet er så, Morten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 302.0,
       "text": " Hvordan gør man?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 302.0,
       "end": 304.0,
       "text": " Jeg bare viser jer, hvordan man gør.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 304.0,
       "end": 308.0,
       "text": " Nu kommer der lidt video, og til jer, der vælger ikke at se noget på video,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 308.0,
       "end": 310.0,
       "text": " så skal jeg nok prøve at guide jer igennem det her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 310.0,
       "end": 315.0,
       "text": " I skal gå ind og følge MarketingPod på YouTube, og så rent faktisk se videoen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 315.0,
       "end": 316.0,
       "text": " Men I kan godt dytte med til resten af episoden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 316.0,
       "end": 317.0,
       "text": " Sådan der.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 317.0,
       "end": 321.0,
       "text": " Så vi hopper ind i det, der hedder Advertiser Settings.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 321.0,
       "end": 323.0,
       "text": " Jeg har alt mit på engelsk, det skal jeg beklage,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 323.0,
       "end": 326.0,
       "text": " men I går ud i jeres burgermenu herude i All Tools,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 326.0,
       "end": 328.0,
       "text": " og vælger jeres Advertiser Settings.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 328.0,
       "end": 330.0,
       "text": " Det kan hedde noget annoncer og indstillinger.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 330.0,
       "end": 332.0,
       "text": " Og her, der får vi det her interface.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 332.0,
       "end": 335.0,
       "text": " Og det er det interface, vi som udgangspunkt altid arbejder i.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 335.0,
       "end": 337.0,
       "text": " Der er jeres shortcuts.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 337.0,
       "end": 339.0,
       "text": " Det her, det er Obsidian's console, så det er måske ikke det her, vi har brugt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 339.0,
       "end": 341.0,
       "text": " alt den tid, som vi egentlig ville bruge på en kunde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 341.0,
       "end": 343.0,
       "text": " Og så hernede, der har vi vores value rules.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 343.0,
       "end": 345.0,
       "text": " Og value rules er, som Halsten nævner, en måde,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 345.0,
       "end": 349.0,
       "text": " hvorpå vi kan kontrollere Advantage Plus, uden at vi begrænser den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 349.0,
       "end": 352.0,
       "text": " Så vi behøves, lad os tage første eksempel.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 352.0,
       "end": 355.0,
       "text": " Når vi har Advantage Plus, det kræver, at man har automatiske placeringer til.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 355.0,
       "end": 358.0,
       "text": " Du har Marketplace, du har Right Column, du har Threads,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 358.0,
       "end": 361.0,
       "text": " du har Search Results, Notifications.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 361.0,
       "end": 363.0,
       "text": " Der er 21 placeringer, og det er ikke ret mange af dem,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 363.0,
       "end": 365.0,
       "text": " der rent faktisk giver dig værdi.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 365.0,
       "end": 367.0,
       "text": " Gå ind og kig på din kampagne.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 367.0,
       "end": 369.0,
       "text": " Lav et udtryk og sig, put rate down niveau.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 369.0,
       "end": 371.0,
       "text": " Hvor bruger jeg mine penge henne?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 371.0,
       "end": 373.0,
       "text": " Hvor får jeg min konverteringssendelse igennem?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 373.0,
       "end": 375.0,
       "text": " Og på hvilket atribueringsniveau?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 375.0,
       "end": 378.0,
       "text": " Så kan vi se, at der er nok nogle af de her audience networks,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 378.0,
       "end": 380.0,
       "text": " der tilskriver lidt view-konverteringer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 380.0,
       "end": 382.0,
       "text": " Det tror jeg ikke skal være en diskussion om, hvorvidt de skulle lade lege.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 382.0,
       "end": 385.0,
       "text": " Det er nok en konvertering, som vi ikke skulle lade tilskrive.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 385.0,
       "end": 387.0,
       "text": " Vi vil egentlig gerne bestemme nogle af vores placeringer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 387.0,
       "end": 389.0,
       "text": " men hvis vi fjerner det på vores kampagne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 389.0,
       "end": 392.0,
       "text": " så fjerner vi Advantage Plus, og det vil vi ikke.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 392.0,
       "end": 395.0,
       "text": " Så i stedet for, går vi ind og laver et regelsæt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 395.0,
       "end": 398.0,
       "text": " I det her tilfælde, der vælger vi vores regel nummer et her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 398.0,
       "end": 400.0,
       "text": " Vi definerer vores regel.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 400.0,
       "end": 405.0,
       "text": " I vores regel, der vælger vi vores placement,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 405.0,
       "end": 408.0,
       "text": " og så kan I vælge de her syv placeringer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 408.0,
       "end": 411.0,
       "text": " I kan vælge Facebook Feed, Facebook Stories, Facebook Reels,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " og det samme på Instagram.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 413.0,
       "end": 416.0,
       "text": " Instagram Feed, Instagram Stories, Instagram Reels.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 416.0,
       "end": 418.0,
       "text": " Hvis vi nu bare antager, at vi tager de her seks placeringer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 418.0,
       "end": 420.0,
       "text": " og de er lige meget hver for os,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 420.0,
       "end": 422.0,
       "text": " så hernede, der kan vi increase vores bid.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 422.0,
       "end": 425.0,
       "text": " Altså, hvor meget vil vi gerne byde de her placeringer op",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 425.0,
       "end": 428.0,
       "text": " i forhold til andre placeringer, i forhold til hvilken procent.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 428.0,
       "end": 430.0,
       "text": " Det her, det gjorde jeg på en af vores større e-com cases,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 430.0,
       "end": 433.0,
       "text": " hvor vi jo gerne ville have, at Venture Plus der fungerer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " Jeg gik ind, og I skal ikke bruge det her som en skarpe lån.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 435.0,
       "end": 437.0,
       "text": " Altid bruge det på egen konte.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 437.0,
       "end": 439.0,
       "text": " Men jeg gik ind og sagde, at de her seks placeringer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " det er som udgangspunkt over vores seks bedste placeringer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " og der vil vi gerne bruge nogle flere penge.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " Vi vil gerne undgå det ryge over til Audience Network og Marketplace.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 445.0,
       "end": 449.0,
       "text": " Så nu skruer vi op med 200 procent i bid på de her seks placeringer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 449.0,
       "end": 451.0,
       "text": " Og så er vi lød af efter 14 dage,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 451.0,
       "end": 456.0,
       "text": " og 99,97 procent af vores spend, det går til de her placeringer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " Og det er jo ikke, fordi du betaler mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 460.0,
       "text": " Det skal vi lige huske, at der er en væsentlig note her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 460.0,
       "end": 463.0,
       "text": " Så når du siger increase bid, det er ikke increase budget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " Så når du siger increase bid, bare i 200 procent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " så betyder det ikke, at du bruger hverken mere eller mindre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 469.0,
       "text": " Det betyder bare relativt til de andre placeringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 469.0,
       "end": 471.0,
       "text": " Nu har du valgt seks placeringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 471.0,
       "end": 473.0,
       "text": " Facebook feed, Facebook stories, Facebook reels.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 475.0,
       "text": " Du siger bare til Mita, at relativt til andre placeringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 475.0,
       "end": 477.0,
       "text": " som for eksempel Facebook Marketplace og Audience Network",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 477.0,
       "end": 480.0,
       "text": " og andre skadeplaceringer, så vil jeg hellere byde højere på dem her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Men det betyder ikke, at du bruger et færdigt penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 482.0,
       "end": 484.0,
       "text": " Det betyder bare, at du omfordeler, hvor du bruger dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 486.0,
       "text": " Og det er det, der er så smukt ved det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 486.0,
       "end": 490.0,
       "text": " Fordi hvis du nu gik ind og slog Audience Network fra i annoncesættet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 490.0,
       "end": 493.0,
       "text": " så ville du potentielt også slå hele Advantage Plus-algoritmen fra",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 495.0,
       "text": " og få dårligere leverance.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 495.0,
       "end": 497.0,
       "text": " Så på den her måde, så beholder du Advantage Plus,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 497.0,
       "end": 500.0,
       "text": " men du fjerner effektivt undtaget 0,3 procent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 500.0,
       "end": 501.0,
       "text": " Og det kan vi overleve.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 503.0,
       "text": " Alt spændt fra de dårligste placeringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Korrekt. Så der er ikke noget med, at det bliver dyrere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " Det er en form for prioritering at sige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 507.0,
       "end": 509.0,
       "text": " at de her placeringer er 200 procent mere værd for os.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 509.0,
       "end": 511.0,
       "text": " Så dem skal du prioritere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 512.0,
       "end": 514.0,
       "text": " Når man har kørt den her,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 514.0,
       "end": 515.0,
       "text": " det vil jeg råde jer de fleste til at gøre,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 515.0,
       "end": 519.0,
       "text": " hvis I rammer samme analysekonklusion, som vi har gjort på vores kontier,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 519.0,
       "end": 523.0,
       "text": " jamen så bagefter skal man selvfølgelig sidde og være den mere avancerede bruger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " så sige, jamen feed, stories og reels,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 525.0,
       "end": 528.0,
       "text": " har de i bund og grund alle sammen 200 procent mere værdi for os?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 528.0,
       "end": 530.0,
       "text": " Har de det både på Facebook og Instagram?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 530.0,
       "end": 532.0,
       "text": " Spoiler, det er der ikke nogen, der har.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 532.0,
       "end": 534.0,
       "text": " Der vil være steder, som lad os sige Instagram stories,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 534.0,
       "end": 536.0,
       "text": " har en væsentlig lavere CPM end Facebook feed.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 536.0,
       "end": 538.0,
       "text": " Det er der en grund til.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 538.0,
       "end": 540.0,
       "text": " Det betyder også, at de to forskellige værdier skal være forskellige.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 540.0,
       "end": 543.0,
       "text": " At vi rent faktisk gerne vil lave en regel, der hedder Instagram feed,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " jamen den vil vi gerne byde op med 100.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 545.0,
       "end": 546.0,
       "text": " Det er vores baseline.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 546.0,
       "end": 549.0,
       "text": " Og så vil jeg gerne byde vores reels op med 150.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 549.0,
       "end": 552.0,
       "text": " Fordi det her det er stadigvæk bare en matematisk aktion,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 552.0,
       "end": 555.0,
       "text": " hvor Meta ikke nødvendigvis siger, at vi skal bruge 100 procent mere budget.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 555.0,
       "end": 557.0,
       "text": " Det er bare en 100 procent mere prioritering.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 557.0,
       "end": 559.0,
       "text": " Så hold øje med det her og tilpas det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " Bagefter, når I trykker på next her,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " så skal I tilkoble det til jeres annonce set,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " dem I vælger, de kampagner I har aktiv,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 565.0,
       "end": 567.0,
       "text": " og så er I i gang.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 567.0,
       "end": 569.0,
       "text": " Placement er jo bare et af eksemplerne, Halsten.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 569.0,
       "end": 574.0,
       "text": " Jeg ved, at Locations er en af dem, jeg tror, vi har nævnt før.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 574.0,
       "end": 577.0,
       "text": " I hvert fald problematikken med, lad os sige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 577.0,
       "end": 579.0,
       "text": " opstiller en digital og nu en e-commerce,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 579.0,
       "end": 582.0,
       "text": " ellers er vi en, vi kan stadigvæk bare være et bureau.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 582.0,
       "end": 584.0,
       "text": " Vi kører en ligge-kampagne gennem Adventures Plus,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 584.0,
       "end": 585.0,
       "text": " vi vil gerne køre den ud i 10 markeder.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 585.0,
       "end": 588.0,
       "text": " Vi laver en kampagne, smider 10 markeder ind i et ad set,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 588.0,
       "end": 589.0,
       "text": " giver den gasmeter.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 589.0,
       "end": 590.0,
       "text": " Og der har vi jo et kæmpe problem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 590.0,
       "end": 592.0,
       "text": " fordi hvis vi for eksempel gør det her med webinars,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 596.0,
       "text": " lad os sige, vi kører webinar-tilmeldinger i Danmark, Tyskland og Finland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 598.0,
       "text": " hvor vi har bureauer og kolleger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 600.0,
       "text": " Vi har købt to bureauer i Tyskland og et i Finland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 603.0,
       "text": " så det vil sige, vi har kontorer i Danmark, Tyskland og Finland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 607.0,
       "text": " Hvis vi nu lavede en webinar-kampagne, hvor vi valgte alle lande til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 609.0,
       "text": " og optimerede efter flest mulige tilmeldinger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 612.0,
       "text": " så er det meget sandsynligt, at Tyskland ville komme ud",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 614.0,
       "text": " med en lavere pris end de andre markeder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 616.0,
       "text": " fordi CPM-prisen i Tyskland er meget lavere end den er i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 616.0,
       "end": 618.0,
       "text": " Og i Finland er der færre annoncører relativt til mængden",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 621.0,
       "text": " af Facebook og Instagram-brugere i Tyskland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 621.0,
       "end": 624.0,
       "text": " Derfor oplever vi generelt, at CPM-prisen i Tyskland",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 627.0,
       "text": " måske er halv så høj som den er i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 627.0,
       "end": 629.0,
       "text": " Så hvis vi anser den samme konverteringsrette,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " så vil vores leads koste halvdelen i Tyskland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 635.0,
       "text": " Er de så også så meget mere værd i Tyskland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 636.0,
       "text": " eller er de mindre værd?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 637.0,
       "text": " Det ved algoritmen jo faktisk ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 637.0,
       "end": 639.0,
       "text": " så den vil jo bare forfordele vores spænd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " Men hvis vi nu ved, at en dansk kunde i gennemsnit",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 641.0,
       "end": 643.0,
       "text": " bruger to gange så meget hos os som en tysk kunde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 645.0,
       "text": " det ved jeg ikke om det er tilfældet, men leg med tanken,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 648.0,
       "text": " så er det jo ikke hensigtsmæssigt, at vi forfordeler vores budget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 651.0,
       "text": " væk fra det land, hvor vi har den højeste værdi.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " Et godt eksempel i e-commerce, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " at virksomheder, der arbejder i Tyskland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " vil som regel have en meget højere returrette her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " fordi de har en elendig kultur omkring retur,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 659.0,
       "end": 661.0,
       "text": " hvor de køber alle mulige ting og så bare rationerer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 661.0,
       "end": 663.0,
       "text": " hele lortet igen, mens de i øvrigt leger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 663.0,
       "end": 665.0,
       "text": " at de er den mest grønne nation i Europa",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 665.0,
       "end": 666.0,
       "text": " og alt muligt andet pjat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 670.0,
       "text": " Men det er man jo nødt til at tage hensyn til rent algoritmisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 670.0,
       "end": 672.0,
       "text": " Og det kan man gøre ved at byde ned på Tyskland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 672.0,
       "end": 674.0,
       "text": " Så du siger, jeg ved, returretten i Tyskland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 674.0,
       "end": 677.0,
       "text": " den er måske 30%, i Danmark er den 10%,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 678.0,
       "text": " så det giver jo ikke mening, at jeg betaler",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 681.0,
       "end": 683.0,
       "text": " tilbage i Tyskland, så nu byder jeg ned",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 683.0,
       "end": 686.0,
       "text": " med min returrette procentuelt i hvert marked",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 686.0,
       "end": 688.0,
       "text": " og på den måde, så tager du hensyn til det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 690.0,
       "text": " så konverteringerne i Tyskland kommer til at koste",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 690.0,
       "end": 693.0,
       "text": " det meget mindre for at modvirke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 693.0,
       "end": 695.0,
       "text": " den meget højere returrette.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 695.0,
       "end": 697.0,
       "text": " Det har jeg også gjort på mange grunde til det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 697.0,
       "end": 699.0,
       "text": " Så det man gør til både video og ikke video,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 699.0,
       "end": 701.0,
       "text": " man går ind, vælger location,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 701.0,
       "end": 703.0,
       "text": " der kan man vælge enten cities eller country.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 703.0,
       "end": 704.0,
       "text": " I det her tilfælde, der vælger vi country.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 704.0,
       "end": 706.0,
       "text": " Vi kunne vælge Tyskland som et eksempel.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 706.0,
       "end": 707.0,
       "text": " Og her, der vælger vi i stedet for,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 707.0,
       "end": 708.0,
       "text": " at det er en krise på vores bid,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 708.0,
       "end": 709.0,
       "text": " som vi gjorde med placeringerne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 709.0,
       "end": 710.0,
       "text": " så decreaser vi vores bid.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 710.0,
       "end": 712.0,
       "text": " Det at bid vi placerer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 712.0,
       "end": 714.0,
       "text": " nu har jeg bare sat den placeholder på 60%,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 714.0,
       "end": 716.0,
       "text": " som halvten lige nævner her,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 716.0,
       "end": 717.0,
       "text": " den skal I beregne.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 717.0,
       "end": 718.0,
       "text": " Alle de her value rules er ikke noget,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 718.0,
       "end": 719.0,
       "text": " vi bare lige skal tage,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 719.0,
       "end": 721.0,
       "text": " altså direkte ud et vist sted fra.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 721.0,
       "end": 723.0,
       "text": " Vi skal rent faktisk finde ud af,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 723.0,
       "end": 724.0,
       "text": " hvad er det, vi skal byde op, byde ned.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 724.0,
       "end": 726.0,
       "text": " På et e-commerce, der vil de her sidde og sige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 726.0,
       "end": 728.0,
       "text": " ja, men meta, optimize efter gross sales.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 728.0,
       "end": 729.0,
       "text": " Vi skal have vores net sales,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 729.0,
       "end": 730.0,
       "text": " vi skal have vores returrette,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 730.0,
       "end": 732.0,
       "text": " og vi skal have vores spend share.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 732.0,
       "end": 734.0,
       "text": " Så sidder man og beregner et efficiency index",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 734.0,
       "end": 736.0,
       "text": " og siger, ja okay, Tyskland skal måske",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 737.0,
       "end": 738.0,
       "text": " nedjusteres med returrette,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 738.0,
       "end": 741.0,
       "text": " og deres share på spend og net sales",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 741.0,
       "end": 743.0,
       "text": " med 36%.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 743.0,
       "end": 745.0,
       "text": " Og så holder I jo øje derfra.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 745.0,
       "end": 746.0,
       "text": " Det er det ikke en status,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 746.0,
       "end": 747.0,
       "text": " fordi man skal se det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 747.0,
       "end": 748.0,
       "text": " Den skal man holde øje med,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 748.0,
       "end": 749.0,
       "text": " og konsekvent op til,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 749.0,
       "end": 750.0,
       "text": " det kunne lige så godt være,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 750.0,
       "end": 751.0,
       "text": " at den modsatte siger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 751.0,
       "end": 752.0,
       "text": " vi vil gerne bruge nogle flere penge i Holland.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 752.0,
       "end": 753.0,
       "text": " Jamen så skal Holland skrue sig op,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 753.0,
       "end": 755.0,
       "text": " men hvor meget skal vi skrue op med?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 755.0,
       "end": 757.0,
       "text": " Så det er den måde at få kontrollen tilbage.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 757.0,
       "end": 759.0,
       "text": " Der kan være flere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 759.0,
       "end": 760.0,
       "text": " Jeg vil tage to hurtigt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 760.0,
       "end": 762.0,
       "text": " Age, gender.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 762.0,
       "end": 763.0,
       "text": " Nu har vi lige nævnt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 763.0,
       "end": 765.0,
       "text": " man skal i det, hvad en spørgskampagne kører,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 765.0,
       "end": 766.0,
       "text": " et bredt audience,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 766.0,
       "end": 767.0,
       "text": " hvor I altså vælger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 767.0,
       "end": 769.0,
       "text": " vi går bare fra 18 og op efter,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 769.0,
       "end": 770.0,
       "text": " alle er køn,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 770.0,
       "end": 771.0,
       "text": " give den en gas,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 771.0,
       "end": 773.0,
       "text": " og så lader vi vores content bestemme.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 773.0,
       "end": 774.0,
       "text": " Men det kan sagtens være,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 774.0,
       "end": 775.0,
       "text": " at vi enten gerne vil sige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 775.0,
       "end": 776.0,
       "text": " der er noget investering i,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 776.0,
       "end": 778.0,
       "text": " at vi gerne vil finde nye målgrupper.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 778.0,
       "end": 780.0,
       "text": " Vi vil gerne finde en sekundær målgruppe",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 780.0,
       "end": 781.0,
       "text": " udover vores prima målgruppe,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 781.0,
       "end": 782.0,
       "text": " som er alt vores budget,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 782.0,
       "end": 784.0,
       "text": " eller at vi kender noget,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 784.0,
       "end": 785.0,
       "text": " som I til igen ikke kender.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 785.0,
       "end": 786.0,
       "text": " Der kan vi gå ind og vælge",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 786.0,
       "end": 789.0,
       "text": " enten aldersintervaller eller køn,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 789.0,
       "end": 792.0,
       "text": " og så byde op og byde ned.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 792.0,
       "end": 793.0,
       "text": " Den sidste, jeg synes,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 793.0,
       "end": 794.0,
       "text": " der er vigtigere med her i aften,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 794.0,
       "end": 795.0,
       "text": " det er faktisk en,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 795.0,
       "end": 796.0,
       "text": " vi ikke selv har adgang til.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 796.0,
       "end": 797.0,
       "text": " Så nu hopper jeg lige over et slide,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 797.0,
       "end": 799.0,
       "text": " hvor jeg har taget et screenshot af det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 799.0,
       "end": 801.0,
       "text": " Men den, som jeg vil sige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 801.0,
       "end": 803.0,
       "text": " er vores store guldkunde nu her,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 803.0,
       "end": 804.0,
       "text": " den er begyndt at blive rullet ud",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 804.0,
       "end": 805.0,
       "text": " på nogen konti,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 805.0,
       "end": 808.0,
       "text": " og det er audiences.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 808.0,
       "end": 810.0,
       "text": " Og det her, det er jo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 810.0,
       "end": 812.0,
       "text": " det er så spændende det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 812.0,
       "end": 814.0,
       "text": " fordi vi har tidligere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 814.0,
       "end": 816.0,
       "text": " vi har tidligere haft mulighed for",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 816.0,
       "end": 818.0,
       "text": " i vores annonce set at angive,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 818.0,
       "end": 819.0,
       "text": " hvor meget af vores budget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 819.0,
       "end": 821.0,
       "text": " vil vi gerne bruge på nye kunder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 821.0,
       "end": 823.0,
       "text": " eller eksisterende kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 823.0,
       "end": 825.0,
       "text": " Men så fra to meter den mulighed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 825.0,
       "end": 828.0,
       "text": " så vi har fornyeligt ikke haft mulighed",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 828.0,
       "end": 829.0,
       "text": " for at gå ind og sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 829.0,
       "end": 830.0,
       "text": " vi vil maksimalt for eksempel bruge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 830.0,
       "end": 831.0,
       "text": " 10 procent af budgettet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 831.0,
       "end": 832.0,
       "text": " på eksisterende kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 832.0,
       "end": 833.0,
       "text": " så har vi faktisk været nødt til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 833.0,
       "end": 834.0,
       "text": " at oprette forskellige adsets",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 834.0,
       "end": 836.0,
       "text": " eller lave forskellige kampagnenstrukturer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 836.0,
       "end": 837.0,
       "text": " og det går imod tankegangen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 838.0,
       "text": " i forhold til Advantages Plus,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 838.0,
       "end": 839.0,
       "text": " hvor vi gerne vil samle og konsolidere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 841.0,
       "text": " og bruge dataen på tværs af kampagner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 841.0,
       "end": 842.0,
       "text": " Kæmpe problem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 842.0,
       "end": 843.0,
       "text": " Hvad er løsningen på det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 843.0,
       "end": 844.0,
       "text": " Løsningen er igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 845.0,
       "text": " Value Rules.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 845.0,
       "end": 846.0,
       "text": " Og det her, jeg synes,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 846.0,
       "end": 849.0,
       "text": " den er, altså det er så kæmpestor en ting,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 849.0,
       "end": 850.0,
       "text": " og jeg håber virkelig,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 850.0,
       "end": 851.0,
       "text": " at der er nogen, der hjælper mig med",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 851.0,
       "end": 852.0,
       "text": " at hype det her op",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 852.0,
       "end": 853.0,
       "text": " og få det bredt ud,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 853.0,
       "end": 854.0,
       "text": " så man ikke sidder og fragmenterer",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 854.0,
       "end": 855.0,
       "text": " sin kampagne ud på forskellige",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 855.0,
       "end": 856.0,
       "text": " audience segments.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 856.0,
       "end": 857.0,
       "text": " Jeg ved godt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 857.0,
       "end": 858.0,
       "text": " der kan være noget i forhold til,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 858.0,
       "end": 859.0,
       "text": " vil vi gerne lave et segment,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 859.0,
       "end": 860.0,
       "text": " som har noget relevant kommunikation",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 860.0,
       "end": 862.0,
       "text": " og noget helt specifikt content.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 862.0,
       "end": 863.0,
       "text": " Det er ikke det, vi snakker om her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 863.0,
       "end": 865.0,
       "text": " Vi snakker om at kontrollere spend,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 865.0,
       "end": 867.0,
       "text": " så det er ikke noget omkring,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 867.0,
       "end": 868.0,
       "text": " hvordan jeres kunderejse",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 868.0,
       "end": 869.0,
       "text": " eller awareness stages er.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 869.0,
       "end": 870.0,
       "text": " Det her det er,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 870.0,
       "end": 871.0,
       "text": " I har en Advantage Plus,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 871.0,
       "end": 872.0,
       "text": " I kan se jeres breakdown,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 872.0,
       "end": 873.0,
       "text": " så meget spend,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 873.0,
       "end": 875.0,
       "text": " der går til new customers,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 875.0,
       "end": 877.0,
       "text": " engaged customers",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 877.0,
       "end": 879.0,
       "text": " og existing customers.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 879.0,
       "end": 880.0,
       "text": " I kan se det,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 880.0,
       "end": 882.0,
       "text": " men I kan ikke kontrollere det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 882.0,
       "end": 883.0,
       "text": " I stedet for at break dernede",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 883.0,
       "end": 884.0,
       "text": " på forskellige kampagner,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 884.0,
       "end": 886.0,
       "text": " så går vi nu ind i vores value rules,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 886.0,
       "end": 887.0,
       "text": " vælger audiences og siger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 887.0,
       "end": 889.0,
       "text": " new audiences,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 889.0,
       "end": 890.0,
       "text": " vi vil gerne byde new audiences op,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 890.0,
       "end": 892.0,
       "text": " altså vi vil gerne have nye kunder,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 892.0,
       "end": 893.0,
       "text": " eller vi vil gerne have,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 893.0,
       "end": 895.0,
       "text": " at der bliver lagt mere fokus",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 895.0,
       "end": 897.0,
       "text": " på engaged og existing customers,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 897.0,
       "end": 899.0,
       "text": " altså vores normale retargeting audience.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 899.0,
       "end": 901.0,
       "text": " Det vil jeg ikke lige kunne forstå, hvorfor.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 901.0,
       "end": 902.0,
       "text": " Eller den tredje ting,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 902.0,
       "end": 903.0,
       "text": " men jeg synes,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 903.0,
       "end": 905.0,
       "text": " den måske mindst oversette,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 905.0,
       "end": 906.0,
       "text": " det er den rubrik,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 906.0,
       "end": 907.0,
       "text": " de har, der hedder,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 907.0,
       "end": 909.0,
       "text": " andre målgrupper.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 909.0,
       "end": 910.0,
       "text": " Det er målgrupper,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 910.0,
       "end": 911.0,
       "text": " der ikke passer ind i de breakdowns,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 911.0,
       "end": 912.0,
       "text": " I har lige nu,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 912.0,
       "end": 913.0,
       "text": " men som I selv og masser definerer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 913.0,
       "end": 914.0,
       "text": " Så lad os sige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 914.0,
       "end": 916.0,
       "text": " at vi havde et eksempel,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 916.0,
       "end": 917.0,
       "text": " hvor I har lige kørt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 917.0,
       "end": 919.0,
       "text": " en kæmpe påskekonkurrence,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 919.0,
       "end": 920.0,
       "text": " de skal ikke være med,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 920.0,
       "end": 921.0,
       "text": " eller dem skal vi byde ned",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 921.0,
       "end": 922.0,
       "text": " eller op i en periode.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 922.0,
       "end": 924.0,
       "text": " Eller et e-commerce eksempel,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 924.0,
       "end": 925.0,
       "text": " I har lavet en kæmpe Black Friday",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 925.0,
       "end": 927.0,
       "text": " VIP-liste i jeres CM-system.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 927.0,
       "end": 929.0,
       "text": " Det vil vi gerne have som et andet audience",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 929.0,
       "end": 930.0,
       "text": " i en lille periode,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 930.0,
       "end": 931.0,
       "text": " hvor vi gerne vil byde det op,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 931.0,
       "end": 932.0,
       "text": " fordi det må have en relevans",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 932.0,
       "end": 933.0,
       "text": " i vores annoncering.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 933.0,
       "end": 935.0,
       "text": " Tilføjer vi en ny målgruppe og siger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 935.0,
       "end": 936.0,
       "text": " den her Black List,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 936.0,
       "end": 937.0,
       "text": " eller Black Month,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 937.0,
       "end": 939.0,
       "text": " Black Week liste,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 939.0,
       "end": 940.0,
       "text": " det er et andet audience,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 940.0,
       "end": 942.0,
       "text": " det byder vi op de næste 12 dage.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 942.0,
       "end": 946.0,
       "text": " Jeg synes, det er så vildt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 946.0,
       "end": 947.0,
       "text": " hvor meget det kan gøre,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 947.0,
       "end": 949.0,
       "text": " og hvor mange dårlige strukturer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 949.0,
       "end": 950.0,
       "text": " der er derude,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 950.0,
       "end": 951.0,
       "text": " som kan blive meget bedre ved det her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 951.0,
       "end": 952.0,
       "text": " Det her fortæller noget om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 952.0,
       "end": 953.0,
       "text": " den udvikling META generelt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 953.0,
       "end": 954.0,
       "text": " har været inde i,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 954.0,
       "end": 956.0,
       "text": " fordi tidligere havde vi behovet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 956.0,
       "end": 958.0,
       "text": " for at lave de her ret fragmenterede strukturer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 958.0,
       "end": 959.0,
       "text": " hvis vi ville bruge penge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 959.0,
       "end": 960.0,
       "text": " på forskellige segmenter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 960.0,
       "end": 961.0,
       "text": " Så hvis vi havde nogle forskellige",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 961.0,
       "end": 962.0,
       "text": " strategiske målsætninger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 962.0,
       "end": 963.0,
       "text": " med vi både gerne sælger til dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 963.0,
       "end": 964.0,
       "text": " der kender os i forvejen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 964.0,
       "end": 966.0,
       "text": " vi vil også gerne bruge penge på nye kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 966.0,
       "end": 967.0,
       "text": " det vil vi gerne prioritere os og videre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 967.0,
       "end": 968.0,
       "text": " så var det faktisk nødt til at lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 968.0,
       "end": 969.0,
       "text": " sådan nogle granulerede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 969.0,
       "end": 970.0,
       "text": " fragmenterede strukturer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 970.0,
       "end": 972.0,
       "text": " hvor du slutter dine læringsfaser op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 972.0,
       "end": 973.0,
       "text": " og dermed fik suboptimale levering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 973.0,
       "end": 974.0,
       "text": " og i sidste ende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 974.0,
       "end": 976.0,
       "text": " færre penge, end du kunne have fået.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 976.0,
       "end": 978.0,
       "text": " Men fordi du har været i Rose,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 978.0,
       "end": 979.0,
       "text": " så kan du få i pose over sig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 979.0,
       "end": 980.0,
       "text": " du kan have en samlet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 980.0,
       "end": 982.0,
       "text": " konsolideret kampanjestruktur,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 982.0,
       "end": 983.0,
       "text": " hvor du giver algoritmen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 983.0,
       "end": 984.0,
       "text": " de bedste forudsætninger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 984.0,
       "end": 985.0,
       "text": " for at finde ud af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 985.0,
       "end": 986.0,
       "text": " hvem der er mest relevante",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 986.0,
       "end": 987.0,
       "text": " og optimere din levering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 987.0,
       "end": 988.0,
       "text": " samtidig med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 988.0,
       "end": 989.0,
       "text": " at du kan pege algoritmen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 989.0,
       "end": 990.0,
       "text": " i en retning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 990.0,
       "end": 991.0,
       "text": " der giver mening for dig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 991.0,
       "end": 992.0,
       "text": " rent forretningsmæssigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 992.0,
       "end": 995.0,
       "text": " Så det her, det er det bedste af to verdener,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 995.0,
       "end": 996.0,
       "text": " og det bliver udviklet løbende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 996.0,
       "end": 997.0,
       "text": " så value rules kom til måske",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 997.0,
       "end": 998.0,
       "text": " for et halvt år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 998.0,
       "end": 999.0,
       "text": " men det bliver udvidet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 999.0,
       "end": 1000.0,
       "text": " og det her med audiences,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1000.0,
       "end": 1001.0,
       "text": " er den nyeste ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1001.0,
       "end": 1002.0,
       "text": " vi ikke engang har fået",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1002.0,
       "end": 1003.0,
       "text": " på vores annoncekonto,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1003.0,
       "end": 1004.0,
       "text": " men jeg synes, det er pisse smart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

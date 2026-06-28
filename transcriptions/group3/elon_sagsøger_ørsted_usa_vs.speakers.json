@@ -9,5747 +9,5751 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 3.0,
       "end": 8.0,
       "text": " God aften. Vi starter med de tre nyheder fra den forgangne uge, som vi har udvalgt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 8.0,
       "end": 15.0,
       "text": " Elon Musk og det sociale medie X savnsøger blandt andre Ørsted, som følge af formodningen om et annonceboykot.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 15.0,
       "end": 24.0,
       "text": " Elon Musk mener, at internationale selskaber og organisationer har konspireret om et annonceboykot på det sociale medie, efter han købte tilbage i 2022.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 24.0,
       "end": 29.0,
       "text": " Stævningen og det 44 sider lange sagsanlæg ligger nu i retten i Texas.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 30.0,
       "end": 39.0,
       "text": " Google har i følge en ny dom brugt sine dybe lommer på at sikre sig monopol på onlinesøgninger og dertil hørende reklamer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 39.0,
       "end": 47.0,
       "text": " Det er USA's justitsministerium, der har lagt sag an mod Google på grund af deres store markedsandel og ageren i forhold til at bibeholde de her markedsandeler.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 47.0,
       "end": 54.0,
       "text": " Det er blandt andet kommet ud, at Google betaler 20 milliarder dollars om året for at sikre, at Google er standardsøgmaskinen på iPhones.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 54.0,
       "end": 60.0,
       "text": " Dommen kan få stor betydning for andre sager, hvor man kigger på monopolligende tilstande blandt techvirksomheder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 62.0,
       "end": 71.0,
       "text": " Den seneste beta-udgivelse af Apples nye iOS 18 giver betatesterne mulighed for at skjule annoncer, som dukker op på et givet website.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 71.0,
       "end": 80.0,
       "text": " Det er en ny indstilling i Safari-browseren, der muliggør at fjerne for eksempel popups eller andre reklamer, der fylder på skærmen og dækker over det indhold, som man læser eller ser.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 80.0,
       "end": 87.0,
       "text": " Funktionen har skabt glæde blandt betatesterne, mens marketingbranchen endnu ikke ved, hvordan man skal forholde sig til den her nye funktion.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 89.0,
       "end": 99.0,
       "text": " Hvis vi starter med det sidste. Den her mulighed for at fjerne elementer på websites, som Apple lanserer, den kom jo ud for nogle måneder siden faktisk med et andet navn dengang. Kan du huske, hvad det var?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 100.0,
       "end": 101.0,
       "text": " Nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 101.0,
       "end": 109.0,
       "text": " Det var, at de har simpelthen omdøbt det. Jeg ved ikke, om det var fordi, at de fik en negativ respons på det til at starte med, fordi det er jo sådan lidt et kontroversielt emne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 109.0,
       "end": 117.0,
       "text": " Så det, man skal forestille sig, det er, at hvis man sidder på en iOS-enhed, så det er en iPhone eller en iPad, så har man mulighed for simpelthen at fjerne specifikke elementer af et website.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 118.0,
       "end": 120.0,
       "text": " For eksempel der, hvor der bliver indlæst banner-arrangering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 121.0,
       "end": 128.0,
       "text": " Og det er jo en funktionalitet, som minder lidt om det, man har i AdBlock+, som også altid har været sådan et kontroversielt emne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 133.0,
       "text": " AdBlock+, som jo er en virksomhed, der er opfundet i Hamburg. Det er selvfølgelig tyskerne, der har fundet på AdBlock'er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 133.0,
       "end": 140.0,
       "text": " AdBlock'er blev også stævnet oprindeligt, fordi det blev sådan et ytringsfrihedsspørgsmål, og det blev et hacking-spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 141.0,
       "end": 145.0,
       "text": " Må du entrere et andet website og ændre på kildekoden, for at du får en bedre oplevelse på det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 154.0,
       "text": " Der er både sådan et hacking-aspekt i det, og så er der selvfølgelig også det aspekt, at du fratager website-mulighed for at tjene penge på dig som besøgende, når de stiller indholdet gratis til rådighed, eller hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 155.0,
       "end": 160.0,
       "text": " Så det blev i sidste ende besluttet, at det måtte man gerne, og derfor eksisterer AdBlock som et produkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 160.0,
       "end": 162.0,
       "text": " Og det er altså det her, som Apple nu fortsætter med at gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 163.0,
       "end": 172.0,
       "text": " Jeg har lidt tvivl om det her, for jeg synes egentlig ikke, det er okay, at vi har et gratis og annoncefinansieret internet, som er baseret på, at man får vist relevante annoncer for et website,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 173.0,
       "end": 177.0,
       "text": " stedet for at man kan stille tjenester gratis til rådighed, og at man så fjerner de annoncer efterfølgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 185.0,
       "text": " Fordi det er det, der gør, at vi har fantastisk mange gode gratis produkter, som Google Maps og YouTube og alle mulige enormt brugbare ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.0,
       "end": 188.0,
       "text": " Det er jo under forudsætning af, at vi har et gratis og annoncefinansieret internet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 189.0,
       "end": 196.0,
       "text": " Så jeg er ikke kanon stor fan af, at Apple udvikler funktionalitet til rent faktisk at fjerne annoncerne, og dermed fretage virksomhederne deres evne til at tjene penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 197.0,
       "end": 198.0,
       "text": " Hvad synes du om den her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 199.0,
       "end": 203.0,
       "text": " Jeg er enig, og når man kigger på lige præcis den her nye funktion, som beta-testerne har været ude at teste,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 204.0,
       "end": 210.0,
       "text": " det er at forestille dig, at du lander på et nyhedsmedie, og du begynder at læse artiklen, så kommer den på at poppe frem med et eller andet reklame.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 210.0,
       "end": 221.0,
       "text": " Den kan du så vælge at fjerne helt, og så opløses den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 222.0,
       "end": 226.0,
       "text": " Det skaber jo nogle problemer, fordi annoncen er jo blevet vist.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 227.0,
       "end": 230.0,
       "text": " Så os som marketers, når vi ligger og dykker ned i dataen, så er den jo rent faktisk blevet vist.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 231.0,
       "end": 234.0,
       "text": " Men kan vi se, at den er blevet fjernet efterfølgende, og skal vi stadig betale for den her visning?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 235.0,
       "end": 237.0,
       "text": " Der er mange spørgsmål her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 238.0,
       "end": 243.0,
       "text": " Lad os tage i nyheden med Google, som har fået den her dom imod sig i USA, som faktisk kan have ret stor betydning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 249.0,
       "text": " Det er, at Google ved at betale Apple. De har altså et monopol på online-søgninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 251.0,
       "text": " Jeg synes, at der er to sjove ting at sige til det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 254.0,
       "text": " Det ene er, at har du hørt Googles spin på den her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 256.0,
       "text": " Nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.0,
       "end": 259.0,
       "text": " Jeg har faktisk læst Googles svar på det her, hvor de har fået dom imod sig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 261.0,
       "text": " Og nu skal du høre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 275.0,
       "end": 280.0,
       "text": " Og det synes jeg er et smukt spin på, at de har fået at vide, at de har monopolistisk adfærd i USA.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 281.0,
       "end": 285.0,
       "text": " Det der handler om, det er, at Google betaler simpelthen Apple 20 milliarder dollars om året.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 285.0,
       "end": 292.0,
       "text": " Og jeg læste en artikel om, at det er ca. 36% af Googles omsætning på iOS, for at være et default browser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 299.0,
       "text": " Og noget af det sjove, der er kommet frem i den her retssag, det er, at Apple har sendt nogle interne mails til andre folk i Apple,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 307.0,
       "text": " hvor de bl.a. siger, at der ikke er det beløb i verden, som Microsoft kunne betale dem, for at få dem til at indstille Bing som standard.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 307.0,
       "end": 320.0,
       "text": " Og jeg synes, at det er så sjovt, fordi Google betaler 26% af deres omsætning for noget, som Apple nok ikke vil gøre noget ved.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 324.0,
       "text": " Det er jo ikke fordi, de kan betale indstillet Bing eller Yahoo som standard søgmaskine.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 325.0,
       "end": 329.0,
       "text": " Men det man lige skal overveje, hvis man går et spade stykke dybere, fordi man kan godt umiddelbart tænke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 331.0,
       "text": " hvorfor betaler Google 20 milliarder dollars for det, det var da fjollet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 332.0,
       "end": 341.0,
       "text": " Det der er genialt i min optik, det er, at den virksomhed i verden, som er bedst positioneret til at lave en seriøs konkurrent til Google, det er Apple.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 342.0,
       "end": 349.0,
       "text": " De har økosystemet allerede, de har telefonerne og kunne indstille dem på dem, de har dataen, de har compute poweren, de har kapitalen til at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 350.0,
       "end": 355.0,
       "text": " Altså den virksomhed i verden, der har de bedste forudsætninger for at lave en reelt søgmaskinekonkurrent til Google, det er Apple.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 356.0,
       "end": 359.0,
       "text": " Og jeg tror, at det er, at Google betaler dem 20 milliarder dollars om året.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 360.0,
       "end": 368.0,
       "text": " I virkeligheden er det hold kæft bolsjens version af, lad vær med at lave en konkurrerende søgmaskine, fordi I tjener så mange penge på det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 374.0,
       "text": " Så jeg tror årsagen til, at Google gør det her, det er ikke fordi, at de er bange for, at Microsoft bliver indstillet som en anden default browser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 375.0,
       "end": 378.0,
       "text": " fordi som Apple siger, de kan betale alle penge i hele verden, og vi kommer ikke til at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 383.0,
       "text": " Men jeg tror simpelthen, at de holder Apple fra at lave en seriøs søgmaskinekonkurrent, og det er mere end 20 milliarder dollars værd for dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 383.0,
       "end": 387.0,
       "text": " Hvad er dit take? Hvor meget skulle der til for, at du ville begynde at bruge penge på din iPhone?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 392.0,
       "text": " Gå ind på Bing for at søge Google, for at komme ind på Google.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 393.0,
       "end": 396.0,
       "text": " Det er jo sådan en joke, at det mest søgte ord på Bing, det er Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 397.0,
       "end": 403.0,
       "text": " Jeg skal til gengæld lige høre her, fordi at nu er det lang, lang tid siden, at jeg har ejet en Android-telefon.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 404.0,
       "end": 408.0,
       "text": " Men jeg har sgu hørt så meget fra dig på, at jeg har ejet en iPhone, og du har ejet en Android-telefon.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 409.0,
       "end": 414.0,
       "text": " Den Android-telefon, som du stadigvæk ejer, er det stadigvæk den prima-telefon, du har? Det skal vi lige komme ind på også.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 415.0,
       "end": 417.0,
       "text": " Men var Google standard søgmaskinen der?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 418.0,
       "end": 420.0,
       "text": " Hvor lang tid har du ventet på at komme ind på det her emne, senior?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 425.0,
       "text": " Jeg har ventet 6-7 afsnit nu, fordi det er for 6-7 uger siden, jeg fik det værd.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 426.0,
       "end": 427.0,
       "text": " Er det derfor, at du har taget den her nyhed med?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 433.0,
       "text": " Hvad er det for en telefon, du har nu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 437.0,
       "text": " Jeg har købt en iPhone, efter jeg har haft OnePlus i 8 år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 440.0,
       "text": " Jeg har haft 6 OnePlus-telefoner i stræk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 444.0,
       "text": " 1, 3, 5, 8, 10, 3 i Nord, tror jeg, de hedder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 450.0,
       "text": " Jeg har købt en iPhone, fordi nu var batteritiden ved at være lidt dårlig på min telefon, efter et par års tid, som det jo sker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " Og så tænkte jeg, at jeg skulle prøve at se, om der var noget om snakken.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 454.0,
       "end": 455.0,
       "text": " Så jeg har købt en iPhone.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " Og hvis jeg lige skal give min 30-sekunders opsummering, som ingen har bedt om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 459.0,
       "end": 464.0,
       "text": " Så det gode ved den, det er, at jeg kan godt mærke, at alle apps bliver udviklet til iPhone først.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 470.0,
       "text": " Så der er nogle apps på min telefon, jeg bruger ret meget, sådan noget som EasyPak og til DSB til at købe billetter og sådan noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 471.0,
       "end": 472.0,
       "text": " De virker sgu bedre på iPhone, end de gør på Android.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 476.0,
       "text": " Så jeg kan godt se, at de har lavet det til iPhone først, og så portet det til Android bagefter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 477.0,
       "end": 479.0,
       "text": " Hvis man så lige skal give den negative ting, den er godt nok låst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 480.0,
       "end": 486.0,
       "text": " Altså det kan du ikke forestille sig, fordi du har siddet i det her økosystem i alt for lang tid, og du køber Airpods og sikkert Apple Watch og alt muligt din fanboy.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 487.0,
       "end": 488.0,
       "text": " Men den er virkelig låst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 489.0,
       "end": 492.0,
       "text": " Altså jeg har siddet der, ej du sidder med Apple Watch på, og det vidste jeg ikke engang, det var da forfærdeligt mand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 494.0,
       "text": " Øj, du er helt ned i økosystemet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 495.0,
       "end": 498.0,
       "text": " Men altså jeg optager også på en MacBook Air, og nu har jeg en telefon, og det er forfærdeligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 500.0,
       "text": " Men den er godt nok låst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 511.0,
       "text": " For at komme tilbage til dit spørgsmål, som jeg godt ved du stillede for at fremvise min tosiddighed i forhold til min kritik af Apple, og nu at jeg selv har købt en iPhone.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 518.0,
       "text": " Så havde jeg selvfølgelig Chrome som standard på Android, eller Google som standard på Android, og jeg har også Google som standard på iPhone nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 519.0,
       "end": 522.0,
       "text": " Men det er jo genialt, at de betaler om 20 milliarder dollars for aldrig nogensinde at lave en konkurrent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 524.0,
       "text": " Ja, det er jeg godt sikker på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 525.0,
       "end": 528.0,
       "text": " Og så lad os komme til ugens yndlingsnyhed, som jeg jo synes er så fantastisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 537.0,
       "text": " Fordi, jeg ved ikke om du kan huske det, men der var sådan et mega sjovt klip for et år eller to siden, hvor Elon Musk han var til en eller anden form for konference.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 543.0,
       "text": " Og så sad han op på scenen, og en af dem der var nede i lokalet, det var Bob Iger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 544.0,
       "end": 550.0,
       "text": " Og Bob Iger han er sådan en long time CEO af Disney, det har han været i, det ved jeg ikke, 30 år eller et eller andet i den stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 559.0,
       "text": " Og Elon Musk taler i den her sal om ytringsfrihed på Twitter og annoncering og alt muligt andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 560.0,
       "end": 566.0,
       "text": " Og Elon Musk er meget sur på Bob Iger, fordi Bob Iger han har sagt, at Disney skal ikke annoncere på Twitter længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 572.0,
       "text": " Altså der er for meget lort på Twitter, og der er hate speech og der er alle mulige andre ting, så Disney vil ikke have deres annoncer derinde længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 573.0,
       "end": 583.0,
       "text": " Og Elon Musk han kan jo så vælge to veje her, han kan jo prøve at rette lidt ind og måske fjerne noget hate speech og gå en lille smule tilbage på nogle af de tilsager han har lavet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 584.0,
       "end": 589.0,
       "text": " Eller han kan dobbelt klikke på og simpelthen gå all in mod Bob Iger, og han vælger det sidste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 599.0,
       "text": " Så Elon Musk han sidder på scenen og siger, go fuck yourself, oh hi Bob. Direkte henvendt til Bob Iger i publikum.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 603.0,
       "text": " Så siger man, go fuck yourself, don't advertise then.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 609.0,
       "text": " Og det siger Elon Musk i respons på, at Bob Iger har trukket Disneys store annoncebudget fra Twitter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 624.0,
       "text": " Så kan vi så spole tiden et år frem nu, hvor Elon Musk sagsøger bl.a. Disney og Ørsted og Hershey's og Mars for at have lavet et organiseret annonceboykot og ikke annoncerer på Twitter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 630.0,
       "text": " Og jeg synes det er så fantastisk, at han for et år siden kan sidde i scenen og sige, go fuck yourself, don't advertise then.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 634.0,
       "text": " Og så kommer et år siden og sagsøger dem for ikke at annoncere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 639.0,
       "text": " Tror du ikke bare han havde siddet og kigget på revenue'en og tænkte, oh shit, nu er den altså ikke sjov mere, nu er den ikke god mere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 640.0,
       "end": 644.0,
       "text": " Vi snakkede jo i sidste episode om, at Twitters omkostninger er faldet med 80%, det er jo rigtig, rigtig flot.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 652.0,
       "text": " Deres omsætning var selvfølgelig 83%, og jeg har faktisk været inde og prøvet Twitter på en af vores gutter på nyheden, det er stadig dårligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 657.0,
       "text": " Prisen er faldet 83%, det er stadig dårligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 665.0,
       "text": " Så jeg synes simpelthen, det er så fantastisk det her, at Elon Musk, altså jeg synes jo, at Elon Musk er på mange måder helt fantastisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 673.0,
       "text": " Vi kører rundt i Tesla, og han har SpaceX, og er den mest fantastiske startup nogensinde, og hvad han ikke har gjort, alt er fantastisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 674.0,
       "end": 676.0,
       "text": " Men hold kæft det selvmål, han laver her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 683.0,
       "text": " In other news, så sagsøger opsigten Digital, I er jo et årsørsted for ikke at have valgt os som bureau de sidste par år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 686.0,
       "text": " Og det kan der jo ikke være andre årsager til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 687.0,
       "end": 688.0,
       "text": " Nej, det er et fælles boykot.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 689.0,
       "end": 691.0,
       "text": " Jamen der kan ikke være andre årsager, det kan der simpelthen ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 692.0,
       "end": 697.0,
       "text": " Ej, hvad tænker du om det, og hvem har du tænkt deres afsøg for ikke at være kunder i Ice Digital?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 700.0,
       "end": 703.0,
       "text": " Jeg ved ikke hvad der er at tænke om det her, ud over det vi lige har snakket om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 704.0,
       "end": 708.0,
       "text": " Og det skal lige siges, nu i dag, det er plasteret ind i alle nyhedsmedier.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 709.0,
       "end": 713.0,
       "text": " Alle nyhedsmedier skriver omkring det her, selvfølgelig med Ørsted som det primære her i Danmark.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 714.0,
       "end": 718.0,
       "text": " Og man har så forsøgt, kunne jeg så læse mig til, at få en kommentar ud af Ørsted,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 719.0,
       "end": 723.0,
       "text": " og de andre lande, hvis store virksomheder også var en del af det her boykot, eller allegedly boykot,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 724.0,
       "end": 727.0,
       "text": " har man også forsøgt at få en kommentar ud af, men der er ikke nogen der rigtigt har ville udtale sig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 727.0,
       "end": 732.0,
       "text": " Så det bliver altså lidt spændende lige at følge, fordi retningen i Texas sidder med den nu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 733.0,
       "end": 736.0,
       "text": " og jeg ved ikke hvornår de forventer at gå i gang med retssagen, men det er nok snart.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 738.0,
       "end": 743.0,
       "text": " En af mine yndlingsdetaljer for lige at tage det sidste i historien, det er, at Elon Musk ansat jo en ny formelt set CEO.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 744.0,
       "end": 746.0,
       "text": " Det er ikke rigtigt i virkeligheden, alle ved jo godt Elon Musk han er CEO af Twitter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 747.0,
       "end": 749.0,
       "text": " Men han har ansat formelt en CEO, som hedder Linda Yacaterino, mener jeg,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 750.0,
       "end": 754.0,
       "text": " som har lang fortid i annoncering for et år siden, blandt andet med henblik på, at hun skulle bringe annoncererne tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 758.0,
       "text": " Og hun har lagt en to minutter lang video op på Twitter, hvor hun fortæller om det her søgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 759.0,
       "end": 765.0,
       "text": " Og jeg tænker bare, det må have været svært for hende at sidde og holde et straight face, da hun skulle lave den video.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 766.0,
       "end": 771.0,
       "text": " Hvor hun skulle sige, at der er et organiseret annonceboykot i gang mod Twitter, og det er derfor de ikke annoncerer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 772.0,
       "end": 775.0,
       "text": " og det ikke har noget at gøre med, at Elon Musk sidder og kalder dem, go fuck yourself, i crowdet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 775.0,
       "end": 788.0,
       "text": " Vi hopper videre til dagens emne, som handler om, hvordan man går internationalt med ens shop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 789.0,
       "end": 794.0,
       "text": " Og der er mange forskellige vinkler til det her, men den vinkel vi har valgt, det er, hvordan man udvælger det rigtige marked.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 795.0,
       "end": 799.0,
       "text": " Fordi vi kan sagtens lave andre episode om, hvordan får man så den tekniske infrastruktur til det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 800.0,
       "end": 802.0,
       "text": " hvordan laver man Facebook ads til det, og en masse andre spændende ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 802.0,
       "end": 807.0,
       "text": " Men at vælge det rigtige marked, det er den første beslutning, man tager, og det er også den vigtigste beslutning, man tager.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 808.0,
       "end": 811.0,
       "text": " Og jeg har set vores kunder vælge helt rigtigt og vælge helt forkert, og når man vælger helt forkert,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 812.0,
       "end": 816.0,
       "text": " så er det en forkert beslutning til mange millioner kroner, der sætter virksomheden, hvis ikke flere år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 817.0,
       "end": 819.0,
       "text": " så er i hvert fald et år tilbage i forhold til, hvor de kunne have været.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 820.0,
       "end": 822.0,
       "text": " Så det her er altså ikke et område, man skal bruge for lidt tid på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 823.0,
       "end": 825.0,
       "text": " Og det gælder i øvrigt også i professional services virksomheder, fordi nu er Twitter jo en virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 826.0,
       "end": 829.0,
       "text": " der spænder fire lande via clientfacing i Danmark, Tyskland og Finland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 829.0,
       "end": 832.0,
       "text": " og har et ret stort kontor i Berniluka i Bosnien også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 833.0,
       "end": 835.0,
       "text": " Så det der med at vælge det rigtige land er også noget, vi har kigget på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 836.0,
       "end": 839.0,
       "text": " og interessant nok, så er der nogle af overvejelserne, der faktisk har været det samme for os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 840.0,
       "end": 842.0,
       "text": " som jeg kan give en lille smule impotens, tak med, at vi kommer til det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 843.0,
       "end": 845.0,
       "text": " særlig i relation til Tyskland, som er et ret stort marked for os i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 846.0,
       "end": 849.0,
       "text": " Så til New, det her emne synes jeg er mega spændende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 850.0,
       "end": 855.0,
       "text": " Skal vi ikke bare kaste os... Lad os lige starte med, hvorfor er det, at man taler om at gå international,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 855.0,
       "end": 858.0,
       "text": " altså ikke bare tager Danmark, hvis man lige skal tage sådan en to-minuters version af det først?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 859.0,
       "end": 864.0,
       "text": " Ja, den helt korte version er jo, at vi i Danmark er, hvad, 5,9, knap 6 millioner mennesker,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 865.0,
       "end": 868.0,
       "text": " og bare for at sætte det i relief, i London bor der 9 millioner mennesker, altså bare i London.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 869.0,
       "end": 874.0,
       "text": " Skal man være stor som e-commerce, så skal man næsten altid til udlandet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 875.0,
       "end": 876.0,
       "text": " fordi markedet i Danmark er simpelthen for småt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 877.0,
       "end": 880.0,
       "text": " Og det gælder jo både i forhold til at lave en forretning, men det gælder især deltid også,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 880.0,
       "end": 882.0,
       "text": " hvis man ønsker at sælge en e-commerce forretning en dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 886.0,
       "text": " fordi det er svært at blive solgt til nogle af dem, som det er rigtig sjovt at sælge til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 887.0,
       "end": 890.0,
       "text": " altså for større spillere, strateger eller kapitalfunde, eller hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 891.0,
       "end": 892.0,
       "text": " Det er altså sværere, hvis ens historie er, at vi er i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 893.0,
       "end": 894.0,
       "text": " Vi kommer kun til at være i Danmark, vi kommer ikke til at gå i udlandet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 895.0,
       "end": 900.0,
       "text": " fordi det er bare svært at påvise den der rejse hen mod, at omsætningen bliver tre gange så høj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 901.0,
       "end": 904.0,
       "text": " eller fem gange så høj, hvis du allerede ligger i et relativt saturatedt marked, som Danmark er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 905.0,
       "end": 906.0,
       "text": " Så der kan være flere strategiske årsager til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 906.0,
       "end": 908.0,
       "text": " En ting er selvfølgelig, at man kan få et brag af en forretning på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 909.0,
       "end": 912.0,
       "text": " men også hvis man udadtil vil øge værdiindstillelsen af ens forretning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 913.0,
       "end": 914.0,
       "text": " så skal man også bare være i udlandet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 915.0,
       "end": 916.0,
       "text": " Lige præcis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 917.0,
       "end": 918.0,
       "text": " Og det kan jo være udfordrende at vælge det rigtige marked.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 919.0,
       "end": 922.0,
       "text": " Jeg ved ikke, om vi sidder ofte med det, men vi har siddet mange gange sammen med kunderne",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 923.0,
       "end": 927.0,
       "text": " og skulle udvælge markedet, og de seks tips eller perspektiver, vi ligesom kommer med i dag i den her episode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 928.0,
       "end": 932.0,
       "text": " det er det, vi plejer at tage med til bordet, når vi skal sætte os ned og prøve at udvælge et marked",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 933.0,
       "end": 935.0,
       "text": " fra et marketingperspektiv inden for e-commerce.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 936.0,
       "end": 941.0,
       "text": " Lad os hoppe direkte ud i det første, og der bruger du data til at beslutte dig for, hvor giver det mening at gå ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 942.0,
       "end": 943.0,
       "text": " Hvad handler tip nr. 1 om?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 944.0,
       "end": 949.0,
       "text": " Det handler om at tjekke søvolumener for de allervigtigste søovere i de markeder, som du nu engang går og overvejer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 950.0,
       "end": 952.0,
       "text": " Og søovere er noget, som jeg har mit hjerte nært.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 953.0,
       "end": 956.0,
       "text": " Det er noget, jeg har brugt utalde timer på at sidde og nørde rundt i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 957.0,
       "end": 958.0,
       "text": " Jeg elsker egentlig søovere. Jeg kan virkelig godt lide det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 959.0,
       "end": 961.0,
       "text": " Jeg startede jo også ligesom dig med seo helt i tidernes morgen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 961.0,
       "end": 967.0,
       "text": " Det her med, at et søvolumen, altså det vil sige antallet af gennemsnit månedlige søvninger på et givet søover,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 968.0,
       "end": 971.0,
       "text": " det giver dig en idé om, hvor stor en efterspørgsel, der er på et givet marked.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 972.0,
       "end": 975.0,
       "text": " Det giver dig ikke det endegyldige indblik i det, men det giver dig i hvert fald en rigtig god idé om det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 976.0,
       "end": 982.0,
       "text": " Selv via for eksempel Google Ads. Lad os sige, at du skal starte din forretning op i Sverige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 983.0,
       "end": 984.0,
       "text": " Du har kun opereret i Danmark.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 985.0,
       "end": 988.0,
       "text": " Jamen starter du ud med for eksempel Google Ads, som jo er centreret omkring søovere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 988.0,
       "end": 993.0,
       "text": " så ser vi ofte, at det er de lettere salg, der kan skabes der, fordi folk aktivt selv efterspørger dine varer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 994.0,
       "end": 999.0,
       "text": " Hvorimod, at hvis du starter ud med en helt kold paid social announce, så kaster du noget i hovedet på folk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1000.0,
       "end": 1002.0,
       "text": " som de jo reelt set ikke har spurgt om. Måske konverterer de. Det vil være fantastisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1003.0,
       "end": 1005.0,
       "text": " Men den nemmere vej, det er med de her søovere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1006.0,
       "end": 1011.0,
       "text": " Derudover, så er der mange, der glemmer, at i Danmark kan man have et rigtig, rigtig godt brand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1012.0,
       "end": 1016.0,
       "text": " Hvor at bare det, der står, lad os sige på en t-shirt, at der står et navn der på, det er nok til at kunne sælge det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1016.0,
       "end": 1018.0,
       "text": " En træningst-t-shirt for eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1019.0,
       "end": 1024.0,
       "text": " Men når du går til udlandet, så vil de her søovers-analyser nogle gange kunne vise,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1025.0,
       "end": 1029.0,
       "text": " hvad det er for nogle funktionelle ting, som markedet går op i, i de enkelte lande.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1030.0,
       "end": 1033.0,
       "text": " Fordi at det er måske ikke nok bare at sælge din t-shirt med et givent logo på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1034.0,
       "end": 1038.0,
       "text": " Du skal måske ind og forklare de her funktionaliteter, som ikke er så vigtige at forklare i Danmark måske,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1039.0,
       "end": 1041.0,
       "text": " fordi man netop har det her brand her. Så hvordan gør man det så?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1041.0,
       "end": 1046.0,
       "text": " Nu har jeg siddet og lavet et lille søovers-analys faktisk, mens du snakkede her, fordi det fik jeg lige lyst til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1047.0,
       "end": 1051.0,
       "text": " Marketingpod har ifølge Ahrefs 0-10 månedlige søgninger, så det er jo ikke særlig godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1052.0,
       "end": 1056.0,
       "text": " Der er simpelthen ikke nogen, der har lyst til at google os, og jeg kan sige, at jeg googler i hvert fald Marketingpod en gang om dagen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1057.0,
       "end": 1059.0,
       "text": " Så allerede der kan vi konstatere, at der er noget i gæld med tallene her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1060.0,
       "end": 1064.0,
       "text": " Men vi er lidt uden situation, lidt ligesom for nogle uger siden, da vi havde ingen kvindelige abonnenter på YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1065.0,
       "end": 1069.0,
       "text": " Og Gidde Mølbak og Lone Sanko så forbarmede sig over os, og tak til jer endnu en gang for at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1069.0,
       "end": 1075.0,
       "text": " Christian Tigno har 10 månedlige søgninger ifølge Ahrefs. Er det dig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1076.0,
       "end": 1078.0,
       "text": " Nej, prøv at tage Tigno rent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1082.0,
       "end": 1083.0,
       "text": " Nu håber jeg ikke, at du tager det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1084.0,
       "end": 1086.0,
       "text": " Jeg ved faktisk ikke engang, hvor mange søgninger der er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1091.0,
       "end": 1096.0,
       "text": " Der er en grund til, at jeg har taget dit navn, Tigno. Det er fordi, at jeg har også taget mit navn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1097.0,
       "end": 1098.0,
       "text": " Ja, det er klart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1100.0,
       "end": 1102.0,
       "text": " Og der er gode nyheder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1105.0,
       "end": 1109.0,
       "text": " Der fik jeg en omsæt til at bruge den her igen. Jeg ligger på 50 søgninger om måneden ifølge Ahrefs.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1110.0,
       "end": 1115.0,
       "text": " Så har jeg taget endnu et søgeord med, som jeg kan se, at du har lagt ind i noterne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1116.0,
       "end": 1122.0,
       "text": " Og jeg tænkte, at det her kan simpelthen ikke passe, at der er 1700 søgninger på det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1122.0,
       "end": 1130.0,
       "text": " Men nu har jeg lagt søgeordet Donut Hunesæng ind i Ahrefs og kan konstatere ved selvsyn, at der er 1700 søgninger om måneden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1131.0,
       "end": 1135.0,
       "text": " Hvad er en Donut Hunesæng? Hvorfor har du købt det produkt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1136.0,
       "end": 1139.0,
       "text": " Det tænker jeg næsten, at det må du have, når du bruger det som udgangspunkt til den her episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1140.0,
       "end": 1145.0,
       "text": " der ligger et billede ind i vores noter af dig, der har centreret Donut Hunesæng i 1700 søgninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1146.0,
       "end": 1151.0,
       "text": " Og en Donut Hunesæng, det er en hunesæng, der ligner en Donut, meget blød og fluffy.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1152.0,
       "end": 1156.0,
       "text": " Grunden til, at jeg har taget det her søgeord med, det er fordi, at jeg vil prøve at komme med et eksempel på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1157.0,
       "end": 1161.0,
       "text": " hvordan man gør det her i praksis, altså forsøger at finde ud af, hvordan søgevolumen ser ud i andre markeder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1162.0,
       "end": 1167.0,
       "text": " Fordi, nu startede jeg med at sige, at man skulle prøve at tage udgangspunkt i ens forretningsbedste søgtermer",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1167.0,
       "end": 1173.0,
       "text": " i det marked, man nu engang er, altså hjemmemarkedet i Danmark, hvor man så oversætter dem og ser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1174.0,
       "end": 1179.0,
       "text": " hvordan er det så fx i Tyskland. Men der kan altså være nogle ret store forskelle fra land til land.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1180.0,
       "end": 1186.0,
       "text": " Og her kommer eksemplet så. Donut Hunesæng i Danmark, der er der på det søgeord 1700 søgninger pr. måned.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1187.0,
       "end": 1189.0,
       "text": " Men det er faktisk ikke et søgeord, der rigtig bliver brugt i Tyskland.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1190.0,
       "end": 1192.0,
       "text": " Jeg mener, da jeg lige undersøgte, der var der måske 500 søgninger om måneden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1193.0,
       "end": 1198.0,
       "text": " Forskellen mellem 1700 og 500 er måske ikke så stor, men tænk lige på, hvor stor Tyskland er i forhold til det danske marked.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1199.0,
       "end": 1203.0,
       "text": " Derimod, så kan vi se, at der i Tyskland bliver søgt helt vildt meget efter orthopediske hundekugle,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1204.0,
       "end": 1206.0,
       "text": " eller hundepuder, eller hundesænge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1207.0,
       "end": 1210.0,
       "text": " Og hvordan udtaler du det på tysk, Tinho? Orthopediske hundesænge?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1211.0,
       "end": 1213.0,
       "text": " Orthopedisches.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1214.0,
       "end": 1215.0,
       "text": " Hundebæt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1216.0,
       "end": 1217.0,
       "text": " Hundebæt, nej, hundebæt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1217.0,
       "end": 1219.0,
       "text": " Hundebæt, nej.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1220.0,
       "end": 1222.0,
       "text": " Men der skal jeg altså også love for, at der er 7200 søgninger på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1223.0,
       "end": 1227.0,
       "text": " Ja, 7200 tyskere søger efter en hundedonut, eller en hundesænge hver måned.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1228.0,
       "end": 1234.0,
       "text": " Jeg kan jo ikke lige tilføje, og jeg kan selvfølgelig ikke lige lade være med at se et søgeord, der har 1700 søgninger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1235.0,
       "end": 1237.0,
       "text": " om Exact Match-domænet er taget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1238.0,
       "end": 1241.0,
       "text": " Men jeg kan konstatere, at Alan Frost Danielsen fra Arhens Minde i Brogst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1242.0,
       "end": 1246.0,
       "text": " han har den 3. maj 2021 købt domænet donuthundesænge.dk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1247.0,
       "end": 1252.0,
       "text": " og han har lagt et affiliate-site ind, hvor han lægger til danske webshops, der sender donuthundesænge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1253.0,
       "end": 1259.0,
       "text": " Hvis vi havde en præmie, vi kunne give til dig, Alan, for at have registreret og købt donuthundesænge.dk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1260.0,
       "end": 1261.0,
       "text": " og lavet et affiliate-site på det, så havde vi gjort det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1262.0,
       "end": 1264.0,
       "text": " Og så havde vi selv købt domænet øvrigt, hvis ikke du havde det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1265.0,
       "end": 1267.0,
       "text": " Så tillykke. Kommerstrøget er forkøbet på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1268.0,
       "end": 1272.0,
       "text": " Lad os hoppe videre til tip nr. 2 med konkurrentanløse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1273.0,
       "end": 1275.0,
       "text": " Altså, hvordan ser konkurrencesituationen ud på den nye marked?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1275.0,
       "end": 1278.0,
       "text": " Og her skal man jo være opmærksom på, at der kan være nogle eksterne faktorer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1279.0,
       "end": 1280.0,
       "text": " som man ikke lige nødvendigvis tænker over i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1281.0,
       "end": 1285.0,
       "text": " Hvis man tager f.eks. Tyskland, UK og US, så er Amazon jo en kæmpe faktor.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1286.0,
       "end": 1288.0,
       "text": " I Tyskland er det ca. 40% af al e-handel, der ligger på Amazon,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1289.0,
       "end": 1291.0,
       "text": " og i UK og US har de nogle tilsvarende tal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1292.0,
       "end": 1294.0,
       "text": " I andre markeder, så er det andre markedspladser eller platform,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1295.0,
       "end": 1296.0,
       "text": " som tager en enormt stor del af søgvolumen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1297.0,
       "end": 1300.0,
       "text": " som man bare skal være opmærksom på rent faktisk eksisterer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1301.0,
       "end": 1303.0,
       "text": " Hvis man tager det danske e-commerce-marked, så er det enormt fragmenteret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1304.0,
       "end": 1307.0,
       "text": " Dansk Erhverv, som FDH og Forening for Dansk Internethandel i dag hører under,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1308.0,
       "end": 1310.0,
       "text": " laver løbende analyser af, hvem er de største danske webshops.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1311.0,
       "end": 1314.0,
       "text": " Og det er typisk Zalando, og så Teemu har snedet sig op i top 10,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1315.0,
       "end": 1317.0,
       "text": " og Matas er der, og Boost, og sådan usual suspects.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1318.0,
       "end": 1321.0,
       "text": " Men den største webshop i Danmark, Zalando, sidste måned, det var 3%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1322.0,
       "end": 1323.0,
       "text": " Altså 3% af al e-handel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1324.0,
       "end": 1327.0,
       "text": " Hvor i Tyskland er det bare Amazon med 40, og i UK Amazon med 40.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1328.0,
       "end": 1329.0,
       "text": " Så Danmark er et enormt fragmenteret marked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1330.0,
       "end": 1332.0,
       "text": " og det er godt nyt, hvis man vil starte en ny webshop i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1333.0,
       "end": 1335.0,
       "text": " Fordi vi danskere er ikke vant til at købe alt på en platform alligevel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1336.0,
       "end": 1338.0,
       "text": " så vi er okay med at handle 3, 4, 5, 10 forskellige steder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1339.0,
       "end": 1341.0,
       "text": " hvor tyskerne og UK og så videre er bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1342.0,
       "end": 1343.0,
       "text": " altså det er 40% til at starte med, der bare går til Amazon,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1344.0,
       "end": 1345.0,
       "text": " og så kan man gå i gang med de resterende 60%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1345.0,
       "end": 1347.0,
       "text": " og så kan man gå i gang med de resterende 60%",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1347.0,
       "end": 1349.0,
       "text": " og så kan man gå i gang med de resterende 60%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1375.0,
       "end": 1377.0,
       "text": " og så kan man gå i gang med de resterende 60%",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1377.0,
       "end": 1379.0,
       "text": " og så bevares meget mere end vi har i Danmark.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1379.0,
       "end": 1381.0,
       "text": " men der skal man bare være opmærksom på, at der kan være nogle eksterne faktorer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1381.0,
       "end": 1383.0,
       "text": " som trækker lidt op i det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1383.0,
       "end": 1385.0,
       "text": " så hvis man kan se bort fra det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1385.0,
       "end": 1390.0,
       "text": " hvordan vil du så se på konkurrencesituationen ud over Amazon og de her helt store platforme?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1390.0,
       "end": 1394.0,
       "text": " Jamen det er egentlig ved at døkke lidt ned i,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1394.0,
       "end": 1396.0,
       "text": " ud fra de her annonce ad-libraries.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1396.0,
       "end": 1398.0,
       "text": " Hvad er det egentlig for nogle konkurrenter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1398.0,
       "end": 1400.0,
       "text": " der ligger derude i dag og poster penge i markedsføring?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1400.0,
       "end": 1402.0,
       "text": " og vi har taget nogle eksempler med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1402.0,
       "end": 1405.0,
       "text": " På TikTok ad-library, der kan du gå ind og decideret søge efter søgerår.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1405.0,
       "end": 1408.0,
       "text": " Så du har lige lavet en søgerårsanalyse, det var jo tip nr. 1.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1408.0,
       "end": 1410.0,
       "text": " Prøv at tage nogle af de her søgerår ind og se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1410.0,
       "end": 1413.0,
       "text": " hvad er det for nogle konkurrenter, der ligger derude og bruger penge på markedsføring?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1413.0,
       "end": 1416.0,
       "text": " og hvor dygtige mener du de er til det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1416.0,
       "end": 1418.0,
       "text": " Det er jo svært at sige, når man ikke kan se tallene bagved,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1418.0,
       "end": 1420.0,
       "text": " men man kan i hvert fald godt danse en ret godt overblik over,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1420.0,
       "end": 1422.0,
       "text": " om det er en meget, meget seriøs konkurrence,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1422.0,
       "end": 1424.0,
       "text": " er det nogle virkelig vilde annoncevideoer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1424.0,
       "end": 1426.0,
       "text": " er det nogle helt vilde landingsside, de sender folk ind til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1426.0,
       "end": 1429.0,
       "text": " eller er det mere sådan lidt venstrehåndsarbejde?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1429.0,
       "end": 1433.0,
       "text": " Det er noget af det, vi bruger ret meget, når vi ligger og kigger på andre markeder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1433.0,
       "end": 1437.0,
       "text": " at se, hvor seriøse er de her konkurrenter, der ligger derude.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1437.0,
       "end": 1440.0,
       "text": " Derudover kan man gøre det, at man bruger Google Ads Transparency Center,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1440.0,
       "end": 1443.0,
       "text": " altså det er Google Ads' svar på de her ads libraries,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1443.0,
       "end": 1446.0,
       "text": " for at tjekke op på de konkurrenter, du nu har fundet frem til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1446.0,
       "end": 1450.0,
       "text": " hvad er det egentlig for nogle specifikke annoncer, de laver?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1450.0,
       "end": 1453.0,
       "text": " Her bruger vi ofte søgeannonser, altså de her tekstannoncer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1453.0,
       "end": 1457.0,
       "text": " de klassiske søgeannonser, for at se, hvad er det for nogle, de virkelig har kælet om?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1457.0,
       "end": 1460.0,
       "text": " De fleste virksomheder har en DSA-kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1460.0,
       "end": 1464.0,
       "text": " altså den her, der ligger og kører per automatik og trækker trafik ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1464.0,
       "end": 1470.0,
       "text": " hvor man ikke har decideret lavet en annonce til det her keyword,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1470.0,
       "end": 1472.0,
       "text": " men det kan være, at DSA'en udløser den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1472.0,
       "end": 1476.0,
       "text": " Hvorimod, hvis du har en donut-hundeseng, hvis du sælger det i Danmark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1476.0,
       "end": 1480.0,
       "text": " så har du nok også lavet en søgeannonce decideret til den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1480.0,
       "end": 1484.0,
       "text": " og det er noget af det, man vil kunne se inde i Google Ads for Experience Center,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1484.0,
       "end": 1487.0,
       "text": " for ligesom at danse et overblik over, hvad gør konkurrenterne egentlig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1487.0,
       "end": 1489.0,
       "text": " Bare lige en tilføjelse til det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1489.0,
       "end": 1492.0,
       "text": " En ting er, at man kan se, hvad konkurrent laver og hvor meget søgevolumen der er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1492.0,
       "end": 1496.0,
       "text": " Nu har vi konstateret, at der er 1700 søgninger på donut-hundeseng i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1496.0,
       "end": 1498.0,
       "text": " Vi kommer til at bruge det her eksempel hele episoden, sådan er det bare.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1498.0,
       "end": 1502.0,
       "text": " Og så er der 7200 søgninger på orthopædisches hundebæt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1502.0,
       "end": 1505.0,
       "text": " En anden ting, vi lige skal holde øje med, det er jo klikprisen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1505.0,
       "end": 1507.0,
       "text": " fordi noget interessant ved lige præcis det her søgeord,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1507.0,
       "end": 1511.0,
       "text": " det er, at i Danmark, der koster det ifølge Ahrefs deres estimat,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1511.0,
       "end": 1513.0,
       "text": " at det her koster cirka 5 kroner at byde ind på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1513.0,
       "end": 1516.0,
       "text": " Altså, de 1700 søgninger i Danmark koster 5 kroner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1516.0,
       "end": 1519.0,
       "text": " men det koster da 3,5 kroner at byde ind på de 7200 søgninger, der er i Tyskland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1519.0,
       "end": 1521.0,
       "text": " Så ikke det, når der er mere volumen i Tyskland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1521.0,
       "end": 1524.0,
       "text": " Konkurrencen i Google Ads er faktisk også mindre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1524.0,
       "end": 1526.0,
       "text": " Og den her klikpris, det er jo bare auktionsbestemt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1526.0,
       "end": 1528.0,
       "text": " Det er afhængig af, hvor meget de andre er villige til at byde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1528.0,
       "end": 1530.0,
       "text": " Men ikke alene så har du fire gange så høj volumen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1530.0,
       "end": 1536.0,
       "text": " og søgevolumen stiger jo et year-over-year søgeords-volumen-udvikling på Donut hundeseng.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1536.0,
       "end": 1538.0,
       "text": " Den er stærkt faldende med 17 procent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1538.0,
       "end": 1541.0,
       "text": " Så her der kan vi altså se, at det er et produkt, der har sin bedste tid bag sig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1541.0,
       "end": 1544.0,
       "text": " ligesom fidget spinners og waterspeakers og black masks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1544.0,
       "end": 1546.0,
       "text": " Så indtræder Donut hundeseng.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1546.0,
       "end": 1548.0,
       "text": " Heldig Google, det du hiver frem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1548.0,
       "end": 1552.0,
       "text": " I rækken af legendariske produkter, som unge drenge tjener penge på via dropshipping,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1552.0,
       "end": 1554.0,
       "text": " inklusiv dig, Tino, er jeg sikker på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1555.0,
       "end": 1560.0,
       "text": " I Tyskland, der er orthopædisches hundebæt, det er altså stadig på vej opad.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1560.0,
       "end": 1562.0,
       "text": " Det stiger 20 procent year-over-year.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1562.0,
       "end": 1564.0,
       "text": " Så også nogle ting lige at lægge mærke til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1564.0,
       "end": 1568.0,
       "text": " Er man ved at bevæge sig ind på et marked, som for Donut hundeseng i Danmark, der falder som en sten?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1568.0,
       "end": 1572.0,
       "text": " Eller er man på en raket, som det tyske orthopædiske hundeseng her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1572.0,
       "end": 1574.0,
       "text": " Og hvad koster det rent faktisk?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1574.0,
       "end": 1577.0,
       "text": " Det synes jeg også bare er en vigtig ting, fordi søgeords-volumen var altid et statusbillede af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1577.0,
       "end": 1578.0,
       "text": " hvor er vi lige nu?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1578.0,
       "end": 1581.0,
       "text": " Og jeg synes næsten, at trenden er mere interessant.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1581.0,
       "end": 1583.0,
       "text": " Det er rigtig, rigtig, rigtig gode pointe.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1583.0,
       "end": 1586.0,
       "text": " To yderligere ting, man kan gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1586.0,
       "end": 1590.0,
       "text": " Den her, det er en, jeg rigtig godt kan lide, kvag, at jeg startede ud med CO,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1590.0,
       "end": 1592.0,
       "text": " da jeg startede inden for den digitale markedsvægtsverden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1592.0,
       "end": 1595.0,
       "text": " Man lægger kig på de her konkurrenter, man nogle gange har fundet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1595.0,
       "end": 1597.0,
       "text": " Investerer de i CO?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1597.0,
       "end": 1600.0,
       "text": " Og det kan være lidt svært at se udefra, men man kan i hvert fald tage udgangspunkt i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1600.0,
       "end": 1603.0,
       "text": " Et, hvis man kan se, at de bliver ved med at bygge ny links eller købe sig til ny links.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1603.0,
       "end": 1605.0,
       "text": " Og to, de har styr på det grundlæggende på hjemmesiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1605.0,
       "end": 1610.0,
       "text": " Så kan man godt mere eller mindre konkludere, at de investerer CO-mæssigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1611.0,
       "end": 1612.0,
       "text": " Og så den sidste her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1612.0,
       "end": 1618.0,
       "text": " Det er en, jeg kunne forestille mig, at du også har brugt en del tid på at kigge regnskaber igennem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1618.0,
       "end": 1620.0,
       "text": " Altså simpelthen de idéer at kigge regnskaber igennem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1620.0,
       "end": 1626.0,
       "text": " Nogle lande er det nemmere end andre i Sverige og Norge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1626.0,
       "end": 1628.0,
       "text": " Der er det relativt nemt at slå de her regnskaber op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1628.0,
       "end": 1631.0,
       "text": " hvor de andre lande, England for eksempel, godt kan være lidt svært.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1631.0,
       "end": 1633.0,
       "text": " Og Tyskland er umuligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1633.0,
       "end": 1636.0,
       "text": " Altså Tyskland har jo ikke noget central regnskabsregister, som vi har i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1636.0,
       "end": 1641.0,
       "text": " Da vi begyndte at crawle det tyske marked igennem, fordi vi rigtig godt kunne tænke os at komme ind i landet i Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1641.0,
       "end": 1644.0,
       "text": " og vi ville ikke starte forfra selv, fordi der synes vi ikke, vi har tid til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1644.0,
       "end": 1646.0,
       "text": " så vi ville rigtig gerne købe en base og arbejde videre på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1646.0,
       "end": 1651.0,
       "text": " Så det første, jeg gjorde, det var jo, hvad hedder proff på tysk, når den eksisterer ikke?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1651.0,
       "end": 1654.0,
       "text": " Altså der er ikke nogen offentlig regnskabspligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1654.0,
       "end": 1659.0,
       "text": " Så det var sådan en lidt opkort situation at skrive til tyske brugere og sige sådan,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1659.0,
       "end": 1661.0,
       "text": " hej, må vi se jeres regnskab?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1661.0,
       "end": 1662.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1664.0,
       "end": 1667.0,
       "text": " Der følte jeg, jeg gik til sådan en second base på første date, ikke?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1667.0,
       "end": 1671.0,
       "text": " Fordi vi skulle lige se, er det relevant for os at have en diskussion?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1671.0,
       "end": 1674.0,
       "text": " Jeg kan ikke se det ude fra nogen ræffelige tal, så jeg er nødt til at spørge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1674.0,
       "end": 1677.0,
       "text": " Sorry, men må jeg se jeres regnskab?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1677.0,
       "end": 1681.0,
       "text": " Det kan gøre det en lille smule svært, hvor du har ret i Danmark, er det meget, meget offentligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1681.0,
       "end": 1683.0,
       "text": " Sverige og Norge tilsvarende, det gør det nemmere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1683.0,
       "end": 1686.0,
       "text": " Man skal også være opmærksom på, regnskaber kan afleveres på mange måder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1686.0,
       "end": 1691.0,
       "text": " Hvad ligger over og under brutto og overskud i et selskab?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1691.0,
       "end": 1697.0,
       "text": " Og ebitda, som et selskab typisk vil blive handlet på, er to nogen gange meget, meget forskellige tal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1697.0,
       "end": 1702.0,
       "text": " Så man kan ikke blot nøjes med at se, hvad står der inde på proff for at se den fulde historie om et givet selskab.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1702.0,
       "end": 1705.0,
       "text": " Men ikke desto mindre, så giver det en indikation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1705.0,
       "end": 1710.0,
       "text": " Og jeg synes virksomheder, der tjener mange penge, så hvis der er en masse briefsjobs inde for et marked,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1710.0,
       "end": 1715.0,
       "text": " som har en god forretning, er jo fantastisk at se, fordi det betyder, at der er en mulighed for at gå ind på markedet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1715.0,
       "end": 1719.0,
       "text": " hvor hvis du ser et andet marked, hvor der er 5 spillere, og de alle sammen taber penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1719.0,
       "end": 1722.0,
       "text": " så er det jo et forfærdeligt tidspunkt at gå ind på det pågældende marked på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1722.0,
       "end": 1726.0,
       "text": " Det minder mig om en af de fantastiske citater, som Jeff Bezos har kommet med gennem tiden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1726.0,
       "end": 1729.0,
       "text": " hvor han siger, og det er sådan en borgerlig citat, jeg tror, jeg skal have det op på væggen herinde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1729.0,
       "end": 1732.0,
       "text": " Your margin is my opportunity.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1732.0,
       "end": 1735.0,
       "text": " Hvor fedt er det lige?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1735.0,
       "end": 1741.0,
       "text": " Apropos det, nu sidder jeg lige og køber en donut-hundesting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1742.0,
       "end": 1746.0,
       "text": " Jeg har simpelthen to derhjemme.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1746.0,
       "end": 1748.0,
       "text": " Har du ikke kun én hund?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1748.0,
       "end": 1751.0,
       "text": " Jo jo, men så er jeg en i stuen og en...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1751.0,
       "end": 1754.0,
       "text": " Nej, det bliver pinligt det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1754.0,
       "end": 1757.0,
       "text": " Jeg kan simpelthen ikke huske, om det var i Sverige eller Norge, det kan også være de begge steder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1757.0,
       "end": 1761.0,
       "text": " Nu er det lige på den svenske profi herinde at se, hvor man rent faktisk kan se omsætning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1761.0,
       "end": 1764.0,
       "text": " Jeg tror, at der er noget regnskabsmæssigt oppe i Sverige med, at de skal alle opgive omsætning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1764.0,
       "end": 1767.0,
       "text": " og det er også med til at give en ret god indikation omkring en given forretning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1767.0,
       "end": 1772.0,
       "text": " for du har fuldstændig ret, hvordan man arbejder sig fra omsætningen og ned til en bundlinje.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1772.0,
       "end": 1775.0,
       "text": " Det kan være meget forskelligt, men omsætningen er omsætningen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1775.0,
       "end": 1780.0,
       "text": " og derfor synes jeg, at det er ret fedt at kunne sidde og se det, i hvert fald i Sverige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1780.0,
       "end": 1784.0,
       "text": " Lad os gå videre til den næste tip, som handler om, hvordan du finder frem til de bedst solgte varer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1784.0,
       "end": 1786.0,
       "text": " fordi det er jo så en anden ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1786.0,
       "end": 1789.0,
       "text": " Det er jo ikke nødvendigvis det fuldstændig samme varekasselo, du skal have, når du arbejder i forskellige lande.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1789.0,
       "end": 1792.0,
       "text": " Der kan både være produkter, som er mere eller mindre relevante på grund af mod,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1792.0,
       "end": 1796.0,
       "text": " men det er jo simpelthen også bare, at tyskerne er jo 20 gange så mange, som vi er i Danmark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1796.0,
       "end": 1800.0,
       "text": " men vi har lige konstateret, at der er kun 4 gange så mange, som køber donuthundesænge i Tyskland.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1800.0,
       "end": 1803.0,
       "text": " Så der kan også bare være forskellige modenhedsgrader på ens niveau.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1803.0,
       "end": 1807.0,
       "text": " Og du har et ret fedt tip her med en af de mest undervurderede platforme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1807.0,
       "end": 1810.0,
       "text": " som folk bruger alt for lidt i min optik, nemlig Google Merchant Center.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1810.0,
       "end": 1814.0,
       "text": " Ja, det er så vildt, og det er stadigvæk noget, der bliver talt alt for lidt om nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1814.0,
       "end": 1817.0,
       "text": " Hvis man har lyttet med til alle episoder af MarketingPod, så beklager jeg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1817.0,
       "end": 1819.0,
       "text": " fordi jeg tror, jeg har snakket om det her 4-5 gange.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1819.0,
       "end": 1821.0,
       "text": " Det kan man forhåbe sig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1821.0,
       "end": 1825.0,
       "text": " Det er derfor klart, hvorfor der er mellem 0 og 10 om måneden, der er jo et Googler efter MarketingPod.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1828.0,
       "end": 1831.0,
       "text": " Det er i hvert fald noget, jeg har snakket om før, men jeg bliver nødt til at nævne igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1831.0,
       "end": 1837.0,
       "text": " Inde i Google Merchant Center, der kan du ud til venstre, gå ind under det her menupunkt, der hedder Growth,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1837.0,
       "end": 1838.0,
       "text": " og så Bestsellers.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1838.0,
       "end": 1843.0,
       "text": " Under Bestsellers, der har du mulighed for at se på landeniveau og på kategoriniveau,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1843.0,
       "end": 1846.0,
       "text": " hvad det er for nogle varer, der sælger allerbedst i en given måned.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1846.0,
       "end": 1849.0,
       "text": " Og det er ud fra et estimat, siger Google officielt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1849.0,
       "end": 1851.0,
       "text": " Det er ud fra estimater fra Google Shopping.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1851.0,
       "end": 1855.0,
       "text": " Det vil sige, de har jo den data, når du klikker på Google Shopping,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1855.0,
       "end": 1859.0,
       "text": " så hvis du så konverterer efterfølgende, den data har de nogenlunde godt styr på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1859.0,
       "end": 1862.0,
       "text": " Og det er så den, de bruger til i gåsøjnen at estimere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1862.0,
       "end": 1866.0,
       "text": " Det er rimelig retvisende ud fra, hvad vi har siddet med på den anden side,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1866.0,
       "end": 1869.0,
       "text": " hvor vi sidder og holder det op mod, hvad kunderne rent faktisk sælger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1869.0,
       "end": 1874.0,
       "text": " Og det er bare en fantastisk måde at finde ud af, hvordan et marked i udlandet fungerer på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1874.0,
       "end": 1876.0,
       "text": " Og jeg har taget et enkelt eksempel med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1876.0,
       "end": 1878.0,
       "text": " Det var det første og det bedste, det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1878.0,
       "end": 1883.0,
       "text": " Så jeg gik ind under Merchantscenter og Bestsellers, og så prøvede jeg at tage udgangspunkt i Danmark",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1883.0,
       "end": 1886.0,
       "text": " og den overkategori, der hedder kamera og optik.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1886.0,
       "end": 1889.0,
       "text": " Og der har jeg så taget udgangspunkt i juli 2024.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1889.0,
       "end": 1891.0,
       "text": " Danmark bliver der i top 10.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1891.0,
       "end": 1894.0,
       "text": " Der er nærmest kun overvågningskamera og polaridkamera,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1894.0,
       "end": 1897.0,
       "text": " altså de her gammeldags, eller gammeldags kameraer, det er de jo så ikke mere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1897.0,
       "end": 1898.0,
       "text": " men tanken om, at du tager...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1898.0,
       "end": 1900.0,
       "text": " Det er dem, der så printer et lille billede med det samme, ikke?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1900.0,
       "end": 1902.0,
       "text": " Lige præcis, lige præcis.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1902.0,
       "end": 1903.0,
       "text": " Super fede.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1903.0,
       "end": 1906.0,
       "text": " Og de kommer så i forskellige former og forskellige brands osv.,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1906.0,
       "end": 1908.0,
       "text": " men det er nærmest top 10 er plastret til med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1908.0,
       "end": 1910.0,
       "text": " Så tog jeg så Frankrig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1910.0,
       "end": 1913.0,
       "text": " Og samme indstilling af kamera og optik, juli 2024,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1913.0,
       "end": 1916.0,
       "text": " der er det GoPro, der virkelig hitter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1916.0,
       "end": 1919.0,
       "text": " En lille bitte smule overvågning, og så rigtig mange indgangskameraer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1919.0,
       "end": 1923.0,
       "text": " altså de helt, helt gamle indgangskameraer og små digitale kameraer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1923.0,
       "end": 1924.0,
       "text": " men de her indgangskameraer, jeg må simpelthen sige...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1924.0,
       "end": 1926.0,
       "text": " Dem der, hvor du simpelthen ruller og har 25 billeder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1926.0,
       "end": 1929.0,
       "text": " Ja, ja, det kan godt lyde sådan lidt, havde jeg i folkeskolen for sådan,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1929.0,
       "end": 1931.0,
       "text": " det ved jeg ikke, 20 år siden eller sådan noget, 25 år siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1931.0,
       "end": 1933.0,
       "text": " Lige præcis. Lige præcis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1933.0,
       "end": 1935.0,
       "text": " Og jeg sagde, altså...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1935.0,
       "end": 1936.0,
       "text": " Indgangskameraer?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1936.0,
       "end": 1939.0,
       "text": " Køber franskmændene indgangskameraer online?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1939.0,
       "end": 1941.0,
       "text": " Altså det forstår jeg simpelthen ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1941.0,
       "end": 1942.0,
       "text": " Altså GoPro, det forstår jeg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1942.0,
       "end": 1944.0,
       "text": " Der er masser af sportsaktiviteter om sommeren,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1944.0,
       "end": 1945.0,
       "text": " og der er nok mange, der holder...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1945.0,
       "end": 1946.0,
       "text": " Ja, der er OL lige nu osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1946.0,
       "end": 1947.0,
       "text": " Ja, ja, ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1947.0,
       "end": 1948.0,
       "text": " Fair nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1948.0,
       "end": 1950.0,
       "text": " Men indgangskameraer...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1950.0,
       "end": 1951.0,
       "text": " Jeg gad vide, om det var forbindeligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1951.0,
       "end": 1952.0,
       "text": " Det lyder så ondt lidt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1952.0,
       "end": 1954.0,
       "text": " Hvem køber så små digitalkameraer?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1954.0,
       "end": 1956.0,
       "text": " Jeg var også overrasket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1956.0,
       "end": 1958.0,
       "text": " De her helt små...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1958.0,
       "end": 1960.0,
       "text": " Din mobiltelefon er pænt god.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1960.0,
       "end": 1961.0,
       "text": " Jeg forstod det ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1961.0,
       "end": 1963.0,
       "text": " Men jeg synes bare, det er et så godt eksempel på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1963.0,
       "end": 1965.0,
       "text": " hvor forskellige markederne faktisk kan være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1965.0,
       "end": 1966.0,
       "text": " Jo, men det er et fantastisk eksempel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1966.0,
       "end": 1968.0,
       "text": " fordi du kan jo have Polaroid-shoppen.dk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1968.0,
       "end": 1970.0,
       "text": " Ej, nu er jeg også nødt til at gå ind og kigge på den her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1970.0,
       "end": 1972.0,
       "text": " men du kan have Polaroid-shoppen.dk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1972.0,
       "end": 1974.0,
       "text": " og faktisk have en veldig fin succes i Danmark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1974.0,
       "end": 1976.0,
       "text": " fordi det er tydeligvis et efterspurgt produkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1976.0,
       "end": 1977.0,
       "text": " Og så kan du åbne din shop i Frankrig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1977.0,
       "end": 1979.0,
       "text": " og bare konstatere, at de vil have indgangskameraer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1979.0,
       "end": 1980.0,
       "text": " og små digitalkameraer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1980.0,
       "end": 1982.0,
       "text": " og du kommer til at sælge ingenting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1982.0,
       "end": 1984.0,
       "text": " Jeg synes, det er et fantastisk godt eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1984.0,
       "end": 1986.0,
       "text": " Jeg tror, at folk undervurderer lidt nogle gange,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1986.0,
       "end": 1987.0,
       "text": " hvor meget data, der ligger inde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1987.0,
       "end": 1989.0,
       "text": " Jeg tror, at folk tror, at det, der ligger i Merchants Center,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1989.0,
       "end": 1990.0,
       "text": " det er deres egen data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1990.0,
       "end": 1992.0,
       "text": " Og ja, dine egen data ligger der også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1992.0,
       "end": 1994.0,
       "text": " Men der ligger også data fra samtlige andre shops på Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1994.0,
       "end": 1996.0,
       "text": " Ikke, at du kan dykke ned i den enkle shop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1996.0,
       "end": 1997.0,
       "text": " men du kan få en aggregate,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1997.0,
       "end": 1999.0,
       "text": " hvad det er, andre shops sælger mest af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1999.0,
       "end": 2001.0,
       "text": " ved at gå ind under Growth og Bestsellers",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2001.0,
       "end": 2002.0,
       "text": " på Google Merchants Center.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2002.0,
       "end": 2003.0,
       "text": " Er du klar over det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2003.0,
       "end": 2005.0,
       "text": " Altså, der ligger så meget data derinde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2005.0,
       "end": 2006.0,
       "text": " Så vildt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2006.0,
       "end": 2008.0,
       "text": " Ja, og der er ingen, der bruger det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2008.0,
       "end": 2011.0,
       "text": " Så et kæmpe godt tip til at finde ud af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2011.0,
       "end": 2013.0,
       "text": " hvad man rent faktisk skal sætte ind med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2013.0,
       "end": 2015.0,
       "text": " Lad os tage nr. 4.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2015.0,
       "end": 2017.0,
       "text": " Hvor mange ressourcer, man skal bruge på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2017.0,
       "end": 2018.0,
       "text": " at entrere i markedet?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2018.0,
       "end": 2020.0,
       "text": " Og det har været et af de spørgsmål,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2020.0,
       "end": 2022.0,
       "text": " som er ufattelig svært at svare på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2022.0,
       "end": 2024.0,
       "text": " for det bliver også hurtigt et strategisk spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2024.0,
       "end": 2026.0,
       "text": " Men der er nogle gode overvejelser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2026.0,
       "end": 2028.0,
       "text": " man kan gøre sig i den forbindelse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2028.0,
       "end": 2030.0,
       "text": " Hvad vil være nogle af de ting, du vil kigge på her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2030.0,
       "end": 2032.0,
       "text": " Først og fremmest handler det om de leveringsmetoder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2032.0,
       "end": 2034.0,
       "text": " man skal ud og forhandle på plads for",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2034.0,
       "end": 2036.0,
       "text": " at kunne levere i det givende land.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2036.0,
       "end": 2039.0,
       "text": " Ønsker man at åbne i Sverige fx,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2039.0,
       "end": 2041.0,
       "text": " så er udfordringen ikke lige så stor,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2041.0,
       "end": 2043.0,
       "text": " som hvis man skulle åbne i Spanien.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2043.0,
       "end": 2046.0,
       "text": " Men det her med at have styr på leveringsmetoderne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2046.0,
       "end": 2048.0,
       "text": " ud og forhandle nye aftaler hjem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2048.0,
       "end": 2050.0,
       "text": " det kan faktisk godt være både tidskrævende,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2050.0,
       "end": 2052.0,
       "text": " og det kan også koste nogle penge at undersøge det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2052.0,
       "end": 2054.0,
       "text": " Det bedste tip, jeg har i den forbindelse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2054.0,
       "end": 2056.0,
       "text": " det er simpelthen at gå ind på dine konkurrenter",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2056.0,
       "end": 2058.0,
       "text": " i de her pågældende markeder",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2058.0,
       "end": 2059.0,
       "text": " og se, hvad er det for nogle leveringsmetoder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2059.0,
       "end": 2060.0,
       "text": " der har gået igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2060.0,
       "end": 2062.0,
       "text": " Fordi hvis du kan starte med den leveringsmetode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2062.0,
       "end": 2064.0,
       "text": " der har gået igen flest gange,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2064.0,
       "end": 2067.0,
       "text": " så burde du være home safe i hvert fald til en start.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2067.0,
       "end": 2069.0,
       "text": " Derudover, og lidt i samme kategori,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2069.0,
       "end": 2071.0,
       "text": " der har vi betalingsløsninger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2071.0,
       "end": 2073.0,
       "text": " I Sverige fx, der får du nok aldrig succes,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2073.0,
       "end": 2076.0,
       "text": " hvis ikke du både har Klarna og Swish.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2076.0,
       "end": 2078.0,
       "text": " Og i Norge er det vigtigt, at man lige husker VIPS,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2078.0,
       "end": 2080.0,
       "text": " ligesom det er i Danmark vigtigt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2080.0,
       "end": 2082.0,
       "text": " at man husker MobilePay.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2082.0,
       "end": 2084.0,
       "text": " Og det bedste tip, jeg har hertil,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2084.0,
       "end": 2086.0,
       "text": " det er at der findes masser af rapporter derude,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2086.0,
       "end": 2087.0,
       "text": " hvor du kan læse dig til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2087.0,
       "end": 2089.0,
       "text": " hvad det er for nogle betalingsløsninger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2089.0,
       "end": 2090.0,
       "text": " der typisk bliver brugt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2090.0,
       "end": 2092.0,
       "text": " Men prøv at gå igennem check-out flowet",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2092.0,
       "end": 2093.0,
       "text": " på dine konkurrenter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2093.0,
       "end": 2094.0,
       "text": " Du behøver ikke lægge ordrene,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2094.0,
       "end": 2095.0,
       "text": " men kom frem til der,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2095.0,
       "end": 2096.0,
       "text": " hvor du rent faktisk skal indtaste",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2096.0,
       "end": 2097.0,
       "text": " dine kortoplysninger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2097.0,
       "end": 2098.0,
       "text": " Fordi der kan du så se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2098.0,
       "end": 2100.0,
       "text": " hvad det er for nogle løsninger, der går igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2100.0,
       "end": 2102.0,
       "text": " Og hvilke, der giver mening,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2102.0,
       "end": 2105.0,
       "text": " at du simpelthen tager fat på allerførst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2105.0,
       "end": 2108.0,
       "text": " Så har vi nogle regulatoriske udfordringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2108.0,
       "end": 2109.0,
       "text": " Og det bedste eksempel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2109.0,
       "end": 2111.0,
       "text": " som vi nok oplever oftest,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2111.0,
       "end": 2113.0,
       "text": " det er det her med at skulle sælge i Norge,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2113.0,
       "end": 2115.0,
       "text": " eller i England efter Brexit.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2115.0,
       "end": 2117.0,
       "text": " Det kræver altså, at du har styr på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2117.0,
       "end": 2120.0,
       "text": " nogle norske tol og momsnummer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2120.0,
       "end": 2122.0,
       "text": " Eller et, tol og momsnummer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2122.0,
       "end": 2124.0,
       "text": " Og det gælder faktisk også for England.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2124.0,
       "end": 2125.0,
       "text": " Og det kan altså koste dyrt ikke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2125.0,
       "end": 2126.0,
       "text": " at have styr på det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2126.0,
       "end": 2128.0,
       "text": " Jeg kan huske, da jeg for syv-ot år siden",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2128.0,
       "end": 2131.0,
       "text": " havde en webshop, hvor vi skulle lige prøve...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2131.0,
       "end": 2132.0,
       "text": " Med Donut 100?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2132.0,
       "end": 2134.0,
       "text": " Nej, det var vi ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2134.0,
       "end": 2136.0,
       "text": " Der var nemlig kun 50 søgninger om måneden der på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2136.0,
       "end": 2137.0,
       "text": " så det gik vi udenom.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2137.0,
       "end": 2138.0,
       "text": " Ah, okay.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2138.0,
       "end": 2140.0,
       "text": " Hvad solgte du dengang?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2140.0,
       "end": 2141.0,
       "text": " Det var noget accessories.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2141.0,
       "end": 2144.0,
       "text": " Accessories, punge og sådan noget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2144.0,
       "end": 2148.0,
       "text": " Hvor vi ville forsøge at åbne op i Norge, for sjovt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2148.0,
       "end": 2149.0,
       "text": " Og vi havde hørt, at i Norge,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2149.0,
       "end": 2151.0,
       "text": " der er man ret vant til at handle",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2152.0,
       "end": 2156.0,
       "text": " fra danske og svenske webshops.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2156.0,
       "end": 2158.0,
       "text": " Så det vi faktisk gjorde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2158.0,
       "end": 2160.0,
       "text": " det var, at vi lavede nogle norske annoncer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2160.0,
       "end": 2162.0,
       "text": " men sendte dem ind på den danske hjemmeside.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2162.0,
       "end": 2164.0,
       "text": " Og vi havde egentlig bare åbnet op for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2164.0,
       "end": 2167.0,
       "text": " at man kunne vælge Norge som leveringsland.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2167.0,
       "end": 2169.0,
       "text": " Og i den weekend, kan jeg huske,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2169.0,
       "end": 2171.0,
       "text": " der kom 40% af vores omsætning fra Norge.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2171.0,
       "end": 2172.0,
       "text": " Selvom vi ikke havde oversat.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2172.0,
       "end": 2173.0,
       "text": " Men 40%...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2173.0,
       "end": 2175.0,
       "text": " Det var ikke en vanvittig høj omsætning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2175.0,
       "end": 2178.0,
       "text": " jeg tror vi omsatte måske 30-40.000 om dagen dengang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2178.0,
       "end": 2181.0,
       "text": " Men det var ret vildt at kunne lægge det ovenpå.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2181.0,
       "end": 2185.0,
       "text": " Problemet var bare, at jeg var ung og dum dengang,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2185.0,
       "end": 2188.0,
       "text": " og havde ikke lige helt sat mig ind i de her norske tolv momsnumre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2188.0,
       "end": 2191.0,
       "text": " Så når kunderne så skulle til at modtage de her varer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2191.0,
       "end": 2192.0,
       "text": " så bliver der lagt moms ovenpå,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2192.0,
       "end": 2193.0,
       "text": " og det skulle kunderne jo så betale,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2193.0,
       "end": 2195.0,
       "text": " så de var jo rarsne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2195.0,
       "end": 2196.0,
       "text": " Og den måtte vi jo så æde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2196.0,
       "end": 2197.0,
       "text": " og slukke annonceringen igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2197.0,
       "end": 2198.0,
       "text": " og så finde ud af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2198.0,
       "end": 2201.0,
       "text": " hvordan vi får fat i de her moms- og tolvnumre derop til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2201.0,
       "end": 2202.0,
       "text": " Så det endte med at være ret dyrt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2202.0,
       "end": 2204.0,
       "text": " men vi fik da testet markedet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2204.0,
       "end": 2206.0,
       "text": " så det var altid noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2207.0,
       "end": 2208.0,
       "text": " Og så vil jeg tilføje en til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2208.0,
       "end": 2209.0,
       "text": " altså når man har leveringsmetoder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2209.0,
       "end": 2210.0,
       "text": " man har betalingsløsninger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2210.0,
       "end": 2213.0,
       "text": " man er overkommet de regulatoriske udfordringer der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2213.0,
       "end": 2214.0,
       "text": " eller har sprunget den over,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2214.0,
       "end": 2215.0,
       "text": " og storbetalningen er over,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2215.0,
       "end": 2217.0,
       "text": " jamen så ligger der adspent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2217.0,
       "end": 2219.0,
       "text": " som jo er den potentielt største omkostning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2219.0,
       "end": 2220.0,
       "text": " ved at starte op i et nyt marked.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2220.0,
       "end": 2221.0,
       "text": " Og hvordan man skal gribe det andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2221.0,
       "end": 2222.0,
       "text": " synes jeg afhænger af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2222.0,
       "end": 2223.0,
       "text": " hvilken produkttype det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2223.0,
       "end": 2224.0,
       "text": " Fordi hvis man har et funktionelt produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2224.0,
       "end": 2225.0,
       "text": " og der vil jeg for eksempel sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2225.0,
       "end": 2227.0,
       "text": " Polaroid kamera, Donut hundesænge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2227.0,
       "end": 2228.0,
       "text": " og andre ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2228.0,
       "end": 2230.0,
       "text": " hvor man sådan skaber behovet og er iblikkelige",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2231.0,
       "end": 2232.0,
       "text": " og så sælger jeg det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2232.0,
       "end": 2233.0,
       "text": " så vil jeg jo sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2233.0,
       "end": 2234.0,
       "text": " at du skal være profitabel fra starten af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2234.0,
       "end": 2235.0,
       "text": " Fordi det er typisk produkter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2235.0,
       "end": 2236.0,
       "text": " man sælger en gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2236.0,
       "end": 2237.0,
       "text": " Du har ikke behov for at etablere et brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2237.0,
       "end": 2239.0,
       "text": " du har behov for at etablere et øjeblikkeligt produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2239.0,
       "end": 2240.0,
       "text": " men der hedder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2242.0,
       "end": 2243.0,
       "text": " Og så skal det bare virke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2243.0,
       "end": 2244.0,
       "text": " det skal ikke nødvendigvis virke fra starten af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2244.0,
       "end": 2246.0,
       "text": " men du må i hvert fald ikke bilde dig selv ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2246.0,
       "end": 2248.0,
       "text": " at vi investerer ned i markedet lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2248.0,
       "end": 2249.0,
       "text": " Det er bare en dårlig undskyldning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2249.0,
       "end": 2250.0,
       "text": " for at du laver dårlige annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2250.0,
       "end": 2251.0,
       "text": " Og så må man lave bedre annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2251.0,
       "end": 2254.0,
       "text": " Men hvis man nu sidder og opbygger et brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2254.0,
       "end": 2256.0,
       "text": " og det vil jo ofte være noget fashion-relateret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2256.0,
       "end": 2257.0,
       "text": " vi er ude i her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2257.0,
       "end": 2258.0,
       "text": " så er det min oplevelse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2258.0,
       "end": 2260.0,
       "text": " at det er bare mega dyrt at starte op i et marked.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2260.0,
       "end": 2262.0,
       "text": " Altså jeg ser ret få brands,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2262.0,
       "end": 2263.0,
       "text": " der lykkes med den der øjeblikkelige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2263.0,
       "end": 2265.0,
       "text": " profitabele skalering i et andet marked.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2265.0,
       "end": 2266.0,
       "text": " Og jeg synes faktisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2266.0,
       "end": 2268.0,
       "text": " det oplevede man mere for nogle år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2268.0,
       "end": 2269.0,
       "text": " men jeg tror også, det har noget at gøre med",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2269.0,
       "end": 2271.0,
       "text": " iOS 14 eller App Tracking Transparency,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2271.0,
       "end": 2273.0,
       "text": " som klippede noget data ud af Facebook",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2273.0,
       "end": 2274.0,
       "text": " og gjorde det en lille smule sværere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2274.0,
       "end": 2275.0,
       "text": " Måske er konkurrencesituationen anderledes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2275.0,
       "end": 2276.0,
       "text": " det ved jeg ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2276.0,
       "end": 2278.0,
       "text": " men jeg oplever i hvert fald mange af de virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2278.0,
       "end": 2279.0,
       "text": " jeg arbejder med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2279.0,
       "end": 2280.0,
       "text": " at det der med at starte et nyt marked op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2280.0,
       "end": 2282.0,
       "text": " at der er kommet sådan lidt større respekt om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2282.0,
       "end": 2283.0,
       "text": " end der var for, lad os sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2283.0,
       "end": 2284.0,
       "text": " 8 eller 10 år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2284.0,
       "end": 2285.0,
       "text": " og en vis forståelse for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2285.0,
       "end": 2287.0,
       "text": " at det er noget, man reelt skal investere ned i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2287.0,
       "end": 2289.0,
       "text": " Og investere ned i,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2289.0,
       "end": 2290.0,
       "text": " det kan også,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2290.0,
       "end": 2292.0,
       "text": " det er altså mega svært at dæmme det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2292.0,
       "end": 2294.0,
       "text": " fordi det kan hurtigt blive en undskyldning for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2294.0,
       "end": 2295.0,
       "text": " at man bare sidder og kører uprofitabele kampagner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2295.0,
       "end": 2296.0,
       "text": " og så tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2296.0,
       "end": 2298.0,
       "text": " at det bliver bedre af sig selv med tiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2298.0,
       "end": 2299.0,
       "text": " Og ja, det gør det måske også,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2299.0,
       "end": 2300.0,
       "text": " men det kan bare nå at blive rigtig dyrt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2300.0,
       "end": 2301.0,
       "text": " inden det bliver bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2302.0,
       "end": 2303.0,
       "text": " Så her kan man,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2303.0,
       "end": 2304.0,
       "text": " og det kan vi lave en hel episode om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2304.0,
       "end": 2305.0,
       "text": " men der kan man virkelig gøre nogle ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2305.0,
       "end": 2306.0,
       "text": " for at hjælpe sig selv på vej,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2306.0,
       "end": 2308.0,
       "text": " til at få en hurtigere og bedre lansering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2308.0,
       "end": 2309.0,
       "text": " Jeg synes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2309.0,
       "end": 2310.0,
       "text": " nogle af de virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2310.0,
       "end": 2311.0,
       "text": " man kan kigge på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2311.0,
       "end": 2312.0,
       "text": " som har gjort det her rigtig, rigtig godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2312.0,
       "end": 2313.0,
       "text": " det findes der enormt mange,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2313.0,
       "end": 2316.0,
       "text": " virkelig gode eksempler på i Danmark også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2316.0,
       "end": 2317.0,
       "text": " En, man kunne tage og kigge på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2317.0,
       "end": 2319.0,
       "text": " hvis man vil ind og kigge på noget Facebook,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2319.0,
       "end": 2320.0,
       "text": " Ask Library,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2320.0,
       "end": 2321.0,
       "text": " vil være Aida,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2321.0,
       "end": 2322.0,
       "text": " som laver sportstøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2322.0,
       "end": 2323.0,
       "text": " har været med i løvens hule tidligere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2323.0,
       "end": 2324.0,
       "text": " startede i Norge og Holland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2324.0,
       "end": 2325.0,
       "text": " Noget af det, de gør godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2325.0,
       "end": 2326.0,
       "text": " som jeg synes, man skal fremhæve her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2326.0,
       "end": 2327.0,
       "text": " det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2327.0,
       "end": 2328.0,
       "text": " at de er fysisk til stede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2328.0,
       "end": 2329.0,
       "text": " i deres nye markeder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2329.0,
       "end": 2330.0,
       "text": " De tager simpelthen op i Oslo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2330.0,
       "end": 2331.0,
       "text": " ned til Amsterdam,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2331.0,
       "end": 2333.0,
       "text": " og afholder løbeevents,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2333.0,
       "end": 2335.0,
       "text": " og får de der personlige forhold til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2335.0,
       "end": 2337.0,
       "text": " både influencers og taler med deres kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2337.0,
       "end": 2339.0,
       "text": " rent faktisk er fysisk til stede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2339.0,
       "end": 2340.0,
       "text": " De kan lave en annonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2340.0,
       "end": 2341.0,
       "text": " til det hollandske marked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2341.0,
       "end": 2343.0,
       "text": " hvor de viser folk i Amsterdam,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2343.0,
       "end": 2344.0,
       "text": " der løber rundt i Aida-tøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2344.0,
       "end": 2345.0,
       "text": " fordi de har været dernede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2345.0,
       "end": 2347.0,
       "text": " og rent faktisk lave det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2347.0,
       "end": 2349.0,
       "text": " Det er bare så enormt meget mere troværdigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2349.0,
       "end": 2350.0,
       "text": " end hvilken som helst annonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2350.0,
       "end": 2352.0,
       "text": " du har af i oversat til hollandsk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2352.0,
       "end": 2353.0,
       "text": " Der er sådan nogle ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2353.0,
       "end": 2354.0,
       "text": " som collab-ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2354.0,
       "end": 2356.0,
       "text": " hvor man slår sig sammen med lokale influencers,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2356.0,
       "end": 2357.0,
       "text": " så der står side ved annoncerne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2357.0,
       "end": 2358.0,
       "text": " i samarbejde med dem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2358.0,
       "end": 2359.0,
       "text": " og man kan simpelthen bruge",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2359.0,
       "end": 2360.0,
       "text": " deciderede lokale influencers.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2360.0,
       "end": 2361.0,
       "text": " Der er mange måder at gøre det her på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2361.0,
       "end": 2363.0,
       "text": " Det skal vi nok tage i en anden episode.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2363.0,
       "end": 2366.0,
       "text": " Men man skal have respekt for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2366.0,
       "end": 2367.0,
       "text": " at hvis det er et brand,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2367.0,
       "end": 2368.0,
       "text": " så skal det etableres,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2368.0,
       "end": 2370.0,
       "text": " og det bliver dyrt, før det bliver godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2370.0,
       "end": 2371.0,
       "text": " Så hvor for 5-6 år siden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2371.0,
       "end": 2373.0,
       "text": " så kunne man godt have startet 10 markeder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2373.0,
       "end": 2374.0,
       "text": " på en gang,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2374.0,
       "end": 2375.0,
       "text": " og så bare have holdt det af sted.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2375.0,
       "end": 2377.0,
       "text": " Og det virkede faktisk i nogle tilfælde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2377.0,
       "end": 2378.0,
       "text": " så oplever jeg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2378.0,
       "end": 2379.0,
       "text": " at man i meget højere grad,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2379.0,
       "end": 2380.0,
       "text": " skal vælge et,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2380.0,
       "end": 2382.0,
       "text": " og gøre det rigtig, rigtig godt i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2384.0,
       "end": 2385.0,
       "text": " Næste tip handler om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2385.0,
       "end": 2386.0,
       "text": " at teste markederne af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2386.0,
       "end": 2389.0,
       "text": " før man investerer 100% i at åbne op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2389.0,
       "end": 2391.0,
       "text": " Og jeg skal lige skønne mig at sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2391.0,
       "end": 2394.0,
       "text": " at selve metoden her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2394.0,
       "end": 2397.0,
       "text": " har vi været med til at udføre en del gange,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2397.0,
       "end": 2399.0,
       "text": " og det kan egentlig fungere rigtig godt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2399.0,
       "end": 2401.0,
       "text": " men det kan også hurtigt blive dyrt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2401.0,
       "end": 2402.0,
       "text": " Tanken er helt konkret,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2402.0,
       "end": 2403.0,
       "text": " at man åbner en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2403.0,
       "end": 2404.0,
       "text": " lad os sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2404.0,
       "end": 2405.0,
       "text": " du har en domæne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2405.0,
       "end": 2406.0,
       "text": " donutseng.dk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2406.0,
       "end": 2407.0,
       "text": " ja, det har man så ikke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2407.0,
       "end": 2408.0,
       "text": " fordi den er jo optaget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2408.0,
       "end": 2410.0,
       "text": " men donutseng.dk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2410.0,
       "end": 2411.0,
       "text": " Den har Allen fra Borgs taget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2411.0,
       "end": 2412.0,
       "text": " men det kan være,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2412.0,
       "end": 2413.0,
       "text": " at du kan købe den af ham.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2413.0,
       "end": 2414.0,
       "text": " Men det kan så være,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2414.0,
       "end": 2415.0,
       "text": " at vi kan få fat på .com-shoppen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2415.0,
       "end": 2416.0,
       "text": " eller .eu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2416.0,
       "end": 2418.0,
       "text": " Og det der så er tanken,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2418.0,
       "end": 2420.0,
       "text": " det er, at man ligesom åbner op for sluserne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2420.0,
       "end": 2421.0,
       "text": " og forsøger at køre annoncering ud,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2421.0,
       "end": 2422.0,
       "text": " til de 3, 4, 5, 6 markeder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2422.0,
       "end": 2424.0,
       "text": " man nu engang sidder og overvejer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2424.0,
       "end": 2425.0,
       "text": " at åbne op i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2425.0,
       "end": 2427.0,
       "text": " Men, man gør det ikke 100% til perfektion,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2427.0,
       "end": 2428.0,
       "text": " så det vil sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2428.0,
       "end": 2430.0,
       "text": " at man kører måske med engelske tekster,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2430.0,
       "end": 2432.0,
       "text": " så de fleste forbrugere derude,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2432.0,
       "end": 2434.0,
       "text": " i mange af markederne i hvert fald,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2434.0,
       "end": 2436.0,
       "text": " forstår og er vant til at handle,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2436.0,
       "end": 2438.0,
       "text": " på internationale shops.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2438.0,
       "end": 2440.0,
       "text": " Og så starter man ud med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2440.0,
       "end": 2441.0,
       "text": " at lave nogle Google Shopping annoncer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2441.0,
       "end": 2442.0,
       "text": " til hvert enkelt marked,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2442.0,
       "end": 2443.0,
       "text": " som man ligesom forsøger at teste,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2443.0,
       "end": 2444.0,
       "text": " de her søgeord af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2444.0,
       "end": 2446.0,
       "text": " Man laver også nogle paid social annoncer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2446.0,
       "end": 2447.0,
       "text": " til de enkelte marked.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2447.0,
       "end": 2449.0,
       "text": " Der kan man fx bruge AI,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2449.0,
       "end": 2451.0,
       "text": " med videre for ikke at skulle,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2451.0,
       "end": 2452.0,
       "text": " sætte gang i det helt store,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2452.0,
       "end": 2453.0,
       "text": " fordi det er jo,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2453.0,
       "end": 2454.0,
       "text": " jeg er fuldstændig enig med dig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2454.0,
       "end": 2456.0,
       "text": " det her med at komme ud på markederne lokalt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2456.0,
       "end": 2457.0,
       "text": " og være der fysisk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2457.0,
       "end": 2458.0,
       "text": " det er jo fantastisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2458.0,
       "end": 2459.0,
       "text": " Det er rigtig svært at gøre,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2459.0,
       "end": 2460.0,
       "text": " når man skal teste noget af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2460.0,
       "end": 2462.0,
       "text": " Så start ud med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2462.0,
       "end": 2463.0,
       "text": " The Bare Minimum,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2463.0,
       "end": 2464.0,
       "text": " for at se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2464.0,
       "end": 2465.0,
       "text": " hvor er det egentlig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2465.0,
       "end": 2466.0,
       "text": " ordrene ender med at komme fra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2466.0,
       "end": 2467.0,
       "text": " Og nej, det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2467.0,
       "end": 2468.0,
       "text": " det bliver ikke profitabelt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2468.0,
       "end": 2469.0,
       "text": " det har jeg endnu til gode at se.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2469.0,
       "end": 2470.0,
       "text": " Men det er ret fedt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2470.0,
       "end": 2471.0,
       "text": " at se efter en måned,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2471.0,
       "end": 2472.0,
       "text": " og man har fået,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2472.0,
       "end": 2473.0,
       "text": " lad os sige 100 ordre,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2473.0,
       "end": 2474.0,
       "text": " og 60 af dem kommer fra,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2474.0,
       "end": 2475.0,
       "text": " Tyskland eller Holland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2475.0,
       "end": 2477.0,
       "text": " Og man så kan begynde at sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2477.0,
       "end": 2478.0,
       "text": " hmm,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2478.0,
       "end": 2479.0,
       "text": " det kunne godt være det jo der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2479.0,
       "end": 2480.0,
       "text": " vi så skulle prøve at tage fat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2480.0,
       "end": 2481.0,
       "text": " Det vi så typisk har gjort efterfølgende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2481.0,
       "end": 2482.0,
       "text": " det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2482.0,
       "end": 2483.0,
       "text": " at skrive eller ringe ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2483.0,
       "end": 2484.0,
       "text": " til de her kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2484.0,
       "end": 2485.0,
       "text": " for at lære dem lidt bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2485.0,
       "end": 2486.0,
       "text": " kan finde ud af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2486.0,
       "end": 2487.0,
       "text": " hvad var det, der var vigtigt for dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2487.0,
       "end": 2488.0,
       "text": " hvad var det, de lagde mærke til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2488.0,
       "end": 2489.0,
       "text": " Fordi de har jo trods alt handlet på en job,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2489.0,
       "end": 2491.0,
       "text": " der ikke var 100% perfekt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2491.0,
       "end": 2492.0,
       "text": " til det enkelte marked.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2492.0,
       "end": 2493.0,
       "text": " Så der må være et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2493.0,
       "end": 2494.0,
       "text": " der virkelig har trukket i dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2494.0,
       "end": 2495.0,
       "text": " Er det prisen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2495.0,
       "end": 2496.0,
       "text": " Er det kvaliteten?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2496.0,
       "end": 2497.0,
       "text": " Er det den funktionalitet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2497.0,
       "end": 2498.0,
       "text": " vi ligesom kan tilbyde?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2498.0,
       "end": 2499.0,
       "text": " Det er en rigtig fed test,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2499.0,
       "end": 2501.0,
       "text": " men den koster altså nogle penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2503.0,
       "end": 2504.0,
       "text": " Det sidste punkt vi har,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2504.0,
       "end": 2505.0,
       "text": " det handler om at overveje,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2505.0,
       "end": 2506.0,
       "text": " hvad formålet er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2506.0,
       "end": 2507.0,
       "text": " og måske også lidt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2507.0,
       "end": 2508.0,
       "text": " hvor lang ens investeringshøjde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2509.0,
       "end": 2511.0,
       "text": " fordi de markeder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2511.0,
       "end": 2513.0,
       "text": " der minder mest om det danske hjemmemarked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2513.0,
       "end": 2514.0,
       "text": " det vil være sådan noget som Sverige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2514.0,
       "end": 2516.0,
       "text": " Norge, Holland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2516.0,
       "end": 2518.0,
       "text": " vil nok være nemmere at etablere sig på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2518.0,
       "end": 2519.0,
       "text": " fordi det er ikke det samme marked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2519.0,
       "end": 2520.0,
       "text": " men der er alligevel mange ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2520.0,
       "end": 2521.0,
       "text": " der er ens,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2521.0,
       "end": 2522.0,
       "text": " og danskere har nemt ved at arbejde sammen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2522.0,
       "end": 2524.0,
       "text": " med nordmænd og svenskere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2524.0,
       "end": 2526.0,
       "text": " og vi er digitale på tilsvarende måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2526.0,
       "end": 2527.0,
       "text": " som hollænderne er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2527.0,
       "end": 2528.0,
       "text": " Så det vil være en nemmere marked",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2528.0,
       "end": 2529.0,
       "text": " at etablere sig i,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2529.0,
       "end": 2530.0,
       "text": " men det er også mindre markeder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2530.0,
       "end": 2531.0,
       "text": " Så man kan sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2531.0,
       "end": 2532.0,
       "text": " opsiden er mindre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2532.0,
       "end": 2534.0,
       "text": " Hvis man skal ud og rigtig bevise sig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2534.0,
       "end": 2536.0,
       "text": " have den der kæmpe store trajectory,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2536.0,
       "end": 2538.0,
       "text": " så skal man jo kigge i retning af markeder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2538.0,
       "end": 2539.0,
       "text": " som Tyskland eller Frankrig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2539.0,
       "end": 2541.0,
       "text": " eller et af Europas mest undervurderede markeder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2541.0,
       "end": 2542.0,
       "text": " Polen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2542.0,
       "end": 2543.0,
       "text": " hvor folk glemmer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2543.0,
       "end": 2545.0,
       "text": " at der er 40 millioner polakker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2545.0,
       "end": 2547.0,
       "text": " og det er den økonomi i Europa,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2547.0,
       "end": 2548.0,
       "text": " der procentuelt vokser hurtigst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2548.0,
       "end": 2549.0,
       "text": " og det har en købekraft,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2549.0,
       "end": 2550.0,
       "text": " der er stærkere end Portugal allerede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2550.0,
       "end": 2552.0,
       "text": " Altså det er totalt undervurderet marked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2552.0,
       "end": 2554.0,
       "text": " som vi faktisk har nogle kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2554.0,
       "end": 2555.0,
       "text": " der har virkelig stor succes i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2555.0,
       "end": 2557.0,
       "text": " Men man skal lidt overveje,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2557.0,
       "end": 2558.0,
       "text": " altså har jeg en investeringshøjde sådan,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2558.0,
       "end": 2559.0,
       "text": " som måske hedder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2559.0,
       "end": 2560.0,
       "text": " jeg vil gerne have det her til at virke nogenlunde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2560.0,
       "end": 2561.0,
       "text": " på et år eller to,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2561.0,
       "end": 2562.0,
       "text": " jamen så er det nok Sverige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2562.0,
       "end": 2563.0,
       "text": " Norge, Holland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2563.0,
       "end": 2565.0,
       "text": " som er de mest oplagte targets.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2565.0,
       "end": 2567.0,
       "text": " Men hvis man virkelig mener det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2567.0,
       "end": 2569.0,
       "text": " så vil jeg jo tage Tyskland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2569.0,
       "end": 2571.0,
       "text": " Og det er jo også lidt af årsagen til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2571.0,
       "end": 2573.0,
       "text": " at da vi i Obsidian skulle vælge for nogle år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2573.0,
       "end": 2574.0,
       "text": " vi ville være et bureau,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2574.0,
       "end": 2575.0,
       "text": " der spænder ud over Danmarks grænser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2575.0,
       "end": 2577.0,
       "text": " hvor er det vi skal gå ind hen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2577.0,
       "end": 2580.0,
       "text": " så endte det jo på et stort fokus på Tyskland primært.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2580.0,
       "end": 2581.0,
       "text": " Og det var der i sært to år siden til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2581.0,
       "end": 2582.0,
       "text": " og det er en dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2582.0,
       "end": 2584.0,
       "text": " at Tyskland er Danmarks største eksportpartner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2584.0,
       "end": 2585.0,
       "text": " Så hvis vi vil hjælpe vores kunder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2585.0,
       "end": 2587.0,
       "text": " med at få succes med digital marketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2587.0,
       "end": 2588.0,
       "text": " så er det bare vigtigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2588.0,
       "end": 2590.0,
       "text": " at vi kan hjælpe dem i Tyskland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2590.0,
       "end": 2592.0,
       "text": " end vi kan hjælpe dem i Holland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2592.0,
       "end": 2593.0,
       "text": " Det er simpelthen bare en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2593.0,
       "end": 2594.0,
       "text": " jeg ved ikke hvor mange gange,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2594.0,
       "end": 2595.0,
       "text": " større eksportpartner for Danmark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2595.0,
       "end": 2596.0,
       "text": " og derfor er det mere værd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2596.0,
       "end": 2597.0,
       "text": " Samtidig med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2597.0,
       "end": 2599.0,
       "text": " at det er det største marked i Europa,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2599.0,
       "end": 2602.0,
       "text": " altså Tyskland er Europas største økonomi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2602.0,
       "end": 2604.0,
       "text": " og derfor er det også mest interessant af den årsag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2604.0,
       "end": 2605.0,
       "text": " fordi hvis vi lykkes med at etablere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2605.0,
       "end": 2607.0,
       "text": " så har det marked også bare den største upside.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2607.0,
       "end": 2609.0,
       "text": " Så var der så en tredje joker med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2609.0,
       "end": 2611.0,
       "text": " at i Tyskland er et marked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2611.0,
       "end": 2612.0,
       "text": " hvor der stadig er flere Google-søgninger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2612.0,
       "end": 2613.0,
       "text": " efter print-marketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2613.0,
       "end": 2615.0,
       "text": " end der er efter digital marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2615.0,
       "end": 2617.0,
       "text": " Og det skifte lavede vi jo i Danmark for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2617.0,
       "end": 2618.0,
       "text": " I don't know, 12 år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2618.0,
       "end": 2620.0,
       "text": " eller et eller andet den stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2620.0,
       "end": 2622.0,
       "text": " Og så, hvem fanden køber print?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2622.0,
       "end": 2624.0,
       "text": " Men der er det stadig i Tyskland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2624.0,
       "end": 2625.0,
       "text": " hvor der er flere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2625.0,
       "end": 2626.0,
       "text": " der søger efter print-marketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2626.0,
       "end": 2627.0,
       "text": " end digital marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2627.0,
       "end": 2628.0,
       "text": " Og det er jo galt, eller genialt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2628.0,
       "end": 2629.0,
       "text": " Det er jo galt i den forstand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2629.0,
       "end": 2631.0,
       "text": " at en stor del af markedet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2631.0,
       "end": 2633.0,
       "text": " bruger deres annoncekroner på et område,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2633.0,
       "end": 2635.0,
       "text": " hvor vi ikke kan hjælpe dem i at opsede en digital,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2635.0,
       "end": 2637.0,
       "text": " fordi vi indrykker ikke avisannoncer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2637.0,
       "end": 2638.0,
       "text": " Men det er jo genialt i den forstand,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2638.0,
       "end": 2639.0,
       "text": " at når de opdager,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2639.0,
       "end": 2640.0,
       "text": " hvor meget bedre det virker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2640.0,
       "end": 2641.0,
       "text": " og hvilket afkast de kan få,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2641.0,
       "end": 2643.0,
       "text": " så kommer der til at rykke rigtig mange penge ind,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2643.0,
       "end": 2645.0,
       "text": " på det domæne, hvor vi er eksperter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2645.0,
       "end": 2647.0,
       "text": " og så kommer markedet forhåbentlig til at vokse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2647.0,
       "end": 2650.0,
       "text": " Så, det var vores overvejelse dengang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2650.0,
       "end": 2652.0,
       "text": " Det havde været nemmere for os,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2652.0,
       "end": 2653.0,
       "text": " at gå til Sverige eller Norge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2653.0,
       "end": 2654.0,
       "text": " Men vi tænkte,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2654.0,
       "end": 2655.0,
       "text": " det kommer sgu til at kræve",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2655.0,
       "end": 2656.0,
       "text": " den samme energi af os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2656.0,
       "end": 2657.0,
       "text": " og få det her til at virke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2657.0,
       "end": 2659.0,
       "text": " om vi går til Sverige, Norge eller Tyskland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2659.0,
       "end": 2661.0,
       "text": " Og så har Tyskland bare en helt anden potentielle optaget for os.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2661.0,
       "end": 2662.0,
       "text": " Det er god mening.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2662.0,
       "end": 2663.0,
       "text": " Og jeg kan berette om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2663.0,
       "end": 2666.0,
       "text": " at printmarketing.dk er optaget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2666.0,
       "end": 2667.0,
       "text": " Desværre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2667.0,
       "end": 2669.0,
       "text": " Og det har den været siden 11. november.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2669.0,
       "end": 2670.0,
       "text": " Er det Allan fra Borgs igen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2670.0,
       "end": 2672.0,
       "text": " Nej, det er ikke Allan.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2672.0,
       "end": 2674.0,
       "text": " Jeg kan ikke få lov til at sige, hvem det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2674.0,
       "end": 2675.0,
       "text": " men det er ikke Allan.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2675.0,
       "end": 2676.0,
       "text": " Okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2682.0,
       "end": 2683.0,
       "text": " Ej, vi vil sige tak,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2683.0,
       "end": 2685.0,
       "text": " fordi du havde lyst til at høre lidt med til dagens episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2685.0,
       "end": 2687.0,
       "text": " der handlede om skalering på e-commerce.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2687.0,
       "end": 2689.0,
       "text": " Vores sidste bønfalddag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2689.0,
       "end": 2691.0,
       "text": " vi plejer jo som alle andre podcaster,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2691.0,
       "end": 2692.0,
       "text": " at bede om et eller andet til sidst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2692.0,
       "end": 2693.0,
       "text": " I dag vil vi ikke bede om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2693.0,
       "end": 2695.0,
       "text": " at du subscriber på iTunes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2695.0,
       "end": 2697.0,
       "text": " eller at du subscriber på YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2697.0,
       "end": 2699.0,
       "text": " Vi vil gerne ændre den sørgelige statistik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2699.0,
       "end": 2701.0,
       "text": " der hedder, at der er mellem 0 og 10 personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2701.0,
       "end": 2703.0,
       "text": " der går ind og googler efter marketingpod, hver eneste måned.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2703.0,
       "end": 2705.0,
       "text": " Så please, hvis du synes, det her var fedt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2705.0,
       "end": 2707.0,
       "text": " gå ind og google efter marketingpod,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2707.0,
       "end": 2708.0,
       "text": " så vi kan ændre statistikken.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2708.0,
       "end": 2709.0,
       "text": " Og hvis du er kvinde, subscribe på YouTube,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2709.0,
       "end": 2711.0,
       "text": " fordi det har vi virkelig brug for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2711.0,
       "end": 2714.0,
       "text": " Til alle jer 99% mænd, der lytter med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2714.0,
       "end": 2715.0,
       "text": " Tak, bros.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2715.0,
       "end": 2716.0,
       "text": " Det er vi fandme glade for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2716.0,
       "end": 2719.0,
       "text": " Tusind tak, fordi du gad lytte med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

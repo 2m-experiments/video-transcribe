@@ -9,947 +9,951 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 4.0,
       "text": " Halftand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
       "end": 15.0,
       "text": " Jeg har sammen med rundt regnet 1.500 gennemsnitlige lytter på Marketingpod gledet sindssygt meget til at høre dig forklare de juridiske aspekter af, hvorvidt jeg må klikke folks nyhedspres-tilmelding af på forhånd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 19.0,
       "text": " Så kan vi ikke bare gøre det til en kort episode, ja eller nej?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.0,
       "end": 23.0,
       "text": " Ja, vi skal lige have defineret, hvor vi snakker, og her snakker vi i checkouten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 23.0,
       "end": 27.0,
       "text": " Som en rigtig jurist, vi skal lige have defineret, hvad vi snakker om til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 31.0,
       "text": " Det er så åndssvagt, fordi jeg har ikke tid med at være jurist. Det er faktisk dig, der er tættere på at være jurist end mig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 31.0,
       "end": 34.0,
       "text": " Og så er det mig, der skal sidde og forklare det her. Det er åndssvagt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.0,
       "end": 42.0,
       "text": " Du valgte at tage det her emne, og det er jeg rigtig, rigtig glad for, fordi du har virkelig lavet noget grundig forberedelse med markedsføringsloven, forbrugerombudsmandens retningslinjer, datatilsynet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 42.0,
       "end": 46.0,
       "text": " Du er gået super dybt i det. Så bare lidt åndssvagt, ja eller nej?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 46.0,
       "end": 50.0,
       "text": " Jeg vil ikke hænge sig op på noget af det her, men nu giver vi den gas.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.0,
       "end": 62.0,
       "text": " Det, der er hele humlen her, og som har været et diskussionsemne i lang tid, det er, om hvorvidt man må have en forhåndsafkrydsning i checkouten i forhold til tilmelding til nyhedsbrev.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 62.0,
       "end": 66.0,
       "text": " Og det vi rigtig gerne vil, det er, at folk forholder sig til det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 66.0,
       "end": 75.0,
       "text": " Jeg forstår 100% argumenterne for og imod at have det på sin webshop, men det er bare vigtigt, at man forholder sig til, hvad er det egentlig, loven siger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 75.0,
       "end": 79.0,
       "text": " Fordi mange holder sig tilbage, fordi de ikke helt forstår, hvad der står i lovgivningen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 79.0,
       "end": 83.0,
       "text": " Så lad os tage udgangspunktet, og så kan du komme med undtagelserne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 83.0,
       "end": 87.0,
       "text": " Fordi udgangspunktet, det er jo, at vi har en markedsføringslov i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 87.0,
       "end": 93.0,
       "text": " I markedsføringslovens paragraf 10, og du kan bare google markedsføringsloven, så gå ind på retsinformation.dk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 93.0,
       "end": 100.0,
       "text": " Markedsføringslovens paragraf 10 siger, at en erhvervsdrivende, det er dig, må ikke rette henvendelse, det er en e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 100.0,
       "end": 103.0,
       "text": " Til nogen ved brug af elektronisk post, det er i hvert fald en e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 112.0,
       "text": " Et automatisk opkaldssystem, eller telefaks, med henblik på direkte markedsføring, medmindre den pågældende har givet sit forudgående samtykke hertil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 112.0,
       "end": 116.0,
       "text": " Inden der giver et samtykke, skal den pågældende oplyses om, at samtykket kan trækkes tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 116.0,
       "end": 120.0,
       "text": " Den erhvervsdrivende skal give mulighed for let og gebyrfrit at tilbagekalde samtykket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 120.0,
       "end": 128.0,
       "text": " Så det er udgangspunktet, du må ikke rette henvendelse via e-mail med direkte markedsføring, medmindre du har fået lov.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 128.0,
       "end": 131.0,
       "text": " Det var stykket 1, så kommer stykket 2, Signe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 131.0,
       "end": 135.0,
       "text": " Ja, så er der selvfølgelig en undtagelse til hovedreglen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 135.0,
       "end": 138.0,
       "text": " For at gøre det lidt nemmere, så kalder vi den tidligere kundereglen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 138.0,
       "end": 143.0,
       "text": " Det vi er nede i at kigge i, det er paragraf 10 styk 2, tidligere kundereglen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 143.0,
       "end": 150.0,
       "text": " Den tillader udsendelse af en nyhedsbrev uden forudgående samtykke, når vi har tre betingelser, der er opfyldt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 150.0,
       "end": 152.0,
       "text": " For det første, så skal kunden have købt hos os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 152.0,
       "end": 155.0,
       "text": " Det er derfor, det er smart at lægge den i checkouten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 155.0,
       "end": 162.0,
       "text": " Så er de trods alt relativt tæt på at have købt hos os, og opt-in'en fungerer først, når vedkommende rent faktisk har placeret ordrene.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 162.0,
       "end": 166.0,
       "text": " Nummer 2, vi markedsfører egne tilsvarende produkter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 166.0,
       "end": 172.0,
       "text": " Den er rigtig vigtig, og vi kommer ind på nogle eksempler fra Forbrugermodsmanden, hvad man mener med tilsvarende produkter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 172.0,
       "end": 181.0,
       "text": " Nummer 3, kunden har en nem mulighed for at frabide sig markedsføring i både checkout og i enhver mail, man sender ud efterfølgende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 181.0,
       "end": 187.0,
       "text": " Når de her tre krav, de er opfyldt, så må boksen gerne være forhåndsafkrydset.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 187.0,
       "end": 190.0,
       "text": " Kunderne skal blot kunne fjerne krydset.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 190.0,
       "end": 194.0,
       "text": " Så lad os lige prøve at dykke ned i, hvad er det egentlig, Forbrugermodsmanden siger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 194.0,
       "end": 199.0,
       "text": " Og der har du fundet spamforbuddet vejledning fra 2021, og det passer stadig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 199.0,
       "end": 202.0,
       "text": " Nu snakker vi 2025, men lige den her regel er faktisk samme, som det har været i et godt stykke tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 202.0,
       "end": 209.0,
       "text": " Og Forbrugermodsmanden har udgivet en ret lang vejledning til spam, altså uanmodet henvendelser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 213.0,
       "text": " Vi skal nok lige sørge for at lave et link til den i noterne på marketingpod.dk, hvis du er interesseret i at læse videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 217.0,
       "text": " Det er et dokument, direkte oplovet på forbrugermodsmanden.dk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 217.0,
       "end": 223.0,
       "text": " Og der har vi stykke 9,1, som er betingelser for, at man kan bruge den her regel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 234.0,
       "text": " Og der er stykke 9,1, stykke 4, hvor der står, at kunden skal ved afgivelse af den elektroniske adresse, altså din e-mailadresse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 241.0,
       "text": " klart og utvetydigt oplyses om muligheden for at frabede sig markedsføringen på en let og gebyrfri måde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 241.0,
       "end": 244.0,
       "text": " Og så står der en meget interessant kommentar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 250.0,
       "text": " Et forhåndsafkrydset felt, hvor kunden kan fjerne forhåndsmarkeringen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 259.0,
       "text": " Hvis kunden ikke vil have tilsendt markedsføringen til den oplyste elektroniske adresse, vil være tilstrækkeligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 263.0,
       "end": 266.0,
       "text": " Vi er åbne. Du må gøre det. Alt er godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 266.0,
       "end": 267.0,
       "text": " Var svaret bare et ja?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.0,
       "end": 274.0,
       "text": " Ja, hvis man lige læser efter og overholder betingelserne, så er det jo i princippet der, hvor det er rigtig vigtigt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 274.0,
       "end": 279.0,
       "text": " Det er jo, at man så også overholder det her med de tilsvarende produkter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 279.0,
       "end": 284.0,
       "text": " Og tilsvarende produkter er sådan en lidt sjov størrelse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 284.0,
       "end": 290.0,
       "text": " Og det ved Forbrugermodsmanden nok godt, og derfor er der kommet en del eksempler, og det står faktisk også i det her dokument.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 290.0,
       "end": 295.0,
       "text": " Så spørgsmålet er, om vi skal prøve at dykke ned i nogle af de her eksempler ved at scrolle lidt nedad i det her dokument.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 295.0,
       "end": 300.0,
       "text": " Og Forbrugermodsmanden har jo været enormt specifik, så vi har simpelthen fået nogle ting, man godt må, og nogle ting, man ikke må.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 306.0,
       "text": " Og skal jeg ikke starte med at sige nogle af de ting, man godt må, og så kan du som juristen i dagens episode få nejhatten på med nogle af de ting, man ikke må.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 313.0,
       "text": " Så hvis en kunde har købt en flybillet til Rom, så vil en flybillet til London eller New York være tilsvarende produkter. Det må man godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 313.0,
       "end": 321.0,
       "text": " Hvis en bilforhandler har solgt en bil, vil markedsføring af service, reparation og vinterdæk til bilen være omfattet af bilforhandlerens tilsvarende produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 323.0,
       "text": " De nævner ikke specifik sommerdæk, men jeg tænker, at den går.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 323.0,
       "end": 329.0,
       "text": " Hvis en kunde har købt en flybillet, så vil tilkøb af en kuffert, mad ombord og opgradering også være ok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 329.0,
       "end": 338.0,
       "text": " Hvis du har købt en cykel, så må du gerne, uden at have fået lov, sende en e-mail om en ringeklokke, en cykelhjelm, en cykeltræler eller et eller andet service eftersyn af cyklen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 343.0,
       "text": " Hvis du har købt en mobiltelefon, så vil et mobilabonnement også være ok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 343.0,
       "end": 354.0,
       "text": " Og hvis du nu har solgt garn, så vil strækkepinden, hækkelpinden, garntasker, strækkeopskrifter og andet tilbehøre til strækkegarn, som virksomheden selv sælger, være tilsvarende produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 354.0,
       "end": 355.0,
       "text": " Hvad må vi så ikke?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 360.0,
       "text": " Hvis en kunde har købt en cykel, så vil en knaldert ikke være et tilsvarende produkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 360.0,
       "end": 361.0,
       "text": " Satans.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 364.0,
       "end": 366.0,
       "text": " Der ryger cykelknaldershoppen.dk",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 368.0,
       "end": 369.0,
       "text": " Desværre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 370.0,
       "end": 375.0,
       "text": " Hvis en kunde har købt en telefon, så vil et fjernsyn ikke være et tilsvarende produkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 375.0,
       "end": 382.0,
       "text": " Og hvis en kunde har købt en mobiltelefon hos en televirksomhed, vil et bredbåndsabonnement ikke være et tilsvarende produkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 383.0,
       "end": 390.0,
       "text": " Så, altså, man skal selvfølgelig være skarp her og forbruger, hvis man skriver også selv, at det vil bero på en konkret vurdering.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 390.0,
       "end": 396.0,
       "text": " Det er et fedt juridisk term. Det vil bero på en konkret vurdering. Det har jeg hørt tusind gange på mit jurastudie.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 396.0,
       "end": 399.0,
       "text": " Det vil bero på en konkret vurdering. Det er jo den anden måde at sige. Det ved jeg ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 399.0,
       "end": 404.0,
       "text": " Det vil bero på en konkret vurdering. Vi har ikke lavet vurdering, men det vil bero på en konkret vurdering. Så vi ved det ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 405.0,
       "end": 409.0,
       "text": " Og derfor forstår vi altså også godt, at det her, det kan være noget forvirrende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 409.0,
       "end": 414.0,
       "text": " Kigger vi så på, hvad Datatilsynet skriver i deres vejledning, så er det lidt interessant.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 414.0,
       "end": 421.0,
       "text": " Fordi hvis vi prøver at åbne den op, så er vi nu inde og kigge på, hvad de siger i forhold til GDPR-reglerne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 421.0,
       "end": 428.0,
       "text": " Og det er jo et vejledning om direkte markedsføring omkring både markedsføringsloven og GDPR fra 2023, så den er også rimelig opdateret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 439.0,
       "text": " Det eksempel, de har her, og nu læser jeg højt, det er, at Agnete har i lidt over et år købt foder til sine to kanariefugle via virksomheden Dyremads webshop.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 439.0,
       "end": 447.0,
       "text": " I forbindelse med sit første køb oplyste Agnete sit e-mailadresse. Under købsloget blev hun præsenteret for følgende valgmulighed.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 447.0,
       "end": 452.0,
       "text": " Hvis du ikke ønsker at modtage gode tilbud eller nyheder om foder og tilsvarende produkter fra Dyremad,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 453.0,
       "end": 456.0,
       "text": " Ja, der har de lavet en stavefejl faktisk i den her, den hed Dyremads lige før.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 456.0,
       "end": 460.0,
       "text": " Nå, kan du sige nej ved at sætte kryds i feltet? Og hvad er det, der sker her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 460.0,
       "end": 462.0,
       "text": " Her kommer de faktisk med en helt anden vejledning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 462.0,
       "end": 467.0,
       "text": " Hvis man går ind på shapingnewtomorrow.dk, som vi har taget som eksempel, så står der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 473.0,
       "text": " Hvis du ikke ønsker at modtage de bedste tilbud eller nyheder om lignende produkter fra Shapingnewtomorrow via e-mail, kan du sige nej til at sætte kryds i feltet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 481.0,
       "text": " Så det vil sige, at Shapingnewtomorrow har været inde og kopieret eksemplet fra Dyremads.dk, hvor Anita har købt sin kattemad.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 481.0,
       "end": 488.0,
       "text": " Det er jo det, der er spørgsmålet. Forbrugermodtsmanden bruger forudtjekket som eksempel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 488.0,
       "end": 491.0,
       "text": " Hvor datatilsynet bruger en, der ikke er forhånds-tjekket.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 491.0,
       "end": 494.0,
       "text": " I Shapingnewtomorrow skal du klikke den af, hvis du ikke vil have det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 494.0,
       "end": 499.0,
       "text": " Og det, forbrugermodtsmanden siger, er specifikt, at du må gerne klikke den af på forhånden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 506.0,
       "text": " Ja, og kigger vi sådan nedadst i det her eksempel, der skriver de i den her vejledning om direkte markedsføring fra datatilsynet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 506.0,
       "end": 514.0,
       "text": " at datatilsynet bemærker, at der gælder en række betingelser for at gøre brug af undtagelsen i markedsføringslovens paragraf 10 stykke 2,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 514.0,
       "end": 522.0,
       "text": " altså den, som vi bare har valgt at kalde tidligere kundereglen, for nærmere information herom henvises til forbrugermodtsmanden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 522.0,
       "end": 527.0,
       "text": " Så datatilsynet kommer med et andet eksempel end forbrugermodtsmanden, men slutter af med at pege hen mod forbrugermodtsmandens vejledning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 528.0,
       "end": 533.0,
       "text": " Men der står ikke i datatilsynets tekst, at det må man ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 533.0,
       "end": 542.0,
       "text": " Altså der står, at sendemægelsen vil være omfattet af spamforbuddet, og man skal have samtykke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 542.0,
       "end": 551.0,
       "text": " men behandling af opløsninger, i det her tilfælde kundens e-mail, kan ske efter artikel 6 stykke 1 liter f bla bla bla.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 553.0,
       "text": " Der står ikke, at man ikke må det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 559.0,
       "text": " Så med dine jura-briller, nu er du den, der er tættest på af os to, at have noget at gøre med nedsmægelsen af jura.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " Jeg er jo 3,5 år længere i jura-studiet, end du er, kan man sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 565.0,
       "text": " Ja, lige præcis. Så derfor stiller jeg dig spørgsmålet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 565.0,
       "end": 570.0,
       "text": " Hvordan læser du det her? Altså den som shape your new tomorrow. Lad os bare hive det eksempel frem igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 570.0,
       "end": 571.0,
       "text": " Ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 571.0,
       "end": 578.0,
       "text": " Er den god nok? Fordi det, man skal forestille sig her, det er, at hvis man ikke afkrydser feltet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 578.0,
       "end": 585.0,
       "text": " så bliver man tilmeldt nyhedsbrevet, hvor man så kan få tilsvarende produkter tilsendt i, ja, sin inbox, efter man har handlet der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 585.0,
       "end": 591.0,
       "text": " Mit korte svar, som ikke-advokat, der dermed ikke har en ansvarsforsikring, men heller ikke har nogen forpligtelser i forhold til at snakke rigtigt og forkert,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 597.0,
       "text": " det er ja. Det her, det må man godt. Du må gerne klikke folk af på forhånd, det siger Forbrugombudsmanden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 603.0,
       "text": " Du må gerne gøre, at folk skal klikke den af, hvis de ikke vil med, det siger Dansk Selvsynede effektivt, også i deres vejledning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 608.0,
       "text": " Så mit svar, det er, må du tilmelde folk, hvis de ikke klikker sig fra på den ene eller den anden måde? Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 609.0,
       "text": " Hvis betingelserne er opfyldt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 612.0,
       "text": " Hvis betingelserne er opfyldt, i øvrigt, ja, selvfølgelig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 615.0,
       "text": " Der, hvor jeg synes, det er lidt tricky, altså det er jo spørgsmålet nr. 1, det er, må du?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 615.0,
       "end": 621.0,
       "text": " Og svaret det er, langt hen ad vejen, hvis betingelserne er opfyldt, og du oplever sig korrekt om det, svaret ja, det må du godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 621.0,
       "end": 623.0,
       "text": " Det, der er spørgsmålet, det er, bør du gøre det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 623.0,
       "end": 624.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 625.0,
       "text": " Fordi jeg ser to udfordringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 629.0,
       "text": " En udfordring, det er, at du risikerer for folk igen, som ikke ønsker at have dine e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 629.0,
       "end": 636.0,
       "text": " Og de kan jo selvfølgelig sende en mail til forbrugerombudsmanden, så kan du vise, at du havde klikket af rigtigt, så det er ikke så meget den risiko, jeg tænker på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 639.0,
       "text": " Det er mere, opvejer de personer, du får ind ekstra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 647.0,
       "text": " De personer, som du får ind, som ikke ønskede det, og derfor fx spammarkere dine e-mails, som kan have en stor negativ indflydelse på hele din listes performance.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 647.0,
       "end": 657.0,
       "text": " Det er en ting, man skal tænke ind, at du får nogle personer med, som nok ikke havde tænkt sig at gøre det, og vil de så melde dig til spam, så er det et virkeligt negativt signal til din ESP, som kan risikere at ramme dig på din åbningsradar og din deliverability.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 657.0,
       "end": 658.0,
       "text": " Det er den ene ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 666.0,
       "text": " Den anden ting, det er, når du får nyhedsbrevstilmeldinger ind normalt, hvor folk, de siger ja tak til nyhedsbrevet, så må du jo sende dem nyhedsbrev om det, du har lyst til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 670.0,
       "text": " Så vil du sende en nyhedsbrev om Blackjack i din dyre masse webshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 670.0,
       "end": 671.0,
       "text": " Det er nok dumt, men det må du godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 671.0,
       "end": 675.0,
       "text": " De har skrevet sig op til nyhedsbrevet for virksomhederne, og hvis du ikke selv har begrænset dig, så må du godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 675.0,
       "end": 687.0,
       "text": " Hvor hvis du skriver folk op uden deres aktive samtykke, det vil sige bruger den her Markedsføringslovens §10 stykke 2-regel om tidligere kunder, så må du kun sende relaterede produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 687.0,
       "end": 691.0,
       "text": " Og der skal du fandme være skarp i din e-mailopsætning til at have to lister.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 694.0,
       "text": " En liste med folk, der har sagt ja, og en liste med folk, der ikke har sagt nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " Og du kan ikke altid sende det samme ud til dem alle sammen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 701.0,
       "text": " Hvis du har kjoleshoppen.dk, der kun sælger kjole, så kan du godt gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 701.0,
       "end": 705.0,
       "text": " Men prøv at tænke eksemplet, du havde lige før, hvor hvis du har solgt en cykel, må du ikke sælge en knaldret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 705.0,
       "end": 708.0,
       "text": " Jeg tror godt, vi kan finde nogle eksempler på shops, der har så forskellige produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 708.0,
       "end": 711.0,
       "text": " Prøv at tænke sådan noget coolshop.dk og proshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 711.0,
       "end": 720.0,
       "text": " De der kæmpe store danske webshops, de kan jo gøre det her, fordi du får alt muligt lort ind, som du er nødt til at opdele i sublister afhængig af, hvad de rent faktisk har købt til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 720.0,
       "end": 722.0,
       "text": " Det kan du godt, men det er godt nok et arbejde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 722.0,
       "end": 725.0,
       "text": " Så der, hvor man skal være skarp, er, at der er to ting, man skal gøre her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 725.0,
       "end": 730.0,
       "text": " Den ene ting er, at når du så har gjort det, så må du ikke sende alt til dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 730.0,
       "end": 736.0,
       "text": " Så du er nødt til at opdele din emailmarketing afhængig af, hvad de har købt til at starte med, hvis du har tilpas bredt vareudvalg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 736.0,
       "end": 741.0,
       "text": " Og den skal man også lige huske, at den ene ting er, at det afhænger også lidt af casen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 741.0,
       "end": 747.0,
       "text": " Hvor jo mere homogen dit produktudvalg er, jo bedre en idé er det her i min optik, fordi så må du nok sende det samme ud til alle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 747.0,
       "end": 752.0,
       "text": " Lige præcis. Og jeg kan fortælle, at det kan skabe rigtig, rigtig gode resultater.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 752.0,
       "end": 760.0,
       "text": " Men hold nu øje med unsubscribe rate, spam complain rate osv., osv., hvis man vælger at implementere det fra den ene dag til den anden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 760.0,
       "end": 764.0,
       "text": " For det kan faktisk gå ud over f.eks. ens deliverability, som halvstanden siger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 764.0,
       "end": 769.0,
       "text": " Så er det en god idé? Ja, nej. Det vil vi lade op til jer at forholde sig til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 769.0,
       "end": 772.0,
       "text": " Vi synes bare, det er vigtigt, at man forholder sig til det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 772.0,
       "end": 776.0,
       "text": " Men lad os sige, at nu har du arbejdet med meget e-commerce virksomheder, du har haft webshops.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 776.0,
       "end": 780.0,
       "text": " Den korteste til sidst, vil du gøre det her? Jeg vil sige det samme. Jeg tror, du vinder mere, end du taber.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 780.0,
       "end": 788.0,
       "text": " Man skal være opmærksom på det, man taber, og særlig hvis man er coolshop og sælger alt, så skal du passe på, at du ikke kommer til at sende de forkerte mails til de forkerte personer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 788.0,
       "end": 795.0,
       "text": " Men som udgangspunkt, ja, jeg vil også gøre det her. Jeg tror, der er mere at vinde, end der er at tabe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 795.0,
       "end": 801.0,
       "text": " Så konklusionen, 13 minutter og 40 sekunder inden svaret, det er ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 801.0,
       "end": 803.0,
       "text": " Tak fordi du lydede med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 803.0,
       "end": 807.0,
       "text": " Skriv til kk-snabla ice-digital, hvis du vil have øvrig judeisk rådgivning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

@@ -9,89 +9,93 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 6.0,
       "text": " Christian, hvordan gik det med det der lead, vi begge to har pitchet på her for nøglen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 7.0,
       "end": 12.0,
       "text": " Mener du det? Vi ved det jo faktisk ikke endnu. Reelt set, så ved vi det faktisk ikke endnu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 13.0,
       "end": 16.0,
       "text": " Hvad du forklarer, så skal jeg nok lige prøve at se, om jeg er enig med din forklaring af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 17.0,
       "end": 24.0,
       "text": " Nå, men der sker jo bare det, at nogle gange så bliver både Obsidian Digital og Rise Digital inviteret til at byde ind på samme projekt, og det vil jeg rigtig gerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 24.0,
       "end": 33.0,
       "text": " Fordi så er det jo, altså, Team New vs. Team Head On. Og der er bare kommet nogle indikationer af, den er ikke sikker, men der er kommet nogle indikationer af, hvor den her er landet henne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.0,
       "end": 41.0,
       "text": " Til mit forslag, så vil jeg sige, at vi har faktisk ikke fået lov til at pitche den endnu. Vi gav nogle indikative idéer til, hvad vi ville gøre, og der blev vi jo nødt til at gå en helt anden retning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 42.0,
       "end": 50.0,
       "text": " Så vi har taget jyske sko på, og virkelig gåt jysk, og ikke brugt nogle af de mange marketingflosker, der er, MQL og SQL, der jeg skal give dig nej, vi er gået en helt anden retning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 50.0,
       "end": 52.0,
       "text": " Vi er gået en helt anden retning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 53.0,
       "end": 57.0,
       "text": " Det var måske ikke det rigtige, jeg gør, men på skridt værd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 58.0,
       "end": 67.0,
       "text": " Det er rigtigt nok, at vi havde fordelen af at spille først ud, så det er klart, at det giver jo mulighed for, at jeg lige kan sætte mig på nogle af de centrale ting, som ville være helt oplagt, og så er du nødt til at opfinde den dybe tallerken derfra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 68.0,
       "end": 73.0,
       "text": " Og det var ikke en tallerken, de brød sig om, åbenbart, så tilbage til tegnebrættet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 74.0,
       "end": 78.0,
       "text": " Men det er ikke det, den episode skal handle om. Vi skal snakke om noget helt andet. Content repurposing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 79.0,
       "end": 94.0,
       "text": " Og content repurposing, det handler om at tage det materiale, man allerede har lavet, værdsat webinar, podcastepisoder, whitepapers, alle mulige andre ting, og repurpose, altså genskabe dem eller omskabe dem, til nye, typisk lidt mindre bider, og på den måde at få mere ud af det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

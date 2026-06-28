@@ -9,1823 +9,1827 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 5.0,
       "text": " Halvstand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 5.0,
       "end": 8.0,
       "text": " I den her episode af E-Commerce Summer skal vi snakke om CEO på webshops.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 8.0,
       "end": 15.0,
       "text": " Anledningen er, at du tidligere i dag har været inde og pitche en dansk fashion lifestyle webshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 18.0,
       "text": " Du sendte mig det pitch, du har præsenteret for dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 18.0,
       "end": 22.0,
       "text": " Jeg synes, det var ret fedt, fordi det du gjorde i det, det var, at du gennemgik nogle af de uværende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 22.0,
       "end": 24.0,
       "text": " Det var jeg da glad for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 24.0,
       "end": 26.0,
       "text": " Det kan du da sige. Tak for det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 33.0,
       "text": " Nu er jeg lidt efter dig for at have glemt at købe Meta-aktier og sådan noget, men i det mindste så kunne du lave nogle gode pitches.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 33.0,
       "end": 35.0,
       "text": " Så vinder de godt 30 sekunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 37.0,
       "end": 43.0,
       "text": " Det, der var godt ved det, det var, at du flagger i starten af det nogle af de CEO-problematikker, der er på sitet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 43.0,
       "end": 47.0,
       "text": " Det er lidt mindre åbenløse ting, end I har noindex'et det hele.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 49.0,
       "text": " Det er lidt mere fejnsmækker ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 49.0,
       "end": 53.0,
       "text": " Jeg havde lyst til lige at fremhæve nogle af de ting, der var her, uden at nævne virksomheden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 56.0,
       "text": " Lad os prøve at gennemgå nogle af de udfordringer, det har.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 56.0,
       "end": 61.0,
       "text": " Jeg tror faktisk, at det er ting, som rigtig mange webshops døjer med, uden at tænke over det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 61.0,
       "end": 67.0,
       "text": " Så det første problem, du highlightede, det er, at de har 302 redirects.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.0,
       "end": 69.0,
       "text": " Det første spørgsmål er, hvordan opdager du det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 69.0,
       "end": 72.0,
       "text": " Og det andet spørgsmål er, hvorfor er det her problematisk?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 72.0,
       "end": 76.0,
       "text": " Jeg opdagede det først og fremmest, fordi jeg lå og kiggede rundt inde i HRF.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 76.0,
       "end": 79.0,
       "text": " Jeg skal lige sige, at når jeg starter med at kigge CEO-case igen, vi har selvfølgelig vores faste processor,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 79.0,
       "end": 84.0,
       "text": " men jeg kan også bare tage et fuldstændig helikopterperspektiv på det og se, hvad jeg ser ud fra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 84.0,
       "end": 90.0,
       "text": " Nu har jeg efterhånden set rigtig, rigtig mange af HRF's resultater, baseret på diverse hjemmesider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 90.0,
       "end": 92.0,
       "text": " Så er der et eller andet, der springer mig i øjnene.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 92.0,
       "end": 94.0,
       "text": " Jeg kunne se den her 302'er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 94.0,
       "end": 98.0,
       "text": " En ting af en 302'er, det kan være et issue, men der kan også godt være en mening bag.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 98.0,
       "end": 102.0,
       "text": " Men det her er jo altså på forsiden, men på non-WWW-versionen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 102.0,
       "end": 105.0,
       "text": " Jeg tænkte, det var lige godt. Det var sgu da mærkeligt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 105.0,
       "end": 110.0,
       "text": " Så det vil svare til obsidian.dk 302-redirector til www.obsidian.dk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 110.0,
       "end": 112.0,
       "text": " Ligneragtigt. Og det er så den ene ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 112.0,
       "end": 114.0,
       "text": " Den anden ting er så, og det er jo her, hvor den bliver sådan lidt grald,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 114.0,
       "end": 119.0,
       "text": " det er, at de faktisk har nogle kanon gode links indgående til den her side.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 119.0,
       "end": 123.0,
       "text": " Der er så 302-redirector, hvor det efter sigen jo så ikke skulle give den her link,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 123.0,
       "end": 125.0,
       "text": " fordi i hvert fald ikke lige så meget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 125.0,
       "end": 131.0,
       "text": " Ja, fordi hvad er det, der er med et 302-redirector i forhold til det mere gængse 301-redirector?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 131.0,
       "end": 134.0,
       "text": " Ja, præcis. 302 er temporary redirect.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 134.0,
       "end": 137.0,
       "text": " Der siger vi til Google, at det her, det er bare temporary, altså det er midlertidigt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 137.0,
       "end": 142.0,
       "text": " og vi regner med, at vi får løst det, der nogle gange skal løses, og så er vi tilbage igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 142.0,
       "end": 147.0,
       "text": " Så Google giver ikke den her linkværdi videre, hvorimod en 301 er en permanent,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 147.0,
       "end": 148.0,
       "text": " altså det er en permanent en.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 148.0,
       "end": 152.0,
       "text": " Og her, der bliver linkværdien så alt andet lige totalt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 152.0,
       "end": 155.0,
       "text": " 90% er noget af det, man diskuterer meget i seriemiljøet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 155.0,
       "end": 158.0,
       "text": " men i hvert fald, der bliver linkværdien så ført videre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 158.0,
       "end": 162.0,
       "text": " Det er sådan bare ikke lige nu, og det er bare så ærgerligt, for der var sådan nogle gode links,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 162.0,
       "end": 164.0,
       "text": " altså der var nogle gode domæner, der lå parret ind,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 164.0,
       "end": 168.0,
       "text": " der var nogle store medier, der lå parret ind på den her non-WWW-version,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 168.0,
       "end": 171.0,
       "text": " og det fik man bare ikke fuld valuta for lige nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 171.0,
       "end": 173.0,
       "text": " Jeg tror aldrig, jeg har sat et 302-redirector op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 173.0,
       "end": 174.0,
       "text": " Nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 176.0,
       "text": " Altså er det her ikke næsten kun noget, man gør ved en fejl?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 176.0,
       "end": 178.0,
       "text": " Jo, og jeg kendte heller ikke til det CMS,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 178.0,
       "end": 181.0,
       "text": " og det siger et eller andet, fordi jeg synes, jeg har siddet med langt de fleste CMSer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 181.0,
       "end": 183.0,
       "text": " jeg har simpelthen aldrig hørt om det før,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 183.0,
       "end": 185.0,
       "text": " og jeg tror måske, det her er et eller andet standard i det CMS.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 185.0,
       "end": 190.0,
       "text": " Det er jo desværre ikke altid, at CMS'erne leger med på de vilkår, som CO-folk gerne vil lege med på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 190.0,
       "end": 193.0,
       "text": " Nogle gange, så må man finde kompromierende, og det her er i hvert fald ikke et af kompromierende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 193.0,
       "end": 195.0,
       "text": " Det er simpelthen ikke en løsning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 195.0,
       "end": 197.0,
       "text": " Så ja, dem er du flakket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 197.0,
       "end": 200.0,
       "text": " Den næste ting, du påpeger, det er deres metatitles,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.0,
       "end": 203.0,
       "text": " og metatitles er jo det, der står i søgeresultaterne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 203.0,
       "end": 206.0,
       "text": " Så hvis jeg søger på Facebook-arrangeringen, så vil man på Obsidian se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 206.0,
       "end": 209.0,
       "text": " at vi laver en Facebook-arrangering som metatitle, eller et eller andet af den stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 211.0,
       "text": " Og der påpeger du også nogle udfordringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 211.0,
       "end": 217.0,
       "text": " for et eller andet, at de har skrevet kategorinavn, bindestreg, brandnavn, skråstreg, brandnavn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 217.0,
       "end": 220.0,
       "text": " Det er sådan en fast del af deres metatitlestrategi.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 223.0,
       "text": " Så de har lagt deres brandnavn ind to gange til sidst efter kategorinavnet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 223.0,
       "end": 227.0,
       "text": " hvilket er måske ikke den allerbedste måde, man kunne bruge den plads på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.0,
       "end": 231.0,
       "text": " Nej, altså, jeg spurgte dem, om det var mening, for man skal nogle gange træde lidt varsomt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 231.0,
       "end": 233.0,
       "text": " når man har med brands at gøre, og det var absolut ikke mening.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 233.0,
       "end": 237.0,
       "text": " Men det kunne godt være, man var så glad for sig selv, at man gerne ville nævne sit navn to gange.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 238.0,
       "end": 241.0,
       "text": " Facebook-organisering, op til det her, op til det der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 241.0,
       "end": 243.0,
       "text": " Det var ikke mening. Så det fik vi sådan ligesom ud af verden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 243.0,
       "end": 246.0,
       "text": " og så kunne jeg så gå videre i de ting, jeg havde set,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 246.0,
       "end": 253.0,
       "text": " hvor jeg så siger, at jeg tror, det er en standard indstilling, man har kommet til at sætte til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 253.0,
       "end": 258.0,
       "text": " hvor man så har duplikeret brandnavnet i slutningen af alle metatitler.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 258.0,
       "end": 263.0,
       "text": " Og det er ikke, fordi det nødvendigvis er det største problem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 263.0,
       "end": 266.0,
       "text": " men issuet er bare, at du ikke giver Google de rigtige forudsætninger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 266.0,
       "end": 270.0,
       "text": " du ikke algoritmer de rigtige forudsætninger, du laver egentlig noget lidt duplicate content,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 270.0,
       "end": 274.0,
       "text": " altså det er sådan lidt keyword-stuffing-agtigt, det er bare ikke fedt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 274.0,
       "end": 277.0,
       "text": " Så det var også en af dem, hvor vi undrede os over det, dengang vi så det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 277.0,
       "end": 280.0,
       "text": " og man skal gerne have den igennem, i det her tilfælde brugte vi Screaming Frog,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 280.0,
       "end": 282.0,
       "text": " for du kan ikke se det ud på søgerhjælpslodsætterne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 282.0,
       "end": 289.0,
       "text": " I søgerhjælpslodsætterne der havde Google fjernet den ene gang, at det her brand stod der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 289.0,
       "end": 293.0,
       "text": " Og det viser os også, at Google selv har tænkt, at den går altså ikke den her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 293.0,
       "end": 296.0,
       "text": " Så kan man jo tænke, at så er problemet løst, men det er det jo ikke rigtigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 296.0,
       "end": 300.0,
       "text": " fordi for det første er det ikke fedt, at Google går ind og fjerner det, man rent faktisk har skrevet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 302.0,
       "text": " Det er et problem, hvis vi kommer dertil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 302.0,
       "end": 305.0,
       "text": " Og for det andet, så er det jo et spild af mist opportunity,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 305.0,
       "end": 308.0,
       "text": " fordi der, hvor der stod, i stedet for at stå obsidian og obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 308.0,
       "end": 312.0,
       "text": " så kunne man jo have skrevet fri fragt, obsidian, eller hurtig levering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 313.0,
       "text": " eller betaling med MobilePay,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 313.0,
       "end": 317.0,
       "text": " altså man har jo misset en mulighed for rent faktisk at fremhæve nogle af de USB'er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 317.0,
       "end": 319.0,
       "text": " der er ved shoppen, eller noget differentiering, eller noget pris,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 319.0,
       "end": 321.0,
       "text": " ved bare at klemme brandnavnet ind to gange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 323.0,
       "text": " Så det er ikke et løs af, at Google bare fjerner dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 323.0,
       "end": 324.0,
       "text": " Nej.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 324.0,
       "end": 327.0,
       "text": " Det næste issue, vi så kiggede på i den her forbindelse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 327.0,
       "end": 330.0,
       "text": " det var at tage deres, i det her tilfælde, deres kategorisider,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 330.0,
       "end": 332.0,
       "text": " og så se ud fra metatitlen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 332.0,
       "end": 334.0,
       "text": " Hvad forsøger man egentlig at ranke på?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 334.0,
       "end": 337.0,
       "text": " Altså er metatitlen en rigtig god måde i første omgang at vise Google,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 337.0,
       "end": 338.0,
       "text": " den her underside skal ranke for det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 338.0,
       "end": 341.0,
       "text": " og så vælger man typisk at placere det her søgeord,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 341.0,
       "end": 343.0,
       "text": " eller søgeordene i starten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 343.0,
       "end": 345.0,
       "text": " Og her kan vi bare se, at der var mange af de her kategorisider,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 345.0,
       "end": 348.0,
       "text": " ret vigtige kategorisider, der pegede i to forskellige retninger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 348.0,
       "end": 350.0,
       "text": " Man forsøgte at ranke på to forskellige ting,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 350.0,
       "end": 353.0,
       "text": " og det første, jeg så gjorde, det var at gå ind og kigge på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 353.0,
       "end": 356.0,
       "text": " hvor mange søgninger er der egentlig for de her, i det her tilfælde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 356.0,
       "end": 358.0,
       "text": " to forskellige søgeord.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 358.0,
       "end": 360.0,
       "text": " Der var rimelig meget volume på dem begge to.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 360.0,
       "end": 363.0,
       "text": " Så gik jeg ud på Google og forsøgte at se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 363.0,
       "end": 366.0,
       "text": " det her keyword, lad os bare kalde det keyword nr. 1,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 366.0,
       "end": 368.0,
       "text": " hvordan ser top 10 ud her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 368.0,
       "end": 370.0,
       "text": " Og keyword nr. 2, hvordan ser top 10 ud her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 370.0,
       "end": 371.0,
       "text": " Er de ens?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 371.0,
       "end": 374.0,
       "text": " Så kunne jeg sætte tjekmark ud for, at Google ser det her som det samme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 374.0,
       "end": 377.0,
       "text": " hvilket, så er det fint, at vi går efter dem begge to på samme tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 377.0,
       "end": 380.0,
       "text": " Men tilfældet var, at det var forskellige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 380.0,
       "end": 382.0,
       "text": " Altså, at top 10 var forskellige, og det viser mig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 382.0,
       "end": 384.0,
       "text": " at Google forstår de her to søgtermer som værende forskellige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 384.0,
       "end": 387.0,
       "text": " Så det kan godt være, at man som brand selv ser det som værende det samme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 387.0,
       "end": 389.0,
       "text": " fordi det er jo bare noget, man kalder det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 389.0,
       "end": 392.0,
       "text": " Problemet er bare, at Googles algoritme forstår det som to forskellige ting,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 392.0,
       "end": 394.0,
       "text": " og så skal vi også helst behandle det som to forskellige ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 394.0,
       "end": 397.0,
       "text": " Det gør i hvert fald SEO-spillet meget nemmere for os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 397.0,
       "end": 400.0,
       "text": " Og så kommer det næste problem, det er jo så strukturen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 400.0,
       "end": 402.0,
       "text": " Men det var i hvert fald step 1, det var ligesom at vise,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 402.0,
       "end": 405.0,
       "text": " at I har de her kategorisider, og I forsøger at rank på to forskellige ting,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 405.0,
       "end": 407.0,
       "text": " og det bliver bare aldrig helt godt, kan vi se.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 407.0,
       "end": 409.0,
       "text": " Lad os nu prøve at gå efter de vigtigste server,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " og så lave en ekstra underside til det andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 415.0,
       "text": " Ja, altså det her er et super vigtigt punkt i forhold til strukturen på én site,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 418.0,
       "text": " hvor hvis du forsøger at rank på to server på samme tid,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 419.0,
       "text": " så ender du bare med at rank på ingen af dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 423.0,
       "text": " fordi Google vil vise det mest relevante resultat til en hvilken som helst søgning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 423.0,
       "end": 426.0,
       "text": " Og hvis du bare klimmer flere søgninger ind på det samme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 428.0,
       "text": " så kommer du til at rank på ingen af dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 428.0,
       "end": 430.0,
       "text": " Og det har jo så også en effekt på strukturen det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 432.0,
       "text": " at din anbefaling er, at de simpelthen skal have flere kategorisider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 432.0,
       "end": 433.0,
       "text": " Ja, fuldstændig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " Og vi kan lige hurtigt tage den her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 435.0,
       "end": 438.0,
       "text": " fordi ofte når man snakker med brands, så vil de helst ikke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 438.0,
       "end": 440.0,
       "text": " og det forstår jeg virkelig godt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 440.0,
       "end": 442.0,
       "text": " ikke putte for mange kategorisider ind på menulinjen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 442.0,
       "end": 444.0,
       "text": " Altså man får nærmest sådan helt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 444.0,
       "end": 446.0,
       "text": " åh nej, vi skal ikke have flere links ind i pakket,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 446.0,
       "end": 448.0,
       "text": " det bliver for rådet, og det er ikke on brand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 448.0,
       "end": 450.0,
       "text": " Og det behøver man faktisk heller ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 450.0,
       "end": 451.0,
       "text": " Man kan godt komme udenom det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 451.0,
       "end": 454.0,
       "text": " altså man lægger simpelthen de her undersider et andet sted på siten,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 454.0,
       "end": 455.0,
       "text": " man skal stadigvæk linke til dem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 455.0,
       "end": 457.0,
       "text": " ellers så ender de som orphan pages,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 457.0,
       "end": 459.0,
       "text": " hvor der ikke kommer interne links, det skal vi ikke ud i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " Men ved at f.eks. lave et orphan pages,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 461.0,
       "end": 463.0,
       "text": " det er jo forældreløse sider,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " som er sådan et lidt sindssygt begreb, man bruger i SEO-verdenen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " for sider, der ikke har nogen indgående links,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 469.0,
       "text": " så er det en orphan, en forældreløs side.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 469.0,
       "end": 471.0,
       "text": " Det er sådan et helt accepteret begreb, orphan pages.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 471.0,
       "end": 473.0,
       "text": " Ja, vi slynger det bare afsted i SEO-verdenen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 473.0,
       "end": 475.0,
       "text": " uden egentlig at tænke over, hvad det egentlig er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 475.0,
       "end": 477.0,
       "text": " Sindssygt, vi kalder det det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 477.0,
       "end": 479.0,
       "text": " Og det kan man komme udenom.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 479.0,
       "end": 481.0,
       "text": " Det kan man komme udenom på forskellige måder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Men det gør bare,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 483.0,
       "end": 485.0,
       "text": " at så kan man pludselig begynde at ranke på de her kategorisider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 485.0,
       "end": 487.0,
       "text": " Og i sidstende, så handler det om at få de her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 487.0,
       "end": 489.0,
       "text": " de rette besøgende ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 489.0,
       "end": 491.0,
       "text": " Og så er der noget visuelt på siden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " og så må man gå på kompromis SEO-mæssigt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 493.0,
       "end": 495.0,
       "text": " og finde andre løsninger. Det kan man løse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 495.0,
       "end": 497.0,
       "text": " Og det var faktisk det, som blev konklusionen her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 497.0,
       "end": 499.0,
       "text": " at det skulle vi gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 499.0,
       "end": 501.0,
       "text": " En fed ting, du lige har noteret i patchet i øvrigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 503.0,
       "text": " det er, at det her er jo faktisk også en fordel for Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " Hvordan hænger det sammen?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 507.0,
       "end": 509.0,
       "text": " Google Ads skal jo sættes op på mange forskellige måder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 509.0,
       "end": 511.0,
       "text": " Og for at tage et konkret eksempel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 511.0,
       "end": 513.0,
       "text": " så kan man",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 513.0,
       "end": 515.0,
       "text": " typisk godt lide at lave et lidt granulært setup,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 515.0,
       "end": 517.0,
       "text": " i hvert fald, hvor man går efter de enkelte keywords",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 517.0,
       "end": 519.0,
       "text": " i hver sin annoncegruppe.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 519.0,
       "end": 521.0,
       "text": " Nogen kan bedre lide at konsolidere det. Det er religionsspørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 521.0,
       "end": 523.0,
       "text": " Men her gør man det i hvert fald markant nemmere",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " for sig selv at få en høj quality score,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 525.0,
       "end": 527.0,
       "text": " hvor man højst sandsynlig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 527.0,
       "end": 529.0,
       "text": " i hvert fald gør det mere sandsynligt for en selv,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 529.0,
       "end": 531.0,
       "text": " at vinde de her auktioner til nogle gode priser.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 531.0,
       "end": 533.0,
       "text": " Næste brugscase her, det er,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 533.0,
       "end": 535.0,
       "text": " hvor man kører DSA-kampagner,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " det vil sige Dynamic Search Ads,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 537.0,
       "end": 539.0,
       "text": " hvor man klikker og crawler siden og finder ud af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 539.0,
       "end": 541.0,
       "text": " at det her søgeord, hvad kan vi matche det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 541.0,
       "end": 543.0,
       "text": " Altså hvilken landingside fra webshoppen kan vi matche det med?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " Der gør vi det bare 10 gange nemmere",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 545.0,
       "end": 547.0,
       "text": " og giver Google et langt bedre søgeresultat",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " og viser det til brugeren, når vi splitter det ud",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " og gør det meget, meget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 551.0,
       "end": 553.0,
       "text": " nærmest sådan helt OCD-dejligt med strukturen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 553.0,
       "end": 555.0,
       "text": " Der har vi lidt spøgse og søgefolk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 555.0,
       "end": 557.0,
       "text": " men det kan bare hjælpe os over på Google Ads-fonden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 557.0,
       "end": 559.0,
       "text": " Ret markant.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " Det næste, du kom ind på, det var deres kategoriseder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " fordi rigtig mange af dem led",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 567.0,
       "text": " under faktisk nærmest ingen tekster her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 569.0,
       "text": " Så der er en titel, og så er alle produkterne der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " og så er det der rent faktisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 573.0,
       "text": " Og det er jo, man kan sige, det er meget minimalistisk og pænt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 573.0,
       "end": 575.0,
       "text": " Hvorfor er det en udfordring,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " ikke at have nogen tekst på ens kategorier",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 579.0,
       "text": " og faktisk også ens produkter?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 579.0,
       "end": 581.0,
       "text": " Det er jo et issue, fordi Google's crawler",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 581.0,
       "end": 583.0,
       "text": " skal have et eller andet, der lever af det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 583.0,
       "end": 585.0,
       "text": " Den spiser de her tekster.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 585.0,
       "end": 587.0,
       "text": " Når den her lille spider kommer rundt på hjemmesiderne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 587.0,
       "end": 589.0,
       "text": " så skal den gerne kunne forstå,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 589.0,
       "end": 591.0,
       "text": " hvad enkelt undersøger, hvad er det, den skal ranke",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 591.0,
       "end": 593.0,
       "text": " den her undersøge for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 593.0,
       "end": 595.0,
       "text": " Den spiser titlen igen i en tekst,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 595.0,
       "end": 597.0,
       "text": " den er godt nok lille, kigger på selve siden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 597.0,
       "end": 599.0,
       "text": " Den er begyndt at kigge på billeder",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 599.0,
       "end": 601.0,
       "text": " og kan nogenlunde forstå billeder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 601.0,
       "end": 603.0,
       "text": " men teksten er bare der, hvor vi virkelig kan",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 603.0,
       "end": 605.0,
       "text": " styre Google i en eller anden form for retning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 605.0,
       "end": 607.0,
       "text": " Altså virkelig fortælle algoritmen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 607.0,
       "end": 609.0,
       "text": " det er det her, vi gerne vil ranke på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 609.0,
       "end": 611.0,
       "text": " Og hvis ikke man har de her tekster,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 611.0,
       "end": 613.0,
       "text": " så er man altså bare bagud, og man gør det bare svært for sig selv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 613.0,
       "end": 615.0,
       "text": " Og det viser sig i det her tilfælde her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 615.0,
       "end": 617.0,
       "text": " at det var netop noget brandmæssigt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 617.0,
       "end": 619.0,
       "text": " Det så ikke så godt ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 619.0,
       "end": 621.0,
       "text": " Og der kan man gå på kompromiser på forskellige måder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 621.0,
       "end": 623.0,
       "text": " men hvor alting er, så er det bare vigtigt at få noget content ind på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " de her landingssider her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 625.0,
       "end": 627.0,
       "text": " de her kategorisider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 627.0,
       "end": 629.0,
       "text": " Den sidste ting, du fremhavde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " i rapporten i denne her omgang,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 633.0,
       "text": " det var, at de havde en del virkelig stærke links,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 633.0,
       "end": 635.0,
       "text": " som linkede ind til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 637.0,
       "text": " 404-sider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 637.0,
       "end": 639.0,
       "text": " Samme spørgsmål her, hvordan fandt du frem til det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " Hvorfor er det et problem, og hvad gør man rent faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 641.0,
       "end": 643.0,
       "text": " for at løse det? Hvordan tjekker man, om man selv har det her problem?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 645.0,
       "text": " Jamen, det er jo på to forskellige måder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 645.0,
       "end": 647.0,
       "text": " Den ene, det var via HRF, så gå ind og kigge på deres",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 647.0,
       "end": 649.0,
       "text": " backlinks, og så simpelthen filtrere efter",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 649.0,
       "end": 651.0,
       "text": " statuskoden 404, og se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " hvad det er, at HRF har fundet ud af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " at der ligger backlinks derude på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " World Wide Web, og som peger ind",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " på de her 404-sider. Det var den ene måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 659.0,
       "end": 661.0,
       "text": " Og den anden måde, det er at lave sådan en reverse-analyse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 661.0,
       "end": 663.0,
       "text": " hvor vi går ind på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 663.0,
       "end": 665.0,
       "text": " Screaming Frog, sorterer efter statuskoder",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 665.0,
       "end": 667.0,
       "text": " på alle undersiderne på hjemmesiderne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 667.0,
       "end": 669.0,
       "text": " og siger, okay, alle de her 404-sider, dem smækker vi",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 669.0,
       "end": 671.0,
       "text": " så igen ind i HRF,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 671.0,
       "end": 673.0,
       "text": " for at se, er der nogle lækre links,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " der kommer ind på de her undersider her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " hvor vi ligger med 404-sider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 677.0,
       "end": 679.0,
       "text": " Det er bare super ærgerligt at ligge med den her 404-side,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 679.0,
       "end": 681.0,
       "text": " fordi, jo,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 681.0,
       "end": 683.0,
       "text": " det giver noget link-værdi,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 683.0,
       "end": 685.0,
       "text": " men det er bare slet ikke, altså det kunne give så meget mere værdi",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 685.0,
       "end": 687.0,
       "text": " ved, at man redirecter med 301-redirect,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 687.0,
       "end": 689.0,
       "text": " ikke 302, for guds skyld, ikke 302,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 689.0,
       "end": 691.0,
       "text": " men med 301-redirect over til",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 691.0,
       "end": 693.0,
       "text": " den rette kategorisider. Der kan være",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 693.0,
       "end": 695.0,
       "text": " gode grunde til, at man har fjernet nogle undersider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 695.0,
       "end": 697.0,
       "text": " Det er bare rigtig god hygiejne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 697.0,
       "end": 699.0,
       "text": " altså det er rigtig godt hygiejnemæssigt at lave et",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 699.0,
       "end": 701.0,
       "text": " 301-redirect hen til en anden",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 701.0,
       "end": 703.0,
       "text": " underside, som er relevant,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 703.0,
       "end": 705.0,
       "text": " og det er jo så også en måde at få fuld",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 705.0,
       "end": 707.0,
       "text": " udbytte af sin link-bilding. Vis os så frem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 707.0,
       "end": 709.0,
       "text": " at man er længst, der går ind på de her 404-sider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 709.0,
       "end": 711.0,
       "text": " Jeg har lige taget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 711.0,
       "end": 713.0,
       "text": " obsidian.dk i Agrefs",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 713.0,
       "end": 715.0,
       "text": " og gået ind under Broken Backlegs,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 715.0,
       "end": 717.0,
       "text": " hvor jeg kan se, at vi har nogle,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 717.0,
       "end": 719.0,
       "text": " jeg kan se, at vi skal ind og lave en redirect.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 721.0,
       "end": 723.0,
       "text": " Det er det, det kan jeg konstatere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 723.0,
       "end": 725.0,
       "text": " at der er nogle meget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 725.0,
       "end": 727.0,
       "text": " fine sider, blandt andet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 727.0,
       "end": 729.0,
       "text": " TrendsOnline, HeyLoyalty.com,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 729.0,
       "end": 731.0,
       "text": " BizUp.dk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 731.0,
       "end": 733.0,
       "text": " et Amazon-temasite, som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 733.0,
       "end": 735.0,
       "text": " har været søde at linke til os på sider,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 737.0,
       "text": " som vi bare har fjernet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 737.0,
       "end": 739.0,
       "text": " De linker bare ind direkte med 404.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 741.0,
       "end": 743.0,
       "text": " Det er jeg glad for, at jeg kunne finde ud af her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 743.0,
       "end": 745.0,
       "text": " onsdag aften kl. 21.40,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 747.0,
       "text": " fordi så ved jeg, hvad jeg skal lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 747.0,
       "end": 749.0,
       "text": " Tak for det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 749.0,
       "end": 751.0,
       "text": " Så jeg tror bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 751.0,
       "end": 753.0,
       "text": " jeg vil afslutte episoden her, og så gå ind og",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 753.0,
       "end": 755.0,
       "text": " redirect nogle sider på obsidian.dk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 757.0,
       "text": " Tak.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 757.0,
       "end": 759.0,
       "text": " Tak for i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

@@ -9,1793 +9,1797 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 11.0,
       "text": " Christian, i den her episode skal vi tale værdien af mine Shopify-aktier op som den største beholdning i min personlige portefølge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 15.0,
       "text": " Men med et par dårlige dage har vi brug for at få flere folk til at bruge Shopify.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 19.0,
       "text": " De fleste af vores e-commerce-kunder bruger allerede Shopify. Det er det mest brugtige system i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.0,
       "end": 25.0,
       "text": " Derfor tillader jeg, at vi også laver en dedikeret episode til fem af de Shopify-apps, vi bruger til dagligt på tværs af rigtig mange kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 31.0,
       "text": " Det kan være, at du kender nogle af dem. Det kan også være, at der er en enkelt eller to, du ikke gør, som kan give dig inspiration til, hvordan du kan få mere ud af alle dine besøgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 31.0,
       "end": 33.0,
       "text": " Skal vi ikke bare gå ud med den første?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 33.0,
       "end": 45.0,
       "text": " Jo, den første er appen Lifetimely. Det er i bund og grund en app, der hjælper dig med at analysere kundenes handelsmønstre, cohorts, lifetime value, purchase journey osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 46.0,
       "end": 48.0,
       "text": " For at give et eksempel på, hvordan vi bruger det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 48.0,
       "end": 58.0,
       "text": " Vi har en case, hvor vi har analyseret de her kunder, der går fra at være nye kunder, dvs. de har lagt den første ordre, og går til anden ordre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 58.0,
       "end": 63.0,
       "text": " Hvor stor en procentdel af alle kunderne gør det, og inden for hvilken tidsperiode?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 63.0,
       "end": 65.0,
       "text": " Det giver os et svar.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.0,
       "end": 71.0,
       "text": " Dernæst går vi ned og kigger på, hvor stor en procentdel går fra at være kunder to gange til tre gange.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 71.0,
       "end": 75.0,
       "text": " De køber simpelthen én gang til, op på tredje ordre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 75.0,
       "end": 79.0,
       "text": " Der kan vi bare se, at procentsatsen er ekstremt høj.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 79.0,
       "end": 87.0,
       "text": " Det, det fortæller os, er at hvis vi kan få kunderne til at lægge ordre nummer to, så har vi dem i forretningen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 87.0,
       "end": 89.0,
       "text": " Så kommer de igen, og de kommer igen, og de kommer igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 89.0,
       "end": 92.0,
       "text": " Det er nogle af de her ting, som Lifetimely kan hjælpe os med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 92.0,
       "end": 99.0,
       "text": " Der har vi lavet indsats for at se, hvordan vi får så mange kunder som overhovedet muligt til at lægge ordre fra første til anden gang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 99.0,
       "end": 103.0,
       "text": " Vores problem er ikke lige nu at få dem fra anden ordre til tredje, til fjerde, til femte.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 103.0,
       "end": 105.0,
       "text": " Det har vi en rigtig fin styr på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 105.0,
       "end": 107.0,
       "text": " Det er fra første til anden ordre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 107.0,
       "end": 109.0,
       "text": " Hvis først vi kan låse den op, så er der noget at hente.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 109.0,
       "end": 112.0,
       "text": " Det er bare et af mange eksempler, som Lifetimely kan bruges til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 112.0,
       "end": 114.0,
       "text": " Man kan også godt se purchase journey.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 114.0,
       "end": 119.0,
       "text": " For eksempel, når folk har købt X først, hvad køber de så dernæst?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 119.0,
       "end": 121.0,
       "text": " Hvad er de mest tilbøjelige til at købe bagefter?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 121.0,
       "end": 123.0,
       "text": " Ud fra det laver vi så vores e-mail flows.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 123.0,
       "end": 126.0,
       "text": " Vi ser, om der er noget, vi har misset i forhold til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 126.0,
       "end": 129.0,
       "text": " Har vi de rigtige produktpakker på hjemmesiden?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 129.0,
       "end": 135.0,
       "text": " Er der noget, vi burde bundle sammen for at øge average order value?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 135.0,
       "end": 140.0,
       "text": " Det er ekstremt værdifuldt at kende til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 140.0,
       "end": 146.0,
       "text": " Jeg skal lige skynde mig at sige, at Lifetimely er en app, som du kan bruge ekstremt mange timer henne i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 146.0,
       "end": 148.0,
       "text": " Det er næsten svært at begrænse sig selv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 148.0,
       "end": 153.0,
       "text": " De har selv lavet nogle tabs derinde, som man kan følge.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 153.0,
       "end": 157.0,
       "text": " Hvor man kommer igennem de aller vigtigste punkter for en webshop.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 157.0,
       "end": 160.0,
       "text": " Det vil jeg bare anbefale at starte ud med, for ellers bliver det noget værre råd.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 160.0,
       "end": 162.0,
       "text": " Der er nogle alternativer derude i dag.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 162.0,
       "end": 164.0,
       "text": " Noget profit matrix, noget reaktion.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 164.0,
       "end": 167.0,
       "text": " Jeg har ikke oplevet, at det kan det helt det samme som Lifetimely.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 167.0,
       "end": 169.0,
       "text": " Hvor den bare går ind og integrerer med det samme.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 169.0,
       "end": 172.0,
       "text": " Med Shopify butikker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 172.0,
       "end": 174.0,
       "text": " Har du brugt Lifetimely før?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 174.0,
       "end": 176.0,
       "text": " Jeg kan faktisk ikke huske, om vi har snakket om Lifetimely to sammen før.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 176.0,
       "end": 178.0,
       "text": " Jeg har også brugt Lifetimely.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 180.0,
       "text": " Det jeg har brugt den til, det har faktisk været et lidt andet kontekst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 180.0,
       "end": 182.0,
       "text": " Alt det her, det giver også god mening.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 182.0,
       "end": 185.0,
       "text": " Men det jeg har brugt den til, det er nogle gange at arbejde sammen med virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.0,
       "end": 187.0,
       "text": " som laver nogle særlige promotions.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.0,
       "end": 189.0,
       "text": " Det kan være for eksempel en liveshopping.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 189.0,
       "end": 192.0,
       "text": " Hvor man sætter en rabatsats på og får en masse nye kunder ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 196.0,
       "text": " Eller det kan være, at man kører et produkt, som er meget nedsat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 196.0,
       "end": 198.0,
       "text": " 80% på det her introprodukt, eller et eller andet af den stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 198.0,
       "end": 202.0,
       "text": " Som man taber penge på isoleret, men med henblik på at folk synes, at de skal købe anden gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 202.0,
       "end": 204.0,
       "text": " Og der har vi brugt kohortværktøjet inden i Lifetimely til at se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 204.0,
       "end": 206.0,
       "text": " at de kunder, vi fik ind via den her kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 206.0,
       "end": 208.0,
       "text": " udvikler deres livsstøds, fordi så,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 208.0,
       "end": 210.0,
       "text": " ligesom vi havde forventet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 210.0,
       "end": 214.0,
       "text": " Fordi hvis vi nu, lad os sige, får en masse kunder ind via en Facebook live,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 214.0,
       "end": 216.0,
       "text": " hvor der er lavet en stor rabatsats,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 216.0,
       "end": 219.0,
       "text": " så det isolerer måske ikke en særlig god forretning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 219.0,
       "end": 222.0,
       "text": " Men hvis de så køber tre gange mere, så kan det være en super god forretning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 222.0,
       "end": 224.0,
       "text": " Og der har vi brugt kohortanalyseværktøjet til rent faktisk at verificere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 226.0,
       "text": " om det så har været en god forretning eller ej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 228.0,
       "text": " Og det er faktisk den usecase, jeg kender det allermest for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 229.0,
       "end": 231.0,
       "text": " Lad os tage værktøjen nummer to.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 231.0,
       "end": 233.0,
       "text": " Det hedder Grapevine Surveys,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 233.0,
       "end": 236.0,
       "text": " og er et post-purchase-survey-værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 236.0,
       "end": 238.0,
       "text": " Hvorfor skal man bruge det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 238.0,
       "end": 240.0,
       "text": " Jamen det er enormt interessant med det her zero-party-data,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 240.0,
       "end": 243.0,
       "text": " altså hvor du får data direkte fra kunden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 243.0,
       "end": 246.0,
       "text": " Og bare for at give lidt kontekst til, hvad appen kan.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 246.0,
       "end": 249.0,
       "text": " Forestil jer, at man går igennem checkout-fasen som kunde i en Shopify-shop,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 249.0,
       "end": 251.0,
       "text": " og du har skrevet kortoplysninger med videre ind,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 251.0,
       "end": 253.0,
       "text": " og orden er gået igennem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 253.0,
       "end": 255.0,
       "text": " Så du sætter ikke din ordre i fare, hvis der er nogen, der sidder og tænker på det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 255.0,
       "end": 258.0,
       "text": " Det er ikke, fordi du afbryder checkout-processen her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 258.0,
       "end": 261.0,
       "text": " På thank you-pagen, hvor der står tak for din ordre,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 261.0,
       "end": 263.0,
       "text": " du modtager nu din ordrebekræftelse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 263.0,
       "end": 265.0,
       "text": " der kommer den her app simpelthen frem med sådan et spørgeskema,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 265.0,
       "end": 268.0,
       "text": " hvor du lige kan bede folk om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 268.0,
       "end": 271.0,
       "text": " om de har lige 30 sekunder til at svare på nogle spørgsmål,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 271.0,
       "end": 273.0,
       "text": " og så kan du så stille dine spørgsmål op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 273.0,
       "end": 275.0,
       "text": " Det, der er sindssygt fedt ved det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 275.0,
       "end": 277.0,
       "text": " det er, at med Grapevine Surveys,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 277.0,
       "end": 279.0,
       "text": " der findes mange andre apps derude også.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 279.0,
       "end": 281.0,
       "text": " Det her var det billigere alternativ, som rent faktisk kunne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 281.0,
       "end": 283.0,
       "text": " det vi gerne ville.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 283.0,
       "end": 285.0,
       "text": " At differentiere mellem førstegangs kunder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 285.0,
       "end": 287.0,
       "text": " altså helt nye kunder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 287.0,
       "end": 289.0,
       "text": " og dem, der kommer igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 289.0,
       "end": 291.0,
       "text": " Det er det, vi i første omgang gerne havde ville prøve at",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 291.0,
       "end": 293.0,
       "text": " differentiere igennem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 293.0,
       "end": 295.0,
       "text": " Og så kan vi stille spørgsmål til hver af dem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 295.0,
       "end": 297.0,
       "text": " Og noget af det, vi blandt andet har stillet spørgsmål til",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 297.0,
       "end": 299.0,
       "text": " overfor de her kunder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 299.0,
       "end": 301.0,
       "text": " det er, hvor er det, de senest har hørt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 301.0,
       "end": 303.0,
       "text": " omkring den givende forretning hen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 303.0,
       "end": 305.0,
       "text": " Og vi ved selvfølgelig godt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 305.0,
       "end": 307.0,
       "text": " det er enormt biased, og det er ikke alle, der kan huske det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 307.0,
       "end": 309.0,
       "text": " men det giver faktisk nogle ekstremt, ekstremt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 309.0,
       "end": 311.0,
       "text": " brugbare informationer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 311.0,
       "end": 313.0,
       "text": " Og vi ved, når vi snakker med kon-kollegaer derude,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 313.0,
       "end": 315.0,
       "text": " at der faktisk er forretninger med rigtig stor natspænd,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 315.0,
       "end": 317.0,
       "text": " der decideret bruger det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 317.0,
       "end": 319.0,
       "text": " som ikke er 100% antiprofessionsmodel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 319.0,
       "end": 321.0,
       "text": " men i hvert fald en stor del af deres antiprofessionsmodel",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 321.0,
       "end": 323.0,
       "text": " i forhold til, hvor er det egentlig, de sender pengene hen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 323.0,
       "end": 325.0,
       "text": " Og også fordi det, der er fedt ved den her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 325.0,
       "end": 327.0,
       "text": " det er, at en normal antiprofession på Facebook",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 327.0,
       "end": 329.0,
       "text": " eller Google eller hvad den nu skal være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 329.0,
       "end": 331.0,
       "text": " det vil jo vise, hvad har folk klikket på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 331.0,
       "end": 333.0,
       "text": " Men det, de har klikket på er ikke nødvendigvis det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 333.0,
       "end": 335.0,
       "text": " der har overtalt dem eller overbevist dem om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 335.0,
       "end": 337.0,
       "text": " at de skal købe et givende produkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 337.0,
       "end": 339.0,
       "text": " Det var bare en del af kunderejsen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 339.0,
       "end": 341.0,
       "text": " det var bare ikke en udslagsgivende del,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 341.0,
       "end": 343.0,
       "text": " men det kan man ikke se. Man kan bare konstatere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 343.0,
       "end": 345.0,
       "text": " om der er et klik eller ej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 345.0,
       "end": 347.0,
       "text": " I vores episode om YouTube her på MarketingPod,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 347.0,
       "end": 349.0,
       "text": " der snakkede vi også om, at YouTube er en svær",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 349.0,
       "end": 351.0,
       "text": " kanal at måle salg på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 351.0,
       "end": 353.0,
       "text": " fordi man ser YouTubes annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.0,
       "end": 355.0,
       "text": " inden man skal ind og se en anden video,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 357.0,
       "text": " så man vil typisk ikke være særlig tilbøjelig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 357.0,
       "end": 359.0,
       "text": " til rent faktisk at klikke sig væk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 359.0,
       "end": 361.0,
       "text": " Men der nævnte jeg et eksempel med en shop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 361.0,
       "end": 363.0,
       "text": " det er en dansk fashion shop, som kørte en post-purchase survey",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 363.0,
       "end": 365.0,
       "text": " på deres website, hvor der var mange flere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 365.0,
       "end": 367.0,
       "text": " der svarede YouTube som årsagen til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 367.0,
       "end": 369.0,
       "text": " at de købte, inden de kunne måle via klik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 371.0,
       "text": " Det var, fordi folk gik bare ind og googlede brandet efterfølgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 371.0,
       "end": 373.0,
       "text": " Så det var YouTube, der skabte salget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 375.0,
       "text": " Folk klikkede bare ikke på YouTube-annonsen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 375.0,
       "end": 377.0,
       "text": " Så det kan give en mere kvalificeret",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 377.0,
       "end": 379.0,
       "text": " eller kvalitativ frem for kvantitativ tilgang",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 381.0,
       "text": " til attribution, som man kan lære enormt meget af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 383.0,
       "text": " Og så vil jeg lige nævne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 383.0,
       "end": 385.0,
       "text": " hvis man allerede betaler for sleeknot,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 385.0,
       "end": 387.0,
       "text": " så har jeg lavet det i det værktøj tidligere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 387.0,
       "end": 389.0,
       "text": " som også har fungeret superfint, så laver man en sleeknot,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 391.0,
       "text": " sætter trigger ind til, at den kun vises på purchase-siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 391.0,
       "end": 393.0,
       "text": " og så kan du lave den her måske endnu nemmere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 393.0,
       "end": 395.0,
       "text": " hvis man har det værktøj i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 397.0,
       "text": " Lad os have det næste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 397.0,
       "end": 399.0,
       "text": " Det er en app, der hedder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 399.0,
       "end": 401.0,
       "text": " EG Auto Add to Cart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 403.0,
       "text": " Den kendte jeg ikke i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 403.0,
       "end": 405.0,
       "text": " Hvad har du brugt den til?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 405.0,
       "end": 407.0,
       "text": " Ja, lige præcis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 407.0,
       "end": 409.0,
       "text": " EG står for Easy Gift Add to Cart.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " Helt basalt ligger den automatisk produkter i kurven",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " ud fra opsatte regler.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 413.0,
       "end": 415.0,
       "text": " Og det, vi har haft stor held med at bruge den til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 415.0,
       "end": 417.0,
       "text": " det er, når vi kører en kampagne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 417.0,
       "end": 419.0,
       "text": " hvor hvis du køber X,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 419.0,
       "end": 421.0,
       "text": " så kan du komme med i kurven automatisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 421.0,
       "end": 423.0,
       "text": " Tidligere, altså før",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 423.0,
       "end": 425.0,
       "text": " Shopify var stort,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 425.0,
       "end": 427.0,
       "text": " og man havde nogle af de tungere",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 427.0,
       "end": 429.0,
       "text": " shop-systemer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 429.0,
       "end": 431.0,
       "text": " der skulle man enten have kunden til at gå ind",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 431.0,
       "end": 433.0,
       "text": " aktivt på produktet, som kostede",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " 0 kroner, for så ligger den i kurven også.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 435.0,
       "end": 437.0,
       "text": " Og det var det bare ikke alle kunder, der forstod.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 437.0,
       "end": 439.0,
       "text": " Her har du faktisk en app,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " hvor du kan gå ind og sige, at når folk har lagt den her i kurven,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " så skal det her ekstra produkt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " som er gratis, komme frem",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 445.0,
       "end": 447.0,
       "text": " automatisk i kurven.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 447.0,
       "end": 449.0,
       "text": " Og det er bare med til at gøre",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 449.0,
       "end": 451.0,
       "text": " de her kampagner, vi nu engang kører,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " noget mere smooth.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " Super fedt værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 455.0,
       "end": 457.0,
       "text": " Den næste, vi har på listen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 457.0,
       "end": 459.0,
       "text": " det er et, der hedder Stamped Product Reviews",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " and UGC, og det her, det er en af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 461.0,
       "end": 463.0,
       "text": " de bedste ting, man kan gøre for ens kommenteringsrate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " Værktøjet eller appen hjælper med",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " automatisk at indsamle produktanmeldelser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 469.0,
       "text": " og det er altså også med mulighed for at indsamle billeder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 469.0,
       "end": 471.0,
       "text": " og videoer fra kunder, og jeg kan komme med et konkret eksempel på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 471.0,
       "end": 473.0,
       "text": " hvordan det hjælper mig en kunderejse for nødvendigt, fordi",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 475.0,
       "text": " til en minut har jeg været nede i min kælder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 475.0,
       "end": 477.0,
       "text": " og min kælder indeholder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 477.0,
       "end": 479.0,
       "text": " en hel masse",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 479.0,
       "end": 481.0,
       "text": " vægtløftningsudstyr.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Det er utroligt, at jeg ikke er større,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 483.0,
       "end": 485.0,
       "text": " hvor effektivt det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 485.0,
       "end": 487.0,
       "text": " Du kan byde og hugge med cyklen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " Jeg er nået til det punkt i min kælder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 495.0,
       "text": " hvor jeg har købt de ting, jeg skal bruge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 495.0,
       "end": 497.0,
       "text": " Jeg har bænkpres, jeg har squat,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 497.0,
       "end": 499.0,
       "text": " jeg har en del, altså jeg er begyndt at købe",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 501.0,
       "text": " unødvendige ting. Jeg er begyndt at købe",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 503.0,
       "text": " tilforhold til zonesanlægget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " og for nylig er jeg begyndt at købe lys,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " som pulserer i takt til musikken,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 509.0,
       "text": " og der er vi jo derude, hvor det har absolut ingen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.0,
       "end": 511.0,
       "text": " indvirkning på, hvor meget jeg kommer til at løfte det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 511.0,
       "end": 513.0,
       "text": " men det ser fedt ud. Og da jeg skulle",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 513.0,
       "end": 515.0,
       "text": " købe det her lys, der danser til musikken,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 515.0,
       "end": 517.0,
       "text": " der endte jeg på et Shopify-webshop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 517.0,
       "end": 519.0,
       "text": " en dansk Shopify-webshop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 519.0,
       "end": 521.0,
       "text": " hvor de havde et produkt, der hed LED-lys,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 521.0,
       "end": 523.0,
       "text": " og der stod noget om, at det kunne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " der havde været noget mikrofon, så den gør, at den kan lytte,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 525.0,
       "end": 527.0,
       "text": " eller hvad, jeg ved ikke, hvordan den gør det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 527.0,
       "end": 529.0,
       "text": " Men på det billede, der var, der havde jeg svært ved at se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 531.0,
       "text": " er det her en bordlampe, som fylder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 531.0,
       "end": 533.0,
       "text": " 10 centimeter, eller går den en meter op?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 533.0,
       "end": 535.0,
       "text": " Jeg havde svært ved at visualisere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " det her for mig. Og de havde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 539.0,
       "text": " to ting, der hjalp mig enormt meget. For det første havde de",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 539.0,
       "end": 541.0,
       "text": " en AR-mulighed, så jeg kunne faktisk tage den på telefonen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 541.0,
       "end": 543.0,
       "text": " og placere den nede i kælderen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " For det andet havde de billeder fra alle dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 545.0,
       "end": 547.0,
       "text": " der havde købt det, eller ikke alle sammen, men de havde billeder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " fra folk, der havde købt det, som havde lavet anmeldelser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " og taget billeder af, hvordan de brugte det i deres",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 553.0,
       "text": " eget setup. Og det var det, der overtaget mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 555.0,
       "text": " Fordi produktbilledet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 555.0,
       "end": 557.0,
       "text": " var fritlagt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 557.0,
       "end": 559.0,
       "text": " og det viste ikke i aktion, og det lignede alle andre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " lamper. Men da jeg kunne se brugernes",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " egne billeder, som de havde uploadet i deres",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " anmeldelser, og se, hvordan de havde brugt dem. Det var så",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 567.0,
       "text": " primært streamers, som brugte det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 569.0,
       "text": " i deres computersetup for at få nogle fede farver",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " på deres streamingsetup.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 573.0,
       "text": " Men alligevel, det bekræftede for mig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 573.0,
       "end": 575.0,
       "text": " at ja, det er lige præcis det her, jeg leder efter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " Så i det her tilfælde, der var det faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 579.0,
       "text": " billederne, som andre brugere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 579.0,
       "end": 581.0,
       "text": " havde uploadet, som gjorde to ting for mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 581.0,
       "end": 583.0,
       "text": " Det ene var, at det bekræftede, at det var det produkt, jeg ledte efter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 583.0,
       "end": 585.0,
       "text": " Og for det andet, synes jeg, at det var enormt troværdigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 585.0,
       "end": 587.0,
       "text": " fordi det var en webshop, jeg ikke kendte. Jeg kendte ikke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 589.0,
       "text": " navnet på den. Og på Trustpile kunne jeg se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 591.0,
       "text": " at den havde kun 20 anmeldelser, så det var sikkert en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 593.0,
       "text": " ny webshop, og 99% af dem er jo",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 595.0,
       "text": " fine nok, men jeg var stadig lige, altså",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 597.0,
       "text": " er det her en falsk shop, hvor jeg er ved at blive snydt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 599.0,
       "text": " Og der var brugernes eget materiale, hvor",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 599.0,
       "end": 601.0,
       "text": " jeg kunne se, at det var produktet fra shoppen, der var",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 601.0,
       "end": 603.0,
       "text": " uploadet, var sådan noget af det, der bidrog til at, jeg tænkte, yes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 605.0,
       "text": " den er god, jeg køber det her indenfor. Og nu har du set",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 607.0,
       "text": " lamperne nede i et eller andet fremragende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 616.0,
       "text": " Ja, og det, der er fedt ved den, det er, at den kører automatisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 616.0,
       "end": 618.0,
       "text": " Altså hver gang, der er nogen, der har lagt den i orden, så kan du sætte",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 618.0,
       "end": 620.0,
       "text": " dine egne regler op, eller du kan bruge de premade regler, der er derinde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 620.0,
       "end": 622.0,
       "text": " hvor den så sender en mail ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 622.0,
       "end": 624.0,
       "text": " Om ikke vedkommende vil give en anmeldelse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " eller uploade et billede, eller en video.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 626.0,
       "end": 628.0,
       "text": " Og det er jo sådan nogle ting, som",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 628.0,
       "end": 630.0,
       "text": " man bare burde gøre, men man får da aldrig rigtig gjort.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 630.0,
       "end": 632.0,
       "text": " Altså det her med at indhente de her produktanmeldelser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 632.0,
       "end": 634.0,
       "text": " her der kører det bare automatisk, og det kommer automatisk",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " ind på din produktside, og det er bare så",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 636.0,
       "end": 638.0,
       "text": " meget værd, fordi jeg vil bare påstå,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 638.0,
       "end": 640.0,
       "text": " at der er rigtig mange, der sidder i lige præcis",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 640.0,
       "end": 642.0,
       "text": " en situation, lignende den, du har siddet i,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 642.0,
       "end": 644.0,
       "text": " hvor man kommer lidt i tvivl.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 644.0,
       "end": 646.0,
       "text": " Der er det bare fedt, at man har en app, der ikke koster",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 646.0,
       "end": 648.0,
       "text": " specielt meget per måned, der bare ligger og samler",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 648.0,
       "end": 650.0,
       "text": " de her produktanmeldelser op på produkt-level.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 650.0,
       "end": 652.0,
       "text": " På produktniveau, ikke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " Den sidste app på vores liste, Section Store.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " Ja, men lidt som navnet antyder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 659.0,
       "end": 661.0,
       "text": " så handler det her om, at",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 661.0,
       "end": 663.0,
       "text": " der er nogen, der har sat sig ned og lavet en app,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 663.0,
       "end": 665.0,
       "text": " hvor man gør det nemt for Shopify-shops",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 665.0,
       "end": 667.0,
       "text": " at få sektion, altså nogle",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 667.0,
       "end": 669.0,
       "text": " deciderede sektioner ind på for eksempel",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 669.0,
       "end": 671.0,
       "text": " produktsiden eller ens collection-pages.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 671.0,
       "end": 673.0,
       "text": " Det kunne for eksempel være,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " at man har set på nogle",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " af de her meget vilde dropship-stores",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 677.0,
       "end": 679.0,
       "text": " over i USA, at de har",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 679.0,
       "end": 681.0,
       "text": " nogle rigtig fede USB'er underlægget i kurvknappen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 681.0,
       "end": 683.0,
       "text": " eller de har en fed sektion til",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 683.0,
       "end": 685.0,
       "text": " social proof med produktanmeldelser meget apropos.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 685.0,
       "end": 689.0,
       "text": " Der kan man få den lette sum af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 689.0,
       "end": 691.0,
       "text": " jeg mener, det er nogen af 20 dollar,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 691.0,
       "end": 693.0,
       "text": " som om måneden, hvis jeg ikke kan huske helt forkert,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 693.0,
       "end": 695.0,
       "text": " fra Section Store, faktisk ligger og henter dem her ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 695.0,
       "end": 697.0,
       "text": " Og jeg kan faktisk ikke huske,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 697.0,
       "end": 699.0,
       "text": " om selve sektionerne koster nogle penge.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 699.0,
       "end": 701.0,
       "text": " Men drag & drop dem ind, så",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 701.0,
       "end": 703.0,
       "text": " nu er mange Shopify-themes i dag",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 703.0,
       "end": 705.0,
       "text": " bygget således med en page builder, hvor man selv kan",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 705.0,
       "end": 707.0,
       "text": " ligge og drag & drop, men det kræver også, at man selv er lidt kreativ",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 707.0,
       "end": 709.0,
       "text": " og ved, hvordan det skal se ud. Her er det",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 709.0,
       "end": 711.0,
       "text": " pre-made for en, hvor man så kan få",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 711.0,
       "end": 713.0,
       "text": " de her sektioner ind. Så det er en super fed måde",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 713.0,
       "end": 715.0,
       "text": " at få lavet en hjemmeside rigtig, rigtig, rigtig fed på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 715.0,
       "end": 717.0,
       "text": " uden at man selv skal ind og genopfinde",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 717.0,
       "end": 719.0,
       "text": " den dybe tilærken.",
-      "speaker": "B"
+      "speaker": "Christian"
     }
   ]
 }

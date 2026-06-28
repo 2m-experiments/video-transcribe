@@ -9,383 +9,387 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 4.84,
       "text": " Og jeg ved, at du har lavet et værktøj i forhold til at identificere landingssider på et hvilket som helst site,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.84,
       "end": 9.32,
       "text": " som jeg faktisk synes er ret fedt, og som jeg også bruger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.32,
       "end": 12.44,
       "text": " Hvad kan det her værktøj, og hvordan har du bygget det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.44,
       "end": 15.44,
       "text": " Så skal man forestille sig, at man er inde på, det kan være en konkurrent,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 15.44,
       "end": 17.84,
       "text": " eller det kan være nogen, der gør det rigtig godt annonceringsmæssigt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 17.84,
       "end": 21.52,
       "text": " Og her har jeg taget udgangspunkt i Loop Earplugs, fordi de gør det her en masse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 21.52,
       "end": 23.04,
       "text": " altså bygge landingssider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 23.04,
       "end": 25.12,
       "text": " Så en ting er, hvad vi ser, når vi går ind på hjemmesiden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 25.12,
       "end": 28.72,
       "text": " men noget helt andet er, at de landingssider, de rent faktisk sender trafik ind til",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 28.76,
       "end": 32.24,
       "text": " fra deres betalede annoncering, for det er det, der er lidt sjovere at kigge på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 32.24,
       "end": 35.84,
       "text": " for det giver os et indblik i, hvordan det er, at den her forretning tænker forretning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 35.84,
       "end": 38.32,
       "text": " og tænker deres produkter, tænker deres målgrupper.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 38.32,
       "end": 42.28,
       "text": " Og historisk set, når jeg har sku' ind og kigge på, hvad er det for nogle landingssider, de laver,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 42.28,
       "end": 44.56,
       "text": " især når det er Shopify-shops, nu er det jo rigtig meget e-commerce,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 44.56,
       "end": 48.32,
       "text": " jeg sidder og arbejder med til dagligt, så sku' jeg ind på deres sitemap,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 48.32,
       "end": 51.96,
       "text": " og deres sitemap i Shopify ser sådan her ud, og det ser forfærdeligt ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 51.96,
       "end": 55.52,
       "text": " Det er sådan lidt noget bøvl at ligge og kigge rundt i,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 55.52,
       "end": 59.32,
       "text": " fordi man skal ind og finde det sitemap, der er lavet for deres pages,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 59.32,
       "end": 63.68,
       "text": " for det er jo typisk, at man laver sine landingssider og så gennemgår alle de her pages.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 63.68,
       "end": 65.4,
       "text": " Og jeg gjorde det med glæde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.4,
       "end": 68.88,
       "text": " men det var ikke en fed opgave at skulle sidde og gå igennem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 68.88,
       "end": 73.6,
       "text": " Så jeg satte mig ned og tænkte over, hvordan kunne jeg prompte mig til en eller anden",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 73.6,
       "end": 77.76,
       "text": " vibe-coded løsning her, som gjorde det bare en lille smule nemmere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 77.76,
       "end": 80.2,
       "text": " Og det, jeg har gjort her, det er, at jeg lige har taget et Google Docs-ark,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 80.2,
       "end": 84.56,
       "text": " hvor jeg viser eksemplet på det prompt, jeg har brugt inde i Gemini.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 84.56,
       "end": 88.2,
       "text": " Så jeg har uploadet et screenshot af det her sitemap,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 88.2,
       "end": 90.84,
       "text": " og så har jeg egentlig bare forklaret Gemini at lave et tool,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 90.84,
       "end": 94.2,
       "text": " hvor man kan indtaste en URL på en Shopify-webshop,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 94.2,
       "end": 97.4,
       "text": " hvorefter toolet automatisk finder sitemappet med pages.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 97.4,
       "end": 101.12,
       "text": " Og så giver jeg lidt ekstra forklaring, men vi snakker 3-4 linjer ekstra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 101.12,
       "end": 104.24,
       "text": " Altså, det er virkelig ikke særlig meget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 104.24,
       "end": 106.36,
       "text": " Så lad os prøve at hoppe ind og se, hvordan det egentlig ser ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 106.36,
       "end": 110.84,
       "text": " Så hvis jeg starter med lige at kopiere URL'en på Loop Earplugs,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 110.84,
       "end": 112.56,
       "text": " så skulle det gerne være sådan,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 112.56,
       "end": 116.56,
       "text": " så når jeg indtaster Loop Earplugs her og trykker find sider,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 116.56,
       "end": 117.68,
       "text": " så gør den to ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 117.68,
       "end": 121.52,
       "text": " Det første, det er, at den finder alle pages frem, altså alle landing pages.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 121.52,
       "end": 124.6,
       "text": " Dernæst har jeg bedt den om at sortere efter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 124.6,
       "end": 127.44,
       "text": " hvilke landing pages, der er blevet ændret i senest.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 127.44,
       "end": 128.64,
       "text": " Og hvorfor gør jeg så det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 128.64,
       "end": 131.64,
       "text": " Fordi det typisk er en eller anden indikator for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 131.64,
       "end": 134.08,
       "text": " at det er der, man forventer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 134.08,
       "end": 136.16,
       "text": " eller det, man ligger og tester af lige nu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 136.16,
       "end": 138.32,
       "text": " det er det, man forventer skal kunne fungere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 138.32,
       "end": 142.4,
       "text": " Så det er bare for, at jeg kan finde hovedet og hale i den data, jeg ligger og kigger på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 142.4,
       "end": 144.16,
       "text": " Så hvis jeg trykker find sider nu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 144.16,
       "end": 148.4,
       "text": " så er den faktisk fundet alle deres nuværende landing sider,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 148.4,
       "end": 150.8,
       "text": " og hvornår de senest er blevet redigeret i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 150.8,
       "end": 153.2,
       "text": " Man kan godt se her, og det er jo med vilje, at jeg har brugt Loop Earplugs,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 153.2,
       "end": 156.12,
       "text": " fordi de laver så mange landing sider,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 156.12,
       "end": 158.44,
       "text": " og det er så specifikke landing sider, de laver.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 158.44,
       "end": 159.8,
       "text": " De gør det mega godt på landing siderne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 159.8,
       "end": 161.4,
       "text": " Ja, det gør det så godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 161.4,
       "end": 163.04,
       "text": " Så kan jeg trykke her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 163.04,
       "end": 164.2,
       "text": " og så vil jeg kunne gå ind og se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 164.2,
       "end": 165.92,
       "text": " okay, de har en landing side her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 165.92,
       "end": 169.0,
       "text": " dedikeret til gift ideas for students.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 169.0,
       "end": 171.56,
       "text": " Så ja, det er altså rigtig granulat, de går til værktøjer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 171.56,
       "end": 173.4,
       "text": " Så kan jeg så sidde og kigge det her igennem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 173.4,
       "end": 176.56,
       "text": " Igen et tool, som jeg bruger nærmest hver dag,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 176.56,
       "end": 178.56,
       "text": " fordi det bare gør det 10 gange nemmere for mig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 178.56,
       "end": 180.56,
       "text": " lige hurtigt at teste en URL ind herinde.",
-      "speaker": "B"
+      "speaker": "Christian"
     }
   ]
 }

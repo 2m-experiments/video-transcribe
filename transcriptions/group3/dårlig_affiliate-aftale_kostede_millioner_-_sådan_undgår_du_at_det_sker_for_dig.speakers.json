@@ -9,1091 +9,1095 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 7.4,
       "text": " Christian, vi starter med en rigtig træls historie, og det er ikke sket for os, men det er sket for en af vores kunder i Opsidian Digital.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 7.4,
       "end": 11.6,
       "text": " Og vi kommer ikke til at nævne, hvem de er, men forestil dig sådan en mellemstor dansk webshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.6,
       "end": 15.7,
       "text": " De er kommet til at lave en fejl, det har kostet dem mange penge, og jeg kommer til at spørge dig i den her episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.7,
       "end": 19.8,
       "text": " hvordan alle der lytter med her undgår at lave den samme fejl.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.8,
       "end": 26.5,
       "text": " Det man skal forestille sig, det er for en 3-4 år siden, den her webshop indgår i en aftale med et affiliate-netværk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 26.5,
       "end": 28.5,
       "text": " Ikke et bureau, men altså et af netværkene.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 28.5,
       "end": 34.2,
       "text": " Vi kommer ikke til at nævne hvem, for det må de selv om, om de vil eller ej, men det er et af de større danske netværk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.2,
       "end": 38.8,
       "text": " Netværket kommer med en affiliate-aftale til dem, som virksomheden accepterer uden videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 38.8,
       "end": 42.1,
       "text": " Og her begår de selvfølgelig en stor fejl til at starte med, eller gør de?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 42.1,
       "end": 46.4,
       "text": " Fordi man kan også stille spørgsmål om netværket egentlig burde have foreslået de her betingelser til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 46.4,
       "end": 49.9,
       "text": " Men det er standard-betingelserne, der bliver accepteret fra netværkets side.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 49.9,
       "end": 55.1,
       "text": " Standard-betingelserne, det er bl.a. man må gerne byde ind på Google Ads, man må gerne bruge branded.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 55.1,
       "end": 59.9,
       "text": " Der bliver installeret en remarketing-pixel fra netværket på sidedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 59.9,
       "end": 64.9,
       "text": " Så det betyder, at en masse forskellige annoncører kan lave remarketing på webshoppens egne besøgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.9,
       "end": 69.6,
       "text": " Cookie-tiden er 60 dage, tror jeg, eller 90 dage, eller et eller andet i den stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 69.6,
       "end": 73.1,
       "text": " Der er noget view-attribuering med ind over for kommenteringer inden for virksomheden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 73.1,
       "end": 76.4,
       "text": " Altså den får fuld hammer på standard-vilkårene.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 76.4,
       "end": 82.8,
       "text": " Det, der så sker, det er, at i den efterfølgende periode, webshoppens omsætning stiger ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 82.8,
       "end": 85.2,
       "text": " Den er faktisk stort set index 100 i forhold til før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.2,
       "end": 88.1,
       "text": " Men affiliate-netværket er inde og tilskrive sig selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 88.1,
       "end": 93.9,
       "text": " Ikke 20, ikke 40, hold nu op, 60% af den samlede omsætning på shoppen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 93.9,
       "end": 98.5,
       "text": " Og de kræver jo så at få 20% af 60% af omsætningen på shoppen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 98.5,
       "end": 101.4,
       "text": " Men omsætningen er ikke steget i mellemtiden overhovedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 101.4,
       "end": 104.9,
       "text": " Og de bruger lige så mange penge på Google Ads og Facebook Ads, som de gjorde før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 104.9,
       "end": 107.5,
       "text": " Virksomheden opdager ikke det her i tiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 107.5,
       "end": 109.8,
       "text": " Da de rent faktisk opdager det, så er der gået et halvt til et helt år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 109.8,
       "end": 113.7,
       "text": " Og det er fordi virksomheden har simpelthen ikke været særlig smarte og opmærksomme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 113.7,
       "end": 115.7,
       "text": " Og det er også deres egen skyld, og det er ikke særlig godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 115.7,
       "end": 119.1,
       "text": " Virksomheden nægter selvfølgelig at betale det her, fordi de kan jo se, at omsætningen er ikke steget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 119.1,
       "end": 124.9,
       "text": " Men affiliate-virksomheden mener, at de har taget værdi for halvdelen, nærmest 60% af kommenteringerne på shoppen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 124.9,
       "end": 127.8,
       "text": " Og at have 20% af det, det er jo sådan noget, der kan trække virksomheden i minus.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 127.8,
       "end": 132.3,
       "text": " Samledes set, hvis du lige skal betale 20% af 60% af din omsætning uden at have fået mere værdi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 132.3,
       "end": 134.3,
       "text": " det er rigtig, rigtig mange penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 134.3,
       "end": 138.6,
       "text": " Og derfor ender det med at blive en retssag mellem webshoppen og affiliate-værket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.6,
       "end": 140.6,
       "text": " Den retssag bliver afgjort for nylig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.6,
       "end": 143.4,
       "text": " Webshoppen tabte. De skal betale de her penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.4,
       "end": 145.4,
       "text": " Dommeren forstod det grundlæggende ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 145.4,
       "end": 147.4,
       "text": " Vidste ikke noget om affiliate-marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 147.4,
       "end": 150.6,
       "text": " Forstod ikke, hvad der var op eller ned, og konstaterede bare, at der ikke er gået en aftale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.6,
       "end": 152.6,
       "text": " Det her er betingelserne. Det skal betalt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.6,
       "end": 157.2,
       "text": " Og webshoppen var kommenteret selvfølgelig for, at der ikke er skabt nogen som helst værdi i det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 157.2,
       "end": 162.1,
       "text": " Der var en masse tekniske ting frem og tilbage, syn og skøn, men alle mulige ting, og endte med at tabe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.1,
       "end": 164.9,
       "text": " Fordi dommeren sagde, der er indgået en aftale, der skal betales.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 164.9,
       "end": 167.4,
       "text": " Det ligner en rigtig dårlig aftale. Det er ikke ulovligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 167.4,
       "end": 169.4,
       "text": " Og det er der, hvor vi er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 169.4,
       "end": 172.4,
       "text": " Jeg synes, det er så sundt for en pågældende webshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.4,
       "end": 174.4,
       "text": " Fordi i min optik er det blevet snydt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.4,
       "end": 179.4,
       "text": " Og jeg kunne godt tænke mig at yde et ekstremt lille bidrag til at forhindre, at det skal ske for andre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 179.4,
       "end": 183.4,
       "text": " Nu har jeg fortalt historien, min lille godnat-Marit-historie.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 183.4,
       "end": 186.4,
       "text": " Hvad tænker du først og fremmest om det her? Hvordan lyder det for dig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 186.4,
       "end": 188.4,
       "text": " Jamen, det er jo hovedrystende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 188.4,
       "end": 190.4,
       "text": " Lad os tage det fra en ende af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 190.7,
       "end": 194.7,
       "text": " Du kaldte det standardvilkårne, at det her givende netværk havde kaldt det standardvilkår.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 194.7,
       "end": 197.7,
       "text": " Og ja, de må da selvfølgelig sælge om, hvad de kalder standardvilkår.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 197.7,
       "end": 202.7,
       "text": " Men bare det, at man kan kalde det her for standardvilkår, viser, hvorfor affiliate-markedet generelt er et sted,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 202.7,
       "end": 204.7,
       "text": " hvor man skal passe så uhyggeligt meget på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 204.7,
       "end": 207.7,
       "text": " Det kan være en fantastisk kanal, det skal jeg lige skønne mig at sige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 207.7,
       "end": 210.7,
       "text": " Det er jo en fantastisk måde at skabe ekstra salg på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 210.7,
       "end": 213.7,
       "text": " Men nøj, hvor er der mange brødende kar derude.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 213.7,
       "end": 217.7,
       "text": " Og det er så svært, hvis ikke man har været i branchen og set igennem det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 218.0,
       "end": 223.0,
       "text": " Fordi de standardvilkår, du nævner, for mig er det, at alle alarmklokker ringer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 223.0,
       "end": 227.0,
       "text": " De her standardvilkår kan man enten få på en kontrakt, som det har været i det her tilfælde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 227.0,
       "end": 230.0,
       "text": " eller når du opretter dig på et netværk, så skal du sidde og tjekke af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 230.0,
       "end": 233.0,
       "text": " Ja, det må mine partnere gerne, det må de ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 233.0,
       "end": 238.0,
       "text": " Det kunne fx være brandbidding på Google Ads, eller om de overhovedet må køre Google Ads på dine produkter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 238.0,
       "end": 243.0,
       "text": " Og for den almene webshop-ejer eller beslutningstær,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 243.3,
       "end": 248.3,
       "text": " der må det edderhuggende også være svært at finde ud af, hvad konsekvensen er ved at sige ja eller nej til et eller andet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 248.3,
       "end": 254.3,
       "text": " Og derfor gør det mig faktisk decideret rarsen at gå ud og kalde det her for standardvilkår, fordi det er det jo ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 254.3,
       "end": 258.3,
       "text": " Du får det til at lyde som om alle andre accepterer det, men vil alle andre acceptere det her vilkår?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 258.3,
       "end": 263.3,
       "text": " Ej, vel det godt nok ikke. Ikke hvis de rent faktisk vidste, hvad det betød.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 263.3,
       "end": 267.3,
       "text": " Og det er jo det, der er synd for shoppen, fordi de vidste jo ikke, hvad det betød, og det var en person, som simpelthen ikke vidste nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.6,
       "end": 274.6,
       "text": " Det var en medarbejder, som i øvrigt er sød og velmenig, men som simpelthen ikke vidste, hvad det var vedkommende havde i gang i her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.6,
       "end": 276.6,
       "text": " Modtog en kontrakt, skrev den under, uden videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.6,
       "end": 284.6,
       "text": " Og der er jo, altså på den ene side, så synes jeg, det er jo godt, at vi i Danmark har et udgangspunkt, der hedder, at erhvervsstudierne har hvide rammer til at lave aftaler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 284.6,
       "end": 286.6,
       "text": " Og at du skal også have lov til at lave dårlige aftaler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 286.6,
       "end": 289.6,
       "text": " Og jeg er lige på grænsen til at kalde det her snyd og bedrageri, synes jeg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 289.9,
       "end": 291.9,
       "text": " Ja, for helvede.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 291.9,
       "end": 298.9,
       "text": " Og så det næste issue, der er her, og det er jo, den ligger ligesom meget på webshoppen selv, kan man sige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 298.9,
       "end": 302.9,
       "text": " Men det er det her med ikke at holde øje med sin affiliate som en kanal.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 302.9,
       "end": 306.9,
       "text": " Og det er det, vi ser 9 ud af 10 gange, når vi snakker med virksomheder, der arbejder med affiliate.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 306.9,
       "end": 315.9,
       "text": " Fordi at typisk så er volumen ikke nødvendigvis så høj, at man sidder og tjekker det op dagligt, som man måske gør det med sine performance kanaler.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 316.2,
       "end": 320.2,
       "text": " Og det er bare ærgerligt, fordi når først det løber løbsk, så skal jeg love, at jeg får det løber løbsk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 320.2,
       "end": 323.2,
       "text": " Og det har det jo så desværre også gjort i det tilfælde her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 323.2,
       "end": 331.2,
       "text": " Affiliate har jo ligesom en eller anden form for ryg for at være den passive indkomst for affiliaten, altså affiliate-partnerne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 331.2,
       "end": 338.2,
       "text": " Og jeg ved ikke, om det er ligesom den tankegang, man ligesom har drevet med over, hvor man tænker, det skal bare lige sættes op, og så kører det af sig selv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 338.2,
       "end": 342.2,
       "text": " Og det gør det jo så også, men der kan jo ikke også være konsekvenser ved at lade det køre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 343.0,
       "end": 351.5,
       "text": " Ud fra de her konkrete vilkår, jeg har nævnt, for den person, der lytter med her, hvad vil du anbefale, at man har eller ikke har i sin aftale med affiliatenetværket?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 351.5,
       "end": 353.5,
       "text": " Lad mig prøve at komme med dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.5,
       "end": 357.5,
       "text": " Skal man sige ja eller nej tak til, at affiliatet må byde ind på Google Ads?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 359.5,
       "end": 362.5,
       "text": " Nej til brandbidding.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 362.5,
       "end": 370.5,
       "text": " Ja til Google Ads, hvis du ved, hvad du har med at gøre, og kun med meget specifikke partnere, så du skal ikke sige ja til 15 forskellige, der skal ligge og byde på dine produkter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 370.8,
       "end": 375.8,
       "text": " Så det er måske et nej som udgangspunkt, og så ja til folk, der fortæller, hvad de vil gøre, som du vurderer ikke er i konflikt med det, du laver?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 375.8,
       "end": 376.8,
       "text": " Korrekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 376.8,
       "end": 378.8,
       "text": " Hvad med meta-ads?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 378.8,
       "end": 385.8,
       "text": " Ja, så længe det ikke er retargeting, der bliver købt ind på, som jeg jo så kunne forstå, at der havde været i det her tilfælde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 385.8,
       "end": 388.8,
       "text": " Det er næste spørgsmål. Skal man lade affiliaten installere en pixel på ens webshop?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.8,
       "end": 390.8,
       "text": " Nej, for pokker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 390.8,
       "end": 392.8,
       "text": " For satan.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 393.1,
       "end": 395.1,
       "text": " Nej.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 395.1,
       "end": 400.1,
       "text": " Skal man lade dem installere noget tredje-parage remarketing-script, som lader folk købe ind på display-netværket og view-tilskrive kommenteringer?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 400.1,
       "end": 409.1,
       "text": " Niks. Biksen. Nej, nej, nej. Det er så gammeldags det der. Det er så gammeldags. Det gjorde man engang rigtig meget i. Holdt jeg fra det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 409.1,
       "end": 412.1,
       "text": " Hvor lang en cookie-periode synes du, man skal gå efter?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 412.1,
       "end": 414.1,
       "text": " Åh, det afhænger meget af forretning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 414.4,
       "end": 424.4,
       "text": " Det var 60-90 dage her for et produkt, som måske har en gennemsnitlig ordervægt i 800-1.200-1.400. Det er space der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 424.4,
       "end": 432.4,
       "text": " 60-90 dage? Hold da op. Ej, det er alt for langt. Jeg vil sige, at afhængig af produkt, 7-14-30 dage max.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 432.4,
       "end": 439.4,
       "text": " Jeg vil også sige, at det er mellem 1 og 14 måske. Så du kan have sange til at sætte den længere ned i virkeligheden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.7,
       "end": 444.7,
       "text": " Der var givet fuld spade med vilkårene her. Og igen, jeg er også nødt til at sige, at virksomheden lavede også fejl i det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 444.7,
       "end": 449.7,
       "text": " Fordi de skulle have sat sig ind i det. De skulle have stoppet aftalen tidligere. De skulle have annulleret order, som de havde fået alligevel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 449.7,
       "end": 453.7,
       "text": " Og alle de ting gjorde de ikke. Men det kom godt nok også til at betale prisen for det i sidste ende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.7,
       "end": 460.7,
       "text": " Hvad skal man gøre, hvis man nu lytter til den her episode og tænker, hmm. Kan jeg vide, hvordan vores vilkår egentlig ser ud? Hvordan finder man ud af det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 461.0,
       "end": 471.0,
       "text": " Typisk, så kan du logge ind hos dit netværk, og så kan du gå ind under indstillinger og se, hvad det er for nogle indstillinger, du selv har sat for det givende program, du har oprettet derinde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 471.0,
       "end": 477.0,
       "text": " Hvis ikke du kan det, eller hvis du har den mindste smule sværighed at finde frem til det, så skriv en mail og spørg efter det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 477.0,
       "end": 481.0,
       "text": " Efterspørg det aktivt på skrift. Fordi så skal de simpelthen komme med de her standardvilkår.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 481.0,
       "end": 487.0,
       "text": " Jeg vil også sige, at hvis ikke du kan finde frem til de vilkår, du tilbyder, så skal du altså overveje, genoverveje det netværk, du har valgt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 487.3,
       "end": 495.3,
       "text": " Og hvis det er helt grældt, så skriv lige til mig, så vil jeg gerne hjælpe med at se, hvad pågår det er, fordi jeg får så ondt i maven, når jeg hører de her historier her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 495.3,
       "end": 497.3,
       "text": " Det er så forfærdeligt for virksomhederne derude.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 497.3,
       "end": 509.3,
       "text": " Vi har jo faktisk en fælleskunde i Opsidian, hvor du var ind og kiggede deres affiliate-indstillinger igennem for nylig, hvor vi identificerede bl.a. et problem med kalku, hvis jeg husker rigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.3,
       "end": 513.3,
       "text": " Kan du ikke fortælle, hvad var det, du gjorde her for at identificere, at der var et problem?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 513.6,
       "end": 518.6,
       "text": " Hvordan kiggede du de individuelle transaktioner igennem, og hvad var det, du anbefaltede dem til sidst at gøre?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 518.6,
       "end": 524.6,
       "text": " Ja, men det der var issuet helt konkret her, det var, at jeg ikke kunne få indsigt i, hvor trafikken blev skabt fra, fra kalku.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 524.6,
       "end": 528.6,
       "text": " Så kalku har en masse partnere under sig, som ligger og genererer den her trafik.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 528.6,
       "end": 530.6,
       "text": " Men hvem er de?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 530.6,
       "end": 534.6,
       "text": " Når det her klik bliver genereret fra de her partnere, så ryger det bare ind i en samlet bunker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 534.6,
       "end": 537.6,
       "text": " Jeg kunne ikke få lov til at få at vide, hvor er det, de her kliks er skabt fra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 537.6,
       "end": 540.6,
       "text": " Jeg ville gerne samarbejde med jer, men vi bliver nødt til at vide, hvor de her kliks kommer fra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 540.6,
       "end": 542.6,
       "text": " Det kunne jeg ikke få at vide.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 542.9,
       "end": 548.9,
       "text": " Nå, det jeg så kunne gøre, det var, at jeg kunne cross-reference med et andet netværk, de også brugte, hvor der også er blevet talt konverteringer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 548.9,
       "end": 550.9,
       "text": " Så ikke nok med, at der bliver talt dobbelt konverteringer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 550.9,
       "end": 557.9,
       "text": " Nu kunne jeg også se, hvad det var for nogen, som rent faktisk havde sendt trafik ind, fordi jeg kunne cross-reference på ordrenummeret.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 557.9,
       "end": 561.9,
       "text": " Og der kunne jeg bare se, at det var lort på lort, for at sige det mildt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 561.9,
       "end": 564.9,
       "text": " Hvad var det for nogle trafikkilder, vi var ude i her, altså typen af det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.9,
       "end": 571.9,
       "text": " Det var retargeting gennem noget pikselværk. Det var hardcore- og batcodesider, der ikke gav nogen som helst form for det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 572.2,
       "end": 573.2,
       "text": " Falsk og batcodesider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 573.2,
       "end": 575.2,
       "text": " Det var alt det gode.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 577.2,
       "end": 580.2,
       "text": " Ja, så det fik vi jo lukket ret hurtigt ned for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 580.2,
       "end": 588.2,
       "text": " Det, der så også viste sig, det var, at vi havde fundet eksempler på, at det var faktisk Kalkue gennem deres CSS, at de havde budt på branded.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 588.2,
       "end": 593.2,
       "text": " Lad os lige sige Kalkue gennem deres CSS, Comparison Shopping Service, hvad betyder det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.2,
       "end": 600.2,
       "text": " Jamen, de ligger og kører Google Ads, lad os bare sige det sådan, de ligger og kører Google Shopping Affiliate, kan man sige, ude på shoppingresultaterne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 600.5,
       "end": 605.5,
       "text": " Og det i og for sig egentlig er fint nok, det var en del af den aftale, der blev indgået.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 605.5,
       "end": 613.5,
       "text": " Men der måtte ikke være noget brandbidding, og der fandt vi så desværre nogle eksempler ved selv manuelt at sidde og lave nogle søgninger, hvorved at vi kunne se det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 614.5,
       "end": 618.5,
       "text": " Jeg ved faktisk ikke, hvad det endte med der, om der har været en misforståelse, eller hvad det er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 618.5,
       "end": 626.5,
       "text": " Jeg trækkede mig lidt efter, at jeg havde givet alle de oplysninger videre til den givende kunde, og så havde kunden så taget den med videre til Kalkue.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 626.8,
       "end": 632.8,
       "text": " Og nu skal jeg lige skynde mig at sige, at det ikke er, fordi vi i Kalkue er træls at samarbejde med overhovedet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 632.8,
       "end": 635.8,
       "text": " Det her er bare et konkret eksempel på, hvad man skal være opmærksom på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 635.8,
       "end": 642.8,
       "text": " Hvis ikke du kan få lov til at se, hvor trafikken bliver skabt hen, altså af hvilke partner, så er det højst sandsynligt, fordi der er nogen, der har noget at skjule.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 642.8,
       "end": 643.8,
       "text": " Og det er altså ikke godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.8,
       "end": 650.8,
       "text": " Nej, jeg tror også, at det generelle princip er, at du selvfølgelig skal have transparens i forhold til, hvilke kilder der skaber trafik, og hvor du bliver tilskrevet salg henne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 650.8,
       "end": 652.8,
       "text": " Så du kan se, om det er salg, der rent faktisk bliver skabt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.1,
       "end": 663.1,
       "text": " Og du var også inde på det her, men en god måde at gøre det på, det er jo simpelthen at tage de ordre-ideer, som bliver tilskrevet af affiliate-netværket, og så gå ind på dem i Shopify, eller hvilket system du nu bruger, og se, hvad er din egen lokning på det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 663.1,
       "end": 672.1,
       "text": " Altså er det eksisterende kunder, som lige får lagt en pixel ind, lige før de køber, fordi de ramte en falsk rabatkodeside, hvor du så kan se en UTM-referrer, eller et eller andet den stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 672.1,
       "end": 673.1,
       "text": " Altså der kan man faktisk lære meget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.4,
       "end": 685.4,
       "text": " Sammen med en af vores større kunder, var jeg igennem en cashback-side i London UK i efteråret 2024, fordi der blev tilskrevet ret mange konverseringer til den der cashback-side, og vi var meget i tvivl om incrementality på den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 685.4,
       "end": 696.4,
       "text": " Og det vi gjorde, det var, at vi tog simpelthen 10 ordre-numre ad gangen, så åbnede vi dem op i Shopify, og så så vi, at den her person kom de ind første gang via Facebook og Google og vores egen annoncering, eller via den her cashback-side.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.7,
       "end": 707.7,
       "text": " Og det den viste, og jeg tror, det var i 10 ud af 10 tilfælde, det var, at det var vores egen annoncering, der havde fået folk ind til siden til at starte med, og så lige før de rent faktisk gennemførte transaktionen, så havde de været inde og søge et eller andet sted for at se, om de kunne få cashback.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 707.7,
       "end": 711.7,
       "text": " Og det var sådan nogle sider, der tog af fællekommissionen og delte dem med brugeren, så der var noget cashback.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 711.7,
       "end": 715.7,
       "text": " Og så var de lige kommet derfra, og så var de blevet tilskrevet til cashback-netværket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 715.7,
       "end": 719.7,
       "text": " Og min tolkning af det, det var jo, at 10 ud af 10 gange, så havde de her kunder købt alligevel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 719.7,
       "end": 723.2,
       "text": " Så de var alene for at tjekke, om de kunne få en rabat på det brug, de alligevel havde tænkt sig at købe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 723.2,
       "end": 726.7,
       "text": " Derfor fjernede vi dem, og oplevede ikke, at vi tabte omsætning i UK af den årsag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 726.7,
       "end": 729.2,
       "text": " Der var bare en masse kommission, vi ikke længere betalte til cashback-sider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 729.2,
       "end": 740.2,
       "text": " Så den der helt manuelle gennemgang i forhold til, de kunder, der kommer her, er det nye kunder, eller er det bare dine gamle kunder, du reaktiverer, eller er det bare dine eksisterende kunder, du selv har skabt via Facebook Ads, eller et eller andet, som så får snedet en cookie ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 740.2,
       "end": 742.2,
       "text": " Det tager lidt tid at gøre, men det er virkelig time well spent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 742.2,
       "end": 743.2,
       "text": " Ja, det er det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 743.7,
       "end": 750.7,
       "text": " Og når man er i gang med de her manuelle processer, og gerne vil spare lidt penge, husk at kigge på de ordre, du har fået refunderet, eller som er blevet annulleret.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 750.7,
       "end": 753.2,
       "text": " De vil typisk stadigvæk være tilskrevet inde i affildeprogrammet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 753.2,
       "end": 765.2,
       "text": " Men afhængig af, hvilke vilkår du har sagt ja til, og typisk er det her et ret standardvilkår, så vil du godt gå ind og annullere de her ordre, så du ikke skal betale for, altså i affildekommissionen, at du ikke skal betale for en ordre, du alligevel ikke har fået pengene indenfor.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 765.2,
       "end": 771.2,
       "text": " Det er sådan gået op for mig, at ved at ikke fortælle, hvem netværket er i det her tilfælde, så mistænkeliggør vi alle danske netværk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 771.2,
       "end": 775.2,
       "text": " Jeg synes stadig ikke, vi skal sige hvem det er, for det må webshoppen selv om, de har lyst til at fortælle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 775.2,
       "end": 786.2,
       "text": " Men jeg har lige et lille behov for at nævne, at en affiliate netværk, som vi arbejder sammen med i Obsidian på tværs af rigtig mange kunder, og hvor vi har udelukkende gode oplevelser, og de har sgu altid opført sig pænt, det er Partners i Danmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 786.2,
       "end": 788.2,
       "text": " Og det er ikke dem, der er talt om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 788.2,
       "end": 791.2,
       "text": " Og de holder skudsinen ren, og kendt derinde er kanon.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 791.2,
       "end": 797.2,
       "text": " Det havde jeg bare lige et lille behov for at sige, fordi dem arbejder vi sammen med på rigtig mange projekter, og dem vil jeg ikke unødvendigt mistænkeliggøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 797.2,
       "end": 803.2,
       "text": " Derudover så håber jeg, at episoden bare lige kunne minde folk om, at det her er en god ting at tjekke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 803.2,
       "end": 807.2,
       "text": " Og lige være opmærksom på, også selv hvis det ikke er særlig meget volumen, der kommer igennem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 807.2,
       "end": 812.2,
       "text": " Fordi der er nogle nemme ting lige at gå ind og tjekke for at sikre, at det du får, det rent faktisk er incremental.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 812.2,
       "end": 818.2,
       "text": " At det er reelle kommenteringer, du får, og at de ikke går ind og snyder til skriver et kommenter, du alligevel havde fået.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 818.2,
       "end": 825.2,
       "text": " Tusind tak, fordi du lyttede med til episoden. Og husk, Tine har tilbudt, hvis du er i svivel om det her, så vil han gerne lige gå ind og give et overordnet kig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 825.2,
       "end": 831.2,
       "text": " Det er præcis det samme, jeg fik ham til at gøre på den anden kunde, vi havde tilfældes, hvor vi fandt ud af, at der lå en masse kris fra Kalkue med falske rabatkodesider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 831.2,
       "end": 837.2,
       "text": " Det skal du også gøre dig. Det vil jeg gøre brug af, hvis jeg var dig, og du ikke er helt sikker på, hvad der ligger derinde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.2,
       "end": 839.2,
       "text": " Tak fordi du lyttede med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

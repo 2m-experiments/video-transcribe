@@ -9,1403 +9,1407 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 4.0,
       "text": " Halvstand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 4.0,
       "end": 12.0,
       "text": " Har du nogensinde set et site med omkring 70 millioner månedlige besøgende blive fuldstændig deindekseret, smadret og smidt ud af Googles indeks før?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 17.0,
       "text": " Aldrig. Aldrig, aldrig, aldrig. Men hold op og gør det ondt i hjertet. Bare hør det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 17.0,
       "end": 20.0,
       "text": " Det går helt... Det er helt sindssygt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 20.0,
       "end": 27.0,
       "text": " Der er en case på det engelske marked med et site, som har lavet noget superoffensivt CEO i mange år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 31.0,
       "text": " Det har virket indtil den dag, hvor det ikke virkede længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 31.0,
       "end": 36.0,
       "text": " Og jeg kunne godt tænke mig at præsentere den her case for dig, og så høre dit take på det som sådan en rigtig CEO-mand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 43.0,
       "text": " Altså, var det her deres egen skyld, eller har de været uheldige? Og er det her noget, man skal passe på med i ens eget arbejde med CEO?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 43.0,
       "end": 45.0,
       "text": " Lad os springe ud i det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 45.0,
       "end": 51.0,
       "text": " Lad mig prøve at dele et site. Vi skal nemlig kigge på det site, der hedder geeksforgeeks.org.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.0,
       "end": 53.0,
       "text": " Fedt domain.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 53.0,
       "end": 55.0,
       "text": " Ja, det er et kanonfedt domain.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 55.0,
       "end": 65.0,
       "text": " Og geeksforgeeks.org er en læringsside med en masse kurser og tutorials inden for ting som datastruktur og algoritmer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 65.0,
       "end": 68.0,
       "text": " Og DSA-development, det ved jeg ikke hvad det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 68.0,
       "end": 74.0,
       "text": " Så er der et eller andet programmeringsspråk. Java, backend development, machine learning, data science, analytics.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 74.0,
       "end": 80.0,
       "text": " Altså, geeksforgeeks er i virkeligheden et rimelig præcis navn for, hvad du kan finde inde på sitet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 90.0,
       "text": " Og hvis man kigger på deres graf på ahrefs.com, så vil man se, at geeksforgeeks lå på omkring 30 millioner organiske besøgende om måneden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 90.0,
       "end": 94.0,
       "text": " Og nogle siger endda op til 70 millioner, hvis man spørger andre CEO-værktøjer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.0,
       "end": 97.0,
       "text": " Men det er rigtig mange besøgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 97.0,
       "end": 103.0,
       "text": " Man vil også kunne se en graf, der i løbet af de sidste fem år bare har gået stille og roligt op, op, op, op, op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 112.0,
       "text": " Indtil starten af april, hvor sitet bliver basically deindekseret, og man faktisk ikke engang kan søge dem frem på deres eget brand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 112.0,
       "end": 113.0,
       "text": " Hold da op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 113.0,
       "end": 115.0,
       "text": " Prøv lige at vælge, for der er et eller andet helt galt her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 115.0,
       "end": 119.0,
       "text": " Fordi den hjemmeside, du lige viste mig før, nu fik du sagt, at de hedder det jo også.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 119.0,
       "end": 121.0,
       "text": " Det er en nørdeside.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 121.0,
       "end": 123.0,
       "text": " Det er en geeks for geeks.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 123.0,
       "end": 126.0,
       "text": " Og det er virkelig positivt menet, fordi jeg elsker det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 126.0,
       "end": 132.0,
       "text": " Men vurderer du ikke, at der er 30-70 millioner organiske besøgende i at lave guides til Python backend programmering?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 132.0,
       "end": 137.0,
       "text": " Der er et eller andet oppe i mit siverhoved, der ikke lige helt kan få tingene til at hænge sammen her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 139.0,
       "text": " Jeg kan simpelthen ikke forstå det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 139.0,
       "end": 143.0,
       "text": " Hvordan i helvede har de fået så mange besøgende?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 143.0,
       "end": 147.0,
       "text": " Det sidder jeg jo også og tænker, fordi Obsidian.dk har 2.500.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 147.0,
       "end": 153.0,
       "text": " Og jo jo, vi er heller ikke samme liga, men 2.500 til 32 millioner, der er godt nok også en chat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 153.0,
       "end": 160.0,
       "text": " Lad mig prøve at vise dig en af de ting, som geeks for geeks gjorde, som måske er den største årsag til, at de har fået så stort et fald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 160.0,
       "end": 162.0,
       "text": " Lad mig høre din vurdering af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.0,
       "end": 166.0,
       "text": " Nu skal vi huske, at geeks for geeks er programmeringstutorials og sådan nogle ting her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 168.0,
       "text": " Hvad tænker du om den her underside?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 168.0,
       "end": 175.0,
       "text": " 10 Best Women Office Bags at Best Prices Online 2024",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 175.0,
       "end": 178.0,
       "text": " Det er samme domain?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 178.0,
       "end": 183.0,
       "text": " Geeksforgeeks.org bestofficebagsforwomen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 183.0,
       "end": 188.0,
       "text": " Der har altså siddet en webmaster og tænkt, at der er nogen, der tjener mange penge på affiliate.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 189.0,
       "end": 193.0,
       "text": " Men det sjove er, at jeg ikke kan finde affiliate links.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 193.0,
       "end": 202.0,
       "text": " Ej stop. Jeg håber, at det er fordi man har kigget på den her graf og sagt, at hvor blev mine 30-70 millioner besøgnet af?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 202.0,
       "end": 211.0,
       "text": " Jeg er nødt til at kigge på kildekoden, men jeg er ret sikker på, at det her er en artikel uden affiliate links.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 211.0,
       "end": 220.0,
       "text": " Jeg tror vitterligt, at de har skrevet en artikel om Top 10 Best Women Office Bags 2024, bare for at skrive den og have indholdet på siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 223.0,
       "text": " For jeg kan ikke finde affiliate links.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 223.0,
       "end": 229.0,
       "text": " Men nu begynder det at give mening, hvordan de kan have så meget trafik, i hvert fald jævnt før A-Refs.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 229.0,
       "end": 231.0,
       "text": " Ja, fordi de har mange af de her artikler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 231.0,
       "end": 234.0,
       "text": " Hvis det er sådan noget, at de har ligget og prøvet det ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 237.0,
       "text": " Vi har en anden en, Top 10 Most Beautiful Women in the World.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 237.0,
       "end": 242.0,
       "text": " Så har vi en, Top 10 Most Influential Women in Tech in Indonesia.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 245.0,
       "text": " Og så har de bare kørt den med alle lande i hele verden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 245.0,
       "end": 250.0,
       "text": " Jeg spekulerer på, at det her er et eller andet programmatisk SEO-projekt, der er gået fuldstændig galt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 253.0,
       "text": " Ja, det lyder derhenne af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 253.0,
       "end": 261.0,
       "text": " Nu er det jo et tidspunkt i det her podcast, hvor du gerne må forklare, hvad er topical authority inden for SEO?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 261.0,
       "end": 266.0,
       "text": " Hvad handler det om? Og er det her et eksempel på nogen, der ikke har taget det særlig seriøst?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 266.0,
       "end": 271.0,
       "text": " Jeg skulle lige til at sige, at det her er et konkret eksempel på, hvordan man klokker fuldstændig i det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 271.0,
       "end": 280.0,
       "text": " Altså, topical authority, sådan meget kort fortalt, handler jo om, at en given hjemmeside vil gerne nemt kunne vise Googles algoritmer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 280.0,
       "end": 283.0,
       "text": " hvad man er en ekspert inden for, hvad man er en ressource inden for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 283.0,
       "end": 289.0,
       "text": " Vi skal huske på, at Google lever af at vise organiske søgeresultater, vi som brugere finder relevante.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 289.0,
       "end": 294.0,
       "text": " Ellers så klikker vi jo ikke på de her søgeresultater, så i sidste ende, i værste tilfælde, stopper vi med at bruge Google.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 294.0,
       "end": 304.0,
       "text": " Så Googles vigtigste opgave er ligesom at finde de hjemmesider, der rent faktisk er nogle ressourcer inden for de søgeforspørgelser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 304.0,
       "end": 306.0,
       "text": " som vi som brugere nu engang foretager os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 306.0,
       "end": 312.0,
       "text": " Og algoritmen skal gerne kunne sætte os i en kasse, hvis man kan sige det på den måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 312.0,
       "end": 316.0,
       "text": " Den skal gerne kunne sætte en hjemmeside i en kasse, og går man for langt ud over den her kasse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 316.0,
       "end": 320.0,
       "text": " så begynder algoritmen at blive lidt forvirret over, hvad pågår er det egentlig, der foregår her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 320.0,
       "end": 328.0,
       "text": " Altså er det en techhjemmeside, der lige pludselig begynder at skrive om kvindetøj og kvindetasker og hvad der ellers var?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 328.0,
       "end": 334.0,
       "text": " Det er to kasser, der ligger rimelig langt væk fra hinanden, når man kigger på semantiske søger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 334.0,
       "end": 336.0,
       "text": " Og hvis man så lige spejser dem...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 336.0,
       "end": 338.0,
       "text": " Det var sgu en underdrivelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 342.0,
       "text": " De ligger rimelig langt fra hinanden på semantikken skala, det er korrekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 342.0,
       "end": 346.0,
       "text": " Pythonprogrammering og tasker til kvinder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 346.0,
       "end": 356.0,
       "text": " Men jeg kan jo godt regne ud, at med den organiske trafik der, så har de jo haft mange flere af sådan nogle...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 356.0,
       "end": 363.0,
       "text": " Jeg har faktisk lige kigget på, hvad rankede GeeksforGeeks.com på for en måned siden, i forhold til lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 363.0,
       "end": 368.0,
       "text": " Og det er jo et skatkammer af søgninger, som ikke har det mindste med udvikling at gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 368.0,
       "end": 372.0,
       "text": " Så vi kan se, at deres bedst placerede søger, det var Birthday Wishes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 379.0,
       "text": " Så har vi haft noget på Extentation Sun, som er en rappers søn, hvor de havde en underside, som handlede om hans søn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 382.0,
       "text": " Så har de ranket rimelig godt på noget, der hedder Onionplay Alternatives.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 382.0,
       "end": 385.0,
       "text": " Jeg ved ikke, hvad det er. Er det her et eller andet fodboldstream, eller er det porno?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 385.0,
       "end": 388.0,
       "text": " Jeg har ikke lyst til at gå ind og søge, hvad Onionplay er, men de rankede rimelig godt på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.0,
       "end": 395.0,
       "text": " Så har vi Who is the most beautiful person in the universe, som 61.000 personer om måneden i Indien søger efter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 396.0,
       "end": 398.0,
       "text": " Hvad fanden er det for et søvn?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 398.0,
       "end": 400.0,
       "text": " Den er helt galt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 401.0,
       "end": 406.0,
       "text": " Og så har vi noget, der faktisk passer ind. Så er der 27.000, der har søgt på Linear Regression, som de også lå nummer et på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 411.0,
       "text": " Men den er altså også blevet fjernet. De har ranket også nummer fire på Birthday Wishes i Nigeria.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 414.0,
       "text": " Jamen det er jo simpelthen... Hvad fanden er det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 414.0,
       "end": 416.0,
       "text": " How do you see who blogs you on Instagram?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 416.0,
       "end": 419.0,
       "text": " Hvad fanden laver den inde på en side om programmering?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 421.0,
       "text": " Andrew Tate Networth.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 423.0,
       "text": " Hvad er det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 423.0,
       "end": 425.0,
       "text": " Men så lad os lige prøve at tænke den et sted.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 425.0,
       "end": 427.0,
       "text": " How to play Uno?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 429.0,
       "text": " Hvor mange søgninger er der på det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 429.0,
       "end": 431.0,
       "text": " 12.000 om måneden i Indien.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 431.0,
       "end": 433.0,
       "text": " Plus min femårige søn, han har også søgt på How to play Uno.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " Smækker mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 437.0,
       "text": " Men så lad os lige prøve at tænke skridtet videre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 437.0,
       "end": 441.0,
       "text": " Fordi hvis man kigger på de der artikler, hvis ikke der er affilie et eller andet at sige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " Og jeg synes heller ikke, at jeg kunne se noget banner-annoncering.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 443.0,
       "end": 447.0,
       "text": " Så lad os så sige, at de gik fra 70 eller 30 millioner besøgende, eller hvad det nu var.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 447.0,
       "end": 452.0,
       "text": " Til, lad os bare sige, jeg tror det var omkring 8, den var på din graf der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 452.0,
       "end": 454.0,
       "text": " I hvert fald jævnt før af HF's.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 454.0,
       "end": 458.0,
       "text": " Det kan jo være, at det er de 8 millioner, de rent faktisk skulle have, de her besøgende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 458.0,
       "end": 464.0,
       "text": " Men som du også siger, så ligner det, at de fuldstændig er blevet slagtet af Google.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 464.0,
       "end": 466.0,
       "text": " De er væk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 466.0,
       "end": 468.0,
       "text": " Selv på deres eget brand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 468.0,
       "end": 470.0,
       "text": " Selv på ting som linear regression, som de burde ringe på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 470.0,
       "end": 474.0,
       "text": " Og der tænker jeg, at der ligger jo en lektie her i, at der er en webmaster.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 474.0,
       "end": 477.0,
       "text": " For det første skulle jeg have puttet nogle affiliate links på med al den trafik, han havde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 477.0,
       "end": 478.0,
       "text": " Men det er en anden ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 478.0,
       "end": 481.0,
       "text": " Men der er en webmaster, der simpelthen gik for langt i jagten på kliks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Og bare sagde, vi skal have så meget som overhovedet muligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 483.0,
       "end": 485.0,
       "text": " Så vores site, som handler om programmering og geeks for geeks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 485.0,
       "end": 488.0,
       "text": " Det kan da sagtens svare på, hvad Android Tate's networth er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 488.0,
       "end": 491.0,
       "text": " Hvordan skal man som sæveperson lave?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 491.0,
       "end": 494.0,
       "text": " Hvad vil dine praktiske tips her være?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 494.0,
       "end": 496.0,
       "text": " Hvor langt skal man gå uden for ens topic?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 496.0,
       "end": 500.0,
       "text": " Og der kan jeg jo sige, Tommelfin Ring, hvis du begynder at skrive om Android Tate, så er du for langt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 500.0,
       "end": 502.0,
       "text": " Men hvad er nogle andre regler?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 502.0,
       "end": 504.0,
       "text": " Hvor langt kan man tillade sig at gå ud?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 504.0,
       "end": 507.0,
       "text": " Lad os sige, du har en webshop, der sælger produkter relateret til søvn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 509.0,
       "text": " Kan du så også begynde at skrive om kost?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.0,
       "end": 510.0,
       "text": " Det kan du nok godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " Hvor skal man sætte grænsen hen, tænker du?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 514.0,
       "text": " Jeg vil sige, brug sund fornuft.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 514.0,
       "end": 516.0,
       "text": " Altså helt ærligt, brug sund fornuft, det er nok det bedste råd.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 516.0,
       "end": 522.0,
       "text": " Nummer to, det vil være at foretage de søgninger, du vil forsøge at ramme med det nye blogindlæg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 522.0,
       "end": 526.0,
       "text": " Lad os nu sige, du har en webshop, hvor du sælger kosttilskud til søvn.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 526.0,
       "end": 530.0,
       "text": " Og du gerne vil finde ud af, om du kan skrive om almindelig hverdagskost.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 530.0,
       "end": 532.0,
       "text": " Jamen prøv at foretage nogle af de søgninger, du gerne vil skrive om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 532.0,
       "end": 535.0,
       "text": " Og se, ligger der andre i din kategori?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " Og igen, hvad er din kategori?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 537.0,
       "end": 539.0,
       "text": " Jamen det er igen, brug sund fornuft.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 539.0,
       "end": 544.0,
       "text": " Og hvis du kan kigge dig selv i spejlet og sige, ja det er så relevant det her for mine læsere og mine brugere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 544.0,
       "end": 546.0,
       "text": " jamen så synes Google det nok også.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 546.0,
       "end": 554.0,
       "text": " I det eksempel, du lige har vist, der tror jeg nok, der var nogen, der glemte at kigge sig selv i spejlet og spørge.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 554.0,
       "end": 560.0,
       "text": " Er søgningen, who is the most beautiful woman in the world, i Indien, i virkeligheden relevant for mit programmeringskursus?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 562.0,
       "end": 564.0,
       "text": " Der vil jeg jo mene, at der er en, der kan kigge sig selv i spejlet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 564.0,
       "end": 566.0,
       "text": " Der gik du over grænsen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 566.0,
       "end": 568.0,
       "text": " Der gik du over grænsen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 571.0,
       "text": " Det er svært at definere grænsen, men den var lige der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 577.0,
       "text": " En anden interessant ting, jeg har læst i bloggenlægget med nogen, som også har kigget ind i, hvordan kan det her være?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 582.0,
       "text": " Og en anden ting, der bliver lagt væk på, det er, at de har haft en enormt offensiv linkstruktur.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 582.0,
       "end": 586.0,
       "text": " De har faktisk haft 50.000 linkende domæner og over 3 millioner backlinks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 586.0,
       "end": 592.0,
       "text": " Men hvis jeg nu fortæller dig, at ud af de her 3 millioner backlinks, så har de tabt 88% af dem gennem tiden igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 594.0,
       "text": " Av for pokker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 596.0,
       "text": " Det er altså ikke et godt signal at sende til Google.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 596.0,
       "end": 598.0,
       "text": " Er det det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 598.0,
       "end": 607.0,
       "text": " De har linkbiltet via, som bloggenlægget beskriver det, Frankensteins monster of footerlinks, junk cc tlds and aggressive syndication.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 612.0,
       "text": " Og aggressive syndication, det er, at du har et netværk af sider, hvor du bare linker til hinanden, og så forsvinder linksene igen på et eller andet tidspunkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 616.0,
       "text": " Lyder det som en højkvalitets 20-25 linkbildning for dig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 616.0,
       "end": 618.0,
       "text": " Ej, den er ikke god.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 618.0,
       "end": 623.0,
       "text": " Man skal forestille sig, at de her links, lidt sat på spidsen, det er et skulderklap fra andre hjemmesider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 623.0,
       "end": 628.0,
       "text": " Herovre, hvor hjemmesiden linker over til, det er en god ressource.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 628.0,
       "end": 633.0,
       "text": " Her vil jeg gerne sende vores læsere videre hen for at læse mere, for at tage et eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 633.0,
       "end": 636.0,
       "text": " Så forestil dig så, at den her klap på skulderen, den bliver revet væk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 636.0,
       "end": 639.0,
       "text": " Og det er bare 88% af de her klap på skulderen, der bare bliver revet væk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " Det ser altså ikke skide godt ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 641.0,
       "end": 643.0,
       "text": " Det gør det ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 646.0,
       "text": " Det der er sket, jeg tror ikke, det er algoritmisk, de har fået smæk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 646.0,
       "end": 651.0,
       "text": " Jeg tror, de er begyndt at fylde så meget, at Google har været inde og givet dem en manual penalty.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 654.0,
       "text": " Fordi det er det eneste, der nærmest kan forklare, at de er blevet fuldstændig sliced.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 654.0,
       "end": 660.0,
       "text": " Så de er jo simpelthen gået fra de her 30-70 mio. organiske besøgende om måneden, afhængig af hvilket værktøj, du tjekker, til 0.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 660.0,
       "end": 668.0,
       "text": " De ranker ikke nummer 1 på deres eget navn, geeksforgeeks.com, som er til salg og ikke har noget med det her at gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 668.0,
       "end": 671.0,
       "text": " De ranker over geeksforgeeks.org.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 672.0,
       "end": 675.0,
       "text": " Men det er jo egentlig skræmmende, at der skal en manual review.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 675.0,
       "end": 678.0,
       "text": " For jeg er fuldstændig enig, at det her ligner, at det lugter langt væk af en manual review.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 678.0,
       "end": 683.0,
       "text": " Der er nogle inde hos Google, eller de her review-personer, der har været inde og sige, at det der går altså ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 683.0,
       "end": 684.0,
       "text": " Og så slagter man den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 684.0,
       "end": 687.0,
       "text": " Hvordan pokker algoritmen ikke op til, at det er jo helt galt?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 687.0,
       "end": 690.0,
       "text": " Jamen det er jo det, fordi de er jo på 5 år, at de er gået fra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 690.0,
       "end": 691.0,
       "text": " Det er jo den anden historie af det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 694.0,
       "text": " Den ene historie er, at de gik for langt, og de fløj for tæt på solen, og de blev brændt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 698.0,
       "text": " Den anden historie er, at de kunne kraftedme også flyve tæt på solen, før det skete, hva?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 700.0,
       "text": " De var lige i tur rundt om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 702.0,
       "end": 707.0,
       "text": " De er gået fra få millioner besøgende til 30-70 millioner besøgende og rank nummer 1 på birthday wishes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 707.0,
       "end": 709.0,
       "text": " Og jeg ved ikke, hvad jeg skal give dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 709.0,
       "end": 713.0,
       "text": " De skulle virkelig også højt op, før straffen kom.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 713.0,
       "end": 716.0,
       "text": " Men den kom, og det her domæn kommer aldrig tilbage igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 716.0,
       "end": 717.0,
       "text": " Det er vigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 717.0,
       "end": 718.0,
       "text": " Kommer aldrig tilbage igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 718.0,
       "end": 722.0,
       "text": " De kan løse alle de tekniske problemer, de har, og jeg tror aldrig, de kommer tilbage igen, for den er fuldstændig brændt af den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 722.0,
       "end": 726.0,
       "text": " Ej, jeg sidder bare og tænker på den iværksætter, der på et eller andet tidspunkt ud i fremtiden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 726.0,
       "end": 730.0,
       "text": " når det her domæn bliver frigivet, køber det i håbet om, at det her bliver et helt stort projekt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 730.0,
       "end": 734.0,
       "text": " Og der er en eller anden, der ser domænet og tænker, shit, det har mange backlinks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 738.0,
       "text": " Det skal bare ind og så forårsede den bedste kvicklund 2025.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 738.0,
       "end": 742.0,
       "text": " Ej, jeg fortalte dig, at dengang vi kom til at gøre noget lignende Søren og jeg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 742.0,
       "end": 744.0,
       "text": " i tidernes morgen, for at sige...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 744.0,
       "end": 748.0,
       "text": " Dengang vi startede vores kostymewhipshop, og jeg sidder og kigger ud på ham her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 748.0,
       "end": 752.0,
       "text": " bag ved computeren, og han sidder herinde på kontoret sammen med mig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 752.0,
       "end": 754.0,
       "text": " Det første domæn, vi købte, det var faktisk ikke e-kostymer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 754.0,
       "end": 756.0,
       "text": " Jeg kan ikke huske, hvad det hed, men det var et helt andet domæn.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 756.0,
       "end": 761.0,
       "text": " Og vi kunne bare ikke forstå, hvorfor vi ikke kunne få det til at ranke sådan to unge CEO-knejder som os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 761.0,
       "end": 766.0,
       "text": " Vi syntes godt nok, vi burde kunne få det op at ranke, indtil vi så undersøger det til bunds.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 766.0,
       "end": 770.0,
       "text": " Og så var det et eller andet gammelt website, der er nogenlandet misbrugt til noget porno af en eller anden art.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 770.0,
       "end": 772.0,
       "text": " Og så måtte vi jo skifte det hele over på et nyt domæne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 772.0,
       "end": 775.0,
       "text": " Så vi har faktisk været udsat for det der, og nej, man kommer ikke igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 776.0,
       "end": 778.0,
       "text": " Det tror jeg aldrig, jeg har fortalt børnene, tror jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 778.0,
       "end": 780.0,
       "text": " Nej, det har du ikke. Det lyder virkelig også træls.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 780.0,
       "end": 781.0,
       "text": " Ej, det var træls.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 781.0,
       "end": 785.0,
       "text": " Altså, hvis det sker der, du er ude, du kan skrive til Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 785.0,
       "end": 787.0,
       "text": " Kommer de så til at svare? Klem det, kommer det ærligt sigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 787.0,
       "end": 789.0,
       "text": " Altså, du er ude, det er et nyt domæne, det der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 789.0,
       "end": 791.0,
       "text": " Og det er bare mega ærgerligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 791.0,
       "end": 793.0,
       "text": " Og i det her tilfælde, der kan man så sige, det er fuldstændig selvforskyldt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 793.0,
       "end": 796.0,
       "text": " Så hvis vi skal lave nogle takeaways fra det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 796.0,
       "end": 799.0,
       "text": " Første takeaway, det her er ikke programmatik CEO.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 799.0,
       "end": 804.0,
       "text": " Lad være med at lave en million undersider med Most Beautiful Women in the World på din tech-blog.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 804.0,
       "end": 807.0,
       "text": " Det var nok lidt dumt, skulle man have set til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 807.0,
       "end": 811.0,
       "text": " Lad være med at syndikere tre millioner backlinks ind på siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 811.0,
       "end": 813.0,
       "text": " Det var nok også lidt dumt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 813.0,
       "end": 815.0,
       "text": " Men med alt det sagt, fuck det virkede godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 815.0,
       "end": 817.0,
       "text": " De blev vandt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 817.0,
       "end": 822.0,
       "text": " Det er næsten det mest chokerende, det at de kom op på 30-50 eller 70 millioner besøgende om måneden før det her skete.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 822.0,
       "end": 824.0,
       "text": " It worked until it didn't.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 824.0,
       "end": 826.0,
       "text": " Ja, og det er jo virkelig den pointen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 826.0,
       "end": 828.0,
       "text": " Så lad os bygge noget, der er langtidsholdbart og gør det ordentligt i stedet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 828.0,
       "end": 834.0,
       "text": " Hvis du har lyst til at kigge det her site i sømne, så kan du gå ind på geeksforgeeks.org.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 834.0,
       "end": 837.0,
       "text": " Og du kan stadig tilgå sitet, og du kan se rigtig mange af siderne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 842.0,
       "text": " Altså den her fantastiske artikel med top 10 office bags for women 2024, den lever stadig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 842.0,
       "end": 844.0,
       "text": " Der er også nogle sider, der er blevet fjernet igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 847.0,
       "text": " Jeg tror, de er i gang med at se, om de kan lave en recovery.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 847.0,
       "end": 849.0,
       "text": " Det tror jeg ikke lykkes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 849.0,
       "end": 853.0,
       "text": " Og hvis man går ind på siden, så vil man også se, at det øverste, der står på siden, synes jeg også er ret sødt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 853.0,
       "end": 858.0,
       "text": " Der står, important notice due to temporary issues with the google search.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 860.0,
       "text": " Our site may not appear in results.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 860.0,
       "end": 863.0,
       "text": " Kære venner, den er ikke temporary, den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 863.0,
       "end": 866.0,
       "text": " Og den er ikke desværre helt saløder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 869.0,
       "text": " Så dagens reminder, topical authority er en ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 869.0,
       "end": 872.0,
       "text": " Tænk dig om, og god fornøjelse med seoverarbejdet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 872.0,
       "end": 874.0,
       "text": " Tusind tak, fordi du lyttede med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

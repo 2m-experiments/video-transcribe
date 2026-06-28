@@ -9,1457 +9,1461 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 4.0,
       "text": " Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
       "end": 5.0,
       "text": " Halvdan?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 5.0,
       "end": 10.0,
       "text": " Mark Zuckerberg, stifteren af Facebook Nu Meta, var ude på Kristien.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 16.0,
       "text": " Sådan er det i hvert fald blevet udlagt efter et interview med Ben Thompson fra mediet Strategery,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 19.0,
       "text": " hvor Mark Zuckerberg i sidste uge var med på et interview.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.0,
       "end": 26.0,
       "text": " I det her interview siger Mark Zuckerberg, at Metas slutdestination, deres målsætning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 26.0,
       "end": 31.0,
       "text": " det er, at man som annoncør faktisk bare kan fortælle Meta, hvad det er, man ønsker at opnå,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 31.0,
       "end": 36.0,
       "text": " connecte sin bankkonto og derefter laver Meta alt, inklusiv kreativer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 41.0,
       "text": " At Meta allerede nu er rigtig gode på måling, at de er rigtig gode på målretning",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 41.0,
       "end": 44.0,
       "text": " og at de nu også vil til automatisk at generere kreativerne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 44.0,
       "end": 47.0,
       "text": " således at annoncøringen faktisk ikke skal gøre noget som helst selv andet end bare sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 51.0,
       "text": " her er mit website, her er mit produkt og her er min målsætning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.0,
       "end": 56.0,
       "text": " Og Christian Tineau, som medarbejder af et digitalt marketingbrud, der laver meget annoncering på Facebook,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 56.0,
       "end": 59.0,
       "text": " føler du dig udsat? Føler du dig... Er du bange?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 59.0,
       "end": 63.0,
       "text": " Har du fået et angstanfald på baggrunden af Mark Zuckerbergs nye udmeldinger?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 63.0,
       "end": 67.0,
       "text": " Ja, vi er faktisk allerede begyndt at boykotte Meta. Vi laver ikke Metas mere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 69.0,
       "end": 73.0,
       "text": " Den skulle vi lige have diskuteret i partnergruppen først, men okay, du har taget en executive decision.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 73.0,
       "end": 76.0,
       "text": " Det kan godt blive en farlig beslutning for opstillingen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 77.0,
       "end": 80.0,
       "text": " Du vil gerne have, at jeg er mere kontroversiel. Nu kommer det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 81.0,
       "end": 84.0,
       "text": " Du har solgt dine Meta-aktier, som er den ene ting, der måske er gået op ad.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.0,
       "end": 87.0,
       "text": " Vi har rykket alt spændende op på Pinterest.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 89.0,
       "end": 91.0,
       "text": " Nej, for at svare på spørgsmålet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 92.0,
       "end": 97.0,
       "text": " Nej, det er ikke noget, jeg er synderligt bekymret, bange for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 98.0,
       "end": 102.0,
       "text": " Jeg kan jo godt forstå meningen med det. De giver dig supergod mening, som du selv siger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 102.0,
       "end": 105.0,
       "text": " Måling, tjek. Målretning, tjek. Det er det, du godt styrer på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 105.0,
       "end": 112.0,
       "text": " Nu vil de så ind og pille ved noget af det, der er aller mest følsomt af de tre faser, hvis man kan kalde det det, som vi lige har snakket om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 113.0,
       "end": 121.0,
       "text": " At få virksomheder at give slip på den kreative del, hvordan de fremstår derude, og hvilke budskaber man kommer med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 121.0,
       "end": 123.0,
       "text": " Puha. Good luck.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 123.0,
       "end": 132.0,
       "text": " Nu har jeg prøvet at generere sådan nogle, og indrømmet ikke specielt gode, men nogle kanvagrafiske elementer for nogle cases.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 132.0,
       "end": 138.0,
       "text": " Og jeg kan love dig, at der er mange holdninger til, hvad der er flot og ikke flot og unbrandt og nonbrandt osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 138.0,
       "end": 140.0,
       "text": " Good luck, Mark, siger jeg bare.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 141.0,
       "end": 146.0,
       "text": " Der er klart nogle udfordringer. Jeg tror også, det vigtigste, man skal forstå til at starte med, er, at det her ikke er en ny ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 150.0,
       "text": " Jeg har set nogle LinkedIn-opslag, hvor folk siger, at Mark Zuckerberg havde bruger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 154.0,
       "text": " Det betyder, at man måske lidt historieløst har set, hvad der er sket over de sidste 10 år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 158.0,
       "text": " For det her er bare fortsættelsen af en udvikling, der hele tiden har været i gang, som handler om meta-slutkunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 158.0,
       "end": 164.0,
       "text": " Slutkunderne er ikke beroende. Slutkunderne er annoncørerne. Det er virksomhederne, som betaler for at sælge deres egen produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 164.0,
       "end": 172.0,
       "text": " Og der er det ikke nyt, det her, fordi fase 1, som Meta i interviewet i følge Mark Zuckerberg, som tegnede sin tid, og jeg har hørt det hele, er superspændende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.0,
       "end": 178.0,
       "text": " Han siger, at fase 1 handlede om måling. Hvis man skal have en effektiv reklameplatform, så skal man kunne måle det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 184.0,
       "text": " Og derfor har Meta altid haft stort fokus på måling, og det var dem, der kom med conversions-API og gjorde meget for at udbrede det til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 184.0,
       "end": 191.0,
       "text": " Herefter målretning. Og den har de faktisk lykkes med over de sidste år. De fleste af de kampagner, vi har opsættet i Obsidian, tror jeg, har bred målretning i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 191.0,
       "end": 198.0,
       "text": " Det handler meget mere om kreativhed og at annoncere de rigtige produkter og selv psykologisk have forståelse for, hvordan vi skal gøre, og få det rigtige data ind osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 198.0,
       "end": 203.0,
       "text": " Det er ikke særligt tit, vi bruger super meget tid på at målrette, fordi algoritmen er bedre til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 203.0,
       "end": 209.0,
       "text": " Jeg ved ikke, hvad der er inde i den blackbox, de har, men det virker. Og derfor får de lov til at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 219.0,
       "text": " Og nu kommer fase 3, hvor de gerne vil klare kreativhed. Og det her er jo faktisk allerede i gang, fordi hvis man sætter annoncer op på Meta i dag, så foreslår Meta jo kreative ændringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 219.0,
       "end": 228.0,
       "text": " Både store og små. Små, det kunne være, at de lige tilpasser dit kreativ fra 1.1 til 4.5 og cropper det for dig. Store, det kunne være, at de jo decideret foreslår nye billeder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 228.0,
       "end": 234.0,
       "text": " Hvis du oplever, at du er et billede af en person, så kunne de endda lave seks forslag med nye billeder med alternative baggrunde og alle mulige andre ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 239.0,
       "text": " Det er ikke det her, når du laver Facebook-annoncer, men Facebook der går ind og siger, at her er helt nye billeder. Spørgsmålet nr. 1 er, har du set det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 239.0,
       "end": 241.0,
       "text": " Spørgsmålet nr. 2 er, har du brugt det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 241.0,
       "end": 247.0,
       "text": " Nej, fordi det er så elendigt. Lige nu i hvert fald. Og det bliver jo kun bedre, det ved jeg godt. Men hold op, hvor er det elendigt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 247.0,
       "end": 250.0,
       "text": " Det vil aldrig være så dårligt, som det er lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 253.0,
       "text": " Nej, nej. Det går nok også dårligt nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 253.0,
       "end": 255.0,
       "text": " Ja, det er rigtig dårligt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 255.0,
       "end": 258.0,
       "text": " Det værste er næsten musikken, de kan finde på at sætte henover.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 258.0,
       "end": 259.0,
       "text": " Nårh.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 259.0,
       "end": 263.0,
       "text": " De sætter på Reels-kreativerne, og så har du lavet sådan en fed kreativ, og så kommer der også sådan en banjo-musik på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 263.0,
       "end": 269.0,
       "text": " Klar til at slukke alle Facebook-annoncer nogensinde selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 269.0,
       "end": 276.0,
       "text": " Lige den der funktion med automusik, det er lige den, skulle de ikke have lavet. Og så kan de godt sige, at det giver en 2% højere click-through-rate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.0,
       "end": 278.0,
       "text": " Det giver også en 20% lavere brandansætelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 284.0,
       "text": " I det øjeblik, de smækker sådan en plængeling-musik på mine pæne kreativer. Og det kan ikke måles.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 284.0,
       "end": 289.0,
       "text": " Men det er ikke en ny ting. Og lige nu er det ret dårligt. Lige om lidt er det rigtig godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 289.0,
       "end": 295.0,
       "text": " Altså billedegenerering i ChatGPT for en måned siden, det var til grin, og det var en joke, så kom 4A Image Generation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 299.0,
       "text": " Nu sidder jeg og laver Facebook-annoncer med det direkte, og bare smækker det op, og det virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 299.0,
       "end": 302.0,
       "text": " Hold kæft, det virker godt. Og det har vi allerede lavet nogle episoder om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 302.0,
       "end": 307.0,
       "text": " Facebook skal nok nå det. De har den tredje største large language model i form af LLMA.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 307.0,
       "end": 312.0,
       "text": " Efter ChatGPT og Claude fra Anthropic. De har nok den tredje største lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 316.0,
       "text": " Det skal nok komme. Og de har den største open source-model, som andre kommer til at arbejde på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 316.0,
       "end": 319.0,
       "text": " Så det er dårligt lige nu, men det skal nok komme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 319.0,
       "end": 323.0,
       "text": " Det, der er det mest interessante at snakke om her, det er, at jeg er fuldstændig sikker på, at de kommer til at lykkes med det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 323.0,
       "end": 329.0,
       "text": " Jeg er 100% sikker på, at Mesa kommer til at lykkes med at sige, giv os dit produkt og din URL, og så skal vi nok lave måling.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 329.0,
       "end": 334.0,
       "text": " Vi skal nok lave målretning, og vi skal nok lave nogle generiske kreativer for dig, hvor vi tager dit produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 334.0,
       "end": 338.0,
       "text": " frit lægger det ind på en baggrund, smækker en pris på, og nogle andre ting, der nok skal komme til at virke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 339.0,
       "end": 343.0,
       "text": " Hvad kommer det her til at betyde? Hvordan kommer man til at differentiere sig i fremtiden, hvis Mesa kan det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 343.0,
       "end": 345.0,
       "text": " Det, synes jeg, er det helt store spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 345.0,
       "end": 349.0,
       "text": " Fordi Mesa-arrangering, er det bare at lægge en URL ind i fremtiden, eller hvad tror du, der kommer til at ske?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 349.0,
       "end": 354.0,
       "text": " Det er der nok mange, der kommer til at gøre. Deres issue bliver så, at de kommer til at ligne alt andet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 354.0,
       "end": 361.0,
       "text": " Og nu nævner du ChatGPT og den billedgenerering, der kan foretages derigennem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 361.0,
       "end": 364.0,
       "text": " Det, jeg synes, der er den store forskel derfra, det vi snakker om lige nu i forhold til Mesa,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 364.0,
       "end": 368.0,
       "text": " det er, at du referent faktisk styrer ChatGPT, som det ser ud lige nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 368.0,
       "end": 372.0,
       "text": " Du kan komme med dine unikke idéer og få dem til at eksekvere på det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 372.0,
       "end": 376.0,
       "text": " Og det håber jeg da også, at Facebook kommer til at implementere i højere grad fremadrettet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 376.0,
       "end": 379.0,
       "text": " så man har noget styring som markedtiger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 379.0,
       "end": 381.0,
       "text": " For ellers tror jeg, at de er forholdsvært.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 381.0,
       "end": 384.0,
       "text": " For ellers bliver det sådan, at køre alle over i en kamp.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 384.0,
       "end": 386.0,
       "text": " Alle virksomheder, det kan du bare ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 386.0,
       "end": 389.0,
       "text": " Nogle virksomheder vil gerne have det ene, nogle virksomheder vil gerne have det andet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 389.0,
       "end": 402.0,
       "text": " Jeg tror, at der er nogle rigtig dårlige annoncer, der kommer til at gøre det her og vil opleve bedre resultater end det, de har lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 402.0,
       "end": 404.0,
       "text": " Fordi hvis du er virkelig dårlig, så er det her bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 404.0,
       "end": 409.0,
       "text": " Jeg tror, at der er nogle annoncer, som i dag bruger tid på at lave gode, ægte kreativer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " som vil bruge det her og opleve, at det er meget dårligere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " Lige præcis fordi det kommer til at ligne alle andre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 416.0,
       "text": " Fordi i det øjeblik, du gør, hvad alle andre gør, så virker det dårligere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 416.0,
       "end": 419.0,
       "text": " Og Metas kreative redskaber vil være at gøre, hvad alle andre gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 425.0,
       "text": " Og det er et gigantisk skridt frem for de uendelig mange virksomheder, som slet ikke annoncerer på Meta i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 427.0,
       "text": " Og man skal huske, at jeg tror, det er det, der er Metas lov at give.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 433.0,
       "text": " Jeg tror ikke, det her er for at tage de annoncerer, Meta har i dag og gøre det bedre for dem via AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 437.0,
       "text": " Jeg tror, det er at tage, altså for hver virksomhed, der annoncerer på Meta, er der jo 100 virksomheder i verden, der ikke gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 437.0,
       "end": 442.0,
       "text": " Og at enable, at de kan gå ind på en annonceplatform og baseret bare skrive deres URL ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 444.0,
       "text": " Og så er der færdige annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 448.0,
       "text": " Det muliggør en 10 gange større annoncerskare, end de har i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 448.0,
       "end": 450.0,
       "text": " Og det er fuldstændig genialt set.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 453.0,
       "text": " Så jeg tror også, folk lidt misforstår, at det ikke handler om dem, der annoncerer i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 456.0,
       "text": " Bliv ved med at gøre det, du gør. Du kan lave bedre kreativer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 459.0,
       "text": " Fordi jeg tror ikke, Facebook kommer til at lave bedre kreativer, end det, man selv kan lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 459.0,
       "end": 462.0,
       "text": " Men jeg tror, de kommer til at lave meget bedre kreativer, end dem, der ingenting laver.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 462.0,
       "end": 465.0,
       "text": " Og åbner døren op for, at der kommer endnu flere annoncerer ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " Og det er sådan first order effekten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 474.0,
       "text": " First order effekten er, at der kommer flere annoncerer ind på meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 474.0,
       "end": 478.0,
       "text": " Second order effekten er CPM-prisen på meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 478.0,
       "end": 480.0,
       "text": " Den kommer til at stige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Det er rigtig godt for mine Facebook-aktier.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 482.0,
       "end": 485.0,
       "text": " Det er rigtig skidt for alle vores kunder på meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 485.0,
       "end": 489.0,
       "text": " Fordi de sammenvisninger kommer til at koste mere, når der er flere annoncerer, der kommer ind på dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 490.0,
       "end": 496.0,
       "text": " Jeg kan egentlig meget godt lide, at de forsøger at banke barrieren for at komme i gang samtidig med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 496.0,
       "end": 498.0,
       "text": " De forsøger jo faktisk at hæve bundniveauet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 498.0,
       "end": 501.0,
       "text": " På en eller anden måde er det jo også med til at øge kvaliteten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 501.0,
       "end": 504.0,
       "text": " Din annonceplatform er jo lige så god som de dårligste annoncerer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 504.0,
       "end": 506.0,
       "text": " Kæden er lige så stærk som sit svageste link osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 506.0,
       "end": 510.0,
       "text": " Og den dårligste annoncerer er jo den, der definerer, hvor meget du får ind i CPM-prisen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " Fordi deres bud stopper der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 516.0,
       "text": " Og jo bedre kreativer du har, jo højere et mindste bud kommer der i auktionen hele tiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 516.0,
       "end": 521.0,
       "text": " Så Facebook har meget mere interesse i at hæve bundniveauet for en million annoncerer, end at hæve topniveauet for én.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 522.0,
       "end": 524.0,
       "text": " Ja, og også fra forbrugernes perspektiv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 524.0,
       "end": 527.0,
       "text": " Altså hvis man kigger på Metas perspektiv i forhold til forbrugerne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 527.0,
       "end": 530.0,
       "text": " De vil jo ikke være på platformen, hvis det er noget rigtig skidt, det der kommer ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 530.0,
       "end": 535.0,
       "text": " Så ved at hæve bundniveauet, så bliver det også bare mere, lad os sige, æstetisk at kigge på på en eller anden måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 535.0,
       "end": 536.0,
       "text": " Det bliver da en bedre oplevelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 536.0,
       "end": 538.0,
       "text": " Altså jeg kan da godt sige, at jeg er ikke på Twitter for annoncerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 539.0,
       "text": " Det er det helt sikkert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 541.0,
       "end": 546.0,
       "text": " Det eneste jeg får, er kraftedeme mail-order-bride-annoncer inde på Twitter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 547.0,
       "end": 550.0,
       "text": " Altså dating-chains til for at møde asiatiske kvinder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 558.0,
       "text": " Det er sådan the worst of the worst falske krypto-schemes og Elon-coin og alt mulig lort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 558.0,
       "end": 562.0,
       "text": " Jeg får de værste annoncer, jeg oplever på hele internettet, på Twitter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " Og det trækker jo ned i oplevelsen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 566.0,
       "text": " Det gør det, det må man bare sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 566.0,
       "end": 569.0,
       "text": " Altså de annoncer, jeg får på Facebook og Instagram.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " Nå, ikke på Instagram, hvis jeg er færdig her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 572.0,
       "text": " De er fandme relevante.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 575.0,
       "text": " Jeg så sådan et Chrome-plugin her den anden dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 578.0,
       "text": " Man kan få sådan nogle Chrome-plugins, som fjerner annoncerne på meter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 578.0,
       "end": 580.0,
       "text": " Jeg fandt et, der fjernede de organiske opslag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 580.0,
       "end": 582.0,
       "text": " Så det eneste, du fik, det var annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 583.0,
       "end": 584.0,
       "text": " Ej, hvor fedt egentlig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 584.0,
       "end": 587.0,
       "text": " Ja, jeg synes, det var mega fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 588.0,
       "text": " Ej, det er godt tænkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 589.0,
       "text": " Så kan jeg slå det til herfra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 592.0,
       "text": " Du ved, der er sådan, den hedder News Feed Eradicator.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 593.0,
       "text": " Den, der går ind og fjerner annoncerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 596.0,
       "text": " Jeg kan ikke huske, hvad den anden hedder, men den har jeg på min station derhjemme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 599.0,
       "text": " Den fjerner bare alle de organiske indhold, så du får rene annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 599.0,
       "end": 603.0,
       "text": " Ej, der er en udvikler, der bare har smækket Uno Reverse-kartet ned på bordet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 603.0,
       "end": 606.0,
       "text": " Ja, Uno Reverse. Så er det bare rene annoncer nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 606.0,
       "end": 607.0,
       "text": " Og det ville jeg også gøre på Twitter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 611.0,
       "text": " For helvede en dårlig oplevelse, jeg ville få det hen, hvis jeg gjorde det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 612.0,
       "text": " Men det er fejlt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 614.0,
       "text": " Og CPM-prisen kommer til at stige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 616.0,
       "text": " Og det er en dårlig nyhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 616.0,
       "end": 620.0,
       "text": " Altså det, man kan håbe, det er, at meter kommer til at modvirke det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 620.0,
       "end": 624.0,
       "text": " ved at fortsætte det arbejde, de gør lige nu med at få folk til at bruge mere tid på platformen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " Fordi det, man skal huske, det er, at CPM-prisen stiger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 628.0,
       "text": " hvis der er flere penge til det samme antal visninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 628.0,
       "end": 631.0,
       "text": " Hvis der er flere penge med flere visninger, så stiger CPM-prisen ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 635.0,
       "text": " Og de sidste to år i Danmark har vi faktisk oplevet, at CPM-prisen falder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 640.0,
       "text": " fordi meter er lykkedes med at få folk til at bruge så lang tid på reels.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 640.0,
       "end": 645.0,
       "text": " Reels er så dårligt monetized, og det er en lavere konverteringsret for reels og stories,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 648.0,
       "text": " end det er i feedet, så det er ikke en fuldstændig en-til-en erstatning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 652.0,
       "text": " Men ikke til så mindre, så CPM-prisen på meter faktisk faldde de sidste år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 652.0,
       "end": 654.0,
       "text": " fordi det kan godt være, at folk bruger flere penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 654.0,
       "end": 658.0,
       "text": " men meter er lykkedes med at vækste antallet af eksponeringer endnu mere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 661.0,
       "text": " end mængden af penge i systemet, og derfor falder CPM-prisen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 661.0,
       "end": 664.0,
       "text": " Hvis det fortsætter, så er alt godt, og så kører vi bare videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 664.0,
       "end": 667.0,
       "text": " Men hvis det ikke fortsætter, så er det svært ikke at forestille sig en verden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 667.0,
       "end": 670.0,
       "text": " hvor at meters CPM-pris kommer til at stige på baggrund af det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 670.0,
       "end": 674.0,
       "text": " Og det leder til den ultimative pointe for den her episode, som er, at du skal være bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 674.0,
       "end": 677.0,
       "text": " Og i en verden, hvor meter håndterer din måling for dig og gør det rigtig godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 679.0,
       "text": " og de håndterer din målretning og gør det rigtig godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 679.0,
       "end": 685.0,
       "text": " så er der ét sted på meters platform, hvor du fortsat har mulighed for at differentiere dig og være bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 685.0,
       "end": 688.0,
       "text": " Og det er at lade vær med at bruge den funktion, der autogenererer dine kreativer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 690.0,
       "text": " og lave bedre kreativer selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 690.0,
       "end": 693.0,
       "text": " Hvad er bedre kreativer? I vores verden, i min verden i hvert fald, så er det personlighed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 693.0,
       "end": 697.0,
       "text": " Jeg ser personlighed som det ultimative værn mod AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 697.0,
       "end": 700.0,
       "text": " Så til folk, der er trætte af at se mig i deres feed, kraftedeme ærgerligt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 700.0,
       "end": 702.0,
       "text": " men jeg tror, de kommer til at se mere af mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 702.0,
       "end": 706.0,
       "text": " Fordi kreativer med mig fungerer bedre end generiske kreativer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 706.0,
       "end": 710.0,
       "text": " Kreativer med en hvilken som helst person fungerer bedre end generiske kreativer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 710.0,
       "end": 713.0,
       "text": " Men det er nemmere for mig at lave en video med mig, end det er at lave en video med dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 713.0,
       "end": 716.0,
       "text": " Fordi jeg er her. Så jeg kan bare gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 716.0,
       "end": 720.0,
       "text": " Og derfor kommer der til at være flere videoer med mig i Obsidiens Marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 720.0,
       "end": 724.0,
       "text": " Fordi det er ikke AI genereret. Og folk kan se, det er ikke AI genereret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 724.0,
       "end": 729.0,
       "text": " Og jeg tror, det bliver endnu vigtigere i en fremtid, hvor mere content bliver AI genereret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 729.0,
       "end": 732.0,
       "text": " Hvad kommer du til at gøre? Flere videoer med mig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 733.0,
       "end": 736.0,
       "text": " Ej, det kan jeg godt nok ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 736.0,
       "end": 738.0,
       "text": " Du er rigelig i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 738.0,
       "end": 741.0,
       "text": " Jeg tror snart, vi bliver nødt til at split-test billeder og videoer med dig",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 741.0,
       "end": 743.0,
       "text": " med en anden ene her fra organisationen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 743.0,
       "end": 747.0,
       "text": " Min målsætning, Tino, med det her podcast, det er, at du skal sidde hjemme i sofaen i din lejlighed",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 747.0,
       "end": 751.0,
       "text": " sammen med din kæreste, og på hendes feed ser hun mig, når hun scroller igennem Instagram.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 751.0,
       "end": 754.0,
       "text": " Det er sket. Det er sket.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 754.0,
       "end": 757.0,
       "text": " Om til flere gange.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 757.0,
       "end": 760.0,
       "text": " Likede hun det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 760.0,
       "end": 762.0,
       "text": " Det gjorde hun sgu egentlig nok.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 762.0,
       "end": 765.0,
       "text": " Jo, det er godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 765.0,
       "end": 767.0,
       "text": " Mission accomplished.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 767.0,
       "end": 769.0,
       "text": " Jeg synes, du rammer rodet på sømmet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 769.0,
       "end": 771.0,
       "text": " Altså, Anissa har sikkert også set nogle opstemmer af dig, og så har hun spurgt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 771.0,
       "end": 775.0,
       "text": " han ligner ham der Liam Gallagher.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 775.0,
       "end": 777.0,
       "text": " Hvis du vidste, det er ikke ham, der spurgte dig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 777.0,
       "end": 779.0,
       "text": " Hvorfor skal jeg få det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 779.0,
       "end": 783.0,
       "text": " Det er en sikker kommentar på vores TikTok-videoer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 783.0,
       "end": 786.0,
       "text": " Jeg vidste ikke engang, der var en fodboldspiller, der hedder Liam Gallagher,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 786.0,
       "end": 790.0,
       "text": " men så googlede jeg ham, og så kunne jeg se, at du spillede i en irsk andendivisionsklub.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 790.0,
       "end": 794.0,
       "text": " Nej, ikke mere. Det var dengang. Der ligner ham også virkelig meget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 794.0,
       "end": 797.0,
       "text": " I dag er han en stjerne for Atletico Madrid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 797.0,
       "end": 800.0,
       "text": " Nå, okay.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 800.0,
       "end": 803.0,
       "text": " Men jeg synes, du rammer hovedet på sømmet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 803.0,
       "end": 807.0,
       "text": " Det, man skal huske på, og det du har taget stilling til ved at sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 807.0,
       "end": 810.0,
       "text": " det skal være mere personligt, det er jo en strategisk retning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 810.0,
       "end": 813.0,
       "text": " Den strategiske retning kan Facebook ikke give dig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 813.0,
       "end": 815.0,
       "text": " Ja, det er godt, at de kan lave noget kreativt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 815.0,
       "end": 818.0,
       "text": " men passer det kreative i den strategiske retning, du gerne vil tage for din forretning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 818.0,
       "end": 820.0,
       "text": " det er det, der er vigtigt at forholde sig til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 820.0,
       "end": 823.0,
       "text": " Og jeg tror, i 9 ud af 10 tilfælde, så vil det ikke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 823.0,
       "end": 825.0,
       "text": " fordi det vil være sådan et relativt standard kreativt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 825.0,
       "end": 828.0,
       "text": " Så på den måde, hele tiden have din nordstjerne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 828.0,
       "end": 830.0,
       "text": " sige, hvor er det, vi gerne vil hen, hvad er det, folk skal kende os for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 830.0,
       "end": 832.0,
       "text": " hvad er det, folk skal huske os for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 832.0,
       "end": 834.0,
       "text": " Og det kreative, jeg så får spørget ud af, om det er at tjekke KPT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 834.0,
       "end": 836.0,
       "text": " om det er noget, du selv laver, om det er noget, Meta laver,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 836.0,
       "end": 840.0,
       "text": " taler det rent faktisk ind i den narrativ, det er historie, du gerne vil have,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 840.0,
       "end": 842.0,
       "text": " folk fortæller om dig og dit brand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 842.0,
       "end": 844.0,
       "text": " Hvis ikke, så skal det gentænkes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 846.0,
       "text": " Meget enig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 846.0,
       "end": 848.0,
       "text": " Tine, nu kommer du snart til at købe nogle flere aktier i Mesa,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 848.0,
       "end": 850.0,
       "text": " det er det, alle gerne vil vide.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 850.0,
       "end": 852.0,
       "text": " Jamen, jeg er ked af at sige det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 852.0,
       "end": 854.0,
       "text": " Det har jeg faktisk gjort i sidste uge.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 854.0,
       "end": 856.0,
       "text": " Ej!",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 856.0,
       "end": 858.0,
       "text": " Du kunne da snart ned ad markedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 861.0,
       "text": " Hvis du lette efter signalet til at sælge ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 861.0,
       "end": 863.0,
       "text": " på grund af et kommende downturn og recession,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 863.0,
       "end": 865.0,
       "text": " så var det lige der, du hørte det på Marketingpod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 865.0,
       "end": 867.0,
       "text": " Først tusind tak for, at du løb med os i dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

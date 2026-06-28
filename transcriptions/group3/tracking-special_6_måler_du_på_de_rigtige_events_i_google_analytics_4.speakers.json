@@ -9,317 +9,321 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 5.0,
       "text": " Hvad har du for dank?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 5.0,
       "end": 14.0,
       "text": " I den her sjette episode ud af syv af vores lille tracking kursus, der skal vi snakke om, hvorvidt man måler på de rigtige hændelser i Google Analytics 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 21.0,
       "text": " Og vil du ikke lige starte med at uddybe, hvorfor er det her overhovedet et problem? Skal man ikke bare måle på alle hændelser?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 21.0,
       "end": 37.0,
       "text": " Prinzipielt set jo, og det gør man jo egentlig også. Det, der er issuet, det er, at man kan komme til at fortælle Google Analytics, at nogle af de hændelser, eller tidligere også kendt som konverteringer, er dem, der er de absolut vigtigste for forretningen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 37.0,
       "end": 44.0,
       "text": " Og så pludselig bliver det de events, der kommer ud, og man spytter ud i sine platforme, f.eks. Google Ads. Lad mig prøve at komme med et eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 44.0,
       "end": 54.0,
       "text": " Lad os sige, at du har en masse forskellige hændelser, og du er i en e-commerce. Der er alt fra Add to Cart, til Completed Order, til Purchase, og der er alle mulige forskellige hændelser.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 54.0,
       "end": 65.0,
       "text": " Der er så en kolonne i GF4, der hedder Marker som vigtig hændelse. Og når man sidder og kigger, og man har en masse andre ting at jonglere med som erhvervsdrivende, så sidder man jo tænkende på, at Add to Cart, altså tilføje til koden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.0,
       "end": 67.0,
       "text": " Ja, det er sgu da vigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.0,
       "end": 80.0,
       "text": " Ja, det er vigtigt. Den vinger vi af, og så vinger vi Purchase af, og så videre, og så videre. Det, der bare er problemet ved det er, at lige så snart vi vinger de her af, så bliver det rent faktisk de konverteringer, vi så f.eks. sender retur til Google Ads,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 80.0,
       "end": 92.0,
       "text": " hvis konverterings- eller tracking er sat op, således at det er Google Analytics 4, der skyder konverteringerne ind til Google Ads. Og pludselig så har du både Add to Cart, du har Purchase, og du har altså antallet af konverteringer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 92.0,
       "end": 96.0,
       "text": " men også værdien, der er på. Og det bliver altså noget råd. Det bliver noget rigtig råd lige pludselig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 96.0,
       "end": 105.0,
       "text": " Altså, man kommer til at tro, at man måske har flere konverteringer, end man i virkeligheden har. Og tidligere, der hed det her konverteringer. Nu sidder jeg og deler skærm til folk, der ser med på YouTube eller Spotify med video,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 105.0,
       "end": 115.0,
       "text": " og vi er inde i obsidian.dk og Google Analytics 4-konto. Der kan vi se ejendomsindstillinger, datavisning og så hendelser. Og der kan man se den her, du nævner, der hedder Markér som vigtige hendelser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 115.0,
       "end": 125.0,
       "text": " Det hed tidligere konverteringer. Jeg tror årsagen til, at I har omdøbt det, det er, at konverteringer er måske heller ikke helt retvisende for alle vigtige hendelser. Du kan godt have noget, der er vigtigt, uden det er en decideret konvertering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 125.0,
       "end": 133.0,
       "text": " Så jeg kan egentlig ikke godt forstå, hvorfor de har ændret terminologien i det her. Udfordringen i det, det er jo, at man kan komme til at markere mange ting som vigtige hendelser, fordi som du siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 133.0,
       "end": 142.0,
       "text": " Add to Cart, det er da også vigtigt, uden Add to Cart får vi ingen Purchase. Men når du så går ind og måler og tror, at det er konverteringer eller Purchase, du kigger på, så får du bare alt muligt andet at skravle og kratte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 142.0,
       "end": 154.0,
       "text": " Og det skal man bare være opmærksom på, og jeg oplever, at det ikke er alle, der er opmærksomme på det. Og det er derfor, vi laver en video om det nu, fordi det har stor indflydelse på, hvordan man aflæser resultaterne i ens Google Ads og Google Analytics, hvis man gør det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 163.0,
       "text": " En lille note, jeg vil nævne, det er, at man bør i øvrigt ikke importere konverteringer fra Google Analytics 4 og ind i Google Ads. Altså hvis man gør det, så skal man kigge på ens tracking setup i øvrigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 163.0,
       "end": 170.0,
       "text": " Man bør opsætte dem native i Google Ads. Det giver mulighed for at sætte enhanced conversions op og lave mange flere indstillinger i forhold til konverteringsperioder, og du måler simpelthen flere konverteringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 170.0,
       "end": 178.0,
       "text": " Men det er også bare, når du aflæser dine data ind i Google Analytics 4, så vil du gerne aflæse noget, der er retvisende for den værdi, der er skabt, så du budgetallokerer korrekt. Så det er stadig vigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 187.0,
       "text": " Og det, man skal lægge mærke til, det er jo herovre markeret som en vigtig hændelse. Og Obsidian har en del konverteringshændelser sat op. Der er både standardhændelserne i Google Analytics 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.0,
       "end": 195.0,
       "text": " Det er sådan noget som Click, First Visit, Page View, Scroll og Session Start. Det er allesammen ting, som Google selv lægger ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 195.0,
       "end": 207.0,
       "text": " Derudover så har vi konverteringshændelser sat ind på folk, som udfylder vores Hotspot kontaktformular og oplever om at blive kontaktet, hvis folk klikker på et email link, hvis folk klikker på et telefon link.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 211.0,
       "text": " Og der er en anden service side, der har en kontaktformular, som vi også måler på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 211.0,
       "end": 220.0,
       "text": " Og hvis man så går ind i vigtige hændelser, kan man se, hvad det er, vi rent faktisk optimerer efter her. Og der ligger nogle standard ting. Der ligger et purchase, man faktisk ikke kan fjerne, uanset om man er e-commerce eller ej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 226.0,
       "text": " Og så ligger de hændelser, man rent faktisk optimerer efter, som i vores helefald er noget kæmpe råd. Vi ligger med en masse hændelser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 234.0,
       "text": " Der er sådan en hændelse, der hedder Test. Nul konverteringer. Den er vigtig. Den kan jeg så lige plads til at fjerne nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.0,
       "end": 245.0,
       "text": " Pointen her er, at jeg tror faktisk, at der er mange, der ikke rigtig tjekker det her. Og hvis ikke man tjekker det, så sidder man og risikerer folk, der kommer ind i Google Analytics for første gang og tænker sådan, hold da op, hvad er det rent faktisk, vi gør det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 245.0,
       "end": 251.0,
       "text": " Men det her er jo faktisk pointen. Du viste faktisk pointen der. Den her Test her, nu ved jeg ikke, hvad den er sat op til, og det tror jeg heller ikke, at du ved.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 251.0,
       "end": 257.0,
       "text": " Men det kunne jo godt være et eller andet, der trigger lige pludselig. Men hvis ikke man er inde og kigge på det her, så kan man sidde i sin Google Analytics overview og så sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 257.0,
       "end": 265.0,
       "text": " hold kæft, det kører bare. De her annoncer, vi lige har lavet på TikTok, det spiller bare. Ja, der får du for helvede mange testhændelser.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 267.0,
       "end": 272.0,
       "text": " Så anbefalingen herfra, det er lige at gå ind og kigge på, hvad du rent faktisk sidder med i Google Analytics 6.4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 272.0,
       "end": 277.0,
       "text": " Altså det, der også bare sker for mange virksomheder, det er jo, at der er forskellige personer, der er inde over marketing gennem forskellige perioder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 277.0,
       "end": 284.0,
       "text": " Måske får man nye marketingmedarbejdere, eller det kan være, man skifter bureau på i et tidspunkt. Der er sådan en masse personer, der har inde og været berøring, og nogle gange så går man lige ind og rydder op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 284.0,
       "end": 292.0,
       "text": " Det glemmer man da. Så det, man skal gøre, det er at gå ind i Google Analytics 6.4. Tryk på sådan en administratorgearhjulet nede i venstre hjørne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 292.0,
       "end": 300.0,
       "text": " Så skal man ind under det, der lige nu hedder datavisning i venstre side under ejendomsindstillinger og tryk på hændelser og vigtige hændelser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 308.0,
       "text": " Hvis man sidder i bilen og tænker, hvordan skal jeg huske alt det her, så bare google efter, how to find key events in Google Analytics 6.4 eller et eller andet stil, så finder du det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 308.0,
       "end": 320.0,
       "text": " Det er ikke særlig svært at finde frem til. Det, man skal gøre det for, det er at se, om det, der ligger derinde rent faktisk er retvisende for det, man ønsker at måle på, når man så går ind i en Google Analytics rapporter og ser, hvor mange kommenteringer har jeg fået.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 320.0,
       "end": 327.0,
       "text": " Hvis man er en webshop, så er det jo meget simpelt. I min optik, så bør man faktisk ikke have andre vigtige hændelser end purchase. Hvad synes du der?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 327.0,
       "end": 333.0,
       "text": " Nej, helt enig. Jeg har lige siddet og kigget en tre forskellige konte igennem, og det er det samme. Det er purchase som den eneste vigtige hændelse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 333.0,
       "end": 348.0,
       "text": " Hvad, hvis du er en B2B virksomhed? Ice Digital, hvad bliver der målt på på Google Analytics 4? Nu så vi jo en episode for nylig, der var ikke branded Google Ads på Ice Digital, så den digitale modenhed er måske begrænset, men er der sat kommenteringsspøringer op på Ice Digitals Google Analytics 4-konto?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 348.0,
       "end": 352.0,
       "text": " Nu er det ikke det, der sidder på mit bord, så det er jeg faktisk lidt i tvivl om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 352.0,
       "end": 356.0,
       "text": " Det er simpelthen utroligt, som du skyder den der videre. Er det Søren igen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 356.0,
       "end": 366.0,
       "text": " Det er Søren hver gang. Han får mig til at se så dum ud på de her podcaster. Søren, jeg ved, du lytter med. Please, nu skal vi altså have gjort noget ved det her. Jeg kan simpelthen ikke tage det mere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 371.0,
       "end": 374.0,
       "text": " Hvad bør man måle på som B2B virksomhed i din optik?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 374.0,
       "end": 387.0,
       "text": " Det vil nok være udfyldelse af kontaktformuler, klik på e-mail adressen på hjemmesiden, klik på telefonnummer på hjemmesiden. Det er sådan de tre primære.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 387.0,
       "end": 393.0,
       "text": " Hvis man kører webinars, måle på hvor mange der tilmelder sig webinars, whitepapers, hvor mange der eventuelt downloader dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 393.0,
       "end": 403.0,
       "text": " Hvis man er for eksempel B2B SAS, så vil man typisk have nogle meget relevante kommenteringshændelser med folk, der for eksempel beder om priser, booker en demo, beder om at blive kontaktet og de her ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 403.0,
       "end": 415.0,
       "text": " Men vær lidt konservativ i forhold til, hvad der rent faktisk bliver markeret som en vigtig hændelse eller en kommentering, fordi det har bare besydning for, hvilke data man aflæser og hvor godt man tror, det rent faktisk går.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 422.0,
       "text": " Tusind tak til dig, at du lyttede med på episoden og gå lige ind i Google Analytics 4 og se, hvad du rent faktisk har markeret som vigtige hændelser lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

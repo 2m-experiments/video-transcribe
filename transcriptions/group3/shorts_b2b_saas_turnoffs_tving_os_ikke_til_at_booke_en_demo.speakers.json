@@ -9,1727 +9,1731 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 5.0,
       "text": " Halftanden?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 5.0,
       "end": 7.0,
       "text": " I den her episode skal vi snakke om B2B turnoffs.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 7.0,
       "end": 12.0,
       "text": " Vi repræsenterer jo en samlede softwareomsætning på hvad Obsidian bruger ca. 4 millioner om året,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 14.0,
       "text": " ICE bruger en lille smule penge, derudover os.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 23.0,
       "text": " Så vi er sådan en OK, avid B2B SAS kunder, som køber 100 forskellige værktøjer og ligger og køber alle mulige forskellige ting",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 25.0,
       "text": " og opgraderer og nedgraderer og alt muligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 31.0,
       "text": " Og der er nogle ting, som vi har lagt mærke til, som ikke er særlig fedt i processen, når vi skal købe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 31.0,
       "end": 36.0,
       "text": " Og det er jo noget, vi er særlig opmærksomme på, fordi B2B SAS er jo en af de industrier, vi arbejder allermest med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 41.0,
       "text": " Også som har sin helt egen industrie ekspert hos os og partner med særlig fokus på det og alle mulige ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 41.0,
       "end": 43.0,
       "text": " Så det er jo også noget, vi snakker med vores kunder om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 43.0,
       "end": 46.0,
       "text": " Vi tænkte, det kunne være lidt sjovt at lave en episode om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 46.0,
       "end": 51.0,
       "text": " Signe, vil du ikke bare lægge ud med, hvad er det første B2B SAS turnoff, som køber?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.0,
       "end": 54.0,
       "text": " Ja, men det første er, hvis ikke der er priser på hjemmesiden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 54.0,
       "end": 56.0,
       "text": " Årh, hvis der står contact sales.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 56.0,
       "end": 60.0,
       "text": " Altså, du har lige forestillet dig, at du har lige sat dig til ret, og du har fundet et B2B SAS værktøj,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 60.0,
       "end": 62.0,
       "text": " der bare kan lige præcis det, man gerne vil.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 62.0,
       "end": 65.0,
       "text": " Og de har styr på alt andet, og man går ind under pricing, som man altid gør.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.0,
       "end": 67.0,
       "text": " I hvert fald, nu er jeg jyde. Jeg går altid ind på pricing.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 67.0,
       "end": 70.0,
       "text": " Jeg går ind på pricing, før jeg overhovedet har set, hvad værktøjet kan.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 70.0,
       "end": 72.0,
       "text": " Ja, det er bare start og stop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 72.0,
       "end": 77.0,
       "text": " Og når man så kommer ind og skal igennem en demo, og hvis man så skal ind og lave en kalender,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 77.0,
       "end": 82.0,
       "text": " eller hvad hedder det, request en kalender, et kalendertidspunkt, hvor de har tid til at mødes med en.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 82.0,
       "end": 85.0,
       "text": " Ej, for pokker. Jeg vil gerne vide, hvad de koster.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 85.0,
       "end": 89.0,
       "text": " Det er, og jeg ved ikke, hvad argumentet er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 89.0,
       "end": 91.0,
       "text": " Det er et godt argument for at gøre det på den her måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 91.0,
       "end": 93.0,
       "text": " Det skal der nok være, men årh, det er så frustrerende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 93.0,
       "end": 96.0,
       "text": " Det er det værste, jeg overhovedet ved, det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 96.0,
       "end": 99.0,
       "text": " Jeg skal lige knykke en hurtig kommentar til selve den her episode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 99.0,
       "end": 103.0,
       "text": " fordi det kommer så egentlig af, at jeg har sådan nogle forskellige noticeblokke på min computer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 103.0,
       "end": 107.0,
       "text": " på min telefon, hvor jeg løbende noterer ned, når der er et eller andet, jeg oplever.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 107.0,
       "end": 115.0,
       "text": " Mange af de her noter fra i dag er noget, som jeg har tænkt over, når jeg har skrevet mig op til de her SAS-værktøjer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 115.0,
       "end": 118.0,
       "text": " Og det er så også noget, vi kan tage med videre, når vi sidder og snakker med Casey.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 118.0,
       "end": 121.0,
       "text": " Så det har jeg egentlig inden for e-commerce og med B2B SAS osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 121.0,
       "end": 131.0,
       "text": " Og så har du jo så berød den her liste her, fordi du har jo også virkelig, virkelig, virkelig mange forskellige B2B SAS-værktøjer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 132.0,
       "end": 136.0,
       "text": " Men den her med priser på hjemmesiden, det er simpelthen en af de værste. Det er bare en af de værste.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 136.0,
       "end": 138.0,
       "text": " Ja, det er det. Jeg kan komme med et konkret eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.0,
       "end": 142.0,
       "text": " Altså, vi bruger det software, der hedder Riverside.fm til at optage marketing på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 142.0,
       "end": 146.0,
       "text": " Og der har vi sådan, vi har proversionen, men der findes en version over det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 148.0,
       "text": " som har nogle funktionaliteter, som jeg faktisk godt kunne tænke mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 152.0,
       "text": " Blandt andet, at du kunne få dit eget login, i stedet for, at vi sidder og deler login-interviewer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.0,
       "end": 153.0,
       "text": " Jeg er altid gæst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 153.0,
       "end": 154.0,
       "text": " Ja, du er altid gæst.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 154.0,
       "end": 155.0,
       "text": " Login as gæst.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 156.0,
       "end": 157.0,
       "text": " Nu skal jeg tage mit navn ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 158.0,
       "end": 160.0,
       "text": " 35. episode, vi sidder og optager.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 160.0,
       "end": 162.0,
       "text": " Ja, og du er heller ikke lov til at styre media-bordet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.0,
       "end": 163.0,
       "text": " Altså, fordi du kun er gæst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 163.0,
       "end": 165.0,
       "text": " Den eneste, der kan trykke på den her ...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 167.0,
       "end": 168.0,
       "text": " Det er mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 169.0,
       "end": 172.0,
       "text": " Som altid lige er høj. Hold kæft, hvor er den høj, når vi slags spiller den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.0,
       "end": 176.0,
       "text": " Men der er sådan nogle funktionaliteter, som jeg godt kunne tænke mig, at vi egentlig begge to har adgang til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 176.0,
       "end": 177.0,
       "text": " Hvorfor har vi det så ikke?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 177.0,
       "end": 181.0,
       "text": " Det er fordi, for at jeg kan opgradere til premium, så er der en knap, der hedder Talk with Sales.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 181.0,
       "end": 182.0,
       "text": " Og det gør vi ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 182.0,
       "end": 184.0,
       "text": " Jeg nægter Talk with Sales.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 184.0,
       "end": 185.0,
       "text": " Det er den værste knap på hele internetet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.0,
       "end": 187.0,
       "text": " Det er det sidste, jeg har lyst til i hele verden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.0,
       "end": 192.0,
       "text": " Jeg vil faktisk hellere blive på pro-planen og bare acceptere, at du til evig tid er gæst i mit podcast.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 196.0,
       "text": " Det er et offer, jeg er villig til at bringe, hvis jeg ikke skal talk with sales.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 196.0,
       "end": 199.0,
       "text": " Og jeg har endda skrevet til dem, can you send me pricing?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 199.0,
       "end": 201.0,
       "text": " De svarede ikke på den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 201.0,
       "end": 203.0,
       "text": " Det er den største købsmænd, jeg har i hele verden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 203.0,
       "end": 205.0,
       "text": " Jeg vil bare have prisen. Hvis prisen er ok, så skal jeg nok opgradere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 205.0,
       "end": 207.0,
       "text": " Hvis jeg bare kan slippe for at snakke med en eller anden om det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 209.0,
       "text": " Og der ved jeg godt, at der er folk forskellige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 211.0,
       "text": " Altså, der er også nogen, der gerne vil snakke med sales som det første.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 211.0,
       "end": 213.0,
       "text": " Og bare gerne vil F-lade deres nummer og ringe sig op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 215.0,
       "text": " F-lade mit nummer og ringe op, det er mit mareridt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 215.0,
       "end": 218.0,
       "text": " Det er det absolut sidste, jeg har lyst til i hvilken som helst købproces.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 218.0,
       "end": 221.0,
       "text": " Men hvis vi nu lige skal vende den her op i et øjeblik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 221.0,
       "end": 225.0,
       "text": " Hverken ICE Digital eller Obsidian Digital har priser på vores hjemmeside.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 225.0,
       "end": 227.0,
       "text": " Er vi hypocritical lige nu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.0,
       "end": 230.0,
       "text": " Vi er ikke B2B SAS, i hvert fald ikke ICE.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 230.0,
       "end": 232.0,
       "text": " Så det er mit bedste svar.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 232.0,
       "end": 234.0,
       "text": " Ja, og det vil jeg nemlig også sige, hvis der er nogen, der spørger om det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 234.0,
       "end": 237.0,
       "text": " Fordi jeg ved, at der er også nogen, der er træt af at bruge og ikke har priser på websitet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 238.0,
       "end": 242.0,
       "text": " Men jeg kan også bare sige, at vi har kunder, der betaler 5.000, og vi har også nogle kunder, der betaler 52.000.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 247.0,
       "text": " Så vores produkt er helt vildt tilpasset, og vi har ikke nogen bronze, sølv og guld pakker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 247.0,
       "end": 251.0,
       "text": " Hvor B2B SAS er typisk ret kasseopdelt, og der er en bronze, sølv og guld pakke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 255.0,
       "text": " Så lad mig nu bare sætte en skide pakke, så jeg kan få lov til at vælge, om det er relevant, i stedet for at spille tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 258.0,
       "text": " Altså resultatet er, at jeg køber bare ikke produkter, hvis ikke jeg kan se prisen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 258.0,
       "end": 260.0,
       "text": " Fordi jeg anser, at prisen er høj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 262.0,
       "text": " Og så finder jeg et andet værktøj, hvor jeg kan købe det med det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 262.0,
       "end": 265.0,
       "text": " Fordi så kan jeg se nu, om det er relevant, og så kan jeg købe det eller lade være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 265.0,
       "end": 273.0,
       "text": " Den næste ting, når der ikke er lavet specifikke undersider til use cases, så man kan se for eksempel præcis, hvordan en agency kan forgavne toolet, synes jeg også er ærgerligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 273.0,
       "end": 280.0,
       "text": " Fordi jeg synes, at industrisider på et B2B SAS er et af de mest konverteringsoptimale redskaber, man overhovedet kan bruge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 286.0,
       "text": " Så hvis jeg kan gå ind på et tool og se, how other agencies use this, så vil jeg altid klikke på den, og så vil jeg kunne forstå use casen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 286.0,
       "end": 292.0,
       "text": " Så skal vi se, hvor en eller anden advokatvirksomhed har brugt det, eller en revisionsvirksomhed, eller en almindelig konsulenthus, eller hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 292.0,
       "end": 301.0,
       "text": " Så man kan sige, at I måske ikke har turn off så meget, så det bare er en kæmpe træt opportunity i forhold til konverteringsoptimering, og vise, hvordan andre tilsvarende brancher bruger den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 307.0,
       "text": " Det er så ærgerligt, og det er faktisk sjældent, jeg ser de her B2B SAS værktøjer prioritere og lave de.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 307.0,
       "end": 309.0,
       "text": " Der kan jo laves uendeligt mange.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 309.0,
       "end": 317.0,
       "text": " Jeg kan bare ikke lade mig sidde og tænke på, at det må konverteres så godt, at du får lov til at tale direkte ind i den problemstilling, som den givende kunde har, og vise, hvordan du løser det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 317.0,
       "end": 324.0,
       "text": " Og det er ikke samme problemstillinger, at agency står med som en webshop, men keyword toolet, hvis vi bare tager det som udgangspunkt, som ligger i midten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 324.0,
       "end": 331.0,
       "text": " Jamen der er bare så mange muligheder for at vise, hvordan agency kan bruge det her, og rent faktisk få gavn af det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 331.0,
       "end": 334.0,
       "text": " Men det ville være en anden måde i webshoppen, eventuelt ville du skulle bruge det, ikke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 334.0,
       "end": 336.0,
       "text": " Arh, det er så ærgerligt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 336.0,
       "end": 341.0,
       "text": " Og der er også en mist opportunity i forhold til sådan en programmatisk saveplay her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 341.0,
       "end": 346.0,
       "text": " Fordi hvis man først laver et stort spreadsheet med alle forskellige industrier, og så lister fordele ned ved dem, usecases osv.,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 346.0,
       "end": 351.0,
       "text": " så er det ikke kanonsvært at lave en programmatisk publicering af dem via sådan et make.com-script eller et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 351.0,
       "end": 359.0,
       "text": " hvor du så lige pludselig har, lad os sige, 100 forskellige industrier, eller et eller andet den stil, så du kan begynde at ranke på X tool for Y industry.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 359.0,
       "end": 363.0,
       "text": " Så det er både sådan en konverteringsautomering i redskab, det er et trafikgenererende redskab,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 363.0,
       "end": 366.0,
       "text": " det er noget, der skaber noget frustration og påbrugeren, når det kommer ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 366.0,
       "end": 372.0,
       "text": " Så de her industrisider, jeg synes, de er key i forhold til at få flere konverteringer som B2B SAS.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 377.0,
       "text": " En anden ting, du har lagt på, det er videoer af toolet, som jeg synes er ret interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 377.0,
       "end": 381.0,
       "text": " Ja, og det er jo fordi, at ofte så, når du skal ind og bruge et nyt tool, så skal du have et login,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 381.0,
       "end": 385.0,
       "text": " og så skal du igennem hele den her proces her for at oprette dig, og der skal sikkert også tilføjes noget kreditkort,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 385.0,
       "end": 389.0,
       "text": " selvom at der er syvdagsgratis trial, og det er noget, vi kommer ind på her senere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 389.0,
       "end": 391.0,
       "text": " Og jeg vil egentlig bare gerne lige se, hvordan det egentlig er, og hvad fungerer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 391.0,
       "end": 397.0,
       "text": " fordi jeg har en ret god idé og tanke om, hvad det er, jeg gerne vil have, det her tool skal kunne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 397.0,
       "end": 400.0,
       "text": " Og en ting er, at jeg kan sidde og se på en hjemmeside, en onepager typisk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 400.0,
       "end": 402.0,
       "text": " hvor der bare bliver skrevet en masse fane ting omkring det her tool,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 402.0,
       "end": 405.0,
       "text": " og man kan ikke se det er industrispecifikt, så jeg kunne godt tænke mig at komme ind og se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 405.0,
       "end": 409.0,
       "text": " hvad er det egentlig, toolet det kan, og det kan man jo med en video, det er relativt simpelt og nemt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 409.0,
       "end": 412.0,
       "text": " Men nøj, hvor er det bare sjældent, at der er en video, og hvis der endelig er,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 412.0,
       "end": 414.0,
       "text": " så er det typisk en eller anden animeret video.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 414.0,
       "end": 417.0,
       "text": " Altså en animeret video, hvor der er nogen, der har siddet og tegnet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 417.0,
       "end": 419.0,
       "text": " det er nok et eller andet tool, de har brugt til det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 419.0,
       "end": 422.0,
       "text": " hvor de viser en eller anden person, der bruger de her tooler og er rigtig glad for det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 422.0,
       "end": 424.0,
       "text": " men de viser aldrig softwaren, end behind the scenes.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 424.0,
       "end": 427.0,
       "text": " Jeg vil langt hellere se en loom video, hvor de sidder og gennemgår,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 427.0,
       "end": 432.0,
       "text": " lidt af en demo faktisk, en optaget demo, hvor de gennemgår de forskellige use cases,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 432.0,
       "end": 434.0,
       "text": " eller de forskellige funktioner, hvor jeg så kan sidde og spole.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 434.0,
       "end": 437.0,
       "text": " Og Sasa havde faktisk en...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 437.0,
       "end": 440.0,
       "text": " Kan du huske, der var sådan en periode på internettet for sådan 8-10 år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 440.0,
       "end": 442.0,
       "text": " hvor man havde tilbrugt de der små animerede videoer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 444.0,
       "text": " hvor man havde sådan nogle færdige tools til at lave dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 444.0,
       "end": 446.0,
       "text": " hvor der så kommer sådan en animeret person ind fra venstre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 446.0,
       "end": 449.0,
       "text": " Here is Bob. Bob han er manager i et mellembyrå.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 449.0,
       "end": 451.0,
       "text": " Han har det her og det her og det her problem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " Og så er der sådan tre minutter med sådan nogle små, nærmest papfigurer, der er animeret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " Hvad var det, de hed?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 455.0,
       "end": 457.0,
       "text": " Jeg kan simpelthen ikke huske det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 457.0,
       "end": 459.0,
       "text": " Det var helt forfærdeligt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 459.0,
       "end": 462.0,
       "text": " Hver gang jeg så det, så tænkte jeg, skal jeg bruge tre minutter på at se det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 462.0,
       "end": 464.0,
       "text": " Forfærdeligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 464.0,
       "end": 465.0,
       "text": " En sjov p-story dertil.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " Så er han skriverpartner i Eyes og jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 467.0,
       "end": 472.0,
       "text": " Vi startede vores første webshop for 12 år siden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 472.0,
       "end": 474.0,
       "text": " Var det før USB-shoppen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 474.0,
       "end": 476.0,
       "text": " Nej, det var lige efter USB-shoppen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 479.0,
       "text": " Efter USB-shoppen, som jo var verdens mest fremtidssikrede webshop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 479.0,
       "end": 481.0,
       "text": " der solgte fysisk USB-sticks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Det var fandme godt solgt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 483.0,
       "end": 486.0,
       "text": " Jamen der havde vi en webshop, hvor vi solgte kostymer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 486.0,
       "end": 490.0,
       "text": " Og der på forsiden, der har vi simpelthen valgt at sidde og lave den her video her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 490.0,
       "end": 492.0,
       "text": " med det der tool, der nogle gange kunne lave de animerede videoer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 492.0,
       "end": 494.0,
       "text": " Det var tre minutter lang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 494.0,
       "end": 496.0,
       "text": " Jeg aner ikke, hvorfor folk nogensinde skulle se den video,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 496.0,
       "end": 497.0,
       "text": " de skulle ind og købe kostymer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 497.0,
       "end": 499.0,
       "text": " Jeg tror så, det var et CO-mæssigt perspektiv,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 499.0,
       "end": 502.0,
       "text": " at dengang der var CO-gamed lidt noget andet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 502.0,
       "end": 503.0,
       "text": " Og det var bare godt at have en video på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Men der brugte vi faktisk de tools der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 505.0,
       "end": 506.0,
       "text": " Men jeg vil ikke anbefale det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 506.0,
       "end": 509.0,
       "text": " Hverken til webshops eller til SAS-værktøjer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 509.0,
       "end": 510.0,
       "text": " fordi det er så ærgerligt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 510.0,
       "end": 514.0,
       "text": " Og Sarsa, en af partnerne her i Obsidian,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 514.0,
       "end": 517.0,
       "text": " havde et rigtig, rigtig, rigtig godt LinkedIn-post her i forgårs, tror jeg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 517.0,
       "end": 521.0,
       "text": " hvor han tog den skridtet videre og sagde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 521.0,
       "end": 523.0,
       "text": " at de her mange forskellige SAS-værktøjer, de har typisk en underside,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " hvor de beskriver alle de features,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 525.0,
       "end": 528.0,
       "text": " altså alle de ting, som det her SAS-værktøj kan.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 528.0,
       "end": 530.0,
       "text": " Men en ting er at skrive det, en anden ting er at vise det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 530.0,
       "end": 532.0,
       "text": " Så hvorfor er det, at man ikke laver små videosekvenser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 532.0,
       "end": 534.0,
       "text": " videobider af hver enkelt lille feature,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 534.0,
       "end": 537.0,
       "text": " som forklarer, hvad det kan, hvorfor det er fedt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 537.0,
       "end": 539.0,
       "text": " og viser, hvordan det bliver brugt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 539.0,
       "end": 542.0,
       "text": " Så har du som potentielt kun mulighed for at sidde og gennemgå",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 542.0,
       "end": 543.0,
       "text": " hele den her liste her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " Det ville være fremragende, det ville være fantastisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 545.0,
       "end": 548.0,
       "text": " Og jeg skal også love for, at der kom rigtig meget positiv feedback ind på opslaget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 548.0,
       "end": 551.0,
       "text": " Og rigtig mange SAS-værktøjer, der faktisk ikke havde tænkt over det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 551.0,
       "end": 553.0,
       "text": " Ja, og jeg sidder inde på deres site lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 556.0,
       "text": " der kan jeg se, der er sådan en beskrivelse af deres funktioner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 559.0,
       "text": " Så står der for eksempel sådan keyword clusters.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " Okay, hvis du ikke lige ved, hvad et keyword cluster er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " så er der en video, du kan trykke på med en person,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 567.0,
       "text": " som i sådan en loom-format på 57 sekunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 569.0,
       "text": " perfekt bare sidder direkte inde i værktøjet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " og viser præcis, hvad er et keyword cluster,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 573.0,
       "text": " og hvordan kan du lave save med det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 573.0,
       "end": 575.0,
       "text": " Fremragende lavet, og mere kompliceret skal det overhovedet ikke være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " fordi det er lige præcis det, vi har brug for at se.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 579.0,
       "text": " Og det er inde på Ariff?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 579.0,
       "end": 584.0,
       "text": " Jo, lige præcis, inde på Ariff, der er deres pricingside, hvis man gerne vil se det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 584.0,
       "end": 587.0,
       "text": " Så er der sådan en sjov ting i forhold til det der med free trials,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 589.0,
       "text": " og der er måske et par ting at sige om det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 591.0,
       "text": " Den første ting, jeg vil sige, det er, at jeg synes faktisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 593.0,
       "text": " det er helt okay, hvis der ikke er en free trial.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 595.0,
       "text": " Hvis værktøjet er godt nok forklaret, og jeg kan se, hvad det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 597.0,
       "text": " jeg skal bruge det til, så er jeg helt okay med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 599.0,
       "text": " at der ikke er en free trial, og jeg vil faktisk gerne bare betale",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 599.0,
       "end": 600.0,
       "text": " for værktøjet til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 602.0,
       "text": " Jeg forsøgte at gøre det samme i Riverside, da vi signede op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 602.0,
       "end": 604.0,
       "text": " Jeg havde allerede researchet, og vidste, at det var det værktøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 605.0,
       "text": " vi gerne ville bruge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 607.0,
       "text": " Og så skulle jeg igennem et free trial på syv dage,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 608.0,
       "text": " før jeg kunne få lov til at betale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 610.0,
       "text": " Og der var nogle funktioner, jeg ikke kunne få adgang til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 610.0,
       "end": 612.0,
       "text": " før jeg havde betalt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 615.0,
       "text": " Men jeg kunne ikke få lov til at betale, inden der var gået syv dage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 615.0,
       "end": 618.0,
       "text": " Så jeg sad faktisk og var låst ud af funktioner i værktøjet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 620.0,
       "text": " Det var sådan en sindssyg måde, de havde gjort det på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 620.0,
       "end": 622.0,
       "text": " Jeg skrev til deres support, ringede ikke i øvrigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 624.0,
       "text": " skrev til deres support og fik lov til at betale med det samme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " i stedet for, fordi jeg ikke havde brug for at vente syv dage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 627.0,
       "end": 628.0,
       "text": " Men det er sådan en sjov ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 628.0,
       "end": 631.0,
       "text": " Jeg er faktisk helt okay med, at man bare betaler med det samme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 634.0,
       "text": " så længe man kan betale for en måned og optage igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 635.0,
       "text": " hvis det er det, man gerne vil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 637.0,
       "text": " Og jeg tror, for B2B, så sker det mega god mening.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 637.0,
       "end": 640.0,
       "text": " Jeg følger sådan en del folk, der laver B2B-salesvirksomheder på Twitter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 640.0,
       "end": 643.0,
       "text": " og de viser grafer fra deres Stripe-omsætning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 646.0,
       "text": " der bare skyder i vejret i det øjeblik, de fjerner en free trial,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 646.0,
       "end": 648.0,
       "text": " fordi det viser sig, at folk er betalingsvillige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 649.0,
       "text": " hvis de bare kan løse deres problem her endnu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 649.0,
       "end": 651.0,
       "text": " Det er den ene ting, man kan sige til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " Den anden ting, det er, hvad synes du om free trials,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " når man alligevel skal indtaste ens kreditkort?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " Åh, men altså. Hvorfor?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " Det er bare så... Årh.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 659.0,
       "end": 662.0,
       "text": " Altså, jeg kan godt forstå det her med, at man sætter en indgangsbarrière op,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 662.0,
       "end": 664.0,
       "text": " der ikke er fuldstændig nede i jorden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 664.0,
       "end": 666.0,
       "text": " ved at du bare kan oprette dig og bruge det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 666.0,
       "end": 670.0,
       "text": " At du lige hæver indgangsbarrieren, bare lige en lille my,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 670.0,
       "end": 671.0,
       "text": " ved at man skal indtaste kreditkortet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 671.0,
       "end": 673.0,
       "text": " Det, der bare er så irriterende, det er, at man skal jo ind og skrive,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " det gør jeg i hvert fald, igen, jyde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " ind i sin kalender og skrive et par dage inden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 677.0,
       "end": 680.0,
       "text": " at den her free trial på syv dage udløber.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 680.0,
       "end": 682.0,
       "text": " Husk at afmelde X.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 682.0,
       "end": 684.0,
       "text": " Og man glemmer det bare hver gang, ikke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 684.0,
       "end": 686.0,
       "text": " Og så ender den med, at den har trukket pengene,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 686.0,
       "end": 688.0,
       "text": " og man bruger XS-værktøjet, og så bliver man træt af det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 688.0,
       "end": 690.0,
       "text": " Ej, altså. Ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 690.0,
       "end": 692.0,
       "text": " Så ringer Bente i bogholderiet og siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 692.0,
       "end": 694.0,
       "text": " at du er klar over, at du bliver trukket for det her værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " Så skal du til at forsvare dig over for hende og sige undskyld.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " Først skal jeg finde biladet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 700.0,
       "text": " Først skal jeg gå på tid på at finde biladet. Åh, mand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 702.0,
       "end": 704.0,
       "text": " Tak, Bente, fordi du har ævet ringer til os med alle dem her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 704.0,
       "end": 706.0,
       "text": " Det er vi virkelig glade for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 706.0,
       "end": 708.0,
       "text": " Du må ikke stoppe, selvom vi siger det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 708.0,
       "end": 710.0,
       "text": " Nej, nej, nej, nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 710.0,
       "end": 712.0,
       "text": " Men det er rigtigt nok. Men jeg er faktisk helt okay med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 712.0,
       "end": 714.0,
       "text": " at man bare ikke betaler i stedet for, fordi det virker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 714.0,
       "end": 716.0,
       "text": " det virker altid sådan en lille smule luskede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 716.0,
       "end": 718.0,
       "text": " det der med at lave en free trial, og så sætte et kort på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 718.0,
       "end": 720.0,
       "text": " og så vil jeg egentlig hellere, at man bare får lov til at betale,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 720.0,
       "end": 722.0,
       "text": " og så eventuelt kan bruge værktøjet til det, man skal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 722.0,
       "end": 724.0,
       "text": " og så kan jeg opsige det igen, hvis man gerne vil det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 724.0,
       "end": 726.0,
       "text": " Det gør jeg med f.eks. BuildWith. Hvert halvår køber vi en konso,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 726.0,
       "end": 728.0,
       "text": " fordi nu skal vi bruge en ny liste. Jeg kan ikke få lov til at købe",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 728.0,
       "end": 730.0,
       "text": " listen på et enkelt udtræk, så jeg køber en modningsabonnement,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 730.0,
       "end": 732.0,
       "text": " trækker de lister, jeg har brug for, og opsiger dem med det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 732.0,
       "end": 735.0,
       "text": " Og det virker så fint. Altså, hvis I bare kan få lov til at gøre det på den måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 737.0,
       "text": " så er det, synes jeg, også fint.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 737.0,
       "end": 739.0,
       "text": " Hvad synes du om sådan calendly demoer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 739.0,
       "end": 741.0,
       "text": " når man sådan vil ind og købe et værktøj?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 741.0,
       "end": 744.0,
       "text": " Åh, nu trækker jeg alligevel dybt, inden jeg siger noget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 744.0,
       "end": 748.0,
       "text": " Altså, calendly er jo i og for sig et fantastisk godt værktøj.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 748.0,
       "end": 750.0,
       "text": " Jeg synes bare, det bliver brugt forkert rigtigt ofte,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 750.0,
       "end": 753.0,
       "text": " fordi det, jeg typisk oplever, det er, at jeg kommer ind på et B2B SAS-værktøj,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 753.0,
       "end": 755.0,
       "text": " hvor jeg synes, det er fedt, og jeg vil gerne i gang,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 755.0,
       "end": 759.0,
       "text": " men vi skal lige gennem den her proces her, hvor jeg skal sidde og snakke med en.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 759.0,
       "end": 762.0,
       "text": " Og ja, danse. Og jeg er ikke særlig god til at danse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 762.0,
       "end": 766.0,
       "text": " Og det, der så sker, det er, at jeg rent faktisk...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 766.0,
       "end": 770.0,
       "text": " Altså, når jeg så endelig gerne vil have adgang til det her tool her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 770.0,
       "end": 772.0,
       "text": " så går jeg ind og går videre i processen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 772.0,
       "end": 777.0,
       "text": " og så skal jeg vælge et tidspunkt ud for den her calendly-kalender.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 777.0,
       "end": 782.0,
       "text": " Og så er B2B SAS-værktøjet typisk placeret et sted i USA,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 782.0,
       "end": 785.0,
       "text": " hvor der er det en helt anden tidszone, og de tidspunkte, de så kan tilbyde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 785.0,
       "end": 789.0,
       "text": " det er enten om tre uger, eller så er det klokken X om natten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 789.0,
       "end": 791.0,
       "text": " Og så er det sådan, ej, hvor gør man det også bare svært,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 791.0,
       "end": 794.0,
       "text": " for at komme ind og bruge det værktøj, som de har stillet til rådighed,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 794.0,
       "end": 796.0,
       "text": " og man gerne vil betale for, ikke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 796.0,
       "end": 798.0,
       "text": " Ej, jeg har det stramt med det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 798.0,
       "end": 803.0,
       "text": " Generelt, al form for synkron kommunikation skal, hvis man skal have det, være optional.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 803.0,
       "end": 805.0,
       "text": " Man må ikke gøre det mandatory.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 805.0,
       "end": 808.0,
       "text": " Det betyder så, at man skal talk with sales, som jeg skulle igennem med Riverside,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 808.0,
       "end": 811.0,
       "text": " og derfor sidder vi stadig på Broplanen, og du er gæst i det her podcast,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 811.0,
       "end": 813.0,
       "text": " og kan ikke trykke på den her knap.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 815.0,
       "end": 818.0,
       "text": " Eller om det er calendly-demoer, som er at lægge op til synkron kommunikation,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 818.0,
       "end": 822.0,
       "text": " alle former er forfærdelige, og skal at bedst være optional.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 822.0,
       "end": 825.0,
       "text": " Hvis ikke bare man skal have lov til at købe adgang til værktøjet direkte.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

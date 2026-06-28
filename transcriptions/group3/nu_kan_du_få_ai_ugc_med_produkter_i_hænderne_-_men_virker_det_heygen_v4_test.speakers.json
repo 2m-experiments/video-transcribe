@@ -9,1439 +9,1443 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 9.0,
       "text": " Christian, i dag skal vi snakke om et AI-værktøj, Hedion, som netop har fået en opdatering til v4,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.0,
       "end": 15.0,
       "text": " og det er en meget relevant opdatering, hvis man arbejder med sådan UGC-style content, især til e-commerce.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 20.0,
       "text": " Fordi, ved du hvad, Tiniu, vi har fået en model, der har fået product placement indbygget. Har du hørt om det før?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 20.0,
       "end": 25.0,
       "text": " Okay, nej. Det vil sige, at du kan få den til at stå med produktet?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 25.0,
       "end": 29.0,
       "text": " Ja, du kan simpelthen lave en avatar med Hedion, og Hedion er et værktøj, vi har snakket om før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 29.0,
       "end": 37.0,
       "text": " Fordi Hedion er måske det fremmeste værktøj inden for sådan AI-spacet i forhold til at lave custom avatars af en selv og oversætte videoer og sådan nogle ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 37.0,
       "end": 40.0,
       "text": " Og det er et værktøj, vi bruger i Obsidian til særlig at oversætte videoer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 40.0,
       "end": 45.0,
       "text": " Så hvis vores kunder har lavet en 30 sekunder talking head video på dansk, så uploader vi den til Hedion,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 45.0,
       "end": 48.0,
       "text": " og så får vi den oversat til skælder frem, skælder hvad den nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 48.0,
       "end": 54.0,
       "text": " Og det er ikke perfekt, men det er nok 95% til 1% af omkostningen, hvis man ellers skulle gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 60.0,
       "text": " Så vi bruger aktivt Hedion-genererede videoer i vores kunders Facebook-annoncering og skaffer kunder på det lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 60.0,
       "end": 65.0,
       "text": " Så det er et værktøj, der virker, og vi bruger det, og det er ikke sådan en ting ude i fremtiden, det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 65.0,
       "end": 68.0,
       "text": " Og der er kommet en ny version, en version 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 68.0,
       "end": 73.0,
       "text": " Hvor meget har du arbejdet med værktøjet endnu, udover at du har set en video af mig, der snakker tysk og ved, det er ikke rigtigt det der?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 75.0,
       "end": 78.0,
       "text": " Jamen det er faktisk noget tid siden, jeg har arbejdet med det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 78.0,
       "end": 82.0,
       "text": " Så de her nye updates her, det er ikke nogen, jeg har været inde og prøve at lege med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 82.0,
       "end": 88.0,
       "text": " Dengang syntes jeg faktisk, det var overraskende godt, men der var der fejl, og det er efterhånden, hvad er det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 88.0,
       "end": 91.0,
       "text": " 3-4 måneder siden måske, jeg har arbejdet med det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 91.0,
       "end": 93.0,
       "text": " Så jeg er lidt spændt på at se, hvad du har fundet på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 93.0,
       "end": 95.0,
       "text": " Jamen det er det nemlig, det er altså nemlig en livstid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 95.0,
       "end": 100.0,
       "text": " Så det der er kommet, det er, at vi har fået Hedion Avatar version 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 100.0,
       "end": 103.0,
       "text": " Og den er lige kommet her for en uge eller to siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 106.0,
       "text": " Og version 4 indeholder en række forskellige ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 106.0,
       "end": 110.0,
       "text": " Nogle af de store opdateringer, det er, at det går både hurtigt at lave den, det er dejligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 110.0,
       "end": 114.0,
       "text": " Man kan få den til at være lidt mere, de siger expressive, hvad vil vi sige på dansk?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 114.0,
       "end": 115.0,
       "text": " Sådan udtryksfuld.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 115.0,
       "end": 122.0,
       "text": " Altså lidt mindre generisk opblæsning og lidt mere, måske en lille smule karisma, eller nogle bevægelser, eller et eller andet stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 128.0,
       "text": " Og så den mest interessante ting i praksis, synes jeg, det er, at vi har fået product placement, som vi nævnte til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 128.0,
       "end": 137.0,
       "text": " Fordi hvis man ser på AI genererede, sådan user generated content style videoer, som jeg ved, at der er mange, dem der lytter med her, der allerede har eksperimenteret med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 140.0,
       "text": " Så har den store udfordring været, du kan ikke få dem til at holde produktet i hænderne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 144.0,
       "text": " Altså det så bare også AI genereret ud, det så sådan lidt fake ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 144.0,
       "end": 148.0,
       "text": " Du får en UTC video fra en person, der tydeligvis aldrig har haft det her produkt, og bare laver green screen video.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 150.0,
       "text": " Og så fungerer det dårligere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 158.0,
       "text": " Så jeg tænker, det her med rent faktisk at have produktet i hænderne, kan man ikke sige, at det har været den store svaghed med AI genereret UTC content?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 158.0,
       "end": 165.0,
       "text": " Det er fuldstændig rigtigt, fordi der er sikkert mange, der har set de der LinkedIn-omslag med folk, der har gået fuldstændig viral de sidste 3-4 måneder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 165.0,
       "end": 170.0,
       "text": " De har fundet ud af, hvordan man gjorde det her, og jeg kan så skrive under på, at det fungerede overhovedet ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 170.0,
       "end": 175.0,
       "text": " Så det er jo noget, alle har søgt efter, og rigtig gerne vil have fingrene i, så at sige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 175.0,
       "end": 179.0,
       "text": " Det er så bare kanon AI genereret ud, meget meget hurtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 179.0,
       "end": 181.0,
       "text": " Og det var ikke særlig fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 181.0,
       "end": 183.0,
       "text": " Så det er det, Haygen forsøger at komme nærmere op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 183.0,
       "end": 186.0,
       "text": " Og jeg har prøvet at lave en video til nu, som jeg godt kunne tænke mig at vise dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 186.0,
       "end": 188.0,
       "text": " Og jeg kan lige vise dig, hvilket input den har fået.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 192.0,
       "text": " Fordi jeg har brugt ca. 10 minutter på at lave den her video, inden vi lavede episodeen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 194.0,
       "text": " Og jeg har givet Haygen 2 input.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 194.0,
       "end": 197.0,
       "text": " Det ene input, jeg har givet den, det er det her billede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 197.0,
       "end": 201.0,
       "text": " Så det er et billede af mig, der er taget oppe på kontoret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 201.0,
       "end": 204.0,
       "text": " Det eneste, der er urealistisk ved det her billede, det er, at jeg taler i telefon.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 204.0,
       "end": 205.0,
       "text": " Fordi du ved...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 205.0,
       "end": 207.0,
       "text": " Jeg skulle lige til at sige det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 209.0,
       "text": " Jeg foretrækker klart ikke at tale i telefon.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 213.0,
       "text": " Så da det her billede blev taget, så kan jeg også sige, at der var ikke nogen i den anden...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 216.0,
       "text": " Det værste, man kan gøre ved halvstad, det er at ringe til ham uopfordret.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 216.0,
       "end": 218.0,
       "text": " Altså uden man har sagt, at man vil ringe.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 218.0,
       "end": 219.0,
       "text": " Det er jo et vigtigt angstanfald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 219.0,
       "end": 221.0,
       "text": " Du kender ikke noget værre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 221.0,
       "end": 223.0,
       "text": " Nej, jeg kommer ikke til at tale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 223.0,
       "end": 224.0,
       "text": " Nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 226.0,
       "text": " Hvis vi har en aftale, så er der fisk, fisk, fisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 228.0,
       "text": " Det får jeg stadig ikke godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 230.0,
       "end": 234.0,
       "text": " Jeg foretrækker klart asynkron kommunikation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 238.0,
       "text": " Og jeg synes, at det der med at ringe op til folk, når man ikke har aftalt det på forhånd,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 238.0,
       "end": 240.0,
       "text": " det er over grænsen til det uhøflige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 240.0,
       "end": 242.0,
       "text": " Men det er en anden snak.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 245.0,
       "text": " Så det er urealistisk, at jeg ringer til ham, når jeg sidder og taler i telefon, det her billede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 245.0,
       "end": 248.0,
       "text": " Men det er det her billede, jeg har uploadet til Haygen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 248.0,
       "end": 252.0,
       "text": " Og den anden ting, jeg har givet Haygen, det er produktet, jeg gerne vil have i hænderne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 255.0,
       "text": " Jeg har givet et par gule hørtelefoner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 261.0,
       "text": " Det er ikke lige præcis det her, fordi jeg tog bare sådan et standard, der var indbygget i Haygen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 261.0,
       "end": 263.0,
       "text": " Men det ligner nogenlunde det her billede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 263.0,
       "end": 265.0,
       "text": " Og det sjove der, det er faktisk sådan, det virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 265.0,
       "end": 268.0,
       "text": " Du uploader ét billede, og så laver din avatar modellen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 268.0,
       "end": 270.0,
       "text": " Så du behøver ikke engang uploade den der 30 sekunder lange video,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 274.0,
       "text": " hvor du sidder og taler ind i kameraet, som man skulle gøre i tidligere versioner af Haygen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.0,
       "end": 279.0,
       "text": " Det var stadig nemt, men du skulle alligevel lave en video af dig selv, der talte, for at den kunne generere det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 279.0,
       "end": 282.0,
       "text": " Nu skulle jeg bare uploade et billede, og så kunne jeg vælge en stemme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 282.0,
       "end": 286.0,
       "text": " Stemmen, der har jeg så min egen stemme derinde, som en model i forvejen, fordi jeg har brugt den til nogle test.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 286.0,
       "end": 290.0,
       "text": " Så jeg valgte det, jeg tror, der er min egen stemme, fordi der stod bare MCC at Obsidian Voice 1.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 290.0,
       "end": 292.0,
       "text": " Så jeg tog chancen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 292.0,
       "end": 296.0,
       "text": " Og så op det her billede af mig selv, og et billede af nogle gule hørtelefoner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 296.0,
       "end": 299.0,
       "text": " Og det er det input, jeg har givet dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 299.0,
       "end": 301.0,
       "text": " Er du klar til at se, hvordan det ser ud i den anden ende?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 306.0,
       "text": " Jeg er ikke sikker på, om du kan høre lyden, men du får i hvert fald lov til at se modellen her nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 308.0,
       "text": " Min 14 sekunder lang video.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 308.0,
       "end": 311.0,
       "text": " Jeg vil gerne vise dig nogle super lækre gule hørtelefoner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 311.0,
       "end": 316.0,
       "text": " Køb dem på christianswebshop.dk for kun 159 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 316.0,
       "end": 317.0,
       "text": " Fri frakt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 317.0,
       "end": 320.0,
       "text": " Urdekoden AGF rykker ned i år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 323.0,
       "text": " Kunne du høre lyden på den?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 323.0,
       "end": 324.0,
       "text": " Okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 324.0,
       "end": 330.0,
       "text": " Jeg er ikke 100% sikker på, om den rent faktisk har brugt min stemme her, eller om det var en anden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 333.0,
       "text": " Det er i hvert fald en lidt amerikaniseret version af min stemme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 333.0,
       "end": 335.0,
       "text": " Når den siger, at jeg er half, der er han til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 335.0,
       "end": 338.0,
       "text": " Men det er sådan en typisk AG-ting, der har den en lille smule svært ved.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 343.0,
       "text": " Men rabatkoden, hvor du får fri frakt, hvis du bruger koden AGF rykker ned i år, den udtaler den helt perfekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 343.0,
       "end": 346.0,
       "text": " Ja, desværre. Det er jo som om, den har sagt det før.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 346.0,
       "end": 347.0,
       "text": " Ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 347.0,
       "end": 349.0,
       "text": " Igen i år.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 349.0,
       "end": 352.0,
       "text": " Men okay, så det du uploader, det var det billede, vi så lige før.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 352.0,
       "end": 354.0,
       "text": " Og så de her gule hørtelefoner her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 354.0,
       "end": 358.0,
       "text": " That's it. Og ud fra det, fordi man kan sige, nej, det ligner der jo ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 358.0,
       "end": 362.0,
       "text": " Men jeg kan godt se, hvor den har fået det fra. Altså fra selve input-billedet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 362.0,
       "end": 369.0,
       "text": " Og bare det stille billede, vi sidder og kigger på lige nu, hvor den AG-genererede dig står med et par gule høretelefoner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 369.0,
       "end": 371.0,
       "text": " Altså, det ligner jo faktisk kanon godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 371.0,
       "end": 378.0,
       "text": " Jeg synes også, hvis man ikke vidste, at det var mig, og når vi laver en annoncering, så ved de fleste af dem, der modtager annoncen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 378.0,
       "end": 383.0,
       "text": " at det ikke er mig. Min kendskabsgrad i den danske befolkning er jo mindre, end jeg gerne ville have, den skulle være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 383.0,
       "end": 388.0,
       "text": " Det, man eventuelt vil vinde på med sådan en annonce her, det vil jo ikke være kendskabet alligevel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.0,
       "end": 391.0,
       "text": " Så man kan sige, om den ligner mig, eller ej, det gør jo faktisk ikke særlig meget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 391.0,
       "end": 394.0,
       "text": " Det, der er vigtigt, det er, om folk synes, det her, det ligner noget rigtig content.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 394.0,
       "end": 398.0,
       "text": " Og jeg synes, hvis man skal give den en lille smule kritik, der er et eller andet med dimensionerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 401.0,
       "text": " Jeg synes, mit hoved, det ser uforholdsmæssigt stort ud i forhold til...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 405.0,
       "text": " Nu har jeg selv et stort hoved, så jeg kunne ikke se problemet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 405.0,
       "end": 407.0,
       "text": " Og du synes, det ser helt normalt ud?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 407.0,
       "end": 411.0,
       "text": " Men jeg kan da godt se det, når jeg så kigger på det lille billede af dig hernede.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " Det er et uforholdsmæssigt stort hoved, jeg har fået.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 415.0,
       "text": " Og nogle meget korte arme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 418.0,
       "text": " Altså, jeg ligner sådan en misproportioneret dværg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 421.0,
       "text": " Men det er jo ud over.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 426.0,
       "text": " Altså, spørgsmålet er, er det her godt nok til, at du rent faktisk ville kunne køre det i en Facebook-annonce?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 428.0,
       "text": " Og det ville virke bedre, end hvis du bare havde et stille billede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 428.0,
       "end": 433.0,
       "text": " Fordi vi skal jo ikke måle det på, er det perfekt, eller er det lige så godt, hvis vi gik op på Obsidian-kontoret i parken.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " Og fik Olivia til at lave en rigtig video af mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 438.0,
       "text": " Fordi det ville kræve, at jeg tog til parken, Olivia tog tid ud til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 442.0,
       "text": " Fordi vi rent faktisk havde produktet, vi skulle optage, vi skulle klippe det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 444.0,
       "text": " Det koster mange penge, det tager lang tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 444.0,
       "end": 446.0,
       "text": " Det her, det kostede ingen penge, og tog mig to minutter at lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 446.0,
       "end": 450.0,
       "text": " Så vi skal jo heller ikke vurdere det i forhold til det perfekte resultat, som vi kunne have lavet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 453.0,
       "text": " Vi skal jo vurdere det her i forhold til, er det bedre, end hvad vi ellers kunne have lavet på to minutter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 458.0,
       "text": " Og jeg tror svaret i forhold til, om det her ville sælge mere, end hvad vi ellers ville kunne lave på to minutter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 460.0,
       "text": " Det tror jeg, at ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 460.0,
       "end": 462.0,
       "text": " Jeg er enig, og nu prøver jeg lige at tage dig igennem min tanke, Strøm.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 462.0,
       "end": 464.0,
       "text": " Fordi nej, det var da ikke perfekt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 464.0,
       "end": 466.0,
       "text": " Ja, udtalen var heller ikke perfekt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 466.0,
       "end": 468.0,
       "text": " Men vi skal lige huske på, at du har valgt din stemme.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 468.0,
       "end": 470.0,
       "text": " Så det vil sige, at der er nogle stemmer derinde, der nok er mere trænet, end din er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 470.0,
       "end": 472.0,
       "text": " Det er sådan den ene ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 472.0,
       "end": 474.0,
       "text": " Den anden ting, det er, hvad er det vi har med at gøre her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 474.0,
       "end": 476.0,
       "text": " Vi har en person, der står og holder produktet, og nu har du lige trykket afspil igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 480.0,
       "text": " Hvor vi sådan kan se, at det er faktisk, som om at hørtelefonerne også lige bevæger sig lidt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Altså, jeg synes sgu egentlig, at det ser rimelig realistisk ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 482.0,
       "end": 486.0,
       "text": " Hvis man forestiller sig, at den her video bliver blandet sammen med nogle b-rolls.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 486.0,
       "end": 488.0,
       "text": " Og måske endda en voice over, hvis ikke den kan ramme lyden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 488.0,
       "end": 496.0,
       "text": " Altså, vi begynder at nærme os noget, hvor hvis det bliver klippet rigtigt, så undgår du netop, som du selv siger, at skulle tage hen i pakken for at blive optaget med produktet i hånden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 496.0,
       "end": 500.0,
       "text": " Jeg synes faktisk, det er ret imponerende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 500.0,
       "end": 504.0,
       "text": " Og så har du gjort det på under 10 minutter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 504.0,
       "end": 508.0,
       "text": " Altså, jeg kunne sidde og se, mens du sad og lavede den prompt, og det var jo ikke fordi, at der var så meget tanke bag handling.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 508.0,
       "end": 510.0,
       "text": " Det var det første af det bedste.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " Og alligevel synes jeg faktisk, at det blev ret godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 512.0,
       "end": 516.0,
       "text": " Og jeg synes, at det interessante ved det her, det er også use-casen i det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 516.0,
       "end": 522.0,
       "text": " Fordi man kan sige, at hvis du nu sidder i en e-commerce virksomhed, og du gerne vil sælge flere produkter, så er det jo ikke sådan, at du laver én video, og den bare sparker røv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 522.0,
       "end": 528.0,
       "text": " Altså, måden det her fungerer på, det er jo, at man prøver at komme op med nogle forskellige vinkler og idéer og pitches.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 528.0,
       "end": 532.0,
       "text": " Og så laver man måske 5 eller 10 forskellige, og så er der en eller to af dem, der rent faktisk virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 532.0,
       "end": 544.0,
       "text": " Og jeg synes, at det, som Haygen har lavet her, er et fremragende redskab til hurtigt at lave ok godt materiale til 10 forskellige vinkler, og så smide dem op i en Facebook-kampagne og se, hvilken af dem, der virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 544.0,
       "end": 548.0,
       "text": " Den appen, der så virker, eller de to, der rent faktisk virker, by all means laver en bedre annonce på dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 548.0,
       "end": 557.0,
       "text": " Men på den her måde, der kan du på én time lave og oplogte 10 videoer, der er gode nok, og så kan du bruge dem til at finde ud af, hvad er den rigtige vinkel, og hvad er det så, der virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 557.0,
       "end": 564.0,
       "text": " Og så kan du lave den ene video bagefter, som rent faktisk virker, og så går du i gang med at optage og klippe selv og lave alle de der ting, som gør, at den også fungerer bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.0,
       "end": 569.0,
       "text": " Og det er også det, jeg synes, det er det, folk skal forstå, fordi det er meget nemt at tage den her video og så sige, det kunne jeg have lavet bedre selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 575.0,
       "text": " For ja, det kunne du. Men kunne du have lavet 10 af dem på en time og testet dem og fundet ud af, hvilken, der virker bedst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 578.0,
       "text": " Altså man skal huske at forstå, hvad er det rent faktisk, man skal bruge det her indhold til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 578.0,
       "end": 585.0,
       "text": " Det her, det er ikke den bedste annonce, du nogensinde kommer til at lave, men det er den, der hurtigst viser dig, om din idé virker eller ej, og så kan du lave den bedre bagefter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 585.0,
       "end": 592.0,
       "text": " Og der synes jeg virkelig, Haygen har en legit use case i forhold til e-commerce, annoncering og product placement videoer allerede nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 593.0,
       "text": " Kan du følge mig i den?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 596.0,
       "text": " Ja, fuldstændig, fordi det, man skal stille sig selv spørgsmål, det er, hvad er alternativet?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 596.0,
       "end": 598.0,
       "text": " Alternativet er, at man slet ikke kommer i gang jo.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 598.0,
       "end": 604.0,
       "text": " Jamen så er det her, det er fremragende for at komme i gang, altså at få noget input fra kunderne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 604.0,
       "end": 609.0,
       "text": " Ja, de kommer til at lave de der ti videoer selv, altså man har jo ikke tre personer i ens content team til bare at lave videoer hele tiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 612.0,
       "text": " Jo, hvis man er med ASOS, det er fedt, men resten af os har ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 614.0,
       "text": " Så for dem er det et rigtig, rigtig fedt redskab.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 618.0,
       "text": " Men, Tine, jo det her leder så til spørgsmål nummer to, fordi nummer et det var, hvordan ser det her rent faktisk ud?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 619.0,
       "text": " Det har vi set nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 619.0,
       "end": 623.0,
       "text": " Nummer to, hvis vi nu forestiller os en virkelighed, hvor folk rent faktisk begynder at bruge det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 623.0,
       "end": 630.0,
       "text": " Du ved, jo flere der kommer til at bruge det her, jo dårligere kommer det jo også til at virke, fordi at man begynder at kunne se det der med, at det er e-genereret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 634.0,
       "text": " Og at du lærer at se de der små tekster, eller genkende det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 639.0,
       "text": " Og jeg tror jo stadig, hvis folk de kan se, at det du har lavet, det er e-genereret, så ønsker de ikke at bruge mere tid på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 643.0,
       "text": " Altså det, at det er e-genereret i sig selv, er en negativ ting, hvis folk de rent faktisk opdager det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 648.0,
       "text": " Så, hvis man nu tænker en fremtid, hvor flere kommer til at bruge det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 656.0,
       "text": " Hvis du så rent faktisk laver den der video, som du selv laver, det ægte content, ægte UGC content, eller EGC, Employee Generated Content.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 656.0,
       "end": 660.0,
       "text": " Hvordan sørger du så for, at det rent faktisk skælder sig ud og fortsat virker, og ikke bare kommer til at ligne det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 660.0,
       "end": 664.0,
       "text": " Ja, der skal du være kreativ. Du skal edderhugge med at være kreativ, fordi at...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 664.0,
       "end": 670.0,
       "text": " Nu den video, du lige viste der, det er jo sådan en rigtig klassisk UGC-video, som vi lige skulle kunne have set en rigtig person lave.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 670.0,
       "end": 674.0,
       "text": " Altså stå med produktet og fortælle, hvor skønt det her produkt egentlig er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 674.0,
       "end": 677.0,
       "text": " Ja, det er sådan en lidt mere stakato-version af det, men det er stort set det samme jo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 681.0,
       "text": " Ja, lige præcis. Så skal man skille sig ud, så bliver man nødt til at gøre noget helt andet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 681.0,
       "end": 689.0,
       "text": " Om det så er at stå og hugge brænde ude foran ens hjem, som du jo er foretagere for at gøre, og som jo også virker,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 689.0,
       "end": 694.0,
       "text": " eller hvad det er, de der tanker der, som man skal til at gøre sig, tror jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 694.0,
       "end": 700.0,
       "text": " Jeg tror, det man skal gøre, det er at lave noget, en AI ikke ville gøre, og det lyder ret simpelt, men hvad ville en AI ikke gøre?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 700.0,
       "end": 706.0,
       "text": " Mine egne tanker, det er for eksempel, vi har en video til Designers at Service, hvor jeg står og hugger brænde og forsøger at forklare konceptet på 60 minutter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 706.0,
       "end": 712.0,
       "text": " Jeg har ikke set en AI-generator lave den type video endnu, så man er ret sikker på, at det er mig, der gør det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 712.0,
       "end": 716.0,
       "text": " og så er der sådan en meta-joke til, at jeg har lavet den type videoer tidligere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 716.0,
       "end": 722.0,
       "text": " En anden ting, man kan gøre, det er at sige kontroversielle ting, eller use profanities,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 722.0,
       "end": 727.0,
       "text": " for der er også mange AI-værktøjer, som simpelthen lukker ned, hvis du beder den om at bande.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 727.0,
       "end": 731.0,
       "text": " Det er heller ikke særlig kønt, men det er meget menneskeligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 731.0,
       "end": 736.0,
       "text": " Jeg tror på, at hvis du kan være en lille smule mere kontroversiel, eller sige noget, som folk ikke forventer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 736.0,
       "end": 741.0,
       "text": " sådan en shitposte i virkeligheden en lille smule, så bliver det også mindre AI-genereret af den årsag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 741.0,
       "end": 747.0,
       "text": " Og så en tredje ting, problemet med den her video, det er, at den ser næsten for perfekt ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 752.0,
       "end": 756.0,
       "text": " Udover, at jeg er en misproportioneret dværg, så ser jeg jo fremragende ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 756.0,
       "end": 760.0,
       "text": " Den dybde indstilling i baggrunden er perfekt, og det er clean.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 760.0,
       "end": 763.0,
       "text": " Jeg har fået make-up på for første gang nogensinde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 763.0,
       "end": 765.0,
       "text": " Strøgen er skjortet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 765.0,
       "end": 767.0,
       "text": " Din skjort har aldrig været mere skjortet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 767.0,
       "end": 770.0,
       "text": " Det er altså ikke noget, jeg når hver weekend, at strøge mine skjorter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 770.0,
       "end": 774.0,
       "text": " Det er sådan en halvårlig begivenhed, hvor jeg løber skabet igennem, og så køber jeg en ny.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 774.0,
       "end": 776.0,
       "text": " Det ser for perfekt ud, det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 776.0,
       "end": 779.0,
       "text": " Så jeg tror også, der er noget at vinde på at lave det uperfekte.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 779.0,
       "end": 781.0,
       "text": " Og hvad er det uperfekte?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 781.0,
       "end": 784.0,
       "text": " Det er ikke, at jeg siger, at man skal lave grim eller dårlig lyd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 784.0,
       "end": 787.0,
       "text": " Du skal ikke se dårlig lyd på dine videoer, men lave nogle short transitions,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 787.0,
       "end": 790.0,
       "text": " eller nogle cuts, eller sige noget folk ikke forventer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 790.0,
       "end": 793.0,
       "text": " Gør et eller andet, der gør, at det ser menneskeligt ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 793.0,
       "end": 799.0,
       "text": " AI'en er perfekt til at ligne AI, men den er ikke særlig god til at ligne noget autentisk menneskeligt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 799.0,
       "end": 801.0,
       "text": " som du rent faktisk gider at se på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 801.0,
       "end": 803.0,
       "text": " Og der i ligger dens svaghed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 803.0,
       "end": 805.0,
       "text": " Men så synes jeg igen, at man skal tænke på, at de har to forskellige formål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 805.0,
       "end": 807.0,
       "text": " Jeg tror ikke, det er enten eller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 807.0,
       "end": 809.0,
       "text": " Jeg tror, det er at bruge AI-videoen til hurtigt at finde ud af, hvad der virker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 809.0,
       "end": 811.0,
       "text": " og så laver du det menneskeligt godt bagefter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 811.0,
       "end": 817.0,
       "text": " Men det betyder også, at man får mere ud af ens tid ved at lave det, man ved, der virker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 817.0,
       "end": 820.0,
       "text": " frem for at bruge meget tid på at lave fem forskellige ting, man ikke ved, om virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 820.0,
       "end": 824.0,
       "text": " Fordi der har AI en edge i forhold til at lave tingene hurtigt og finde ud af, om de virker godt nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 824.0,
       "end": 826.0,
       "text": " Sidste spørgsmål til episoden her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 826.0,
       "end": 830.0,
       "text": " Kunne du se dig selv komme til at bruge nogle af de her værktøjer til nogle af de kunder, du arbejder med?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 830.0,
       "end": 834.0,
       "text": " Altså simpelthen sidde og AI-generere Haygen avatars og køre dem ud i annoncering?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 834.0,
       "end": 839.0,
       "text": " Ja, 100 procent. Især til de cases, der agerer i udlandet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 839.0,
       "end": 843.0,
       "text": " Hvordan man gerne vil have testet udlandet af, men det er sgu lidt svært nogle gange at finde de rigtige creators derude.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 843.0,
       "end": 848.0,
       "text": " Og hvis man gerne hurtigt vil teste noget af, så er det her faktisk et rigtig fint start.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 848.0,
       "end": 851.0,
       "text": " Det er klart, det er jo ikke optimalt, men det er en start, en rigtig fin start.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 851.0,
       "end": 852.0,
       "text": " Og hvad er alternativet?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 855.0,
       "text": " Jeg er meget enig. Det her er starten, som gør, at man kan finde ud af, hvad der virker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 855.0,
       "end": 857.0,
       "text": " og så kan man lave det rigtig, rigtig godt senere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 857.0,
       "end": 861.0,
       "text": " Men det er sådan en 0-80 rigtig hurtigt, og så 80-100 kommer til at stå længere tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 861.0,
       "end": 863.0,
       "text": " Men det er også der, hvor den virkelige værdi bliver skabt i sidste ende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 863.0,
       "end": 867.0,
       "text": " Hvis du kunne tænke dig selv at prøve det her værktøj, Hagen, H-E-U-G-E-N.com,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 867.0,
       "end": 870.0,
       "text": " den bruger vi er på. I opstillingen koster den 29 dollars om måneden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 870.0,
       "end": 872.0,
       "text": " og giver adgang til at generere, jeg kan ikke huske hvor mange,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 872.0,
       "end": 875.0,
       "text": " men 10 videoer eller 20 videoer eller et eller andet om måneden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 875.0,
       "end": 877.0,
       "text": " Og værktøjet er der allerede. Det er lækkert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 877.0,
       "end": 880.0,
       "text": " Jeg vil anbefale dig at gå ind og prøve det og se, hvor langt af i videoer er kommet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 880.0,
       "end": 883.0,
       "text": " og lege lidt rundt med det, for det er faktisk super sjovt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 885.0,
       "text": " Tusind tak, fordi du lyttede med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

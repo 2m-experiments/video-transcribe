@@ -9,215 +9,219 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 4.0,
       "text": " Lads, der er den tredje nyhed af Google Analytics 4, som er begyndt at komme ned i benchmarking data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
       "end": 8.0,
       "text": " Hvis man lige sådan skal tage Google Analytics 4 i det hele taget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 8.0,
       "end": 12.0,
       "text": " Nu er det jo over et år siden, at Google Analytics 4 blev det eneste Google Analytics.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 15.0,
       "text": " Er du blevet glad for værktøjet endnu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 19.0,
       "text": " Nej, det har jeg heller ikke med. Jeg sad lige og prøvede at se, om jeg kunne pakke det ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 19.0,
       "end": 22.0,
       "text": " Ej, det er jeg ikke. Altså, jeg kan godt se nogle af fordelene ved det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 22.0,
       "end": 26.0,
       "text": " Og det er der også, men det er altid svært, når man er...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 26.0,
       "end": 31.0,
       "text": " Nu siger jeg i går, at jeg er vokset op med, at det er 10 år at bruge Google Analytics UA.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 31.0,
       "end": 36.0,
       "text": " Og så over i 4'en, så er jeg så meget anderledes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 41.0,
       "text": " Og det er jo det, der er sjovt, for jeg tror, at der er mange, der siger, at Google Analytics 4 er værre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 41.0,
       "end": 43.0,
       "text": " Og det vil jeg jo faktisk sige er forkert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 43.0,
       "end": 48.0,
       "text": " Fordi Google Analytics 4 er på mange måder et bedre værktøj end Universal Analytics,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 48.0,
       "end": 50.0,
       "text": " der afspalder den tid, vi lever i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 50.0,
       "end": 54.0,
       "text": " Universal Analytics kom i en tid, hvor folk brugte ikke rigtig multidevice på samme måde, som de gjorde nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 57.0,
       "text": " Alt kunne spores med cookie. Det var meget sessionsbaseret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 57.0,
       "end": 61.0,
       "text": " Og du kunne ikke sammensætte web og app og alle mulige andre ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 61.0,
       "end": 64.0,
       "text": " Det havde virkelig mange begrænsninger i forhold til et værktøj nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.0,
       "end": 69.0,
       "text": " Google Analytics 4 er teknisk set en langt overlegnet platform, der kan mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 69.0,
       "end": 75.0,
       "text": " De to store udfordringer i min optik er, at for det første har Google lavet en enormt botched overgang,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 75.0,
       "end": 78.0,
       "text": " hvor UX'en har bare ikke været der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 78.0,
       "end": 83.0,
       "text": " Man har grundlæggende skiftet metode i form af et analyticsværktøj og gået fra sessionsbaseret til et eventbaseret værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 83.0,
       "end": 85.0,
       "text": " Det havde de ikke rigtig formået at forklare folk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.0,
       "end": 89.0,
       "text": " Så man blev tvunget over i et værktøj, man ikke kendte og ikke forstod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.0,
       "end": 92.0,
       "text": " Og deres guidelines var i bedste fald dårlige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 92.0,
       "end": 96.0,
       "text": " Eller deres vejledninger var i bedste fald dårlige. I værste fald var de der ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 96.0,
       "end": 101.0,
       "text": " Og så den anden ting er, at de har godt nok også manglet nogle ret simple funktioner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 101.0,
       "end": 103.0,
       "text": " Og dem har de så begyndt at komme med efterfølgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 108.0,
       "text": " Men jeg har det sådan lidt, du ved, for 10 år siden, da jeg spillede computerspil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 108.0,
       "end": 111.0,
       "text": " der kan jeg huske nogle gange, og så fik jeg tre børn, så stoppede det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 111.0,
       "end": 114.0,
       "text": " Der kan jeg huske nogle gange, du købte et spil, og så havde du sådan en fornemmelse af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 114.0,
       "end": 117.0,
       "text": " jeg har fået 80% af spillet, men du var nødt til at vente et halvt år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 117.0,
       "end": 121.0,
       "text": " før der var kommet to store downloadable content DLC pakker, før du rent faktisk kunne spille det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 121.0,
       "end": 123.0,
       "text": " Det er sådan lidt, jeg har med Google Analytics 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 123.0,
       "end": 126.0,
       "text": " Jeg føler, jeg har fået 80% af det analyticsredskab, men nu mangler 20% af alle guidesene.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

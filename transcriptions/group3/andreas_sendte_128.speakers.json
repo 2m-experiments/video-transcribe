@@ -9,1500 +9,1505 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B",
-      "C"
+      "Halfdan",
+      "Christian",
+      "Andreas"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian",
+      "C": "Andreas"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 6.0,
       "text": " Hej og velkommen til en ny episode af Marketingpod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.0,
       "end": 13.0,
       "text": " Den her episode har jeg glædet mig rigtig meget til, fordi Andreas Nielsen, stifter og direktør i Confect.io er med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 13.0,
       "end": 16.0,
       "text": " Men vi skal ikke snakke om Confect, og vi skal ikke snakke om meta-annoncering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 22.0,
       "text": " I stedet for Andreas, så har du lavet den vildeste split-test for e-mail-marketing, jeg nogensinde har set,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 22.0,
       "end": 26.0,
       "text": " som jeg glæder mig til at høre noget mere om. Og Christian Tiniu ved ikke engang, hvad vi skal snakke om i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 26.0,
       "end": 32.0,
       "text": " Jeg aner det ikke. Jeg fik invitationen i foregårs, jeg aner ikke hvad. Men okay, sådan er det næsten til alle episoder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 32.0,
       "end": 37.0,
       "text": " Det er jo for dårligt. Så er det ikke gået nok galt, hvis det er, at Tiniu ikke ved om det.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 37.0,
       "end": 42.0,
       "text": " Men lad mig sætte scenen for, hvorfor vi optager den her episode, fordi det er den 20. januar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 42.0,
       "end": 47.0,
       "text": " Det er en hverdag. Så vidt jeg husker, at jeg sidder og arbejder. Det er tirsdag den 20. januar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 54.0,
       "text": " Klokken er omkring 18 om aftenen. Klasse tidspunkt at sende en e-mail på til BSB-virksomheder. Det ved alle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 60.0,
       "text": " Så får jeg 10 e-mails fra Andreas og Confect på omkring tre minutter. 10 e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 60.0,
       "end": 65.0,
       "text": " Jeg tror, det er hele Autoresponderen, der er blevet tyret af. Og jeg sender Andreas en besked på LinkedIn og siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 65.0,
       "end": 69.0,
       "text": " ro på min ven, jeg skal nok komme til jer. Du havde mig ved syv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 71.0,
       "end": 75.0,
       "text": " Og Andreas skriver jo, at det var måske heller ikke helt med vilje.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 75.0,
       "end": 80.0,
       "text": " Andreas, kan du ikke fortælle, hvad er det, der sker her tirsdag, hvor du vælger at udsende 10 e-mails?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 82.0,
       "text": " Hvor mange udsender du egentlig her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 82.0,
       "end": 91.0,
       "text": " Du har så fået 10 ud af cirka 128.000 e-mails, vi sendte ud i løbet af de der 50 minutter.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 91.0,
       "end": 94.0,
       "text": " Eller hvor lang tid det var, at showet gik på.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 94.0,
       "end": 97.0,
       "text": " 128.000 e-mails til hvor mange modtagere?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 97.0,
       "end": 103.0,
       "text": " Cirka 9.000 på en af vores lister.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 103.0,
       "end": 110.0,
       "text": " Det gik så godt, at vi har løbende fået e-mails af vores e-mailudbydere,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 110.0,
       "end": 114.0,
       "text": " som nu skal lære de virkelig op, for de kan se, at vi sender e-mails ud, så de gør virkelig alt,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 114.0,
       "end": 116.0,
       "text": " og det bliver batchet osv.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 116.0,
       "end": 120.0,
       "text": " Så vi får sendt de der 120.000 e-mails i 50 minutter.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 120.0,
       "end": 125.0,
       "text": " Det er i gennemsnit 14 e-mails pr. modtagere på 50 minutter, I har tøjet af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 125.0,
       "end": 129.0,
       "text": " Og hvad skete der? Kommer du til at refreshe på sendknappen 14 gange,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 131.0,
       "text": " eller hvordan kan det her i praksis ske?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 131.0,
       "end": 135.0,
       "text": " Der er lidt spændende ting, der er flere ting, der er gået igennem samtidig,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 135.0,
       "end": 139.0,
       "text": " fordi vi har jo to lister i konfig, vi har dem der til konfig brugere,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 139.0,
       "end": 142.0,
       "text": " som jo kommer ind fra API via vores database, der er der der,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 142.0,
       "end": 145.0,
       "text": " og så har vi alle dem som marketing brugere.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 145.0,
       "end": 148.0,
       "text": " Og der er sket to ting, marketing sætter jo flows op,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 148.0,
       "end": 151.0,
       "text": " hvor vi godt vil sende rigtig gode tips ud, meget værdifulde e-mails",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 151.0,
       "end": 153.0,
       "text": " til de forskellige mennesker, der er subscribet.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 153.0,
       "end": 156.0,
       "text": " Især hvis du bor med en adsamling på en gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
       "end": 161.0,
       "text": " Ja, og så har produktservalderen opdateret nogle ideer og sådan noget i den stil.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 161.0,
       "end": 165.0,
       "text": " Så den har bare taget alle de der forskellige flows, den skulle sende folk ud i,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 165.0,
       "end": 171.0,
       "text": " og så sendt dem ud i 14 af dem på samme tid, indtil vi fik dem stoppet.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 171.0,
       "end": 174.0,
       "text": " Og hvis du ikke havde stoppet dem, altså havde den bare fortsat med det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 178.0,
       "text": " Ja, den havde kørt og kørt og kørt hele årkalenderen ud,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 178.0,
       "end": 181.0,
       "text": " pretty much, hvis det var, at vi ikke havde stoppet den.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 181.0,
       "end": 183.0,
       "text": " Og jeg har jo så fået 20 beskeder på LinkedIn,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 183.0,
       "end": 186.0,
       "text": " jeg har jo fået, jeg ved ikke hvor mange mails fra folk også,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 186.0,
       "end": 190.0,
       "text": " så det kører. Vi var i hvert fald i bevidstheden den dag.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 191.0,
       "end": 193.0,
       "text": " Ja, det kan man roligt sige.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 193.0,
       "end": 196.0,
       "text": " Og Christian Sinju, når jeg synes, at det her emne var værd at tage op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 196.0,
       "end": 199.0,
       "text": " så er det jo fordi, at vi har en løbende hypotese på det her show,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 199.0,
       "end": 204.0,
       "text": " om at folk sender for få e-mails ud, og de er bange for at bruge deres e-maillister.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 204.0,
       "end": 207.0,
       "text": " Og der synes jeg, at det er fedt med en mand som Andreas,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 209.0,
       "text": " der ikke er bange for at bruge e-maillisten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 212.0,
       "text": " og sender 14 e-mails ud på 50 minutter, og det er ikke engang Black Friday,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 212.0,
       "end": 214.0,
       "text": " det er tirsdag den 7. januar kl. 18.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 214.0,
       "end": 216.0,
       "text": " Kan du så konvertere, min ven?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 216.0,
       "end": 218.0,
       "text": " Man skal jo ture og teste her.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 221.0,
       "end": 225.0,
       "text": " Det er så sjovt. Jeg ved ikke, om I har hørt om den der OpenClaw,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 225.0,
       "end": 228.0,
       "text": " den der nye AI-bot, der man har på computerne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 228.0,
       "end": 231.0,
       "text": " Og man er så bange for, om den kommer til at fuck et eller andet op i ens e-mail.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 231.0,
       "end": 234.0,
       "text": " Det er lige hvad jeg vil påstå. Den havde nok en eller anden guardrail,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 234.0,
       "end": 236.0,
       "text": " så det ikke kunne fuck så meget op her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 236.0,
       "end": 238.0,
       "text": " Ja, der skal mennesker til at fuck så meget op.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 238.0,
       "end": 243.0,
       "text": " Vi havde jo Key Results sidste kvartal, der var linket direkte op til MailSense,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 243.0,
       "end": 247.0,
       "text": " så vi fucked op 20 dage for sent, fordi vi havde virkelig nælet vores Key Results sidste kvartal,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 247.0,
       "end": 249.0,
       "text": " hvis vi havde købt det der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 249.0,
       "end": 252.0,
       "text": " Det havde været sindssygt, men Andreas, du har jo lavet en split-test her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 254.0,
       "text": " Det er jo lidt ligesom, hvis man slukker ens spend,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 254.0,
       "end": 257.0,
       "text": " eller man får lukket ens annoncekonto, så ser man også virkelig, hvad værdien var ved det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.0,
       "end": 261.0,
       "text": " Du har jo lavet en naturlig split-test ved at sende 128.000 e-mails ud",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 261.0,
       "end": 265.0,
       "text": " på 50 minutter til 11.000 modtagere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 265.0,
       "end": 268.0,
       "text": " Og jeg synes, det kunne være sjovt at høre noget om resultaterne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 268.0,
       "end": 272.0,
       "text": " Kan du ikke sige, for det første fremmest, du havde cirka 9.000 på listen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 272.0,
       "end": 276.0,
       "text": " Hvor mange unsubscriber, hvis du sender dem 14 mails på en time?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 277.0,
       "end": 279.0,
       "text": " Det er faktisk ikke så slemt.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 279.0,
       "end": 281.0,
       "text": " Så vi havde en unsubscribe-rate.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 281.0,
       "end": 285.0,
       "text": " Ikke, at andre skal gøre det her. Jeg ved ikke, om jeg var anbefalt eller noget.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 285.0,
       "end": 289.0,
       "text": " Men vi havde en unsubscribe-rate på 0,46 % af dem, der fik mailsene.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 289.0,
       "end": 291.0,
       "text": " Altså per mail?",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 291.0,
       "end": 292.0,
       "text": " Nej, i alt.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 292.0,
       "end": 293.0,
       "text": " I alt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 295.0,
       "text": " Så vi har 500...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 298.0,
       "text": " Så sendte du 14 mails til hele din liste på en time og tjørnede en halv procent af dem?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 298.0,
       "end": 300.0,
       "text": " Sorry, jeg kører lige om her.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 300.0,
       "end": 304.0,
       "text": " Vi havde en unsubscribe-rate på 0,46 % per mail.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 304.0,
       "end": 305.0,
       "text": " Per mail?",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 305.0,
       "end": 307.0,
       "text": " Ja, 0,46 % per mail.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 307.0,
       "end": 310.0,
       "text": " Så det kan du så gange op til 10 mails.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 310.0,
       "end": 313.0,
       "text": " Så vi havde cirka 4 % af vores liste høj den dag.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 313.0,
       "end": 321.0,
       "text": " Men du bytter 4 % af din e-mail-liste mod at tage 96 % af den og eksponere dem 14 gange på en time.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 324.0,
       "text": " Jeg er ikke sikker på, at det var et dårligt byt.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 324.0,
       "end": 328.0,
       "text": " Vi vandt Sheriff's Inbox den der time.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 328.0,
       "end": 333.0,
       "text": " Det er lidt spændende, vi har ikke...",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 333.0,
       "end": 337.0,
       "text": " How to report this company.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 337.0,
       "end": 340.0,
       "text": " Spam-mæssigt synes jeg faktisk ikke, at det var så slemt.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 340.0,
       "end": 343.0,
       "text": " Vi kan så sige, at e-mail-åben-raten var nede på 16 %.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 343.0,
       "end": 346.0,
       "text": " Folk åbnede ikke alle mailsene, der blev sendt.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 346.0,
       "end": 350.0,
       "text": " De åbnede kun 2-3 af de stykker, der bliver sendt ud.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 350.0,
       "end": 352.0,
       "text": " Hvilket igen er bedre end average.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 352.0,
       "end": 356.0,
       "text": " Fordi hvis vi kun sender én mail ud dagligt, er der været 30 % der åbner dem.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 356.0,
       "end": 359.0,
       "text": " Det er faktisk en rimelig godt sammenligningsgrundlag.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 359.0,
       "end": 363.0,
       "text": " Helt oktober måned sendte vi lige så mange mails ud, som vi sendte i de her 50 minutter.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 363.0,
       "end": 366.0,
       "text": " Så det er ret nemt at sammenligne en til en.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 366.0,
       "end": 369.0,
       "text": " Åben-raten på dem her var 16 % af mailsene.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 369.0,
       "end": 373.0,
       "text": " I oktober havde vi et totalt åben-rat på 31 %.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 373.0,
       "end": 378.0,
       "text": " Så vi kan sige, at det er cirka det halve af mailsene, der er åbnet i forhold til, hvad vi plejer.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 378.0,
       "end": 384.0,
       "text": " Så hvis man skal anbefale noget, så skal du ikke tage en hel måneds e-mail og udsende på 50 minutter i forhold til din åbningsrate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 385.0,
       "end": 387.0,
       "text": " Nej, pacing giver mening.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 387.0,
       "end": 390.0,
       "text": " Og det bliver endnu værre, når vi går ned i kliks.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 390.0,
       "end": 395.0,
       "text": " Fordi vi havde en klik-rat på 0,05 % på vores mails i de 50 minutter der.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 395.0,
       "end": 398.0,
       "text": " Og den er jo helt til hunde.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 398.0,
       "end": 405.0,
       "text": " Så nu gør vi meget i at smide vores content ud, så det ikke behøves at klikke videre til at skulle læse et dumt bloganlæg,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 405.0,
       "end": 407.0,
       "text": " eller signe up til et eller andet og så videre.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 407.0,
       "end": 409.0,
       "text": " Sådan en ungated ting.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 409.0,
       "end": 413.0,
       "text": " Men det er fjoldet at sende så mange mails ud på en time.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 413.0,
       "end": 415.0,
       "text": " Men det var jo så en ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 419.0,
       "text": " Det var unsubscribes, hvor du mister kun 5-45 % af din liste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 421.0,
       "text": " Det er faktisk bedre, end jeg havde regnet med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 425.0,
       "text": " Men vi er jo også nødt til at snakke om resultatstiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 429.0,
       "text": " Fik du booket nogle leads på at sende 128.000 mails på 50 minutter?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 431.0,
       "text": " Vi er faktisk gået ind.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 431.0,
       "end": 433.0,
       "text": " Den sidste del af januar har været meget bedre end starten af januar.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 433.0,
       "end": 437.0,
       "text": " Så på den måde, vi kan ikke se det direkte jo.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 437.0,
       "end": 443.0,
       "text": " Vores CS-afdeling har meldt ud, inden de vidste, hvor stort et problem var,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 443.0,
       "end": 447.0,
       "text": " har vi faktisk haft flere, der har skrevet til dem om de features, vi netop skrev om.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 447.0,
       "end": 451.0,
       "text": " Så vores brugerliste har faktisk gjort mere af det her.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 451.0,
       "end": 455.0,
       "text": " Så igen, folk har ikke åbnet 10-11 af de her mails.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 455.0,
       "end": 458.0,
       "text": " De har åbnet to-tre af dem, men det er faktisk også noget af det, der er gået ind.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 458.0,
       "end": 461.0,
       "text": " Så det er virkelig en nederen ting, der er sket.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 461.0,
       "end": 464.0,
       "text": " Og jeg er virkelig ked af alle dem, der har fået 11 mails.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 464.0,
       "end": 468.0,
       "text": " Jeg mener, vi griner af det nu her, men jeg er så ked af, hvor forfærdeligt det er.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 468.0,
       "end": 471.0,
       "text": " På den anden side kan vi faktisk også se, at det har en theory virket en lille smule,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 471.0,
       "end": 476.0,
       "text": " fordi der var et løft i, hvor mange folk, der faktisk gjorde de actions, vi gerne ville have.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 476.0,
       "end": 481.0,
       "text": " Ikke et stort nok løft til, at jeg ville æde 4% af min liste hver eneste dag for det,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " men der var et løft.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 483.0,
       "end": 487.0,
       "text": " Ja, som man kan se, altså kombinationen af i virkeligheden email-marketing virker bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 487.0,
       "end": 489.0,
       "text": " hvis du pacer det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 489.0,
       "end": 495.0,
       "text": " Det er jo en god lektie. Det virker bedre, hvis du tager 120.000 mails på en måned end på en time.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 495.0,
       "end": 497.0,
       "text": " Men det virker stadig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 497.0,
       "end": 500.0,
       "text": " Jeg er positivt overrasket over, at du kun har churnet 5% af din liste,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 500.0,
       "end": 503.0,
       "text": " og du faktisk fik en ret god månedsafslutning på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Altså som man kan se, helt slemt var det jo ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 509.0,
       "text": " Det er faktisk sådan, at unsubscribe-raten per email er præcis den samme,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 509.0,
       "end": 511.0,
       "text": " som den var i en normal oktober måned.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 511.0,
       "end": 517.0,
       "text": " Så det er et ret spøjs tilfælde, hvor vi har faktisk set, at det har i princippet givet...",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 517.0,
       "end": 519.0,
       "text": " Jeg vil ikke anbefale det her til nogen,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 519.0,
       "end": 522.0,
       "text": " men det har ikke givet så stort et problem, som jeg troede, det ville give.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 522.0,
       "end": 527.0,
       "text": " Og vi ræver os alle sammen jo i håret med os, der har hår over, hvor slemt det her var.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 527.0,
       "end": 531.0,
       "text": " Men vi har ikke set jordens største problem i det så far,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 531.0,
       "end": 533.0,
       "text": " selvom vi aldrig kommer til at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 533.0,
       "end": 535.0,
       "text": " Jeg sidder og overvejer det nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " Jamen jeg kan se det på dine øjne, Halbred.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 537.0,
       "end": 541.0,
       "text": " Du sidder faktisk allerede ind i hopspotteret og er i gang med at lave din liste.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 541.0,
       "end": 543.0,
       "text": " Vi har 25.000 emails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 546.0,
       "text": " Hvis vi mangler nogle konsulenter til at sætte gode flows op, så kan vi jo hjælpe...",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 546.0,
       "end": 552.0,
       "text": " Vi har 25.000 subscribers i hopspot, og vi har plads til flere kunder på designers og service.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 556.0,
       "text": " Burde jeg sende en mail til alle sammen 14 gange på en time?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 559.0,
       "text": " Hvad med deliverability i det her, Andreas?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " Jeg tænker, de langsrigtede effekter...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " Altså der må være at sende nogle spam-signaler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 566.0,
       "text": " og der må være nogen, der både har omsubscribed, og så også lige trykker på den der spam-knap.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 566.0,
       "end": 567.0,
       "text": " Måske en enkelt eller to.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 569.0,
       "text": " Har du sendt mails ud efterfølgende, hvor du kunne se noget?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 570.0,
       "text": " Vi har...",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 570.0,
       "end": 575.0,
       "text": " Faktisk det mest overrasket med det her, er, at vi har fået én spam-rapport i løbet af tiden.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 576.0,
       "end": 581.0,
       "text": " Og jeg tror, at grunden til det her er, at folk godt kan se, at det er et e-mail-fuck-up,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 581.0,
       "end": 583.0,
       "text": " plus vi kun har Marketius på vores liste.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 583.0,
       "end": 586.0,
       "text": " Så jeg tror, folk kan godt se, at det her er så grældt.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 586.0,
       "end": 589.0,
       "text": " Det kan ikke engang den her virksomhed mene er acceptabelt.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 589.0,
       "end": 592.0,
       "text": " Og så har de ikke rapporteret lortet.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 592.0,
       "end": 593.0,
       "text": " Så det er faktisk...",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 593.0,
       "end": 599.0,
       "text": " Jeg er overdrevet overrasket over, hvor lille problem vi har haft ved det her.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 599.0,
       "end": 602.0,
       "text": " Så folk kunne godt se, at det er et fuck-up, og har ikke spam-rapporteret.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 602.0,
       "end": 605.0,
       "text": " På den anden side, vi har ikke sendt en eneste e-mail siden.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 605.0,
       "end": 608.0,
       "text": " Og vi begynder i den her...",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 608.0,
       "end": 611.0,
       "text": " Vi overvejede at sende en undskyldsmail ud, men vi var sådan...",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 611.0,
       "end": 613.0,
       "text": " Nu har folk lige fået 10, 11, 12 mails.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 613.0,
       "end": 616.0,
       "text": " Så jeg tror ikke, det hedder handtagtene, hvor vi så skriver undskyld.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 616.0,
       "end": 619.0,
       "text": " Så vi har ikke sendt en eneste mail siden, vi slukkede her.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 619.0,
       "end": 622.0,
       "text": " Og det begynder vi at tænde op i den her uge.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 622.0,
       "end": 626.0,
       "text": " Vi tror ikke, det kommer til at have den store indflydelse på deliverability,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 626.0,
       "end": 629.0,
       "text": " fordi vi har fået så få spam-rapporter, som vi har.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " Men vi ved det ikke endnu.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 632.0,
       "end": 635.0,
       "text": " Jeg tror, du har ret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 639.0,
       "text": " Du har jo ikke haft en højere unsubscribe-rate per mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " Du har nærmest ingen spam-complaints.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 641.0,
       "end": 644.0,
       "text": " Din åbningsrat er stadig decent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 644.0,
       "end": 647.0,
       "text": " Jeg tror, derude fra de der metrics, så tror jeg også, du er okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 647.0,
       "end": 651.0,
       "text": " Jeg tænker, hvem er den ene nedejende markedser ud af de 9000 på listen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " der rent faktisk spammarkerede dig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " Det er fandme ikke særlig kollegialt, til gengæld.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " Nej, og jeg ved heller ikke, om de har skrevet til mig,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " om det er en af dem, der har skrevet til mig.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 660.0,
       "end": 662.0,
       "text": " Jeg har fået 30 mennesker, der har skrevet til mig personligt,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 662.0,
       "end": 665.0,
       "text": " og det er ikke engang mig, der står for vores marketing længere.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 665.0,
       "end": 667.0,
       "text": " De har jo også fået beskeder.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 667.0,
       "end": 672.0,
       "text": " Hvis man skal fuck op, skal man bare sørge for at fuck godt og grundigt op.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 672.0,
       "end": 675.0,
       "text": " Og så tror jeg ikke, der sker det store, faktisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " Vil du anbefale det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 681.0,
       "text": " Jeg ved ikke, om andre kan bruge den her episode til noget som helst, by the way.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 681.0,
       "end": 686.0,
       "text": " Den er kørt ud i en retning, jeg slet ikke havde regnet med her for 11 minutter siden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 686.0,
       "end": 689.0,
       "text": " men hold kæft, det er fedt, hvis du skal fuck op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 689.0,
       "end": 691.0,
       "text": " Så sørger de for at fuck rigtigt op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 696.0,
       "text": " Andreas, vil du anbefale at spamme din e-mailliste som en growth hack?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " Når du har prøvet det, vil du anbefale det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 700.0,
       "text": " Nej, umiddelbart ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 700.0,
       "end": 705.0,
       "text": " Jeg kan ikke specifikt sætte på, hvad vi har fået ud af det her",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 705.0,
       "end": 708.0,
       "text": " i monthly recurring revenue eller noget som helst,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 708.0,
       "end": 711.0,
       "text": " men den moralske og etiske kompas, vi har, er bare,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 711.0,
       "end": 714.0,
       "text": " vi har det så dårligt over det, der er sket her,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 714.0,
       "end": 716.0,
       "text": " at lige hvor meget omsætning, vi fik ud af det næsten,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 716.0,
       "end": 719.0,
       "text": " så er vi simpelthen forgodsindede til at gøre det her sjov igen,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 719.0,
       "end": 722.0,
       "text": " med mindre vi er virkelig nogle fjolser.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 722.0,
       "end": 726.0,
       "text": " Så jeg kan ikke anbefale det, hvis man har bare en smule morale.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 726.0,
       "end": 729.0,
       "text": " Så hvis man får ligesind købt via et USB-stik, kan det godt være,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 729.0,
       "end": 732.0,
       "text": " at det kunne give mening, men ja.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 732.0,
       "end": 736.0,
       "text": " Det var ICE Digitals vækstplan i 2022, men det er til en anden episode en eller anden dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 736.0,
       "end": 739.0,
       "text": " Man kan jo kalde det her for failed marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 739.0,
       "end": 742.0,
       "text": " Kan I huske, at Elon Musk stod på scenen og skulle lancere Cybertruck,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 742.0,
       "end": 745.0,
       "text": " og så tog han den der bowlingkugle af en stålbold og sagde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 748.0,
       "text": " jeg kan kaste den her på bilen uendeligt gange, og den går ikke i stykker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 748.0,
       "end": 751.0,
       "text": " Han kaster den på vinduet en gang, og det flækker bare med det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 751.0,
       "end": 754.0,
       "text": " Og det var jo det, der blev delt fra konferencen, det her lancerings-event.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 754.0,
       "end": 757.0,
       "text": " Så på en eller anden måde, hvis du bare havde sendt mig en enkelt e-mail,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 757.0,
       "end": 760.0,
       "text": " så havde vi jo ikke lavet en marketing-episode om det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 760.0,
       "end": 763.0,
       "text": " Så på den måde, jeg synes faktisk, det er temmelig genialt lavet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 763.0,
       "end": 767.0,
       "text": " Mikkel, jeg tror faktisk oprigtigt, at den der wall af e-mails, man har fået,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 767.0,
       "end": 770.0,
       "text": " fordi ikke en ens indbakke har jo kun været det,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 770.0,
       "end": 773.0,
       "text": " at man har fået notifikationer sådan løbende hver fire minutter fra konflikt,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 773.0,
       "end": 776.0,
       "text": " der har sendt e-mails. Og jeg tror det, at det er så stor skala,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 776.0,
       "end": 779.0,
       "text": " gør, at man er, jeg ved ikke, om man får ondt af os, eller hvad man gør,",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 779.0,
       "end": 784.0,
       "text": " men reprimanderne har ikke været så store, som vi havde, ja.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 784.0,
       "end": 787.0,
       "text": " Nej, altså jeg tror, at titlen til den her episode skal være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 787.0,
       "end": 792.0,
       "text": " Andreas sendte 128.000 e-mails til 11.000 personer og fik én spam-anklage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 792.0,
       "end": 795.0,
       "text": " Det synes jeg faktisk er den vildeste statistik af dem alle sammen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 795.0,
       "end": 797.0,
       "text": " Du bliver nødt til at have tidsaspekter med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 797.0,
       "end": 799.0,
       "text": " Ja, det er nødt til jeg også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 799.0,
       "end": 800.0,
       "text": " På 50 minutter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 800.0,
       "end": 802.0,
       "text": " Ja, det er altså det, der er nøglort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 802.0,
       "end": 805.0,
       "text": " Og fik én spam-anklage. Det synes jeg er sindssygt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 805.0,
       "end": 809.0,
       "text": " Andreas, tusind tak, fordi du gad være med i dagens episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 809.0,
       "end": 812.0,
       "text": " og jeg kan jo sige, hvis man kunne tænke sig at komme på Andreas' nyhedsbrev,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 812.0,
       "end": 813.0,
       "text": " det gør han jo faktisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 813.0,
       "end": 815.0,
       "text": " Ja, I kan signe op inden for konflikt.io.",
-      "speaker": "C"
+      "speaker": "Andreas"
     },
     {
       "start": 815.0,
       "end": 820.0,
       "text": " Vi begynder at sende mails nu her igen om lidt, så I joiner bare.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 820.0,
       "end": 825.0,
       "text": " Gå ind på konflikt.io, tilmelder nyhedsbrevet, bruger værktøjet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 825.0,
       "end": 827.0,
       "text": " og det er super godt at hæve dit afkast på Facebook-analyseringen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 827.0,
       "end": 830.0,
       "text": " og så kan du se næste gang, at Andreas mangler nogle lids i indbakken,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 830.0,
       "end": 831.0,
       "text": " og hvad han sokker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 831.0,
       "end": 832.0,
       "text": " Det bliver mega spændende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 832.0,
       "end": 834.0,
       "text": " Tusind tak, fordi du var med i dag, Andreas.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

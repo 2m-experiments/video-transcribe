@@ -9,1151 +9,1155 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 13.0,
       "text": " Christian, det her er den sidste episode i vores serie af Ecom-episoder, som vi har valgt at kalde Ecom Sommer, hvor vi har udgivet hver dag i sommerferien.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 13.0,
       "end": 20.0,
       "text": " Årsagen var, at alle andre stoppede med at lave podcast, fordi vi skulle holde sommerferie, men Christian og jeg har ikke bedre at lave åbenbart, så vi fortsatte bare.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 20.0,
       "end": 25.0,
       "text": " Og du har ikke nogen børn, jeg har tre stykker, det siger jeg alligevel. Ej, det har vi syntes var sjovt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 30.0,
       "text": " Så fra kommende uge, så er vi tilbage på almindeligt schedule. Igen mandag og torsdag klokken 06.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 30.0,
       "end": 34.0,
       "text": " Den her episode, den handler om en ændring, jeg for nylig var inde og lave på en af vores kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.0,
       "end": 38.0,
       "text": " En ændring, som betød, at hele deres konto øjeblikkeligt gav 38% højere råd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 38.0,
       "end": 43.0,
       "text": " Og det synes jeg bare var så interessant, så jeg havde lyst til at dele den ene ændring i den episode her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 43.0,
       "end": 46.0,
       "text": " Så det handler altså om Facebook ads for webshops.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 46.0,
       "end": 54.0,
       "text": " Og det vi skal snakke om i dag, det er ikke tilskrivning, det er ikke attribution, men det er hvad du optimerer efter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 58.0,
       "text": " Så lad os starte med at tage Facebooks standard tilskrivningsmodel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 58.0,
       "end": 64.0,
       "text": " Den hedder 7.1. Tidligere hed den 28.1, og så i 2021 blev det 7.1.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.0,
       "end": 70.0,
       "text": " Og Christian, kan du ikke forklare sådan 7.1-modellen? Hvad er det, det går ud på? 7 dages klik og en dages visning?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 70.0,
       "end": 77.0,
       "text": " Jo, det vil sige, at når Facebook viser dig en annonce, så vil de gerne kunne vise dig, hvorvidt Facebook har været med til at skabe konverteringen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 77.0,
       "end": 82.0,
       "text": " Og det gør de så inden for to forskellige vinduer, afhængig af om du har klikket eller bare set annoncen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 82.0,
       "end": 90.0,
       "text": " 7 dages klik, det betyder, at hvis du konverterer inden for 7 dage efter, at du har klikket på annoncen, så tilskriver Meta eller Facebook konverteringen til den givende annonce.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 90.0,
       "end": 100.0,
       "text": " Og konverterer du inden for 24 timer efter, at du har set annoncen på dit feed, så tilskriver Meta også den konvertering til annoncen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 100.0,
       "end": 103.0,
       "text": " Og særligt den sidste her, den har altid været en lille smule kontroversiel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 111.0,
       "text": " Altså kan Meta gå ind og tilskrive konverteringer fra folk, som ikke har klikket på den annonce, men bare har fået den vist i deres feed for eksempel eller et eller andet sted,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 111.0,
       "end": 113.0,
       "text": " og så har konverteret inden for 24 timer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 113.0,
       "end": 117.0,
       "text": " Der kan man sige, at Facebook har været en del af kunderejsen, det kan man ikke komme uden om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 117.0,
       "end": 122.0,
       "text": " men har Facebook været udslagsgivende for kunderejsen, det kan man måske godt stille nogle spørgsmålstegn ved.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 123.0,
       "text": " Med det sagt, så er det her ikke unormalt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 123.0,
       "end": 127.0,
       "text": " Google Ads har også standardens 24 timers tilskrivning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 127.0,
       "end": 134.0,
       "text": " Klav.io har, jeg mener det er tre dages visningstilskrivning, som er ret offensiv faktisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 134.0,
       "end": 137.0,
       "text": " Altså der er jeg inde for mange af vores kunder at fjerne visningstilskrivningen på Klav.io,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 140.0,
       "text": " fordi det er pludselig tilskrivning til 70% af omsætningen på shoppen, det er helt urealistisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 143.0,
       "text": " Men Facebook det er sådan 7-1.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.0,
       "end": 147.0,
       "text": " Det der så var udfordringen med den shop, som vi arbejder med her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 147.0,
       "end": 152.0,
       "text": " det er at det er en halvstort dansk webshop, og de bruger en halv million om måneden på Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.0,
       "end": 156.0,
       "text": " Så de får boldet nogle penge af det, og det er en del mere end de bruger på Facebook Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
       "end": 161.0,
       "text": " Og for en halv million kroner på Google Ads, der får du en okay bænke konverteringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 161.0,
       "end": 164.0,
       "text": " særlig fordi de produkter de sælger, de ikke kan nogen dyre heller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 164.0,
       "end": 169.0,
       "text": " Så der løber en del konverteringer igennem, og de sender rigtig mange klik ind mod deres side hver dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 169.0,
       "end": 174.0,
       "text": " Den problemstilling der så opstår her, det er at mange af de personer der kommer ind fra Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 178.0,
       "text": " som er den primære trafikkanal på sitet, de køber måske ikke med det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 183.0,
       "text": " Og det betyder at de kan måske godt lide at nå at få vist en retargeting annonce på Facebook,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 183.0,
       "end": 185.0,
       "text": " eller Instagram, eller en af deres placeringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.0,
       "end": 188.0,
       "text": " Og så går Facebook ind og tilskriver sig selv værdien af det her salg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 190.0,
       "text": " Det giver to problemer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 190.0,
       "end": 194.0,
       "text": " Det ene det er at hvis man lægger deres Facebook omsætning sammen, og deres Google Ads omsætning sammen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 194.0,
       "end": 196.0,
       "text": " så er vi over 100% af virksomhedens omsætning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 196.0,
       "end": 200.0,
       "text": " Så allerede der kan man se at der er en udfordring i forhold til dobbelt tilskrivning her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.0,
       "end": 207.0,
       "text": " Den anden ting det er at Facebook måler for mange konverteringer, og det gør det svært for os at sætte budgettet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 213.0,
       "text": " Altså der er en meget meget stor diskrepans mellem den rapportering de har i deres backend, Shopify og Facebook.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 216.0,
       "text": " Og diskrepansen er noget mindre på Google Ads end til Facebook.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 216.0,
       "end": 221.0,
       "text": " Så vi kan se at Shopify's vurdering er at Google Ads passer nogenlunde på det som Google Ads selv siger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 221.0,
       "end": 223.0,
       "text": " Google Ads har også taget det lidt højere, men nogenlunde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 223.0,
       "end": 226.0,
       "text": " Men Facebook der er faktisk 10 i forskel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 230.0,
       "text": " Altså Facebook rapporterer 10 gange så mange konverteringer som Shopify gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 230.0,
       "end": 233.0,
       "text": " Og det tror jeg ikke er en helt uset situation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 233.0,
       "end": 235.0,
       "text": " Altså den er der mange der kan genkende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.0,
       "end": 239.0,
       "text": " Det er jo så sådan at man kan gå ind på Facebook og så kan man opdele ens tilskrivningsvindue.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 239.0,
       "end": 242.0,
       "text": " Så hvis man klikker rundt ind på ens Facebook-konto, eventuelt Google hvor det ligger henne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 244.0,
       "text": " så kan man gå ind og indstille ens tilskrivningsvindue.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 246.0,
       "text": " Eller ikke indstille det, men opdele det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 246.0,
       "end": 251.0,
       "text": " Således at man kan se hvor mange konverteringer har fået 24 timers visning, 1 dages klik og 7 dages klik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 255.0,
       "text": " Da jeg gjorde det på den her grund, der kunne jeg se lige omkring 90% af deres konverteringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 258.0,
       "text": " det var på 24 timers visning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 258.0,
       "end": 260.0,
       "text": " Og allerede der så har vi jo en hypotese.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 266.0,
       "text": " Facebook måler cirka 10 gange for meget, og 90% af det de rent faktisk tilskriver, det er visningskonverteringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 266.0,
       "end": 269.0,
       "text": " Så det har nok noget med det at gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 269.0,
       "end": 271.0,
       "text": " Det man så kan gøre hvis man oplever det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 271.0,
       "end": 275.0,
       "text": " hvis man går ind på ens konto og ser at visningstilskrivninger står for langt størstedelen af ens konverteringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 275.0,
       "end": 278.0,
       "text": " så skal man begynde at være meget kritisk med om det her rent faktisk giver mening.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 281.0,
       "text": " Det man kan gøre, det er at man kan lave en ny kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 281.0,
       "end": 285.0,
       "text": " og så kan man ændre ens optimeringsindstillinger til kun at optimere efter klik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 285.0,
       "end": 288.0,
       "text": " Standardindstilling på Facebook, der er den hedder 7.1.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 288.0,
       "end": 292.0,
       "text": " Men du kan godt ændre den til 7.0 eller til 1.0, hvis du er endnu mere offensiv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 292.0,
       "end": 296.0,
       "text": " Det kræver bare at du gør det, det er en indstilling der ligger inde under ens annonce set.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 296.0,
       "end": 298.0,
       "text": " Hvis du gør det, så siger du til Facebook,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 298.0,
       "end": 304.0,
       "text": " jeg vil kun optimere leveringen efter folk som rent faktisk klikker på mine annoncer og så køber.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 304.0,
       "end": 308.0,
       "text": " Du måler sådan set stadig folk som ser annoncen og køber.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 308.0,
       "end": 312.0,
       "text": " Så du kan godt gå ind og lave en udspecificering, så du kan se hvor mange har set annoncen og købt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 314.0,
       "text": " men det tæller ikke med i dine resultater.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 314.0,
       "end": 316.0,
       "text": " Så Facebook rapporterer dem ikke som standard.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 316.0,
       "end": 320.0,
       "text": " De måler dem, men de rapporterer dem ikke, så det er lidt ligesom sekundære konverteringer i Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 320.0,
       "end": 322.0,
       "text": " Og de optimerer ikke leveringen efter det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 322.0,
       "end": 326.0,
       "text": " Så hvis der er en person som går ind på dit site via Google Ads for at vise en annonce og så køber,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 326.0,
       "end": 331.0,
       "text": " uden at have klikket på Facebook, så vil de hverken rapportere det eller optimere leveringen af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 331.0,
       "end": 333.0,
       "text": " Så det var den ændring vi lavede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 333.0,
       "end": 337.0,
       "text": " Og så ventede vi i to uger og så hvordan resultaterne såste ud på kontoren.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 337.0,
       "end": 340.0,
       "text": " Og der er sådan tre tal, jeg synes er rigtig interessante i det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 340.0,
       "end": 345.0,
       "text": " Det første tal, det er deres click-through rate i den kampagne, der kun optimerede efter klik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 345.0,
       "end": 347.0,
       "text": " og altså ikke optimerede efter visning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 347.0,
       "end": 349.0,
       "text": " Den gik fra 1 til 2,5%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 349.0,
       "end": 353.0,
       "text": " Så vi tog en halvdoblede af deres click-through rate, og det giver mening,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.0,
       "end": 357.0,
       "text": " fordi før kunne Facebook jo bare vise annoncen til en person, der var interesseret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 357.0,
       "end": 359.0,
       "text": " og så talte det som en konvertering, de behøvede jo ikke engang klik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 359.0,
       "end": 363.0,
       "text": " Så Facebook havde ikke noget incitement til at gå efter personen, som rent faktisk klikkede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 363.0,
       "end": 369.0,
       "text": " fordi virksomheden havde bedt algoritmen om bare at levere konverteringer, uanset om de klikkede eller ikke klikkede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 373.0,
       "text": " Så click-through rate gik fra 1% til 2,5%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 375.0,
       "text": " Det er allerede, det synes jeg er positivt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 375.0,
       "end": 378.0,
       "text": " Kost per klik gik fra 7 kroner til 1 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 378.0,
       "end": 381.0,
       "text": " Hvad vil dit fald i pris per klik?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 384.0,
       "text": " Altså det samme budget vi bruger, det er helt det samme i perioden her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 389.0,
       "text": " Og det er både fordi vores click-through rates steg, men vores CPM-pris faldt også i samme periode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 392.0,
       "text": " Jeg har lidt svært ved at forklare, hvorfor CPM-prisen faldt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 392.0,
       "end": 396.0,
       "text": " Det kan vi bare konstatere, at de gjorde den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 396.0,
       "end": 401.0,
       "text": " Så sådan en kombination af vores click-through rates stiger fra 1 til 2,5%, og vores CPM cirka halveres,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 405.0,
       "text": " det betyder bare, at CPC kost per klik gik fra 7 kroner til 1 kroner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 405.0,
       "end": 408.0,
       "text": " med de samme indstillinger og de samme kreativer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 408.0,
       "end": 413.0,
       "text": " Vi besøgte at ro os på kontoen, og i et blik kan I se 38% på tværs af hele kontoen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 415.0,
       "text": " De brugte det samme, 38% flere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 420.0,
       "text": " Og i Google Analytics 4 og i Shopify kan de også aflæse flere konverteringer fra Meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 422.0,
       "text": " Så det tiller op på alle kanaler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 425.0,
       "text": " Meta vurderer det, Shopify vurderer det, Google Analytics vurderer det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 429.0,
       "text": " Altså alle kanaler, eller alle måder at rapportere på siger det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 432.0,
       "text": " Det synes jeg bare er mega interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 432.0,
       "end": 434.0,
       "text": " Det lyder helt vildt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 435.0,
       "end": 439.0,
       "text": " Er det her noget, du vil anbefale alle at gøre,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 439.0,
       "end": 443.0,
       "text": " eller er der nogle tidspunkter, hvor det bare ikke giver mening at nogle virksomheder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " hvor det ikke vil give mening at gøre det ved?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 445.0,
       "end": 449.0,
       "text": " Fordi alle er vel interesseret i at få kliksene, men også visninger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 449.0,
       "end": 451.0,
       "text": " Jeg kan se flere scenarier her egentlig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " Ja, det kan man nemlig, og det er en ret vigtig pointe,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 457.0,
       "text": " fordi man kan godt sidde og tænke, okay klikprisen faldt fra 7 kroner til 1 kroner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 457.0,
       "end": 463.0,
       "text": " CTR-stemen 62%, og ROA-stemen 38%, skal alle ikke bare gøre det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 463.0,
       "end": 467.0,
       "text": " Men det sjove er faktisk, at de fleste virksomheder burde ikke gøre det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 469.0,
       "text": " De fleste virksomheder burde have 7-1.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 469.0,
       "end": 473.0,
       "text": " Obsidian har 7-1 på vores egen annonce, og de fleste af vores e-commerce kunder har 7-1.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 476.0,
       "text": " Men der er en specifik undtagelse til, hvornår du bør køre 7-0,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 476.0,
       "end": 479.0,
       "text": " og det er, hvis Facebook er en meget lille del af din trafikkanal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 479.0,
       "end": 481.0,
       "text": " og du bruger rigtig mange penge på Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 481.0,
       "end": 482.0,
       "text": " eller du får virkelig mange besøgende fra SEO,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 482.0,
       "end": 484.0,
       "text": " eller din e-mail liste bare sparker røv,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 487.0,
       "text": " eller du har en eller anden anden kilde, der bidrager helt sindssygt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 487.0,
       "end": 491.0,
       "text": " Fordi det, der så sker i det tilfælde, det er, at Meta kan sådan lidt piggybacke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " og det kan algoritmet åbenbart ikke finde ud af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 495.0,
       "text": " eller så kan vi ikke finde ud af at indstille den korrekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 495.0,
       "end": 499.0,
       "text": " Så hvis Meta ser, at der er helt vildt mange besøgende på siden i forvejen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 501.0,
       "text": " og visningskommenteringer er tilladt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 505.0,
       "text": " jamen så matematisk, så giver det jo mening bare at gå ind og lave eksponeringer for dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 508.0,
       "text": " fordi de var lige ved at købe i forvejen, og så leverer du visningskommenteringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 508.0,
       "end": 511.0,
       "text": " Og hvis du som annoncør siger til Facebook, at jeg er ligeglad med, om det er visning eller klik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 511.0,
       "end": 513.0,
       "text": " så er det det, du får.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 513.0,
       "end": 518.0,
       "text": " Så det her, det er sådan ret specifikt til virksomheder, som typisk bruger rigtig mange penge på Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 518.0,
       "end": 520.0,
       "text": " Det kan også være virksomheder, der får virkelig meget fra SEO,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 520.0,
       "end": 523.0,
       "text": " men da man siger, at Danmark er et lille marked, så det sker ikke så tit igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 526.0,
       "text": " Det er mere sådan USA og Tyskland og UK, vi oplever det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 528.0,
       "text": " Det kan også være, at dit e-mail list er bare helt sindssygt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 528.0,
       "end": 530.0,
       "text": " eller det kan være, at du er i en kæmpestor virksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 530.0,
       "end": 532.0,
       "text": " Altså jeg er sikker på, at nu arbejder vi ikke med Elgiganten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 532.0,
       "end": 535.0,
       "text": " men jeg er sikker på, at hvis Elgiganten slukkede alt deres Google Ads i morgen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " så får de en masse af besøgende alligevel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 539.0,
       "text": " Og jeg tror også, at de vil være et eksempel på en virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 539.0,
       "end": 542.0,
       "text": " som nok skulle køre klikoptimering og ikke tillader visningsoptimering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 542.0,
       "end": 546.0,
       "text": " Men jo mindre din virksomhed er, jo mere har du brug for de her visningskonverteringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 546.0,
       "end": 548.0,
       "text": " fordi det er positive bevisningskonverteringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 548.0,
       "end": 551.0,
       "text": " Hvis man lige skal tage den anden halv på, det er, at det er konverteringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 554.0,
       "text": " som hjælper mest til at forstå, hvem er din målgruppe, hvem er dine kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 554.0,
       "end": 556.0,
       "text": " og hvordan er deres kunderejse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 558.0,
       "text": " Og der er visningskonverteringer, der er rigtige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 558.0,
       "end": 560.0,
       "text": " Der er også bare mange, der ikke er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 560.0,
       "end": 562.0,
       "text": " Særligt, hvis du har rigtig mange besøgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 562.0,
       "end": 564.0,
       "text": " Så hvis man er i en relativt mindre virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.0,
       "end": 566.0,
       "text": " eller Facebook er ens primære kanal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 566.0,
       "end": 568.0,
       "text": " så vil jeg ikke anbefale at slå visningskonverteringer fra,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 570.0,
       "text": " fordi så risikerer du at få dårligere resultater på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 570.0,
       "end": 572.0,
       "text": " Men hvis du bruger rigtig mange penge på Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 575.0,
       "text": " altså lad os sige, at du bruger 3-5-10 gange så mange penge på Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " som du gør på Facebook Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 580.0,
       "text": " så ligger du i det segment, der nok bør overveje at lave en test",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 580.0,
       "end": 582.0,
       "text": " med alene at klikoptimere din kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 582.0,
       "end": 584.0,
       "text": " og altså undgå visningskonverteringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 584.0,
       "end": 586.0,
       "text": " Og det sjove er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 586.0,
       "end": 588.0,
       "text": " når man kigger på deres gamle kampagner på kontoen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 590.0,
       "text": " så står de til at have en lavere pris per køb,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 590.0,
       "end": 592.0,
       "text": " fordi 90% er visningskonverteringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 594.0,
       "text": " Så den nye kampagne her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 596.0,
       "text": " når man bare ser på resultater, ser dyrere ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 599.0,
       "text": " Men hvis man så går ind og måler på klik og 7 dage kun,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 599.0,
       "end": 602.0,
       "text": " så er den lige pludselig meget, meget bedre i Google Analytics 4,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 602.0,
       "end": 604.0,
       "text": " meget, meget bedre i Shopify, meget, meget bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 608.0,
       "text": " Så det kræver også, at man som arrangør er en lille smule sofistikeret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 612.0,
       "text": " og kan se ud over standardrapporteringen i Facebook Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 614.0,
       "text": " i forhold til hvilken værdi, man har fået.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 618.0,
       "text": " Så det er simpelthen et spørgsmål om incrementality i sidste ende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 620.0,
       "text": " Så det var tippet for i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 620.0,
       "end": 622.0,
       "text": " Hvis du bruger rigtig mange penge på Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 624.0,
       "text": " og har Facebook Ads kørende i samme tid,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " eller bare har rigtig mange andre trafikkilder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 629.0,
       "text": " overvej lige at tjekke, hvor mange af dine konverteringer kommer fra visningskonverteringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " Og hvis det er en meget stor andel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 634.0,
       "text": " overvej, om du ikke skal køre en kampagne kun optimeret efter klikoptimeringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " og så rapporterer på baggrunden af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 638.0,
       "text": " hvor mange incremental conversions du har lavet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 638.0,
       "end": 640.0,
       "text": " Hvis du vil være rigtig professionel omkring det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 640.0,
       "end": 643.0,
       "text": " så skal du køre Conversion Lift Study ved siden af, at du gør det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 645.0,
       "text": " Det kan du høre mere om i den nye episode, vi lavede om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 648.0,
       "text": " og triks, den ligger et par uger tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

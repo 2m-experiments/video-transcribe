@@ -9,113 +9,117 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 8.0,
       "text": " Hvorfor er det, at grimt eller autentisk indhold virker, når det handler om at sælge produkter med for eksempel annoncering på Facebook og Instagram?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 20.0,
       "text": " Folk køber af andre folk, og når vi kan lave content, der er af folk, så performer det bare bedre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 20.0,
       "end": 26.0,
       "text": " Den nemmeste måde at gøre det på, det er at sætte en person foran kameraet, som de kan se sig selv i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 26.0,
       "end": 35.0,
       "text": " Ikke en influencer, ikke en kendt person, bare en helt almindelig, kedelig dansker, som har 100 følgere på Instagram,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 35.0,
       "end": 43.0,
       "text": " men som til gengæld virkelig rammer de problemer og painpoints og generelt den situation, som forbrugerne er i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 43.0,
       "end": 47.0,
       "text": " Lad mig prøve at give dig en udfordring for at konkretisere, hvad det her handler om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 53.0,
       "text": " Christian overvejer at starte en webshop, der hedder christiansinus.dk, hvor han vil sælge donut hundeseng,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 53.0,
       "end": 61.0,
       "text": " som har en søgevolum på 1700 søgninger om måneden i Danmark, hvilket er væsentligt mere end både Obsidian Digital og ICE Digital har til sammen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 61.0,
       "end": 68.0,
       "text": " Så det er et enormt forretningsområde, som jeg er kommet til at give ham lov til i en tidligere episode at gøre, til trods for vores ret stram ejeraftale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 68.0,
       "end": 78.0,
       "text": " Så hvis man nu skulle lave UGC for en donut hundeseng, hvordan ville det se ud i forhold til en almindelig annonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 78.0,
       "end": 82.0,
       "text": " hvis man nu skulle prøve at forestille sig, hvad det her er for noget materiale?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 82.0,
       "end": 88.0,
       "text": " I bund og grund vil det jo nok være, at man starter med at vise en hund, der ligger i den her seng her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 88.0,
       "end": 93.0,
       "text": " Man får vist, hvor fedt det er. Man får vist problemerne ved en traditionel hundeseng.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 93.0,
       "end": 100.0,
       "text": " Det her, at man går ind og snakker ind i hofte- og ledskader, som mange hundeoplever, det får man ikke i den her donut hundeseng.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 100.0,
       "end": 108.0,
       "text": " Men man kan snakke ind i generelt rigtig mange af de her problemer, der er, og hvordan donut hundesengen løser det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 108.0,
       "end": 113.0,
       "text": " Det er den mest generiske måde at tænke UGC på, og den mest sikre måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 113.0,
       "end": 122.0,
       "text": " Så hvis man skal ud og teste et nyt format som UGC, så vil den her problemløsende tilgang klart være den første video, man skal lave.",
-      "speaker": "B"
+      "speaker": "Christian"
     }
   ]
 }

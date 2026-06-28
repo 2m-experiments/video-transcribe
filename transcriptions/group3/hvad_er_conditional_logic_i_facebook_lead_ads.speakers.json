@@ -9,101 +9,105 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Christian",
+      "Halfdan"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Christian",
+      "B": "Halfdan"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 5.76,
       "text": " LIDATS, du var kort inde på det lige før, Halftan, og vi fortsætter egentlig ned ad den vej.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 5.76,
       "end": 11.52,
       "text": " Prøv at sætte os ind i LIDATS i dag. Hvad er det for nogle muligheder, vi egentlig har på Facebook?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 11.52,
       "end": 15.76,
       "text": " Fordi du har skrevet en mulighed ind her, som ikke var der i starten, da LIDATS udkom.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 15.76,
       "end": 22.76,
       "text": " Og det er jo faktisk en mulighed, som gør det muligt for os at filtrere ret hårdt i de leads, der nu engang kommer ind.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 22.76,
       "end": 28.76,
       "text": " Ja, altså lad os faktisk tage eksemplet fra lige før med studerende vs. direktør i en B2B-kontekst.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 28.76,
       "end": 32.76,
       "text": " Det vi skal snakke om, det er Conditional Logic, som blev lanseret for et par år siden.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 32.76,
       "end": 36.52,
       "text": " Og også en ting, som der er mange flere annoncerer, som burde bruge i virkeligheden.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.52,
       "end": 39.76,
       "text": " Så lad os sige, at det der er tanken, det er, lad os tage af og sige det som eksempel igen.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 39.76,
       "end": 45.76,
       "text": " Vi har webinars, vi har whitepapers, rapporter, vi har mange spændende ting, som vi gerne vil have, at folk de downloader.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 45.76,
       "end": 51.76,
       "text": " Men vi er også opmærksomme på, at igen, det er ikke alle, der har den samme forretningsmæssig værdi for os.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.76,
       "end": 54.52,
       "text": " Jeg er opmærksom på, hvem det er, der kommer ind, og hvem vi optimerer efter.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.52,
       "end": 58.52,
       "text": " Og hvis jeg laver en lead-ads-kampagne, som bare siger, at jeg har skaffet så billige leads, som overhovedet muligt,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 58.52,
       "end": 64.52,
       "text": " og den er øvelset op med Advantage Plus, så det er 18-65, hele landet, og jeg kan ikke redigere på nogen jobtitler, så tillykke.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.52,
       "end": 70.52,
       "text": " Så risikoen, at Facebook kommer til at levere nogle meget billige og meget dårlige leads, ender til at være meget stor.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 70.52,
       "end": 73.52,
       "text": " Conditional Logic kan hjælpe lidt med det her.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     }
   ]
 }

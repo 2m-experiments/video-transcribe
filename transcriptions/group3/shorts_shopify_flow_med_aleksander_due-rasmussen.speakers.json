@@ -9,6456 +9,6461 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B",
-      "C"
+      "Halfdan",
+      "Christian",
+      "Aleksander"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian",
+      "C": "Aleksander"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 5.0,
       "text": " God aften.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 5.0,
       "end": 7.0,
       "text": " I dag skal vi snakke om et emne, som ingen af os ved noget om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 7.0,
       "end": 11.0,
       "text": " Så derfor er det ret heldigt, at vi har Alexander Due Rasmussen med i vores virtuelle studio.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 16.0,
       "text": " Alexander er partner i Black Lemon og arbejder til daglig med en hel masse Shopify-shops.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 21.0,
       "text": " Og derfor er dagens emne om Shopify Flow også lige hans hjemmebane.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 21.0,
       "end": 27.0,
       "text": " Og det har vi glædet os til, fordi Alexander, som jeg forstår det, så er Shopify Flow faktisk en ret stor ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 31.0,
       "text": " Så lad os starte med at komme ind på, hvad er det og hvor stor en ting er det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 31.0,
       "end": 33.0,
       "text": " Jo, lad os starte med en spørgsmål. Hvad er det?",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 33.0,
       "end": 39.0,
       "text": " Shopify Flow er i basics meget det, man kender fra trigger-condition-action.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 39.0,
       "end": 42.0,
       "text": " Altså når det her sker, hvis de er reelt opfyldt, så gør det her.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 42.0,
       "end": 45.0,
       "text": " Og det er jo sådan en måde at sætte automatik til mange ting på.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 45.0,
       "end": 47.0,
       "text": " En måde at flytte data på.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 47.0,
       "end": 51.0,
       "text": " En måde at gøre nogle ting, som når det her igen er opfyldt, så vil vi gerne have det at vide,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 51.0,
       "end": 53.0,
       "text": " eller vi vil gerne gøre noget ud fra det.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 53.0,
       "end": 56.0,
       "text": " Og det er egentlig the basics of it.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 56.0,
       "end": 58.0,
       "text": " Hvor stor en ting er det?",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 58.0,
       "end": 60.0,
       "text": " Jeg tror måske, det har en opfattelse af det større, end det så egentlig er.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 60.0,
       "end": 63.0,
       "text": " For når vi først krasser i overfladen hos rigtig mange merchants herhjemme i hvert fald,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 63.0,
       "end": 69.0,
       "text": " så er det ikke fordi, at de bare står til og krydser slange og alt muligt i deres flow-setups.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 69.0,
       "end": 71.0,
       "text": " De fleste har bevæget sig lidt ud i det.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 71.0,
       "end": 75.0,
       "text": " De har måske en maksimum håndfuld aktive flow, som de er klar til at køre.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 75.0,
       "end": 80.0,
       "text": " Men det er en meget spæd start, som vi ser mange steder, før vi først rigtig får fat i det.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 80.0,
       "end": 85.0,
       "text": " Jeg tror også merekaldt, at det er en stor ting i forhold til, hvor meget det rent faktisk kan,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.0,
       "end": 87.0,
       "text": " hvis man ved, hvad man gør i det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 87.0,
       "end": 89.0,
       "text": " Og måske i mindre grad, end hvad folk de gør lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.0,
       "end": 93.0,
       "text": " Jeg tænker lidt på Shopify flow, som en Zapier, men inde i Shopify.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 93.0,
       "end": 95.0,
       "text": " Er det sådan helt forkert?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 95.0,
       "end": 98.0,
       "text": " Nej, det er faktisk egentlig spot on ved at sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 98.0,
       "end": 101.0,
       "text": " altså kan du sige Zapier, Make, Antigram og derude.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 101.0,
       "end": 103.0,
       "text": " Det er egentlig ret meget det, det er.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 103.0,
       "end": 106.0,
       "text": " Og tredjepartsappene kan ligesom vel som i Zapier,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 106.0,
       "end": 108.0,
       "text": " så kan Osbert skrive til de her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 108.0,
       "end": 111.0,
       "text": " og Osbert lægger sig ind på det library og nogle templates og sådan, der ligger der.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 111.0,
       "end": 113.0,
       "text": " Så det er egentlig meget én ting.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 113.0,
       "end": 115.0,
       "text": " Det er bare omkring Shopify-universet og som et UI,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 115.0,
       "end": 119.0,
       "text": " inden i selve Shopify er bioejet, som tvivl.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 119.0,
       "end": 122.0,
       "text": " Og Alexander, hvornår er det cirka, det her bliver lanseret?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 122.0,
       "end": 126.0,
       "text": " Fordi vi sidder og arbejder med rigtig mange e-commerce-shops i Heist Digital,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 126.0,
       "end": 129.0,
       "text": " og det her, det bliver der bare generelt nærmest ikke snakket noget som helst om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 129.0,
       "end": 132.0,
       "text": " hvilket jeg ikke helt forstår.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 132.0,
       "end": 134.0,
       "text": " Men er det fordi, det er så nyt, så nyt?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 134.0,
       "end": 136.0,
       "text": " Eller hvor er vi henne?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 136.0,
       "end": 138.0,
       "text": " Der er autodummer fuldstændig på min Shopify-flow,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 138.0,
       "end": 140.0,
       "text": " uden det at det gamle,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 140.0,
       "end": 142.0,
       "text": " altså Shopify flow har været der i lang tid.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 142.0,
       "end": 144.0,
       "text": " Ja, så det er ikke noget nyt overhovedet.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 144.0,
       "end": 146.0,
       "text": " Det bliver bedre og bedre dag for dag,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 146.0,
       "end": 148.0,
       "text": " fordi så hurtigt går det trods alt heller ikke.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 148.0,
       "end": 150.0,
       "text": " Men i hvert fald de her winter edition og summer edition,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 150.0,
       "end": 152.0,
       "text": " når det er nogle releases,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 152.0,
       "end": 154.0,
       "text": " og ofte når man bygger en ny funktionalitet på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 154.0,
       "end": 157.0,
       "text": " så husker man nogle gange også lige at få Shopify-flow-mæssige op.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 157.0,
       "end": 161.0,
       "text": " Det betyder også, at vi skal have en trigger eller en conditional action mere.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 161.0,
       "end": 164.0,
       "text": " Og der er faktisk sket nogle ret spændende ting for nyligt på det område,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 164.0,
       "end": 168.0,
       "text": " som gør, at det kan bruges i lidt højere grad for ret mange merchants,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 168.0,
       "end": 170.0,
       "text": " men der er stadig nogle ting, der mangler,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 170.0,
       "end": 173.0,
       "text": " som kan være en stor ting for rigtig mange merchants,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 173.0,
       "end": 176.0,
       "text": " som lige er rullet ud her bredt for nyligt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 176.0,
       "end": 179.0,
       "text": " så glæder man sig stadig lige at have det med i sine flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 179.0,
       "end": 182.0,
       "text": " og det gør, at man skal være lidt mere teknisk stavet",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 182.0,
       "end": 184.0,
       "text": " eller få skrevet en lille smule kode,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 184.0,
       "end": 186.0,
       "text": " for at man kan faktisk koble de to ting sammen.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 186.0,
       "end": 188.0,
       "text": " Så det har været der længe.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 188.0,
       "end": 190.0,
       "text": " Det er ikke så...",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 190.0,
       "end": 191.0,
       "text": " Nødvendigvis har jeg brugt der så mange,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 191.0,
       "end": 192.0,
       "text": " men det sjove er, at hver gang man snakker om det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 192.0,
       "end": 193.0,
       "text": " så sidder alle og tænker,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 193.0,
       "end": 195.0,
       "text": " ej, hvorfor har jeg ikke brugt meget mere tid på det her?",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 195.0,
       "end": 196.0,
       "text": " Fordi alt det, det løser for mig,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 196.0,
       "end": 199.0,
       "text": " er at bruge rigtig, rigtig meget af min daglige dag.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 199.0,
       "end": 201.0,
       "text": " Det er nemlig det, vi kommer til at snakke om mere senere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 201.0,
       "end": 204.0,
       "text": " altså hvordan man i virkeligheden kan få meget mere ud af ens tid,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 204.0,
       "end": 206.0,
       "text": " ved at få det her til at tage nogle af de manuelle opgaver,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 206.0,
       "end": 207.0,
       "text": " som folk sidder og laver.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 208.0,
       "text": " Til at starte med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 208.0,
       "end": 210.0,
       "text": " lad os lige tage sådan de tre termer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 210.0,
       "end": 212.0,
       "text": " der er inden for Shopify Flow,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 212.0,
       "end": 213.0,
       "text": " og det er jo henholdsvis,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 214.0,
       "text": " der er en trigger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 214.0,
       "end": 215.0,
       "text": " der er en condition,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 215.0,
       "end": 216.0,
       "text": " og der er en action.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 216.0,
       "end": 218.0,
       "text": " Hvad betyder de tre forskellige ting?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 218.0,
       "end": 221.0,
       "text": " Triggeren er helt klassisk det, der udløser flowet,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 221.0,
       "end": 222.0,
       "text": " så det vil sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 222.0,
       "end": 223.0,
       "text": " når det her sker,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 223.0,
       "end": 225.0,
       "text": " så er det jo så tilbage på de entities,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 225.0,
       "end": 226.0,
       "text": " der ligesom er i Shopify.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 226.0,
       "end": 227.0,
       "text": " Så når en ordre bliver placeret,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 227.0,
       "end": 228.0,
       "text": " når en kutte bliver oprettet,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 228.0,
       "end": 231.0,
       "text": " når en varer bliver ændret lagerstatus,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 231.0,
       "end": 232.0,
       "text": " et eller andet ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 232.0,
       "end": 233.0,
       "text": " som ligesom ændrer en value,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 233.0,
       "end": 234.0,
       "text": " hvis man kan sige det sådan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 234.0,
       "end": 235.0,
       "text": " i din forretning,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 235.0,
       "end": 237.0,
       "text": " så skaber du den her trigger.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 237.0,
       "end": 238.0,
       "text": " Og triggeren er det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 238.0,
       "end": 239.0,
       "text": " der ligesom sætter flowet i gang,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 239.0,
       "end": 241.0,
       "text": " og gør, at vi nu har noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 241.0,
       "end": 242.0,
       "text": " som vi skal vidte på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 242.0,
       "end": 245.0,
       "text": " eller vi skal manøvrere ved på den måde.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 245.0,
       "end": 246.0,
       "text": " Condition er så betingelsen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 246.0,
       "end": 247.0,
       "text": " der skal være opfyldt for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 247.0,
       "end": 248.0,
       "text": " at det er den her græns,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 248.0,
       "end": 249.0,
       "text": " at vi skal gøre noget ved det.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 249.0,
       "end": 250.0,
       "text": " Så det er det at sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 250.0,
       "end": 252.0,
       "text": " jamen inventory gik under 0,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 252.0,
       "end": 254.0,
       "text": " eller kutten hedder Karsten,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 254.0,
       "end": 257.0,
       "text": " eller at fraudfilteret var high,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 257.0,
       "end": 259.0,
       "text": " eller hvad det nogle gange kan være.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 259.0,
       "end": 261.0,
       "text": " Så hvis det ikke er vurderet high,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 261.0,
       "end": 262.0,
       "text": " så fortsætter det bare,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 262.0,
       "end": 263.0,
       "text": " som om ingenting var sket,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 263.0,
       "end": 264.0,
       "text": " og det er ligesom det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 264.0,
       "end": 266.0,
       "text": " der filtrerer foran for bukken,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 266.0,
       "end": 267.0,
       "text": " hvis man kan sige det sådan.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 267.0,
       "end": 269.0,
       "text": " Action giver lidt sig selv,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 269.0,
       "end": 270.0,
       "text": " på en eller anden måde,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 270.0,
       "end": 271.0,
       "text": " så hvad er det, der skal ske,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 271.0,
       "end": 272.0,
       "text": " hvad er det, der skal være actionable,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 272.0,
       "end": 274.0,
       "text": " ud fra det, vi så har fundet frem til.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 274.0,
       "end": 276.0,
       "text": " Og så kan man selvfølgelig på condition,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 276.0,
       "end": 278.0,
       "text": " man kan lave de her else flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 278.0,
       "end": 279.0,
       "text": " så at sige, hvis det ikke var det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 279.0,
       "end": 280.0,
       "text": " hvad så hvis det er det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 280.0,
       "end": 281.0,
       "text": " hvad så hvis det er det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 281.0,
       "end": 282.0,
       "text": " så kan vi godt tage multiple conditions på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 282.0,
       "end": 284.0,
       "text": " og så lave forskellige actions på det.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 284.0,
       "end": 286.0,
       "text": " Men action er typisk,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 286.0,
       "end": 287.0,
       "text": " gør det her, opdater det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 287.0,
       "end": 289.0,
       "text": " metafilt, læg det på en liste,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 289.0,
       "end": 290.0,
       "text": " cheat,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 290.0,
       "end": 292.0,
       "text": " eller send en slackbesked til merchanten,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 292.0,
       "end": 293.0,
       "text": " eller send en besked til kundenservice,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 293.0,
       "end": 295.0,
       "text": " eller send en besked til vores warehouse,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 295.0,
       "end": 297.0,
       "text": " eller send en besked til vores supplier.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 297.0,
       "end": 298.0,
       "text": " Gør en eller anden form for action,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 298.0,
       "end": 300.0,
       "text": " som som enten sætter sig direkte i systemet,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 300.0,
       "end": 301.0,
       "text": " som gør, at du ikke skal gøre noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 301.0,
       "end": 302.0,
       "text": " eller også gør,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 302.0,
       "end": 303.0,
       "text": " at du nærmest skal være opmærksom på noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 303.0,
       "end": 305.0,
       "text": " ringer en alarm, eller hvad det kan være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 305.0,
       "end": 307.0,
       "text": " Jeg har lige delt skærmen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 307.0,
       "end": 308.0,
       "text": " med et eksempel her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 308.0,
       "end": 310.0,
       "text": " fra et af dine slide decks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 310.0,
       "end": 311.0,
       "text": " Kan du ikke tage os igennem her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 311.0,
       "end": 312.0,
       "text": " nu er der en person,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 314.0,
       "text": " der har installeret Shopify Flow appen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 314.0,
       "end": 315.0,
       "text": " det er jo bare en native app,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 315.0,
       "end": 317.0,
       "text": " men installeret i Shopify gratis,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 317.0,
       "end": 318.0,
       "text": " og så har man adgang til det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 318.0,
       "end": 319.0,
       "text": " og du har sådan et lille visuelt eksempel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 319.0,
       "end": 320.0,
       "text": " til dem der ser med på YouTube,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 320.0,
       "end": 322.0,
       "text": " eller video på Spotify her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 322.0,
       "end": 324.0,
       "text": " Hvad er det vi kigger på her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 324.0,
       "end": 326.0,
       "text": " med hændelsesvis action condition,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 326.0,
       "end": 328.0,
       "text": " og alt trigger condition og action?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 328.0,
       "end": 330.0,
       "text": " Den vi ser her på selve triggeren,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 330.0,
       "end": 332.0,
       "text": " det er at der bliver oprettet en ordre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 332.0,
       "end": 334.0,
       "text": " og så til mange af de merchants,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 334.0,
       "end": 335.0,
       "text": " der sidder derude og ikke er mandelige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 335.0,
       "end": 336.0,
       "text": " at de vil vide,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 336.0,
       "end": 337.0,
       "text": " at når man tjekker på fraud,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 337.0,
       "end": 338.0,
       "text": " så kan der være nogle ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 338.0,
       "end": 339.0,
       "text": " der ligesom går igen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 339.0,
       "end": 341.0,
       "text": " og man kan have nogen på sin sorte liste,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 341.0,
       "end": 342.0,
       "text": " så man tænker,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 342.0,
       "end": 343.0,
       "text": " de her kunder dem vil jeg faktisk gerne,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 343.0,
       "end": 345.0,
       "text": " have eksploderet og sørge for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 345.0,
       "end": 346.0,
       "text": " at hvis der kommer en ordre deroppefra,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 346.0,
       "end": 347.0,
       "text": " så anvender vi dem med det samme.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 347.0,
       "end": 349.0,
       "text": " Og det er egentlig det vi gør i conditionen her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 349.0,
       "end": 350.0,
       "text": " så der sætter vi,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 350.0,
       "end": 351.0,
       "text": " vi tjekker på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 351.0,
       "end": 352.0,
       "text": " at hvis emailer der er sådan på en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 352.0,
       "end": 353.0,
       "text": " af de her nye ordre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 353.0,
       "end": 354.0,
       "text": " der er created,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 354.0,
       "end": 355.0,
       "text": " antigen med den her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 355.0,
       "end": 356.0,
       "text": " eller den her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 357.0,
       "end": 358.0,
       "text": " og der vil jeg sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 358.0,
       "end": 359.0,
       "text": " at dem der gør det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 359.0,
       "end": 360.0,
       "text": " der har de altså også gjort det nemt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 360.0,
       "end": 362.0,
       "text": " Ja, det er klart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 362.0,
       "end": 363.0,
       "text": " Jeg mener faktisk,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 363.0,
       "end": 365.0,
       "text": " at screenshottet er et eksempel,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 365.0,
       "end": 367.0,
       "text": " fra en af de templates,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 367.0,
       "end": 368.0,
       "text": " og det kan vi komme til lidt senere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 368.0,
       "end": 369.0,
       "text": " men der ligger jo faktisk,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 369.0,
       "end": 370.0,
       "text": " en lille library,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 370.0,
       "end": 371.0,
       "text": " man kan hukke ind i,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 371.0,
       "end": 372.0,
       "text": " og på Shopify,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 372.0,
       "end": 373.0,
       "text": " så er de også gjort det endnu nemmere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 373.0,
       "end": 374.0,
       "text": " for at man bare kan komme i gang med flows.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 374.0,
       "end": 375.0,
       "text": " Men nej,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 375.0,
       "end": 376.0,
       "text": " ellers det vi gør her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 376.0,
       "end": 377.0,
       "text": " det er, at vi adder et autotag,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 377.0,
       "end": 378.0,
       "text": " og grunden til,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 378.0,
       "end": 379.0,
       "text": " at vi adder autotagget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 379.0,
       "end": 380.0,
       "text": " det er jo,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 380.0,
       "end": 381.0,
       "text": " at man ofte kan have nogle tredepart systemer,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 381.0,
       "end": 382.0,
       "text": " som også arbejder med ordrene,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 387.0,
       "end": 388.0,
       "text": " og sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 388.0,
       "end": 389.0,
       "text": " hvor mange har vi egentlig,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 389.0,
       "end": 390.0,
       "text": " annulleret automatisk,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 390.0,
       "end": 391.0,
       "text": " så kan det være en rigtig god idé,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 391.0,
       "end": 392.0,
       "text": " at køre de autotags,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 392.0,
       "end": 393.0,
       "text": " og så er det meget nemmere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 393.0,
       "end": 394.0,
       "text": " at trække den slags data ud.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 394.0,
       "end": 395.0,
       "text": " Og så canceler vi ordrene her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 395.0,
       "end": 396.0,
       "text": " og vi sender også lige en intern mail,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 396.0,
       "end": 397.0,
       "text": " til vores,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 397.0,
       "end": 398.0,
       "text": " hvad er det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 398.0,
       "end": 399.0,
       "text": " en telefoninspektion,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 399.0,
       "end": 400.0,
       "text": " eller et kundeservice,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 400.0,
       "end": 401.0,
       "text": " ja,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 401.0,
       "end": 402.0,
       "text": " eller en e-mail eksempel,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 402.0,
       "end": 403.0,
       "text": " og så med en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 403.0,
       "end": 404.0,
       "text": " igen også for at vise,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 404.0,
       "end": 405.0,
       "text": " at i så opvækket,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 405.0,
       "end": 406.0,
       "text": " kan vi godt hive nogle dynamiske elementer,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 406.0,
       "end": 407.0,
       "text": " altså nogle variabler fra ordrene,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 407.0,
       "end": 408.0,
       "text": " kan vi godt sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 408.0,
       "end": 409.0,
       "text": " jamen det var det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 409.0,
       "end": 410.0,
       "text": " den her vare,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 411.0,
       "end": 412.0,
       "text": " der var købt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 412.0,
       "end": 413.0,
       "text": " vi har lige sparet os,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 413.0,
       "end": 414.0,
       "text": " også så mange penge,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 414.0,
       "end": 415.0,
       "text": " fordi det var en af de her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 415.0,
       "end": 416.0,
       "text": " som vi ved,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 416.0,
       "end": 417.0,
       "text": " bliver til en kønsvæk tidspunkt.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 417.0,
       "end": 418.0,
       "text": " Ja,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 418.0,
       "end": 419.0,
       "text": " og jeg synes jo det er fedt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 420.0,
       "text": " at den her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 421.0,
       "text": " den her kunne jeg jo godt have fundet på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 422.0,
       "text": " at lave i Shopify,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 423.0,
       "text": " eller ved det i Zapier,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 423.0,
       "end": 424.0,
       "text": " eller Make,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 424.0,
       "end": 425.0,
       "text": " hvis ikke jeg vidste bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 426.0,
       "text": " fordi alle de ting her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 427.0,
       "text": " nogen der ligger i Make,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 428.0,
       "text": " men noget af det fede ved Shopify Flow,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 428.0,
       "end": 429.0,
       "text": " udover at man så selvfølgelig sparer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 430.0,
       "text": " de actions og triggers,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 431.0,
       "text": " i et andet værktøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 432.0,
       "text": " det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 432.0,
       "end": 433.0,
       "text": " at Shopify har adgang til flere triggers,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 434.0,
       "text": " actions, conditions,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 434.0,
       "end": 435.0,
       "text": " som Make og Zapier kan trække,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 436.0,
       "text": " så hvis der er nogen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 437.0,
       "text": " der nu sidder og tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 437.0,
       "end": 438.0,
       "text": " det kunne jeg da godt have lavet før,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 439.0,
       "text": " i nogen tilfælde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 440.0,
       "text": " men det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 440.0,
       "end": 441.0,
       "text": " det kan mere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 442.0,
       "text": " og koster et værktøj mindre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 443.0,
       "text": " og så er der også bare færre ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 443.0,
       "end": 444.0,
       "text": " der kan gå i stykker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 444.0,
       "end": 445.0,
       "text": " det er jo det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 446.0,
       "text": " der er fantastisk ved det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 446.0,
       "end": 447.0,
       "text": " Ja præcis,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 447.0,
       "end": 448.0,
       "text": " fordi hvis vi lige tager sådan en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 448.0,
       "end": 449.0,
       "text": " en good to know ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 449.0,
       "end": 450.0,
       "text": " kan man sige omkring hele Flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 450.0,
       "end": 451.0,
       "text": " så er det at,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 451.0,
       "end": 452.0,
       "text": " jamen det er sådan en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 452.0,
       "end": 453.0,
       "text": " den er tilgængelig for alle plans,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 453.0,
       "end": 454.0,
       "text": " tidligere har der været nogle,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 454.0,
       "end": 455.0,
       "text": " lidt forskelle på at sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 455.0,
       "end": 457.0,
       "text": " hvilken niveau af Shopify er du på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 457.0,
       "end": 458.0,
       "text": " og hvornår har du så Flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 458.0,
       "end": 459.0,
       "text": " nu er den tilgængelig for alle,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " der er stadig lidt restrictions på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 461.0,
       "end": 462.0,
       "text": " at hvis du er,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 462.0,
       "end": 464.0,
       "text": " Shopify Advanced og Plus,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 464.0,
       "end": 465.0,
       "text": " så må du lave dine nye,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 465.0,
       "end": 466.0,
       "text": " eller nye og nye,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 466.0,
       "end": 467.0,
       "text": " http requests,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 467.0,
       "end": 468.0,
       "text": " der er nogle custom apps,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 468.0,
       "end": 469.0,
       "text": " som du kun kan lave for Plus,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 469.0,
       "end": 470.0,
       "text": " og så er der lidt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 470.0,
       "end": 471.0,
       "text": " usage limit,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 471.0,
       "end": 472.0,
       "text": " men der vil jeg sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 472.0,
       "end": 473.0,
       "text": " nu arbejder jeg med,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 473.0,
       "end": 474.0,
       "text": " ret mange merchants,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 474.0,
       "end": 475.0,
       "text": " der har brugt det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 475.0,
       "end": 476.0,
       "text": " det er meget, meget, meget sjældent,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 476.0,
       "end": 477.0,
       "text": " vi arbejder i usage limit,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 477.0,
       "end": 478.0,
       "text": " og igen så er det typisk,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 478.0,
       "end": 479.0,
       "text": " fordi du har lavet en eller anden fejl,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 479.0,
       "end": 480.0,
       "text": " hvor du laver nogle loops,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 481.0,
       "end": 482.0,
       "text": " og sørger for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 482.0,
       "end": 483.0,
       "text": " at du egentlig kommer til,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 483.0,
       "end": 484.0,
       "text": " at kigge på for mange ordrene,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 484.0,
       "end": 485.0,
       "text": " og kommer til at lave nogle builds,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 485.0,
       "end": 486.0,
       "text": " for dig selv,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 486.0,
       "end": 487.0,
       "text": " og så kan du typisk,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 487.0,
       "end": 488.0,
       "text": " kopiere dine flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 488.0,
       "end": 489.0,
       "text": " og så kan du bedre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 489.0,
       "end": 490.0,
       "text": " måde at kunne sige det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 490.0,
       "end": 491.0,
       "text": " så er der så sådan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 491.0,
       "end": 492.0,
       "text": " en app, man installerer,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 492.0,
       "end": 493.0,
       "text": " ligger native i App Store'en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 493.0,
       "end": 494.0,
       "text": " du installerer den,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 494.0,
       "end": 495.0,
       "text": " og så ligger den bare gennem,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 495.0,
       "end": 496.0,
       "text": " dit helt almindelige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 496.0,
       "end": 497.0,
       "text": " Shopify admin UI,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 497.0,
       "end": 498.0,
       "text": " hvor du har de ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 498.0,
       "end": 500.0,
       "text": " Nu bliver jeg lidt nysgerrig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 500.0,
       "end": 502.0,
       "text": " fordi vi kommer ind på nogle,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 502.0,
       "end": 503.0,
       "text": " mere konkret eksempler,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 503.0,
       "end": 504.0,
       "text": " senere her i afsnittet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 504.0,
       "end": 505.0,
       "text": " men du nævner selv,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 505.0,
       "end": 506.0,
       "text": " for eksempel det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 506.0,
       "end": 507.0,
       "text": " med inventory,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 507.0,
       "end": 508.0,
       "text": " altså hvordan ser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 508.0,
       "end": 509.0,
       "text": " stokniveauet egentlig ud,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 509.0,
       "end": 510.0,
       "text": " relativ lavpraktisk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 510.0,
       "end": 511.0,
       "text": " men som mange glemmer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 511.0,
       "end": 512.0,
       "text": " at holde øje med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 512.0,
       "end": 513.0,
       "text": " og tidligere ved jeg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 513.0,
       "end": 514.0,
       "text": " at rigtig mange,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 514.0,
       "end": 515.0,
       "text": " har downloadet apps,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 515.0,
       "end": 516.0,
       "text": " der til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 516.0,
       "end": 517.0,
       "text": " altså til ligesom,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 517.0,
       "end": 518.0,
       "text": " at kunne tage sig af det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 518.0,
       "end": 519.0,
       "text": " og her er mit spørgsmål,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 519.0,
       "end": 520.0,
       "text": " er det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 520.0,
       "end": 521.0,
       "text": " i app miljøet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 521.0,
       "end": 522.0,
       "text": " inden for Shopify,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 522.0,
       "end": 523.0,
       "text": " er det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 523.0,
       "end": 524.0,
       "text": " sådan lidt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 524.0,
       "end": 525.0,
       "text": " en mavepuster,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 525.0,
       "end": 526.0,
       "text": " man har fået fra Shopify,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 526.0,
       "end": 527.0,
       "text": " jeg ved godt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 527.0,
       "end": 528.0,
       "text": " ikke alle apps,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 528.0,
       "end": 529.0,
       "text": " ville kunne laves,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 529.0,
       "end": 530.0,
       "text": " i Shopify Flow,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 530.0,
       "end": 531.0,
       "text": " men jeg kan bare sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 531.0,
       "end": 532.0,
       "text": " rigtig mange anvendelsesmuligheder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 532.0,
       "end": 533.0,
       "text": " når først man tænker over det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 533.0,
       "end": 534.0,
       "text": " altså er de faktisk gået ind,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 534.0,
       "end": 535.0,
       "text": " og nabbet en del af det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 535.0,
       "end": 536.0,
       "text": " arbejde for app miljøet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 536.0,
       "end": 537.0,
       "text": " eller hvordan bliver det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 537.0,
       "end": 538.0,
       "text": " egentlig anset i dag?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 538.0,
       "end": 539.0,
       "text": " Både overfor,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 539.0,
       "end": 540.0,
       "text": " at du kan også godt bruge,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 540.0,
       "end": 541.0,
       "text": " altså som native app,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 541.0,
       "end": 542.0,
       "text": " og app builder til Shopify,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 542.0,
       "end": 543.0,
       "text": " kan du også godt lukrere på det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 543.0,
       "end": 544.0,
       "text": " fordi det er ret nemt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 544.0,
       "end": 545.0,
       "text": " igen også at kunne bygge,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 545.0,
       "end": 546.0,
       "text": " og integrere til,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 546.0,
       "end": 547.0,
       "text": " og sådan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 547.0,
       "end": 548.0,
       "text": " så din app ligesom,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 548.0,
       "end": 549.0,
       "text": " bliver det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 549.0,
       "end": 550.0,
       "text": " der bliver skubbet data over i,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 550.0,
       "end": 551.0,
       "text": " eller man ligesom,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 551.0,
       "end": 552.0,
       "text": " kan trigger data fra,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 552.0,
       "end": 553.0,
       "text": " så på den måde,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 553.0,
       "end": 554.0,
       "text": " kan du egentlig også godt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 554.0,
       "end": 555.0,
       "text": " native integrere til det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 555.0,
       "end": 556.0,
       "text": " men man kan også,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 556.0,
       "end": 557.0,
       "text": " godt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 557.0,
       "end": 558.0,
       "text": " skubbe data over i,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 559.0,
       "end": 560.0,
       "text": " så på den måde,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 560.0,
       "end": 561.0,
       "text": " kan du egentlig også godt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 561.0,
       "end": 562.0,
       "text": " native integrere til det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 562.0,
       "end": 563.0,
       "text": " men ja,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 563.0,
       "end": 564.0,
       "text": " det er da lidt ligesom,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 564.0,
       "end": 565.0,
       "text": " en iOS,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 565.0,
       "end": 566.0,
       "text": " der er der også nogle flere apps,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 566.0,
       "end": 567.0,
       "text": " der er kommet på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 567.0,
       "end": 568.0,
       "text": " og flere iOS ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 568.0,
       "end": 569.0,
       "text": " der er blevet indbygget i iOS,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 569.0,
       "end": 570.0,
       "text": " hvad hedder det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 570.0,
       "end": 571.0,
       "text": " softwaren,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 571.0,
       "end": 572.0,
       "text": " som var standalone apps,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 572.0,
       "end": 573.0,
       "text": " dengang vi alle sammen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 573.0,
       "end": 574.0,
       "text": " jailbreakede vores iPhone,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 574.0,
       "end": 575.0,
       "text": " og hentede dem hjem på USA,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 575.0,
       "end": 576.0,
       "text": " så altså sådan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 576.0,
       "end": 577.0,
       "text": " ja det har da ændret sig lidt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 577.0,
       "end": 578.0,
       "text": " og det er lidt det samme,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 578.0,
       "end": 579.0,
       "text": " vi ser der sker her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 579.0,
       "end": 580.0,
       "text": " men man kan sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 580.0,
       "end": 581.0,
       "text": " spilplanen bliver også bare,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 581.0,
       "end": 582.0,
       "text": " så meget større,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 582.0,
       "end": 583.0,
       "text": " så jeg vil ikke mere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 583.0,
       "end": 584.0,
       "text": " som app udvikler,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 584.0,
       "end": 585.0,
       "text": " fordi det er klart,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 585.0,
       "end": 586.0,
       "text": " at når man nu begynder,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 586.0,
       "end": 587.0,
       "text": " med sådan noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 587.0,
       "end": 588.0,
       "text": " self service return platform,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 588.0,
       "end": 589.0,
       "text": " og sådan nogle ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 589.0,
       "end": 590.0,
       "text": " som de begynder at indbygge,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 590.0,
       "end": 591.0,
       "text": " så starter de ud med,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 591.0,
       "end": 592.0,
       "text": " overhovedet ikke,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 592.0,
       "end": 593.0,
       "text": " at have nogle flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 593.0,
       "end": 594.0,
       "text": " eller ikke nogle særlig gode flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 594.0,
       "end": 595.0,
       "text": " sådan så at man skal præcisere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 595.0,
       "end": 596.0,
       "text": " at have en manuel request,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 596.0,
       "end": 597.0,
       "text": " og access og sådan nogle ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 597.0,
       "end": 598.0,
       "text": " på det hver gang,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 598.0,
       "end": 599.0,
       "text": " det begynder alligevel,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 599.0,
       "end": 600.0,
       "text": " at komme flow for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 600.0,
       "end": 601.0,
       "text": " og det betyder,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 601.0,
       "end": 602.0,
       "text": " at den self service return,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 602.0,
       "end": 603.0,
       "text": " er bedre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 603.0,
       "end": 604.0,
       "text": " overhovedet ikke god nok,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 604.0,
       "end": 605.0,
       "text": " på det vi ellers har,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 605.0,
       "end": 606.0,
       "text": " og den er ikke sådan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 606.0,
       "end": 607.0,
       "text": " rapid new retention fokuseret,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 607.0,
       "end": 608.0,
       "text": " den er bare return fokuseret,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 609.0,
       "end": 610.0,
       "text": " men det begynder igen så småt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 610.0,
       "end": 611.0,
       "text": " at hensyn til at bygge lidt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 611.0,
       "end": 612.0,
       "text": " og lidt og lidt på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 612.0,
       "end": 613.0,
       "text": " som gør,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 613.0,
       "end": 614.0,
       "text": " at nogle af de funktioner,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 614.0,
       "end": 615.0,
       "text": " der ligger i selve Shopify,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 615.0,
       "end": 616.0,
       "text": " det er bedre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 616.0,
       "end": 617.0,
       "text": " når man aktiverer sine flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 617.0,
       "end": 618.0,
       "text": " omkring det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 618.0,
       "end": 619.0,
       "text": " så på den måde,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 619.0,
       "end": 620.0,
       "text": " så taber det ind i det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 620.0,
       "end": 621.0,
       "text": " men det er ikke,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 621.0,
       "end": 622.0,
       "text": " fordi jeg vil sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 622.0,
       "end": 623.0,
       "text": " at det er den største konkurrence,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 623.0,
       "end": 624.0,
       "text": " om app udvikling,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 624.0,
       "end": 625.0,
       "text": " der er nogle andre ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 626.0,
       "text": " man skal gøre så.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 627.0,
       "text": " Nu har vi styr på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 627.0,
       "end": 628.0,
       "text": " Shopify flows eksisterer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 628.0,
       "end": 629.0,
       "text": " det er en app,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 629.0,
       "end": 630.0,
       "text": " man installerer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 631.0,
       "text": " den er gratis,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 632.0,
       "text": " vi har triggers,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 632.0,
       "end": 633.0,
       "text": " conditions, actions,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 633.0,
       "end": 634.0,
       "text": " kan du ikke tage os igennem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 635.0,
       "text": " hvilke mest hyppige flows,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 636.0,
       "text": " du og Black Lemon opsætter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 637.0,
       "text": " for Shopify shops?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 637.0,
       "end": 638.0,
       "text": " Jo, man kan sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 638.0,
       "end": 639.0,
       "text": " forud for egentlig,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 639.0,
       "end": 640.0,
       "text": " at finde ud af,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 640.0,
       "end": 641.0,
       "text": " hvornår skal jeg automatisere det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 641.0,
       "end": 642.0,
       "text": " hvornår skal jeg bare,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 642.0,
       "end": 643.0,
       "text": " byde det sure,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 643.0,
       "end": 644.0,
       "text": " og ikke lade gøre det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 644.0,
       "end": 645.0,
       "text": " så plejer jeg at sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 645.0,
       "end": 646.0,
       "text": " lad os prøve,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 646.0,
       "end": 647.0,
       "text": " for et eller andet koncept,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 647.0,
       "end": 648.0,
       "text": " at køre omkring det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 648.0,
       "end": 649.0,
       "text": " og der er jeg faktisk glad for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 649.0,
       "end": 650.0,
       "text": " at jeg blev inviteret med ind,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 650.0,
       "end": 651.0,
       "text": " i jeres lille togsamhed her i dag,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 651.0,
       "end": 652.0,
       "text": " fordi jeg har fundet på en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 652.0,
       "end": 653.0,
       "text": " meget lille princip,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 653.0,
       "end": 654.0,
       "text": " med bare sådan lidt jammet sammen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 654.0,
       "end": 655.0,
       "text": " med tjekken på 10,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 656.0,
       "end": 657.0,
       "text": " men vi har arbejdet lidt ud fra,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 657.0,
       "end": 658.0,
       "text": " det vi kalder ratteprincippet,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 658.0,
       "end": 659.0,
       "text": " og ratteprincippet er sådan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 659.0,
       "end": 660.0,
       "text": " et framework,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 660.0,
       "end": 661.0,
       "text": " du kan lægge ned over din opgave,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 661.0,
       "end": 662.0,
       "text": " for at sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 662.0,
       "end": 663.0,
       "text": " okay, det her er bare noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 663.0,
       "end": 664.0,
       "text": " jeg skal gøre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 664.0,
       "end": 665.0,
       "text": " og det samme,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 665.0,
       "end": 666.0,
       "text": " eller det er noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 666.0,
       "end": 667.0,
       "text": " jeg skal sidde og bruge to sekunder på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 667.0,
       "end": 668.0,
       "text": " at sætte på formel,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 668.0,
       "end": 669.0,
       "text": " og du skal ligesom sætte det på formel,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 669.0,
       "end": 670.0,
       "text": " hvis det er rettet,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 670.0,
       "end": 671.0,
       "text": " erret står for repetitivt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 671.0,
       "end": 672.0,
       "text": " så er det opgaver,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 672.0,
       "end": 673.0,
       "text": " du gentager igen og igen og igen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 673.0,
       "end": 674.0,
       "text": " med minimal eller ingen variation,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 674.0,
       "end": 675.0,
       "text": " så hvis det ligesom er noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 675.0,
       "end": 676.0,
       "text": " der bare kører igen og igen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 676.0,
       "end": 677.0,
       "text": " op på samme foregårde,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 677.0,
       "end": 678.0,
       "text": " samme formel,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 678.0,
       "end": 679.0,
       "text": " så er det noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 679.0,
       "end": 680.0,
       "text": " der dufter langt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 680.0,
       "end": 681.0,
       "text": " det kan være automatisering.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 681.0,
       "end": 682.0,
       "text": " Hvis det er,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 682.0,
       "end": 683.0,
       "text": " erret står for actionable,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 683.0,
       "end": 684.0,
       "text": " så hvis det er sådan en clear action,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 684.0,
       "end": 685.0,
       "text": " det her skal du gøre hver gang,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 685.0,
       "end": 686.0,
       "text": " at det ikke er sådan noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 686.0,
       "end": 687.0,
       "text": " ah, men hvis den lige falder ud til højre",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 687.0,
       "end": 688.0,
       "text": " eller venstre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 688.0,
       "end": 689.0,
       "text": " og det er en moderingssag,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 689.0,
       "end": 690.0,
       "text": " så skal du selvfølgelig passe på med det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 690.0,
       "end": 691.0,
       "text": " i hvert fald,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 691.0,
       "end": 692.0,
       "text": " men hvis det er sådan en clear,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 692.0,
       "end": 693.0,
       "text": " tydelig action i det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 693.0,
       "end": 694.0,
       "text": " du laver,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 694.0,
       "end": 695.0,
       "text": " som altid kan falde ud til højre",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 695.0,
       "end": 696.0,
       "text": " eller til venstre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 696.0,
       "end": 697.0,
       "text": " så gælder det gode inden for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 697.0,
       "end": 698.0,
       "text": " at du gør det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 698.0,
       "end": 699.0,
       "text": " og det gælder gode inden for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 700.0,
       "end": 701.0,
       "text": " der er sådan en clear,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 701.0,
       "end": 702.0,
       "text": " tydelig action i det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 702.0,
       "end": 703.0,
       "text": " du laver,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 703.0,
       "end": 705.0,
       "text": " som altid kan falde ud til højre",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 705.0,
       "end": 706.0,
       "text": " eller til venstre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 706.0,
       "end": 707.0,
       "text": " så gælder det gode inden for.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 707.0,
       "end": 709.0,
       "text": " Tidet står for time consuming,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 709.0,
       "end": 710.0,
       "text": " opgaver,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 710.0,
       "end": 711.0,
       "text": " der selv,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 711.0,
       "end": 712.0,
       "text": " i helt simpel form,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 712.0,
       "end": 713.0,
       "text": " bare tager tid",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 713.0,
       "end": 714.0,
       "text": " og løser manuelt.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 714.0,
       "end": 715.0,
       "text": " Og så er den sidste,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 715.0,
       "end": 716.0,
       "text": " det er ligesom error prone,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 716.0,
       "end": 717.0,
       "text": " så hvis der igen er stor,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 717.0,
       "end": 718.0,
       "text": " enten opgaver,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 718.0,
       "end": 719.0,
       "text": " der har tendens til,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 719.0,
       "end": 720.0,
       "text": " eller har store konsekvenser,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 720.0,
       "end": 721.0,
       "text": " ved,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 721.0,
       "end": 722.0,
       "text": " at du laver manuel input,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 722.0,
       "end": 723.0,
       "text": " eller laver manuel arbejde i det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 723.0,
       "end": 724.0,
       "text": " så kan det også være en rigtig,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 724.0,
       "end": 725.0,
       "text": " rigtig god idé,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 725.0,
       "end": 726.0,
       "text": " at sætte det på formel,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 726.0,
       "end": 727.0,
       "text": " selvom det igen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 727.0,
       "end": 728.0,
       "text": " kan være lidt mere kompleks.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 728.0,
       "end": 729.0,
       "text": " Og jeg vil næsten sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 729.0,
       "end": 730.0,
       "text": " hvis bare en af de her fire,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 730.0,
       "end": 731.0,
       "text": " er rater højt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 731.0,
       "end": 732.0,
       "text": " i den egen vurdering,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 732.0,
       "end": 733.0,
       "text": " af den opgave,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 733.0,
       "end": 734.0,
       "text": " du vil have løst,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 734.0,
       "end": 735.0,
       "text": " så synes jeg,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 735.0,
       "end": 736.0,
       "text": " man skal,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 736.0,
       "end": 737.0,
       "text": " så er det i hvert fald,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 737.0,
       "end": 738.0,
       "text": " en af de her opgaver,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 738.0,
       "end": 739.0,
       "text": " som er autoriserede.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 739.0,
       "end": 740.0,
       "text": " Ej,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 740.0,
       "end": 741.0,
       "text": " du taler lige til mit,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 741.0,
       "end": 742.0,
       "text": " processifying hjerte,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 742.0,
       "end": 743.0,
       "text": " processhjerte.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 743.0,
       "end": 744.0,
       "text": " Jeg tror ikke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 744.0,
       "end": 745.0,
       "text": " Halvstan er helt med på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 745.0,
       "end": 746.0,
       "text": " hvad du mener,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 746.0,
       "end": 747.0,
       "text": " men jeg elsker det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 747.0,
       "end": 748.0,
       "text": " Jeg kommer ikke til at sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 748.0,
       "end": 749.0,
       "text": " særlig meget her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 749.0,
       "end": 750.0,
       "text": " jeg,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 750.0,
       "end": 751.0,
       "text": " altså,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 751.0,
       "end": 752.0,
       "text": " alt det her var manuelt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 752.0,
       "end": 753.0,
       "text": " for mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 753.0,
       "end": 754.0,
       "text": " Jeg,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 754.0,
       "end": 755.0,
       "text": " jeg har sådan et princip,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 756.0,
       "text": " der hedder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 756.0,
       "end": 757.0,
       "text": " hvis jeg kan gøre noget manuelt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 757.0,
       "end": 758.0,
       "text": " så gør jeg det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 758.0,
       "end": 759.0,
       "text": " indtil til nu,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 759.0,
       "end": 760.0,
       "text": " hvor man afsmatterer det.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 760.0,
       "end": 761.0,
       "text": " Jeg vil også sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 761.0,
       "end": 762.0,
       "text": " der er jo den der dejlige regler,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 762.0,
       "end": 763.0,
       "text": " vi kender,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 763.0,
       "end": 764.0,
       "text": " hvis en opgave tager under fem minutter,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 764.0,
       "end": 765.0,
       "text": " så får den fixet,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 765.0,
       "end": 766.0,
       "text": " så får den klaret,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 766.0,
       "end": 767.0,
       "text": " altså sådan ligesom,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 767.0,
       "end": 768.0,
       "text": " men jeg kan også se,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 768.0,
       "end": 769.0,
       "text": " at det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 769.0,
       "end": 770.0,
       "text": " det rimer på meget det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 770.0,
       "end": 771.0,
       "text": " når vi sidder og løber vores merchants igennem,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 771.0,
       "end": 772.0,
       "text": " der er mange,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 772.0,
       "end": 773.0,
       "text": " der ikke når til deres growth,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 773.0,
       "end": 774.0,
       "text": " fordi de bare har 17 snore på fingeren,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 774.0,
       "end": 775.0,
       "text": " fordi deres operations,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 775.0,
       "end": 776.0,
       "text": " ligesom,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 776.0,
       "end": 777.0,
       "text": " er afhængig af,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 778.0,
       "end": 779.0,
       "text": " de har vel omkring sådan noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 779.0,
       "end": 780.0,
       "text": " 250 aktive flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 780.0,
       "end": 781.0,
       "text": " og det vil jeg absolut ikke anbefale,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 781.0,
       "end": 782.0,
       "text": " bare at kaste sig ud i,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 782.0,
       "end": 783.0,
       "text": " med det samme,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 783.0,
       "end": 784.0,
       "text": " men det betyder altså bare,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 784.0,
       "end": 785.0,
       "text": " hele deres operations,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 785.0,
       "end": 786.0,
       "text": " er på autopilot,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 786.0,
       "end": 787.0,
       "text": " og det er ret fedt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 787.0,
       "end": 788.0,
       "text": " at hverken der er noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 788.0,
       "end": 789.0,
       "text": " der ikke er,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 789.0,
       "end": 790.0,
       "text": " som det skal være,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 790.0,
       "end": 791.0,
       "text": " så får du en alarm på det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 791.0,
       "end": 792.0,
       "text": " i stedet for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 792.0,
       "end": 793.0,
       "text": " at du skal sidde og finde ud af,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 793.0,
       "end": 794.0,
       "text": " og skal løse det hele tiden,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 794.0,
       "end": 795.0,
       "text": " så du har ligesom,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 795.0,
       "end": 796.0,
       "text": " vendt den rundt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 796.0,
       "end": 797.0,
       "text": " fra at sidde og gennemgå en masse ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 797.0,
       "end": 798.0,
       "text": " til bare at sætte den på autopilot,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 798.0,
       "end": 799.0,
       "text": " og så får alarmerne,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 799.0,
       "end": 800.0,
       "text": " når der er noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 800.0,
       "end": 801.0,
       "text": " der ikke kører sådan en skæring,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 802.0,
       "end": 803.0,
       "text": " og ja,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 803.0,
       "end": 804.0,
       "text": " så kommer vi til spørgsmålet,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 804.0,
       "end": 805.0,
       "text": " hvor skal man bruge det hen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 805.0,
       "end": 806.0,
       "text": " hvad er nogle gode eksempler på det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 806.0,
       "end": 807.0,
       "text": " jeg vil klart,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 807.0,
       "end": 808.0,
       "text": " hvis man kaster sig ud i det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 808.0,
       "end": 809.0,
       "text": " og man ikke har prøvet det før,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 809.0,
       "end": 810.0,
       "text": " så vil jeg virkelig,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 810.0,
       "end": 811.0,
       "text": " gå stille og roligt til det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 811.0,
       "end": 812.0,
       "text": " jeg vil ikke gå i gang,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 812.0,
       "end": 813.0,
       "text": " med bare at kaste mig ud i,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 813.0,
       "end": 814.0,
       "text": " de her 250 flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 814.0,
       "end": 815.0,
       "text": " for det er også en øvelse,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 815.0,
       "end": 816.0,
       "text": " man skal lære,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 816.0,
       "end": 817.0,
       "text": " og man kan også godt komme til,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 817.0,
       "end": 818.0,
       "text": " at bygge for komplekser flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 818.0,
       "end": 819.0,
       "text": " altså hvis man ikke hilder styr på det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 819.0,
       "end": 820.0,
       "text": " man kaster sig ud i,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 820.0,
       "end": 821.0,
       "text": " så kan man hurtigt få det overgjort,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 821.0,
       "end": 822.0,
       "text": " og så lige pludselig,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 822.0,
       "end": 823.0,
       "text": " har man 17 flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 823.0,
       "end": 824.0,
       "text": " og man skal lige huske at dokumentere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 824.0,
       "end": 825.0,
       "text": " og hvad den er,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 825.0,
       "end": 826.0,
       "text": " altså der er ikke sådan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 826.0,
       "end": 827.0,
       "text": " og det er faktisk en af de ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 827.0,
       "end": 828.0,
       "text": " der måske mangler lidt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 828.0,
       "end": 829.0,
       "text": " i Shopify flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 829.0,
       "end": 830.0,
       "text": " der er ikke sådan et godt system til,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 830.0,
       "end": 831.0,
       "text": " hvilke flows gør hvad,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 831.0,
       "end": 832.0,
       "text": " lidt overskueligt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 832.0,
       "end": 833.0,
       "text": " så det er op til dig selv,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 833.0,
       "end": 834.0,
       "text": " hvordan du husker,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 834.0,
       "end": 835.0,
       "text": " at navngive dine flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 835.0,
       "end": 836.0,
       "text": " så det her med at sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 836.0,
       "end": 837.0,
       "text": " flow 1 og flow 1 test,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 837.0,
       "end": 838.0,
       "text": " og flow 1 v2,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 838.0,
       "end": 839.0,
       "text": " og flow 1 v3,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 839.0,
       "end": 840.0,
       "text": " så er du doomed,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 840.0,
       "end": 841.0,
       "text": " altså sådan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 841.0,
       "end": 842.0,
       "text": " før du overhovedet er i gang.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 842.0,
       "end": 843.0,
       "text": " Så den dokumentation,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 843.0,
       "end": 844.0,
       "text": " skal man egentlig selv sørge for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 844.0,
       "end": 845.0,
       "text": " at der er lidt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 845.0,
       "end": 846.0,
       "text": " fordi det kan du huske,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 846.0,
       "end": 847.0,
       "text": " at der kommer lidt tagging,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 848.0,
       "end": 849.0,
       "text": " fordi det kan også blive for meget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 849.0,
       "end": 850.0,
       "text": " og så lige pludselig,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 850.0,
       "end": 851.0,
       "text": " sker der en eller anden,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 851.0,
       "end": 852.0,
       "text": " du ikke er herover,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 852.0,
       "end": 853.0,
       "text": " fordi du har bygget to flows,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 853.0,
       "end": 854.0,
       "text": " der er konstere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 854.0,
       "end": 855.0,
       "text": " støder en af dem,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 855.0,
       "end": 856.0,
       "text": " og så ender du med et eller andet,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 856.0,
       "end": 857.0,
       "text": " der overhovedet ikke fungerer,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 857.0,
       "end": 858.0,
       "text": " og så er du skudt dig selv i fod,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 858.0,
       "end": 859.0,
       "text": " i stedet for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 859.0,
       "end": 860.0,
       "text": " hvor du prøver at gøre det smartere.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 860.0,
       "end": 861.0,
       "text": " Men nej,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 861.0,
       "end": 862.0,
       "text": " altså sådan et område,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 862.0,
       "end": 863.0,
       "text": " hvor man kan bruge det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 863.0,
       "end": 864.0,
       "text": " jamen order management,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 864.0,
       "end": 865.0,
       "text": " ligger ofte til højre spørgten.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 865.0,
       "end": 866.0,
       "text": " Når der er noget,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 866.0,
       "end": 867.0,
       "text": " der skal komme ind,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 867.0,
       "end": 868.0,
       "text": " jamen det er det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 868.0,
       "end": 869.0,
       "text": " der er vigtigt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 869.0,
       "end": 870.0,
       "text": " og det er det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 870.0,
       "end": 871.0,
       "text": " der er vigtigt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 877.0,
       "end": 878.0,
       "text": " så er der nogle ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 878.0,
       "end": 879.0,
       "text": " vi gerne vil gøre automatisk,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 879.0,
       "end": 880.0,
       "text": " det kunne lige så vel være,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 880.0,
       "end": 881.0,
       "text": " også håndtere noget dropshipping,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 881.0,
       "end": 882.0,
       "text": " og alle mulige ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 882.0,
       "end": 883.0,
       "text": " som sådan set også kan garanteres,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 883.0,
       "end": 884.0,
       "text": " i sådan et setup her.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 884.0,
       "end": 885.0,
       "text": " Og ja,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 885.0,
       "end": 888.0,
       "text": " nu hører du mit fine slide herfra,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 888.0,
       "end": 889.0,
       "text": " her igen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 889.0,
       "end": 890.0,
       "text": " altså sådan en ting er,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 890.0,
       "end": 891.0,
       "text": " at man ligesom kan gøre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 891.0,
       "end": 894.0,
       "text": " de her alarmer på unfulfilled orders,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 894.0,
       "end": 895.0,
       "text": " man kan holde en fulfillment,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 895.0,
       "end": 896.0,
       "text": " hvis der er en kunde,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 896.0,
       "end": 897.0,
       "text": " der placerer flere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 897.0,
       "end": 898.0,
       "text": " så man kan nå at pakke dem sammen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 898.0,
       "end": 899.0,
       "text": " og spare shippingen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 899.0,
       "end": 900.0,
       "text": " man kan tilføje shipping,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 900.0,
       "end": 901.0,
       "text": " man kan,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 901.0,
       "end": 902.0,
       "text": " eller draft produkter,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 902.0,
       "end": 903.0,
       "text": " man kan lave,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 903.0,
       "end": 904.0,
       "text": " for meget B2B også,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 904.0,
       "end": 905.0,
       "text": " nogle handling fees,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 905.0,
       "end": 906.0,
       "text": " lad os sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 907.0,
       "end": 908.0,
       "text": " hvor man sidder,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 908.0,
       "end": 909.0,
       "text": " og skaber en masse manuel order,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 909.0,
       "end": 910.0,
       "text": " hvis de glemmer at lægge et fee på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 910.0,
       "end": 911.0,
       "text": " så kan du sørge for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 911.0,
       "end": 912.0,
       "text": " at det automatisk bliver langt på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 912.0,
       "end": 913.0,
       "text": " eller hvis de glemmer at lægge shipping på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 913.0,
       "end": 914.0,
       "text": " så kan du sørge for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 914.0,
       "end": 915.0,
       "text": " at det automatisk bliver langt på.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 915.0,
       "end": 918.0,
       "text": " Men der er faktisk allerede to her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 918.0,
       "end": 919.0,
       "text": " som jeg tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 919.0,
       "end": 920.0,
       "text": " vil løse nogle konkrete problemer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 920.0,
       "end": 921.0,
       "text": " Den ene,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 921.0,
       "end": 922.0,
       "text": " det er den her automatisk kundebeskrivelige forsinkelse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 922.0,
       "end": 923.0,
       "text": " fordi det er jo bare god kundeservice,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 923.0,
       "end": 924.0,
       "text": " og det er jeg sikker på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 924.0,
       "end": 925.0,
       "text": " det kan spare en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 925.0,
       "end": 926.0,
       "text": " fra nogle etstjernede trustpile anmeldelser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 926.0,
       "end": 927.0,
       "text": " ved bare at kommunikere på forhånd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 928.0,
       "end": 930.0,
       "text": " Så hvis nu tager sådan en som den her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 930.0,
       "end": 932.0,
       "text": " hvad vil triggeret være på den her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 932.0,
       "end": 933.0,
       "text": " Er det noget med at sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 933.0,
       "end": 934.0,
       "text": " hvis du har fået en ordre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 934.0,
       "end": 935.0,
       "text": " og den ikke er afsendt inden to dage,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 935.0,
       "end": 936.0,
       "text": " så er den defineret som forsinket,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 936.0,
       "end": 937.0,
       "text": " og så skyder man en mail afsted til kunden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 937.0,
       "end": 938.0,
       "text": " og siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 938.0,
       "end": 939.0,
       "text": " det tager lige et øjeblik mere det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 939.0,
       "end": 940.0,
       "text": " Ja, det kunne være den simple version af det.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 940.0,
       "end": 941.0,
       "text": " Den lidt mere avancerede,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 941.0,
       "end": 942.0,
       "text": " kunne være,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 942.0,
       "end": 943.0,
       "text": " at du henter dine leveringstider,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 943.0,
       "end": 944.0,
       "text": " lad os sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 944.0,
       "end": 945.0,
       "text": " du har nogle forskellige produkter,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 945.0,
       "end": 946.0,
       "text": " med forskellige leveringstider,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 946.0,
       "end": 947.0,
       "text": " og så skal du måske lægge det ind,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 947.0,
       "end": 948.0,
       "text": " som en eller anden ordereje til din prop,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 948.0,
       "end": 949.0,
       "text": " eller lignende,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 950.0,
       "end": 951.0,
       "text": " og så lytter du på den i stedet for,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 951.0,
       "end": 952.0,
       "text": " på bare tiden gået.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 952.0,
       "end": 953.0,
       "text": " Men ja,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 953.0,
       "end": 954.0,
       "text": " den simple vil være,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 954.0,
       "end": 956.0,
       "text": " hvis ordrene ikke er fulfilled,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 956.0,
       "end": 958.0,
       "text": " eller inden for 72 timer,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 958.0,
       "end": 959.0,
       "text": " kan man så sætte en mail op,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 959.0,
       "end": 960.0,
       "text": " og sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 960.0,
       "end": 961.0,
       "text": " det er vi ked af,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 961.0,
       "end": 962.0,
       "text": " vi arbejder på det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 962.0,
       "end": 963.0,
       "text": " og vi skal nok gøre alt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 963.0,
       "end": 964.0,
       "text": " hvad vi kan for at nå til det.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 964.0,
       "end": 965.0,
       "text": " Ja,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 965.0,
       "end": 966.0,
       "text": " den der med discountkode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 966.0,
       "end": 967.0,
       "text": " den synes jeg også er god,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 967.0,
       "end": 968.0,
       "text": " fordi en af de ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 968.0,
       "end": 969.0,
       "text": " som Tinju har gjort opmærksom på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 969.0,
       "end": 970.0,
       "text": " i tidligere podcast,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 970.0,
       "end": 972.0,
       "text": " det er det der med at give en discountcode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 972.0,
       "end": 974.0,
       "text": " til fx en samarbejdspartner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 974.0,
       "end": 975.0,
       "text": " eller en influent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 975.0,
       "end": 976.0,
       "text": " eller et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 976.0,
       "end": 977.0,
       "text": " de kan bare lynhurtigt blive spredt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 977.0,
       "end": 978.0,
       "text": " og det kan være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 978.0,
       "end": 979.0,
       "text": " så websites og apps,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 979.0,
       "end": 980.0,
       "text": " så hvis tanken var,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 980.0,
       "end": 981.0,
       "text": " at den her discountcode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 981.0,
       "end": 982.0,
       "text": " skulle være forbeholdt nogen få,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 982.0,
       "end": 983.0,
       "text": " så det at sætte en alarm op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 983.0,
       "end": 984.0,
       "text": " og sikre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 984.0,
       "end": 985.0,
       "text": " at den ikke lige pludselig bliver bookt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 985.0,
       "end": 986.0,
       "text": " på halvdelen af ens ordre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 986.0,
       "end": 987.0,
       "text": " er jo super godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 987.0,
       "end": 988.0,
       "text": " Shopify får lov at have sat op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 988.0,
       "end": 989.0,
       "text": " altså det kan jo virkelig spare en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 989.0,
       "end": 990.0,
       "text": " for nogen penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 990.0,
       "end": 991.0,
       "text": " hvis der er en kode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 991.0,
       "end": 992.0,
       "text": " der er blevet spredt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 992.0,
       "end": 993.0,
       "text": " som ikke skulle spredes.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 993.0,
       "end": 994.0,
       "text": " Og du kan jo sådan set også arbejde,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 994.0,
       "end": 995.0,
       "text": " med profiterne på ordrene,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 995.0,
       "end": 996.0,
       "text": " og sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 996.0,
       "end": 997.0,
       "text": " hey du har fået en ordre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 997.0,
       "end": 998.0,
       "text": " der har en gross margin under det her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 998.0,
       "end": 999.0,
       "text": " fordi igen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 999.0,
       "end": 1000.0,
       "text": " gross margin er også kalkyleret,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1007.0,
       "end": 1008.0,
       "text": " og lige så vel,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1008.0,
       "end": 1009.0,
       "text": " som jeg også har sagt her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1009.0,
       "end": 1010.0,
       "text": " tag high value ordre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1010.0,
       "end": 1011.0,
       "text": " hvis du vil have noget ekspress,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1011.0,
       "end": 1012.0,
       "text": " om det er det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1012.0,
       "end": 1013.0,
       "text": " du har lært,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1013.0,
       "end": 1014.0,
       "text": " de her ting er klart nemmere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1014.0,
       "end": 1015.0,
       "text": " når man har adlært en 3pl,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1015.0,
       "end": 1016.0,
       "text": " fordi 3pl'ernes it setup,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1016.0,
       "end": 1017.0,
       "text": " sætter ofte sådan lidt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1017.0,
       "end": 1018.0,
       "text": " en grænse på,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1018.0,
       "end": 1019.0,
       "text": " hvor dynamisk man kan være,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1019.0,
       "end": 1020.0,
       "text": " og 3pl er third party logistics,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1020.0,
       "end": 1021.0,
       "text": " og så 3pl er bare slagere til dem,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1021.0,
       "end": 1022.0,
       "text": " ligemeget på den refrense,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1022.0,
       "end": 1023.0,
       "text": " så selvfølgelig er det klart,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1023.0,
       "end": 1024.0,
       "text": " at det er lidt nemmere,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1024.0,
       "end": 1025.0,
       "text": " hvis man holder tingene i Shopify,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1025.0,
       "end": 1026.0,
       "text": " og man har sådan klokken,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1026.0,
       "end": 1027.0,
       "text": " og har sådan opgave ruter,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1027.0,
       "end": 1028.0,
       "text": " og sådan nogle ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1028.0,
       "end": 1029.0,
       "text": " i eller tæt på Shopify,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1038.0,
       "end": 1039.0,
       "text": " så det kan jo både bruges til kunden,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1039.0,
       "end": 1040.0,
       "text": " men det kan også bruges internt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1040.0,
       "end": 1041.0,
       "text": " og sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1041.0,
       "end": 1042.0,
       "text": " hey, hvorfor har vi ikke sendt den her pakke,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1042.0,
       "end": 1043.0,
       "text": " og hvorfor vi ikke over det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1043.0,
       "end": 1044.0,
       "text": " så det er jo både,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1044.0,
       "end": 1045.0,
       "text": " jeg tvivler ikke,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1045.0,
       "end": 1046.0,
       "text": " det er svært på en eller anden måde,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1046.0,
       "end": 1047.0,
       "text": " som både kan være god internt og ekstern,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1047.0,
       "end": 1050.0,
       "text": " og det kan bruges i begge leger.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1050.0,
       "end": 1051.0,
       "text": " Du har et andet flow her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1051.0,
       "end": 1052.0,
       "text": " jeg synes, det er sjovt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1052.0,
       "end": 1053.0,
       "text": " under customer segmentation",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1053.0,
       "end": 1054.0,
       "text": " og marketing automation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1054.0,
       "end": 1055.0,
       "text": " Jeg kan huske,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1055.0,
       "end": 1056.0,
       "text": " jeg havde læst en artikel på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1056.0,
       "end": 1057.0,
       "text": " det var faktisk på DR.dk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1057.0,
       "end": 1058.0,
       "text": " om Boost,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1058.0,
       "end": 1059.0,
       "text": " den store mode platform,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1059.0,
       "end": 1060.0,
       "text": " for et år eller to siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1060.0,
       "end": 1063.0,
       "text": " hvor de havde bandlyst 9000 kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1064.0,
       "end": 1066.0,
       "text": " fra nogensinde at handle på Boost igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1066.0,
       "end": 1067.0,
       "text": " Og årsagen til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1067.0,
       "end": 1068.0,
       "text": " at de havde gjort det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1068.0,
       "end": 1069.0,
       "text": " det var,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1069.0,
       "end": 1070.0,
       "text": " at der var 9000 kunderskikere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1070.0,
       "end": 1073.0,
       "text": " som simpelthen udnyttede returen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1073.0,
       "end": 1074.0,
       "text": " i en sådan grad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1074.0,
       "end": 1076.0,
       "text": " at det ikke gav mening for dem længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1076.0,
       "end": 1077.0,
       "text": " Jeg har faktisk fundet den her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1077.0,
       "end": 1078.0,
       "text": " og overskriften,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1078.0,
       "end": 1079.0,
       "text": " det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1079.0,
       "end": 1081.0,
       "text": " Boost udelukker omkring 9000 kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1081.0,
       "end": 1082.0,
       "text": " for uetisk adfærd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1082.0,
       "end": 1083.0,
       "text": " Så de har benyttet den her gratis retur,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1083.0,
       "end": 1085.0,
       "text": " til at sende igen og igen og igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1085.0,
       "end": 1086.0,
       "text": " i en grad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1086.0,
       "end": 1088.0,
       "text": " hvor det er en enormt dårlig forretning for Boost,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1088.0,
       "end": 1089.0,
       "text": " at have dem som kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1089.0,
       "end": 1090.0,
       "text": " Men det kræver lige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1090.0,
       "end": 1091.0,
       "text": " at man identificerer dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1091.0,
       "end": 1092.0,
       "text": " Så du har faktisk lavet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1092.0,
       "end": 1094.0,
       "text": " et Shopify Flow eksempel her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1094.0,
       "end": 1096.0,
       "text": " hvor man kan automatisk identificere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1096.0,
       "end": 1097.0,
       "text": " de kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1097.0,
       "end": 1098.0,
       "text": " som bliver ved med at returnere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1098.0,
       "end": 1099.0,
       "text": " måske med henblik på at udelukke dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1099.0,
       "end": 1100.0,
       "text": " hen ad vejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1100.0,
       "end": 1101.0,
       "text": " Kan du ikke forklare,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1101.0,
       "end": 1102.0,
       "text": " hvordan det virker?",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1102.0,
       "end": 1103.0,
       "text": " Jo, man kan egentlig gøre det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1103.0,
       "end": 1104.0,
       "text": " på to forskellige måder.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1104.0,
       "end": 1105.0,
       "text": " Men igen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1105.0,
       "end": 1106.0,
       "text": " når vi er inde i Shopify basen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1106.0,
       "end": 1107.0,
       "text": " og vi ligesom har Shopify,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1107.0,
       "end": 1108.0,
       "text": " som vores eneste platform,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1108.0,
       "end": 1109.0,
       "text": " igen i et e-commerce billede her,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1109.0,
       "end": 1110.0,
       "text": " og ellers,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1110.0,
       "end": 1111.0,
       "text": " selvfølgelig også,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1111.0,
       "end": 1112.0,
       "text": " hvor der er e-commerce på os,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1112.0,
       "end": 1113.0,
       "text": " men også kører Shopify på os.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1113.0,
       "end": 1114.0,
       "text": " Så det er dejligt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1114.0,
       "end": 1115.0,
       "text": " ved at have den der unified data,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1115.0,
       "end": 1116.0,
       "text": " og ligesom det fulde kundeview,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1116.0,
       "end": 1117.0,
       "text": " over alle transaktioner,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1117.0,
       "end": 1118.0,
       "text": " der er på kunden.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1118.0,
       "end": 1119.0,
       "text": " Det er,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1119.0,
       "end": 1120.0,
       "text": " at du netop kan lave,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1120.0,
       "end": 1121.0,
       "text": " de meget simple kalkuleringer,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1121.0,
       "end": 1122.0,
       "text": " fordi i virkeligheden,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1122.0,
       "end": 1123.0,
       "text": " så er det jo ikke så svært.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1123.0,
       "end": 1124.0,
       "text": " Du kigger på et kundekort,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1124.0,
       "end": 1125.0,
       "text": " som man kan sige hedder,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1125.0,
       "end": 1126.0,
       "text": " kundens profil,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1126.0,
       "end": 1127.0,
       "text": " og ser,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1127.0,
       "end": 1128.0,
       "text": " hvor mange ordre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1128.0,
       "end": 1129.0,
       "text": " har de haft,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1129.0,
       "end": 1130.0,
       "text": " hvor mange har de returneret.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1130.0,
       "end": 1131.0,
       "text": " Og så kan man arbejde med,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1131.0,
       "end": 1132.0,
       "text": " enten om det er counted,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1132.0,
       "end": 1133.0,
       "text": " af antallet returer,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1133.0,
       "end": 1134.0,
       "text": " de har haft,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1134.0,
       "end": 1135.0,
       "text": " eller om det er procenten,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1135.0,
       "end": 1136.0,
       "text": " af antallet ordre i alt.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1136.0,
       "end": 1137.0,
       "text": " Altså,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1137.0,
       "end": 1138.0,
       "text": " det er counted på returertid,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1138.0,
       "end": 1139.0,
       "text": " med antallet ordre i alt.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1139.0,
       "end": 1140.0,
       "text": " Og så kan du egentlig,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1140.0,
       "end": 1141.0,
       "text": " bare kalkulere det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1147.0,
       "end": 1148.0,
       "text": " eller i sjovfærdige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1148.0,
       "end": 1149.0,
       "text": " hvad hedder det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1149.0,
       "end": 1150.0,
       "text": " merchants bruger.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1150.0,
       "end": 1151.0,
       "text": " Og der søger de her ting,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1151.0,
       "end": 1152.0,
       "text": " jo med over.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1152.0,
       "end": 1153.0,
       "text": " Så så længe du laver det,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1153.0,
       "end": 1154.0,
       "text": " som midtfjord,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1154.0,
       "end": 1155.0,
       "text": " kan du lave det som property,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1155.0,
       "end": 1156.0,
       "text": " derovre.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1156.0,
       "end": 1157.0,
       "text": " Så kan du begynde at dreje med at sige,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1157.0,
       "end": 1158.0,
       "text": " selvfølgelig skal de da ikke,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1158.0,
       "end": 1159.0,
       "text": " have min salekampagne,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1159.0,
       "end": 1160.0,
       "text": " og så kan du sætte grænsen forskelligt,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1160.0,
       "end": 1161.0,
       "text": " fra hvor det skal være,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1161.0,
       "end": 1162.0,
       "text": " og sådan nogle ting.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1162.0,
       "end": 1163.0,
       "text": " Men det du helt simpelt gør,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1163.0,
       "end": 1164.0,
       "text": " det er at du siger,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1164.0,
       "end": 1165.0,
       "text": " at du looper på kunden,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1165.0,
       "end": 1166.0,
       "text": " og siger,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1166.0,
       "end": 1167.0,
       "text": " lad os tjekke,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1167.0,
       "end": 1168.0,
       "text": " hvad den her kunde har af ordre,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1168.0,
       "end": 1169.0,
       "text": " hvor mange returer er der der,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1169.0,
       "end": 1170.0,
       "text": " og det er faktisk,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1170.0,
       "end": 1171.0,
       "text": " der skal du igen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1171.0,
       "end": 1172.0,
       "text": " det er lidt mere kompleks,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1172.0,
       "end": 1173.0,
       "text": " det er ikke sådan helt ud af boksen,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1173.0,
       "end": 1174.0,
       "text": " men du skal lave en lille smule kode,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1174.0,
       "end": 1175.0,
       "text": " men vi snakker,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1175.0,
       "end": 1176.0,
       "text": " 5 linjers kode,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1176.0,
       "end": 1177.0,
       "text": " max vil jeg sige.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1177.0,
       "end": 1178.0,
       "text": " Og så påstår du det her tilbage,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1178.0,
       "end": 1179.0,
       "text": " ind på kunden,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1179.0,
       "end": 1180.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1180.0,
       "end": 1181.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1181.0,
       "end": 1182.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1182.0,
       "end": 1183.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1183.0,
       "end": 1184.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1184.0,
       "end": 1185.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1185.0,
       "end": 1186.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1186.0,
       "end": 1187.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1187.0,
       "end": 1188.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1188.0,
       "end": 1189.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1189.0,
       "end": 1190.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1190.0,
       "end": 1191.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1191.0,
       "end": 1192.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1192.0,
       "end": 1193.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1193.0,
       "end": 1194.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1194.0,
       "end": 1195.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1195.0,
       "end": 1196.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1196.0,
       "end": 1197.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1197.0,
       "end": 1198.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1228.0,
       "end": 1229.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1229.0,
       "end": 1230.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1230.0,
       "end": 1231.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1231.0,
       "end": 1232.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1232.0,
       "end": 1233.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1233.0,
       "end": 1234.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1234.0,
       "end": 1235.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1235.0,
       "end": 1236.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1236.0,
       "end": 1237.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1237.0,
       "end": 1238.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1238.0,
       "end": 1239.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1239.0,
       "end": 1240.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1240.0,
       "end": 1241.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1241.0,
       "end": 1242.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1242.0,
       "end": 1243.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1243.0,
       "end": 1244.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1244.0,
       "end": 1245.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1245.0,
       "end": 1246.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1246.0,
       "end": 1247.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1247.0,
       "end": 1248.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1248.0,
       "end": 1249.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1249.0,
       "end": 1250.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1250.0,
       "end": 1251.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1251.0,
       "end": 1252.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1252.0,
       "end": 1253.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1253.0,
       "end": 1254.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1254.0,
       "end": 1255.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1255.0,
       "end": 1256.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1256.0,
       "end": 1257.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1257.0,
       "end": 1258.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1258.0,
       "end": 1259.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1259.0,
       "end": 1260.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1260.0,
       "end": 1261.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1261.0,
       "end": 1262.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1262.0,
       "end": 1263.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1263.0,
       "end": 1264.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1264.0,
       "end": 1265.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1265.0,
       "end": 1266.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1266.0,
       "end": 1267.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1267.0,
       "end": 1268.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1268.0,
       "end": 1269.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1269.0,
       "end": 1270.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1270.0,
       "end": 1271.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1271.0,
       "end": 1272.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1272.0,
       "end": 1273.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1273.0,
       "end": 1274.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1274.0,
       "end": 1275.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1275.0,
       "end": 1276.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1276.0,
       "end": 1277.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1277.0,
       "end": 1278.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1278.0,
       "end": 1279.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1279.0,
       "end": 1280.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1280.0,
       "end": 1281.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1281.0,
       "end": 1282.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1282.0,
       "end": 1283.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1283.0,
       "end": 1284.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1284.0,
       "end": 1285.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1285.0,
       "end": 1286.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1286.0,
       "end": 1287.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1287.0,
       "end": 1288.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1288.0,
       "end": 1289.0,
       "text": " some en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1289.0,
       "end": 1290.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1290.0,
       "end": 1291.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1291.0,
       "end": 1292.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1292.0,
       "end": 1293.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1293.0,
       "end": 1294.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1294.0,
       "end": 1295.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1295.0,
       "end": 1296.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1296.0,
       "end": 1297.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1297.0,
       "end": 1298.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1298.0,
       "end": 1299.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1299.0,
       "end": 1300.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1300.0,
       "end": 1301.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1301.0,
       "end": 1302.0,
       "text": " som en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1302.0,
       "end": 1303.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1303.0,
       "end": 1304.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1304.0,
       "end": 1305.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1305.0,
       "end": 1306.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1306.0,
       "end": 1307.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1307.0,
       "end": 1308.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1308.0,
       "end": 1309.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1309.0,
       "end": 1310.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1310.0,
       "end": 1311.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1311.0,
       "end": 1312.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1312.0,
       "end": 1313.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1313.0,
       "end": 1314.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1314.0,
       "end": 1315.0,
       "text": " some en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1315.0,
       "end": 1316.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1316.0,
       "end": 1317.0,
       "text": " some en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1317.0,
       "end": 1318.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1318.0,
       "end": 1319.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1319.0,
       "end": 1320.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1320.0,
       "end": 1321.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1321.0,
       "end": 1322.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1322.0,
       "end": 1323.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1323.0,
       "end": 1324.0,
       "text": " some en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1324.0,
       "end": 1325.0,
       "text": " som en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1325.0,
       "end": 1326.0,
       "text": " some en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1326.0,
       "end": 1327.0,
       "text": " some en,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1327.0,
       "end": 1328.0,
       "text": " some an,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1328.0,
       "end": 1329.0,
       "text": " some an,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1329.0,
       "end": 1330.0,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1330.0,
       "end": 1331.0,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1331.0,
       "end": 1332.0,
       "text": " som an,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1332.0,
       "end": 1333.0,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1333.0,
       "end": 1334.0,
       "text": " som an,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1334.0,
       "end": 1335.0,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1335.0,
       "end": 1336.0,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1336.0,
       "end": 1337.0,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1337.0,
       "end": 1338.0,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1338.0,
       "end": 1339.0,
       "text": " sum on your,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1339.0,
       "end": 1340.0,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1340.0,
       "end": 1341.0,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1341.0,
       "end": 1342.0,
       "text": " som level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1342.0,
       "end": 1343.0,
       "text": " sum on your feeling,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1343.0,
       "end": 1344.0,
       "text": " sum on your feeling,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1494.0,
       "end": 1495.16,
       "text": " like this,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1495.16,
       "end": 1496.52,
       "text": " something like this,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1496.52,
       "end": 1497.52,
       "text": " like this,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1497.52,
       "end": 1498.52,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1498.52,
       "end": 1499.52,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1499.52,
       "end": 1500.52,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1500.52,
       "end": 1501.52,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1501.52,
       "end": 1502.52,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1502.52,
       "end": 1503.52,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1503.52,
       "end": 1504.52,
       "text": " sumon your feeling,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1504.52,
       "end": 1505.52,
       "text": " some level,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1505.52,
       "end": 1506.52,
       "text": " sumon your feeling,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1506.52,
       "end": 1507.52,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1507.52,
       "end": 1508.52,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1508.52,
       "end": 1509.52,
       "text": " sumon your feeling,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1509.52,
       "end": 1510.52,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1510.52,
       "end": 1511.52,
       "text": " like this,",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1511.52,
       "end": 1512.24,
       "text": " some level.",
-      "speaker": "C"
+      "speaker": "Aleksander"
     },
     {
       "start": 1524.0,
       "end": 1526.16,
       "text": " Jeg er sikker på, at vi kommer til at lave flere episoder om det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

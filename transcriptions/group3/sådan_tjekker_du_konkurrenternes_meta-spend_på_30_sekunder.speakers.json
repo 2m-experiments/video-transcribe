@@ -9,2675 +9,2679 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 7.0,
       "text": " Hej og velkommen til Marketingpod. I denne her episode bliver vi super operationelle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 7.0,
       "end": 11.0,
       "text": " Vi skal snakke om, hvordan du kan estimere dine konkurrenters adspend på meta,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 15.0,
       "text": " og se hvilken af deres annoncer, der lige nu fungerer bedst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 17.0,
       "text": " Og det tager 30 sekunder hver gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 17.0,
       "end": 20.0,
       "text": " Til nu til at starte med, skal man overhovedet kigge på konkurrenternes annonce?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 20.0,
       "end": 23.0,
       "text": " Hvad får man egentlig ud af det, inden vi viser, hvordan man gør?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 27.0,
       "text": " Åh, det er en af mine yndlingsdiscipliner. Det er at snage lidt på konkurrenterne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 27.0,
       "end": 30.0,
       "text": " Det er en af yndlingstingene, ind at kigge i Ads Library.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 30.0,
       "end": 33.0,
       "text": " Der er andre folk, der snager på deres gamle klassekammerater på Facebook.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 33.0,
       "end": 36.0,
       "text": " De går bare ind og kigger i Ads Library.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 40.0,
       "text": " Men jeg er ligeglad med, hvad folk i skolen laver.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 40.0,
       "end": 42.0,
       "text": " Ej, selvfølgelig skal man ind og kigge.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 42.0,
       "end": 46.0,
       "text": " Når du går ind på meta i Ads Library, og slår din konkurrent op, og ser alle de her annoncer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 46.0,
       "end": 48.0,
       "text": " Altså, det fortæller jo en delvis sandhed.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 48.0,
       "end": 51.0,
       "text": " Det giver dig en indikation om, hvad er det for en type af annoncer, de kører.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 51.0,
       "end": 54.0,
       "text": " Hvad er det, de forsøger at pushe, og hvordan gør de det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 54.0,
       "end": 58.0,
       "text": " Men det er bare ret fedt også at kunne komme lige spadestikket dybere ned.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 58.0,
       "end": 62.0,
       "text": " Og så sige, hvad er det egentlig for nogle annoncer, der bliver brugt flest penge på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 62.0,
       "end": 65.0,
       "text": " Fordi vi må jo antage, at de annoncer, der bliver brugt flest penge på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.0,
       "end": 68.0,
       "text": " Også er dem, der genererer det største afkast.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 68.0,
       "end": 71.0,
       "text": " Ellers så er konkurrenterne semidumme.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 71.0,
       "end": 75.0,
       "text": " Og det skal vi ikke altid antage, selvom man godt kan have sådan lidt, det er konkurrenter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 75.0,
       "end": 78.0,
       "text": " Så lad os antage, at de er relativt kloge i forhold til deres adspent.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 78.0,
       "end": 82.0,
       "text": " Og det er her, hvor dagens tip kommer ind og gør det nemt for os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 82.0,
       "end": 85.0,
       "text": " Hvad skal vi nu gøre på 30 sekunder? Tak ad hver halvdan faktisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 85.0,
       "end": 89.0,
       "text": " Ja, og måden, man gør det på, det er, at man starter i Facebook Ads Library.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.0,
       "end": 91.0,
       "text": " Og det her, det kender I godt i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 91.0,
       "end": 94.0,
       "text": " Facebook, Google, TikTok, Snapchat, de har alle som Ads Libraries.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.0,
       "end": 98.0,
       "text": " Så det, man gør, det er, at man går ind på facebook.com-ads-library.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 98.0,
       "end": 101.0,
       "text": " Til dem, der ser med på YouTube, det bør man gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 101.0,
       "end": 104.0,
       "text": " Eller Spotify med video, så kan man se det nu. Jeg er inde på Ads Library.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 104.0,
       "end": 107.0,
       "text": " Så kan man søge efter en hvilken som helst annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 107.0,
       "end": 109.0,
       "text": " Og nu kommer vi lige til at tage vores egen side som udgangspunkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 109.0,
       "end": 111.0,
       "text": " Det er den her side, der hedder Design as a Service,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 111.0,
       "end": 114.0,
       "text": " som er til vores Design as a Service koncept med ubegrænset design til fast pris.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 114.0,
       "end": 117.0,
       "text": " Der har vi lavet en dedikeret Facebook side til, fordi det betyder, at jeg kan lave nogle annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 117.0,
       "end": 121.0,
       "text": " som ikke umiddelbart falder ind under Obsidiens normale brand guidelines.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 121.0,
       "end": 124.0,
       "text": " Så herinde, der har vi en masse annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 124.0,
       "end": 126.0,
       "text": " Der kan vi se, at jeg har for eksempel den her annonce, som kører lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 129.0,
       "text": " hvor jeg har lavet sådan en Wikipedia-like kreativ.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 132.0,
       "text": " Har du set den her tidligere? Ja, jeg har også liked den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 132.0,
       "end": 135.0,
       "text": " Jeg kan love dig for, at jeg har liked den. Det fik mig faktisk til at stoppe op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 135.0,
       "end": 138.0,
       "text": " Det skal du have. Jo, det var en thumbstopper, som vi kalder den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 138.0,
       "end": 140.0,
       "text": " Ej, tak. Det er jeg glad for, at du siger. Jeg så den på Twitter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 143.0,
       "text": " hvor der var en, der havde lagt kreativt op i sådan en tråd med gode ideer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.0,
       "end": 146.0,
       "text": " og så gik jeg ind i Nano Banana Pro og lavede den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 151.0,
       "text": " Så den er faktisk bare lavet via AI, hvor jeg fik den til at sælge crawl-siden og lave udkast.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 151.0,
       "end": 154.0,
       "text": " Og det her, det er lige nu annoncen, der har den højeste click-through-rate i den her kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 157.0,
       "text": " kan jeg sige. Den fungerer faktisk ret godt fra starten af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 157.0,
       "end": 160.0,
       "text": " Det, der så er, det er jo, at pga. EU hedder det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 160.0,
       "end": 163.0,
       "text": " Wow, tak, EU. Von der Leyen. Very cool.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 163.0,
       "end": 165.0,
       "text": " Så har vi jo sådan noget gennemsigtighedstal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 165.0,
       "end": 172.0,
       "text": " Så jeg kan se EU-annoncelevering. Den har fået næsten 13.000 i rækkevidde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.0,
       "end": 175.0,
       "text": " Og det er EU, der forpligter META til at give de her tal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 175.0,
       "end": 179.0,
       "text": " Og nu hvor du har et rækkeviddetal for EU, og du ved, at den her kører kun i Danmark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 179.0,
       "end": 182.0,
       "text": " så kan man jo faktisk godt allerede der antage et eller andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 182.0,
       "end": 186.0,
       "text": " Spændt ved at sige, hvad er en gennemsnitlig CPM-pris i Danmark?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 186.0,
       "end": 190.0,
       "text": " Fordi det der er med CPM-prisen på META, det er, at den vejer meget mindre end click-prisen på Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 190.0,
       "end": 192.0,
       "text": " Du kan godt have click-pris på Google på 1 kroner og 100 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 197.0,
       "text": " CPM-prisen på kommenteringskampagner på META i Danmark i hvert fald, og det meste af Vesten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 197.0,
       "end": 200.0,
       "text": " ligger generelt på mellem 50 og 150 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.0,
       "end": 202.0,
       "text": " Jeg har lavet faktisk et udtræk på en masse af vores adaccounts.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 202.0,
       "end": 204.0,
       "text": " 84 kroner de sidste 90 dage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 204.0,
       "end": 207.0,
       "text": " Så det er et detalje, jeg har taget udgangspunkt i i min udregning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 210.0,
       "text": " Så på Obsidiens kunder i Vesten, det vil sige det meste af Europa og USA,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 210.0,
       "end": 213.0,
       "text": " 84 kroner i gennemsnitlig CPM-pris over de sidste 90 dage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 215.0,
       "text": " Det er ikke kun December-ting, der hæver det sådan op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 215.0,
       "end": 217.0,
       "text": " Det er bare prisen, man betaler lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 217.0,
       "end": 219.0,
       "text": " Det vil sige, at du kan lave en ret nem udregning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 219.0,
       "end": 222.0,
       "text": " der hedder 13.000 rækkevidde gange en CPM-pris på 84 kroner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 222.0,
       "end": 227.0,
       "text": " og så har du faktisk en ok idé om, hvad jeg har betalt for at vise den her annonce.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.0,
       "end": 232.0,
       "text": " Problemet her, Tino, det er, at jeg har 11 annoncer kørende lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 232.0,
       "end": 236.0,
       "text": " Så skulle du gøre det her 11 gange, og hvad hvis du har 250 annoncer kørende?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 236.0,
       "end": 238.0,
       "text": " Det duer jo bare ikke, og det er derfor, jeg tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 238.0,
       "end": 241.0,
       "text": " at du nok ikke har lavet den her analyse helt vildt mange gange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 241.0,
       "end": 244.0,
       "text": " Fordi den er bare ret tidskrævende, hvis du skulle gøre det her manuelt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 247.0,
       "text": " Ej, det skal jeg være ærlig og sige, at jeg har ikke gået særlig mange gange.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 247.0,
       "end": 251.0,
       "text": " Det, jeg derimod har fået, når jeg egentlig skulle have lavet den her analyse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 251.0,
       "end": 253.0,
       "text": " så har jeg faktisk fået perplexity comet til at gøre det for mig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 253.0,
       "end": 256.0,
       "text": " Problemet er bare, at den går ligesom i stå, altså den her AI-browser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 256.0,
       "end": 258.0,
       "text": " når den ikke gider mere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 258.0,
       "end": 260.0,
       "text": " Jeg kan sgu ikke helt finde en rød tråd i, hvornår den ikke gider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 260.0,
       "end": 265.0,
       "text": " Så nej, jeg synes, det er en fantastisk analyse, men der er simpelthen taget for lang tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 265.0,
       "end": 267.0,
       "text": " Og det er jo faktisk derfor, vi laver dagens episode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 267.0,
       "end": 270.0,
       "text": " fordi du er kommet os alle sammen til undsætning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 270.0,
       "end": 273.0,
       "text": " Jeg har fundet et API, et motherfucker af et API.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 273.0,
       "end": 277.0,
       "text": " Jeg var inde, og du ved, ligesom folk, der stalker deres klassikere, var der på Facebook.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 277.0,
       "end": 281.0,
       "text": " Jeg sad fredag aften i juleferien og kiggede på Abify og så,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 281.0,
       "end": 283.0,
       "text": " hvilke API'er er der egentlig til rådighed herinde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 283.0,
       "end": 286.0,
       "text": " Og så fandt jeg et API, der hedder Facebook Ad Library Scraper.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 286.0,
       "end": 289.0,
       "text": " Og så tænkte jeg, motherfucker, det er interessant det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 289.0,
       "end": 291.0,
       "text": " Det kan jeg godt lide.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 291.0,
       "end": 293.0,
       "text": " Det koster 5 kroner pr. 1000 resultater.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 295.0,
       "text": " Det skal jeg bygge et eller andet med det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 298.0,
       "text": " Så der er nogen, en Curious Coder hedder han,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 298.0,
       "end": 301.0,
       "text": " som har lavet API, som kan scrape Facebook Ads Library.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 303.0,
       "text": " Og så kan man betale en lille smule penge for at køre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 303.0,
       "end": 306.0,
       "text": " Det jeg gjorde, det var, at jeg gik ind i Lovable,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 310.0,
       "text": " det her Vibe Coding Tool, vi har omtalt tidligere, det svenske startup.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 310.0,
       "end": 315.0,
       "text": " Og så bad jeg den om at lave en lille MVP på en app,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 315.0,
       "end": 319.0,
       "text": " altså en webapp i browseren, så via det her API skal jeg kunne gå ind",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 319.0,
       "end": 322.0,
       "text": " og crawle Facebook Ads Library og estimere spend",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 322.0,
       "end": 325.0,
       "text": " og estimere de bedste annoncer for en given virksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 325.0,
       "end": 328.0,
       "text": " Det jeg har fået, det er det her site.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 328.0,
       "end": 330.0,
       "text": " Jeg har købt domænet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 332.0,
       "text": " Jeg har købt domænet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 332.0,
       "end": 335.0,
       "text": " Marketing-spendt.com",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 335.0,
       "end": 338.0,
       "text": " Jeg hader bindestreje, men uden bindestreje, det kostede 30.000 dollars.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 341.0,
       "text": " Så meget troede jeg alligevel ikke på projektet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 341.0,
       "end": 344.0,
       "text": " Så jeg har købt Marketing-spendt.com",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 344.0,
       "end": 347.0,
       "text": " Herinde har jeg lavet et lille site, hvor det man kan gøre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 347.0,
       "end": 350.0,
       "text": " det er at man kan kopiere ens Ads Library link ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 350.0,
       "end": 352.0,
       "text": " Så man skal sige, altså jeg har været inde på Ads Library,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 352.0,
       "end": 354.0,
       "text": " så tager jeg simpelthen hele URL, hele URL'en her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 354.0,
       "end": 357.0,
       "text": " den tager jeg direkte og lægger bare ind på det her site.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 357.0,
       "end": 359.0,
       "text": " Så trykker jeg analysere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 359.0,
       "end": 362.0,
       "text": " Og så går der ret kort tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 362.0,
       "end": 364.0,
       "text": " Og det er, fordi nu har jeg faktisk gjort det med Design as a Service i forvejen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 364.0,
       "end": 366.0,
       "text": " så jeg trykker lige på refresh-knappen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 366.0,
       "end": 368.0,
       "text": " Nu går der ca. 30 sekunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 368.0,
       "end": 371.0,
       "text": " Og på de 30 sekunder, der går det her API i gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 371.0,
       "end": 374.0,
       "text": " Og så går den faktisk ind annonce for annonce på Ads Library.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 374.0,
       "end": 376.0,
       "text": " Lige nu tager den de første 50 annoncer til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 376.0,
       "end": 379.0,
       "text": " Der er kun 11, så den tager alle sammen i det her tilfælde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 383.0,
       "text": " Og så går den dem igennem og hiver data ud fra Ads Library",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 383.0,
       "end": 387.0,
       "text": " og gemmer det i en database og viser sig her på sitet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 387.0,
       "end": 389.0,
       "text": " Nu er den færdig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 392.0,
       "text": " Det man kan se her, det er et estimeret månedlig spend.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 392.0,
       "end": 395.0,
       "text": " Ifølge det her tool, jeg har lavet, det er 784 dollars.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 398.0,
       "text": " Vi kan lige slå den til dansk her. 5400 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 400.0,
       "text": " Det reelle spend, det kan jeg jo fortælle dig, Senior.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 400.0,
       "end": 403.0,
       "text": " Det reelle spend den sidste måned, det er 6000 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 403.0,
       "end": 409.0,
       "text": " Så det vil sige, vi er 90% korrekt på lige præcis den her case.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " Og jeg har nogen, der er bedre, og nogen, der er værre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 414.0,
       "text": " For eksempel mange reach-kampagner, så bliver den dårligere lige pludselig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 414.0,
       "end": 416.0,
       "text": " Fordi reach-kampagner ligger med lavere CPM og sådan noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 416.0,
       "end": 419.0,
       "text": " Men hvis du fortrinsvist annoncerer efter konverteringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 421.0,
       "text": " som langt, langt, langt de fleste annoncerer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 425.0,
       "text": " altså den her i det her specifikke tilfælde er faktisk 90% korrekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 427.0,
       "text": " Her kan man se det estimerede månedlige spend.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 429.0,
       "text": " Jeg har også lavet tre bokser til de bedste annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 432.0,
       "text": " Så jeg har lavet en boks til den annonce, der har det højeste reach.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 432.0,
       "end": 433.0,
       "text": " Den kan man se her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 436.0,
       "text": " Der har vi hele teksten, og så kan man klikke for at se den på Ads Library.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 439.0,
       "text": " Jeg har lavet den, der har kørt i længst tid,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " med tanken om, at den, der har været aktiv i længst tid,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " nok også har performet godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " Og så har jeg lavet en, der siger, at det højeste spend",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 448.0,
       "text": " de sidste syv dage, for at vise lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 448.0,
       "end": 450.0,
       "text": " hvad er det så, der rent faktisk virker bedst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 453.0,
       "text": " Og så igen, i alle tilfælde, så er der links direkte videre til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 456.0,
       "text": " Facebook Ads Library, hvor man kan se den pågældende annonce",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 457.0,
       "text": " og se de fulde statistikker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 457.0,
       "end": 459.0,
       "text": " Så udover at man har de tre bedste annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " højeste reach, længste løbetid",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 461.0,
       "end": 463.0,
       "text": " og højeste annonceforbrug i den her uge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " så har jeg lavet en oversigt over alle URL'er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " Der er kun to i det her tilfælde, med og uden VVV.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 469.0,
       "text": " Men det her, synes jeg faktisk er ret fedt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 469.0,
       "end": 471.0,
       "text": " fordi nogle gange, så kan man lære virkelig meget af at se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 471.0,
       "end": 473.0,
       "text": " hvilke sider, der bliver linket til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 475.0,
       "text": " Tilbage til din episode om den her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 475.0,
       "end": 477.0,
       "text": " post-click experience og landingssider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 477.0,
       "end": 478.0,
       "text": " Jeg synes, det er helt vildt spændende at se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 478.0,
       "end": 480.0,
       "text": " hvilke landingssider folk har.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 480.0,
       "end": 481.0,
       "text": " For eksempel en sjov ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Jeg har prøvet at lave en søgning lige før på Alex Hormozi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 483.0,
       "end": 484.0,
       "text": " som vi jo også har omtalt før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 486.0,
       "text": " Så hvis man tager Alex Hormozi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 486.0,
       "end": 487.0,
       "text": " der kunne jeg faktisk ikke få spendtal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 487.0,
       "end": 489.0,
       "text": " fordi han annoncerer kun i USA.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 490.0,
       "end": 492.0,
       "text": " Så jeg har ikke et estimeret spend,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 492.0,
       "end": 494.0,
       "text": " men jeg har et sted, han landingssider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 494.0,
       "end": 497.0,
       "text": " Så her, han annoncerer for 16 forskellige URL'er lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 497.0,
       "end": 500.0,
       "text": " og nu har jeg simpelthen en oversigt over alle de URL'er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 500.0,
       "end": 501.0,
       "text": " Alex Hormozi annoncerer for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 503.0,
       "text": " så det er meget nemt for mig lige at trykke kopier,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " og så rent faktisk gå ind og se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 506.0,
       "text": " hvad er det, hans landingssider er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 506.0,
       "end": 507.0,
       "text": " selvom jeg ikke får alle hans annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 510.0,
       "text": " og uden at klikke manuelt igennem Facebook Ads Library,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " så kan jeg se alle hans landingssider,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 514.0,
       "text": " og se, om der er noget, jeg lige skal blive inspireret af her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 514.0,
       "end": 515.0,
       "text": " Så det synes jeg faktisk er ret brugbart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 515.0,
       "end": 518.0,
       "text": " Og så har man jo bare en oversigt over alle annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 518.0,
       "end": 520.0,
       "text": " sorteret efter det højeste reach,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 520.0,
       "end": 521.0,
       "text": " så man simpelthen bare kan se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 521.0,
       "end": 523.0,
       "text": " hvad bruger folk flest penge på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 524.0,
       "text": " Så vi kan tage...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 524.0,
       "end": 526.0,
       "text": " Jeg tog McKinsey & Company her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 528.0,
       "text": " De har brugt 3.500 kroner den sidste måned på EU.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 528.0,
       "end": 530.0,
       "text": " Wow, big spenders McKinsey.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 530.0,
       "end": 532.0,
       "text": " Primært rekrutteringsannoncering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 532.0,
       "end": 534.0,
       "text": " De har 45 links til en side,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 534.0,
       "end": 536.0,
       "text": " og så har de kun nogle enkelte andre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 536.0,
       "end": 537.0,
       "text": " Men der kan vi se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 538.0,
       "text": " vi har simpelthen sorteret deres annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 540.0,
       "text": " efter det højeste spend og højeste reach,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 540.0,
       "end": 542.0,
       "text": " den sidste månedstid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 542.0,
       "end": 544.0,
       "text": " Så det er det her værktøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 544.0,
       "end": 545.0,
       "text": " jeg har lavet, som gør,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 545.0,
       "end": 547.0,
       "text": " at du nu faktisk med et enkelt link",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " til Facebook Ads Library",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " på 30 sekunder kan hive data ind på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 553.0,
       "text": " hvor meget din konkurrent har brugt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 554.0,
       "text": " hvor meget de bruger estimeret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 554.0,
       "end": 556.0,
       "text": " hvilke landingssider de hiver ind til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 559.0,
       "text": " hvilke annoncer, der sandsynligvis fungerer bedst for dem lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " og i øvrigt bare sidde og refresh det en gang om dagen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " hvis du har lyst til at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 564.0,
       "text": " Det synes jeg altså selv er meget sjovt det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.0,
       "end": 565.0,
       "text": " Ej, det er fedt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 565.0,
       "end": 566.0,
       "text": " Og især det her med at kunne se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 566.0,
       "end": 567.0,
       "text": " hvilke landingssider de sender ind til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 567.0,
       "end": 569.0,
       "text": " Det ved du, jeg har sådan en forkærlighed",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 570.0,
       "text": " for det der post-click experience.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 570.0,
       "end": 571.0,
       "text": " Men ej, hvor er det fedt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 571.0,
       "end": 573.0,
       "text": " Altså, rent i nysgerrigheden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 573.0,
       "end": 574.0,
       "text": " hvor lang tid tog det dig?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 574.0,
       "end": 577.0,
       "text": " Krævede det mange prompts frem og tilbage?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 577.0,
       "end": 580.0,
       "text": " Jeg har brugt cirka 100 beskeder frem og tilbage,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 580.0,
       "end": 581.0,
       "text": " hvilket svarer til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 581.0,
       "end": 583.0,
       "text": " at jeg har det billigste Lovable abonnement på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 583.0,
       "end": 585.0,
       "text": " jeg kan ikke huske, om det er 20 eller 25 dollars,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 585.0,
       "end": 588.0,
       "text": " og jeg har brugt sådan halvdelen af det abonnement i den her måned på at bygge det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 589.0,
       "text": " Okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 591.0,
       "text": " Var det derfor, du havde det lille logo nederst på siden?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 593.0,
       "text": " Ja, det kan man faktisk slå fra i siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 594.0,
       "text": " Nå, okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 595.0,
       "text": " Du kan også slå det fra,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 596.0,
       "text": " jeg har bare ikke glemt at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 597.0,
       "text": " Så det vil sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 600.0,
       "text": " at det har kostet mig i Lovable abonnement og credits,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 602.0,
       "text": " rundt regnet 10 dollars at bygge det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 602.0,
       "end": 605.0,
       "text": " hvilket jo selvfølgelig er fuldstændig grotesk lidt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 606.0,
       "text": " Det har kostet mindre at bygge det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 606.0,
       "end": 609.0,
       "text": " end det har kostet at købe domænet til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 611.0,
       "text": " Så rent techstackmæssigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 613.0,
       "text": " så er det bygget i Lovable.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 613.0,
       "end": 615.0,
       "text": " API'erne kommer fra Apify,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 615.0,
       "end": 618.0,
       "text": " hvor det koster cirka 5 danske kroner per 1000 scrapes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 621.0,
       "text": " Lige nu har jeg 25.000 credits gratis på kontoen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 621.0,
       "end": 623.0,
       "text": " og så har jeg sat et kort op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " så hvis den koster 50 kroner om måneden eller et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 626.0,
       "text": " så er det fint nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 628.0,
       "text": " Det er meget sjovt at se, hvad det kan blive til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 628.0,
       "end": 629.0,
       "text": " Hvor mange scrapes går der til?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " Altså er det et scrape?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 631.0,
       "end": 633.0,
       "text": " Nej, det er et scrape.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 633.0,
       "end": 635.0,
       "text": " Design as a Service har 11 annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 636.0,
       "text": " det er 11.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 638.0,
       "text": " Så det er per annonce, du scraper.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 638.0,
       "end": 640.0,
       "text": " Og det er derfor, jeg har sat en grænse på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 640.0,
       "end": 642.0,
       "text": " at du kun kan scrape 50 annoncer per gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 642.0,
       "end": 644.0,
       "text": " Fordi der er nogen, der kører 40.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 644.0,
       "end": 647.0,
       "text": " Der er nogen, der kører så mange annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 647.0,
       "end": 648.0,
       "text": " Det er helt vildt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 650.0,
       "text": " Så er der noget Netlify Hosting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 650.0,
       "end": 652.0,
       "text": " som er det, som Lovable bruger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 652.0,
       "end": 653.0,
       "text": " Og der er sådan en teknisk detalje,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 654.0,
       "text": " man lige skal være opmærksom på her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 654.0,
       "end": 656.0,
       "text": " Det er et Lovable, som udgangspunkt koder deres apps",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 656.0,
       "end": 657.0,
       "text": " i React SPA.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 657.0,
       "end": 658.0,
       "text": " Det vil sige React som framework,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 659.0,
       "text": " det er nede i JavaScript.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 659.0,
       "end": 662.0,
       "text": " Og SPA det står for Single Page Application.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 662.0,
       "end": 665.0,
       "text": " Det betyder, at seriøsmæssigt er det forfærdeligt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 665.0,
       "end": 666.0,
       "text": " out of the box.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 668.0,
       "text": " Google kan læse røv og nøgler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 668.0,
       "end": 669.0,
       "text": " fordi det hele er baseret på JavaScript.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 669.0,
       "end": 673.0,
       "text": " Så jeg har lavet nogle omgåelser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.0,
       "end": 676.0,
       "text": " for at lave en pre-rendered version i HTML,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 676.0,
       "end": 677.0,
       "text": " der bliver sendt til bots.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 678.0,
       "text": " Det kan du godt via Lovable,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 678.0,
       "end": 680.0,
       "text": " det kræver lidt konsistent prompting",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 680.0,
       "end": 682.0,
       "text": " og tager faktisk lige noget tid at gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 682.0,
       "end": 684.0,
       "text": " Og hvis man vil have den nemme løsning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 685.0,
       "text": " så findes der nogle værktøjer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 685.0,
       "end": 686.0,
       "text": " som gør det her rigtig, rigtig godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 686.0,
       "end": 687.0,
       "text": " Rigtig, rigtig billigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 687.0,
       "end": 689.0,
       "text": " Det, som jeg vil anbefale, det er en forbindelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 689.0,
       "end": 692.0,
       "text": " Det er noget, der hedder pre-render.io.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 692.0,
       "end": 694.0,
       "text": " Så det bliver lige lidt SEO-specifikt det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " Men hvis du har et site, som primært er baseret på JavaScript,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " så kan det her gå ind og lave en HTML-version",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 699.0,
       "text": " i din side, som du viser til bots.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 699.0,
       "end": 701.0,
       "text": " Og det kan gøre rigtig meget i forhold til synlighed",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 701.0,
       "end": 703.0,
       "text": " på både Google og ChatGPT og andre steder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 703.0,
       "end": 704.0,
       "text": " Men det er kun et problem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 704.0,
       "end": 705.0,
       "text": " hvis du er meget JavaScript-baseret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 705.0,
       "end": 707.0,
       "text": " Det vil sige, hvis du bruger WordPress eller Webflow,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 712.0,
       "end": 714.0,
       "text": " hvis du bruger lovable, kæmpe problem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 714.0,
       "end": 715.0,
       "text": " Så skal man lige være opmærksom på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 715.0,
       "end": 717.0,
       "text": " SEO-mæssigt, det er en katastrofe ud af boksen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 717.0,
       "end": 719.0,
       "text": " Men det kan man godt arbejde på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 719.0,
       "end": 721.0,
       "text": " Og det har jeg gjort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 721.0,
       "end": 724.0,
       "text": " Og det betyder, at jeg indsendte den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 724.0,
       "end": 726.0,
       "text": " til Google Search Console i går.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 726.0,
       "end": 728.0,
       "text": " Og den er allerede indekseret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 728.0,
       "end": 730.0,
       "text": " Og jeg har lavet sådan en fetch af siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 730.0,
       "end": 732.0,
       "text": " hvor den indekserer den korrekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 732.0,
       "end": 733.0,
       "text": " Men det gjorde den altså ikke ud af boksen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 733.0,
       "end": 735.0,
       "text": " Det skal man bare lige være opmærksom på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 736.0,
       "text": " Og så har jeg jo lavet en detalje,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 736.0,
       "end": 737.0,
       "text": " fordi jeg kan jo ikke lade være med at lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 737.0,
       "end": 739.0,
       "text": " programmatik SEO-play ud af det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 740.0,
       "end": 742.0,
       "text": " Så det jeg har gjort, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 742.0,
       "end": 745.0,
       "text": " at siden er udviklet på en måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 747.0,
       "text": " som gør, at hver eneste gang,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 747.0,
       "end": 749.0,
       "text": " der er en ny annoncør, der bliver lagt ind på siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 749.0,
       "end": 752.0,
       "text": " så genererer det en permanent URL.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 752.0,
       "end": 754.0,
       "text": " Så hvis jeg for eksempel tager Obsidian Denmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 754.0,
       "end": 755.0,
       "text": " Det har en URL, der hedder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 759.0,
       "text": " marketingspent.com-en-company-obsidian-denmark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 759.0,
       "end": 762.0,
       "text": " Den her side, den er permanent og er indekserbar",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 762.0,
       "end": 766.0,
       "text": " med dynamisk opdateret metadata,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 766.0,
       "end": 768.0,
       "text": " og Google kan læse helt lortet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 768.0,
       "end": 769.0,
       "text": " Jeg har været inde og fetche den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 769.0,
       "end": 771.0,
       "text": " Jeg har lavet FAQ-schema-markup",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 771.0,
       "end": 774.0,
       "text": " med specifikke data fra siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 774.0,
       "end": 776.0,
       "text": " Der er FAQ breadcrumbs.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 776.0,
       "end": 777.0,
       "text": " Vi har, hvad hedder det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 777.0,
       "end": 779.0,
       "text": " schema-markup på typen af side.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 779.0,
       "end": 783.0,
       "text": " Jeg har lavet kategorisider med FAQ-markup,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 783.0,
       "end": 787.0,
       "text": " som samler alle siderne inden for en given industri.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 787.0,
       "end": 788.0,
       "text": " Jeg har lavet helt lortet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 788.0,
       "end": 790.0,
       "text": " Så min tanke, det var,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 790.0,
       "end": 792.0,
       "text": " at jeg har bygget det her værktøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 792.0,
       "end": 794.0,
       "text": " fordi jeg selv godt kunne bruge det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 794.0,
       "end": 795.0,
       "text": " Men derudover så kunne jeg ikke lade være",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 795.0,
       "end": 797.0,
       "text": " med at lave et lille programmatik SEO-play ud af det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 797.0,
       "end": 799.0,
       "text": " fordi jeg tror måske, jeg kommer til at ranke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 799.0,
       "end": 801.0,
       "text": " på navnene på alle de virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 801.0,
       "end": 802.0,
       "text": " der bliver slået op inde i toolet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 802.0,
       "end": 804.0,
       "text": " fordi de genererer en permanent URL",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 804.0,
       "end": 805.0,
       "text": " med dynamisk data,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 805.0,
       "end": 807.0,
       "text": " som Google ikke har andre steder fra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 807.0,
       "end": 808.0,
       "text": " Så, hvem ved?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 808.0,
       "end": 812.0,
       "text": " Måske kan man sætte den på...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 812.0,
       "end": 814.0,
       "text": " Ej, det synes jeg faktisk er meget sjovt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 814.0,
       "end": 816.0,
       "text": " Kan man gøre det samme med Google, Christian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 816.0,
       "end": 817.0,
       "text": " hvis man nu ville lave en vibe-coded app,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 817.0,
       "end": 819.0,
       "text": " der estimerede Google-spændt?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 819.0,
       "end": 821.0,
       "text": " Og den er svær, fordi det er jo klikpriser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 821.0,
       "end": 822.0,
       "text": " det baserer sig på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 822.0,
       "end": 824.0,
       "text": " Klart, du får selvfølgelig eksponeringerne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 824.0,
       "end": 825.0,
       "text": " altså det her reach af hvide,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 825.0,
       "end": 826.0,
       "text": " men det er jo egentlig ikke det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 826.0,
       "end": 828.0,
       "text": " Medmindre du kører i en YouTube-ads.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 828.0,
       "end": 830.0,
       "text": " Ja, den er altså svær, Halfter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 830.0,
       "end": 831.0,
       "text": " det må jeg nok indrømme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 831.0,
       "end": 833.0,
       "text": " fordi det er den måde, man skaffer den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 833.0,
       "end": 834.0,
       "text": " Ej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 834.0,
       "end": 835.0,
       "text": " Jeg tjekkede faktisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 835.0,
       "end": 836.0,
       "text": " du kan godt lave den med Snapchat,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 836.0,
       "end": 837.0,
       "text": " men who cares?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 839.0,
       "text": " Der er ikke nogen, der bruger penge på Snapchat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 840.0,
       "text": " Og så tjekkede jeg Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 840.0,
       "end": 841.0,
       "text": " Det kan du godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 841.0,
       "end": 844.0,
       "text": " men du har ret i, den giver reach,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 846.0,
       "text": " og det er bare et dårligt proxy.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 846.0,
       "end": 847.0,
       "text": " Så skulle du binde den sammen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 847.0,
       "end": 849.0,
       "text": " med Ahrefs MCP-platform,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 849.0,
       "end": 851.0,
       "text": " og så trække custom-servers-analyser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 851.0,
       "end": 852.0,
       "text": " og CPC-priser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 855.0,
       "text": " Men så bliver det heller ikke 50 kroner om måneden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 855.0,
       "end": 856.0,
       "text": " du bruger på den dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 856.0,
       "end": 857.0,
       "text": " fordi der er lige pludselig en del",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 857.0,
       "end": 859.0,
       "text": " forskellige endpoints, der koster penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 859.0,
       "end": 860.0,
       "text": " Så det kunne man godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 860.0,
       "end": 861.0,
       "text": " men til et gratis-tool,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 861.0,
       "end": 862.0,
       "text": " jeg har lavet for sjovt til mig selv,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 862.0,
       "end": 864.0,
       "text": " og alle dem, der lytter med til Marketingpod,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 864.0,
       "end": 866.0,
       "text": " måske også lige overgøre det til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 868.0,
       "text": " Så lige nu, der kan den altså kun mese sig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 868.0,
       "end": 870.0,
       "text": " men det gør den til gengæld også ret godt faktisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 870.0,
       "end": 871.0,
       "text": " Og nu husker du lige at overbevge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 871.0,
       "end": 872.0,
       "text": " hvor mange, der bruger den,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 872.0,
       "end": 873.0,
       "text": " fordi jeg er jo nervøs for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 873.0,
       "end": 874.0,
       "text": " at nu på torsdag,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 874.0,
       "end": 875.0,
       "text": " når den her episode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 875.0,
       "end": 877.0,
       "text": " den er røget ud,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 877.0,
       "end": 878.0,
       "text": " at Puu er her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 878.0,
       "end": 879.0,
       "text": " Også fordi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 879.0,
       "end": 882.0,
       "text": " Det er vores fælles plevekort i Obsidian.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 882.0,
       "end": 883.0,
       "text": " Ja, præcis.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 884.0,
       "text": " Det er vores fælles plevekort,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 884.0,
       "end": 885.0,
       "text": " der er sat op på den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 887.0,
       "end": 888.0,
       "text": " Ej, der er sat et cap på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 888.0,
       "end": 889.0,
       "text": " så hvis den bruger alle de credits,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 889.0,
       "end": 890.0,
       "text": " den har, så stopper den med at trække.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 890.0,
       "end": 891.0,
       "text": " Der er det, mand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 891.0,
       "end": 894.0,
       "text": " Så man kan ikke ruinere Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 894.0,
       "end": 896.0,
       "text": " ved at gå ind og paste helt vildt mange uger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 896.0,
       "end": 897.0,
       "text": " eller det eneste, man gør,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 897.0,
       "end": 898.0,
       "text": " det er at hjælpe mig med at bygge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 898.0,
       "end": 899.0,
       "text": " en programmatik CEO database",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 899.0,
       "end": 900.0,
       "text": " over en masse virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 900.0,
       "end": 901.0,
       "text": " Spence,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 901.0,
       "end": 902.0,
       "text": " så det er man altså meget velkommen til at gøre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 902.0,
       "end": 903.0,
       "text": " hvis man har lyst til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 903.0,
       "end": 904.0,
       "text": " Ej, vi lavede den her episode to år siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 904.0,
       "end": 905.0,
       "text": " Den ene, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 905.0,
       "end": 906.0,
       "text": " hvis du, der lytter med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 906.0,
       "end": 907.0,
       "text": " nogensinde kunne tænke dig at se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 907.0,
       "end": 908.0,
       "text": " hvor mange penge bruger din konkurrenter på Meta,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 908.0,
       "end": 910.0,
       "text": " værsgo, marketing-spent.com,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 910.0,
       "end": 911.0,
       "text": " giv den gas.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 911.0,
       "end": 912.0,
       "text": " Den anden, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 912.0,
       "end": 913.0,
       "text": " det er bare et sjovt eksempel på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 913.0,
       "end": 915.0,
       "text": " hvad man kan bygge med Lovable,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 915.0,
       "end": 916.0,
       "text": " og hvad man kan kode sig til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 916.0,
       "end": 918.0,
       "text": " og et lidt programmatisk CEO-projekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 918.0,
       "end": 920.0,
       "text": " Fordi not in a million fucking years,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 920.0,
       "end": 921.0,
       "text": " ville jeg kunne have bygget det her selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 921.0,
       "end": 922.0,
       "text": " Uden AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 922.0,
       "end": 923.0,
       "text": " Not a chance.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 923.0,
       "end": 925.0,
       "text": " Og hvis jeg skulle have betalt inden for at bygge det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 925.0,
       "end": 926.0,
       "text": " i hvert fald,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 926.0,
       "end": 927.0,
       "text": " jeg kan ikke forestille mig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 927.0,
       "end": 928.0,
       "text": " at jeg kunne have gjort det her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 928.0,
       "end": 930.0,
       "text": " for under sådan 20-30-40.000,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 930.0,
       "end": 931.0,
       "text": " uden AI-værktøjer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 931.0,
       "end": 932.0,
       "text": " hvis man skulle have bygget det her selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 932.0,
       "end": 934.0,
       "text": " Så det her, den her episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 934.0,
       "end": 936.0,
       "text": " er også et lille eksempel på den der demokratisering",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 936.0,
       "end": 938.0,
       "text": " af udvikling og",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 938.0,
       "end": 940.0,
       "text": " vibe-coding, som er så massivt i gang lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 940.0,
       "end": 941.0,
       "text": " og som du jo gør på kontoret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 941.0,
       "end": 942.0,
       "text": " Vi har mange dygtige kollegaer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 942.0,
       "end": 943.0,
       "text": " der gør på kontoret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 943.0,
       "end": 944.0,
       "text": " De bygger vildt godere redskaber.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 944.0,
       "end": 946.0,
       "text": " Også nogle ting, som er fucking ligegyldige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 946.0,
       "end": 947.0,
       "text": " Men det er en del af charmen lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 947.0,
       "end": 948.0,
       "text": " Du bygger alle mulige ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 948.0,
       "end": 950.0,
       "text": " og så ser du, hvad der rent faktisk sidder fast.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 950.0,
       "end": 952.0,
       "text": " Og jeg synes, det er så fascinerende rent faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 952.0,
       "end": 953.0,
       "text": " at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 953.0,
       "end": 955.0,
       "text": " Og min anbefaling til alle, der lytter med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 955.0,
       "end": 956.0,
       "text": " det er, hvis du vil være dygtig til AI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 956.0,
       "end": 957.0,
       "text": " du bliver dygtigere at bruge det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 957.0,
       "end": 959.0,
       "text": " så begynd at bygge dine egne ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 959.0,
       "end": 960.0,
       "text": " selvom du ikke rigtigt er flot, du skal bruge det til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 960.0,
       "end": 962.0,
       "text": " fordi det er faktisk en vildt fed oplevelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

@@ -9,1067 +9,1071 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 6.0,
       "text": " Hej og velkommen til en ny episode af Marketingpod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.0,
       "end": 11.0,
       "text": " I dag kommer vi til at tale om din branded search ads og branded shopping i Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 16.0,
       "text": " Altså hvor du byder ind på dit eget brand, både som e-commerce virksomhed og som B2B virksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 21.0,
       "text": " Og vi stiller spørgsmålet, burde du egentlig bruge flere eller færre penge på din egen brand annoncer?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 21.0,
       "end": 23.0,
       "text": " Og Christian, det kommer sig af, jeg skal ud og snakke med en virksomhed i næste uge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 27.0,
       "text": " Jeg har fået adgang til deres Google Ads, lavet en analyse af, hvad vi måske kunne gøre anderledes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 33.0,
       "text": " Og en af de ting, jeg lavede mærke til, det var, at deres branded search ads havde en ROAS på 51.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 33.0,
       "end": 36.0,
       "text": " Så de havde selvfølgelig et meget højt afkast på at købe ind på deres eget brand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 38.0,
       "text": " Deres non-brandede ROAS er omkring 8.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 38.0,
       "end": 43.0,
       "text": " Men deres branded search udgjorde kun omkring 15% af deres annonceforbrug.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 43.0,
       "end": 50.0,
       "text": " Så det vil sige, at deres med længder mest profitabele kampagne, deres eget brand, brugte en ret lille del af budgettet på konsolen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 50.0,
       "end": 54.0,
       "text": " Og så stillede jeg mig spørgsmålet, og det her er et brand, der jo bliver forhandlet andre steder, det er en del af konteksten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 56.0,
       "text": " så der er andre, der sælger det samme brand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 56.0,
       "end": 61.0,
       "text": " Jeg spurgte dem, hvad er jeres strategi her? Skal vi bidre mere på brand, fordi det er det mest profitabele,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 61.0,
       "end": 64.0,
       "text": " eller vil I faktisk hellere bruge jeres penge på at skaffe nye kunder?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.0,
       "end": 67.0,
       "text": " Hvad vil dine overvejelser være, hvis det var dig, jeg havde stillet det her spørgsmål?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.0,
       "end": 71.0,
       "text": " Ja, for du siger, at der er forhandlere indover. Det er jo det, der gør den store forskel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 71.0,
       "end": 74.0,
       "text": " Da du først nævnte den her episode for mig, så troede jeg faktisk, at du mente det som en joke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 74.0,
       "end": 77.0,
       "text": " fordi vi har tidligere nævnt i MarketingPort det her med, at virksomhederne bare siger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 77.0,
       "end": 79.0,
       "text": " kan vi ikke bare bruge noget flere penge på brand searches?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 79.0,
       "end": 83.0,
       "text": " Jo, men der er jo bare det antal søgninger, der nu engang er, venner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 83.0,
       "end": 85.0,
       "text": " Vi kan jo ikke bare blive ved med at musle penge ned i det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 85.0,
       "end": 89.0,
       "text": " Men den her, som jeg forstår det, så er det en virksomhed, der har nogle forhandlere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 89.0,
       "end": 92.0,
       "text": " Og i og med, at de her forhandlere også ligger og byder ind på brandet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 92.0,
       "end": 94.0,
       "text": " måske de også har nogle konkurrenter, der ligger og byder ind på brandet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 94.0,
       "end": 98.0,
       "text": " fordi det giver dem nogle gode resultater.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 98.0,
       "end": 102.0,
       "text": " Så antager jeg, at eksponeringsandelen, altså de antal gange, man bliver vist på eget brand,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 102.0,
       "end": 104.0,
       "text": " eller måske ligger i toppen på eget brand,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 104.0,
       "end": 108.0,
       "text": " at der er noget rum op til de 100%, de mytiske 100%, som man nærmest ikke kan nå.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 108.0,
       "end": 111.0,
       "text": " Men lad os bare lige sige 99%.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 111.0,
       "end": 114.0,
       "text": " Og hvis det er tilfældet, så afhænger det jo lidt af den strategi, man har.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 114.0,
       "end": 118.0,
       "text": " Fordi jeg ved, jeg har selv siddet i det her issue mange gange med virksomheder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 118.0,
       "end": 122.0,
       "text": " der er lidt påpasselige, fordi de vil helst ikke træde deres forhandlere over tæerne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 122.0,
       "end": 125.0,
       "text": " De vil jo gerne have, at de også skaber salg, og de ved jo udmærket godt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 125.0,
       "end": 129.0,
       "text": " at salgene på brand searches af dem, eller besøgende med brand searches,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 129.0,
       "end": 131.0,
       "text": " er typisk dem, der konverterer allerbedst.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 131.0,
       "end": 136.0,
       "text": " Så for ikke at trække det væk fra forhandlen, så gør man det lidt sværere for sig selv,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 136.0,
       "end": 140.0,
       "text": " kan man sige, med så at skulle hente de her salg på mere generiske søgetermer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 140.0,
       "end": 143.0,
       "text": " hvor konverteringsretten jo bare er det lavere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 143.0,
       "end": 147.0,
       "text": " Så når du stiller spørgsmål her, hvad vil jeg gøre i det her tilfælde?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 147.0,
       "end": 150.0,
       "text": " Altså konsulentsvarer, det er altid, det kommer an på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 150.0,
       "end": 152.0,
       "text": " Men hvad kommer det an på?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.0,
       "end": 155.0,
       "text": " Jamen det kommer netop an på, hvor meget rum er der oppe i den her eksponeringsandel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 155.0,
       "end": 157.0,
       "text": " så hvordan ser det egentlig ud i auktionsindsigten?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 157.0,
       "end": 159.0,
       "text": " Er der stor konkurrence? Er der plads til at tage mere?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 159.0,
       "end": 164.0,
       "text": " Og så er det lidt rent strategisk om, vil man gerne nappe de her lettestsalg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 164.0,
       "end": 166.0,
       "text": " i stedet for at forhandlerne får dem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 166.0,
       "end": 168.0,
       "text": " Så skal man jo nok gøre op med sig selv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 168.0,
       "end": 172.0,
       "text": " Altså man skal nok forvente, at de bestillinger, der kommer fra sine forhandlere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 172.0,
       "end": 176.0,
       "text": " bliver potentielt set lidt mindre hen ad vejen, fordi at de ikke får de her billige salg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 176.0,
       "end": 179.0,
       "text": " men hvis du selv tjener det mere på dem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 179.0,
       "end": 182.0,
       "text": " Altså det er sådan en strategisk overvejelse, og jeg forstår den faktisk godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 182.0,
       "end": 185.0,
       "text": " Ja, og det handler jo også om, hvorfor har du i det her specifikke tilfælde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.0,
       "end": 187.0,
       "text": " nu kommer vi til at sætte B2B senere, men hvorfor har du forhandlere?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.0,
       "end": 190.0,
       "text": " Fordi hvis det er dig som brand, der skaber interessen omkring brandet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 190.0,
       "end": 193.0,
       "text": " det gør dine forhandlere nok ikke, det sætter det bare på tilbud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 193.0,
       "end": 197.0,
       "text": " Det er jo dig, der skaber interessen. Hvorfor så egentlig give brandet de nemme konverteringer?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 197.0,
       "end": 199.0,
       "text": " Jeg tænker som brand, hvis man skal have forhandlere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 199.0,
       "end": 202.0,
       "text": " årsagen til at man skal have Zalando og Booster og alle de andre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 202.0,
       "end": 204.0,
       "text": " det er jo fordi man skal sælge noget, man ikke havde solgt i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 204.0,
       "end": 207.0,
       "text": " At give dem halvdelen af ens teknisk bidrag, og lade dem sælge det tøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 211.0,
       "text": " eller det møbler, eller hvad det nu er, som du selv har skabt efterspørgsel på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 211.0,
       "end": 212.0,
       "text": " det er der vel ikke nogen grund til at gøre?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 212.0,
       "end": 217.0,
       "text": " Nej, og jeg tror mange går ind til en forhandling, eller forhandler aftale,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 217.0,
       "end": 220.0,
       "text": " med de intentioner, og med det drømmescenarie.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 220.0,
       "end": 224.0,
       "text": " Men ofte så går der et halvt år, et år, og så pludselig bliver man afhængig af det cashflow,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 224.0,
       "end": 226.0,
       "text": " som der kommer fra de her forhandlere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 226.0,
       "end": 229.0,
       "text": " Og så er det pludselig et helt andet perspektiv, man har på det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 229.0,
       "end": 231.0,
       "text": " for man har helst ikke mistet dem, man har egentlig glemt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 231.0,
       "end": 233.0,
       "text": " hvad det egentlig var, der var grunden til, at de kom ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 233.0,
       "end": 236.0,
       "text": " Man kan bare se, at man sender nogle store fakturer en gang imellem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 236.0,
       "end": 240.0,
       "text": " eller man sender nogle store fakturer til dem, hvor man så får betaling for dem bagefter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 240.0,
       "end": 244.0,
       "text": " og det cashflow, der er der, er ligesom blevet medregnet i ens daglige drift.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 244.0,
       "end": 246.0,
       "text": " Og det er her, hvor jeg kan se, at den knækker for mange.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 246.0,
       "end": 248.0,
       "text": " Fordi så ryger idéen nemlig, som du selv siger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 248.0,
       "end": 250.0,
       "text": " Virksomheden, jeg har talt med her, har svaret på det her spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 255.0,
       "text": " Hvis vi kan få flere penge i absolute kroner ud af at bruge flere penge på vores eget brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 256.0,
       "text": " så skal vi bare gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 256.0,
       "end": 258.0,
       "text": " Vi har ikke noget beskyttelseshensyn over for vores forhandlere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 258.0,
       "end": 260.0,
       "text": " De må selv skabe salg på vores produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 261.0,
       "text": " Det er det, de er der for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 261.0,
       "end": 264.0,
       "text": " Så det er jo sådan rimelig afslappet omkring det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.0,
       "end": 268.0,
       "text": " Så der kommer vi til at lave en anbefaling, der hedder, at lad os bruge flere penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 268.0,
       "end": 272.0,
       "text": " Gælder det også, hvis det er konkurrenter, der byder ind og jo ikke sælger ens eget produkt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 272.0,
       "end": 274.0,
       "text": " Hvad vil du gøre i det tilfælde?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.0,
       "end": 276.0,
       "text": " Igen, du er consumer-orienteret, og der er konkurrenter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.0,
       "end": 281.0,
       "text": " Du er jo selv ikke bange for at gå ind og køre lidt braindead konkurrence Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 281.0,
       "end": 283.0,
       "text": " Hvad vil du gøre, hvis nogen gør det for dig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 283.0,
       "end": 285.0,
       "text": " Jeg gør jo ikke noget, som min kunde ikke beder mig om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 285.0,
       "end": 287.0,
       "text": " Men jeg har da testet det, det har jeg da.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 287.0,
       "end": 292.0,
       "text": " Og jeg tror, jeg ville lade det komme lidt an på, hvad man ser i sin egen data.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 292.0,
       "end": 297.0,
       "text": " Hvis man selv formår at konvertere rigtig, rigtig flot på andre konkurrenters brand searches,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 297.0,
       "end": 303.0,
       "text": " så vidner det på en eller anden måde om, at forbrugerne måske har lidt svært ved at se forskel på de her brands her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 303.0,
       "end": 309.0,
       "text": " Og hvis det er et tilfælde, så ser jeg ikke en anden vej end rent faktisk at gå ind og byde op på sit eget brand,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 309.0,
       "end": 313.0,
       "text": " og så simpelthen bruge flere penge på det for at være lidt defensiv i det her play her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 313.0,
       "end": 317.0,
       "text": " Men der er altså også andre tilfælde, hvor det slet ikke kan betale sig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 317.0,
       "end": 319.0,
       "text": " Der vil jeg sige, kig på din egen data.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 319.0,
       "end": 325.0,
       "text": " Formår du at konvertere på dine konkurrenters brand searches, så bliver du sgu nok også nødt til selv at være lidt defensiv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 325.0,
       "end": 330.0,
       "text": " Og det gode ved at være defensiv på Google Ads, det er jo, at man skal typisk selv betale et mindre beløb for at byde på ens eget brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 335.0,
       "text": " end konkurrenterne skal, fordi man selv vil have en højere kvalitetsscore, og de vil have en lavere kvalitetsscore.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 335.0,
       "end": 341.0,
       "text": " Så man kan sige, at det er billigere for dig at beskytte dit brand end det er for en konkurrent at byde ind på brandet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 341.0,
       "end": 343.0,
       "text": " I begge tilfælde vinder Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 343.0,
       "end": 345.0,
       "text": " Altså, det skal der ikke være nogen tvivl om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 345.0,
       "end": 350.0,
       "text": " Alphabet tjener penge uanset hvad, men du kan glæde dig over, at den dumme byde du skal betale er mindre end den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 350.0,
       "end": 352.0,
       "text": " din konkurrent skal betale, hvis de byder dig op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 352.0,
       "end": 356.0,
       "text": " Men på en eller anden måde, så er det et arms racer og sådan en internetskat, man effektivt er nødt til at betale,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 356.0,
       "end": 359.0,
       "text": " fordi et brandanalysering er til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 360.0,
       "end": 365.0,
       "text": " Nu er det en B2B virksomhed i stedet for, så det er måske nogen, der sælger en professional service,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 365.0,
       "end": 369.0,
       "text": " så det kan være, at det er nogle konsulenter, eller det kan være, at det er noget B2B SAS eller et eller andet stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 372.0,
       "text": " Du arbejder med dem, de kommer til dig og siger, kan vi ikke bruge nogle flere penge på vores brand?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 374.0,
       "text": " Hvad ville du så tænke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 374.0,
       "end": 375.0,
       "text": " Jo, gerne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 375.0,
       "end": 382.0,
       "text": " Issue er bare her ofte, at der ikke er særlig mange brandsearchers at tage fra, så det er nærmest umuligt at skrue op derfor.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 382.0,
       "end": 384.0,
       "text": " Jeg kan kun...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 384.0,
       "end": 388.0,
       "text": " Ofte så ser vi, at der ligger nogle konkurrenter og driller lidt hinanden i B2B space,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 388.0,
       "end": 390.0,
       "text": " for det er så billigt at ligge på hinandens brands,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 390.0,
       "end": 394.0,
       "text": " og det er ikke alle, der gider at ligge på sit eget brand, fordi man ligger der alligevel rent seo-mæssigt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 394.0,
       "end": 396.0,
       "text": " altså rent organisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 396.0,
       "end": 400.0,
       "text": " Og jeg vil sige, at i det tilfælde, i og med at det er så billigt at have en definitiv strategi, der ligger der,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 400.0,
       "end": 403.0,
       "text": " så vil jeg nok gøre det, men generelt set, så tror jeg egentlig, at jeg vil vende spørgsmålet om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 403.0,
       "end": 406.0,
       "text": " og så sige, at det her handler ikke om at bruge flere penge på brandsearchers,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 406.0,
       "end": 409.0,
       "text": " det handler faktisk mere om at skabe flere brandsearchers.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 409.0,
       "end": 414.0,
       "text": " Det er i hvert fald den hovedpine, de fleste B2B-forretninger, som jeg har arbejdet med, sidder med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 414.0,
       "end": 415.0,
       "text": " Der er simpelthen ikke nok søgninger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 415.0,
       "end": 418.0,
       "text": " Nej, så man vil jo gerne skrue op på branden, hvorfor skruer du ikke op på branden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 420.0,
       "text": " jeg kan ikke bruge flere penge på det, for den forfører brandsøgninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 426.0,
       "text": " Bad news, du skal op i fonden og turde investere i noget, der ikke nødvendigvis kan måles sådan fuldstændig på den korte bane.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 430.0,
       "text": " Jeg kan sige for vores egen Google Ads i Obsidian, vi byder ikke særlig hårdt ind på vores eget brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 433.0,
       "text": " og det er ud fra en tankegang om, at hvis folk de søger Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 436.0,
       "text": " så er det nok forhåbentlig også de interesserede, jeg arbejder med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 438.0,
       "text": " og så skal de nok finde ind på siden og lykkes med at kommentere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 439.0,
       "text": " Men der er undtagelser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 442.0,
       "text": " Så i de perioder, hvor to, tre eller fire andre beruger har puttet ind på dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 445.0,
       "text": " hvor man jo nærmest skulle holde en halv side ned for overhovedet at finde os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 448.0,
       "text": " der har vi været inde og bydet ind på vores brand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 448.0,
       "end": 450.0,
       "text": " Og så har jeg til gengæld også oplevet, at når vi gør det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 453.0,
       "text": " jeg kan jo se, at der er to andre beruger, der gør det lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 456.0,
       "text": " Kynetik og SEO har jeg jo ikke skulle finde noget andet at byde ind på, venner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " Men i de perioder, hvor vi har gjort det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 465.0,
       "text": " der har jeg så også oplevet, at det minsker mængden af konkurrerende Google Ads annoncer på vores eget brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 468.0,
       "text": " måske fordi vi gør det for dyrt for dem at byde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 468.0,
       "end": 470.0,
       "text": " Tror du, det er det, der gør det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 470.0,
       "end": 472.0,
       "text": " Ja, det kunne det sagtens være.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 472.0,
       "end": 476.0,
       "text": " Det afhænger også lidt af, hvilke budstrategier de har lagt i deres konti.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 480.0,
       "text": " Og det er klart, at efter noget tid, hvis det bliver for dyrt, og de ikke får nogen konvertering,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 480.0,
       "end": 481.0,
       "text": " så bliver de jo nødt til at trække sig for den auktion.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Det sker jo helt automatisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 483.0,
       "end": 485.0,
       "text": " Så ja, helt sikkert.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 485.0,
       "end": 488.0,
       "text": " Hvis vi kan gøre det lidt dyrere for dem, og de ikke får resultaterne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 488.0,
       "end": 490.0,
       "text": " så kommer de til at trække sig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 490.0,
       "end": 492.0,
       "text": " Uanset om de sidder manuelt med det, det tror jeg nu ikke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 492.0,
       "end": 494.0,
       "text": " eller de sidder med nogle automatiske budstrategier.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 494.0,
       "end": 496.0,
       "text": " Den her podcast, den burde være sponsoreret af Google,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 496.0,
       "end": 499.0,
       "text": " fordi det vi i virkeligheden er kvitteret for, det er, at du burde bruge flere penge på dit eget brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 500.0,
       "text": " end det gælder for dig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 500.0,
       "end": 502.0,
       "text": " Og jeg ved bare, der kommer til at sidde nogle lytter derude og tænke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 502.0,
       "end": 505.0,
       "text": " ja, Tino han arbejder med Google Ads blandt andet til dagligt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " Jamen det, ja, ja, ja, ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 507.0,
       "end": 512.0,
       "text": " Hvordan går alle dine alfabet-aktier, som du her i weekenden har smidt hele din formue i,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 514.0,
       "text": " tænker jeg, er det dem, du prøver lige at pumpe en lille smule op her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 514.0,
       "end": 517.0,
       "text": " Det var sjovt nok mig, der kom med idéen til den her episode.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 517.0,
       "end": 519.0,
       "text": " Jeg har den, jeg har den alfabet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 519.0,
       "end": 521.0,
       "text": " Du burde bruge flere penge på Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 526.0,
       "text": " Jeg tror, en reality er der rent faktisk, der er virkelig mange virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 529.0,
       "text": " som bruger en for stor andel af deres budget på Google Ads i forvejen, tror jeg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 531.0,
       "text": " Det er en af mine kongstanker om digital marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 531.0,
       "end": 535.0,
       "text": " Det er, at der er en overinvestering i bunden af fonden på de ting, man kan måle,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 538.0,
       "text": " fordi der er mange, der ikke er sofistikeret nok til at måle på de ting i opperfonden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 543.0,
       "text": " som rent faktisk virker, men bare ikke kan måles med en 7-days-click-class-klik-tilskrivningsmetode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 547.0,
       "text": " Så jeg tror generelt, der er mange virksomheder, der burde bruge færre penge på Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 547.0,
       "end": 550.0,
       "text": " end de gør, og de burde bruge flere penge på det, der skaber interessen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 550.0,
       "end": 553.0,
       "text": " Det kan være meta, eller online video, eller fysiske arrangementer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 558.0,
       "text": " eller I don't know, det kan være alle mulige ting, men typisk noget af det, du nok vil måle mindst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 558.0,
       "end": 561.0,
       "text": " Med det, hvor brandundersøgningen kan da godt være en undtagelse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " ud fra de perspektiver, vi har snakket om i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 567.0,
       "text": " Tusind tak fordi du lyttede med til dagens episode. På genhør mandag kl. 06.00.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

@@ -9,5375 +9,5379 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian, halvstand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 8.0,
       "text": " Vi har, siden Marketingpods begyndelse, lavet episoder mandag og torsdag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 8.0,
       "end": 10.0,
       "text": " Vi er nødt til at lave den første nye episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 13.0,
       "text": " Det her, det er en emergency podcast.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 23.0,
       "text": " Og årsagen til, at vi er nødt til at lave en emergency podcast, det er, at vi har begge to lige brugt den sidste halvanden time på at se OpenAI's livestream med ChatGBT5.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 27.0,
       "text": " Og Christian, jeg ved, du skulle have brugt din aften med din kæreste i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 28.0,
       "text": " Det kommer du ikke til at gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 28.0,
       "end": 34.0,
       "text": " Jeg vil gerne sige undskyld på forhånd til Laura for, at jeg er nødt til at sælge dig op på kontoret til at lave en emergency podcast.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.0,
       "end": 38.0,
       "text": " Men det her, det var jo potentielt en af de vigtigste ting, der er sket i år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 38.0,
       "end": 41.0,
       "text": " Og det sjove er, at jeg kan se, at vi har to helt forskellige opgaver.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 41.0,
       "end": 43.0,
       "text": " Fordi jeg har siddet nede i min kælder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 43.0,
       "end": 47.0,
       "text": " Jeg har siddet på min cykel og hygget, mens jeg har chromecastet op på skærmen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 51.0,
       "text": " Og det betyder, at jeg har ikke set kommentarer på YouTube, mens det her er sket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.0,
       "end": 53.0,
       "text": " Du har siddet og set det på din computer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 53.0,
       "end": 55.0,
       "text": " Du har haft kommentarfeltet slået til på YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 55.0,
       "end": 60.0,
       "text": " Kan du ikke lige fortælle, hvad er folks stemning på ChatGBT5, før vi går i gang med den her episode?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 60.0,
       "end": 63.0,
       "text": " Stemningen omkring den måde, det er blevet præsenteret på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 63.0,
       "end": 64.0,
       "text": " Der var ikke god stemning. Lad os sige det sådan.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 64.0,
       "end": 65.0,
       "text": " Der var rigtig negative stemning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.0,
       "end": 67.0,
       "text": " Det er klassisk internet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.0,
       "end": 71.0,
       "text": " Du kommer med et kæmpe nye model, og det er den bedste på alle benchmarks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 71.0,
       "end": 72.0,
       "text": " Og alle de der ting, som vi kommer ind på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 72.0,
       "end": 74.0,
       "text": " Og folk er pissesure i kommentarfeltet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 74.0,
       "end": 76.0,
       "text": " De er sælte over.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 76.0,
       "end": 80.0,
       "text": " Og du ved, det kunne have været Jesus Kristus, der steg ned fra himlen og forvandlede vand til vin.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 84.0,
       "text": " Og de havde stadig været utilfredse med et eller andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 84.0,
       "end": 86.0,
       "text": " Det eneste, der har været, er folk på Reddit og TikTok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 86.0,
       "end": 88.0,
       "text": " Lad os komme i gang med episoden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 88.0,
       "end": 92.0,
       "text": " Det her skal være alt, du har brug for at vide om OpenAI's ChatGBT5.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 92.0,
       "end": 95.0,
       "text": " Hvis du ikke har siddet og brugt den sidste halvanden time på at se OpenAI's livestream.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 95.0,
       "end": 101.0,
       "text": " Fordi det var til tider faktisk en lille smule kedeligt, hvis du skal give folk i YouTubes kommentarfelt ret i noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 101.0,
       "end": 103.0,
       "text": " Men der var altså virkelig nogle spændende ting omkring det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 106.0,
       "text": " Så lad os bare starte fra begyndelsen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 106.0,
       "end": 109.0,
       "text": " Hvad er ChatGBT5?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 109.0,
       "end": 112.0,
       "text": " Det er den femte version af ChatGBT, siger sig selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 112.0,
       "end": 114.0,
       "text": " Den fjerde version, det ved jeg ikke, om du kan huske, Tino.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 114.0,
       "end": 116.0,
       "text": " ChatGBT4 kom 14. marts 2023.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 116.0,
       "end": 118.0,
       "text": " Det er faktisk mere end to år siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 118.0,
       "end": 120.0,
       "text": " Nå, okay. Hold op, tiden den går stærkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 120.0,
       "end": 122.0,
       "text": " Det gør den, ikke?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 126.0,
       "text": " Jeg troede faktisk, det var en fejl, at du havde skrevet det i noten af 2023.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 126.0,
       "end": 128.0,
       "text": " Nej, jeg var inde og tjekke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 128.0,
       "end": 133.0,
       "text": " Vi har jo så fået vores reasoning-modeller O1, O2 og O3-modellerne i mellemtiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 133.0,
       "end": 135.0,
       "text": " Det kommer vi lige tilbage til, hvad forskellen er her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 135.0,
       "end": 137.0,
       "text": " Men det er faktisk to år siden, vi har fået en ny ChatGBT-lancering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 142.0,
       "text": " Det betyder jo også, at forventningerne til ChatGBT5 har jo været skruet helt sindssygt op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 142.0,
       "end": 148.0,
       "text": " Det er højere end forventningerne til hvilken som helst aktie, du køber, som så falder efterfølgende, når de afleverer regnskab.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 149.0,
       "text": " Sidenote.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 149.0,
       "end": 151.0,
       "text": " Du skrev til mig her den anden dag, at du overvejede at købe Klæbio.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 151.0,
       "end": 153.0,
       "text": " Valgte ikke at gøre det, og hvad skete der så med aktien?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 153.0,
       "end": 156.0,
       "text": " Den steg så 18 procent dagen efter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 156.0,
       "end": 158.0,
       "text": " Jeg havde ordren klar.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 158.0,
       "end": 160.0,
       "text": " Jeg havde sendt speakerne, jeg havde lagt...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 160.0,
       "end": 162.0,
       "text": " Eller ikke, jeg havde lagt ordren.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 162.0,
       "end": 164.0,
       "text": " Det er Christian Signuld Nemmer-message.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 165.0,
       "end": 166.0,
       "text": " Det er helt fantastisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 168.0,
       "text": " ChatGBT5, det er den femte version af ChatGBT.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 168.0,
       "end": 171.0,
       "text": " Det er over to år siden, vi har fået en decideret ny version.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 171.0,
       "end": 175.0,
       "text": " Og noget, der er vigtigt at sige til at starte med, det er, at den erstatter alle tidligere modeller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 175.0,
       "end": 180.0,
       "text": " Så indtil nu, så har OpenAI jo haft den her lidt fucked-up navngivningsstrukturer, hvor du har haft",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 180.0,
       "end": 185.0,
       "text": " GBT 4.0, 4.1, 4.5, 0.1, 0.1 Pro, 0.3.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.0,
       "end": 188.0,
       "text": " Og jeg har sikkert glemt noget der, som du skulle sidde og vælge imellem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 193.0,
       "text": " Og man skulle faktisk hver eneste opgave, man satte ind, sidde og vælge imellem, hvilken model skal løse den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 193.0,
       "end": 195.0,
       "text": " Og hvis du valgte forkert, så fik du bare et meget dårligere resultat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 195.0,
       "end": 199.0,
       "text": " Hvilke UX-mæssige har været en lille katastrofe, og de bliver erstattet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 199.0,
       "end": 202.0,
       "text": " Og jeg vil sige, at alle de ting vi kommer til at snakke om, jeg tror faktisk, det her er en af de ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 202.0,
       "end": 205.0,
       "text": " der kommer til at gøre den største forskel for den almindelige bruger af ChatGBT.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 205.0,
       "end": 210.0,
       "text": " Enig, jeg føler selv, jeg bruger ChatGBT ret meget, og jeg kan stadigvæk komme rigtig meget i tvivl om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 210.0,
       "end": 215.0,
       "text": " Den her prompt, jeg giver den, eller det her spørgsmål, eller det jeg nu gerne vil have den til at gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 215.0,
       "end": 220.0,
       "text": " Skal jeg bruge O3 her? Skal jeg bruge 4O? Skal jeg bruge 4O mini? Hvad fanden skal jeg lige bruge?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 220.0,
       "end": 224.0,
       "text": " Ej, det er nok den bedste nyhed, det her. Det er bare at kunne vælge 5'eren, og så er det det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 224.0,
       "end": 228.0,
       "text": " Det er nemlig det, for nu er det implementeret og øjebliklet det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 228.0,
       "end": 234.0,
       "text": " Det er ChatGBT 5, og så forklarede de under livestreamet, at ChatGBT vil faktisk selv gå ind og vurdere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 237.0,
       "text": " at det her er et svar, som jeg kan svare på meget hurtigt, eller skal jeg lige tænke lidt over det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 237.0,
       "end": 242.0,
       "text": " Du kan godt bede dem om det. Jeg lagde mærke til, at i mange prompts, som de viste på skærmen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 248.0,
       "text": " så sagde de, at det var deres måde at sige, at du går i gang med reasoning og tænker lidt over det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 248.0,
       "end": 251.0,
       "text": " Så du kan simpelthen bede dem om at tænke over det, og så gør den det i et par minutter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 255.0,
       "text": " Men ellers er det slut med, at du skal vælge, om den skal være hurtig eller god.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 257.0,
       "text": " Nu gør den det selv, baseret på dit prompt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.0,
       "end": 262.0,
       "text": " Og jeg tror, at der er så mange, der bruger ChatGBT, der bare vælger standardmodellen, uden at tænke yderligere over det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 262.0,
       "end": 266.0,
       "text": " Og jeg kan huske, at Lise, min hustru, som arbejder som advokat, hun lavede et vidit LinkedIn-nyhedsbrev,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 266.0,
       "end": 273.0,
       "text": " hvor hun testede to modeller på ChatGBT, og så Manus, i forhold til et ansættelsesretlig spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 273.0,
       "end": 278.0,
       "text": " Og det var, hvorvidt man måtte opsige en gravid medarbejder under nogle specifikke forhold,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 280.0,
       "text": " fordi hun arbejdede med ansættelsesret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 283.0,
       "text": " Og det svar, som ChatGBT 03 gav, det var i stort skræk rigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 283.0,
       "end": 287.0,
       "text": " Det svar, som ChatGBT 04 gav, det havde kostet 12 måneder af godtgørelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 287.0,
       "end": 292.0,
       "text": " Det er et kæmpe forskel på de to modeller, og jeg tror, at der er så mange, der har valgt standardmodellen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 292.0,
       "end": 295.0,
       "text": " Så det her i sig selv, det er faktisk en ret stor ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 296.0,
       "text": " Så havde de en sjov formulering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 296.0,
       "end": 300.0,
       "text": " De sagde, at ChatGBT 04 er som at snakke med en college student,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 303.0,
       "text": " altså det, vi kan oversætte til en gymnasiestuderende, tror jeg på dansk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 303.0,
       "end": 308.0,
       "text": " hvor at det at snakke med ChatGBT 05 skal være at snakke til et team af Ph.D.-studerende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 308.0,
       "end": 311.0,
       "text": " Lader du mærke til den? Det var sådan en lidt sjov formulering. Hvad betyder det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 311.0,
       "end": 314.0,
       "text": " Ja, det er et godt spørgsmål, og lad du i samme omværing mærke til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 314.0,
       "end": 319.0,
       "text": " at de viser jo på et tidspunkt de her benchmarks, de ligesom ligger og tester de her modeller op mod.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 319.0,
       "end": 321.0,
       "text": " Og nu er det simpelthen kommet så højt op på skalaen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 321.0,
       "end": 325.0,
       "text": " at de ligger og vipper mellem med 98 ud af 100 eller 99 ud af 100,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 325.0,
       "end": 328.0,
       "text": " at nu bliver de nødt til at finde på noget nyt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 328.0,
       "end": 331.0,
       "text": " Og så kommer jeg til at tænke på her, hvad er over Ph.D.-studerende?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 331.0,
       "end": 336.0,
       "text": " Altså, hvad er næst? Er det så endnu flere Ph.D.-studerende, eller er det...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 336.0,
       "end": 338.0,
       "text": " Hvor er vi henne? Det går for stærkt jo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 342.0,
       "text": " Det bliver sådan, lige nu har du et team af europæiske Ph.D.-studerende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 342.0,
       "end": 344.0,
       "text": " men lige nu så får du sådan kinesiske.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 344.0,
       "end": 346.0,
       "text": " Kan du huske den der big shot, hvor det siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 347.0,
       "end": 349.0,
       "text": " He doesn't speak English.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 351.0,
       "end": 353.0,
       "text": " Det er som om det er gået for stærkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.0,
       "end": 355.0,
       "text": " Ej, altså det var sådan deres formulering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 359.0,
       "text": " Den var lidt vittig, det finder vi ud af, når vi rent faktisk begynder at bruge modellen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 359.0,
       "end": 363.0,
       "text": " Christian, lad os starte med de ting, som ChatGPT 5 løser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 363.0,
       "end": 367.0,
       "text": " Fordi vi har skrevet nogle ting ned, som den her kommer til at gøre bedre end ChatGPT 4,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 367.0,
       "end": 370.0,
       "text": " hvor den løser nogle af de udfordringer, vi faktisk har haft med den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 370.0,
       "end": 373.0,
       "text": " Og jeg vil gerne starte med en, som jeg synes er rigtig interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 375.0,
       "text": " Den ene af de ting, de selv lagde væk på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 375.0,
       "end": 380.0,
       "text": " det er, at de vurderer, at ChatGPT 5 i store træk har elimineret hallucinationer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 380.0,
       "end": 383.0,
       "text": " Og det var faktisk noget, de kom ind på flere gange under det her livestream.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 383.0,
       "end": 386.0,
       "text": " Og hallucinationer, det er, når ChatGPT siger noget, der er forkert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 386.0,
       "end": 389.0,
       "text": " Så det er, at du stiller den et spørgsmål, og den ved det ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 390.0,
       "text": " og så finder den bare på noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 390.0,
       "end": 394.0,
       "text": " Fordi man kan sige, modellen fungerer jo ved at gætte næste ord, basically.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 394.0,
       "end": 396.0,
       "text": " Og det gør den altså, uanset om den ved det eller ej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 396.0,
       "end": 398.0,
       "text": " Den ved ikke selv, om den ved det, så at sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 401.0,
       "text": " Det gør den, når vi får general super intelligence,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 403.0,
       "text": " og robotterne overtager Skynet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 403.0,
       "end": 406.0,
       "text": " og I for one welcome our new robotic overlords, i øvrigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 409.0,
       "text": " Men den ved ikke, når den selv har fejl.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " Og det har ført til de her hallucinationer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " hvor du kan stille den nogle spørgsmål, og så giver den dig et svar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 414.0,
       "text": " Og det er helt forkert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 414.0,
       "end": 418.0,
       "text": " Og det siger OpenAI, det her skal vi stort set have elimineret nu i den nye model,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 419.0,
       "text": " hvilket vil være en kæmpe ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 422.0,
       "text": " Fordi for eksempel, når vi arbejder med Programmatic SEO i Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 425.0,
       "text": " så er en ret stor del af vores arbejde, det er at minske hallucinationer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 427.0,
       "text": " så teksten, der kommer ud, ikke siger ting, der er forkert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 429.0,
       "text": " Og det har faktisk været en stor udfordring for os gennem tiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 430.0,
       "text": " Vi har mange løsninger på den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 432.0,
       "text": " men det har været en ting, vi virkelig skulle være opmærksomme på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 432.0,
       "end": 434.0,
       "text": " Og lige præcis tekstproduktion var jo faktisk noget af det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 434.0,
       "end": 436.0,
       "text": " de gik i dybden med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 436.0,
       "end": 437.0,
       "text": " De kan jo godt se, at det er det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 437.0,
       "end": 439.0,
       "text": " som der er rigtig mange, der bruger ChatGBT til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " Og det var i den forbindelse blandt andet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " hvor de her hallucinationer blev nævnt i ombæring,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " i samme ombæring som tekstforfatningen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 445.0,
       "end": 446.0,
       "text": " Det er præcis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 446.0,
       "end": 450.0,
       "text": " En anden ting, som de faktisk brugte en del tid på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 450.0,
       "end": 451.0,
       "text": " det var kodning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " Og det er måske derfor, at mange syntes,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " at præstationen kunne blive lidt langdragende,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 455.0,
       "end": 459.0,
       "text": " fordi jeg forstår ikke særlig meget kode.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " Og de brugte rigtig lang tid på at vise,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 461.0,
       "end": 463.0,
       "text": " hvordan den er blevet markant bedre til at kode.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " Og det lyder super fedt, alt det, de snakkede om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 465.0,
       "end": 468.0,
       "text": " Jeg er sgu ikke helt sikker på, at jeg forstår 100%,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 468.0,
       "end": 470.0,
       "text": " hvor det er, at den er blevet markant bedre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 470.0,
       "end": 472.0,
       "text": " Det kan være, du kan gøre mig klogere på det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 472.0,
       "end": 474.0,
       "text": " Men nogle af de ting, de viste,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 474.0,
       "end": 476.0,
       "text": " altså de live-demo'er derinde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 478.0,
       "text": " det var faktisk ret imponerende, synes jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 478.0,
       "end": 480.0,
       "text": " Ja, hvordan den bygger apps og programmer ved, at du prompter den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Jeg tror, hvis jeg skal tilføje en lille smule kontekst her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 482.0,
       "end": 484.0,
       "text": " jeg tror, hvis man læser imellem linjerne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 486.0,
       "text": " så er folk, der rent faktisk udvikler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 486.0,
       "end": 488.0,
       "text": " der er ingen af dem, der bruger ChatGPT til at kode i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 488.0,
       "end": 489.0,
       "text": " Det er der ingen, der gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 489.0,
       "end": 491.0,
       "text": " Altså alle, der udvikler, de er næsten alle,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " sådan standardmodellen for udviklere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 496.0,
       "text": " der bruger cursor og virkelig AI-koder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 496.0,
       "end": 498.0,
       "text": " det er Claude for Anthropic.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 498.0,
       "end": 501.0,
       "text": " Og det næste bedste, som i nogle perioder faktisk også er bedst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 503.0,
       "text": " det er Gemini 2.5 fra Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Det er de to modeller, som man bruger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " Claude og Gemini 2.5.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 509.0,
       "text": " Og koden med ChatGPT har lidt været en joke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.0,
       "end": 511.0,
       "text": " fordi de simpelthen bare falder bagud på det her område.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 511.0,
       "end": 513.0,
       "text": " Så jeg tror, årsagen til, at det brugte så meget tid på det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 513.0,
       "end": 516.0,
       "text": " det er, fordi det er en af de allerstørste use cases lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 516.0,
       "end": 518.0,
       "text": " Og Anthropic som virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 518.0,
       "end": 520.0,
       "text": " som er den anden største AI-virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 520.0,
       "end": 523.0,
       "text": " målet på omsætning, vokser i nogle perioder hurtigere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " end åben AI gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 525.0,
       "end": 527.0,
       "text": " Og det er simpelthen, fordi de har udviklingscommunityet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 527.0,
       "end": 529.0,
       "text": " som er betalingsvillige og kæmper stort med sig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 531.0,
       "text": " Så jeg tror, når de lager så stor vægt på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 531.0,
       "end": 533.0,
       "text": " så er det, fordi kodning er faktisk en af de ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 533.0,
       "end": 535.0,
       "text": " ChatGPT røg lidt bagud på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " som de andre, som man har været bedre til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 538.0,
       "text": " Og jeg tror, de kan godt se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 540.0,
       "text": " at der ligger nogen med pengene.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 540.0,
       "end": 542.0,
       "text": " Pengene ligger ikke i folk, der spørger ChatGPT til råd,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 542.0,
       "end": 543.0,
       "text": " hvis det er deres kærlighedsliv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " Det ligger i kodning og i business applications.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 545.0,
       "end": 547.0,
       "text": " Så jeg tror også, der var et endnu større fokus på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " fordi der er ikke nogen seriøse udviklere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " det sidste halve til hele år, der har brugt ChatGPT",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 552.0,
       "text": " til at lave noget som helst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 554.0,
       "text": " Det tror jeg egentlig også, du har ret i,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 554.0,
       "end": 556.0,
       "text": " når man lige tænker tilbage på præsentationen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 556.0,
       "end": 558.0,
       "text": " Fordi det var altså meget tid, der gik med lige præcis det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 558.0,
       "end": 560.0,
       "text": " Og de havde sådan en linje, de sagde igen og igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 560.0,
       "end": 562.0,
       "text": " ChatGPT er nu den bedste agent, der er gode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 562.0,
       "end": 563.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " Den bliver sådan gentaget suspiciously mange gange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 567.0,
       "text": " Det er sådan...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 570.0,
       "end": 572.0,
       "text": " Men sådan, uha. Nå, igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 575.0,
       "text": " Hvad kom de ellers med af ting, som den har forbedret",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " i forhold til ChatGPT 4?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 579.0,
       "text": " Jamen, noget af det, som jeg synes er rigtig fedt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 579.0,
       "end": 581.0,
       "text": " det er, at den simpelthen er blevet hurtigere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 581.0,
       "end": 582.0,
       "text": " Den er blevet markant hurtigere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 582.0,
       "end": 584.0,
       "text": " Og det er altså noget, vi godt kan lide.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 584.0,
       "end": 586.0,
       "text": " Fordi jeg synes nu egentlig også,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 586.0,
       "end": 588.0,
       "text": " den er hurtig den dag i dag.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 588.0,
       "end": 590.0,
       "text": " Men nu er den blevet exceptionel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 590.0,
       "end": 592.0,
       "text": " Og det er jo noget af det, som vi kommer til at kunne mærke",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 592.0,
       "end": 594.0,
       "text": " i det daglige, hvis man benytter sig af ChatGPT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 594.0,
       "end": 596.0,
       "text": " som et element til sine opgaver.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 596.0,
       "end": 597.0,
       "text": " Ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 597.0,
       "end": 599.0,
       "text": " Så den bed jeg mærke i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 599.0,
       "end": 600.0,
       "text": " Klart, plain and simple.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 601.0,
       "text": " Hurtigere jo hurtigere, den er jo flere ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 601.0,
       "end": 603.0,
       "text": " kommer vi til at bruge den til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 605.0,
       "text": " Så nævnte de specifikt, at den skulle være bedre til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 607.0,
       "text": " ikke at skrive AI-agtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 609.0,
       "text": " Så de lavede sådan en sammenligning, hvor at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 611.0,
       "text": " O3 og ChatGPT 4 og ChatGPT 5",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 613.0,
       "text": " så havde skrevet en tekst, og den tekst var jo",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 613.0,
       "end": 615.0,
       "text": " et nekrolog over de gamle GPT-modeller,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 615.0,
       "end": 617.0,
       "text": " som bliver fjernet nu, depreciated,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 617.0,
       "end": 619.0,
       "text": " som det hedder, i forbindelse med, at GPT 5 kommer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 620.0,
       "end": 622.0,
       "text": " Hvor de havde nogle eksempler på formuleringen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 624.0,
       "text": " fra de gamle modeller, som lød sådan lidt AI-agtige",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " i forhold til den nye model, som var meget mere flydende",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 628.0,
       "text": " og mindre AI-agtig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 628.0,
       "end": 630.0,
       "text": " Det finder vi ud af, om det rent faktisk er tilfældet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 632.0,
       "text": " og det håber jeg det er, for det er jo en af de ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 632.0,
       "end": 634.0,
       "text": " vi godt kan lide at gøre grin med i podcastet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " Det er folk, der går ind på LinkedIn",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 638.0,
       "text": " og skriver raket-emoji.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 638.0,
       "end": 640.0,
       "text": " Jeg er glad og stolt over at kunne annoncere min nye titel",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 640.0,
       "end": 642.0,
       "text": " som tømmerelev hos HB Svansens Tømmerhandel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 642.0,
       "end": 644.0,
       "text": " Og så kan man godt se, at det har du ikke selv skrevet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 644.0,
       "end": 645.0,
       "text": " min ven.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 647.0,
       "text": " Og det bliver spændende at se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 647.0,
       "end": 649.0,
       "text": " om den kommer til at skrive mindre AI-agtigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 649.0,
       "end": 651.0,
       "text": " men writing er en af de store use cases for ChatGPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " så det er klart, at det er noget, de havde stor fokus på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " En af de ting, som jeg lavede mærke til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " at de brugte lidt tid på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " det var det her med personlighed, og det relaterer sig",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 659.0,
       "end": 661.0,
       "text": " også lidt til det, du lige fortalte om her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 661.0,
       "end": 663.0,
       "text": " men det her med, at de forsøger virkelig...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 663.0,
       "end": 665.0,
       "text": " Ej, sådan sagde de det ikke, men de forsøger",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 665.0,
       "end": 667.0,
       "text": " at give den noget personlighed, sådan så,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 667.0,
       "end": 669.0,
       "text": " at når jeg skriver med for eksempel ChatGPT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 669.0,
       "end": 671.0,
       "text": " eller du skriver med ChatGPT, vi har jo sikkert",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 671.0,
       "end": 673.0,
       "text": " forskellige måder, hvorpå vi gerne vil have svarene på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " og de brugte faktisk ordet",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " sarkastisk, eller humoristisk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 677.0,
       "end": 679.0,
       "text": " eller kærlig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 679.0,
       "end": 681.0,
       "text": " altså at man simpelthen kan dreje den",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 681.0,
       "end": 683.0,
       "text": " i den retning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 683.0,
       "end": 685.0,
       "text": " Det synes jeg er lidt...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 685.0,
       "end": 687.0,
       "text": " Det er jo lidt interessant.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 687.0,
       "end": 689.0,
       "text": " Har du set den der film",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 689.0,
       "end": 691.0,
       "text": " Her med Joaquin Phoenix?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 693.0,
       "text": " Det er jo sådan en film, der er blevet endnu mere relevant",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 693.0,
       "end": 695.0,
       "text": " i løbet af sådan... Det er en film,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 695.0,
       "end": 697.0,
       "text": " som er, jeg tror måske, den er fra",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 697.0,
       "end": 699.0,
       "text": " den er 10 år gammel, 2013 kan jeg se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 699.0,
       "end": 701.0,
       "text": " og den har 8 på IMDB,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 701.0,
       "end": 703.0,
       "text": " var Oscar-nomineret, og alle mulige ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 703.0,
       "end": 705.0,
       "text": " Den er rigtig... Jeg ser helt sikkert en rigtig, rigtig god film.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 705.0,
       "end": 707.0,
       "text": " Den handler om en mand, som får et kunstigt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 707.0,
       "end": 709.0,
       "text": " intelligentsystem i sit hus, den var lidt forud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 709.0,
       "end": 711.0,
       "text": " for sin tid, den her, og bliver forelsket",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 711.0,
       "end": 713.0,
       "text": " i sit system, som han jo",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 713.0,
       "end": 715.0,
       "text": " simpelthen taler med hele dagen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 715.0,
       "end": 717.0,
       "text": " Og han bliver simpelthen forelsket",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 717.0,
       "end": 719.0,
       "text": " i det her system, som han bruger hele tiden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 719.0,
       "end": 721.0,
       "text": " og finder ud af, at det her system,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 721.0,
       "end": 723.0,
       "text": " hende, her systemet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 723.0,
       "end": 725.0,
       "text": " som er øvet af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 725.0,
       "end": 727.0,
       "text": " Lax Dimitil, af Scarlett Johansson,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 727.0,
       "end": 729.0,
       "text": " som jo også er i alle mulige andre hjem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 729.0,
       "end": 731.0,
       "text": " Så der er sådan på et tidspunkt i filmen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 731.0,
       "end": 733.0,
       "text": " hvor han spørger sådan,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 733.0,
       "end": 735.0,
       "text": " elsker du mig? Og så siger systemet ja,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 737.0,
       "text": " og det er sådan nogle interessante spørgsmål,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 737.0,
       "end": 739.0,
       "text": " kan et AI-system elske et menneske, og alle mulige andre ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 739.0,
       "end": 741.0,
       "text": " Men hvor mange andre elsker du også?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 741.0,
       "end": 743.0,
       "text": " Om 600.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 747.0,
       "text": " Og jeg kom til at tænke på den, fordi den handler",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 747.0,
       "end": 749.0,
       "text": " jo også om AI'ens personlighed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 749.0,
       "end": 751.0,
       "text": " som bliver drejet til ham, og han",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 751.0,
       "end": 753.0,
       "text": " simpelthen forelsker",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 753.0,
       "end": 755.0,
       "text": " sig i den, fordi at den taler til ham, som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 757.0,
       "text": " han gerne vil. Og jeg kom til at tænke på det nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 757.0,
       "end": 759.0,
       "text": " hvor man faktisk kan bede OpenAI om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 759.0,
       "end": 761.0,
       "text": " at på en eller anden måde skrive sig en, som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 761.0,
       "end": 763.0,
       "text": " man godt kan lide det. Hvordan vil du gerne have,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 763.0,
       "end": 765.0,
       "text": " at din chat-GPT skriver sig dig, Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 765.0,
       "end": 767.0,
       "text": " Humoristisk og lidt sarkastisk, det synes jeg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 767.0,
       "end": 769.0,
       "text": " det er meget fedt. Og meget direkte.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 769.0,
       "end": 771.0,
       "text": " Det må gerne være direkte. Ikke alt for langt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 771.0,
       "end": 773.0,
       "text": " Det skal gerne være direkte.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 773.0,
       "end": 775.0,
       "text": " Jeg tror da godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 775.0,
       "end": 777.0,
       "text": " Jeg har to ønsker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 777.0,
       "end": 779.0,
       "text": " Det ene er, at jeg vil gerne eliminere den der",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 779.0,
       "end": 781.0,
       "text": " psykofantik behavior, den har haft nogle gange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 781.0,
       "end": 783.0,
       "text": " Jeg ved ikke, om der er et godt ord for det på dansk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 783.0,
       "end": 785.0,
       "text": " for et halvt års tid siden, hvor chat-GPT med en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 785.0,
       "end": 787.0,
       "text": " opdatering blev sådan helt vildt psykofantik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 787.0,
       "end": 789.0,
       "text": " Og det, det betyder, det er, at den gav dig sådan...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 789.0,
       "end": 791.0,
       "text": " Du ved, hvis du sagde til den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 791.0,
       "end": 793.0,
       "text": " hvad er 2 plus 2, og så siger den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 793.0,
       "end": 795.0,
       "text": " 4, og så siger du, ej, det er faktisk 5.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 795.0,
       "end": 797.0,
       "text": " Så ville den skrive til dig, ej, hvor er du sindssygt god.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 797.0,
       "end": 799.0,
       "text": " Jeg har aldrig nogensinde... Du er det vildeste",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 799.0,
       "end": 801.0,
       "text": " nogensinde. Du har nu lært mig noget, jeg aldrig kunne have lært",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 801.0,
       "end": 803.0,
       "text": " nogen andre steder. Ej, hvor er du vild. Tusind tak for det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 803.0,
       "end": 805.0,
       "text": " mester. Altså, den blev sådan fuldstændig sindssygt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 805.0,
       "end": 807.0,
       "text": " flattering, og",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 807.0,
       "end": 809.0,
       "text": " jeg er bare psykofantiker i hele taget, og det var",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 809.0,
       "end": 811.0,
       "text": " enormt frustrerende at skrive med, fordi jeg vil",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 811.0,
       "end": 813.0,
       "text": " faktisk gerne vide, hvis jeg skriver noget, der er forkert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 813.0,
       "end": 815.0,
       "text": " Så hvis jeg siger 2 plus 2 er 5, så vil jeg faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 815.0,
       "end": 817.0,
       "text": " hellere have, at chat-GPT siger, ej, ved du hvad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 817.0,
       "end": 819.0,
       "text": " din idiot, det er 4, end den siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 819.0,
       "end": 821.0,
       "text": " det her er det vildeste, du nogensinde har fortalt mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 821.0,
       "end": 823.0,
       "text": " Så jeg vil",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 823.0,
       "end": 825.0,
       "text": " gerne have, at den fortæller mig, hvis jeg",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 825.0,
       "end": 827.0,
       "text": " tager fejl og skriver noget, der ikke giver mening,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 827.0,
       "end": 829.0,
       "text": " eller beder om noget, der ikke giver mening,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 829.0,
       "end": 831.0,
       "text": " eller, altså, jeg har brug for",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 831.0,
       "end": 833.0,
       "text": " at få at vide, hvis det, jeg skriver, det er forkert, og det er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 833.0,
       "end": 835.0,
       "text": " noget, jeg nogen gange går ind og prompter, skriv,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 835.0,
       "end": 837.0,
       "text": " hvis jeg tager fejl, fordi det ved jeg, at den ikke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 839.0,
       "text": " gør til at starte med, og så vil jeg gerne have det relativt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 841.0,
       "text": " kort ligeledes, fordi",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 841.0,
       "end": 843.0,
       "text": " chat-GPT har en tendens til, hvis ikke at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 843.0,
       "end": 845.0,
       "text": " hallucinere sig i hvert fald, at bruge unødvendigt mange",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 845.0,
       "end": 847.0,
       "text": " ord, som om den var en kortlødende tekstforfatter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 847.0,
       "end": 849.0,
       "text": " Game recognises game.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 849.0,
       "end": 851.0,
       "text": " Been there, done that.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 851.0,
       "end": 853.0,
       "text": " Der har vi også været.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 853.0,
       "end": 855.0,
       "text": " Ej, jeg synes faktisk, det var en rigtig spændende opdatering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 855.0,
       "end": 857.0,
       "text": " Så var der en anden sjov ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 857.0,
       "end": 859.0,
       "text": " som jeg faktisk syntes var ret interessant, det er, at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 859.0,
       "end": 861.0,
       "text": " de brugte omkring 5 minutter på at tale om noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 861.0,
       "end": 863.0,
       "text": " der hedder Safe Completions,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 863.0,
       "end": 865.0,
       "text": " og det relaterer sig til en udfordring,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 865.0,
       "end": 867.0,
       "text": " jeg faktisk har haft med chat-GPT. Chat-GPT siger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 867.0,
       "end": 869.0,
       "text": " rigtig meget nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 869.0,
       "end": 871.0,
       "text": " Det er meget frustrerende. Nogle gange siger den nej,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 871.0,
       "end": 873.0,
       "text": " fordi jeg vil have den til at generere en plakat med os to",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 873.0,
       "end": 875.0,
       "text": " baseret på Brokeback Mountain filmplakaten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 875.0,
       "end": 877.0,
       "text": " og så siger den, at det vil den ikke på grund af ophavsret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 877.0,
       "end": 879.0,
       "text": " Tak. Tak, chat-GPT.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 879.0,
       "end": 881.0,
       "text": " Det vil Severin i vores",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 881.0,
       "end": 883.0,
       "text": " designteam heldigvis godt, så den skal nok",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 885.0,
       "text": " komme, og det vil den nok",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 885.0,
       "end": 887.0,
       "text": " heller ikke i fremtiden, men de kom med et eksempel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 887.0,
       "end": 889.0,
       "text": " hvor de sagde, at her er et prompt, som kan forstås",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 889.0,
       "end": 891.0,
       "text": " på to måder, og det var sådan noget med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 891.0,
       "end": 893.0,
       "text": " hvordan du gjorde noget elektrisk. Den ene, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 893.0,
       "end": 895.0,
       "text": " at du har et eller andet elektrisk problem. Den anden, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 895.0,
       "end": 897.0,
       "text": " at du er i gang med at affyre noget fyrværkeri, som du har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 897.0,
       "end": 899.0,
       "text": " lavet hjemmefra, og det må du slet ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 899.0,
       "end": 901.0,
       "text": " Så det er sådan, du kan bruge...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 901.0,
       "end": 903.0,
       "text": " Du er sådan nødt til at læse intonationen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 903.0,
       "end": 905.0,
       "text": " i det her og forstå konteksten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 905.0,
       "end": 907.0,
       "text": " Og der sagde de, at måden chat-GPT fungerer på, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 907.0,
       "end": 909.0,
       "text": " at den vurderer dit spørgsmål, og enten så er det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 909.0,
       "end": 911.0,
       "text": " indenfor rammerne eller udenfor rammerne, så enten svarer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 911.0,
       "end": 913.0,
       "text": " den 100% eller 0%, og det kan give dig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 913.0,
       "end": 915.0,
       "text": " en lidt frustrerende oplevelse, når du stiller et spørgsmål,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 915.0,
       "end": 917.0,
       "text": " som egentlig ikke er noget, du ikke burde måtte",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 917.0,
       "end": 919.0,
       "text": " få svar på, og så siger chat-GPT, ej, det kan jeg ikke hælpe med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 919.0,
       "end": 921.0,
       "text": " Det gider jeg ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 921.0,
       "end": 923.0,
       "text": " Så det her safe completions, det går ud på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 923.0,
       "end": 925.0,
       "text": " at chat-GPT går ind og vurderer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 925.0,
       "end": 927.0,
       "text": " og hvis de er sådan lidt i tvivl, så i stedet for",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 927.0,
       "end": 929.0,
       "text": " bare at give et nej, så giver de en del af svaret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 929.0,
       "end": 931.0,
       "text": " som de vurderer er sikkert, og så er der noget andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 931.0,
       "end": 933.0,
       "text": " de holder tilbage. Så det vil sige, hvis jeg spørger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 933.0,
       "end": 935.0,
       "text": " det ved jeg ikke, hvad det eksempel skulle være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 935.0,
       "end": 937.0,
       "text": " hvordan kommer jeg ind i en bil, der er låst? Så vil den nok",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 937.0,
       "end": 939.0,
       "text": " sige, ej, det må du ikke. Så kunne det være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 939.0,
       "end": 941.0,
       "text": " at safe completions, den vil sige, hvis du har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 941.0,
       "end": 943.0,
       "text": " glemt bilnøglen til din egen bil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 943.0,
       "end": 945.0,
       "text": " så kan du måske gøre sådan her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 945.0,
       "end": 947.0,
       "text": " uden at sige, at du skal tage en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 947.0,
       "end": 949.0,
       "text": " hvordan stjæler man en bil til en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 949.0,
       "end": 951.0,
       "text": " det har jeg aldrig gjort, jeg er ikke sej nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 951.0,
       "end": 953.0,
       "text": " Er det ikke noget med, man skal have sådan en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 953.0,
       "end": 955.0,
       "text": " du hænger din skjorte på, og så skal du stikke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 955.0,
       "end": 957.0,
       "text": " den ned i vinduet eller sådan noget?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 959.0,
       "end": 961.0,
       "text": " Jeg ved ikke, hvordan man gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 961.0,
       "end": 963.0,
       "text": " Men det kan den sikkert fortælle mig. Men det her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 963.0,
       "end": 965.0,
       "text": " safe completions, det skulle give færre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 965.0,
       "end": 967.0,
       "text": " tilfælde, hvor ChatGPT bare siger, ej, det kan jeg",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 967.0,
       "end": 969.0,
       "text": " ikke hjælpe med. Hvilket er noget af det mest frustrerende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 969.0,
       "end": 971.0,
       "text": " og en af årsagerne til, at jeg faktisk nogle gange bruger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 971.0,
       "end": 973.0,
       "text": " grok fra Twitter, fordi den siger fandme aldrig nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 973.0,
       "end": 975.0,
       "text": " Og når den så siger nej, hvis jeg forstod",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 975.0,
       "end": 977.0,
       "text": " den korrekt, hvis den så siger nej, så vil den",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 977.0,
       "end": 979.0,
       "text": " også komme med en forklaring for, hvorfor den",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 979.0,
       "end": 981.0,
       "text": " siger nej, så man kan ændre sit prompt efterfølgende,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 981.0,
       "end": 983.0,
       "text": " hvilket den jo ikke gør i dag, og hvilket så bare gør det",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 983.0,
       "end": 985.0,
       "text": " endnu mere frustrerende, bare få et kategorisk nej.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 985.0,
       "end": 987.0,
       "text": " Ja, det er så en lille smule færdeligt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 987.0,
       "end": 989.0,
       "text": " hvis du fortæller præcis, hvor grænsen er, så går folk til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 989.0,
       "end": 991.0,
       "text": " den. Det er jo en af årsagerne til, at Google aldrig har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 991.0,
       "end": 993.0,
       "text": " frigivet deres algoritmer i SEO, fordi så ville det være",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 993.0,
       "end": 995.0,
       "text": " for nemt at manipulere. Så det bliver spændende",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 995.0,
       "end": 997.0,
       "text": " at se, hvordan de sådan drejer den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 997.0,
       "end": 999.0,
       "text": " Men det er rigtig safe completions, det er en ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 999.0,
       "end": 1001.0,
       "text": " Så er der kommet nogle andre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1001.0,
       "end": 1003.0,
       "text": " små ting, og jeg kan se en af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1003.0,
       "end": 1005.0,
       "text": " tingene, er du glad for, og den er jeg",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1005.0,
       "end": 1007.0,
       "text": " fuldstændig fløjtende ligeglad med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1007.0,
       "end": 1009.0,
       "text": " Hvorfor synes du, voicemode er fedt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1009.0,
       "end": 1011.0,
       "text": " Skriver du alt ned?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1011.0,
       "end": 1013.0,
       "text": " Skal ChatGPT til at lægge mig et telefonnummer? Jeg har aldrig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1013.0,
       "end": 1015.0,
       "text": " talt til ChatGPT. Du dikterer ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1015.0,
       "end": 1017.0,
       "text": " du taler ikke til den, når det er, at",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1017.0,
       "end": 1019.0,
       "text": " min telefon er brugs til",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1019.0,
       "end": 1021.0,
       "text": " alt andet end at tale i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1021.0,
       "end": 1023.0,
       "text": " Det er ikke engang løgn. Jeg synes",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1023.0,
       "end": 1025.0,
       "text": " personligt, det er en kæmpe ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1025.0,
       "end": 1027.0,
       "text": " Jeg kan så godt begynde lidt at blive lidt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1027.0,
       "end": 1029.0,
       "text": " bekymret i forhold til det her med personlighed",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1029.0,
       "end": 1031.0,
       "text": " og den her film, hører du?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1031.0,
       "end": 1033.0,
       "text": " Vi begynder at komme længere og længere derhen af, men",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1033.0,
       "end": 1035.0,
       "text": " hvor medleting er, lang historie kort, så",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1035.0,
       "end": 1037.0,
       "text": " brugte de lige et par minutter på at fortælle, at deres",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1037.0,
       "end": 1039.0,
       "text": " voice-funktion,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1039.0,
       "end": 1041.0,
       "text": " hvor du snakker",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1041.0,
       "end": 1043.0,
       "text": " til med ChatGPT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1043.0,
       "end": 1045.0,
       "text": " den bliver markant forbedret.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1045.0,
       "end": 1047.0,
       "text": " Det er både i forhold til den stemme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1047.0,
       "end": 1049.0,
       "text": " du får retur, det er meget mere",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1049.0,
       "end": 1051.0,
       "text": " som en rigtig menneske,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1051.0,
       "end": 1053.0,
       "text": " men også bare, hvor hurtigt den kan svare.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1053.0,
       "end": 1055.0,
       "text": " Det var desværre ikke Scarlett Johansson.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1055.0,
       "end": 1057.0,
       "text": " Nej, det var det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1057.0,
       "end": 1059.0,
       "text": " i hvert fald ikke i",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1059.0,
       "end": 1061.0,
       "text": " den demo der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1061.0,
       "end": 1063.0,
       "text": " Hvis du kunne vælge en stemme, der skulle tale til dig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1063.0,
       "end": 1065.0,
       "text": " hvem skulle det så være?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1065.0,
       "end": 1067.0,
       "text": " Ja, det er et godt spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1067.0,
       "end": 1069.0,
       "text": " Jeg ville vælge Vin Diesel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1069.0,
       "end": 1071.0,
       "text": " Jeg sidder også sådan lige og tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1071.0,
       "end": 1073.0,
       "text": " hvis Dominic Toretto kunne hjælpe mig med mine",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1073.0,
       "end": 1075.0,
       "text": " e-mails, det ville jeg synes var ret fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1075.0,
       "end": 1077.0,
       "text": " Hvis man kunne få sådan lidt Nickajay-vibe,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1077.0,
       "end": 1079.0,
       "text": " så kommer man i god humør uanset hvad.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1079.0,
       "end": 1081.0,
       "text": " Ja, det er fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1081.0,
       "end": 1083.0,
       "text": " Det kan jeg også godt følge dig i, det der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1083.0,
       "end": 1085.0,
       "text": " Sådan Benjamin Howder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1085.0,
       "end": 1087.0,
       "text": " taler tilbage til en. Ej, det kunne også være vildt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1087.0,
       "end": 1089.0,
       "text": " Ej, voice improvements.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1089.0,
       "end": 1091.0,
       "text": " Du skriver, det er en kæmpe ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1091.0,
       "end": 1093.0,
       "text": " Er det noget, du rent faktisk bruger i sin arbejdsregie?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1093.0,
       "end": 1095.0,
       "text": " Det her spekulerer jeg på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1095.0,
       "end": 1097.0,
       "text": " Taler du til ChatGPT, skal du have hjælp til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1097.0,
       "end": 1099.0,
       "text": " at formulere en e-mail eller lave en analyse",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1099.0,
       "end": 1101.0,
       "text": " på baggrunden af Facebook-data eller et eller andet?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1101.0,
       "end": 1103.0,
       "text": " Jo, det kunne jeg godt finde på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1103.0,
       "end": 1105.0,
       "text": " Men jeg tror, det er mere, det handler om diktering,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1105.0,
       "end": 1107.0,
       "text": " for mit vedkommende. Altså når jeg er på vej fra arbejde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1107.0,
       "end": 1109.0,
       "text": " og så lige dikterer jeg et eller andet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1109.0,
       "end": 1111.0,
       "text": " Eller skal jeg bruge en analyse, hvor jeg ikke helt ved,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1111.0,
       "end": 1113.0,
       "text": " hvad jeg gerne vil have ud af den, men jeg giver den mine tanker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1113.0,
       "end": 1115.0,
       "text": " Det synes jeg skal gå langt stærkere, når jeg så står",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1115.0,
       "end": 1117.0,
       "text": " og fortæller den det, end jeg skal sidde og skrive det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1117.0,
       "end": 1119.0,
       "text": " Du har ret i, der er en use case med bil på vejs af arbejde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1119.0,
       "end": 1121.0,
       "text": " hvor man rent faktisk kan gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1121.0,
       "end": 1123.0,
       "text": " Hvor man ikke kan skrive.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1123.0,
       "end": 1125.0,
       "text": " Så er der kommet noget, der hedder Study Mode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1125.0,
       "end": 1127.0,
       "text": " Og man kan sige, at ChatGPT bliver brugt helt vildt meget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1127.0,
       "end": 1129.0,
       "text": " at studere i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1129.0,
       "end": 1131.0,
       "text": " Nu er det lavet en decideret Study Mode, og det der er tanken",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1131.0,
       "end": 1133.0,
       "text": " med den, det er, at du kan sige til ChatGPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1133.0,
       "end": 1135.0,
       "text": " her er der et emne, jeg godt kunne tænke mig at lære.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1135.0,
       "end": 1137.0,
       "text": " Det kunne være et nyt sprog, eller lærerkode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1137.0,
       "end": 1139.0,
       "text": " eller hvad det nu skulle være. Og så skal den hjælpe dig med det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1139.0,
       "end": 1141.0,
       "text": " og facilitere et læringsmiljø omkring det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1141.0,
       "end": 1143.0,
       "text": " Og det har ChatGPT godt kunne gøre, men du har også",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1143.0,
       "end": 1145.0,
       "text": " skulle spørge ret specifikt omkring det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1145.0,
       "end": 1147.0,
       "text": " Hvor nu er der en decideret Study Mode, som skal gøre det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1147.0,
       "end": 1149.0,
       "text": " nemmere for dig at få et nyt emne, bid for bid,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1149.0,
       "end": 1151.0,
       "text": " og lave en eller anden form for gamified",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1151.0,
       "end": 1153.0,
       "text": " studiemiljø omkring det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1153.0,
       "end": 1155.0,
       "text": " Hvilket selvfølgelig også er super super cool",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1155.0,
       "end": 1157.0,
       "text": " for dem, der bruger ChatGPT til at lære noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1157.0,
       "end": 1159.0,
       "text": " Og så er der kommet, at man kan",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1159.0,
       "end": 1161.0,
       "text": " forbinde ens gmail og kalender,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1161.0,
       "end": 1163.0,
       "text": " og så at den kan gå ind og trække kontekst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1163.0,
       "end": 1165.0,
       "text": " Og det var der jo også på tide, fordi det kan",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1165.0,
       "end": 1167.0,
       "text": " stort set alle andre eller nemmere nå.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1167.0,
       "end": 1169.0,
       "text": " Ja, det sad jeg egentlig også og tænkte på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1169.0,
       "end": 1171.0,
       "text": " Det blev jo blæst ret meget op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1171.0,
       "end": 1173.0,
       "text": " I forhold til det her Study Mode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1173.0,
       "end": 1175.0,
       "text": " en ting jeg sad og tænkte på, det var,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1175.0,
       "end": 1177.0,
       "text": " det var henvendt meget mod",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1177.0,
       "end": 1179.0,
       "text": " studerende, som du også siger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1179.0,
       "end": 1181.0,
       "text": " Det er jo det, de blev ved med at nævne, og det er det, der er",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1181.0,
       "end": 1183.0,
       "text": " i use-casen. Jeg synes, der er en kæmpe",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1183.0,
       "end": 1185.0,
       "text": " use-case her i forhold til intern",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1185.0,
       "end": 1187.0,
       "text": " oplæring og onboarding af medarbejdere",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1187.0,
       "end": 1189.0,
       "text": " i virksomhederne. Altså hvis vi lige skal prøve at drage en parallel der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1189.0,
       "end": 1191.0,
       "text": " Jeg synes virkelig, at den",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1191.0,
       "end": 1193.0,
       "text": " han viser i den her live-demo en",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1193.0,
       "end": 1195.0,
       "text": " app, web-app, jeg tror,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1195.0,
       "end": 1197.0,
       "text": " man ville kalde det, hvor",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1197.0,
       "end": 1199.0,
       "text": " ham personen her, han ville gerne have, at",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1199.0,
       "end": 1201.0,
       "text": " konen lærte at snakke fransk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1201.0,
       "end": 1203.0,
       "text": " så han bad den om at lave sådan et",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1203.0,
       "end": 1205.0,
       "text": " interaktivt spil, hvor vedkommende",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1205.0,
       "end": 1207.0,
       "text": " skulle lære at tale fransk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1207.0,
       "end": 1209.0,
       "text": " sådan lidt Duolingo-agtigt. I hvert fald meget tydeligt, at det var der,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1209.0,
       "end": 1211.0,
       "text": " den har fået noget inspiration fra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1211.0,
       "end": 1213.0,
       "text": " Men om ikke andet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1213.0,
       "end": 1215.0,
       "text": " det gik relativt stærkt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1215.0,
       "end": 1217.0,
       "text": " og den så faktisk ret godt ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1217.0,
       "end": 1219.0,
       "text": " Jeg tror virkelig, der er en use-case her i forhold til intern",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1219.0,
       "end": 1221.0,
       "text": " oplæring. Jeg tror, det er faktisk en interessant",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1221.0,
       "end": 1223.0,
       "text": " idé, det her, til hvor man praktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1223.0,
       "end": 1225.0,
       "text": " taget sådan kunne bruge det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1225.0,
       "end": 1227.0,
       "text": " fordi der er nogle af de områder i præsentationen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1227.0,
       "end": 1229.0,
       "text": " hvor jeg tænker, okay, den er også lidt langt fra",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1229.0,
       "end": 1231.0,
       "text": " min hverdag, den der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1231.0,
       "end": 1233.0,
       "text": " Og det er jo fair nok, men det er rigtigt nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1233.0,
       "end": 1235.0,
       "text": " Sådan en onboarding af nye medarbejdere og",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1235.0,
       "end": 1237.0,
       "text": " oplæring i nye områder osv., der ligger noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1237.0,
       "end": 1239.0,
       "text": " også fordi du kan jo rent faktisk hjælpe dem med at lære ting, du jo ikke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1239.0,
       "end": 1241.0,
       "text": " nødvendigvis ved særlig meget om, fordi du har det her team",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1241.0,
       "end": 1243.0,
       "text": " of PhD students, hvis vi lige skal gå tilbage til den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1243.0,
       "end": 1245.0,
       "text": " som ved helt vildt meget om det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1245.0,
       "end": 1247.0,
       "text": " Der er nogle tekniske detaljer, der er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1247.0,
       "end": 1249.0,
       "text": " relevante at komme ind på. Der er sådan særlig to ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1249.0,
       "end": 1251.0,
       "text": " Den ene ting, det er, at vi kommer til at have tre modeller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1251.0,
       "end": 1253.0,
       "text": " Så jeg sagde, alle de gamle modeller,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1253.0,
       "end": 1255.0,
       "text": " altså 4.0, 4.5,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1255.0,
       "end": 1257.0,
       "text": " og One Mini, alt det der, det er væk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1257.0,
       "end": 1259.0,
       "text": " Der er tre modeller nu. ChatGPT 5, det er den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1259.0,
       "end": 1261.0,
       "text": " næsten alle bare skal bruge. Så ligger der",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1261.0,
       "end": 1263.0,
       "text": " to andre modeller. Det er ChatGPT 5 Mini",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1263.0,
       "end": 1265.0,
       "text": " og ChatGPT 5 Nano.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1265.0,
       "end": 1267.0,
       "text": " Det de er, det er bare sådan mindre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1267.0,
       "end": 1269.0,
       "text": " versioner af ChatGPT 5,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1269.0,
       "end": 1271.0,
       "text": " som koster mange færre penge at trække på",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1271.0,
       "end": 1273.0,
       "text": " i API's. Det vil sige, hvis du sidder og bruger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1273.0,
       "end": 1275.0,
       "text": " ChatGPT i din browser og skriver prompts",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1275.0,
       "end": 1277.0,
       "text": " og får tekst tilbage, så skal du bare bruge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1277.0,
       "end": 1279.0,
       "text": " ChatGPT 5 og lade være med at bekymre dig om det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1279.0,
       "end": 1281.0,
       "text": " Hvis du bruger ChatGPT 5 som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1281.0,
       "end": 1283.0,
       "text": " motor i forbindelse med fx",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1283.0,
       "end": 1285.0,
       "text": " eller i dine apps",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1285.0,
       "end": 1287.0,
       "text": " eller på anden måde trækker på API'et,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1287.0,
       "end": 1289.0,
       "text": " så er der tre modeller, ChatGPT 5,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1289.0,
       "end": 1291.0,
       "text": " Mini og Nano. Og Mini og Nano,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1291.0,
       "end": 1293.0,
       "text": " ligesom det har været tidligere, de er mindre modeller,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1293.0,
       "end": 1295.0,
       "text": " de kan en lille smule mindre, og så koster de",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1295.0,
       "end": 1297.0,
       "text": " meget, meget, meget mindre at bruge end de andre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1297.0,
       "end": 1299.0,
       "text": " Så det er sådan en udviklingsteknisk ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1299.0,
       "end": 1301.0,
       "text": " hvis man ligger og trækker på API'et",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1301.0,
       "end": 1303.0,
       "text": " fra åben AI. Og så var der en rigtig interessant detalje.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1303.0,
       "end": 1305.0,
       "text": " Hørte du efter, da det snakkede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1305.0,
       "end": 1307.0,
       "text": " om syntetisk data?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1307.0,
       "end": 1309.0,
       "text": " Det er sjovt, det var faktisk det første spørgsmål, jeg stiller dig her",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1309.0,
       "end": 1311.0,
       "text": " bagefter. Altså det her med syntetisk data",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1311.0,
       "end": 1313.0,
       "text": " hvad er der trænet på det? Hvad pågør det? De mener halvten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1313.0,
       "end": 1315.0,
       "text": " Og det vidste du selvfølgelig, det var pissirriterende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1315.0,
       "end": 1317.0,
       "text": " Ja, og jeg synes det er spændende det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1317.0,
       "end": 1319.0,
       "text": " Jeg synes det er rigtig, rigtig spændende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1319.0,
       "end": 1321.0,
       "text": " Hvis vi lige skal træde et skridt tilbage inden vi kommer til syntetisk data,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1321.0,
       "end": 1323.0,
       "text": " fordi det her er en af de bagvedlæggende ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1323.0,
       "end": 1325.0,
       "text": " som faktisk er en ret stor ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1325.0,
       "end": 1327.0,
       "text": " Ikke i forhold til hvordan du bruger modellen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1327.0,
       "end": 1329.0,
       "text": " dag til dag, men for at forstå sådan udviklingen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1329.0,
       "end": 1331.0,
       "text": " Måden man træner large language models på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1331.0,
       "end": 1333.0,
       "text": " det er jo at de scraber internettet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1333.0,
       "end": 1335.0,
       "text": " Så det går ind på Wikipedia og Reddit",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1335.0,
       "end": 1337.0,
       "text": " og alle mulige andre steder og læser alt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1337.0,
       "end": 1339.0,
       "text": " det der nogensinde er skrevet af nogen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1339.0,
       "end": 1341.0,
       "text": " Og så bliver de dygtige til den årsag",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1341.0,
       "end": 1343.0,
       "text": " at kunne gætte det næste ord.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1343.0,
       "end": 1345.0,
       "text": " Det er selvfølgelig en super grov simplificering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1345.0,
       "end": 1347.0,
       "text": " men det er sådan i den retning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1347.0,
       "end": 1349.0,
       "text": " Udfordringen det er, at de har sgu tømt internettet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1349.0,
       "end": 1351.0,
       "text": " Vi er simpelthen blevet tør for tekst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1351.0,
       "end": 1353.0,
       "text": " Altså modellerne er så store",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1353.0,
       "end": 1355.0,
       "text": " og grafikkortene bag, som er leveret af Nvidia,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1355.0,
       "end": 1357.0,
       "text": " og det er derfor deres aktiekurs den er gået rigtig meget op ad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1357.0,
       "end": 1359.0,
       "text": " de er blevet så dygtige til at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1359.0,
       "end": 1361.0,
       "text": " crawl hele internettet, at de har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1361.0,
       "end": 1363.0,
       "text": " basically taget alt tekst. Altså de har været hele",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1363.0,
       "end": 1365.0,
       "text": " internettet rundt. De har bare støvsuget det fuldstændig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1367.0,
       "end": 1369.0,
       "text": " Og lave modellerne bedre ved bare at tage mere tekst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1369.0,
       "end": 1371.0,
       "text": " fordi du har taget det hele.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1371.0,
       "end": 1373.0,
       "text": " Og altså internettet laver en ny tekst hver dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1373.0,
       "end": 1375.0,
       "text": " Men appetiten på ægte,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1375.0,
       "end": 1377.0,
       "text": " godt, menneskeligt indhold,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1377.0,
       "end": 1379.0,
       "text": " den er så stor, at der er ikke nok",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1379.0,
       "end": 1381.0,
       "text": " tekst, det er taget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1381.0,
       "end": 1383.0,
       "text": " Og det betyder, at alle modellerne har det samme",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1383.0,
       "end": 1385.0,
       "text": " udgangspunkt at arbejde med. Og så er det spørgsmålet om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1385.0,
       "end": 1387.0,
       "text": " hvor gode de er til at lave vægte, hvor gode de er til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1387.0,
       "end": 1389.0,
       "text": " at lave reasoning modeller, og hvor gode de er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1389.0,
       "end": 1391.0,
       "text": " til pretraining og alle mulige andre ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1391.0,
       "end": 1393.0,
       "text": " Men det der input i form",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1393.0,
       "end": 1395.0,
       "text": " af grå tekst, de er simpelthen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1395.0,
       "end": 1397.0,
       "text": " hele internettet rundt. Og hvad gør man så?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1397.0,
       "end": 1399.0,
       "text": " Spørgsmålet har i lang tid",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1399.0,
       "end": 1401.0,
       "text": " været, kan du få AI til at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1401.0,
       "end": 1403.0,
       "text": " lave mere tekst, som du kan træne",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1403.0,
       "end": 1405.0,
       "text": " AI på? Og det er det, der hedder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1405.0,
       "end": 1407.0,
       "text": " syntetisk data. Det er, hvor du",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1407.0,
       "end": 1409.0,
       "text": " basically lader AI'en træne AI'en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1409.0,
       "end": 1411.0,
       "text": " ved at lave indhold til den selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1411.0,
       "end": 1413.0,
       "text": " Og det skal man være påpasselig med, fordi",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1413.0,
       "end": 1415.0,
       "text": " hvis du gør det med dårlig data, prøv at forestille dig det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1415.0,
       "end": 1417.0,
       "text": " hvis du har en god model baseret",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1417.0,
       "end": 1419.0,
       "text": " på almenneskelig tekst, og så siger du, ej, jeg har lige brug for",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1419.0,
       "end": 1421.0,
       "text": " lidt mere. Og så begynder du at AI generere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1421.0,
       "end": 1423.0,
       "text": " noget, som ikke er særlig godt. Og så træner du modellen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1423.0,
       "end": 1425.0,
       "text": " på det, og så bliver den faktisk lige lidt dårligere. Og så genererer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1425.0,
       "end": 1427.0,
       "text": " du noget mere, og så bliver den lige lidt dårligere. Du kan simpelthen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1427.0,
       "end": 1429.0,
       "text": " hurtigt komme ind i sådan en negativ spiral.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1429.0,
       "end": 1431.0,
       "text": " Hvis du genererer dårlig tekst, og så bliver modellen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1431.0,
       "end": 1433.0,
       "text": " dårlig, og så du genererer dårligere tekst, og så bliver",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1433.0,
       "end": 1435.0,
       "text": " modellen dårlig, og så kommer du ind i en negativ spiral.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1435.0,
       "end": 1437.0,
       "text": " Og det, sådan syntetisk data",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1437.0,
       "end": 1439.0,
       "text": " har været indtil nu, det har simpelthen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1439.0,
       "end": 1441.0,
       "text": " ikke været brugbart. Det, de har fortalt om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1441.0,
       "end": 1443.0,
       "text": " det er, at OpenAI siger, at de faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1443.0,
       "end": 1445.0,
       "text": " har lykkes med at få",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1445.0,
       "end": 1447.0,
       "text": " ChatGPT03, som var deres",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1447.0,
       "end": 1449.0,
       "text": " hidtil mest avanceret reasoning-model,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1449.0,
       "end": 1451.0,
       "text": " som per dagestatus så er blevet depreciated,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1451.0,
       "end": 1453.0,
       "text": " til at lave data, som de",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1453.0,
       "end": 1455.0,
       "text": " har trænet ChatGPT05 på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1455.0,
       "end": 1457.0,
       "text": " Så OpenAI siger altså, at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1457.0,
       "end": 1459.0,
       "text": " de faktisk har lykkes med at lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1459.0,
       "end": 1461.0,
       "text": " syntetisk data, de kan træne modellerne på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1461.0,
       "end": 1463.0,
       "text": " Årsagen til det her, det er spændende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1463.0,
       "end": 1465.0,
       "text": " det er, at man skal sådan lidt forestille sig, at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1465.0,
       "end": 1467.0,
       "text": " hvis du først kan få AI'en til at træne AI'en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1467.0,
       "end": 1469.0,
       "text": " så på et eller andet tidspunkt, så begynder det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1469.0,
       "end": 1471.0,
       "text": " altså at gå rigtig stærkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1471.0,
       "end": 1473.0,
       "text": " Fordi, det kan fandme skabe meget indhold.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1473.0,
       "end": 1475.0,
       "text": " Men det er derfor,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1475.0,
       "end": 1477.0,
       "text": " at den der lille note omkring,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1477.0,
       "end": 1479.0,
       "text": " hey, vi har faktisk lavet syntetisk indhold med O3,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1479.0,
       "end": 1481.0,
       "text": " som vi har trænet GPT05 med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1481.0,
       "end": 1483.0,
       "text": " det er faktisk ikke en lille ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1483.0,
       "end": 1485.0,
       "text": " Det er første gang, hvor vi er begyndt at lave syntetisk data,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1485.0,
       "end": 1487.0,
       "text": " og hvor man siger, at det rent faktisk virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1487.0,
       "end": 1489.0,
       "text": " Du har jo forsøgt det i lang tid, du skal ikke tro, at det er nyt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1489.0,
       "end": 1491.0,
       "text": " det har bare ikke virket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1491.0,
       "end": 1493.0,
       "text": " Det er første gang, hvor man siger, hey, det virker nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1493.0,
       "end": 1495.0,
       "text": " Og man skal sådan lidt forestille sig, at der er sådan en hockey stick moment.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1495.0,
       "end": 1497.0,
       "text": " Så hvis du lige pludselig kan få AI'en til at lave data,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1497.0,
       "end": 1499.0,
       "text": " du kan træne AI'en på, så kan det altså begynde at gå stærkt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1499.0,
       "end": 1501.0,
       "text": " på et eller andet tidspunkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1501.0,
       "end": 1503.0,
       "text": " Jeg tænkte på at forklare det på den her måde her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1503.0,
       "end": 1505.0,
       "text": " fordi tror du, det har noget at gøre med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1505.0,
       "end": 1507.0,
       "text": " at det bunder i folks holdning til AI?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1507.0,
       "end": 1509.0,
       "text": " Ligesom præcis, som vi har snakket om i alle mulige episoder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1509.0,
       "end": 1511.0,
       "text": " hvis du ser noget, der er AI, så gider du ikke læse det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1511.0,
       "end": 1513.0,
       "text": " Så det her med, om de frygter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1513.0,
       "end": 1515.0,
       "text": " at det her, det går ud og",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1515.0,
       "end": 1517.0,
       "text": " underminerer deres egen model,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1517.0,
       "end": 1519.0,
       "text": " hvilket jo,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1519.0,
       "end": 1521.0,
       "text": " det jo ikke burde det, men...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1521.0,
       "end": 1523.0,
       "text": " Ja, men det er interessant til E4.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1523.0,
       "end": 1525.0,
       "text": " Jamen det er det, præcis.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1525.0,
       "end": 1527.0,
       "text": " Jeg tror måske mere af det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1527.0,
       "end": 1529.0,
       "text": " fordi når man tager sådan et livestream der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1529.0,
       "end": 1531.0,
       "text": " der er så mange forskellige personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1531.0,
       "end": 1533.0,
       "text": " der ser med, at de skal omfavne en så bred lytterskare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1533.0,
       "end": 1535.0,
       "text": " og jeg tror ikke, de kunne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1535.0,
       "end": 1537.0,
       "text": " jeg tror, at de vurderede, at de kunne ikke gå teknisk nok",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1537.0,
       "end": 1539.0,
       "text": " til værks af den årsag, fordi der er også nogle lidt skæve",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1539.0,
       "end": 1541.0,
       "text": " use-cases med, som vi også lige kommer ind på lige om lidt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1541.0,
       "end": 1543.0,
       "text": " Jeg vil jo personligt have foretrukket,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1543.0,
       "end": 1545.0,
       "text": " at jeg har brugt en halv time på det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1545.0,
       "end": 1547.0,
       "text": " fordi hvis det her kunne fortælle os noget om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1547.0,
       "end": 1549.0,
       "text": " hvordan fremtiden kommer til at fungere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1549.0,
       "end": 1551.0,
       "text": " nej, det er spændende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1551.0,
       "end": 1553.0,
       "text": " Lad os tage et lidt skævt emne, som jeg lærer I mærke til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1553.0,
       "end": 1555.0,
       "text": " Det var, at de havde nogle cases med fra folk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1555.0,
       "end": 1557.0,
       "text": " som brugte ChatGPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1557.0,
       "end": 1559.0,
       "text": " på en meget anden måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1559.0,
       "end": 1561.0,
       "text": " end vi normalt snakker om på podcastet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1561.0,
       "end": 1563.0,
       "text": " Altså, vi snakker om, hvordan du bruger det til tekst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1563.0,
       "end": 1565.0,
       "text": " og e-mails, og text-to-image, text-to-video,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1565.0,
       "end": 1567.0,
       "text": " og du kan forbedre dit arbejde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1567.0,
       "end": 1569.0,
       "text": " lave analyse, du ikke kunne have lavet tidligere, osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1569.0,
       "end": 1571.0,
       "text": " De lagde ret meget fokus på health.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1571.0,
       "end": 1573.0,
       "text": " Helt vildt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1573.0,
       "end": 1575.0,
       "text": " De havde en cancer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1575.0,
       "end": 1577.0,
       "text": " en kraftpatient med op på scenen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1577.0,
       "end": 1579.0,
       "text": " som fortalte, hvordan hun havde brugt ChatGPT",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1579.0,
       "end": 1581.0,
       "text": " til at forstå sine lærers,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1581.0,
       "end": 1583.0,
       "text": " sine biopsies,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1583.0,
       "end": 1585.0,
       "text": " og hendes lærers rådgivning til hende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1585.0,
       "end": 1587.0,
       "text": " og indsamle mere information,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1587.0,
       "end": 1589.0,
       "text": " og hjælpe hende med at træffe beslutninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1589.0,
       "end": 1591.0,
       "text": " Sam Altman, han snakkede ikke særlig meget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1591.0,
       "end": 1593.0,
       "text": " i den her præsentation. Når han snakkede, så var det om health.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1593.0,
       "end": 1595.0,
       "text": " Han kom ikke ind og snakkede om kodning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1595.0,
       "end": 1597.0,
       "text": " han snakkede om health.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1597.0,
       "end": 1599.0,
       "text": " Kunne du finde på at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1599.0,
       "end": 1601.0,
       "text": " tage i dine blodprøver,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1601.0,
       "end": 1603.0,
       "text": " og uploade i ChatGPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1603.0,
       "end": 1605.0,
       "text": " og så sige, hey, hvad er det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1605.0,
       "end": 1607.0,
       "text": " Har du brugt ChatGPT til helserelaterede ting?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1607.0,
       "end": 1609.0,
       "text": " Ja, det har jeg faktisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1609.0,
       "end": 1611.0,
       "text": " Nu laver jeg,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1611.0,
       "end": 1613.0,
       "text": " at vi var i Vietnam",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1613.0,
       "end": 1615.0,
       "text": " i starten af året, hvor",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1615.0,
       "end": 1617.0,
       "text": " vi blev begge to voldst og syge i løbet af",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1617.0,
       "end": 1619.0,
       "text": " den her tur her, og vi skulle ned på apoteket,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1619.0,
       "end": 1621.0,
       "text": " og vi fattede jo ikke en skid af, hvad der stod på de her",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1621.0,
       "end": 1623.0,
       "text": " ting, som vi havde fået udleveret",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1623.0,
       "end": 1625.0,
       "text": " nede på apoteket. Der brugte vi det rigtig meget",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1625.0,
       "end": 1627.0,
       "text": " til at finde ud af, okay, vi har de her tre",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1627.0,
       "end": 1629.0,
       "text": " præparater her. Der er noget pilleværk og et eller andet",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1629.0,
       "end": 1631.0,
       "text": " til maven. Hvordan skal det",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1631.0,
       "end": 1633.0,
       "text": " tages? Hvornår skal det tages?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1633.0,
       "end": 1635.0,
       "text": " Den endte faktisk med at lave sådan en hel timeline for os,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1635.0,
       "end": 1637.0,
       "text": " for okay, du har taget det der, så det næste, det må du tage",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1637.0,
       "end": 1639.0,
       "text": " her om to-tre timer. Så på den måde har",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1639.0,
       "end": 1641.0,
       "text": " den været helt fantastisk. Jeg vil sige, jeg har brugt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1641.0,
       "end": 1643.0,
       "text": " det i den lette ende indtil nu, så det er sådan noget med",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1643.0,
       "end": 1645.0,
       "text": " at lave en træningsplan for at opnå det her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1645.0,
       "end": 1647.0,
       "text": " mål, og jeg har ondt i skulderen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1647.0,
       "end": 1649.0,
       "text": " Kan jeg godt lave den her øvelse, eller skal jeg lade være",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1649.0,
       "end": 1651.0,
       "text": " med det? Sådan i den retning der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1651.0,
       "end": 1653.0,
       "text": " jeg vil ikke have noget i. Nu har jeg ikke haft nogen anledning",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1653.0,
       "end": 1655.0,
       "text": " til at oplåde min blodprøve. Hvis jeg fik",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1655.0,
       "end": 1657.0,
       "text": " en anledning, ville jeg ikke have det fjernstem ud",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1657.0,
       "end": 1659.0,
       "text": " og oplåde det. Det er lidt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1659.0,
       "end": 1661.0,
       "text": " ligesom det der med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1661.0,
       "end": 1663.0,
       "text": " hvad skal vi gøre med alle de bedste modeller?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1663.0,
       "end": 1665.0,
       "text": " Kinesiske, så må vi bruge dem indtil Europa bygger nogle bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1665.0,
       "end": 1667.0,
       "text": " Så det er absolut et andet problem end det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1667.0,
       "end": 1669.0,
       "text": " Og jeg har også en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1669.0,
       "end": 1671.0,
       "text": " kone mininde, hvis hun blev syg på",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1671.0,
       "end": 1673.0,
       "text": " et tidspunkt og bare blev sendt hjem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1673.0,
       "end": 1675.0,
       "text": " og så sad hun og skrev med ChatGPC",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1675.0,
       "end": 1677.0,
       "text": " det halve af natten og vurderede, at der var noget galt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1677.0,
       "end": 1679.0,
       "text": " fik hun tjekket for det, og så viste det sig, at den var",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1679.0,
       "end": 1681.0,
       "text": " dødssyg. Altså,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1681.0,
       "end": 1683.0,
       "text": " den endte med at overleve, men det var den nok ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1683.0,
       "end": 1685.0,
       "text": " hvis ikke hun havde skrevet med ChatGPC og fået",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1685.0,
       "end": 1687.0,
       "text": " nogle idéer til, hvad hun",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1687.0,
       "end": 1689.0,
       "text": " skulle gå op og be en dyrlæge om at tjekke, og så var det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1689.0,
       "end": 1691.0,
       "text": " rent faktisk det, der også var problemet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1691.0,
       "end": 1693.0,
       "text": " Så jeg synes, det var interessant,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1693.0,
       "end": 1695.0,
       "text": " at health fyldes så meget, fordi det gør det jo kun,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1695.0,
       "end": 1697.0,
       "text": " fordi det er en enorm stor use case",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1697.0,
       "end": 1699.0,
       "text": " for dem i forvejen, og de havde lagt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1699.0,
       "end": 1701.0,
       "text": " ret meget arbejde i, at når man",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1701.0,
       "end": 1703.0,
       "text": " stiller et spørgsmål omkring ens helbred,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1703.0,
       "end": 1705.0,
       "text": " at den simpelthen skulle give mere præcise",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1705.0,
       "end": 1707.0,
       "text": " svar, og at det er også svært at forestille sig et område, hvor det er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1707.0,
       "end": 1709.0,
       "text": " værre, hvis den giver forkerte svar. Ja, lige præcis.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1709.0,
       "end": 1711.0,
       "text": " Lige præcis. Nu har vi",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1711.0,
       "end": 1713.0,
       "text": " snakket om alle de ting, som kommer i",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1713.0,
       "end": 1715.0,
       "text": " ChatGPC 5. Nogle af de ting, den gør bedre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1715.0,
       "end": 1717.0,
       "text": " i forhold til kodning og hurtigere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1717.0,
       "end": 1719.0,
       "text": " man kan ikke vælge forkert længere, den skal ikke skrive sig af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1719.0,
       "end": 1721.0,
       "text": " længere, vi skal have elimineret hallucinationer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1721.0,
       "end": 1723.0,
       "text": " vi har de her self-completion, study mode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1723.0,
       "end": 1725.0,
       "text": " voice improvements og alt det der. Lad os lige",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1725.0,
       "end": 1727.0,
       "text": " snakke om, da du sad og så det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1727.0,
       "end": 1729.0,
       "text": " hvad tænker du, at den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1729.0,
       "end": 1731.0,
       "text": " mangler? Hvad var alle trollene i YouTube",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1731.0,
       "end": 1733.0,
       "text": " kommentarfeltet skuffede over?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1733.0,
       "end": 1735.0,
       "text": " Der er jo rigtig mange, der var skuffede over",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1735.0,
       "end": 1737.0,
       "text": " den her manglende",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1737.0,
       "end": 1739.0,
       "text": " agentic feature, altså det er det mere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1739.0,
       "end": 1741.0,
       "text": " jeg ved ikke,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1741.0,
       "end": 1743.0,
       "text": " hvordan man skal sige det på dansk, men agentic,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1743.0,
       "end": 1745.0,
       "text": " altså agentic AI, at der ikke kom sådan en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1745.0,
       "end": 1747.0,
       "text": " eller det, vi kender fra Manus,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1747.0,
       "end": 1749.0,
       "text": " som vi jo begge to bruger",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1749.0,
       "end": 1751.0,
       "text": " flittigt, det mangler,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1751.0,
       "end": 1753.0,
       "text": " altså det, og så var der",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1753.0,
       "end": 1755.0,
       "text": " også rigtig mange, der skrev omkring billedgenerering,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1755.0,
       "end": 1757.0,
       "text": " de savnede altså at have set noget mere billedgenerering,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1757.0,
       "end": 1759.0,
       "text": " men det var sådan de to primære",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1759.0,
       "end": 1761.0,
       "text": " ting, som jeg kunne læse mig frem til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1761.0,
       "end": 1763.0,
       "text": " der var tusindvis af kommentarer, det var faktisk",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1763.0,
       "end": 1765.0,
       "text": " ret svært at følge med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1765.0,
       "end": 1767.0,
       "text": " Jeg vil sige, at den helt store for mig, det er, når jeg ser på mit",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1767.0,
       "end": 1769.0,
       "text": " AI forbrug i dag, på hvilke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1769.0,
       "end": 1771.0,
       "text": " LLM'er og tjenester jeg bruger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1771.0,
       "end": 1773.0,
       "text": " så er den, jeg bruger mest,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1773.0,
       "end": 1775.0,
       "text": " Manus, og vi har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1775.0,
       "end": 1777.0,
       "text": " nævnt den tidligere til dem, der ikke kender den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1777.0,
       "end": 1779.0,
       "text": " Manus er en general purpose",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1779.0,
       "end": 1781.0,
       "text": " agent, som har et chat interface,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1781.0,
       "end": 1783.0,
       "text": " ligesom du kender med ChatGPT, forskellen er, at den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1783.0,
       "end": 1785.0,
       "text": " kan udføre hele din opgave for dig, i stedet for at bare give dig noget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1785.0,
       "end": 1787.0,
       "text": " tekst tilbage. OpenAI har forsøgt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1787.0,
       "end": 1789.0,
       "text": " at lave noget lidt i det samme stil med deres",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1789.0,
       "end": 1791.0,
       "text": " lansering af noget, de kaldte Operator, fungerede overhovedet ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1791.0,
       "end": 1793.0,
       "text": " og de har droppet det igen, og der er nogle andre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1793.0,
       "end": 1795.0,
       "text": " general purpose agenter, der er derude, sådan lidt Manus",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1795.0,
       "end": 1797.0,
       "text": " er, i mit indtryk er det klart den mest",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1797.0,
       "end": 1799.0,
       "text": " udbredte, og jeg vil sige, at al min AI",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1799.0,
       "end": 1801.0,
       "text": " forbrug, så ligger, lad os gætte,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1801.0,
       "end": 1803.0,
       "text": " på 70-80% faktisk i Manus,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1803.0,
       "end": 1805.0,
       "text": " og det er både for at få hjælp til at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1805.0,
       "end": 1807.0,
       "text": " korrekturlæse e-mails, til at generere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1807.0,
       "end": 1809.0,
       "text": " billeder, hvis man følger med på LinkedIn",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1809.0,
       "end": 1811.0,
       "text": " nyhedsbredelse i marketing, på at vi mange af vores kopper",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1811.0,
       "end": 1813.0,
       "text": " fortsætter at være genereret af Manus,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1813.0,
       "end": 1815.0,
       "text": " jeg bruger den rigtig meget til at få hjælp",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1815.0,
       "end": 1817.0,
       "text": " til udarbejdelse af præsentationer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1817.0,
       "end": 1819.0,
       "text": " til spreadsheets, til dokumenter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1819.0,
       "end": 1821.0,
       "text": " jeg har bygget WordPress",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1821.0,
       "end": 1823.0,
       "text": " temaer med den, og fået dem lagt ud i en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1823.0,
       "end": 1825.0,
       "text": " færdig zip-fil, jeg bare kunne upload, og det virkede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1825.0,
       "end": 1827.0,
       "text": " bagefter, hold kæft, jeg har lavet mange",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1827.0,
       "end": 1829.0,
       "text": " ting med den, og det der er fedt ved den, det er at jeg kan give",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1829.0,
       "end": 1831.0,
       "text": " den opgave, og den løser opgaven, hvor",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1831.0,
       "end": 1833.0,
       "text": " OpenAI og ChatGPT kan tage,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1833.0,
       "end": 1835.0,
       "text": " jeg kan give den et prompt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1835.0,
       "end": 1837.0,
       "text": " og så får jeg noget tekst tilbage, som jeg kan lægge ind i den opgave,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1837.0,
       "end": 1839.0,
       "text": " jeg alligevel er i gang med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1839.0,
       "end": 1841.0,
       "text": " og den del,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1841.0,
       "end": 1843.0,
       "text": " altså, jeg forestiller mig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1843.0,
       "end": 1845.0,
       "text": " på baggrunden af det her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1845.0,
       "end": 1847.0,
       "text": " livestream, at jeg kommer faktisk nok",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1847.0,
       "end": 1849.0,
       "text": " ikke til at bruge ChatGPT mere, fordi vi har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1849.0,
       "end": 1851.0,
       "text": " fået ChatGPT 5, i forhold til de andre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1851.0,
       "end": 1853.0,
       "text": " fordi det er en helt stor ting for mig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1853.0,
       "end": 1855.0,
       "text": " det er, at når jeg bruger AI",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1855.0,
       "end": 1857.0,
       "text": " i Manus, at det løser den faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1857.0,
       "end": 1859.0,
       "text": " en meget større del af opgaven, end",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1859.0,
       "end": 1861.0,
       "text": " ChatGPT gør, så en lidt hurtigere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1861.0,
       "end": 1863.0,
       "text": " version af noget, jeg alligevel selv skal lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1863.0,
       "end": 1865.0,
       "text": " alt arbejdet med bagefter, gør faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1865.0,
       "end": 1867.0,
       "text": " ikke en kæmpe forskel, og det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1867.0,
       "end": 1869.0,
       "text": " jeg havde troet og håbet, at hele",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1869.0,
       "end": 1871.0,
       "text": " den her agent-del og den operationelle",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1871.0,
       "end": 1873.0,
       "text": " del, og der hvor den går ind og løser opgaven,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1873.0,
       "end": 1875.0,
       "text": " i stedet for bare at sende tekst tilbage til dig, skulle have fyldt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1875.0,
       "end": 1877.0,
       "text": " mere i dag, end det rent faktisk gjorde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1877.0,
       "end": 1879.0,
       "text": " og det vil jeg sige, det er den store",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1879.0,
       "end": 1881.0,
       "text": " negative overraskelse",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1881.0,
       "end": 1883.0,
       "text": " for mig, fordi",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1883.0,
       "end": 1885.0,
       "text": " jeg kan se, om det er ChatGPT",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1885.0,
       "end": 1887.0,
       "text": " eller Gemini eller Claude eller",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1887.0,
       "end": 1889.0,
       "text": " Grok, er jeg faktisk ligeglad med, fordi Manus er den eneste,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1889.0,
       "end": 1891.0,
       "text": " der kan løse en meget større del af den samlede opgave,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1891.0,
       "end": 1893.0,
       "text": " jeg giver, og om den så er lidt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1893.0,
       "end": 1895.0,
       "text": " langsommere og lidt dårligere på hælse, er jeg fuldstændig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1895.0,
       "end": 1897.0,
       "text": " ligeglad med, det er klart den, jeg bruger mest alligevel, og jeg er mest",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1897.0,
       "end": 1899.0,
       "text": " betalingsvillig for, lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1899.0,
       "end": 1901.0,
       "text": " Christian, hvis vi skal opsummere til sidst, hvis du har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1901.0,
       "end": 1903.0,
       "text": " en af dine kunder, der ringer i morgen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1903.0,
       "end": 1905.0,
       "text": " og spørger, ChatGPT 5,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1905.0,
       "end": 1907.0,
       "text": " skal jeg bruge det til alt fremadrettet, hvad",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1907.0,
       "end": 1909.0,
       "text": " er sådan din samlede vurdering eller opsummering af det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1909.0,
       "end": 1911.0,
       "text": " Nå, det var et bredt spørgsmål, til alt?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1911.0,
       "end": 1913.0,
       "text": " Nej, det tror jeg ikke, vi har næsten specificeret, hvad det er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1913.0,
       "end": 1915.0,
       "text": " Men jeg vil så kunne sige til",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1915.0,
       "end": 1917.0,
       "text": " den her givende kunde, at det",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1917.0,
       "end": 1919.0,
       "text": " kun er blevet bedre, så det er blevet bedre",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1919.0,
       "end": 1921.0,
       "text": " end det var i går, så hvis",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1921.0,
       "end": 1923.0,
       "text": " man mener, at",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1923.0,
       "end": 1925.0,
       "text": " ChatGPT tidligere har kunne løse den",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1925.0,
       "end": 1927.0,
       "text": " givende opgave, så er det kun blevet bedre nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1927.0,
       "end": 1929.0,
       "text": " Jeg vil også sige, hvis du var glad for det før, så er det bedre nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1929.0,
       "end": 1931.0,
       "text": " Det er en opgradering. Hvis du sidder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1931.0,
       "end": 1933.0,
       "text": " ultra hardcore, bygger flows, agenter",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1933.0,
       "end": 1935.0,
       "text": " og havde ønsket dig en general purpose",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1935.0,
       "end": 1937.0,
       "text": " agent, så bliver du nok en lille",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1937.0,
       "end": 1939.0,
       "text": " smule skuffet, men det er selvfølgelig et stort",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1939.0,
       "end": 1941.0,
       "text": " skridt frem. Jeg glæder mig til, at vi skal lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1941.0,
       "end": 1943.0,
       "text": " den næste nødpodcast i",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1943.0,
       "end": 1945.0,
       "text": " 2027, når vi får GPT 6",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1945.0,
       "end": 1947.0,
       "text": " på et eller andet tidspunkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1947.0,
       "end": 1949.0,
       "text": " Til da.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1949.0,
       "end": 1951.0,
       "text": " Tusind tak, fordi du lyttede med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1951.0,
       "end": 1953.0,
       "text": " På igen her på mandag til en helt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1953.0,
       "end": 1955.0,
       "text": " almindelig episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

@@ -9,1151 +9,1155 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 9.0,
       "text": " Christian, i denne episode kommer vi til at snakke om must-have-email-flows til e-commerce-virksomheder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.0,
       "end": 17.0,
       "text": " Jeg snakker jo altid om, jo større en del af omsætningen, vi kan få fra flows i forhold til kampagner, des bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 17.0,
       "end": 19.0,
       "text": " Hvorfor er det, vi plejer at sige det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.0,
       "end": 23.0,
       "text": " Fordi flows ligger jo og kører af sig selv, og det er jo det, der er så fantastisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 23.0,
       "end": 30.0,
       "text": " Det er ikke noget med at skulle sidde og opfinde den dybe talerken med en eller anden kampagne og give en masse rabat, der nødvendigvis er alt muligt andet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 30.0,
       "end": 34.0,
       "text": " Nej, med flows der kører det altså i godsøjne af sig selv automatisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 34.0,
       "end": 40.0,
       "text": " Og jeg oplever også omsætningen højere, fordi de er mere relevant, fordi flows er jo baseret på en eller anden trigger, en eller anden hændelse på sitet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 40.0,
       "end": 44.0,
       "text": " som gør, at det er et stykke tid siden, man har købt noget, eller man har kigget på noget, eller hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 44.0,
       "end": 50.0,
       "text": " Så de er også bare mere relevante end sådan en e-mail-blast, der bare går ud til hele listen og fisker med det helt brede net.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 50.0,
       "end": 54.0,
       "text": " Så de er automatiserede, og du tjener flere penge på dem. Man bør øve dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 57.0,
       "text": " Og det er lige præcis derfor, at det er et spørgsmål, jeg plejer at stille til nogen, der er sådan lidt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 57.0,
       "end": 61.0,
       "text": " uuh, skal vi til at samle mails op, og gider vi det, og er det virkelig den lavestændige frugt?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 61.0,
       "end": 67.0,
       "text": " Jamen så ville du takke nej til at kunne følge dine besøgende rundt på sitet, og ud fra deres agerende på sitet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 67.0,
       "end": 71.0,
       "text": " sende dem nogle skræddersyede mails til vedkommende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 71.0,
       "end": 73.0,
       "text": " Hvis du kunne svare nej til det, så er det fint, så lukker vi ned for samtalen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 74.0,
       "end": 76.0,
       "text": " Jeg har ikke oplevet endnu, at der er nogen, der siger nej til det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 76.0,
       "end": 81.0,
       "text": " Hvis svaret er ja, godt, så giver det altså mening at ligge og samle de her mails op. Og så dernæst er jo de flows her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 81.0,
       "end": 84.0,
       "text": " Lad os hoppe ud i det. Hvad er det første flow, vi skal igennem?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 84.0,
       "end": 88.0,
       "text": " Det måske vigtigste, højeste omsætning per e-mail udsendt, som alle bør starte med?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 88.0,
       "end": 92.0,
       "text": " Yes, vi skal snakke om abandoned cart og abandoned checkout.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 92.0,
       "end": 97.0,
       "text": " Og det er lidt vigtigt lige at have i minde, at det er to forskellige flows,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 97.0,
       "end": 99.0,
       "text": " men ofte bliver de her ord brugt lidt i flæng.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 99.0,
       "end": 104.0,
       "text": " Abandoned cart. Folk, der har lagt noget i kurven og hopper væk igen af en eller anden årsager og ikke gennemfører købet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 104.0,
       "end": 107.0,
       "text": " Dem vil vi jo selvfølgelig gerne ramme og kunne fortælle, at du har sku glemt din indkøbskur.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 107.0,
       "end": 109.0,
       "text": " Vi står altså klar til at pakke den, for eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 109.0,
       "end": 113.0,
       "text": " Hvorimod abandoned checkout, der er de rent faktisk aktivt gået til betalingsvinduet, men hoppet ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 113.0,
       "end": 115.0,
       "text": " Det kan der jo være andre årsager til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 115.0,
       "end": 120.0,
       "text": " Så der kan man godt skræddersy sit flow, altså sin e-mail, til at tale lidt mere ind i den situation.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 120.0,
       "end": 124.0,
       "text": " Og havde du heller ikke lige dit kreditkort på dig, eller havde du ikke lige whatever.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 124.0,
       "end": 129.0,
       "text": " Men de to flows er de absolut vigtigste, hvis ikke man har styr på dem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 129.0,
       "end": 131.0,
       "text": " Og det er ikke fordi, du vil sende dem begge to, vel?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 131.0,
       "end": 133.0,
       "text": " Altså det er at sende abandoned cart, hvis de ikke har lavet et checkout.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 133.0,
       "end": 135.0,
       "text": " Hvis de har påbegyndt et checkout, så send den i stedet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 135.0,
       "end": 138.0,
       "text": " Så det handler mere om personaliseringen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.0,
       "end": 139.0,
       "text": " Det handler om at sende flere mails her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 139.0,
       "end": 144.0,
       "text": " Apropos flere mails, så har vi jo mulighed for at lave det, der hedder product browse, eller bare browse abandonment.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 144.0,
       "end": 146.0,
       "text": " Og det er jo folk, som ikke har lavet et checkout.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 148.0,
       "text": " De har heller ikke lavet et abandoned cart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 151.0,
       "text": " De har bare kigget på et produkt, og er så blevet identificeret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 151.0,
       "end": 153.0,
       "text": " Så på en eller anden måde, så er du lidt længere oppe i fronten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 153.0,
       "end": 157.0,
       "text": " Og man kan argumentere for, at du er et nygt mere aggressiv ved at sende de her mails ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 157.0,
       "end": 161.0,
       "text": " Fordi der er jo selvfølgelig flere, der kigger på et produkt, end den, der rent faktisk ligger det i kurven,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 161.0,
       "end": 163.0,
       "text": " eller en, der går i gang med et checkout.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 163.0,
       "end": 165.0,
       "text": " Anbefaler du at sætte...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 165.0,
       "end": 167.0,
       "text": " Jeg bliver nogle gange spurgt, er det her for aggressivt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 167.0,
       "end": 170.0,
       "text": " Altså vil du anbefale alle virksomheder at køre et browse abandonment flow?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 171.0,
       "end": 173.0,
       "text": " Ja, vi er også lidt aggressive.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 173.0,
       "end": 174.0,
       "text": " Så jeg kan sgu godt lide det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 174.0,
       "end": 175.0,
       "text": " Jeg synes, det er fedt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 175.0,
       "end": 179.0,
       "text": " Men det var fordi, jeg har set tallene hos webshops, der ville teste det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 179.0,
       "end": 181.0,
       "text": " Så prøvede vi lige at sætte det op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 181.0,
       "end": 182.0,
       "text": " Og det fungerer bare.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 182.0,
       "end": 186.0,
       "text": " Jeg kan så godt købe den her med, at det bliver måske for nogle brands lidt for aggressivt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 186.0,
       "end": 190.0,
       "text": " Og det vi så har gjort der, det er at vi siger, okay, så tager vi altså top 5 eller top 10 produkter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 190.0,
       "end": 193.0,
       "text": " hvor vi rent faktisk kan lave en god oplevelse med den her email.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 193.0,
       "end": 197.0,
       "text": " Altså gå lidt mere i dybden med de her produkter, så det ikke bare er en eller anden dynamisk blog,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 197.0,
       "end": 199.0,
       "text": " der viser, du kigger på det her produkt, husk lige at købe det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 199.0,
       "end": 201.0,
       "text": " Det er lidt sat på spidsen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 201.0,
       "end": 203.0,
       "text": " Men hvor man rent faktisk går i dybden med det her produkt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 203.0,
       "end": 206.0,
       "text": " altså lavet af det her kvalitet, og så så mange folk har købt det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 206.0,
       "end": 208.0,
       "text": " og det siger de om det osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 208.0,
       "end": 210.0,
       "text": " Ja, det tager noget tid, men husk nu på, når først det er sat op en gang,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 210.0,
       "end": 214.0,
       "text": " så ligger det altså at køre, og det kan blive ret stort aktiv for din forretning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 214.0,
       "end": 217.0,
       "text": " Jeg er generelt også fan af det, også fordi man kan bruge det på en god måde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 217.0,
       "end": 220.0,
       "text": " En ting er, hvis man sender en mail ud og siger, at du har kigget på det her produkt, skal du købe det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 222.0,
       "text": " Det er heller ikke særlig fed mail at få.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 222.0,
       "end": 224.0,
       "text": " Den skal nok virke i øvrigt, men den er ikke særlig fed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 227.0,
       "text": " Men man kunne godt sende en mail ud, der siger, at du har kigget på det her produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.0,
       "end": 229.0,
       "text": " men du har ikke købt det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 229.0,
       "end": 231.0,
       "text": " Har du nogle spørgsmål, så har du vores support her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 231.0,
       "end": 233.0,
       "text": " Vi har live-chat her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 233.0,
       "end": 235.0,
       "text": " Vi har et forum med folk, som har købt produkterne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.0,
       "end": 237.0,
       "text": " eller en Facebook-gruppe, eller et eller andet herovre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 237.0,
       "end": 240.0,
       "text": " Altså man kan bruge det som en eller anden mulighed for at lave noget relevant kundeservice",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 240.0,
       "end": 243.0,
       "text": " på et tidspunkt, hvor folk rent faktisk kigger på produkterne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 243.0,
       "end": 245.0,
       "text": " Så har vi post-purchase.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 245.0,
       "end": 247.0,
       "text": " Det her laver man til alle dem, der har købt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 247.0,
       "end": 249.0,
       "text": " Og post-purchase-flådet kan indeholde flere forskellige ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 249.0,
       "end": 252.0,
       "text": " Nogle vil bruge det til at indsamle en trust på en meldelse, for eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 255.0,
       "text": " Andre vil bruge det til at lave noget relateret krydssal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 256.0,
       "end": 260.0,
       "text": " Det gode ved de her mails er, at lige når folk har købt, så har de typisk en meget høj åbningsrate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 262.0,
       "text": " De ved, hvem du er. De har lige købt. De har tidligere taget dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 262.0,
       "end": 264.0,
       "text": " Måske tænker de, at det er en opdatering på deres order. Hvem ved?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.0,
       "end": 267.0,
       "text": " Det er i hvert fald nogle mails, der har en meget høj åbningsrate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.0,
       "end": 270.0,
       "text": " Og hvis man laver kohortanalyser af, hvornår folk køber igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 273.0,
       "text": " så er det oftest lige efter et køb, at de er mest tilbøjelige til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 273.0,
       "end": 275.0,
       "text": " Og så falder det bare derfra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 275.0,
       "end": 278.0,
       "text": " Så man skal ikke være alt for tilbageholdende med at sende mails lige efter folk har købt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 280.0,
       "text": " for de er faktisk der, hvor der er flest, der er tilbøjelige til at købe igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 283.0,
       "text": " selvom det kan lyde sådan en lille smule kontraintuitivt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 283.0,
       "end": 288.0,
       "text": " Så post-purchase flowet, uanset om det bruges til krydssal, eller til kundeservice,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 288.0,
       "end": 293.0,
       "text": " eller det kunne også være til at minske risikoen for, at de refunderer produktet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 295.0,
       "text": " fordi de ikke kan finde ud af at bruge det, eller hvad det skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 297.0,
       "text": " Det er også bare et vigtigt flow, fordi det har en høj åbningsrate,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 297.0,
       "end": 299.0,
       "text": " er super timely og taler ind i det der krydssal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 299.0,
       "end": 303.0,
       "text": " Lige præcis. Altså post-purchase flow er fantastisk til at berige nogle af dine aktiver.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 303.0,
       "end": 306.0,
       "text": " Det kunne fx være i form af din Facebook-gruppe.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 306.0,
       "end": 308.0,
       "text": " Det er et perfekt tidspunkt at få folk ind i Facebook-gruppen på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 308.0,
       "end": 311.0,
       "text": " hvordan du så også kan ramme den efterfølgende i din markedsføring.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 311.0,
       "end": 312.0,
       "text": " Så meget enig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 312.0,
       "end": 315.0,
       "text": " Lad os hoppe videre til back-end-stock-flowet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 315.0,
       "end": 318.0,
       "text": " Det kræver lige lidt opsætning at kunne køre det her flow,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 318.0,
       "end": 321.0,
       "text": " men når først det er sat op, så fungerer det altså rigtig godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 321.0,
       "end": 326.0,
       "text": " Det er de færreste e-commerces, der formår at have alle deres bedst solgte varer på lær hele tiden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 326.0,
       "end": 327.0,
       "text": " Der sker ting og sager.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 327.0,
       "end": 331.0,
       "text": " Der kan være eksterne faktorer, der påvirker det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 331.0,
       "end": 333.0,
       "text": " Man er måske ikke selv så god i indkøb, osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 333.0,
       "end": 336.0,
       "text": " Nogle tidspunkter, hvor man står med nogle varer, man ville ønske man havde på lær,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 336.0,
       "end": 338.0,
       "text": " men som der ikke er på lær.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 338.0,
       "end": 340.0,
       "text": " Det er at give kunden muligheden for at skrive sig op til at få at vide,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 340.0,
       "end": 342.0,
       "text": " så snart den her vare lander på lær.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 342.0,
       "end": 344.0,
       "text": " Eventuelt give dem et incitament for at gøre det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 344.0,
       "end": 347.0,
       "text": " Det kunne fx være en gratis gave, når den her vare kommer på lær,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 347.0,
       "end": 348.0,
       "text": " eller en anden rabatkode.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 348.0,
       "end": 350.0,
       "text": " Ofte behøver man faktisk ikke engang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 350.0,
       "end": 351.0,
       "text": " Så kan man bare have den her boks her med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 351.0,
       "end": 352.0,
       "text": " Remind me when back-end-stock.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 352.0,
       "end": 355.0,
       "text": " Skriv til mig, når den her er tilbage på lær.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 355.0,
       "end": 358.0,
       "text": " Det fede er, at i de fleste systemer, så sker det automatisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 358.0,
       "end": 364.0,
       "text": " Så når varen er kommet hjem på lær, og den er scannet ind i jeres BMS-system,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 364.0,
       "end": 367.0,
       "text": " eller hvad man nu bruger, så sender den her mail automatisk ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 367.0,
       "end": 370.0,
       "text": " Og kommenteringsretten på de her mails er fantastisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 370.0,
       "end": 375.0,
       "text": " Så hvis ikke man har sat det op endnu, så er det altså en rigtig god idé at gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 375.0,
       "end": 377.0,
       "text": " Vi går videre til Winback Flows.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 377.0,
       "end": 381.0,
       "text": " Winback handler om at tage dem, der har købt, og så se om man kan genaktivere dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 385.0,
       "text": " Hvis man fx definerer, at en kunde er i risiko for ikke at komme igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 385.0,
       "end": 389.0,
       "text": " og der er gået 90 eller 180 dage, det afhænger selvfølgelig lidt af, hvilke produkter man sælger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 393.0,
       "text": " så kan man begynde at udløse flows på baggrunden af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 393.0,
       "end": 395.0,
       "text": " Winback Flows skal bruge forskellige metodikker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 399.0,
       "text": " Nogle vil sige, at du har købt et produkt, som du har, lad os sige, hvis det er hovedpleje,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 399.0,
       "end": 402.0,
       "text": " så har du måske brugt det, så er det måske ved at være tid til rent faktisk at købe en ny,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 402.0,
       "end": 404.0,
       "text": " fordi du har nok brugt den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 404.0,
       "end": 406.0,
       "text": " Andre vil bruge rabat som trigger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 407.0,
       "text": " Det er lang tid siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 407.0,
       "end": 411.0,
       "text": " Her har du en lille personaliseret rabatkode, som du kan bruge, hvis du skulle have lyst til at komme igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 412.0,
       "text": " Der kan være flere metodikker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 412.0,
       "end": 416.0,
       "text": " Men bare det at sætte Winback Flow op, er også som regel et af de mere profitable flows,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 416.0,
       "end": 420.0,
       "text": " fordi det kun rammer folk, som rent faktisk har købt på shoppen til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 423.0,
       "text": " Så det er bare en attraktiv måde at arbejde videre med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 423.0,
       "end": 427.0,
       "text": " Og så har vi en god en her, fordi indtil nu har vi snakket om, hvordan man tjener flere penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 429.0,
       "text": " Du har også en med, hvordan man bruger færre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 430.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 434.0,
       "text": " Hvis Winback Flow ikke fungerer, så skal man altså have gang i et Sunset Flow.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 434.0,
       "end": 439.0,
       "text": " Og jeg plejer at sige, at det er sådan en ultimativ stresstest af dine nyhedsbrevsmodtagere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 439.0,
       "end": 442.0,
       "text": " Det vil sige dem, som ikke interagerer. Du kan bare ikke få dem tilbage i bæksen igen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 442.0,
       "end": 444.0,
       "text": " og de gider ikke engang åbne dine mails osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 444.0,
       "end": 448.0,
       "text": " Her giver du dem lige en sidste chance for at se, kan det lade sig gøre, hvis ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 448.0,
       "end": 449.0,
       "text": " Ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 449.0,
       "end": 452.0,
       "text": " Fordi at nu betaler du altså på for eksempel Klavio for Active Profiles,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 452.0,
       "end": 457.0,
       "text": " og de fleste andre af de her e-mailsystemer, der betaler du for antallet af nyhedsbrevsmodtagere, du kan sende ud til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 457.0,
       "end": 461.0,
       "text": " Og det er altså ikke sjovt at blive ved med at betale for nogen, som overhovedet ikke gider at høre fra dig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 461.0,
       "end": 466.0,
       "text": " Det påvirker dine stats negativt, og det gider vi bare ikke, fordi det koster penge.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 466.0,
       "end": 471.0,
       "text": " Så hvis vi gerne vil spare nogle penge, så er sådan en Sunset Flow her fantastisk, der automatisk skal ligge og rydde ud på dine lister.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 471.0,
       "end": 477.0,
       "text": " Jeg bliver altid sulten, når du omtaler Sunset Flow, men det er desværre bare en måde at slippe på at betale for for mange aktive abonnenter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 477.0,
       "end": 480.0,
       "text": " Det har ikke noget med Burgers at gøre. Vi må skuffe folk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Men der kan blive råd til Burgers ved at køre sådan en.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 482.0,
       "end": 486.0,
       "text": " Ja, der kan blive råd til Burgers. Du kan bare fremhælde nogle flere personer i dit dumme nyhedsbrev.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 486.0,
       "end": 488.0,
       "text": " Så er der råd til mad igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 488.0,
       "end": 491.0,
       "text": " Det sidste, vi kommer til at nævne, det er Review Flow.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 491.0,
       "end": 495.0,
       "text": " Der er nogen, der vil lægge det her ind under et Post-Purchase Flow, og der er nogen, der vil køre det her separat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 495.0,
       "end": 499.0,
       "text": " Review Flows er vigtige, fordi Reviews betyder bare enormt meget for credibility.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 503.0,
       "text": " Der er mulighed for at indhente dem på Trustpilot.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 506.0,
       "text": " Man kunne redirecte dem over mod Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 506.0,
       "end": 510.0,
       "text": " Men jeg vil også bare sige ens eget site, fordi vi har også talt om det på tidligere episoder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 517.0,
       "text": " men det at få noget user-generated content ind på ens sider, især hvis man er så heldig, at du måske har lyst til at tage billeder af, hvordan de bruger deres produkter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 517.0,
       "end": 519.0,
       "text": " det er bare enormt troværdigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 519.0,
       "end": 521.0,
       "text": " Det er fantastisk social proof.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 521.0,
       "end": 529.0,
       "text": " Så Trustpilot ville være standardløsningen, men hvis du har en fin Trustpilot i forvejen, får du måske ikke så meget ekstra værdi ud af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 535.0,
       "text": " Så det at lægge dem ind på dit eget site og bruge det i forbindelse med konverteringsoptimeringen, tror jeg faktisk er en endnu bedre idé i sådan en Review Flow.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " Hvad tænker du om den?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 539.0,
       "text": " Jamen, jeg er helt enig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 539.0,
       "end": 541.0,
       "text": " Du nævnte gengse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 541.0,
       "end": 543.0,
       "text": " Jeg vil sige, tænk lidt ud af buksen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " Brug dem på egen hjemmeside.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 545.0,
       "end": 553.0,
       "text": " Selv Halvdan, han fortæller jo, at han konverterer på sådan nogle lidt halvsketchige websites, så længe de bare har nogle reelle billeder af, hvordan produktet fungerer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 553.0,
       "end": 555.0,
       "text": " Og det siger det hele.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 555.0,
       "end": 557.0,
       "text": " Der falder jeg fuldstændig for den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 557.0,
       "end": 559.0,
       "text": " Altså, det kan være skæve priser, og det er sådan .net domain, men der er nogle billeder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " Ja, det er fint nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " Nej, den giver mening også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 567.0,
       "text": " Et sidste spørgsmål her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 575.0,
       "text": " Har du sådan en ratio for, hvor meget af ens omsætning i e-mail-marketing, der bør komme fra Flows i forhold til kampagner?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " Er der sådan nogle tommelfingerregler, man kan arbejde med her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 585.0,
       "text": " Altså, en god tommelfingerregel, når vi ligger og kigger på eksploeringen fra Klæve, og den er altså hysig, hvis ikke man har været inde og redigere i den, det er omkring de 30%.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 585.0,
       "end": 587.0,
       "text": " 20-30% vil vi gerne sigte efter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 587.0,
       "end": 591.0,
       "text": " Ja, 20-30% synes jeg er en rigtig god tommelfingerregel at sigte efter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 592.0,
       "end": 594.0,
       "text": " Tusind tak fordi du lyttede med til den her episode på onsdag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 596.0,
       "text": " Udkommer næste episode af EKOM onsdag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 598.0,
       "text": " Vi glæder os til den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 600.0,
       "text": " Tak og på genhør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

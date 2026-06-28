@@ -9,215 +9,219 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Morten",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Morten",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 4.84,
       "text": " Jeg har jo drillet dig med, at du optager marketing på lidt mine vilkår, fordi jeg har tre børn,",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 4.84,
       "end": 8.6,
       "text": " og det er derfor, det altid skal være sådan i off hours eller i weekenden eller et eller andet i den stil.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 8.6,
       "end": 12.4,
       "text": " Og der har du besluttet dig for, at det er faktisk ret fedt, så nu vil du også gerne prøve at have et barn selv.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 12.4,
       "end": 17.2,
       "text": " Ja, nu må jeg takke dig. Jeg må takke dig for at have forberedt mig på, hvad det kommer til at kræve.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 17.2,
       "end": 24.16,
       "text": " Og dermed sætter det også krøllen på mine strategier. Det kan sgu godt være, at jeg ikke er særlig god til aktier.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 24.16,
       "end": 27.4,
       "text": " Så er der forhåbentlig så meget, jeg forhåbentlig er god til.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 27.4,
       "end": 31.08,
       "text": " Jamen altså, man siger jo den der, hvad er det, heldig spil, uheldig kærlighed og omvendt.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 31.08,
       "end": 34.68,
       "text": " Og hvis man siger, at aktiemarkedet er et stort spil, hvilket jeg godt synes, du kan argumentere for,",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 34.68,
       "end": 37.28,
       "text": " at du har så bare lykkes med at slå en et- og hver-eneste-runde med terningerne,",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 37.28,
       "end": 40.08,
       "text": " jamen så er det da godt, du har heldig kærlighed.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 40.08,
       "end": 47.08,
       "text": " Der er noget, jeg næsten er nødt til at spørge om her, det er, altså, nu har du lige købt Whitefiber og tabt 50% på den igen.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 47.08,
       "end": 52.2,
       "text": " Hvorfor køber du ikke bare ETF'er ligesom alle os andre, og så bare sådan bliver vi det?",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 52.2,
       "end": 56.28,
       "text": " Og nu, ret skal også være ret, nu de her investeringer, jeg ved, at dem vi kommer til at gennemgå ved dig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 56.28,
       "end": 61.0,
       "text": " det er i primært privatbeholdningen, jeg investerer primært gennem virksomhederne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 61.0,
       "end": 65.6,
       "text": " De her ETF'er er jo klart, klart, klart, udgør klart det største i min portfølje,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.6,
       "end": 70.6,
       "text": " og jeg er i plus, så jeg lider ikke af nød, der er ikke nogen, der skal have ondt af mig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 70.6,
       "end": 75.28,
       "text": " I kan godt trække jeres overførsler på MobilePay tilbage, vi er okay.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 75.28,
       "end": 80.8,
       "text": " Så ETF'erne er klart dem, der driver min aktiekonto, så det er, don't worry.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 80.8,
       "end": 82.24,
       "text": " Så dum er jeg heller ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 82.24,
       "end": 87.52,
       "text": " Jeg håber dog, at der er nogen, der kan sidde og spejle sig i det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 87.52,
       "end": 91.88,
       "text": " Fordi jeg ved, at der sidder mange derude, og har været, nok ikke lige så uheldige, det tror jeg ikke, der skal gøre,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 91.88,
       "end": 94.12,
       "text": " men i hvert fald noget tilnærmelsesvist.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 94.12,
       "end": 99.12,
       "text": " Det er det mest reserveret på det følge, jeg nogensinde har set, særligt de 45 aktier, du køber,",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 99.12,
       "end": 102.68,
       "text": " hvor 40% ender med at blive afnoteret, jeg har aldrig oplevet noget lignende.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 102.68,
       "end": 106.56,
       "text": " Det er helt sindssygt, altså det er fuldstændig sindssygt.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 106.56,
       "end": 110.24,
       "text": " Man siger jo normalt, at det gode ved aktier er, at du kan stige mere end 100%,",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 110.24,
       "end": 114.44,
       "text": " men du kan ikke falde mere end 100%, men du har simpelthen sat dig for personligt at efterprøve,",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 114.44,
       "end": 118.24,
       "text": " det vil virkelig lide at falde 100% på to ud af fem af dine oprindelige portefølje.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 118.24,
       "end": 123.4,
       "text": " Jeg er helt i chok over, hvordan du har lavet din investering.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 123.4,
       "end": 128.16,
       "text": " Jeg har også investeret lidt med hovedet under armen, men det er en helt anden boldkade det her.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 128.16,
       "end": 133.6,
       "text": " Det er en helt anden, jeg er dybt imponeret, du har sat dig for at tjene penge på det private marked,",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 133.6,
       "end": 139.28,
       "text": " arbejde dag og nat i Obsidian for at tabe dem alle sammen i det offentlige marked bagefter.",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 139.28,
       "end": 144.28,
       "text": " Der er folk på Wall Street, som lige nu får deres bonus og Cocaine & Champagne,",
-      "speaker": "A"
+      "speaker": "Morten"
     },
     {
       "start": 144.28,
       "end": 147.16,
       "text": " takket være dine elendige investeringer, som de er på den anden side af.",
-      "speaker": "A"
+      "speaker": "Morten"
     }
   ]
 }

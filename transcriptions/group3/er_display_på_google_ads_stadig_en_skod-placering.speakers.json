@@ -9,1319 +9,1323 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 6.0,
       "text": " Hej og velkommen til en ny episode af Marketingpod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.0,
       "end": 11.0,
       "text": " I dag skal vi besvare spørgsmålet, er Display stedet en skodplacering i Google Ads?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 14.0,
       "text": " Christian, vil du ikke starte med at forklare, hvad er Display egentlig for en placering?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 16.0,
       "text": " Hvad er det for en platform, vi snakker om her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 25.0,
       "text": " Jo, men Display det er de skide irriterende annoncer, du ser på nyhedsmedierne og i de apps, hvis du sidder og spiller Candy Crush.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 26.0,
       "end": 30.0,
       "text": " Nej, det er de her bannerannonceringer, du ser rundt omkring og de kan købes ind på mange forskellige måder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 30.0,
       "end": 34.0,
       "text": " Og det vi snakker om i dag, det er Display Ads via Google Ads.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 34.0,
       "end": 42.0,
       "text": " Og det er en af de placeringer, som man nogle gange tyger til, når man lige mangler noget at lave i Google Ads-kontoen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 42.0,
       "end": 44.0,
       "text": " Udefra kundernes side af, har jeg oplevet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 44.0,
       "end": 47.0,
       "text": " Altså jeg er blevet spurgt af kunderne, kan vi ikke bare lige starte noget Display Ads?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 47.0,
       "end": 51.0,
       "text": " Og så skal man i gang med at forklare, hvorfor det måske ikke er en skide god idé.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 52.0,
       "end": 60.0,
       "text": " Så er der nogle gode ting ved Display også, så man skal lige lytte til hele episoden, før man får hele konklusionen med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 60.0,
       "end": 64.0,
       "text": " Okay, lad os starte med de gode ting, fordi jeg er ikke sikker på, at jeg ved, hvad det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.0,
       "end": 67.0,
       "text": " Så hvad er de gode ting ved Googles Display-netværk?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.0,
       "end": 71.0,
       "text": " Jeg vil sige, det er en ok måde at lave remarketing på, to be honest.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 71.0,
       "end": 76.0,
       "text": " Altså remarketing, hvordan du har haft nogle besøgende inden og kigget på nogle produkter, og du vil gerne følge dem rundt omkring.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 76.0,
       "end": 79.0,
       "text": " Du kender det måske selv, når du har været inde på Zalando.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 79.0,
       "end": 82.0,
       "text": " Jeg aner ikke, hvor Zalando køber deres Display Ads igennem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 82.0,
       "end": 85.0,
       "text": " Men bare for at tage et eksempel, så bliver du simpelthen bombarderet med dem efterfølgende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 85.0,
       "end": 88.0,
       "text": " Og det kan faktisk godt fungere relativt fint.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 88.0,
       "end": 90.0,
       "text": " Men det er så også ved at være der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 90.0,
       "end": 94.0,
       "text": " Jeg ved, at der er nogen, der forsøger at pushe det ved, at det er billigt brain awareness.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 94.0,
       "end": 99.0,
       "text": " Ja, men billigt det er så også fordi, at du ligger på alt det restlager, som Google har af inventory.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 99.0,
       "end": 102.0,
       "text": " Altså af annonceplads, som ingen andre gad at have.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 102.0,
       "end": 105.0,
       "text": " Og så er det derfor, at det er billigt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 105.0,
       "end": 108.0,
       "text": " Så det er nok der, vi er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 108.0,
       "end": 112.0,
       "text": " Jeg kan se flere issues med det, og udfordringer og negative ting, end jeg kan se positive ting,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 112.0,
       "end": 115.0,
       "text": " når man køber det igennem Google Ads på den traditionelle måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 115.0,
       "end": 120.0,
       "text": " Og det man også skal forstå, det er, at Google Display Netværket var en ret stor del af Googles platform.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 120.0,
       "end": 122.0,
       "text": " Det er det ikke længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 128.0,
       "text": " I 2004 udgjorde Display Netværket næsten 50% af Googles advertising revenue.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 128.0,
       "end": 133.0,
       "text": " Hvor i 2022, hvor den graf jeg har fundet her slutter, der er vi altså lige over 10%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 133.0,
       "end": 138.0,
       "text": " Så det er faldet fra 50 til 10% fra mellem 2004 til 2022.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.0,
       "end": 140.0,
       "text": " Jeg gætter på, at det er endnu længere været.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 143.0,
       "text": " Jeg læste også en anden nyhed til en forberedelse til den her episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.0,
       "end": 148.0,
       "text": " hvor jeg kunne se, at Googles display revenue er faldet seks kvartaler i streg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 151.0,
       "text": " Og det er faktisk den eneste del af Googles annoncepalette, der ikke bokser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 151.0,
       "end": 155.0,
       "text": " YouTube eksploderer, search charts går pissegodt, shopping går pissegodt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 155.0,
       "end": 158.0,
       "text": " Display falder for shit i kvartalet i streg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 158.0,
       "end": 162.0,
       "text": " Annoncererne trækker lige nu effektivt penge ud af display.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.0,
       "end": 164.0,
       "text": " Det betyder ikke, at de ikke bruger penge på bandeannoncering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 164.0,
       "end": 166.0,
       "text": " men flowet er, at det går ud af standard display,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 170.0,
       "text": " og så går det ind på high impact programmatic, som jeg ser det i øjeblikket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 170.0,
       "end": 175.0,
       "text": " Så nu har du sagt en god case ved displayannoncering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 175.0,
       "end": 177.0,
       "text": " En god case, det kan være, at der måske er noget med remarketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 177.0,
       "end": 180.0,
       "text": " der måske kan være rigtigt i nogle enkelte tilfælde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 180.0,
       "end": 184.0,
       "text": " Lad os snakke lidt om, hvorfor display er faldet fra 50% til 10%",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 184.0,
       "end": 186.0,
       "text": " af Googles omsætning over de sidste 20 år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 186.0,
       "end": 188.0,
       "text": " Hvad er de dårlige ting ved display i virkeligheden?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 190.0,
       "text": " Lad os starte med de dårlige adplaceringer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 190.0,
       "end": 194.0,
       "text": " Det er jo fordi, at hvis man er professional buyer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 194.0,
       "end": 196.0,
       "text": " altså køber af de her displayannonceringer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 196.0,
       "end": 198.0,
       "text": " så er det, som du selv sagde, mere programmatisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 198.0,
       "end": 200.0,
       "text": " Du går til værks, du går mere professional til værks,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 200.0,
       "end": 202.0,
       "text": " gennem det, man kalder DSP-platformen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 202.0,
       "end": 207.0,
       "text": " Der kan du rent faktisk lettere og intentionelt købe de placeringer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 207.0,
       "end": 209.0,
       "text": " du egentlig gerne vil have.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 209.0,
       "end": 212.0,
       "text": " Jeg tror, at alle, der har kørt display gennem Google Ads,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 212.0,
       "end": 215.0,
       "text": " har prøvet før at blive vist på nogle apps og sider,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 215.0,
       "end": 217.0,
       "text": " hvor man bare sidder og tænker, hvad pokker det for noget?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 217.0,
       "end": 219.0,
       "text": " Og det leder os videre til næste spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 219.0,
       "end": 222.0,
       "text": " Er det de der sider, du åbner en incognito-bane på telefonen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 222.0,
       "end": 224.0,
       "text": " eller hvad du snakker om der?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 226.0,
       "text": " Ja, det kunne det godt være.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 226.0,
       "end": 230.0,
       "text": " Det kunne det sagtens være, men det er et meget godt eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 230.0,
       "end": 232.0,
       "text": " Fordi det leder os videre til næste problem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 232.0,
       "end": 235.0,
       "text": " Der er en enorm stor risiko for click fraud,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 235.0,
       "end": 237.0,
       "text": " altså bot-trafik, som du får lov til at betale for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 237.0,
       "end": 241.0,
       "text": " men som samtidig også giver algoritmen nogle forkerte signaler,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 241.0,
       "end": 246.0,
       "text": " så du bliver ved med at blive vist på de her falske sider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 246.0,
       "end": 248.0,
       "text": " De har en betegnelse. Jeg kan faktisk ikke huske, hvad de hedder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 248.0,
       "end": 250.0,
       "text": " men de her hjemmesider, der kun er lavet til at vise",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 250.0,
       "end": 253.0,
       "text": " Banner Display Ads, hvor bots så ligger og trykker dig på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 253.0,
       "end": 255.0,
       "text": " Det vil sige, at du får lov til at betale for trafik.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 255.0,
       "end": 257.0,
       "text": " Der er jo egentlig ikke noget værd overhovedet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 257.0,
       "end": 261.0,
       "text": " Og det kommer jo typisk i den her dårlige ad inventory,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 261.0,
       "end": 263.0,
       "text": " som man typisk får lov til at køre ind i,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 263.0,
       "end": 265.0,
       "text": " hvis man køber igennem Google Ads.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 265.0,
       "end": 268.0,
       "text": " Der er også en udfordring med, at det er meget svært at måle en ROI på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 268.0,
       "end": 270.0,
       "text": " Det kan være, fordi det er en diffus kunderejse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 272.0,
       "text": " Det kan også være, fordi lortet ikke rigtigt virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 272.0,
       "end": 274.0,
       "text": " Men de fleste annoncerer på display vil ikke opleve,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.0,
       "end": 278.0,
       "text": " at det her er en platform, som de rent faktisk kan tilskrive en omsætning til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 280.0,
       "text": " Jeg har en enkelt undsvæltelse til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 282.0,
       "text": " Jeg har faktisk ikke fortalt dig om den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 282.0,
       "end": 286.0,
       "text": " For omkring seks år siden, der lavede jeg et performance marketing audit",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 286.0,
       "end": 288.0,
       "text": " for en dansk fagvirksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 288.0,
       "end": 293.0,
       "text": " Og der kørte de høvlede penge afsted på Google Display-netværket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 296.0,
       "text": " Og det var, fordi vi sagde, at når vi kigger på omsætningen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 296.0,
       "end": 297.0,
       "text": " så ser det fuldstændig sindssygt ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 297.0,
       "end": 299.0,
       "text": " Altså display, det er vores bedste kanal.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 299.0,
       "end": 301.0,
       "text": " Og så gik jeg hen og kiggede til tilskrivningsindstillingerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 304.0,
       "text": " Og så stod tilskrivningsindstillingerne til 90 dages view",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 304.0,
       "end": 306.0,
       "text": " på deres displaykampagne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 310.0,
       "text": " Det vil sige, at hvis du havde set en displaykampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 310.0,
       "end": 312.0,
       "text": " og så inden for de næste 70 dage indløst en fagobillet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 315.0,
       "text": " så tilskrev den 100% af den kommentering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 315.0,
       "end": 318.0,
       "text": " Så det var faktisk, at Googles display-netværk stod for omkring 3 fjerdedel",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 318.0,
       "end": 319.0,
       "text": " af deres globale omsætning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 319.0,
       "end": 323.0,
       "text": " Men hvis du så slog view fra, så var det nede på 0.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 323.0,
       "end": 325.0,
       "text": " Au, au, au.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 325.0,
       "end": 327.0,
       "text": " Ej, fuck os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 327.0,
       "end": 329.0,
       "text": " Det var så sindssygt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 329.0,
       "end": 332.0,
       "text": " Altså, min hovedtænste er jo, at det jo, fordi det ikke rigtigt virkede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 332.0,
       "end": 334.0,
       "text": " at det var nogen skadeplacering, og 2 tredjedel af dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 334.0,
       "end": 336.0,
       "text": " det er i realiteten slet ikke set.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 336.0,
       "end": 338.0,
       "text": " Men det var en øjenåbner at slå view-kommenteringen fra",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 340.0,
       "text": " på deres displaykampagne dengang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 340.0,
       "end": 343.0,
       "text": " Her, nu er vi halvvejs igennem episoden cirka.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 343.0,
       "end": 344.0,
       "text": " Det er virkelig vigtigt at understrege.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 344.0,
       "end": 347.0,
       "text": " Det er ikke fordi, vi siger, at alt display er ringe.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 347.0,
       "end": 349.0,
       "text": " Men man skal være mere...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 349.0,
       "end": 351.0,
       "text": " Hvis man skal have det til at fungere, så bliver man nødt til at være mere intentionel",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 351.0,
       "end": 352.0,
       "text": " omkring, hvad det er, man laver.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 352.0,
       "end": 354.0,
       "text": " Og det kræver bare, at du køber ind på en anden måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 354.0,
       "end": 357.0,
       "text": " Fordi jeg tror, at de fleste af os kender det, at have siddet på et nyhedsmedie",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 357.0,
       "end": 360.0,
       "text": " for eksempel, og set sådan nogle high-intent display-panner, som man kalder det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 360.0,
       "end": 364.0,
       "text": " Måske også nogen, der er interaktive, hvor du kan sidde og vælge forskellige farver på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 364.0,
       "end": 367.0,
       "text": " lad os sige brillestil, eller kjole, eller whatever.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 367.0,
       "end": 369.0,
       "text": " Og det kan faktisk fungere ret godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 371.0,
       "text": " High-impact kalder vi det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 371.0,
       "end": 372.0,
       "text": " Hvad kalder jeg det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 372.0,
       "end": 373.0,
       "text": " Det er jo dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 374.0,
       "text": " High-intent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 374.0,
       "end": 378.0,
       "text": " Men du kan godt afkomme til at få det både high-intent og high-impact til at blive færdigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 378.0,
       "end": 380.0,
       "text": " Jeg tror, man kalder det high-impact.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 382.0,
       "end": 386.0,
       "text": " Hvis du gør nogle interaktive annoncer og er meget intentionel i forhold til, hvilke sider du udvælger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 386.0,
       "end": 389.0,
       "text": " så betaler du også en højere pris, end du gør med display-anlægsering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 392.0,
       "text": " Men der kan du godt ligge og have click-through rates på 1, 2, 3 procent",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 392.0,
       "end": 395.0,
       "text": " og se, at de personer, der kommer ind på dine sider, bruger et minut eller to",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 399.0,
       "text": " og rent faktisk har en eller anden form for værdi og noget omsætning, du kan tilskrive til dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 399.0,
       "end": 403.0,
       "text": " Altså, vi køber Programmatic Ads i Obsidian's egen marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 403.0,
       "end": 406.0,
       "text": " Går vi at købe på marketing-specifikke sider, når vi har et eller andet kampanjebudskab,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 409.0,
       "text": " det kan være til en konference eller et andet budskab, vi gerne vil ud med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 412.0,
       "end": 416.0,
       "text": " for det er mere en ting, vi er nødt til at tolerere nogle gange i en performance-max-kampagne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 416.0,
       "end": 419.0,
       "text": " Hvordan er det nu med performance-max? Hvis du bruger performance-max,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 421.0,
       "text": " får du så også automatisk display-anlægsering, vel?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 425.0,
       "text": " Det gør du, hvis du uploader aktivt og ikke kører en feed only.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 425.0,
       "end": 430.0,
       "text": " Så som udgangspunkt langt, køber de fleste display-anlægsering, uden de måske kender det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 430.0,
       "end": 434.0,
       "text": " Det er her, hvor det er ret vigtigt at gå ind og holde lidt øje med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 434.0,
       "end": 436.0,
       "text": " hvor mange penge, der rent faktisk bliver brugt på display-netværket,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 436.0,
       "end": 438.0,
       "text": " for det kan pludselig godt stikke lidt af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 438.0,
       "end": 440.0,
       "text": " Det er jo noget af det, der er rigtig meget diskussion om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 440.0,
       "end": 444.0,
       "text": " Hvorfor er det lige, at display-netværket er kommet med ind i P-markedet?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 444.0,
       "end": 446.0,
       "text": " P-markedet er jo sådan en blanding af ...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 446.0,
       "end": 449.0,
       "text": " I start var det syv kampagnetyper, men jeg ved ikke, hvor mange det er i dag.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 449.0,
       "end": 451.0,
       "text": " Totalt set.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 451.0,
       "end": 454.0,
       "text": " Men var det egentlig en måde, hvor Google kunne få solgt noget af det her",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 454.0,
       "end": 456.0,
       "text": " lidt mere trælse-ad-inventory?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " Eller hvordan ...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 458.0,
       "end": 461.0,
       "text": " Du som marketer, hvis du gerne vil arbejde med det og acceptere det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 461.0,
       "end": 465.0,
       "text": " fordi som sagt, der kan godt være nogle fine tilfælde med noget remarketing,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " så skal du arbejde der baglæns,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 467.0,
       "end": 470.0,
       "text": " fordi Google vælger at vise dine produkter eller dine annoncer",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 470.0,
       "end": 473.0,
       "text": " på et eller andet nyheds-site eller en app,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 473.0,
       "end": 475.0,
       "text": " og så skal du gå ind og eksplodere det efterfølgende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 475.0,
       "end": 478.0,
       "text": " Og det er sådan katten efter musen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 478.0,
       "end": 481.0,
       "text": " Hvorimod, hvis du kører det igennem ...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Nu siger jeg ikke gåsøgn, men mere professionelt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 483.0,
       "end": 487.0,
       "text": " gennem DSP-værktøjene derude eller platformene derude,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 487.0,
       "end": 489.0,
       "text": " så kan du selv intentionelt, og det er det, jeg mener med intentionelt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 489.0,
       "end": 491.0,
       "text": " vælge dine placeringer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " Og det er så også der, hvor man får lov til at betale.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 493.0,
       "end": 496.0,
       "text": " En premium, som du siger, sådan en CPM-premium kalder man det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 496.0,
       "end": 498.0,
       "text": " fordi hvis du gerne vil have de bedre placeringer, så må du også huske op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 498.0,
       "end": 501.0,
       "text": " Hvis du kører Performance Max, som jo er Googles anbefaling,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 504.0,
       "text": " og som vi også ser generelt gode resultater med for mange kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 504.0,
       "end": 506.0,
       "text": " kan du ikke slutte display-netværket fra?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 506.0,
       "end": 508.0,
       "text": " Hvis du nu gerne vil køre Performance Max,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 508.0,
       "end": 511.0,
       "text": " men du gerne måske vil mindre risikoen for at blive overeksponeret fra display,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 511.0,
       "end": 514.0,
       "text": " hvad er det så for nogle konkrete trin, du kan gennemføre for at gøre det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 514.0,
       "end": 516.0,
       "text": " Du kan gå ind og eksplodere placements.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 516.0,
       "end": 519.0,
       "text": " Exclude placements, vil den hedde derinde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 519.0,
       "end": 521.0,
       "text": " Altså eksplodere placeringer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 521.0,
       "end": 524.0,
       "text": " Men enten så skal du have en lang liste på forhånd,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 524.0,
       "end": 526.0,
       "text": " og det kan man også godt have, de ligger også derude,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 526.0,
       "end": 527.0,
       "text": " og dem har vi for eksempel også.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 527.0,
       "end": 531.0,
       "text": " Læg dem altså med alle de mest gængse apps og sider, man ikke gider blive vist på osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 531.0,
       "end": 534.0,
       "text": " Og ellers så er det dagligt at gå ind og tjekke, hvor jeg er blevet vist til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 534.0,
       "end": 536.0,
       "text": " vil jeg gerne blive vist her? Nej, okay, så går jeg ind og eksploderer det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 536.0,
       "end": 538.0,
       "text": " Det er hver bøvl.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 538.0,
       "end": 541.0,
       "text": " I sidste episode, der snakkede de om Share of Search,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 541.0,
       "end": 544.0,
       "text": " og hvordan du kan bruge Share of Search til at måle effekten af dit brandingarbejde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 544.0,
       "end": 547.0,
       "text": " Hvis man arbejder med branding i Google,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " så vil jeg jo sige, at du har sådan to muligheder for at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " Den ene, det er sådan en display,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 553.0,
       "text": " og den anden, det er YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 556.0,
       "text": " Og så har du under display mulighederne for måske at købe det igennem Google,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 559.0,
       "text": " eller i stedet for at købe via en DSP, hvor du har mere kontrol over,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 562.0,
       "text": " hvilke sider du bliver vist på, og vise nogle high impact bander og alle de her ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 562.0,
       "end": 565.0,
       "text": " Hvis du skulle arbejde med branding for, lad os sige, en e-commerce case,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 568.0,
       "text": " vil du da fokusere på sådan Programmatic-delen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 572.0,
       "text": " eller YouTube-delen, eller hvordan vil du bruge Google og sådan display-banner-annoncering",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 574.0,
       "text": " i det hele taget til at bidrage til det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 574.0,
       "end": 576.0,
       "text": " Altså jeg er jo stor tilhænger af YouTube-delen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 576.0,
       "end": 579.0,
       "text": " men det er også fordi, at jeg føler, at man i en video kan komme",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 580.0,
       "end": 583.0,
       "text": " ud med sit budskab på en anden måde, end man kan på et bander.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 583.0,
       "end": 587.0,
       "text": " Når det så er sagt, så synes jeg faktisk, at display kan noget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 587.0,
       "end": 590.0,
       "text": " hvis det er købt korrekt ind og opsat intentionelt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 590.0,
       "end": 595.0,
       "text": " Så jeg vil sige et mix, men jeg vil nok starte med selve YouTube-delen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 595.0,
       "end": 598.0,
       "text": " hvis det var mig. Afhænger selvfølgelig af case og så videre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 598.0,
       "end": 601.0,
       "text": " Men jeg synes, der er noget... Nu bruger jeg dit ord, Hamsteren.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 601.0,
       "end": 604.0,
       "text": " Nu bliver du så stolt nu. Underkommercialiseret over YouTube.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 604.0,
       "end": 606.0,
       "text": " Og det er der jo. Det er der jo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 610.0,
       "text": " Jeg tror, at konklusionen på den her episode, det er, at vi har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 610.0,
       "end": 613.0,
       "text": " kigget ned i display, for inden vi har researchet, vi har prøvet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 613.0,
       "end": 616.0,
       "text": " at forstå, og jeg tror godt, at man kan forstå, at vores konklusion,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 616.0,
       "end": 619.0,
       "text": " det er af årsagen til, at det er faldet fra 50% til 10% af Googles",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 619.0,
       "end": 622.0,
       "text": " annonce-inventory eller omsætning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 624.0,
       "text": " Det er, at de andre dele virker bare bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 627.0,
       "text": " Så er display stadig en skadeplacering købt igennem Google?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 627.0,
       "end": 630.0,
       "text": " Ja, lidt. Lidt stadig en skadeplacering faktisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 634.0,
       "text": " Der er undtagelser til det, men i de fleste tilfælde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " så vil det ikke være noget, de anbefaler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 639.0,
       "text": " Hvor til gengæld bannerannoncering, hvis du gør det med high-impact-banner",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 642.0,
       "text": " og er meget selektiv med, hvor du rent faktisk viser dem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 642.0,
       "end": 645.0,
       "text": " og tænker det ind i din samlede kampagnes strategi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 647.0,
       "text": " kan sagtens være rigtig fint.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

@@ -9,2663 +9,2667 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 4.0,
       "text": " Halvstand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 4.0,
       "end": 10.0,
       "text": " I dag skal vi snakke om ChatGPT's splinter nye 4.0 image generation,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 14.0,
       "text": " eller deres nyeste version af deres dial-E billedgenereringsmodel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 17.0,
       "text": " som man har fået adgranteret til ChatGPT selv på free plans i denne her uge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 17.0,
       "end": 21.0,
       "text": " Hvor meget har du lejet med den her nye billedgenereringschange?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 21.0,
       "end": 25.0,
       "text": " Selv ikke nok, men jeg har virkelig set mange videoer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 25.0,
       "end": 31.0,
       "text": " Det er blevet sådan en guilty pleasure at sidde og se sådan en video med folk, der laver kreative ting på ChatGPT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 31.0,
       "end": 34.0,
       "text": " og jeg er så imponeret.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 34.0,
       "end": 36.0,
       "text": " Jeg er blown away over, hvor god den her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 39.0,
       "text": " også fordi nu har vi en episode tidligere, hvor vi snakker om sådan en vibe-marketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 39.0,
       "end": 41.0,
       "text": " hvor vi kort var inden over det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 41.0,
       "end": 44.0,
       "text": " Men det her, det muliggør, at folk som ikke er grafikere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 44.0,
       "end": 47.0,
       "text": " og ikke er hjemmevante i Premiere Pro eller Photoshop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 50.0,
       "text": " eller dog bare kan være figme og andre værktøjer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 50.0,
       "end": 52.0,
       "text": " de lige pludselig kan lave noget, der er ret godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 52.0,
       "end": 55.0,
       "text": " Jeg har i den seneste halvanden uges tid lavet flere kreativer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 55.0,
       "end": 58.0,
       "text": " jeg har uploadet direkte på nogle af de Facebook-konse, jeg arbejder på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 58.0,
       "end": 61.0,
       "text": " hvor det vil jeg simpelthen ikke have gjort før, fordi jeg er ikke god nok til at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 61.0,
       "end": 63.0,
       "text": " Og det ser faktisk pænt ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 63.0,
       "end": 67.0,
       "text": " Så det her er især for folk, som ikke er vant til at arbejde i Photoshop eller Game Changer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 69.0,
       "end": 74.0,
       "text": " Og det, der er så fedt, det er, at du tidligere, når man har arbejdet med kreativer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 74.0,
       "end": 76.0,
       "text": " og jeg tror også, vi har vist nogle eksempler på det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 76.0,
       "end": 78.0,
       "text": " men når man tidligere har arbejdet med de her kreative modeller,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 78.0,
       "end": 81.0,
       "text": " så skulle man være rigtig dygtig til at forklare, hvad man rigtig gerne ville have ud af det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 82.0,
       "end": 86.0,
       "text": " Og der, hvor det bliver svært, det er, når man gerne vil redigere noget, der er blevet udarbejdet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 86.0,
       "end": 88.0,
       "text": " og hvor den ikke bare skal starte forfra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 88.0,
       "end": 91.0,
       "text": " Det, man har mulighed for inde i ChatGBT, og jeg snakker faktisk med flere, der ikke har set den mulighed,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 91.0,
       "end": 95.0,
       "text": " der er sådan en brush, hvis man klikker sig ind på billedet, hvor man kan meget tydeligt markere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 95.0,
       "end": 98.0,
       "text": " det her, det skal laves om, eller du må gerne lige tilføje et eller andet her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 98.0,
       "end": 102.0,
       "text": " Så du skal ikke forklare, hvor du gerne vil have det hen, du kan simpelthen markere det direkte på billedet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 102.0,
       "end": 106.0,
       "text": " og det for mig er en kæmpe Game Changer, for det er faktisk det, jeg synes, der var en kæmpe udfordring tidligere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 107.0,
       "end": 110.0,
       "text": " Ja, det var simpelthen at prompte det på en måde, som modellen forstod det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 110.0,
       "end": 116.0,
       "text": " Lad os starte ved blogindlægget her, som er fra den 25. marts 2025, hvor OpenAI skriver",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 116.0,
       "end": 119.0,
       "text": " Introducing 4.0 Image Generation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 119.0,
       "end": 123.0,
       "text": " Der er et lidt længere blogindlæg, hvor det handler om, at nu har vi fået den her splinter nye model,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 123.0,
       "end": 127.0,
       "text": " og hvad det rent faktisk betyder, og så nogle eksempler i, hvad de har gjort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 127.0,
       "end": 131.0,
       "text": " Men det sjoveste eksempel, det er, når vi viser, hvad man rent faktisk skal gøre med den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 131.0,
       "end": 135.0,
       "text": " Så jeg kunne godt tænke mig at vise et mega lavpraktisk eksempel her på noget, jeg sad og lavede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 135.0,
       "end": 140.0,
       "text": " Så vi starter med, at jeg har taget et billede, og det er et billede af en LEGO-rocket,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 143.0,
       "text": " som jeg har bygget sammen med min søn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.0,
       "end": 146.0,
       "text": " Så det her er bare helt almindelig LEGO fra mit skrivebord.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 150.0,
       "text": " Man kan se, at der er sådan en lille rampe til venstre her, og så er min skraldespand på mit kontor",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 152.0,
       "text": " og står bag os på billedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.0,
       "end": 156.0,
       "text": " Jeg har bedt ChatGPT om, turn this LEGO-rocket into a nice looking image with a cool background",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
       "end": 158.0,
       "text": " from an e-commerce Facebook ad.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 158.0,
       "end": 162.0,
       "text": " Og jeg ved jo, hvis jeg havde givet det her som prompt til nogle af vores grafikere i Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.0,
       "end": 168.0,
       "text": " så havde jeg fået en dumme bøde tilbage for at have givet dem så dårlige brief.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 168.0,
       "end": 173.0,
       "text": " Og det her ret dårlige brief, det har ChatGPT så taget og lavet det her billede ud af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 173.0,
       "end": 177.0,
       "text": " hvis man ser med på YouTube eller på Spotify med video.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 177.0,
       "end": 180.0,
       "text": " Og Christian, kan du ikke forklare, hvad det er, vi ser på her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 180.0,
       "end": 184.0,
       "text": " Jo, det vi ser, det er den LEGO-model af en rumrocket, som Halfter nu godt nok siger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 184.0,
       "end": 185.0,
       "text": " han har bygget sammen med sin søn.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 185.0,
       "end": 188.0,
       "text": " Jeg ved godt, han har bare bygget den selv, men nu brugte han det som undskyldning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 188.0,
       "end": 191.0,
       "text": " Det er også sjovt, det medgiver jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 191.0,
       "end": 198.0,
       "text": " Som simpelthen er ude i rummet, så du har jorden omme i baggrunden på sådan en ret fed visuel måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 198.0,
       "end": 202.0,
       "text": " Og så har vi den her LEGO-rumrocket stående ude i rummet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 202.0,
       "end": 204.0,
       "text": " Meget fedt lavet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 204.0,
       "end": 208.0,
       "text": " Det ser jo pissegodt ud, og jeg kan især godt lide, den har faktisk taget den her lille rampe til venstre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 208.0,
       "end": 211.0,
       "text": " som jo er en del af billedet, men den har ikke taget min skraldespand med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 211.0,
       "end": 213.0,
       "text": " som jo ellers også er en del af billedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 215.0,
       "text": " Så der har ChatGPT fanget, at skraldespanden, der står bag ved raketten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 215.0,
       "end": 217.0,
       "text": " det var sgu nok ikke en del af det, jeg gerne ville sælge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 217.0,
       "end": 221.0,
       "text": " Og det her kreativt, det er sgu da bedre end meget af det, jeg ellers har lavet med Facebook-annonce.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 221.0,
       "end": 223.0,
       "text": " Det er super fint, det her, det kunne jeg sagtens bruge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 223.0,
       "end": 227.0,
       "text": " En ekstra ting, jeg så har gjort, og det her er en af de allerfedeste funktioner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.0,
       "end": 230.0,
       "text": " som vi er nødt til at snakke om med ChatGPT's MS Generation,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 230.0,
       "end": 234.0,
       "text": " det er, at jeg har taget det her billede, og det her er en Facebook-annonce for en virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 236.0,
       "text": " der hedder Cornhole.dk, nu kan man se den sådan herovre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 236.0,
       "end": 239.0,
       "text": " Der er et billede med en kvinde, der står med det her Cornhole,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 239.0,
       "end": 241.0,
       "text": " det er sådan et spil, sådan en sækkepudespil, eller hvad det hedder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 241.0,
       "end": 243.0,
       "text": " Så er der en positiv TrustPile-anmeldelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 247.0,
       "text": " Og så har jeg sagt, using this as a reference image.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 247.0,
       "end": 251.0,
       "text": " Så vil jeg gerne bede dig om at genskabe det her billede med en 33-årig mand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 253.0,
       "text": " i stedet for kvinden, og det her Lego-set.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 253.0,
       "end": 257.0,
       "text": " Og så har jeg sgu fået det, der er ret tæt på at være en ret god Facebook-annonce.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.0,
       "end": 259.0,
       "text": " Som man kan se, det er samme opstilling.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 259.0,
       "end": 262.0,
       "text": " Den har taget TrustPile-anmeldelsen, den er sådan lige gået ud over,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 262.0,
       "end": 264.0,
       "text": " men det er jo her, man kunne bruge den der brush-funktion til lige at sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.0,
       "end": 266.0,
       "text": " hov, TrustPile-anmeldelsen skal være lidt længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 266.0,
       "end": 270.0,
       "text": " Den her der ændrede TrustPile-anmeldelsen, så nu står Mini-Rumraketten var en stor succes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 272.0,
       "text": " Bestil nu, den står på bordet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 272.0,
       "end": 274.0,
       "text": " Det der 60 cm kommer lige fjern.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.0,
       "end": 276.0,
       "text": " Men altså, det er fandme godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.0,
       "end": 278.0,
       "text": " Og det er den der, jeg synes, der er interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 280.0,
       "text": " Det er den der, fordi det billede, du viste før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 282.0,
       "text": " Det er flot, ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 282.0,
       "end": 287.0,
       "text": " Men fra derfra til at det rent faktisk bliver brugt aktivt i Facebook,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 287.0,
       "end": 289.0,
       "text": " der er vi trods alt et stykke fra, ikke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 289.0,
       "end": 291.0,
       "text": " Men dernede, hvor du tager et referencebillede med en kvinde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 291.0,
       "end": 294.0,
       "text": " der sidder på hook foran det her produkt her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 294.0,
       "end": 296.0,
       "text": " og der er den her anmeldelse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 296.0,
       "end": 298.0,
       "text": " og simpelthen siger, tag det her som reference,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 298.0,
       "end": 300.0,
       "text": " men jeg vil ikke have den samme kvinde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 300.0,
       "end": 303.0,
       "text": " Det skal være en mand, der er midt30'erne, tror jeg, du skrev.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 303.0,
       "end": 307.0,
       "text": " Og så med produktet dernede, der er beskåret ud fra hvad jeg kan se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 307.0,
       "end": 309.0,
       "text": " eller i hvert fald fritlagt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 309.0,
       "end": 310.0,
       "text": " Ganske, ganske, ganske flot.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 310.0,
       "end": 311.0,
       "text": " Jamen nærmest perfekt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 311.0,
       "end": 313.0,
       "text": " Det tror jeg, nu kan vi ikke zoome ind lige nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 313.0,
       "end": 315.0,
       "text": " Men selv at den viser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 315.0,
       "end": 317.0,
       "text": " altså det er jo en meget god idé det her med at vise,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 317.0,
       "end": 320.0,
       "text": " hvad hedder det, hvor langt produktet er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 320.0,
       "end": 322.0,
       "text": " Jeg tror måske, det kommer op fra referencebilledet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 322.0,
       "end": 324.0,
       "text": " Men det viser bare, hvor langt man kan komme med et referencebillede.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 324.0,
       "end": 326.0,
       "text": " Man selv synes, det er fedt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 326.0,
       "end": 328.0,
       "text": " Det her, det er kraftedme godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 328.0,
       "end": 330.0,
       "text": " Ja, det er det virkelig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 332.0,
       "text": " Og det her, det kunne jeg bare ikke have lavet tidligere selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 332.0,
       "end": 334.0,
       "text": " Og jeg tror faktisk, altså tror du ikke det her med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 334.0,
       "end": 338.0,
       "text": " at du kan tage en nu hvilken som helst Facebook-annonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 340.0,
       "text": " upload den i ChatGPT, upload dit eget produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 340.0,
       "end": 342.0,
       "text": " lige ændre lidt i tekst, og så sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 342.0,
       "end": 344.0,
       "text": " jeg vil gerne have det her billede, men nu med min egen annonce.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 344.0,
       "end": 346.0,
       "text": " Det er en killer funktion.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 346.0,
       "end": 348.0,
       "text": " Jamen det er jo en gamechanger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 348.0,
       "end": 351.0,
       "text": " Og måden, hvorpå vi allerede nu har forsøgt at bruge det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 351.0,
       "end": 355.0,
       "text": " er jo ved at kigge på de konti, vi sidder på med de cases, vi har.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 355.0,
       "end": 357.0,
       "text": " Og de annoncer, der rent faktisk har kørt rigtig, rigtig godt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 357.0,
       "end": 359.0,
       "text": " både nu, men også i de tidligere perioder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 359.0,
       "end": 362.0,
       "text": " lad os prøve at re-create dem med seks forskellige versioner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 362.0,
       "end": 365.0,
       "text": " Og det kan være alt fra baggrunden, der bliver ændret til budskabet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 365.0,
       "end": 367.0,
       "text": " men det er jo bare et par prompts, der skal til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 367.0,
       "end": 369.0,
       "text": " Og så sidder man tilbage med nogle annoncer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 369.0,
       "end": 373.0,
       "text": " der burde spille, i hvert fald baseret på tidligere performance.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 373.0,
       "end": 376.0,
       "text": " Altså det her, jeg synes, det er så mind-blowing,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 376.0,
       "end": 378.0,
       "text": " så godt det allerede er blevet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 378.0,
       "end": 379.0,
       "text": " Ja, det er det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 381.0,
       "text": " Og altså helt lavpraktisk måde, man kan gøre det her på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 386.0,
       "text": " man går ind på facebook.com-ads-library,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 386.0,
       "end": 388.0,
       "text": " så tager man det produkt, man gerne vil sælge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.0,
       "end": 390.0,
       "text": " lad os sige, man vil gerne sælge en proteinbar,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 390.0,
       "end": 393.0,
       "text": " så søger man på protein eller et specifikt brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 393.0,
       "end": 395.0,
       "text": " som for eksempel Muscle House eller Body Lab,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 396.0,
       "text": " eller hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 396.0,
       "end": 398.0,
       "text": " Og så vælger man i virkeligheden bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 400.0,
       "text": " altså går længere ned og finder den annonce, man gerne vil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 400.0,
       "end": 402.0,
       "text": " Nu har vi en her for eksempel, der er et eller andet brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 402.0,
       "end": 407.0,
       "text": " der hedder Light, som har en proteindræk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 407.0,
       "end": 410.0,
       "text": " Og så kan vi bare tage den her, altså højreklik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 410.0,
       "end": 413.0,
       "text": " gennem billedet og sådan noget, upload det ind i ChatGPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 418.0,
       "text": " og så sige, nu vil jeg gerne have mit brand på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 420.0,
       "text": " i min farve, med min tekst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 423.0,
       "text": " og så får man den her ganske udmærkede annonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 423.0,
       "end": 425.0,
       "text": " lavet til ens eget brand i stedet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 429.0,
       "text": " Jeg synes, det her er noget af det fantastiske ved AI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 431.0,
       "text": " fordi det her før kunne du godt have gjort,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 433.0,
       "text": " så skulle du bare have sendt det til en grafiker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " så skulle du have vedkommet, at jeg brugte en time på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 436.0,
       "text": " og så fik du det tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 438.0,
       "text": " Nu kan du gøre det ved at lægge det ind i ChatGPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 441.0,
       "text": " så venter du, det tager cirka to minutter per billedegenerering lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " så kan du lige gå ud og zip kaffen, lige tjekke telefonen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " hvad sker der på YouTube Shorts, og så har du billedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 447.0,
       "text": " Og så kan du itererere på det med det samme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 447.0,
       "end": 448.0,
       "text": " og så har du gjort det et par gange,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 448.0,
       "end": 450.0,
       "text": " og så har du et brugbart billede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 452.0,
       "text": " Altså, det er seriøst et eksempel på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 452.0,
       "end": 455.0,
       "text": " at AI skal 90 procent af tiden af for den her proces,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 455.0,
       "end": 456.0,
       "text": " hvor du har noget, du ved, hvad du gerne vil have,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " og nu skal du bare have det til dit eget brand i stedet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 461.0,
       "text": " Og jeg tror, det der kommer til at ske for de fleste webshops,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 461.0,
       "end": 463.0,
       "text": " i hvert fald dem, der gerne vil være med på den her bølge,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " det er, at de faktisk gør lidt det samme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 465.0,
       "end": 468.0,
       "text": " som vi snakkede om i den seneste episode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 468.0,
       "end": 469.0,
       "text": " som H&M var begyndt at gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 469.0,
       "end": 472.0,
       "text": " Altså, de begyndte at bruge tvillinger til modellerne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 472.0,
       "end": 473.0,
       "text": " der er AI-genererede,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 473.0,
       "end": 476.0,
       "text": " men inputtet dertil for at kunne generere de her ekstra modeller,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 480.0,
       "text": " eller de her kopier af modellerne i AI-verdenen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 480.0,
       "end": 483.0,
       "text": " var at tage billeder af dem i forskellige belysninger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 483.0,
       "end": 484.0,
       "text": " og fra forskellige vinkler.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 484.0,
       "end": 488.0,
       "text": " Jeg tror, at det her med at tage gode input-billeder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 488.0,
       "end": 492.0,
       "text": " forstået på den måde, at det er gode packshot-billeder af sine produkter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 492.0,
       "end": 493.0,
       "text": " i forskellige settings,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 493.0,
       "end": 496.0,
       "text": " hvor det ikke handler om at flyve til et eller andet land nede sydpå,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 496.0,
       "end": 498.0,
       "text": " for at lave nogle fede photoshoots,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 498.0,
       "end": 501.0,
       "text": " tror jeg stadigvæk også er vigtigt for at holde autentiteten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 501.0,
       "end": 503.0,
       "text": " Men jeg tror, der kommer til at være et ekstra element af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 503.0,
       "end": 507.0,
       "text": " at man virkelig skal have nogle gode input-billeder af alle sine produkter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 507.0,
       "end": 510.0,
       "text": " for at man netop kan give de bedst mulige forudsætninger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " for eksempel Chat KPT.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 512.0,
       "end": 513.0,
       "text": " Fordi hvis man lader mærke til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 513.0,
       "end": 517.0,
       "text": " at den her rumraket, du sendte ind,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 517.0,
       "end": 520.0,
       "text": " altså det var jo ikke en god forudsætning, du gav Chat KPT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 520.0,
       "end": 522.0,
       "text": " at den så rent faktisk formodede at excellere med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 522.0,
       "end": 523.0,
       "text": " Det var helt af helvede sat ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " for det var grynet og en skraldespande,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 525.0,
       "end": 527.0,
       "text": " og taget fra en helt skæv vinkel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 527.0,
       "end": 530.0,
       "text": " det var helt af helvede, så det virkede alligevel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 530.0,
       "end": 533.0,
       "text": " Ja, og det er jo det, der er så fantastisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 533.0,
       "end": 535.0,
       "text": " Men hvad vil der ske, hvis du rent faktisk gav noget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " der var virkelig brugbar for Chat KPT?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 537.0,
       "end": 540.0,
       "text": " Ja, det var helt vildt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 540.0,
       "end": 542.0,
       "text": " Lad mig prøve at vise nogle andre sjove eksempler",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 542.0,
       "end": 544.0,
       "text": " på ting, jeg har set.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 544.0,
       "end": 548.0,
       "text": " Tine, kender du udtrykket Bedroom Brand?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 548.0,
       "end": 549.0,
       "text": " Nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 550.0,
       "text": " Det er sådan, hvis du er en ung fyr,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 550.0,
       "end": 551.0,
       "text": " der starter et brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 552.0,
       "text": " men det er virkelig ikke rigtigt et brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 553.0,
       "text": " du har ikke nogen fabrikker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 554.0,
       "text": " du sidder bare i dit soveværelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 554.0,
       "end": 560.0,
       "text": " Du har haft et par stykker gennem tiden, tænker jeg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 560.0,
       "end": 561.0,
       "text": " Jeg skulle lige til at sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 561.0,
       "end": 562.0,
       "text": " vi plejer at kalde det Dropshipping,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 562.0,
       "end": 564.0,
       "text": " men det har altså aldrig høret mig ind,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 564.0,
       "end": 565.0,
       "text": " for jeg har altid haft varene på lærre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 565.0,
       "end": 566.0,
       "text": " Nå, ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 566.0,
       "end": 568.0,
       "text": " Ja, men prøv at se den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 569.0,
       "text": " Jeg så et Twitteropslag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " Warehouse Content when you're a Bedroom Brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 573.0,
       "text": " fordi alle vil gerne have det der pack shots",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 573.0,
       "end": 575.0,
       "text": " fra dit warehouse, hvor du står og pakker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " og så er der en, der har prompted,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 579.0,
       "text": " du er ved at pakke en kundeorder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 579.0,
       "end": 581.0,
       "text": " i et 3PL third party warehouse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 581.0,
       "end": 582.0,
       "text": " og du har et GoPro på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 582.0,
       "end": 583.0,
       "text": " eller POV stylede kamera,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 583.0,
       "end": 585.0,
       "text": " tag et billede af det her produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 585.0,
       "end": 587.0,
       "text": " du holder på lærredet, osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 588.0,
       "text": " Og så har du et billede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 591.0,
       "text": " som jo 100% ligner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 594.0,
       "text": " at der er en, der lige har været nede på lærredet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 596.0,
       "text": " og så har taget et billede af det produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 597.0,
       "text": " han står og er i gang med at pakke til nogen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 598.0,
       "text": " Og det fede ved sådan et produkt her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 600.0,
       "text": " det er jo, hvis du er et Bedroom Brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 601.0,
       "text": " så det her ser jo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 601.0,
       "end": 602.0,
       "text": " det ligner jo en rigtig virksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 602.0,
       "end": 603.0,
       "text": " Det her er jo en måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 604.0,
       "text": " det er jo lidt ligesom,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 605.0,
       "text": " hvis du har et billede af dig selv",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 606.0,
       "text": " på en busannonce et eller andet sted, du vil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 606.0,
       "end": 607.0,
       "text": " så er det jo en rigtig virksomhed nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 609.0,
       "text": " fordi du er ude i den virkelige verden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 610.0,
       "text": " Det her, det ville da være fedt kreativt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 610.0,
       "end": 611.0,
       "text": " at køre på en Facebookannonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 612.0,
       "text": " men du kan jo se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 614.0,
       "text": " at det her er ikke genereret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 615.0,
       "text": " Nej, for pokker,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 615.0,
       "end": 616.0,
       "text": " det der, det ligner de billeder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 616.0,
       "end": 617.0,
       "text": " vi tog dengang,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 617.0,
       "end": 618.0,
       "text": " vi havde i tidernes morgen",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 618.0,
       "end": 620.0,
       "text": " 300-400 kvadratmeter lager med varer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 620.0,
       "end": 621.0,
       "text": " og vi så det jo som en konkurrence,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 621.0,
       "end": 622.0,
       "text": " med sine fordele,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 622.0,
       "end": 623.0,
       "text": " at kunne tage sådan et billede her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " Ja, og det var sikkert nogle andres lager.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 628.0,
       "text": " Ja, det var godt nok vores eget lager.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 632.0,
       "text": " Det er ikke meget tiltro, du har til mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 632.0,
       "end": 633.0,
       "text": " Men fair nok.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 633.0,
       "end": 634.0,
       "text": " Den får du, den får du, den får du.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 635.0,
       "text": " Jeg tænker bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 636.0,
       "text": " at de der produkter, du havde i Kalimba,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 637.0,
       "text": " så ved jeg,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 637.0,
       "end": 638.0,
       "text": " de fyldte da ikke 300-400 kvadratmeter",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 638.0,
       "end": 639.0,
       "text": " i et lager.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " Nej, det fyldte altså bare de,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 641.0,
       "end": 642.0,
       "text": " jeg har været mange produkter igennem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 642.0,
       "end": 643.0,
       "text": " tro mig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 643.0,
       "end": 644.0,
       "text": " Ja, ja, ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 644.0,
       "end": 645.0,
       "text": " Prøv at se en anden en her, jeg fandt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 648.0,
       "text": " Prompt, add image to a billboard.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 649.0,
       "text": " Jeg kan også godt lide den her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 649.0,
       "end": 650.0,
       "text": " fordi det er det samme, du opnår.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 650.0,
       "end": 651.0,
       "text": " Det man ser her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " det er jo, at du ser en billboardannonce",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 654.0,
       "text": " i en metro.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 654.0,
       "end": 655.0,
       "text": " Og igen, det er bare en måde at sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " jeg er ude i den virkelige verden på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 657.0,
       "end": 658.0,
       "text": " Altså, den primære værdi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 659.0,
       "text": " ved at du køber en busannonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 659.0,
       "end": 660.0,
       "text": " det er jo, at du kan tage et billede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 660.0,
       "end": 661.0,
       "text": " af busannoncen og lægge på Facebook ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 661.0,
       "end": 662.0,
       "text": " Nu behøver du ikke engang",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 662.0,
       "end": 663.0,
       "text": " at købe busannoncen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 663.0,
       "end": 664.0,
       "text": " for at lægge den på Facebook ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 664.0,
       "end": 665.0,
       "text": " Du skal bare tage et billede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 665.0,
       "end": 666.0,
       "text": " af en hvilket som helst busannonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 667.0,
       "text": " og så sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 667.0,
       "end": 668.0,
       "text": " udskift billedet med et billede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 668.0,
       "end": 669.0,
       "text": " fra mit eget brand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 669.0,
       "end": 670.0,
       "text": " Altså, det burde vi gøre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 671.0,
       "end": 672.0,
       "text": " med Obsidian, i hvert fald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 672.0,
       "end": 674.0,
       "text": " Hvis du lytter med til det her podcast,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 674.0,
       "end": 675.0,
       "text": " og ser sådan et busreklamebillede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 675.0,
       "end": 676.0,
       "text": " af Obsidian i kommende uge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 676.0,
       "end": 677.0,
       "text": " så ved du,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 678.0,
       "text": " at jeg har ikke købt en busreklame.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 678.0,
       "end": 681.0,
       "text": " Og det kunne du aldrig finde på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 681.0,
       "end": 682.0,
       "text": " Ej, det kunne jeg aldrig finde på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 682.0,
       "end": 683.0,
       "text": " til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 683.0,
       "end": 684.0,
       "text": " Lad os prøve at vise et eksempel mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 685.0,
       "text": " Jeg har mange tweets.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 685.0,
       "end": 686.0,
       "text": " Den her, synes jeg, er super fed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 686.0,
       "end": 687.0,
       "text": " Der er en person,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 687.0,
       "end": 688.0,
       "text": " der har lavet en YouTube thumbnail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 689.0,
       "text": " Så det, han har gjort,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 689.0,
       "end": 690.0,
       "text": " det er, at han har taget et billede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 690.0,
       "end": 691.0,
       "text": " af sig selv,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 692.0,
       "text": " og så har han tegnet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 692.0,
       "end": 694.0,
       "text": " Han har tegnet med fucking paint,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " tror jeg, hvad det er, han gerne vil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " Og så har han bedt ChatGPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 701.0,
       "text": " om at lave et hyper-realistic YouTube thumbnail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 701.0,
       "end": 702.0,
       "text": " Og jeg ved ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 702.0,
       "end": 703.0,
       "text": " hvad den her video handler om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 703.0,
       "end": 704.0,
       "text": " men jeg vil klikke på den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 704.0,
       "end": 705.0,
       "text": " Nej, den er fed, den der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 705.0,
       "end": 706.0,
       "text": " Fuck, det er godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 706.0,
       "end": 708.0,
       "text": " Fuck, det er godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 708.0,
       "end": 709.0,
       "text": " Jeg vil så sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 709.0,
       "end": 710.0,
       "text": " at den ultimative test for ChatGPT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 710.0,
       "end": 711.0,
       "text": " det ville være,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 711.0,
       "end": 712.0,
       "text": " hvis han rent faktisk forstod,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 712.0,
       "end": 713.0,
       "text": " hvad du havde tegnet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 713.0,
       "end": 714.0,
       "text": " Så jeg synes,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 714.0,
       "end": 715.0,
       "text": " at vi skal prøve her",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 715.0,
       "end": 716.0,
       "text": " i den kommende uge,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 716.0,
       "end": 717.0,
       "text": " at du laver et lignende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 717.0,
       "end": 718.0,
       "text": " Altså et billede,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 718.0,
       "end": 719.0,
       "text": " hvor du forsøger at tegne dig frem til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 719.0,
       "end": 720.0,
       "text": " hvad du gerne vil have,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 720.0,
       "end": 721.0,
       "text": " at ChatGPT skal vise.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 721.0,
       "end": 722.0,
       "text": " Så ser vi lige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 722.0,
       "end": 723.0,
       "text": " så lægger vi os flat ned.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 723.0,
       "end": 725.0,
       "text": " Vi har jo vores dygtige design-team i Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 725.0,
       "end": 726.0,
       "text": " og det er ret tit,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 726.0,
       "end": 727.0,
       "text": " når jeg har lavet slides,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 727.0,
       "end": 728.0,
       "text": " hvor jeg faktisk har tegnet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 728.0,
       "end": 730.0,
       "text": " hvad jeg gerne vil have på slidet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 730.0,
       "end": 731.0,
       "text": " Altså tegnet fysisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 731.0,
       "end": 732.0,
       "text": " på et stykke A4-papir,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 732.0,
       "end": 734.0,
       "text": " og så taget et billede på telefonen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 734.0,
       "end": 735.0,
       "text": " og bare sendt det til dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 737.0,
       "text": " og sagt, recreate this as a slide.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 737.0,
       "end": 739.0,
       "text": " Og så på en eller anden måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 739.0,
       "end": 741.0,
       "text": " så kommer der et fantastisk slide tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 741.0,
       "end": 742.0,
       "text": " Og jeg ved ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 742.0,
       "end": 743.0,
       "text": " om de har siddet og revet håret ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 743.0,
       "end": 744.0,
       "text": " og så selv har tænkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 744.0,
       "end": 745.0,
       "text": " nu har han kraftedeme gjort det igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 746.0,
       "text": " Men jeg synes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 746.0,
       "end": 747.0,
       "text": " det her er så fascinerende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 747.0,
       "end": 748.0,
       "text": " Bare lige et sidste eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 748.0,
       "end": 749.0,
       "text": " Prøv at forestille dig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 749.0,
       "end": 750.0,
       "text": " at du har en restaurant,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 750.0,
       "end": 751.0,
       "text": " og du tager et billede til venstre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 751.0,
       "end": 752.0,
       "text": " og så beder ChatGPT om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 752.0,
       "end": 754.0,
       "text": " at lave det om til højre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 754.0,
       "end": 755.0,
       "text": " Altså det er jo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 757.0,
       "text": " det ligner jo fucking Geranium,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 757.0,
       "end": 758.0,
       "text": " det der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 758.0,
       "end": 759.0,
       "text": " Nøj, hvor er det godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 759.0,
       "end": 760.0,
       "text": " Nøj, hvor er det godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 760.0,
       "end": 762.0,
       "text": " Jeg er helt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 762.0,
       "end": 764.0,
       "text": " jeg er overstruck over,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 764.0,
       "end": 767.0,
       "text": " hvor god ChatGPT's 4.0 image generation er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 767.0,
       "end": 769.0,
       "text": " Altså det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 771.0,
       "end": 772.0,
       "text": " hold op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 772.0,
       "end": 773.0,
       "text": " hvor kan man vinde meget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 773.0,
       "end": 774.0,
       "text": " hvis man er en af de første,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 774.0,
       "end": 776.0,
       "text": " der bruger det her i den kommende periode?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 777.0,
       "end": 778.0,
       "text": " Det er jo det helt store takeaway.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 778.0,
       "end": 779.0,
       "text": " Det er dejligt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 779.0,
       "end": 780.0,
       "text": " at du er med til det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 780.0,
       "end": 782.0,
       "text": " hvis du begynder at bruge det her aktivt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 782.0,
       "end": 783.0,
       "text": " i din markedsføring.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 783.0,
       "end": 784.0,
       "text": " Yes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 784.0,
       "end": 786.0,
       "text": " Nøj, du bliver god med det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 786.0,
       "end": 787.0,
       "text": " Altså det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 787.0,
       "end": 788.0,
       "text": " det er et af de der eksempler på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 788.0,
       "end": 789.0,
       "text": " en person, der bare begynder at udføre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 789.0,
       "end": 790.0,
       "text": " fem personers arbejde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 790.0,
       "end": 791.0,
       "text": " fordi de får de rigtige redskaber,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 791.0,
       "end": 792.0,
       "text": " så gør det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 792.0,
       "end": 793.0,
       "text": " Ja, og det bedste tip,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 793.0,
       "end": 794.0,
       "text": " det er bare at komme i gang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 794.0,
       "end": 795.0,
       "text": " Kom i gang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 795.0,
       "end": 796.0,
       "text": " For lad dig faktisk lære,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 796.0,
       "end": 797.0,
       "text": " hvordan du prompter bedst muligt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 797.0,
       "end": 798.0,
       "text": " og se de videoer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 798.0,
       "end": 799.0,
       "text": " der er derude,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 799.0,
       "end": 800.0,
       "text": " for der er faktisk nogle ret fede måder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 800.0,
       "end": 802.0,
       "text": " man kan prompte det her på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 802.0,
       "end": 804.0,
       "text": " Så man bare kommer i gang simpelthen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 804.0,
       "end": 805.0,
       "text": " Jeg har faktisk overvejet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 805.0,
       "end": 807.0,
       "text": " at vi skulle begynde at lave thumbnails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 807.0,
       "end": 808.0,
       "text": " til vores YouTube videoer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 808.0,
       "end": 810.0,
       "text": " med ChatGPC 4.0,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 810.0,
       "end": 811.0,
       "text": " fordi vores YouTube videoer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 811.0,
       "end": 813.0,
       "text": " nu lægger vi jo alle episoder af MarketingPod på YouTube,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 813.0,
       "end": 815.0,
       "text": " men det er ikke nogle særlig gode thumbnails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 815.0,
       "end": 817.0,
       "text": " fordi den vælger bare en thumbnail selv,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 817.0,
       "end": 819.0,
       "text": " så samtlige thumbnails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 819.0,
       "end": 820.0,
       "text": " vi har på vores YouTube kanal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 820.0,
       "end": 821.0,
       "text": " det er bare sådan et billede af os to.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 821.0,
       "end": 823.0,
       "text": " Og så er YouTube faktisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 823.0,
       "end": 824.0,
       "text": " to its credit,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 824.0,
       "end": 825.0,
       "text": " ret god til at finde billeder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 825.0,
       "end": 827.0,
       "text": " hvor vi smiler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 827.0,
       "end": 828.0,
       "text": " eller gør et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 828.0,
       "end": 830.0,
       "text": " så det ser sådan nogenlunde pænt ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 830.0,
       "end": 831.0,
       "text": " Men altså,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 831.0,
       "end": 835.0,
       "text": " udefra så ligner alle vores videoer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 835.0,
       "end": 837.0,
       "text": " ligner jo det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 839.0,
       "text": " Fordi det er den samme thumbnail,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 840.0,
       "text": " der er på dem alle sammen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 840.0,
       "end": 842.0,
       "text": " Man kan sådan se det på skærmen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 842.0,
       "end": 843.0,
       "text": " jeg deler her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 843.0,
       "end": 845.0,
       "text": " hvor alle vores videoer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 845.0,
       "end": 847.0,
       "text": " ligner jo det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 847.0,
       "end": 849.0,
       "text": " Så nogle gange har jeg sat en thumbnail,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 849.0,
       "end": 850.0,
       "text": " hvor jeg deler skærmen med et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 850.0,
       "end": 852.0,
       "text": " men alle ligner jo det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 854.0,
       "text": " Og jeg har overvejet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 854.0,
       "end": 856.0,
       "text": " at en del af min faste rutine,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 856.0,
       "end": 857.0,
       "text": " når jeg sidder og redigerer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 857.0,
       "end": 858.0,
       "text": " og distribuerer det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 860.0,
       "text": " ligesom du jo har en fast rutine,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 860.0,
       "end": 862.0,
       "text": " så distribuerer jeg dem ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 862.0,
       "end": 863.0,
       "text": " Om det skal være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 863.0,
       "end": 866.0,
       "text": " at vi simpelthen prompter et YouTube-thumbnail-billede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 868.0,
       "text": " som man kan bruge direkte på YouTube også,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 868.0,
       "end": 870.0,
       "text": " som er custom til den enkelte episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 870.0,
       "end": 871.0,
       "text": " Fordi jeg tror faktisk ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 871.0,
       "end": 872.0,
       "text": " det ville være særlig svært",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 872.0,
       "end": 873.0,
       "text": " at prompte sig frem til noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 873.0,
       "end": 874.0,
       "text": " der kunne blive ret godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 874.0,
       "end": 875.0,
       "text": " Ej, det er en fed idé.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 875.0,
       "end": 876.0,
       "text": " Det synes jeg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 876.0,
       "end": 878.0,
       "text": " Så tippet er hermed givet videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 878.0,
       "end": 880.0,
       "text": " ChatGPT 4.0 Image Generation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 880.0,
       "end": 882.0,
       "text": " Der er sket et 7-millisekridt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 882.0,
       "end": 883.0,
       "text": " altså i forhold til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 885.0,
       "text": " hvor god den er i forhold til tidligere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 885.0,
       "end": 887.0,
       "text": " Og særlig tippet med at tage et reference image,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 887.0,
       "end": 888.0,
       "text": " uploade det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 888.0,
       "end": 890.0,
       "text": " og så få lavet dine egne annoncer i det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 890.0,
       "end": 892.0,
       "text": " Det virker mega godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 892.0,
       "end": 894.0,
       "text": " Kæmpe god fornøjelse med værktøjet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

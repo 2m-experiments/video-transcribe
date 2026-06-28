@@ -9,1667 +9,1671 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 4.0,
       "text": " Christian, halvstand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
       "end": 10.0,
       "text": " I den her episode, der skal vi snakke om et af de mest undervurderede, eller i hvert fald underbrugte, hvis man kan sige det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 13.0,
       "text": " Det er værktøjer, og jeg kommer ikke til at sige underkommercialiserede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 13.0,
       "end": 15.0,
       "text": " Du ved det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 23.0,
       "text": " Vi kommer til at snakke om et værktøj, man burde bruge meget mere i både ChatGPT, Klort, Gemini og alle LNM'erne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 30.0,
       "text": " Vi kommer til at snakke om det, som ChatGPT kalder for custom-GPT'er, og som Gemini kalder for gems osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 30.0,
       "end": 35.0,
       "text": " Christian, kan du ikke starte med at give et eksempel på en custom-GPT, du har bygget, og hvad det rent faktisk er?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 35.0,
       "end": 40.0,
       "text": " At bygge det er måske så meget sagt. Den er supersimpel, men det er faktisk en, jeg bruger i forbindelse med marketing for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 40.0,
       "end": 47.0,
       "text": " Vi skal jo hver uge til mandagsepisoderne finde tre relevante nyheder, og dem finder vi godt nok selv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 47.0,
       "end": 55.0,
       "text": " Jeg har fået lavet en custom-GPT, der hjælper mig med at opsummere på dansk 3-4 linjer ud fra det link, jeg indsætter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 55.0,
       "end": 64.0,
       "text": " Så jeg skal faktisk bare indsætte linket i ChatGPT, ikke skrive noget, ikke gøre noget, og så spytter den et lille referat ud i måden, hvorpå jeg gerne vil have den skal gøre det på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 64.0,
       "end": 69.0,
       "text": " Så det er et meget lavpraktisk eksempel på noget, som jeg bruger, og jeg bruger det rigtig meget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 69.0,
       "end": 77.0,
       "text": " Ja, og det er nemlig et super godt eksempel, fordi hvis du bare lagde et link ind i ChatGPT uden at prompte andet, så ville ChatGPT sige, fedt link, hvad kan jeg hjælpe med?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 77.0,
       "end": 84.0,
       "text": " Men her, når du har bygget en custom-GPT, som i øvrigt bare hedder AGPT, altså en GPT i dag, de har sådan fjernet custom,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 84.0,
       "end": 92.0,
       "text": " jamen så ved den, fordi du har sådan pre-prompted den, at når der kommer et link, den skal gå ind og læse det og opsummere det i den stil, som vi normalt bruger det i marketing på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 92.0,
       "end": 98.0,
       "text": " Og det er det, der er fedt ved dem, for hvorfor er det, at du bruger en custom-GPT til det her, i stedet for bare at prompte ChatGPT i forfra?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 98.0,
       "end": 107.0,
       "text": " Fordi det er en repetitiv opgave, altså det er hver uge, jeg skal gøre det her, så kunne jeg godt spare en del tid på årlig basis ved at gøre det på den måde her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 107.0,
       "end": 111.0,
       "text": " Og det er bare sjovere, end at skulle sidde og lave sin prompt om og om og om igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 111.0,
       "end": 121.0,
       "text": " Ja, og en af de ting, vi jo snakker meget med vores kunder om, det er, hvordan man får bedre content ud af AI, og jeg synes, det her er en af de allerbedste måder at gøre det på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 121.0,
       "end": 125.0,
       "text": " Så lad os lige gå igennem, hvordan man rent faktisk laver en custom-GPT.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 125.0,
       "end": 130.0,
       "text": " Så det, der er tanken, det er, at du kan gå ind på ChatGPT, eller Gemini, eller hvad det nu gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 130.0,
       "end": 136.0,
       "text": " Nu gør vi det lige med ChatGPT her, hvor du går ind i menuen til venstre og ser GPTs, så det hedder bare GPTS, GPTs.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 136.0,
       "end": 141.0,
       "text": " Så kan du se sådan en række predefinerede GPTs, så du kan vælge sådan nogle andre har lavet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 141.0,
       "end": 145.0,
       "text": " Så der er en, der hedder WriteFromE, ScholarGPT, Konsensus osv., det er vi ikke interesserede i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 145.0,
       "end": 149.0,
       "text": " Og op i højre hjørne, der kan du klikke Create, og så har du mulighed for at lave din egen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 149.0,
       "end": 153.0,
       "text": " Og her, der kan du så definere fra ChatGPT, hvad det er, du gerne vil lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 153.0,
       "end": 158.0,
       "text": " Og så kan du sige, det her er min GPT til at lave fantastiske produkttekster til min webshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 158.0,
       "end": 161.0,
       "text": " Til at hjælpe mig med at lave udkast til nyhedsbrev i min hopspot installation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 161.0,
       "end": 167.0,
       "text": " Det her er min GPT til at lave LinkedIn-opslag i min tone og stil, og med de ting, jeg rent faktisk mener.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 167.0,
       "end": 169.0,
       "text": " Eller hvad du nu gerne vil bruge den til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 169.0,
       "end": 174.0,
       "text": " Du kan give den et navn, en beskrivelse og nogle custom-instruktioner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 177.0,
       "text": " Og du kan også give den knowledge, det vil sige oplovede filer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 177.0,
       "end": 182.0,
       "text": " Og det her er en af de mest undervurderede ting, underkommercialiserede om jeg må.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 182.0,
       "end": 189.0,
       "text": " Ting ved AI, det der med at oplode f.eks. pdf-filer, eller regneark, eller noget andet, som giver AI noget kontekst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 189.0,
       "end": 193.0,
       "text": " Du har tidligere sendt mig et mega fedt tweet, der havde, at vi skulle gå væk fra prompt engineering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 193.0,
       "end": 195.0,
       "text": " men overgå til kontekst engineering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 195.0,
       "end": 198.0,
       "text": " Hvorfor er det konteksten er så vigtig for at få gode svar ud af AI?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 198.0,
       "end": 201.0,
       "text": " Jamen konteksten gør bare, at den har noget at læne sig op af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 201.0,
       "end": 206.0,
       "text": " Så du giver AI en kasse, den kan være kreativ indenfor, men du har også rammet spillepladen ind for den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 206.0,
       "end": 209.0,
       "text": " Og det gør den bare langt bedre, når du giver den en kontekst.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 209.0,
       "end": 211.0,
       "text": " Altså så ved den også, hvor den skal starte og slutte hen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 211.0,
       "end": 214.0,
       "text": " Hvorimod, at hvis det er bare et helt bredt prompt, hurra det kan gå mange veje.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 214.0,
       "end": 217.0,
       "text": " Det er der, hvor man begynder at få AI-content, der ligner AI-content.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 217.0,
       "end": 222.0,
       "text": " Hvor hvis du har oplovede kontekst, som f.eks. eksempler på de nyhedsbrev, du tidligere har sendt ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 222.0,
       "end": 227.0,
       "text": " eller analyse, du har lavet, eller hvad du vil bruge en custom GPT til, så bliver svaret også bare meget bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.0,
       "end": 231.0,
       "text": " Og efter det, så har du mulighed for at vælge, om den f.eks. må gå online og søge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 231.0,
       "end": 234.0,
       "text": " hvilket jo er nødvendigt i den GPT, vi har lavet til Marketingpod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 240.0,
       "text": " Og det er relativt lige til det, man skal gøre, hvis man gør det på Gemini, hvis man sidder i Google Workspace.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 240.0,
       "end": 241.0,
       "text": " Det er stort set det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 241.0,
       "end": 244.0,
       "text": " Giv den et navn, giv den en vejledning, noget viden, hvor du kan uploade osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 249.0,
       "text": " Og så har du faktisk bygget en GPT, eller en gem, som det hedder på Gemini.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 249.0,
       "end": 255.0,
       "text": " Og når vi har lyst til at lave en hel episode om det, så er det fordi, jeg oplever rigtig mange, når de bruger AI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 260.0,
       "text": " så går de faktisk bare ind på forsiden af ChatGPT, og så skriver de de ting, de har brug for at få lavet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 267.0,
       "text": " Men jo mere tid, man bruger på at lave et godt prompt, jo bedre resultater får man også tilbage i den anden ende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.0,
       "end": 270.0,
       "text": " Så når jeg sidder i weekenden og laver de opgaver, der kræver noget koncentration,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 273.0,
       "text": " hvor jeg skal lave en større mail-send-analyse eller præsentation, eller hvad det skal være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 273.0,
       "end": 276.0,
       "text": " de prompts, jeg laver til f.eks. Manus, som jeg bruger meget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.0,
       "end": 280.0,
       "text": " jeg kan godt bruge 10 eller 15 minutter på at lave et prompt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 286.0,
       "text": " og bruge alle 4.000 tegn og uploade 3-4-5 forskellige filer og links og alle mulige andre ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 286.0,
       "end": 291.0,
       "text": " og så bruger den måske 10 eller 15 minutter på at svare, men hold da op, jeg svarer meget tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 291.0,
       "end": 295.0,
       "text": " Men det er et typisk opgave, jeg laver en gang, en unik præsentation eller et eller andet af den stil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 298.0,
       "text": " hvor i det øjeblik, du begynder at sidde med et repetitivt opgave,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 298.0,
       "end": 301.0,
       "text": " så er Custom GPT'ere bare fantastiske.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 303.0,
       "text": " Hvad har du ellers af eksempler på sådan nogle folk, der har brugt det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 303.0,
       "end": 307.0,
       "text": " Underservice mails, og den er interessant.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 307.0,
       "end": 310.0,
       "text": " Der er mange, der bruger ekterne tools dertil,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 310.0,
       "end": 316.0,
       "text": " men hvis vi lige bliver i Custom GPT, det her med at kunne uploade løbende konspondanser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 316.0,
       "end": 322.0,
       "text": " gode konspondanser, gode eksempler på kundeservice mails, på besvarelser, FAQ'er osv.,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 322.0,
       "end": 327.0,
       "text": " gør bare, at man ved hjælp af ChatGPT netop kan svare markant hurtigere og markant bedre,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 327.0,
       "end": 329.0,
       "text": " end hvad man kunne uden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 329.0,
       "end": 331.0,
       "text": " Alternativet havde været, at man skulle sidde og prompte sig til det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 331.0,
       "end": 334.0,
       "text": " Nej, det er helt græde alternativet. Det var, at man skulle starte selv forfra,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 334.0,
       "end": 336.0,
       "text": " og skrive hver enkelt mail selv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 336.0,
       "end": 339.0,
       "text": " Mellemsteppet er jo så, at man selv skal prompte sig ud af det hver gang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 339.0,
       "end": 343.0,
       "text": " Det tredje her, det er jo at give den noget kontekst, give den gode eksempler på tidligere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 343.0,
       "end": 346.0,
       "text": " måske hvordan man gerne vil svare sine kunder, hvad er der, der er vigtigt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 346.0,
       "end": 349.0,
       "text": " hvad er det for nogle problemstillinger, hvordan løser vi dem normalt set.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 349.0,
       "end": 351.0,
       "text": " Det er der, hvor det begynder at blive rigtig sjovt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 351.0,
       "end": 353.0,
       "text": " Jeg synes også, at en sæve på en webshop er et godt eksempel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.0,
       "end": 355.0,
       "text": " fordi to eksempler, som jeg ved mange af vores kunder bygger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 358.0,
       "text": " det er tilhindelsesvis produkttekster og kategoritekster,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 358.0,
       "end": 361.0,
       "text": " hvor de bare feeder eksempler på andre produkter og kategoritekster,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 361.0,
       "end": 363.0,
       "text": " de har lavet, og hvordan det normalt ser ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 364.0,
       "end": 366.0,
       "text": " og information om virksomheden, det kunne være sådan noget med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 366.0,
       "end": 369.0,
       "text": " her er vores leveringsvilkår, her er vores fragtvilkår,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 372.0,
       "text": " her er vores betalingsvilkår, her er vores returvilkår,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 376.0,
       "text": " her er noget om, hvornår virksomheden blev startet og stiftet og alle de der ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 376.0,
       "end": 380.0,
       "text": " som jo giver AI en masse kontekst til at lave et godt svar,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 380.0,
       "end": 384.0,
       "text": " men som du ikke ville lave normalt, hvis du bare lige skal bruge en 200 års produktbeskrivelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 387.0,
       "text": " Så sidder du ikke og bruger 20 minutter på at lave et super grundigt prompt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 387.0,
       "end": 390.0,
       "text": " fordi så er vi der, hvor du faktisk bare kunne have skrevet det selv,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 390.0,
       "end": 391.0,
       "text": " og det havde været nemmere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 391.0,
       "end": 394.0,
       "text": " Jeg synes produkttekster, kategoritekster er et super eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 394.0,
       "end": 397.0,
       "text": " Jeg ved, i BSUB er der mange af vores kunder, der bruger det til at lave LinkedIn posts,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 397.0,
       "end": 401.0,
       "text": " og det synes jeg også er fedt, selvom man skal passe på med at lave LinkedIn posts,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 403.0,
       "text": " men det siger jeg kun, hvis du er dårlig til at bruge AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 403.0,
       "end": 405.0,
       "text": " Så det at lave en custom GPT, det kan jo sagtens give mening.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 405.0,
       "end": 408.0,
       "text": " Intern vidensdatabase i virksomheder er også et godt eksempel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 408.0,
       "end": 411.0,
       "text": " hvor man hele tiden beriger den her custom GPT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " så man som medarbejder kan gå ind og stille spørgsmålet derinde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 413.0,
       "end": 415.0,
       "text": " og så trækker den ligesom fra de interne ressourcer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 415.0,
       "end": 417.0,
       "text": " med at man måske også tillader den at søge på nettet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 417.0,
       "end": 420.0,
       "text": " således at hvis man skal have en guide til at opsætte et eller andet i et tool,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 420.0,
       "end": 423.0,
       "text": " der kan det måske være bedre mening, at man henter guiden ind udefra,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 423.0,
       "end": 426.0,
       "text": " hvorimod at meget specifikke spørgsmål, som er meget virksomhedskritiske,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 426.0,
       "end": 430.0,
       "text": " og som er intern viden, så trækker den for eksempel fra en medarbejderhåndbog,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 430.0,
       "end": 432.0,
       "text": " eller en PDF, som man har oplottet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 432.0,
       "end": 435.0,
       "text": " Man har også mulighed for at dele de her custom GPT'er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 437.0,
       "text": " så den er ikke delbar som udgangspunkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 437.0,
       "end": 439.0,
       "text": " men der findes et link, når du opretter din custom GPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 442.0,
       "text": " hvor du kan definere, om den her rent faktisk skal kunne deles,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 443.0,
       "text": " eller ej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 443.0,
       "end": 444.0,
       "text": " Hvis du slår det til, at den kan deles,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 444.0,
       "end": 447.0,
       "text": " så vil andre i virksomheden også kunne bruge din custom GPT.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 447.0,
       "end": 449.0,
       "text": " Hvis du vil lave noget, der minder om en custom GPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 449.0,
       "end": 453.0,
       "text": " men som ikke kan deles, så hedder det også i OpenAI for et projekt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " så der er nogen, der har spurgt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 455.0,
       "end": 457.0,
       "text": " hvad er forskellingen på et projekt og en custom GPT?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 457.0,
       "end": 459.0,
       "text": " Forskellen er, at et projekt kan du ikke dele,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " og en custom GPT kan du godt dele, hvis du gerne vil det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 461.0,
       "end": 463.0,
       "text": " Så på den måde, hvis der er en i virksomheden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " der har lavet noget mega fedt med en custom GPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " og den er bare promptet lige som den skal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 470.0,
       "text": " og den har alle konteksten, men alle har rent faktisk brug for det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 470.0,
       "end": 473.0,
       "text": " så kan den altså godt deles i virkeligheden i virksomheden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 475.0,
       "text": " så andre også kan få gavn af den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 475.0,
       "end": 476.0,
       "text": " Halvstanden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 478.0,
       "text": " Jeg kan huske, lige i starten,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 478.0,
       "end": 481.0,
       "text": " da man snakkede rigtig, rigtig meget omkring de her custom GPTs,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 481.0,
       "end": 482.0,
       "text": " der var der jo snak om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 482.0,
       "end": 484.0,
       "text": " at det her bliver sådan en hel forretningsben for mange,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 484.0,
       "end": 487.0,
       "text": " altså at sælge deres custom GPTs.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 487.0,
       "end": 489.0,
       "text": " Har du nogen idé om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 489.0,
       "end": 491.0,
       "text": " er det blevet til noget, eller er det mere noget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " man deler gratis ud som sådan en lead magnet?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 493.0,
       "end": 497.0,
       "text": " Fordi jeg har ikke selv personligt været ude og købe mig til det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 497.0,
       "end": 499.0,
       "text": " men jeg ved, der er store libraries med det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 499.0,
       "end": 500.0,
       "text": " og det giver jo god mening,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 500.0,
       "end": 502.0,
       "text": " fordi du taber jo ind i den viden som vedkommende,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 502.0,
       "end": 505.0,
       "text": " der har siddet og lavet prompten og givet den kontekst og så videre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 508.0,
       "text": " Det har jeg faktisk ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 508.0,
       "end": 509.0,
       "text": " men jeg tror det er fordi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.0,
       "end": 515.0,
       "text": " at custom GPTs er også sådan lidt et skridt på vej mod workflows og agenter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 515.0,
       "end": 518.0,
       "text": " og workflows og agenter kan vi jo godt se blive købt og solgt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 518.0,
       "end": 520.0,
       "text": " Så det er sådan en god segway til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 520.0,
       "end": 521.0,
       "text": " hvornår en custom GPT så ikke nok,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 521.0,
       "end": 524.0,
       "text": " fordi en custom GPT vil være meget bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 524.0,
       "end": 526.0,
       "text": " end at sidde og prompte forfra hver eneste gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 528.0,
       "text": " Men udfordringen ved en custom GPT eller en gem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 528.0,
       "end": 532.0,
       "text": " er, at du sidder faktisk stadig og kopierer tekst fra det ene vindue og over i det andet vindue.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 532.0,
       "end": 534.0,
       "text": " Så du har godt nok sparet en masse tid i forhold til at få lavet dit output,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 534.0,
       "end": 537.0,
       "text": " men du sidder stadig manuelt og håndterer de produkttekster",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 538.0,
       "text": " eller LinkedIn-opslag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 539.0,
       "text": " eller kundeservice-mails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 539.0,
       "end": 540.0,
       "text": " eller hvad du nu skulle lave,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 540.0,
       "end": 541.0,
       "text": " én ad gangen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 541.0,
       "end": 543.0,
       "text": " og det sætter jo nogle begrænsninger for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 544.0,
       "text": " hvor hurtigt du kan være på kontrol-C,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 544.0,
       "end": 545.0,
       "text": " kontrol-V.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 545.0,
       "end": 547.0,
       "text": " Så det skridtede videre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " det er jo faktisk at lægge det her ind i et workflow,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 550.0,
       "text": " eller en AI-agent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 550.0,
       "end": 552.0,
       "text": " og det er jo det, vi arbejder rigtig meget med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 553.0,
       "text": " også i Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 555.0,
       "text": " i for eksempel et værktøj som make.com,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 555.0,
       "end": 556.0,
       "text": " hvor vi sætter workflows op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 557.0,
       "text": " og workflows det er jo bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 557.0,
       "end": 559.0,
       "text": " hvor du har et defineret start- og sluttidspunkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " og så sker der nogle ting i midten, man ikke kan fravige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 564.0,
       "text": " eller deciderede AI-agenter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.0,
       "end": 566.0,
       "text": " som laver arbejde for dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 566.0,
       "end": 567.0,
       "text": " Og jeg har faktisk et eksempel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 568.0,
       "text": " som jeg har lavet i et LinkedIn-opslag om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 569.0,
       "text": " her den anden dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " som jeg selvfølgelig har skrevet i hånden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 573.0,
       "end": 574.0,
       "text": " Det holder jeg fast på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 574.0,
       "end": 575.0,
       "text": " som gamle mand jeg er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 578.0,
       "text": " Men der har vi lavet en AI-agent i Make,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 578.0,
       "end": 579.0,
       "text": " for en af vores kunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 579.0,
       "end": 580.0,
       "text": " og den her AI-agent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 580.0,
       "end": 582.0,
       "text": " det kunne måske ikke godt have været en custom-GPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 582.0,
       "end": 583.0,
       "text": " fordi det den gør,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 583.0,
       "end": 584.0,
       "text": " det er to gange om ugen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 584.0,
       "end": 587.0,
       "text": " så går den ind og trækker data ud af en Facebook-konto,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 588.0,
       "text": " der bruger ret mange penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 590.0,
       "text": " Så har den en masse information,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 590.0,
       "end": 591.0,
       "text": " altså de her pre-prompts,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 592.0,
       "text": " i forhold til den her virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 593.0,
       "text": " hvad er deres målsætninger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 594.0,
       "text": " hvad må prisen være for den ene kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 596.0,
       "text": " hvad må prisen være for den anden kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 597.0,
       "text": " hvad er godt, hvad er skidt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 599.0,
       "text": " Og så alle de her informationer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 599.0,
       "end": 601.0,
       "text": " når den så trækker dataen ud to gange om ugen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 601.0,
       "end": 603.0,
       "text": " så analyserer og behandler den den data,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 604.0,
       "text": " og sender en besked ind i en Slack-kanal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 606.0,
       "text": " og siger, er vi over eller under target.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 606.0,
       "end": 607.0,
       "text": " Og så hvis man klikker på kommentaren,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 608.0,
       "text": " så får man nogle anbefalinger til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 610.0,
       "text": " hvad man skal gøre for at optimere kampagnerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 610.0,
       "end": 611.0,
       "text": " Og så kan vi så vælge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 613.0,
       "text": " om vi vil implementere de anbefalinger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 613.0,
       "end": 614.0,
       "text": " Nogle gange er de rigtig gode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 615.0,
       "text": " nogle gange er de rigtig dårlige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 615.0,
       "end": 616.0,
       "text": " så der skal man stadig have en person,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 616.0,
       "end": 617.0,
       "text": " der kender virksomheden og ved, hvad de laver.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 617.0,
       "end": 620.0,
       "text": " Men vi har bare taget enormt meget grunt work,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 620.0,
       "end": 621.0,
       "text": " i form af analysering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 621.0,
       "end": 623.0,
       "text": " og sådan at være sikre på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 623.0,
       "end": 624.0,
       "text": " at vi opdager, hvis der er en kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 625.0,
       "text": " der går den ene eller den anden AI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 626.0,
       "text": " ved at sætte den her agent op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 627.0,
       "end": 628.0,
       "text": " der så kører mandag og torsdag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 628.0,
       "end": 630.0,
       "text": " Og det her, det kunne godt have været en GPT.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 632.0,
       "text": " Det her, det kunne godt have været en custom GPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 632.0,
       "end": 633.0,
       "text": " med de samme instrukser og prompts.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 633.0,
       "end": 634.0,
       "text": " Udfordringen er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " så skulle vi selv have lavet et udtræk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 638.0,
       "text": " fra kontoen mandag og torsdag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 638.0,
       "end": 640.0,
       "text": " lagt ind og ventet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 640.0,
       "end": 641.0,
       "text": " og nu får vi det bare serveret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 641.0,
       "end": 642.0,
       "text": " fordi det er en AI-agent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 642.0,
       "end": 643.0,
       "text": " der er lagt ind i et workflow.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 644.0,
       "text": " Så jeg tror måske,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 644.0,
       "end": 645.0,
       "text": " det ville være min hypotese,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 648.0,
       "text": " man begyndte aldrig rigtigt at handle custom GPTs,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 649.0,
       "text": " fordi lige pludselig kunne du lægge dem ind i workflows,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 649.0,
       "end": 651.0,
       "text": " og så er det dem, vi køber i stedet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 652.0,
       "text": " Ja, og i princippet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 652.0,
       "end": 654.0,
       "text": " hvis man skulle tage fat i det eksempel der,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 654.0,
       "end": 657.0,
       "text": " og ligge det ind over vores custom GPT til nyhederne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " så skulle vi jo egentlig have en agent,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 659.0,
       "end": 660.0,
       "text": " eller et workflow,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 660.0,
       "end": 661.0,
       "text": " enten agent eller et workflow,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 661.0,
       "end": 663.0,
       "text": " som ligger og crawler nyhederne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 663.0,
       "end": 665.0,
       "text": " vælger dem, der er relevante for MarketingPod,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 665.0,
       "end": 668.0,
       "text": " tager dem ind og laver det her resume her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 668.0,
       "end": 670.0,
       "text": " i stedet for at vi lige nu skal lægge dem ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 670.0,
       "end": 672.0,
       "text": " Så skulle vi jo faktisk have det ind i arket,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 672.0,
       "end": 678.0,
       "text": " fordi vi har et 401 sider langt Google Docs dokument,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 678.0,
       "end": 681.0,
       "text": " der hedder marketingpod.dk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 681.0,
       "end": 683.0,
       "text": " hvor vi lægger alle vores noter ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 683.0,
       "end": 684.0,
       "text": " siden den første episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 687.0,
       "text": " og du tager jo faktisk og kopierer outputtet fra din custom GPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 687.0,
       "end": 689.0,
       "text": " og lægger det manuelt ind i vores ark.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 689.0,
       "end": 692.0,
       "text": " Så hvis man skulle automatisere de tre sekunder væk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 692.0,
       "end": 693.0,
       "text": " og jeg gider ikke opsætte den automation,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 693.0,
       "end": 694.0,
       "text": " så vil du selv råde med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " men så skulle vi faktisk have en agent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 699.0,
       "text": " der måske både fandt nyhederne og lagde dem ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 699.0,
       "end": 702.0,
       "text": " fordi lige nu der kopierer du nyheden ind for et resultat,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 702.0,
       "end": 704.0,
       "text": " og kopierer resultatet ind i vores ark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 704.0,
       "end": 705.0,
       "text": " og det er det mindste problem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 705.0,
       "end": 706.0,
       "text": " jeg kunne forestille mig nogensinde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 706.0,
       "end": 708.0,
       "text": " at vi kunne løse for dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 708.0,
       "end": 709.0,
       "text": " But nevertheless,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 709.0,
       "end": 710.0,
       "text": " så kunne det have blevet et workflow eller en agent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 710.0,
       "end": 711.0,
       "text": " hvis vi gider opdage det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 711.0,
       "end": 713.0,
       "text": " Du har til gengæld lige givet mig en god idé.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 713.0,
       "end": 715.0,
       "text": " Nu havde vi i mandagens episode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 715.0,
       "end": 718.0,
       "text": " der snakkede vi bl.a. om opsættelse fra Alex Ramosi.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 718.0,
       "end": 720.0,
       "text": " En eller anden dag,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 720.0,
       "end": 722.0,
       "text": " tror jeg ikke, vi kan sælge hele det her notice ark her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 722.0,
       "end": 724.0,
       "text": " når det engang bliver et plus tusind sider.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 724.0,
       "end": 726.0,
       "text": " Hvem skulle købe det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 726.0,
       "end": 727.0,
       "text": " Det ved jeg heller ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 727.0,
       "end": 729.0,
       "text": " Jeg tænker, så skulle det være AI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 729.0,
       "end": 730.0,
       "text": " der ville crawl i for at lære et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 730.0,
       "end": 731.0,
       "text": " men vi har lavet det i Google Docs,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 731.0,
       "end": 733.0,
       "text": " så Gemini har det allerede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 733.0,
       "end": 736.0,
       "text": " Jeg er sikker på, at Google ejer alle vores dokumenter i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 736.0,
       "end": 738.0,
       "text": " Det er en dårlig idé.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 739.0,
       "end": 743.0,
       "text": " Skriv til os, hvis du vil købe Marketingpods masternode dokument 400 sider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 743.0,
       "end": 745.0,
       "text": " Det koster kun 6.000 dollars,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 747.0,
       "text": " og tusind tak, fordi du ledte med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

@@ -9,77 +9,81 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 8.0,
       "text": " På Trustpile kunne jeg se, at den havde kun 20 anmeldelser, så det var sikkert en ny webshop, og 99% af dem er jo fine nok, men jeg var stadig sådan lige, altså er det her en falsk shop, hvor jeg er ved at blive snydt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 8.0,
       "end": 14.0,
       "text": " Og der var brugernes eget materiale, hvor jeg kunne se, at det var produktet fra shoppen, der var oplottet, var sådan noget af det der bitroterede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 18.0,
       "text": " Jeg tænkte, yes, den er god, jeg køber det andenfra. Og nu har du set lamperne nede i kælderen fremragende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 18.0,
       "end": 25.0,
       "text": " Så jeg vil sige, jeg kan se, hvordan den her selv har betydet noget i en kunderejse, jeg rent faktisk har haft, og det er derfor jeg alligevel fremhæver den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 30.0,
       "text": " Ja, og det der er fedt ved den, det er, at den kører automatisk. Altså hver gang der er nogen, der har lagt den i orden, så kan du sætte dine egne regler op,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 30.0,
       "end": 35.0,
       "text": " eller du kan bruge de premade regler, der er derinde, hvor den så sender en mail ud, om ikke vedkommende vil give en anmeldelse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 35.0,
       "end": 42.0,
       "text": " og afslutte et billede eller en video. Og det er jo sådan nogle ting, som man bare burde gøre, men man får da aldrig rigtig gjort.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 42.0,
       "end": 46.0,
       "text": " Altså det her med at indhente de her produktanmeldelser, her der kører det bare automatisk, og det kommer automatisk ind på din produktside,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 46.0,
       "end": 52.0,
       "text": " og det er bare så meget værd, fordi jeg vil bare påstå, at der er rigtig mange, der sidder i lige præcis en situation,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 52.0,
       "end": 58.0,
       "text": " lignende den, du har siddet i, hvor man kommer lidt i tvivl. Og der er det bare fedt, at man har en app, der ikke koster specielt meget per måned,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 58.0,
       "end": 60.0,
       "text": " der bare ligger og samler de her produktanmeldelser op.",
-      "speaker": "B"
+      "speaker": "Christian"
     }
   ]
 }

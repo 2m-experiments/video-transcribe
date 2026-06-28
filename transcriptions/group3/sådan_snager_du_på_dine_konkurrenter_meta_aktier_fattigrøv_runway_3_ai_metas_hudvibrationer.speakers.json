@@ -9,4163 +9,4167 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Christian",
+      "Halfdan"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Christian",
+      "B": "Halfdan"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 9.0,
       "text": " Vi starter med de tre nyheder fra den forgangne uge, som har gjort indtryk på os.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 9.0,
       "end": 17.0,
       "text": " Meta har indgivet en patentansøgning for en ny biometrisk autentificeringsteknologi, der kombinerer stemmegenkendelse og hudvibrationer.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 17.0,
       "end": 23.0,
       "text": " Teknologien bruger vibrationer fra brugerens tale for at forbedre sikkerheden i deres AirHeadset.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 23.0,
       "end": 28.0,
       "text": " Det kan mindske risikoen for hacking af stemmegenkendelse ved at tilføje en ekstra biometrisk faktor.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 28.0,
       "end": 37.0,
       "text": " Dog advarer eksperter om, at brugen af dybere personlige biometriske data kan medføre nye sikkerhedsrisikoer på sigt.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 37.0,
       "end": 43.0,
       "text": " Meta-platforms aktier nåede et rekordhøjt niveau på 535 dollars fredag.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 43.0,
       "end": 52.0,
       "text": " Stigningen skyldes Metas aggressiv investering i kunstig intelligens herunder en ny multitoken forudsigelsesmetode, der forbedrer træningstider og forståelsen af sprogstrukturer.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 52.0,
       "end": 61.0,
       "text": " Meta planlægger også at integrere Generative AI i sin VR, AR og Mixed Reality spil for at forbedre brugeoplevelsen i Meta-værelset.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 61.0,
       "end": 67.0,
       "text": " Yderligere investeringer i GPU'er forventes at integrere Generative AI i Metas indtægtsgenerering.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 67.0,
       "end": 72.0,
       "text": " Dertil kan det nævnes, at Metas aktie er steget 80% i løbet af det sidste år.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 73.0,
       "end": 84.0,
       "text": " Det AI-drevet videotool Runway har officielt lanseret deres nye Gen 3 Alpha-model, som er en direkte konkurrent til OpenAI's Zorra, der endnu ikke er lanseret for offentligheden.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 84.0,
       "end": 91.0,
       "text": " Toolet giver dig mulighed for at skabe videosekvenser ud fra dine egne prompts og kan blandt andet bruges til at generere marketingvideoer.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 91.0,
       "end": 98.0,
       "text": " Det helt store spørgsmål er nu, hvornår OpenAI lanserer Zorra og forstår en forskel der er på kvaliteten af det output, de hver især genererer.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 98.0,
       "end": 103.0,
       "text": " For nu der snåber Runway i hvert fald føreposition i AI-videoreset.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 103.0,
       "end": 115.0,
       "text": " Lad os lige starte med Meta her, for jeg synes jo det er super interessant, at de laver så store investeringer og nye teknologier og alt muligt bare for at kunne differentiere hvad AI indhold og hvad ikke AI indhold.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 115.0,
       "end": 126.0,
       "text": " Altså jeg synes det fortæller alt, at Meta, som jo er en af verdens førende virksomheder inden for AI og udvikler en af de største sprogmodeller med lame og længst fremme i forhold til open source og alle mulige ting.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 129.0,
       "text": " De kan heller ikke se forskel på hvad der er i genereret og hvad der ikke er i genereret.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 138.0,
       "text": " Altså det man skal forstå her, det er jo, at Meta har så svært ved at se hvad der rent faktisk er i genereret, at de har brug for at lægge et biometrisk lag ned over optagelsen for at identificere det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.0,
       "end": 146.0,
       "text": " Og jeg synes bare, at nogle gange så ser man folk der sådan tænker, kan Google finde ud af om min tekst den er skrevet af ChatGPT.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 152.0,
       "text": " Meta snakker om at lægge biometrisk autentificeringsteknologi, der kombinerer stemmegenkendelse og hudvibrationer.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.0,
       "end": 154.0,
       "text": " Jeg ved ikke engang hvad er hudvibrationer.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 155.0,
       "text": " Jeg forstår det ikke.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 155.0,
       "end": 157.0,
       "text": " Det lyder sejt, men jeg forstår det simpelthen ikke.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 157.0,
       "end": 161.0,
       "text": " Men nej, Google kan ikke se om din tekst den er skrevet via GenFCI, hvis du gør det ordentligt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 161.0,
       "end": 164.0,
       "text": " Altså de kan ikke engang se om din video er lavet via GenFCI.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 164.0,
       "end": 166.0,
       "text": " Ej, jeg synes det er helt vildt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 174.0,
       "text": " Og jeg synes egentlig, at den her nyheder hænger en lille smule sammen med nyheder nr. 3 om det her med videoskolet Runway, der har lanseret deres nye alpha-model og måske er endnu bedre end Zoram.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 180.0,
       "text": " Altså jeg vil vurdere, at vi er allerede ved det punkt, hvor AI-video er lige så god eller bedre, hvis du er dygtig til at prompte en rigtig video.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 180.0,
       "end": 185.0,
       "text": " Og der kommer til at være sådan et arms race herfra i forhold til, hvem der kan lave den bedste video og alle sådan nogle ting der.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.0,
       "end": 187.0,
       "text": " Men jeg tror ikke, at det er det, der kommer til at være afgørende.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.0,
       "end": 190.0,
       "text": " Altså jeg tror, at det er allerede så godt, at du kan ikke rigtig...",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 190.0,
       "end": 193.0,
       "text": " Altså meta kan ikke se forskel på, om det er AI-genereret eller om det ikke er AI-genereret.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 193.0,
       "end": 195.0,
       "text": " Det er allerede lige så godt som det punkt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 195.0,
       "end": 205.0,
       "text": " Jeg tror, at dem, der kommer til at differenciere sig fremadrettet, det er dem, der udviser personlighed, autenticitet og tør at stå for noget i den her søg af AI-genereret indhold, du alligevel ikke rigtig kan kende forskel fra.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 205.0,
       "end": 206.0,
       "text": " Præcis, præcis.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 206.0,
       "end": 209.0,
       "text": " Ja, hvad tænker du om den her, særlig Zorra og Runway osv.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 214.0,
       "text": " Altså kan du forestille dig at bruge de her AI-værksteder til rent praktisk at lave annoncer for vores kunder?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 214.0,
       "end": 222.0,
       "text": " Jamen jeg var faktisk inde, og jeg kan også anbefale andre at gå ind på YouTube og søge efter Gen 3 Alpha og filtrere efter dato den seneste måneds tid.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 222.0,
       "end": 225.0,
       "text": " Nu blev det lanceret her for en 7-10 dage siden.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 225.0,
       "end": 230.0,
       "text": " Så er de nyeste videoer derinde, og så prøv at se nogle eksempler fra nogle, der genererer nogle videoer ud fra deres prompts.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 231.0,
       "end": 242.0,
       "text": " Man kan sige, jeg så en hvor man har forsøgt at få en kvinde til at gå et sted i Tokyo, hvor der så skulle være et kæmpe stort banner i baggrunden med et logo på.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 242.0,
       "end": 249.0,
       "text": " Alt spillede egentlig med undtagelse af den her kvindes ben, som ligesom flættede ind i hinanden på en underlig måde, men resten det fungerede faktisk ret godt.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 249.0,
       "end": 253.0,
       "text": " Så hvis man pillede den her kvinde ud fra det, så er det faktisk imponerende godt.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 253.0,
       "end": 257.0,
       "text": " Så som B-rolls, hvis man kan sige det på den måde, der kunne jeg faktisk godt forestille mig det.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 258.0,
       "end": 268.0,
       "text": " Som B-rolls nemlig, fordi det sjove det er, at hvis du tænker på de allerbedste annoncer, du laver for dine kunder på Facebook, så er det vel mange af de gremmeste videoer, du laver, og mest autentiske.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 268.0,
       "end": 270.0,
       "text": " Det er jo det, der er lidt sjoven ved det her.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 271.0,
       "text": " Og vildeste.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 271.0,
       "end": 273.0,
       "text": " Ja, og vildeste. Lidt præcis, fordi det er dem, som er rigtige.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 273.0,
       "end": 275.0,
       "text": " Jeg kan jo også godt se, hvis jeg...",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 275.0,
       "end": 283.0,
       "text": " Jeg så jo på sådan et sjovt LinkedIn-opslag her den anden dag fra Rasmus Bullaksen, som er tekstforfatter, og han sagde, her er hvordan du identificerer, hvis en tekst er skrevet med ChatGBT.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 283.0,
       "end": 293.0,
       "text": " Og det er bl.a. sådan noget med, at den laver en intro med en emoji i starten og i slutningen, og hvert eneste ord er skrevet med et begyndelsesbogstav, og den har en tendens til at sige noget med rejser, og det er bare så tydeligt nogle gange.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 299.0,
       "text": " Og det er sjovt, fordi det her opslag, det har snart fået 400 likes, og en masse folk, der bare er fucking trætte af ChatGBT-opslaget.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 299.0,
       "end": 306.0,
       "text": " Og vi har jo snakket om det før, det her med, at du også opdagede på en YouTube-video efter 6 minutter, som egentlig var interessant nok, at den var AI-genereret, og så gad du ikke se mere.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 307.0,
       "end": 311.0,
       "text": " AI laver flot indhold, men det er kedeligt at se på, hvor meget af det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 311.0,
       "end": 321.0,
       "text": " Så det sjove er jo, at Sora er fedt, og Runway er fedt, men jeg kan ikke forstå, hvordan man skulle bruge det her, fordi det materiale, det laver, det er så generisk og poleret, at det er så nemt at se, at det er AI-genereret.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 329.0,
       "text": " Og det man har brug for, det er i virkeligheden, dem jeg følger på Twitter, det er sgu ikke dem, der laver det pæneste indhold, det er bare folk, der shitposter og har en mening om noget.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 341.0,
       "text": " Så på den måde, så er det jo lidt sjovt, at det er i den retning, det går, men jeg tror egentlig, at hvis man som marketer tør stå for noget og lave noget indhold, der reelt skiller sig ud, så kommer man ikke til at blive arbejdsløs foreløbig, fordi alt andet indhold, det kommer bare til at ligne hinanden.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 341.0,
       "end": 342.0,
       "text": " Præcis.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 342.0,
       "end": 344.0,
       "text": " Lad os lige springe til Meta. Har du aktier i Meta, Christian?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 344.0,
       "end": 345.0,
       "text": " Nej, ikke endnu.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 345.0,
       "end": 346.0,
       "text": " Færdig røv.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 347.0,
       "end": 348.0,
       "text": " Jeg skulle nok have købt dem for et år siden.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 348.0,
       "end": 349.0,
       "text": " Ja, ja.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 349.0,
       "end": 350.0,
       "text": " 90%.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 350.0,
       "end": 351.0,
       "text": " Ja, det er gået godt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 351.0,
       "end": 360.0,
       "text": " Man kan sige, at de fik også lidt slag i sidste år. Jeg kan jo sige, at Meta er min anden største beholdning efter Shopify, som jeg tredje år er den største, så det har været et godt år.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 360.0,
       "end": 366.0,
       "text": " Nu sidder du jo hjemme med mig i øjeblikket af det, at vi springer champagne senere til frokost, altså champagne og coke.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 368.0,
       "end": 369.0,
       "text": " Det er 2021 igen, baby.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 370.0,
       "end": 381.0,
       "text": " Det går rigtig, rigtig godt for Meta. Men jeg må også bare sige, at som annoncør har jeg været klippefast i troen på den her annonceplatform fra starten af, fordi jeg har bare set, og jeg tænker, at du har nok set det samme.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 386.0,
       "text": " Altså alle de kunder, som har været trætte af, at der har været et eller andet problem på Meta. Hvor skulle de ellers bruge pengene?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 386.0,
       "end": 387.0,
       "text": " Ja, præcis.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 387.0,
       "end": 389.0,
       "text": " Det er jo ikke, fordi du kan tage de penge og bruge dem på Snapchat.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 390.0,
       "text": " Nej.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 390.0,
       "end": 400.0,
       "text": " Altså, der er ikke noget alternativ. Så de virksomheder, som er utilfredse med resultatet på Meta, det eneste, jeg kan gøre, det er jo at se indad og se, okay, det virker for andre, fordi auktionsprisen er, som den er, fordi der er nogen, der er villige til at betale det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 400.0,
       "end": 406.0,
       "text": " Altså, når CPM-prisen er stedet på Meta over det sidste års tid, som den også er, det kan man faktisk se inde på facebookannoncering.dk.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 416.0,
       "text": " Der har vi i opstillingen en graf, hvor alle vores kunder CPM-prisen matcher, hvad hedder det, mixet sammen. Så kan man bare se udvikling i CPM-prisen fra en masse danske virksomheder, uden navn selvfølgelig, over de sidste 12 måneder.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 417.0,
       "end": 422.0,
       "text": " Og CPM-prisen er stigende, og det er derfor, Mesa tjener flere penge, og det er derfor, aktiekursen hamrer opad.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 430.0,
       "text": " Men det, man skal huske, det er, at CPM-prisen stiger, fordi det virker. Altså, det er en direct response-kanal, så hvis folk får mere ud af den, så bruger de flere penge.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 436.0,
       "text": " Og jeg kan også bare se det, at de og vores kunder, der har problemer med at få Mesa til at fungere godt nok, de kan ikke bruge de penge på andre kanaler, hvor det giver mening.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 444.0,
       "text": " Så enten er de nødt til at finde på noget helt andet, køre bus-annonser, eller så må de jo se indad og se, okay, vores kreative er ikke gode nok, vores landingsider er ikke gode nok, vores offer er ikke gode nok.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 444.0,
       "end": 453.0,
       "text": " Altså, man er nødt til at se indad på en eller anden måde, fordi der er virksomheder, der har enormt succes med Facebook-organisering, bruger mega mange penge på det, får mega mange penge tilbage, og det er derfor, prisen stiger.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 472.0,
       "text": " Der er sådan, lad os tage fat på dagens episode. Vi har kaldt den 12 måder, du kan snage på dine konkurrenter på, og jeg tror faktisk, vi har lidt mere end 12 metoder med i den efterhånden, fordi vi har mange interessante nutter.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 472.0,
       "end": 476.0,
       "text": " Og lad os sige til at starte med, altså det her, det er jo noget, som alle elsker at gøre. Jeg elsker at gøre det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 477.0,
       "end": 478.0,
       "text": " Det er jo det fedeste.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 478.0,
       "end": 486.0,
       "text": " Ja, man kan slet ikke lade være. Jeg har det egentlig også okay med det, fordi der er nogen, der siger, hvis du holder for meget over med dine konkurrenter, så glemmer du din egen forretning, og hvis du hele tiden kigger på nr. 1, så er du altid nr. 2 og så videre.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 486.0,
       "end": 496.0,
       "text": " Men man kan også sige, good artists make great artists deal og alt det der. Jeg kan sgu godt lide at holde øje med, hvad der foregår andre steder, fordi hvis der er nogen, der har fundet ud på noget genialt, så er jeg ikke for fint til at sige, så skal vi også gå ind og gøre det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 496.0,
       "end": 501.0,
       "text": " Altså, vi behøver ikke være first movers på alting, vi kan godt være late movers og så gøre det ordentligt i stedet for.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 509.0,
       "text": " Og jeg kan godt lide at snakke på LinkedIn. Jeg har LinkedIn Premium, så jeg kan gå ind og se alle de konkurrerende bruger og hvor mange personer, de har i ansatte og udvikling og ads og så videre.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.0,
       "end": 518.0,
       "text": " Ads kan man også se uden Premium, det kommer vi tilbage til, men der er bare mange andre lidt mere sofistikerede og lidt mere sådan, man kan sige forretningsrelaterede måder at gøre det for.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 518.0,
       "end": 521.0,
       "text": " Jeg tænker også, det her, det er jo, altså man kan næsten ikke lade være nogle gange, vel?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 521.0,
       "end": 537.0,
       "text": " Ej, man kan da ikke, altså især når man sidder der om aftenen efter en lang arbejdsdag og lige skal ind og lure lidt, især med nogle af de metoder, vi skal snakke om i dag, for der er nogle ret fede måder, hvor det er stadigvæk etisk korrekt, men hvor man virkelig får noget information ud, hvor man sidder og tænker, hmm, det var interessant.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 537.0,
       "end": 546.0,
       "text": " Ja, og jeg er sikker på, at alle virksomheder har 1, 2, 3 nære konkurrenter, som de holder ret meget øje med, og man kan downloade deres regnskab en gang om året, og så kan man se, hvad der sker i forretningen.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 546.0,
       "end": 552.0,
       "text": " Men man kan også holde øje med det løbende, og også nogle ting, der kan give noget ret brugbare indsigt i forhold til digital marketing.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 558.0,
       "text": " Og det er selvfølgelig den vængde, vi har på det, hvor kan du lære noget af, hvad dine konkurrenter gør, og hvad de gør rigtigt, så du også har mulighed for at gøre nogle af de ting.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 558.0,
       "end": 562.0,
       "text": " Fordi du behøver ikke at opvente den dybste lærken selv. Det har aldrig været en god strategi at gøre det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 562.0,
       "end": 565.0,
       "text": " Så lad os se på, hvad man rent faktisk kan gøre.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 570.0,
       "text": " Den første og den nemmeste ting, som jeg vil anbefale til at starte med, det er at skrive det op til deres nyhedsprøve.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 570.0,
       "end": 575.0,
       "text": " Og den er helt simpel, men der er virkelig mange, der ikke gør det. Altså jeg har skrevet det op til alle vores konkurrenters nyhedsprøve.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 583.0,
       "text": " Hvis man vil eventuelt holde en indbakke for sig, så ikke det kommer ind i en primære, så kan man jo lave trækket med, at man laver en separat mail, eller bare bruger et plus i sin indbakke.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 583.0,
       "end": 586.0,
       "text": " Min mail er jo hti.snablag.obsidian.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 586.0,
       "end": 595.0,
       "text": " Men hvis jeg lavede hti.snablag.obsidian.dk, så ville de stadig gå ind til min email, fordi at alle emailudbydere egentlig ser bort fra det her plus,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 598.0,
       "text": " fordi de ser bort fra f.eks. punkter, når det går genmale i hvert fald.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 603.0,
       "text": " Så det er sådan en meget gængst teknik. Din emaildres plus, f.eks. konkurrenters snablag i dit domæneanledelse.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 610.0,
       "text": " Så kan du få dem ind i en separat indbakke ved at lave et bilde, der siger, at alle der kommer på hti.snablag.obsidian.dk plus konkurrenter ryger ind i en separat indbakke og ligger fra sig,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 610.0,
       "end": 612.0,
       "text": " og så kan man tjekke dem ud en gang imellem.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 619.0,
       "text": " Og hvis man nu har lyst til at være lidt fremme i skoene, så kan man jo gå ind og lave en simpel lille AI-bot, f.eks. via Zapier eller et andet værktøj,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 619.0,
       "end": 626.0,
       "text": " som ryger ind en gang om ugen, tager alle de mails, der er blevet sendt til hti.snablag.obsidian.dk, læser dem og opsummerer dem i en e-mail,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 633.0,
       "text": " man så får tilmeldelse af, at man behøver at læse 25 e-mails fra ens konkurrenter med bakker på en opsummering om ugen, der er genereret.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 633.0,
       "end": 635.0,
       "text": " Det har jeg egentlig kun været glad for.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 640.0,
       "text": " Den er super fed, også fordi, at der er mange virksomheder derude, der kører efter den samme kampagneplan.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 640.0,
       "end": 646.0,
       "text": " Og tager man udgangspunkt i sidste års kampagneplan, så ved man nogle lunde ofte, hvad der kommer til at ske i år.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 646.0,
       "end": 651.0,
       "text": " Det er i hvert fald sjældent, at den dybte lærken bliver gennemfundet.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 651.0,
       "end": 657.0,
       "text": " Og så er det en god måde lige at holde øje med, hvornår de holder fødselsdag, hvornår de starter deres Black Friday osv.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " Så det er super fedt tip.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 659.0,
       "end": 662.0,
       "text": " Ja, og også bare fordi, at man kan bruge det til at styre ens egen kampagne.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 662.0,
       "end": 668.0,
       "text": " Fordi hvis din store konkurrent laver tilbud på en given kategori, så skal du måske ikke bruge helt vildt mange penge på den kategori i kommende uge,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 668.0,
       "end": 670.0,
       "text": " hvis du ikke selv kan have tilbud på den f.eks.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 670.0,
       "end": 673.0,
       "text": " Fordi så kunne man forestille sig, at der er en masse personer, der søger på Google, finder det billigere ved konkurrenterne,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " og så går du effektivt ind og skaber salg for dine konkurrenter.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 675.0,
       "end": 680.0,
       "text": " Så man kan også bruge den her indsigt til, hvad skal man selv køre på.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 680.0,
       "end": 684.0,
       "text": " Og jeg ved, at der er mange f.eks. Fashion & Lifestyle brands, der holder øje med, hvornår starter brugelsen af udsælden?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 688.0,
       "text": " Så starter vi udsælden på samme dag, fordi ellers så vores eget salg bliver bare smadret af penge.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 691.0,
       "text": " Så vi er nødt til at gå med, eller bare acceptere, at vi ingenting sælger.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 697.0,
       "text": " Så på den måde, så er der også nogle ting, man rent faktisk kan bruge det her til i forhold til at styre ens egen kampagneplaner.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 697.0,
       "end": 698.0,
       "text": " Lige præcis.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 701.0,
       "text": " Hvis vi hopper videre, så skal vi ind og lege lidt med URL'er.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 701.0,
       "end": 707.0,
       "text": " Og det her, det hører sig især til, hvis man har konkurrenter, der benytter sig af Shopify inden for e-commerce verdenen.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 707.0,
       "end": 711.0,
       "text": " Det kan også godt lade sig gøre i andre shopsystemer, men nu tager vi lige udgangspunkt i Shopify.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 711.0,
       "end": 717.0,
       "text": " Det første, det er, at vi godt lide at gå ind og kigge på, hvad det egentlig for nogle produkter, vores konkurrenter sælger allermest af.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 717.0,
       "end": 723.0,
       "text": " Og der er vi så privilegerede, at vi i URL'en kan skrive dit, din konkurrents URL,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 724.0,
       "end": 727.0,
       "text": " slash collections, slash all.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 727.0,
       "end": 731.0,
       "text": " Og så en sortering, der hedder sort, underscore, buy, alligevel best selling.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 731.0,
       "end": 733.0,
       "text": " Vi skal nok lægge det ned i show notes, bare roligt.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 733.0,
       "end": 735.0,
       "text": " Marketingpod.dk.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 740.0,
       "text": " Du kan så bare gå ind og subscribe på iTunes, Spotify, YouTube, nyhedsbrev og give os dine første fødte.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 740.0,
       "end": 742.0,
       "text": " Og så får du selvfølgelig URL'en bag.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 742.0,
       "end": 744.0,
       "text": " Hold on, hold on.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 746.0,
       "end": 752.0,
       "text": " Men om ikke andet, når man har testet det her ind, så får man faktisk overblikket over alle produkterne,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 752.0,
       "end": 755.0,
       "text": " der nu engang er på den her Shopify-shop og så sorterer efter de bedst solgte.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 755.0,
       "end": 759.0,
       "text": " Det er bare lidt sjovt nogle gange at gå ind og se, hvad er det egentlig, de sælger allermest af.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 759.0,
       "end": 763.0,
       "text": " Man får selvfølgelig ikke at vide, hvor mange de sælger, men man får et ret godt indblik i selve forretningen.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 763.0,
       "end": 767.0,
       "text": " Og det kan være, at man selv har overset en produktkategori eller nogle enkelte produkter,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 767.0,
       "end": 770.0,
       "text": " som man måske skulle til at source, fordi der er noget salg i det.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 770.0,
       "end": 773.0,
       "text": " Det næste er at se alle de landingssider, der er blevet oprettet.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 773.0,
       "end": 777.0,
       "text": " Der er Shopify lidt sjov struktureret i forhold til deres sitemap.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 777.0,
       "end": 781.0,
       "text": " Så hvis man har ens konkurrensdomæne og tilføjer",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 781.0,
       "end": 786.0,
       "text": " slash sitemap underscore pages underscore one punktum xml,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 786.0,
       "end": 790.0,
       "text": " så ser du faktisk alle de her landingssider, de manuelt har været inde og oprettet.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 790.0,
       "end": 793.0,
       "text": " Og du kan se, hvornår de sidste har været inde og ændre dem.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 793.0,
       "end": 797.0,
       "text": " Der er nok nogle landingssider, der går langt tilbage og hvor de ikke bliver brugt mere.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 797.0,
       "end": 799.0,
       "text": " Men det her med, at du kan se, hvornår de sidste er blevet ændret,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 799.0,
       "end": 802.0,
       "text": " det må alt andet lige betyde, at det er nogen, de aktivt går ind og arbejder med.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 802.0,
       "end": 806.0,
       "text": " Og der kan man faktisk se nogle ret spændende ting, fordi de her landingssider kaler sig",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 806.0,
       "end": 810.0,
       "text": " at være svære at opstøve, fordi de måske slet ikke er tilgængelige ude fra webshoppen.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 810.0,
       "end": 813.0,
       "text": " Det kan være, at det er nogen, de bruger i deres meta-annoncering for eksempel",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 813.0,
       "end": 815.0,
       "text": " i en fondel, de selv har lavet.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 815.0,
       "end": 818.0,
       "text": " Der er noget ret fed inspiration at hente ud fra det her.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 818.0,
       "end": 821.0,
       "text": " Det er faktisk noget af det, som vi sidder og bruger på mange af de cases,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 821.0,
       "end": 824.0,
       "text": " vi sidder med, når det er, at vi skal gentænke, hvordan er det, vi skal køre en kampagne.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 824.0,
       "end": 827.0,
       "text": " Lad os se, hvad gør konkurrenterne, eller hvad gør andre i andre brancher,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 827.0,
       "end": 830.0,
       "text": " som gør det rigtig godt. Kan vi lære noget derfra?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 830.0,
       "end": 831.0,
       "text": " Den er super fed.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 831.0,
       "end": 834.0,
       "text": " Jeg ved, at jeg er en kunde, der har brugt det her, hvor de simpelthen gik hjem på konkurrenten,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 834.0,
       "end": 837.0,
       "text": " så, hvad er de bedste sælgende produkter, og opdagede en decideret produktkategori,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 840.0,
       "text": " som de bare ikke vidste, de skulle have, fordi de havde lige været lidt langsomme på trenden",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 840.0,
       "end": 842.0,
       "text": " eller et eller andet af den stil.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 842.0,
       "end": 844.0,
       "text": " Men så tager det heller ikke længere tid at bestille den produktkategori hjem,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 846.0,
       "text": " og det sikrer dem mange hundredtusinde i omsætning at gøre det,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 846.0,
       "end": 848.0,
       "text": " fordi de havde en større distribution end konkurrenten havde.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 848.0,
       "end": 850.0,
       "text": " De havde bare ikke fået den gode idé.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 850.0,
       "end": 852.0,
       "text": " Og det synes jeg er et godt fregt eksempel på det der med, at du behøver ikke være først.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 854.0,
       "text": " Jo, det giver en fordel at være først, men du kan også være nummer to,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 854.0,
       "end": 857.0,
       "text": " hvis du bare har bedre distribution, større nyhedsfører, større Google Ads spænd,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 857.0,
       "end": 858.0,
       "text": " større Facebook spænd.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 862.0,
       "text": " Så den her, altså, man kan jo i virkeligheden lave en lille bogmærke til ens top 10 konkurrenter,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 862.0,
       "end": 864.0,
       "text": " fordi mange af dem er sikkert på Shopify.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 864.0,
       "end": 866.0,
       "text": " Altså, det er jo Shopify et bedre system end alle andre systemer,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 874.0,
       "end": 875.0,
       "text": " som vi har overset.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 875.0,
       "end": 877.0,
       "text": " Det kunne være sådan en helt fast event i ens kalender,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 877.0,
       "end": 880.0,
       "text": " og det tror jeg faktisk ville være super godt givet ud i forhold til at source de rigtige produkter ind.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 880.0,
       "end": 883.0,
       "text": " Du har en anden fregæng her i forhold til at opdage nye produkter,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 886.0,
       "text": " så man også kan komme på forkøn med, hvad det er ens konkurrenter laver her.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 886.0,
       "end": 887.0,
       "text": " Igen, sådan en e-commerce eksempel.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 887.0,
       "end": 889.0,
       "text": " Der kommer også nogle flere B2B eksempler,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 889.0,
       "end": 891.0,
       "text": " men hvad er det for et værktøj, vi snakker om her?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 891.0,
       "end": 893.0,
       "text": " Jamen, i det her tilfælde, der findes sikkert andre,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 893.0,
       "end": 895.0,
       "text": " men det har egentlig gjort det ret godt.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 895.0,
       "end": 898.0,
       "text": " Det er en AI-robot, der hedder Browse.ai,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 898.0,
       "end": 900.0,
       "text": " hvor man kan holde øje med konkurrenternes sider,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 900.0,
       "end": 902.0,
       "text": " og se, om der sker ændringer derpå.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 902.0,
       "end": 904.0,
       "text": " Det jeg så gjorde, det var, at jeg satte en filtrering op,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 904.0,
       "end": 906.0,
       "text": " altså gik ind på det her URL,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 906.0,
       "end": 908.0,
       "text": " hvor man ser alle produkterne fra konkurrenten,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 908.0,
       "end": 910.0,
       "text": " og filtrerede efter newest,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 910.0,
       "end": 912.0,
       "text": " så jeg kunne se de nyeste produkter, der er blevet oprettet.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 912.0,
       "end": 915.0,
       "text": " Så satte jeg den her AI-robot i gang med en gang om ugen,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 915.0,
       "end": 917.0,
       "text": " og kiggede efter,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 917.0,
       "end": 919.0,
       "text": " jamen, sker der noget nyt på den her underside?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 919.0,
       "end": 921.0,
       "text": " Fordi hvis der sker en ændring,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 921.0,
       "end": 923.0,
       "text": " så må det enten være, fordi de har fjernet nogle produkter,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 923.0,
       "end": 925.0,
       "text": " eller de har tilføjet nogle nye produkter.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 925.0,
       "end": 927.0,
       "text": " Så en mail en gang om ugen viser sig frem,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 927.0,
       "end": 929.0,
       "text": " at der var sket et eller andet på den her underside,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 929.0,
       "end": 931.0,
       "text": " og det var en fantastisk måde at holde øje med,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 931.0,
       "end": 933.0,
       "text": " hvad de nærmeste konkurrenter til,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 933.0,
       "end": 935.0,
       "text": " hvor den givende case vi sad og arbejdede med,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 935.0,
       "end": 937.0,
       "text": " egentlig lå og fortog sig.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 937.0,
       "end": 939.0,
       "text": " Og det gjorde, at vi var på forkant,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 939.0,
       "end": 941.0,
       "text": " ofte i forhold til nye produktkategorier,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 941.0,
       "end": 943.0,
       "text": " og vi kunne sidde og holde øje med,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 943.0,
       "end": 945.0,
       "text": " hvad det er konkurrenterne egentlig sat sig på nu her.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 945.0,
       "end": 947.0,
       "text": " Den var superfed, og den kørte jo bare sig selv.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 947.0,
       "end": 949.0,
       "text": " En gang om ugen kom der en mail,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 949.0,
       "end": 951.0,
       "text": " hvis der var sket et eller andet,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 951.0,
       "end": 953.0,
       "text": " og den lå bare at holde øje med det for os.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 953.0,
       "end": 955.0,
       "text": " Det er ikke et e-commerce værktøj.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 955.0,
       "end": 957.0,
       "text": " Det er bare et værktøj, som er bygget til at holde øje med et website,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 957.0,
       "end": 959.0,
       "text": " og sende dig ændringerne på det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 959.0,
       "end": 961.0,
       "text": " Så det kunne også være, at nogle af deres egne eksempler,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 961.0,
       "end": 963.0,
       "text": " det er, at du tager joblistings fra et given site,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 963.0,
       "end": 965.0,
       "text": " og holder øje med det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 965.0,
       "end": 967.0,
       "text": " Det kan være produkter på Etsy,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 967.0,
       "end": 969.0,
       "text": " det kan være videoer, der er kommet ind på YouTube,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 969.0,
       "end": 971.0,
       "text": " det kan være webinars, der er oprettet på en B2B virksomhed.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 971.0,
       "end": 973.0,
       "text": " Hvis du har noget, du holder øje med,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 973.0,
       "end": 975.0,
       "text": " så kan det gå ind lige at sende dig en opsummering af,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 975.0,
       "end": 977.0,
       "text": " når der faktisk sker noget. Super værktøj.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 977.0,
       "end": 979.0,
       "text": " Et super lavpraktisk tip,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 979.0,
       "end": 981.0,
       "text": " igen lige et e-com tip,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 981.0,
       "end": 983.0,
       "text": " der er også mange, der benytter sig af,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 983.0,
       "end": 985.0,
       "text": " det er at gå ind og lægge et par ordre hos konkurrenten.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 985.0,
       "end": 987.0,
       "text": " Det gode, når man lægger en ordre hos konkurrenten,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 987.0,
       "end": 989.0,
       "text": " det er, at man får et ordre-nummer.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 989.0,
       "end": 991.0,
       "text": " De går typisk op af en med en ad gangen.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 991.0,
       "end": 993.0,
       "text": " Man kan faktisk indstille Shopify til andet,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 993.0,
       "end": 995.0,
       "text": " så den randomiserer ordrenummer.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 995.0,
       "end": 997.0,
       "text": " Nogle gange hopper en op, nogle gange fem op,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 997.0,
       "end": 999.0,
       "text": " hvis man vil gøre det lidt sværere for konkurrenten.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 999.0,
       "end": 1001.0,
       "text": " Men som ligeforhold, så går den bare en enkelt op.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1001.0,
       "end": 1003.0,
       "text": " Det man så kan gøre med det,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1003.0,
       "end": 1005.0,
       "text": " det er at man for eksempel kan lægge to ordre inde for 24 timer.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1005.0,
       "end": 1007.0,
       "text": " Så man lægger en mandag kl. 9 og tirsdag kl. 9.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1007.0,
       "end": 1009.0,
       "text": " Så kan man få en indikation af,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1009.0,
       "end": 1011.0,
       "text": " hvor mange produkter konkurrenterne rent faktisk sælger.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1011.0,
       "end": 1013.0,
       "text": " Årsagen til, at man kan gøre det her,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1013.0,
       "end": 1015.0,
       "text": " det er selvfølgelig, hvis man er interesseret i at se,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1015.0,
       "end": 1017.0,
       "text": " om ens eget salg benchmarker i forhold til konkurrenterne.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1017.0,
       "end": 1019.0,
       "text": " Altså de er gået op i forhold til et år siden,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1019.0,
       "end": 1021.0,
       "text": " eller de er gået ned i forhold til et år siden.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1021.0,
       "end": 1023.0,
       "text": " Hvis du så har lavet det her trick for et år siden og nu,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1023.0,
       "end": 1025.0,
       "text": " så får du ret godt indblik i,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1025.0,
       "end": 1027.0,
       "text": " hvordan deres udvikling er i forhold til din.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1027.0,
       "end": 1029.0,
       "text": " Fordi nogle gange stiger en salg rigtig meget,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1029.0,
       "end": 1031.0,
       "text": " og nogle gange falder det rigtig meget.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1031.0,
       "end": 1033.0,
       "text": " Det kan være interessant på den her måde,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1033.0,
       "end": 1035.0,
       "text": " at se, om det er markedet, der ejer noget med,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1035.0,
       "end": 1037.0,
       "text": " i forhold til, om ens konkurrenter har det samme.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1037.0,
       "end": 1039.0,
       "text": " Eller hvis ens salg er faldet rigtig meget,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1039.0,
       "end": 1041.0,
       "text": " og konkurrenterne er stødet, så peger fingrene jo nok indad.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1041.0,
       "end": 1043.0,
       "text": " Og så må man gøre et eller andet ved det her.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1043.0,
       "end": 1045.0,
       "text": " Så det er sådan en lavpraktisk lille tip.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1045.0,
       "end": 1047.0,
       "text": " Den koster lige en lille penge, men sådan er det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1047.0,
       "end": 1049.0,
       "text": " Det havde jeg bare gjort meget.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1049.0,
       "end": 1051.0,
       "text": " Dengang jeg selv drev e-commerce,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1051.0,
       "end": 1053.0,
       "text": " så holdt ofte jeg meget af den her.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1053.0,
       "end": 1055.0,
       "text": " Så ind på de produkter, man nogle gange vidste,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1055.0,
       "end": 1057.0,
       "text": " at konkurrenterne solgte mange af,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1057.0,
       "end": 1059.0,
       "text": " og så ind og prøve at lægge en million af dem i kurven.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1060.0,
       "end": 1062.0,
       "text": " Det gør du ikke, men du kan til gengæld lægge 500,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1062.0,
       "end": 1064.0,
       "text": " fordi det var det, der var på lager.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1064.0,
       "end": 1066.0,
       "text": " Og så kunne man så holde øje med det,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1066.0,
       "end": 1068.0,
       "text": " lidt løbende på produktniveau, bare der bliver solgt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1068.0,
       "end": 1070.0,
       "text": " Og på den måde kan du faktisk få det af slagested,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1070.0,
       "end": 1072.0,
       "text": " så du får produktet, uden at skulle købe det,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1072.0,
       "end": 1074.0,
       "text": " fordi den siger præcis, hvor mange der er tilbage.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1074.0,
       "end": 1076.0,
       "text": " Så man ved, hvis der kommer en ind på ens webshop,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1076.0,
       "end": 1078.0,
       "text": " og prøver at lægge en million produkter i kurven,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1078.0,
       "end": 1080.0,
       "text": " du er ikke på vej til at lave et stort tal.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1080.0,
       "end": 1082.0,
       "text": " Det er Christiansen nu, der er i gang med research på dig.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1082.0,
       "end": 1084.0,
       "text": " Den IP der, den skal bare ud nu.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1086.0,
       "end": 1088.0,
       "text": " Lad os gå videre til Google Merchants Center.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1089.0,
       "end": 1093.0,
       "text": " Merchants Center har fantastisk meget brugbar information,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1093.0,
       "end": 1095.0,
       "text": " og som jeg tror, folk undervurderer,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1095.0,
       "end": 1097.0,
       "text": " hvor meget de rent faktisk vil bruge i deres forretning.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1097.0,
       "end": 1099.0,
       "text": " Lad os starte med et eksempel for dig her.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1099.0,
       "end": 1103.0,
       "text": " Ja, det her er et af deres undertool,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1103.0,
       "end": 1105.0,
       "text": " som der generelt ikke bliver snakket særlig meget om,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1105.0,
       "end": 1107.0,
       "text": " og jeg forstår det faktisk ikke, fordi det er vanvittigt brugbart.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1107.0,
       "end": 1110.0,
       "text": " Hvis du logger ind i din Google Merchants Center konto,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1110.0,
       "end": 1113.0,
       "text": " og ud til venstre trykker på det menupunkt, der hedder Growth,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1113.0,
       "end": 1115.0,
       "text": " der kan du vælge Best Sellers.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1115.0,
       "end": 1117.0,
       "text": " Og under Best Sellers har du så mulighed for at vælge",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1117.0,
       "end": 1119.0,
       "text": " et land, og i det her tilfælde med det eksempel,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1119.0,
       "end": 1121.0,
       "text": " jeg kommer med hjem lidt, har jeg valgt Danmark,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1121.0,
       "end": 1123.0,
       "text": " og så en kategori, og her har jeg så valgt elektronik.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1123.0,
       "end": 1126.0,
       "text": " Og det som den her liste med produkter viser,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1126.0,
       "end": 1129.0,
       "text": " det er de produkter, der bliver solgt mest af via Google.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1129.0,
       "end": 1137.0,
       "text": " Det her er et af deres undertool, som der generelt ikke bliver snakket særlig meget om, og jeg forstår det faktisk ikke, fordi det er vanvittigt brugbart.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1137.0,
       "end": 1145.0,
       "text": " Hvis du logger ind i din Google Merchant Center konto og ud til venstre trykker på det menupunkt, der hedder Growth, der kan du vælge Best Sellers.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1145.0,
       "end": 1153.0,
       "text": " Og under Best Sellers har du så mulighed for at vælge land. I det her tilfælde med det eksempel, jeg kommer med hjem lidt, har jeg valgt Danmark, og så en kategori, og her har jeg så valgt elektronik.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1153.0,
       "end": 1160.0,
       "text": " Og det som den her liste med produkter viser, det er de produkter, der bliver solgt mest af via Google Shopping.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1160.0,
       "end": 1166.0,
       "text": " Det er et estimat, siger Google selv, men Google har jo trods alt ret meget data på det, i og med det er shopping-annonserne.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1166.0,
       "end": 1171.0,
       "text": " Så det giver et ret godt billede af, hvordan det egentlig ser ud inden for enkelte områder af branchen.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1171.0,
       "end": 1180.0,
       "text": " Og som sagt, så prøvede jeg lige at tage elektronik i Danmark, altså elektronik som hovedkategori, man kan godt gå længere ned, men nu tog jeg bare lige hele hovedkategorien,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1180.0,
       "end": 1185.0,
       "text": " og så kiggede jeg i juni måned her i 2024, hvad det er, der bliver solgt allermest til.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1185.0,
       "end": 1191.0,
       "text": " Og top 3, det er de her nødradioer. Jeg har faktisk aldrig set sådan en nødradio før, og jeg ved ikke, hvad det er kommet af,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1191.0,
       "end": 1199.0,
       "text": " måske der har været meget snak omkring prepping her i maj-juni måned, men top 3, det er simpelthen, og man kan se, hvordan det har udviklet sig fra måned til måned,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1199.0,
       "end": 1204.0,
       "text": " man kan bare se, at de bare springer op, altså det er jo ikke nogen, der har været i top 10 inden for det sidste lange stykke tid.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1204.0,
       "end": 1211.0,
       "text": " Men nummer 1, 2 og 3, det er de her små nødradioer her, og det er en meget fed måde at sidde og holde øje med, hvad er det, der sker i branchen,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1211.0,
       "end": 1218.0,
       "text": " og du kan jo så gå ind og kigge, hvad sker der egentlig i USA, hvad sker der i Sverige, hvad sker der i Tyskland inden for den kategori, man nogle gange opererer i,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1218.0,
       "end": 1227.0,
       "text": " for at se, er der nogen, der er notorisk kendte for at være foran, hvordan vi ved, at USA ofte er det inden for visse brancher, er Sverige også ofte ret langt foran også,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1227.0,
       "end": 1233.0,
       "text": " og der måske sidde og holde øje med, hvad er det egentlig, der sker de andre steder, som man måske skulle inkorporere i sit eget valg.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1233.0,
       "end": 1236.0,
       "text": " Ja, altså det er ikke kun ens egen produkter, man sælger, og det er jo super spændende.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1236.0,
       "end": 1240.0,
       "text": " Ja, det er hele branchen via shopping, så det er vildt spændende.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1240.0,
       "end": 1245.0,
       "text": " En anden ting, der ligger i en gruppe merchant standards, som jeg også synes er rigtig fedt, det er det, der hedder en price competitiveness rapport,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1245.0,
       "end": 1255.0,
       "text": " og det er en rapport, der viser, at de produkter, man sælger, som andre virksomheder også sælger, baseret på, at de har det samme ID, GTN osv.,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1255.0,
       "end": 1263.0,
       "text": " hvor prisdygtig er man på dem, og så får man det som sådan en graf, så du er prisledende på 10% af dine produkter, og 20% ligger du af niveau,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1263.0,
       "end": 1268.0,
       "text": " inden for plus minus 1% og 70%, og du er f.eks. overpris, eller omvendt, eller hvad det nu skal være.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1268.0,
       "end": 1274.0,
       "text": " Og den her price competitiveness rapport, den synes jeg også er spændende, fordi den giver et overblik på samtlige af ens produkter på Google Shopping,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1274.0,
       "end": 1279.0,
       "text": " i forhold til, om man er dyre eller billigere end andre konkurrenter, og det kan også være med til at forklare nogle udviklinger i salget, man tager.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1279.0,
       "end": 1285.0,
       "text": " Vi har f.eks. oplevet i perioder, hvor vores kunderes Google Ads salg falder helt vildt, og vi har faktisk svært ved at forklare, hvorfor,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1285.0,
       "end": 1290.0,
       "text": " men så kan vi gå ind i price competitiveness rapporten og se, at de er gået fra at være prisledende på 80% til 20%,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1290.0,
       "end": 1293.0,
       "text": " ofte fordi der er en konkurrent, der bare har kørt et kæmpe udsalg.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1293.0,
       "end": 1297.0,
       "text": " Hvis det er, at det skal fange, så kræver det, at konkurrentene produkter skal være sat ned,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1297.0,
       "end": 1302.0,
       "text": " så det vil sige, at hvis der f.eks. er en 20% rabatkode, så bliver det ikke fanget i price competitiveness rapporten,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1302.0,
       "end": 1307.0,
       "text": " for det er kun, hvis produkterne rent faktisk er sat ned, og der ligger deres price i deres xml-feed,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1307.0,
       "end": 1312.0,
       "text": " eller deres sale-price, som rent faktisk er nedsat, så ikke så er det bare et rabatkoder.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1312.0,
       "end": 1318.0,
       "text": " Men det her giver også et rigtig godt indblik i, hvem der eventuelt sælger produkter til en lavere pris, end man selv gør,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1318.0,
       "end": 1320.0,
       "text": " og hvor meget lavere de rent faktisk er.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1320.0,
       "end": 1323.0,
       "text": " Og her skal man også huske, at det ikke er nødvendigvis en god idé at være billigst.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1323.0,
       "end": 1328.0,
       "text": " Det er også bare et ræs til bunden, og man laver ikke nødvendigvis den bedste forretning, du vil være billigst,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1328.0,
       "end": 1334.0,
       "text": " fordi så vil Teemu sælge alt i hele verden, og det gør de alligevel ikke. Danske webshops sælger stadig mange ting.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1334.0,
       "end": 1338.0,
       "text": " Men omvendt, så dur det heller ikke at være 100% dyrere end konkurrenterne, hvis de så samtidig har lige så kort levering,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1338.0,
       "end": 1340.0,
       "text": " og der ikke er andre fordele ved at købe på en salg.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1340.0,
       "end": 1345.0,
       "text": " Så det kan også bare igen give noget information til at forklare, hvorfor man ser nogle udsving i en salg,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1345.0,
       "end": 1347.0,
       "text": " og kigge på de her price competitive rapporter.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1347.0,
       "end": 1351.0,
       "text": " Hvis man så kun sælger ens eget produkter, altså man er DTUC og brander og ejer dem,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1351.0,
       "end": 1353.0,
       "text": " så kan man ikke bruge den her, fordi det skal være baseret på GCN-nummer,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1353.0,
       "end": 1357.0,
       "text": " men så kan man måske bruge nogle af de her lidt mere brancheorienterede rapporter i stedet for,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1357.0,
       "end": 1360.0,
       "text": " eller tagge nogle produkter, som man godt kunne tænke sig også ind.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1360.0,
       "end": 1366.0,
       "text": " Lige præcis. Hopper vi videre, så er næste tip et, der både kan bruges for B2B og B2C,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1366.0,
       "end": 1369.0,
       "text": " det er at libraries, sagt som sådan et par plyterm.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1369.0,
       "end": 1375.0,
       "text": " Altså vi går ind og kigger på, hvad er det for nogle annoncer, dine konkurrenter ligger og kører på de forskellige medier,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1375.0,
       "end": 1381.0,
       "text": " der nu engang er. Det her, der har du mulighed for at gå ind og tjekke på Facebook, på LinkedIn, på TikTok og på Google,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1381.0,
       "end": 1384.0,
       "text": " hvor på Google hedder det godt nok Ads Transparency Center.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1384.0,
       "end": 1388.0,
       "text": " Men der har du mulighed for at teste dine konkurrenter ind, og så se, hvad er det egentlig for nogle annoncer,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1388.0,
       "end": 1393.0,
       "text": " de kører med lige nu, både aktive og inaktive. Og der er sådan lidt forskellige gode tips her.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1393.0,
       "end": 1397.0,
       "text": " Blandt andet på Meta, det gælder egentlig de fleste af dem.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1397.0,
       "end": 1400.0,
       "text": " Hvis du kan se en annonce, der har kørt i rigtig lang tid, så er det enten, fordi de har glemt at slukke,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1400.0,
       "end": 1405.0,
       "text": " eller så er det, fordi den fungerer ret godt, og ofte så er det jo, fordi den fungerer ret forhåbentligt.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1405.0,
       "end": 1407.0,
       "text": " Nej.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1407.0,
       "end": 1410.0,
       "text": " Og der er det jo ret interessant at sidde og kigge på, hvad er det egentlig for en landingside,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1410.0,
       "end": 1414.0,
       "text": " de sender ind til, hvad er budskabet, hvad er det for et produkt med videre.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1414.0,
       "end": 1419.0,
       "text": " Det er et af de tiltag, som vi ofte egentlig foretager, når vi sidder på især Paid Social,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1419.0,
       "end": 1423.0,
       "text": " og skal hver måned ligge og kigge på, hvad er det egentlig, hvordan er det branche til,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1423.0,
       "end": 1426.0,
       "text": " hvad er det, konkurrenterne gør, hvad er det, vi gør, hvad har fungeret, hvad har ikke fungeret.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1426.0,
       "end": 1430.0,
       "text": " Det er sådan en fast en, den her, hvor vi har nogle konkurrenter, vi ligger og holder lidt øje med,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1430.0,
       "end": 1432.0,
       "text": " for simpelthen at få noget inspiration. Ganske enkelt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1432.0,
       "end": 1436.0,
       "text": " Jeg vil lige fremhæve, altså der er jo både Facebook Ads Library, LinkedIn Ads Library,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1436.0,
       "end": 1440.0,
       "text": " TikTok Ads Library og Google Ads Transparency Center, så er der også nogle på de mindre platformer,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1440.0,
       "end": 1444.0,
       "text": " men jeg vil sige, at det her er de tre, jeg bruger mest, eller de fire hedder det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1444.0,
       "end": 1448.0,
       "text": " Jeg vil lige fremhæve TikToks her, fordi der er to ting, der er ekstra fedt ved TikTok,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1448.0,
       "end": 1451.0,
       "text": " hvis man er særlig directed consumer brand eller e-commerce.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1451.0,
       "end": 1455.0,
       "text": " Den ene ting, der er rigtig fedt ved TikTok, det er, at TikToks materiale generelt virker rigtig godt på Facebook.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1455.0,
       "end": 1458.0,
       "text": " Det materiale, der virker godt på Facebook, virker ikke nødvendigtvis godt på TikTok.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1458.0,
       "end": 1464.0,
       "text": " Altså TikTok har været frontrunners på den her UGC-style content og meget autentisk indhold,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1464.0,
       "end": 1466.0,
       "text": " skudt med telefonen og selfiekameraet osv.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1466.0,
       "end": 1470.0,
       "text": " Og den type materiale, der virker godt på TikTok, virker typisk endnu bedre på Facebook bagefter.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1470.0,
       "end": 1472.0,
       "text": " TikTok er bare foran på alle trends.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1472.0,
       "end": 1478.0,
       "text": " Så hvis man skal have det, der virker allerbedst lige nu på TikTok og virker allerbedst lige om lidt på meta,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1478.0,
       "end": 1481.0,
       "text": " så er det TikTok Ads Library, man skal kigge på. Det er den ene ting, der er fedt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1481.0,
       "end": 1485.0,
       "text": " Den anden ting, det er, når man søger på Facebook Ads Library og LinkedIn Ads Library",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1485.0,
       "end": 1488.0,
       "text": " og Google Ads Transfer Center, så kan du ikke ranke dem.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1488.0,
       "end": 1491.0,
       "text": " Det er der bare. Du ved ikke, om nummer 1, 2 eller 3 eller 4 er bedst.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1491.0,
       "end": 1496.0,
       "text": " TikTok ranker dem faktisk for dig, så du kan se dem, der har højst engageringsrate fx.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1496.0,
       "end": 1501.0,
       "text": " Så ikke alene kan du se alle annoncer inden for en specifik annoncør eller bare give en keyword.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1501.0,
       "end": 1504.0,
       "text": " Det kunne være kosttilskud eller seng eller hvad det nu skulle være.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1504.0,
       "end": 1507.0,
       "text": " Det kan du bare indtage som keyword, helst på engelsk, der er mest.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1507.0,
       "end": 1509.0,
       "text": " Men du kan så også bede TikTok om at ranke dem.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1509.0,
       "end": 1511.0,
       "text": " Ikke på baggrunden selv, fordi det kan TikTok ikke nødvendigtvis se,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1511.0,
       "end": 1514.0,
       "text": " men det kan give dig sådan nogle tal som, hvad der har fået flest visninger.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1514.0,
       "end": 1517.0,
       "text": " Og det, der har fået flest visninger, er jo typisk det, man har brugt flest penge på.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1517.0,
       "end": 1519.0,
       "text": " Og det, man har brugt flest penge på, er typisk det, der virker bedst.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1519.0,
       "end": 1522.0,
       "text": " Så der er en sammenhæng mellem det eller højeste engageringsrate.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1522.0,
       "end": 1525.0,
       "text": " Og på den måde, så får du bare information om ikke alene, hvad der er,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1525.0,
       "end": 1528.0,
       "text": " men også, hvad der er bedst. Og det mangler de andre ads libraries.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1528.0,
       "end": 1531.0,
       "text": " Så jeg synes faktisk, at TikTok har det mest brugbare ads library.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1531.0,
       "end": 1535.0,
       "text": " Du kan sortere det, og det er foran i tid, hvor meta er lidt bagud.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1535.0,
       "end": 1538.0,
       "text": " Og du kan ikke sortere det. Der kan du kun se, hvad der har været der i lang tid",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1538.0,
       "end": 1541.0,
       "text": " og så antage, at det er noget af det, der har virket bedst.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1541.0,
       "end": 1543.0,
       "text": " Men det kan også bare være en annonsør, der har glemt at slukke på deres annoncer,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1543.0,
       "end": 1547.0,
       "text": " så du ved det ikke rigtig.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1547.0,
       "end": 1552.0,
       "text": " Hvis jeg lige hurtigt skal knytte en kommentar til Googles Ads Transparency Center.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1552.0,
       "end": 1555.0,
       "text": " Det, man får lov til at se derinde, det er de annoncer, der ligger og kører.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1555.0,
       "end": 1558.0,
       "text": " Men udefra annoncetexten kan du ofte se, du kan i hvert fald lure,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1558.0,
       "end": 1562.0,
       "text": " hvad det er for et søover, de forsøger at ramme med den givende annonce.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1562.0,
       "end": 1566.0,
       "text": " Og vi har oplevet ofte at give os nogle nye perspektiver på nogle søtermer,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1566.0,
       "end": 1570.0,
       "text": " vi måske ikke har haft med for en kunde, hvor at det her indblik her,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1570.0,
       "end": 1574.0,
       "text": " det kan skabe helt nye dimensioner og faktisk være med til at vækste en konto.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1574.0,
       "end": 1576.0,
       "text": " Så på den måde kan det også bruges.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1576.0,
       "end": 1580.0,
       "text": " Hvis vi kan fortsætte lidt i social sporet, så findes der også værktøjer til at analysere",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1580.0,
       "end": 1583.0,
       "text": " organisk performance på social. Det kunne være værktøjer som for eksempel",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1583.0,
       "end": 1586.0,
       "text": " Hootsuite eller Sprout. Der findes nogle stykker af dem.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1586.0,
       "end": 1588.0,
       "text": " Der kan man gå ind og indtaste, hvilke sider man gerne vil følge,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1588.0,
       "end": 1591.0,
       "text": " og så får man noget statistik på, for eksempel hvor mange opslag de laver,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1591.0,
       "end": 1594.0,
       "text": " hvor mange kommentarer de får, hvor hurtigt de er til at svare på dem",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1594.0,
       "end": 1596.0,
       "text": " og også nogle andre ting, der ligger offentligt tilgængeligt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1596.0,
       "end": 1600.0,
       "text": " Så hvis man har konkurrenter, man gerne vil følge organisk, både på Facebook,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1600.0,
       "end": 1604.0,
       "text": " Instagram, Twitter, TikTok. Jeg ved ikke, om nogen gider at følge konkurrenter på Twitter,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1604.0,
       "end": 1608.0,
       "text": " men jeg nævnte jo dem bare. Andre steder. Det kan godt lade sig gøre.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1608.0,
       "end": 1612.0,
       "text": " Man kan sige, at udfordringen med det her er, kunne du bruge den information til noget, Christian?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1612.0,
       "end": 1614.0,
       "text": " Nej, det er mere nice to have, ikke?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1614.0,
       "end": 1617.0,
       "text": " Jo, det er sådan en meget vanity metric. Hvor mange følger har vi,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1617.0,
       "end": 1620.0,
       "text": " hvor mange opslag laver vi, og hvor hurtigt er vi til at svare på dem?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1620.0,
       "end": 1624.0,
       "text": " Det har ikke kanon meget at gøre med, hvor god en virksomhed man driver.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1624.0,
       "end": 1627.0,
       "text": " Jeg tror ikke, der er en korrelation mellem de virksomheder, der svarer hurtigt på sociale medier,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1627.0,
       "end": 1629.0,
       "text": " og som har en rigtig god forretning.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1629.0,
       "end": 1631.0,
       "text": " Nej, det kan jeg slå ned på.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1633.0,
       "end": 1635.0,
       "text": " Det er selvfølgelig godt, hvis man laver opklager og svarer osv.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1635.0,
       "end": 1638.0,
       "text": " Jeg drillede jo dig lidt i sidste episode med Ice Digital,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1638.0,
       "end": 1640.0,
       "text": " hvor mange opslag var det, der var på den?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1640.0,
       "end": 1642.0,
       "text": " Nå ja, der var ikke nogen, nogensinde.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1642.0,
       "end": 1644.0,
       "text": " Der har aldrig været en opslag på den side.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1644.0,
       "end": 1647.0,
       "text": " Og det er jo lidt uheldigt, for det kunne godt se ud, som om virksomheder går konkurs,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1647.0,
       "end": 1649.0,
       "text": " når de siger, hvilket Ice Digital I jo ikke er, det går godt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1649.0,
       "end": 1651.0,
       "text": " Men det er måske lidt uheldigt,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1651.0,
       "end": 1655.0,
       "text": " men om Ice Digital laver to eller syv lignende opslag på siden om ugen,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1655.0,
       "end": 1658.0,
       "text": " er ligegyldigt, og har ikke noget at gøre med, hvor godt forretningen går.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1658.0,
       "end": 1661.0,
       "text": " Altså hvis man kunne være lidt fræk, hvis I har tid til at lave ti opslag om ugen,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1661.0,
       "end": 1664.0,
       "text": " så mangler I ikke sådan nogle kunder.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1666.0,
       "end": 1670.0,
       "text": " Så man kan sige, at du kan analysere på Hootsuite og Sprout osv.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1670.0,
       "end": 1672.0,
       "text": " Jeg ved ikke, om de har særlig mange kunder, der rent faktisk gør det,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1672.0,
       "end": 1674.0,
       "text": " men det bliver sådan lidt en vanity ting.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1674.0,
       "end": 1676.0,
       "text": " Jeg vil sige, at dem, der rent faktisk gør det, hvor jeg har oplevet det,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1676.0,
       "end": 1677.0,
       "text": " har ingen grund til, at jeg kender virksomhederne.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1677.0,
       "end": 1678.0,
       "text": " Vi har jo nogle kunder, der gør det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1678.0,
       "end": 1682.0,
       "text": " Det er meget store virksomheder, hvor ofte en bestyrelse eller anden ledelse,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1682.0,
       "end": 1684.0,
       "text": " der ikke er super operationel på digital marketing,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1684.0,
       "end": 1686.0,
       "text": " gerne vil have en rapport en gang om måneden på,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1686.0,
       "end": 1688.0,
       "text": " hvordan det går med udvikling i Facebook-følgere.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1688.0,
       "end": 1690.0,
       "text": " Fordi det er sådan en ting, man kan forholde sig til.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1690.0,
       "end": 1692.0,
       "text": " Og det har ingenting at gøre med, hvor god en forretning det er.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1692.0,
       "end": 1695.0,
       "text": " Det er sådan et helt forkert detalje at optimere efter.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1695.0,
       "end": 1699.0,
       "text": " Men det er ikke alle bestyrelser, der er lige digitalt modne,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1699.0,
       "end": 1702.0,
       "text": " og i stedet for at forklare dem CLV-kakker og LCV,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1702.0,
       "end": 1704.0,
       "text": " så har vi nogle kunder, der siger, at de gerne vil se følgere på Facebook.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1704.0,
       "end": 1707.0,
       "text": " Okay, så får I følgere på Facebook, og så satser vi på, at I lader os være.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1709.0,
       "end": 1711.0,
       "text": " Nogle gange er det nemmere ikke at tage kampen,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1711.0,
       "end": 1713.0,
       "text": " og så bare sige, okay, mister bestyrelsesmedlem,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1713.0,
       "end": 1717.0,
       "text": " eller her, fru bestyrelsesmedlem, her har du de Facebook-følgere,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1717.0,
       "end": 1719.0,
       "text": " du gerne vil have, og så bare fortsæt med ind til arbejde i stedet for.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1719.0,
       "end": 1721.0,
       "text": " Og der er jo også mange dygtige bestyrelsesmedlemmer,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1721.0,
       "end": 1723.0,
       "text": " men der er en slagsud der.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1723.0,
       "end": 1724.0,
       "text": " Lad os fortsætte med det næste.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1724.0,
       "end": 1725.0,
       "text": " Vi har nogle CO-tips også.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1725.0,
       "end": 1726.0,
       "text": " Ja, lige præcis.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1726.0,
       "end": 1728.0,
       "text": " A-refs, H-refs.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1728.0,
       "end": 1729.0,
       "text": " Jeg siger det hver gang.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1729.0,
       "end": 1731.0,
       "text": " Kære barn og mand, vi ved ikke, hvordan det udtætter.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1731.0,
       "end": 1732.0,
       "text": " Jeg gør i hvert fald ikke.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1732.0,
       "end": 1733.0,
       "text": " Hvis du ved, så må du egentlig rette mig,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1733.0,
       "end": 1735.0,
       "text": " men jeg tror, folk ved, hvad vi snakker om.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1735.0,
       "end": 1739.0,
       "text": " H-refs og andre tools giver også et fantastisk indblik i de backlinks,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1739.0,
       "end": 1742.0,
       "text": " som dine konkurrenter ligger og bygger.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1742.0,
       "end": 1745.0,
       "text": " Og det, der så er interessant at se, det er at følge det måned til måned,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1745.0,
       "end": 1747.0,
       "text": " og se, hvad er det egentlig for nogle undersider,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1747.0,
       "end": 1748.0,
       "text": " som der bliver bygget links til,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1748.0,
       "end": 1752.0,
       "text": " for det må alt andet lige være dem, hvor der er fokus lige nu.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1752.0,
       "end": 1755.0,
       "text": " Dernæst har vi content gap-analyser.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1755.0,
       "end": 1759.0,
       "text": " Det er lavpraktisk, hvor man sætter sit eget website op imod en konkurrent",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1759.0,
       "end": 1761.0,
       "text": " eller flere konkurrenters websites,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1761.0,
       "end": 1763.0,
       "text": " og så beder man det her tool om at fortælle,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1763.0,
       "end": 1765.0,
       "text": " hvad er det egentlig for nogle søgerår, som de ranker på,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1765.0,
       "end": 1767.0,
       "text": " men som vi ikke gør.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1767.0,
       "end": 1769.0,
       "text": " Og det kan ofte give et ret fedt indblik i,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1769.0,
       "end": 1771.0,
       "text": " hvor man har mulighed for at vækst hen,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1771.0,
       "end": 1773.0,
       "text": " både SEO-mæssigt, men også via Google Ads.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1773.0,
       "end": 1776.0,
       "text": " Altså content gap-analyser er det med en yndlingsredskaber,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1776.0,
       "end": 1778.0,
       "text": " fordi det giver så meget mening for mig at sige,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1778.0,
       "end": 1780.0,
       "text": " i stedet for at lave den store søgerårsanalyse,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1780.0,
       "end": 1782.0,
       "text": " så bare piggyback på, hvor konkurrenterne i forvejen er stærke.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1782.0,
       "end": 1784.0,
       "text": " Måske har de opdaget noget, du ikke har gjort.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1784.0,
       "end": 1786.0,
       "text": " Og det, der er ekstra fedt ved den, det er,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1786.0,
       "end": 1788.0,
       "text": " hvis du laver SEO på de søgerår, hvor de er tilgængelige i forvejen,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1788.0,
       "end": 1790.0,
       "text": " ikke alene, så får du besøgende.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1790.0,
       "end": 1792.0,
       "text": " De taber dem. Det kan jeg godt lide.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1792.0,
       "end": 1795.0,
       "text": " I stedet for at lave SEO på en søgefras,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1795.0,
       "end": 1798.0,
       "text": " hvor ingen er så aktive, så vil jeg meget hellere tage deres første pladser.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1798.0,
       "end": 1800.0,
       "text": " Ja, lige fordi, det er meget sjovt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1800.0,
       "end": 1802.0,
       "text": " Der bliver man sådan lidt kramtløs, ikke?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1802.0,
       "end": 1804.0,
       "text": " Så det er både en kvalificeret søgerårsanalys,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1804.0,
       "end": 1806.0,
       "text": " du får lov til at lave, men du tager også besøgende fra dem,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1807.0,
       "end": 1809.0,
       "text": " og det synes jeg jo bare, at det er kanonlækkert.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1809.0,
       "end": 1811.0,
       "text": " Så content gap-analyser via Ahrefs, du kan også lave dem via SEMrush.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1811.0,
       "end": 1813.0,
       "text": " Kanonlækkert værktøj.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1813.0,
       "end": 1816.0,
       "text": " Lad os tage affiliate. Nu er vi jo over på din hjemmebane igen, Christian.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1816.0,
       "end": 1819.0,
       "text": " Jeg ved, EPC har vi jo talt om i en tidligere episode.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1819.0,
       "end": 1821.0,
       "text": " Det er det tal, man skal holde øje med.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1821.0,
       "end": 1823.0,
       "text": " Earnings per click.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1823.0,
       "end": 1825.0,
       "text": " Hvad er den gennemsnitlige værdi af hvert klik,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1825.0,
       "end": 1827.0,
       "text": " en affiliate sender afsted til din virksomhed?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1827.0,
       "end": 1832.0,
       "text": " Man kan jo se alle programmers EPC-tal inde på de fleste platforme,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1832.0,
       "end": 1835.0,
       "text": " eller alle platforme, for det er jo det, affiliate publishers bruger",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1835.0,
       "end": 1838.0,
       "text": " til at finde ud af, hvilket program skal jeg rent faktisk gå med.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1838.0,
       "end": 1840.0,
       "text": " Og hvis der er to virksomheder, og den ene har EPC 8,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1840.0,
       "end": 1844.0,
       "text": " og den anden har EPC 4, så er det typisk et ret nemt valg at foretage.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1844.0,
       "end": 1848.0,
       "text": " Hvad kan man som virksomhed, som webshop bruge konkurrentens EPC-tal til?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1848.0,
       "end": 1851.0,
       "text": " Altså overordnet set, så fortæller EPC alt, og det fortæller ingenting.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1851.0,
       "end": 1853.0,
       "text": " Så det afhænger lidt af, hvordan man bruger det.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1853.0,
       "end": 1855.0,
       "text": " Men det er et ret fedt benchmark at kunne sidde og se,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1855.0,
       "end": 1858.0,
       "text": " jamen der er konkurrenter, der ligger med en dobbelt så høj EPC som mig.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1858.0,
       "end": 1860.0,
       "text": " Hvad pågår? Hvorfor?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1860.0,
       "end": 1863.0,
       "text": " Det kan være, fordi kvaliteten af deres trafik er markant højere.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1863.0,
       "end": 1865.0,
       "text": " Det kan også godt være, at de får mindre trafik ind,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1865.0,
       "end": 1868.0,
       "text": " og ens eget program får rigtig meget trafik ind.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1868.0,
       "end": 1872.0,
       "text": " Præcis. Så det er sådan et, til dels et vanity metric,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1872.0,
       "end": 1874.0,
       "text": " men et ret vigtigt metric uanset hvad.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1874.0,
       "end": 1876.0,
       "text": " Og det vi primært har brugt den til,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1876.0,
       "end": 1878.0,
       "text": " når vi ligger og laver analyser på affiliateprogrammer,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1878.0,
       "end": 1880.0,
       "text": " det er altså at sige, okay, der er nogle konkurrenter,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1880.0,
       "end": 1885.0,
       "text": " som er udefra set mere værdifulde for affiliats og sendt trafik ind til.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1885.0,
       "end": 1887.0,
       "text": " Vi ved reelt set ikke, hvorfor,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1887.0,
       "end": 1889.0,
       "text": " men hvad kan vi gøre for at prøve at finde ud af,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1889.0,
       "end": 1891.0,
       "text": " i hvert fald grave lidt dybere.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1891.0,
       "end": 1893.0,
       "text": " Som vi snakkede om i en af de forrige episode,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1893.0,
       "end": 1895.0,
       "text": " der kunne man for eksempel lave den her reverse-analyse,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1895.0,
       "end": 1897.0,
       "text": " også igennem Ahrefs, hvor vi ligger og kigger på,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1897.0,
       "end": 1899.0,
       "text": " hvad er det egentlig for nogle affiliates,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1899.0,
       "end": 1902.0,
       "text": " som ligger og linker ind til den givende partner.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1902.0,
       "end": 1904.0,
       "text": " For at se, er der noget vi har misset her?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1904.0,
       "end": 1906.0,
       "text": " Er der noget virkelig kvalitetstrafik derude,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1906.0,
       "end": 1908.0,
       "text": " som vi bare misser ud på?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1908.0,
       "end": 1911.0,
       "text": " Eller man kan kigge på sin egen statistik,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1911.0,
       "end": 1914.0,
       "text": " inden i begivene netværk, man nu engang bruger,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1914.0,
       "end": 1915.0,
       "text": " og sige, er der en eller anden partner,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1915.0,
       "end": 1917.0,
       "text": " der bare sender tonsvis af trafik ind,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1917.0,
       "end": 1919.0,
       "text": " der bare overhovedet ikke konverterer som en lidt smadret borste,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1920.0,
       "end": 1922.0,
       "text": " det er der højst sandsynligt ofte i hvert fald.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1922.0,
       "end": 1924.0,
       "text": " Så man kan bruge den på lidt forskellige måder,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1924.0,
       "end": 1926.0,
       "text": " men det er en ret fin indikation,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1926.0,
       "end": 1930.0,
       "text": " et pejlmærke om et nemt sted at holde øje,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1930.0,
       "end": 1931.0,
       "text": " når man kører affiliat.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1931.0,
       "end": 1933.0,
       "text": " Og hvis vi lige skal gentage en lille smule fra en tidligere episode,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1933.0,
       "end": 1936.0,
       "text": " hvad er lige top-tips til at optimere effektivitet",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1936.0,
       "end": 1937.0,
       "text": " på ens affiliatprogram?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1937.0,
       "end": 1938.0,
       "text": " Konverteringsret?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1938.0,
       "end": 1940.0,
       "text": " 1. Kan du øge din konverteringsret på din webshop?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1940.0,
       "end": 1941.0,
       "text": " Det er fantastisk.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1941.0,
       "end": 1945.0,
       "text": " 2. Gå igennem hele listen over dine partner.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1945.0,
       "end": 1947.0,
       "text": " Se, er der nogen, der bare ikke driver værdi?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1947.0,
       "end": 1951.0,
       "text": " Så få dem væk, fordi det smadrer lidt tallene inde i dit program.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1951.0,
       "end": 1955.0,
       "text": " 3. Gå ud og få skabt nogle fantastiske samarbejder med de affiliater,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1955.0,
       "end": 1957.0,
       "text": " der rent faktisk driver trafikken.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1957.0,
       "end": 1959.0,
       "text": " Især dem, som driver trafikken til dine konkurrenter,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1959.0,
       "end": 1961.0,
       "text": " som alt andet lige skaber omsætning der.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1961.0,
       "end": 1963.0,
       "text": " Tilbyde dem en højere procentsats.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1963.0,
       "end": 1966.0,
       "text": " Det vil jo samtidig også faktisk påvirke EPC'en.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1966.0,
       "end": 1968.0,
       "text": " Det er sådan de tre hele overordnede,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1968.0,
       "end": 1970.0,
       "text": " som plejer at fungere rigtig, rigtig godt,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1970.0,
       "end": 1972.0,
       "text": " når vi sidder og arbejder med det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1972.0,
       "end": 1973.0,
       "text": " En anden ting, jeg gerne vil nævne,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1973.0,
       "end": 1976.0,
       "text": " det er muligheden for at kigge på brand mentions.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1976.0,
       "end": 1978.0,
       "text": " Det her er jo sådan lidt en arve af linkbildning,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1978.0,
       "end": 1980.0,
       "text": " fordi linkbildning viser dig, hvilke virksomheder,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1980.0,
       "end": 1982.0,
       "text": " som linker til en konkurrent,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1982.0,
       "end": 1984.0,
       "text": " eller ikke linkbildning, linkværktøjer, som f.eks. Ahrefs.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1984.0,
       "end": 1987.0,
       "text": " Det viser dig, hvilke sider, der linker til en konkurrent,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1987.0,
       "end": 1989.0,
       "text": " og eventuelt, hvilke sider de linker til,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 1989.0,
       "end": 1991.0,
       "text": " som du lige har nævnt, kan bruges til at finde ud af,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1991.0,
       "end": 1993.0,
       "text": " hvad prioriterer de, og hvor ligger der eventuelt nogle muligheder.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1993.0,
       "end": 1995.0,
       "text": " Man kan jo også få mentions.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1995.0,
       "end": 1999.0,
       "text": " Så f.eks. hvis man får en presseret nyhedsartikel i et eller andet medie,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 1999.0,
       "end": 2001.0,
       "text": " så ofte vil de jo skrive virksomhedsnavnet,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2001.0,
       "end": 2003.0,
       "text": " uden at linke til dem.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2003.0,
       "end": 2006.0,
       "text": " F.eks. at sige, at en digital var i børsen fornyeligt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2006.0,
       "end": 2008.0,
       "text": " Har du hørt, at vi var i børsen, Tino?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2008.0,
       "end": 2011.0,
       "text": " Med en undersøgelse om Temos indvirkning på klikpriser.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2011.0,
       "end": 2015.0,
       "text": " Og der vil jeg jo gerne have, at børsen gav os et dufollow-link.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2015.0,
       "end": 2018.0,
       "text": " Ej, det gjorde de ikke ud med, eller hvad?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2018.0,
       "end": 2020.0,
       "text": " Det gjorde de ikke, og det var lidt ærgerligt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2020.0,
       "end": 2022.0,
       "text": " Jeg er blød om det. Det svarede de ikke på.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2024.0,
       "end": 2026.0,
       "text": " Men vi fik da i det mindste en mention,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2026.0,
       "end": 2028.0,
       "text": " og så kan vi jo bruge den i vores markedsføring,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2028.0,
       "end": 2030.0,
       "text": " og sige samtidigt på børsen, og som om det har noget at gøre med,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2031.0,
       "end": 2033.0,
       "text": " og lige gør alle andre også.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2033.0,
       "end": 2035.0,
       "text": " Men der findes jo værktøjer, der holder øje med,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2035.0,
       "end": 2037.0,
       "text": " hvilke mentions man har fået.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2037.0,
       "end": 2039.0,
       "text": " Fordi hvis man tog Obsidian på et linkværktøj,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2039.0,
       "end": 2042.0,
       "text": " kan man ikke se, at vores omtale dør, fordi de har ikke linket til os.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2042.0,
       "end": 2044.0,
       "text": " Men så er der værktøjer som f.eks. Google Alerts,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2044.0,
       "end": 2047.0,
       "text": " Mention.com, Talkwater og en masse andre værktøjer.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2047.0,
       "end": 2050.0,
       "text": " Google Alerts er gratis. Vækker ikke. Kanongodt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2050.0,
       "end": 2052.0,
       "text": " Men det er der. Mention.com koster penge,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2052.0,
       "end": 2054.0,
       "text": " men er lidt bedre til at fange tingene,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2054.0,
       "end": 2056.0,
       "text": " og det kan både scrape nettet og sociale medier.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2056.0,
       "end": 2058.0,
       "text": " Og det kan man jo sætte op både på ens egen virksomhed.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2058.0,
       "end": 2060.0,
       "text": " Fordi hvis man f.eks. er nævnt et eller andet sted,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2060.0,
       "end": 2062.0,
       "text": " så kan det være en mulighed for linkbuilding.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2062.0,
       "end": 2064.0,
       "text": " Det kan også være en mulighed for reputation management.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2064.0,
       "end": 2066.0,
       "text": " Det vil nok mere være den klassiske vinkel.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2066.0,
       "end": 2068.0,
       "text": " Man lige skal holde øje med, om der er nogen, der skriver",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2068.0,
       "end": 2070.0,
       "text": " et eller andet sindssygt om ens virksomhed på Reddit,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2070.0,
       "end": 2072.0,
       "text": " eller et eller andet lortested.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2073.0,
       "end": 2075.0,
       "text": " Men man kan også bruge det på konkurrenter,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2075.0,
       "end": 2078.0,
       "text": " for at se, om de bliver nævnt i enten positiv eller negativ kontekst.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2078.0,
       "end": 2080.0,
       "text": " Fordi det kan der både ligge et newsjacking element i,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2080.0,
       "end": 2082.0,
       "text": " og man kan bare blive klogere på det.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2082.0,
       "end": 2084.0,
       "text": " Så hvis man har de her alertværktøjer,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2084.0,
       "end": 2086.0,
       "text": " så kan man altså også holde øje med det på den måde.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2088.0,
       "end": 2091.0,
       "text": " Det sidste tip, det er et, du faktisk har skrevet ind.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2091.0,
       "end": 2093.0,
       "text": " Den havde jeg ikke tænkt over før.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2093.0,
       "end": 2095.0,
       "text": " Alarm på jobopslag. Vil du ikke lige prøve at knytte et par ord på den?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2095.0,
       "end": 2096.0,
       "text": " Den er fed.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2096.0,
       "end": 2098.0,
       "text": " Ja, jeg synes, den er lidt sjov.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2098.0,
       "end": 2100.0,
       "text": " Hvis vi nu skal tage den i byråkontekst.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2100.0,
       "end": 2102.0,
       "text": " Jeg kan godt lide at holde øje med,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2102.0,
       "end": 2104.0,
       "text": " hvad vores konkurrenter ansætter til.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2104.0,
       "end": 2106.0,
       "text": " Fordi det fortæller noget om, hvor de vækster forretningen.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2106.0,
       "end": 2109.0,
       "text": " Så hvis alle vores konkurrenter forsøger at ansætte,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2109.0,
       "end": 2111.0,
       "text": " lad os sige, konsulenter i PageSocial,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2111.0,
       "end": 2113.0,
       "text": " eller Programmatic SEO, eller UGC Content,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2113.0,
       "end": 2115.0,
       "text": " eller hvad det skal være, så fortæller det også et eller andet om,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2115.0,
       "end": 2117.0,
       "text": " hvad deres prioriteter er i forretningen lige nu.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2117.0,
       "end": 2119.0,
       "text": " Og det kan jo enten være, fordi de har en god forretning,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2119.0,
       "end": 2121.0,
       "text": " eller fordi de ønsker at lave en god forretning.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2121.0,
       "end": 2123.0,
       "text": " Men ikke desto mindre det, som folk ansætter ind.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2123.0,
       "end": 2126.0,
       "text": " Det vil jeg gerne vide, fordi det er relevant og interessant for mig at vide.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2126.0,
       "end": 2129.0,
       "text": " Så man kan lave alarmer på for eksempel JobIndex,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2129.0,
       "end": 2131.0,
       "text": " og andre sites. Du kan også gøre det på LinkedIn.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2131.0,
       "end": 2134.0,
       "text": " JobIndex og LinkedIn ville nok være de to primære sider,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2134.0,
       "end": 2136.0,
       "text": " når vi gør det på et dansk regi, i hvert fald.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2136.0,
       "end": 2138.0,
       "text": " Og så kan man få notifikationer,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2138.0,
       "end": 2140.0,
       "text": " enten når en specifik virksomhed ansætter.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2140.0,
       "end": 2143.0,
       "text": " Så kan man lykke top 10 konkurrenter ind, og så få notifikationer på dem.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2143.0,
       "end": 2146.0,
       "text": " Eller bare branche-notifikationer på for eksempel Marketing.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2146.0,
       "end": 2149.0,
       "text": " Og lad os sige, i bureau-regi er det jo meget relevant for mig at vide,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2149.0,
       "end": 2151.0,
       "text": " hvis der er en masse danske virksomheder.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2151.0,
       "end": 2153.0,
       "text": " Også tænk ikke konkurrenter her, bare en masse danske virksomheder,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2153.0,
       "end": 2155.0,
       "text": " som er interesserede i at ansætte ind på et givet emne,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2155.0,
       "end": 2157.0,
       "text": " fordi det viser jo, at det er noget, de prioriterer.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2157.0,
       "end": 2159.0,
       "text": " Så der skal vi jo have en stærk ydelse.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2159.0,
       "end": 2162.0,
       "text": " Hvis alle danske virksomheder lige pludselig prøver at ansætte en TikTok-konsulent,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2162.0,
       "end": 2164.0,
       "text": " eller en TikTok-indhavsperson,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2164.0,
       "end": 2167.0,
       "text": " så ville vi nok have nemmere ved at sælge TikTok-ydelser på konsulentbilkår,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2167.0,
       "end": 2169.0,
       "text": " end så mange andre områder.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2170.0,
       "end": 2172.0,
       "text": " Det er nemmere at sælge produkter, som folk søger efter,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2172.0,
       "end": 2174.0,
       "text": " og er interesserede i, end at koldsælge dem.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2174.0,
       "end": 2176.0,
       "text": " Så på den måde er det interessant,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2176.0,
       "end": 2178.0,
       "text": " men man kan også bruge det på konkurrenter til at se, hvad de ansætter efter.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2178.0,
       "end": 2180.0,
       "text": " Så for eksempel hvis man er i e-commerce,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2180.0,
       "end": 2182.0,
       "text": " og man kan se, at alle ens konkurrenter lige pludselig søger efter",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2182.0,
       "end": 2185.0,
       "text": " UGC In-House Content Creator-facilitater osv.,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2185.0,
       "end": 2188.0,
       "text": " så fortæller det jo et eller andet om, hvad det er for noget materiale,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2188.0,
       "end": 2191.0,
       "text": " der virker godt for dem, fordi det er det, de gerne vil lave mere af.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2191.0,
       "end": 2193.0,
       "text": " Så jeg synes det er at holde øje med jobopslag.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2193.0,
       "end": 2195.0,
       "text": " Og igen, Jobindex og LinkedIn gør det muligt,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2195.0,
       "end": 2198.0,
       "text": " begge to både at holde øje med specifikke virksomheder,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2198.0,
       "end": 2200.0,
       "text": " og generelle brancher og keywords.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2200.0,
       "end": 2203.0,
       "text": " Det giver en god idé om, hvad der foregår, og hvad de andre prioriterer.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2203.0,
       "end": 2205.0,
       "text": " Det synes jeg også er en meget sjov ting at holde øje med.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2205.0,
       "end": 2207.0,
       "text": " Du har aldrig sat alarm op på jobopslag?",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2207.0,
       "end": 2209.0,
       "text": " Nej, faktisk ikke.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2209.0,
       "end": 2212.0,
       "text": " Det nærmeste jeg har gjort, det er at sidde og holde øje inde på CBR.dk,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2212.0,
       "end": 2215.0,
       "text": " hvor man kan se, hvor mange fuldstændig ansatte virksomheden har måned for måned.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2215.0,
       "end": 2216.0,
       "text": " Det bliver jo opgivet.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2216.0,
       "end": 2218.0,
       "text": " Ja, men det fortæller bare ikke, hvad de laver.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2218.0,
       "end": 2219.0,
       "text": " Det fortæller bare ikke, hvad de laver.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2219.0,
       "end": 2220.0,
       "text": " Så jeg synes faktisk, den er fed, den her.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2220.0,
       "end": 2222.0,
       "text": " Ja, og den synes jeg også er meget sjov.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2222.0,
       "end": 2225.0,
       "text": " Så kan man bare lige få en e-mail en gang imellem, og holde øje med, hvad der foregår.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2226.0,
       "end": 2228.0,
       "text": " Lad os lige starte med, eller lad os lige afslutte episodeen.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2228.0,
       "end": 2231.0,
       "text": " Når vi snakkede med os om, hvor meget kan du følge med i dine konkurrenter,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2231.0,
       "end": 2235.0,
       "text": " det sidste vi måske lige skal sige, det er, altså vi har kort indbrudt det i starten,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2235.0,
       "end": 2237.0,
       "text": " hvor meget bør du bruge på at følge med i dine konkurrenter?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2237.0,
       "end": 2239.0,
       "text": " Ja, altså det er jo ikke nogen hemmelighed,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 2239.0,
       "end": 2242.0,
       "text": " at hvis man følger alle de her tips her, 12, 13, 14 stykker,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2242.0,
       "end": 2244.0,
       "text": " hvad det ender med at blive, ja, det er jo et fuldstændigt arbejde.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2244.0,
       "end": 2247.0,
       "text": " Og så vækster du ikke din egen forretning, du arbejder ikke på din egen forretning,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2247.0,
       "end": 2249.0,
       "text": " og det er jeg tror selv det vigtigste.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2249.0,
       "end": 2252.0,
       "text": " Jeg tror, at forslaget herfra, det er anbefalingen,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2252.0,
       "end": 2256.0,
       "text": " det er at bruge de tips, som virker for jer,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2256.0,
       "end": 2259.0,
       "text": " men hvor du bruger det til at få nye perspektiver,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2259.0,
       "end": 2261.0,
       "text": " altså til at holde dig opdateret omkring branchen.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2261.0,
       "end": 2264.0,
       "text": " Man kan hurtigt få sådan en følelse af FOMO,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2264.0,
       "end": 2267.0,
       "text": " om at man skal gøre det hele på én gang, og det skal man ikke.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2267.0,
       "end": 2272.0,
       "text": " Altså igen, beskrivelsen af den her episode, den ligger fra marketing.dk.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2272.0,
       "end": 2273.0,
       "text": " Gå ind og find episoden der.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2273.0,
       "end": 2277.0,
       "text": " Tag de 2, 3, 4, 5 ting, der giver bedst mening på din virksomhed.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2277.0,
       "end": 2281.0,
       "text": " Gør det, brug 10 minutter på det om ugen til lige at blive inspireret,",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2281.0,
       "end": 2284.0,
       "text": " og så husk at arbejde på din egen forretning primært i stedet for.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2284.0,
       "end": 2286.0,
       "text": " Men det er jo sjovt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     },
     {
       "start": 2286.0,
       "end": 2288.0,
       "text": " Det er så sjovt.",
-      "speaker": "B"
+      "speaker": "Halfdan"
     }
   ]
 }

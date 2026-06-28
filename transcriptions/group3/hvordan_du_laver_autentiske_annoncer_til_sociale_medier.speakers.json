@@ -9,6623 +9,6627 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Morten"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Morten"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 4.0,
       "text": " Hej Morten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
       "end": 5.0,
       "text": " Hej Alfsson.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 5.0,
       "end": 6.0,
       "text": " Så er vi her igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.0,
       "end": 9.0,
       "text": " Christian Siniu er kommet hjem fra Vietnam, men han har lagt sig syg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.0,
       "end": 11.0,
       "text": " Jeg gætter på, at han har spist noget streetfood, han ikke skulle have gjort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 14.0,
       "text": " Så jeg er glad for, at du med enormt kort varsel har lyst til at stille op igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 17.0,
       "text": " Har du egentlig ikke bedre at lave om søndagen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 17.0,
       "end": 18.0,
       "text": " Det troede jeg jo havde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 18.0,
       "end": 21.0,
       "text": " Jeg havde egentlig planer om, at jeg skulle ned og ramme en omgang fitness nu her,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 21.0,
       "end": 23.0,
       "text": " men så måtte jeg jo producere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 23.0,
       "end": 25.0,
       "text": " Ja, og det er jeg glad for, at du gjorde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 27.0,
       "text": " Og jeg noterer også, at 1. Division er ikke gået i gang endnu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 29.0,
       "text": " Og det havde måske også gjort det en lille smule svært,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 29.0,
       "end": 31.0,
       "text": " hvis OB skulle spille mod Hillerød lige om lidt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 31.0,
       "end": 34.0,
       "text": " Hvis OB spillede på hjemmebane her søndag efter, så havde jeg lavet...",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 34.0,
       "end": 36.0,
       "text": " Så kom der ikke marketingpottet ud i morgen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 39.0,
       "text": " Nej, det gjorde det ikke. Jeg var jo ikke med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 39.0,
       "end": 42.0,
       "text": " Ej, det er jeg glad for, at du har lyst til at være med igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 42.0,
       "end": 45.0,
       "text": " fordi den sidste episode, vi lavede, som til dig, der måske ikke har lyttet med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 45.0,
       "end": 48.0,
       "text": " så den hedder Blive Meta-Ads-ekspert på 58 minutter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 48.0,
       "end": 51.0,
       "text": " som varede 59, nej 58 minutter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.0,
       "end": 53.0,
       "text": " blev faktisk en af de mest populære episoder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 53.0,
       "end": 55.0,
       "text": " Vi har udgivet et godt stykke tid,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 55.0,
       "end": 57.0,
       "text": " og det er jo noget, som Christian Tiniu bør tænke en del over.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 57.0,
       "end": 59.0,
       "text": " Han skal passe på med at tage på ferie alt for mange gange,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 59.0,
       "end": 62.0,
       "text": " men det kan også være, at det bare var emnet, som folk syntes var interessante.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 62.0,
       "end": 64.0,
       "text": " Ja, det er jo virkelig svært.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 64.0,
       "end": 67.0,
       "text": " Emnet var selvfølgelig godt, men ja, der var også noget andet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 67.0,
       "end": 70.0,
       "text": " Det er jo svært at sige, men jeg ved, at du har en hypotese i hvert fald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 70.0,
       "end": 73.0,
       "text": " Men vi har valgt at sætte på en vindende hest,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 73.0,
       "end": 76.0,
       "text": " blive på en vindende hest, så vi fortsætter faktisk i både samme emne",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 76.0,
       "end": 78.0,
       "text": " og med samme person.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 78.0,
       "end": 80.0,
       "text": " Så i den her episode, der kommer vi til at snakke om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 84.0,
       "text": " at du laver autentiske annoncer til sociale medier i 2025.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 84.0,
       "end": 86.0,
       "text": " Og Morten, det her ord,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 86.0,
       "end": 90.0,
       "text": " autentiske, det er noget, som jeg bruger en del om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 90.0,
       "end": 92.0,
       "text": " at lave kontent, som rent faktisk virker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 92.0,
       "end": 94.0,
       "text": " både organisk, men især i annoncering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.0,
       "end": 96.0,
       "text": " Hvad mener vi egentlig med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 96.0,
       "end": 98.0,
       "text": " hvad fanden betyder en autentisk Facebook-annonce?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 98.0,
       "end": 101.0,
       "text": " Ja, det er vel i højere grad sådan,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 101.0,
       "end": 103.0,
       "text": " man skal være det, man er.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 103.0,
       "end": 106.0,
       "text": " Jeg vil kalde det originalt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 106.0,
       "end": 108.0,
       "text": " naturligt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 108.0,
       "end": 110.0,
       "text": " pas inden på platformene,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 110.0,
       "end": 112.0,
       "text": " er vel nok det bedste begreb.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 112.0,
       "end": 114.0,
       "text": " Altså det der med, selvom det er en annonce,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 114.0,
       "end": 116.0,
       "text": " så skulle du tænke det, som om det ikke var.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 116.0,
       "end": 118.0,
       "text": " Og hvis det passer inden for en platform,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 118.0,
       "end": 120.0,
       "text": " så føles det, som om det ikke er en annonce,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 120.0,
       "end": 122.0,
       "text": " hvor vi tit ser direkte modsatning.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 122.0,
       "end": 124.0,
       "text": " Jeg har spurgt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 124.0,
       "end": 126.0,
       "text": " ChatGPT03,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 128.0,
       "text": " MiniHi, hvad betyder autentitet?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 128.0,
       "end": 130.0,
       "text": " Og den svarer, det betyder at være ægte",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 130.0,
       "end": 132.0,
       "text": " og oprigtig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 132.0,
       "end": 134.0,
       "text": " At man har tro mod sig selv og sine værdier.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 134.0,
       "end": 136.0,
       "text": " Det handler om, at noget eller nogen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 136.0,
       "end": 138.0,
       "text": " udstråler en ægthed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.0,
       "end": 140.0,
       "text": " hvor man ikke forsøger at efterligne eller skjule",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 142.0,
       "text": " sin sande natur. Hvad er det for en sand natur,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 142.0,
       "end": 144.0,
       "text": " vi prøver at skjule? Er det, at vores Facebook-annonce",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 144.0,
       "end": 146.0,
       "text": " i virkeligheden bare handler om at få folk til at købe",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 148.0,
       "text": " noget, de ikke har brug for?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 150.0,
       "text": " Godt spørgsmål.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 150.0,
       "end": 152.0,
       "text": " Jeg havde jo travlt med at tænke på,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 152.0,
       "end": 154.0,
       "text": " at sådan godt, jeg tager en OB-trøje på.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 154.0,
       "end": 156.0,
       "text": " Jeg gemmer ikke væk, hvem jeg er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
       "end": 158.0,
       "text": " Nej, det gør du ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 158.0,
       "end": 160.0,
       "text": " Ej, men hvorfor?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 160.0,
       "end": 162.0,
       "text": " Det her autentitet, at være oprigtig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.0,
       "end": 164.0,
       "text": " jeg synes bare, at det er et sjovt ord,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 164.0,
       "end": 166.0,
       "text": " vi skal svæle lidt ved til at starte med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 168.0,
       "text": " for det er ikke kun os, der bruger det ord.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 168.0,
       "end": 170.0,
       "text": " Vi ved jo, at man som brand eller som Facebook-annoncer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 170.0,
       "end": 172.0,
       "text": " generelt gerne vil være autentisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.0,
       "end": 174.0,
       "text": " Men hvad er det, man stiller sig op imod?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 176.0,
       "text": " Jeg tænker, at det, man stiller sig op imod,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 176.0,
       "end": 178.0,
       "text": " det er at være generisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 180.0,
       "text": " eller kedelig eller lave annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 180.0,
       "end": 182.0,
       "text": " som folk bare i virkeligheden scroller forbi.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 182.0,
       "end": 184.0,
       "text": " Det er at være autentisk. For mig handler mest om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 184.0,
       "end": 186.0,
       "text": " at lave noget indehold, som rent faktisk passer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 186.0,
       "end": 188.0,
       "text": " på det sociale medie, man nu befinder sig på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 190.0,
       "text": " Præmisser. Man passer ind, og man ikke lægger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 190.0,
       "end": 192.0,
       "text": " et billede med gul baggrund og en prislap",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 194.0,
       "text": " og så et fritlagt produkt midt ind på ens Facebook-feed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 194.0,
       "end": 196.0,
       "text": " For det passer ikke ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 196.0,
       "end": 198.0,
       "text": " Jeg ved ikke, om der ligger noget,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 198.0,
       "end": 200.0,
       "text": " det skulle heller ikke være en helt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 200.0,
       "end": 202.0,
       "text": " psykologisk vinkel, jeg laver, men om der ligger",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 202.0,
       "end": 204.0,
       "text": " noget dybere i det, at man har lidt risiko",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 204.0,
       "end": 206.0,
       "text": " i at være sig selv, for så står du nemlig ud",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 206.0,
       "end": 208.0,
       "text": " fra de andre. Du vil gerne passe ind.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 208.0,
       "end": 210.0,
       "text": " Du har ligesom lavet din egen interne",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 210.0,
       "end": 212.0,
       "text": " guideline sammen med at sige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 212.0,
       "end": 214.0,
       "text": " det her er nogle eksempler fra andre annoncer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 214.0,
       "end": 216.0,
       "text": " og vi vil gerne holde det her brand.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 216.0,
       "end": 218.0,
       "text": " Dermed er der jo ret meget",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 218.0,
       "end": 220.0,
       "text": " risiko i faktisk at være autentisk,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 220.0,
       "end": 222.0,
       "text": " selvom det lyder rasmusmodsat.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 222.0,
       "end": 224.0,
       "text": " Ja, det er der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 226.0,
       "text": " Der er en indbygget risiko i det, og jeg kan også sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 228.0,
       "text": " de annoncer, jeg har lavet, både for Obsidierne og for mange",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 228.0,
       "end": 230.0,
       "text": " af vores kunder, som jeg synes var mest autentiske,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 230.0,
       "end": 232.0,
       "text": " var også dem, der fungerede bedst eller værst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 232.0,
       "end": 234.0,
       "text": " De ligger aldrig i midten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 236.0,
       "text": " Det er bedst eller værst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 236.0,
       "end": 238.0,
       "text": " Og så håber man bare, man har flest i den ene end.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 238.0,
       "end": 240.0,
       "text": " Men lad os",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 240.0,
       "end": 242.0,
       "text": " hoppe ind i, hvordan man rent faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 244.0,
       "text": " laver autentiske",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 246.0,
       "text": " annoncer. Og jeg synes, en af de første ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 246.0,
       "end": 248.0,
       "text": " vi skal snakke om her, det er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 248.0,
       "end": 250.0,
       "text": " short-form video. Og Morten, nu ved jeg jo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 252.0,
       "text": " du er jo rent faktisk på TikTok,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 254.0,
       "text": " i modsætning til mig. Og det her, det er jo noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 254.0,
       "end": 256.0,
       "text": " som, altså short-form video eksisterede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 256.0,
       "end": 258.0,
       "text": " jo i forvejen, men TikTok har bare været med til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 258.0,
       "end": 260.0,
       "text": " at udbrede det mere end nogen andre. Efter TikTok fik",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 262.0,
       "text": " vi YouTube Shorts, vi fik Instagram Reels,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 262.0,
       "end": 264.0,
       "text": " og vi har fornyeligt fået",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.0,
       "end": 266.0,
       "text": " short-form video på LinkedIn,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 266.0,
       "end": 268.0,
       "text": " så nu er det også sådan en B2B-ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 268.0,
       "end": 270.0,
       "text": " For mig, så short-form video er faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 272.0,
       "text": " en lille smule lig med autentitet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 272.0,
       "end": 274.0,
       "text": " fordi det kræver, at man laver noget indhold, der passer ind",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.0,
       "end": 276.0,
       "text": " på sociale mediers præmisser. Du kan ikke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.0,
       "end": 278.0,
       "text": " lave kedelige, sådan grafiske annoncer med et tilbud",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 280.0,
       "text": " og short-form video, så er det i hvert fald virkelig en dårlig video.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 282.0,
       "text": " Køber du den præmisse, at det her, det er en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 282.0,
       "end": 284.0,
       "text": " del af faktisk at lave autentisk video,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 284.0,
       "end": 286.0,
       "text": " og det er noget, der skubber i den retning?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 286.0,
       "end": 288.0,
       "text": " Ja, det køber jeg på nogen procent. Og jeg tror, det er",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 288.0,
       "end": 290.0,
       "text": " noget, hvor det starter ved video, fordi nu er det",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 290.0,
       "end": 292.0,
       "text": " et video, der er stort.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 292.0,
       "end": 294.0,
       "text": " Jeg lurer mig, om det ikke lige så meget er på,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 294.0,
       "end": 296.0,
       "text": " om det er en e-mail, eller det er en annonce",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 296.0,
       "end": 298.0,
       "text": " tekst, eller hvad det er. Altså kreativt betyder",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 298.0,
       "end": 300.0,
       "text": " mest, og der tror jeg, vi har skubbet",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 300.0,
       "end": 302.0,
       "text": " den rigtige vej. Men jeg tror lige så meget, at det er noget, der går over",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 302.0,
       "end": 304.0,
       "text": " til alle metodikker.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 304.0,
       "end": 306.0,
       "text": " Det er bare videoen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 306.0,
       "end": 308.0,
       "text": " der er hyped lige nu.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 308.0,
       "end": 310.0,
       "text": " Og nu, man kan sige, det er ikke nyttigt, at vi skal bruge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 310.0,
       "end": 312.0,
       "text": " short-form video, hvis vi er webshops.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 314.0,
       "text": " Så er det den der klassiske unge fyr, der går rundt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 314.0,
       "end": 316.0,
       "text": " på lageret og fortæller om et eller andet tilbud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 316.0,
       "end": 318.0,
       "text": " og så kan man sådan innovere på den der, for at lave noget content,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 318.0,
       "end": 320.0,
       "text": " der faktisk er ret fedt. Men det er jo lidt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 320.0,
       "end": 322.0,
       "text": " nyere ting i B2B.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 322.0,
       "end": 324.0,
       "text": " Vil du anbefale den gængse",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 324.0,
       "end": 326.0,
       "text": " B2B-virksomhed at begynde rent faktisk at arbejde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 326.0,
       "end": 328.0,
       "text": " med short-form, højformat video,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 328.0,
       "end": 330.0,
       "text": " med 30 sekunder på toppen, som lægges ud",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 332.0,
       "text": " som bare en hver, inden TikTok'er eller webshop?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 332.0,
       "end": 334.0,
       "text": " Kort svar? Ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 334.0,
       "end": 336.0,
       "text": " Det vil jeg. Jeg ved godt, at der er mange,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 336.0,
       "end": 338.0,
       "text": " der føler, at der er en endnu større risiko ved det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 338.0,
       "end": 340.0,
       "text": " Og at det afhænger af,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 340.0,
       "end": 342.0,
       "text": " hvilken form for B2B-virksomhed det er.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 342.0,
       "end": 344.0,
       "text": " Der er en hypotese om, og den kan jeg godt følge,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 344.0,
       "end": 346.0,
       "text": " at B2B-SAS-virksomheder har det væsentligt lettere",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 346.0,
       "end": 348.0,
       "text": " ved at omgå sig i sådan en form for video.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 348.0,
       "end": 350.0,
       "text": " Men der er rigtig mange.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 350.0,
       "end": 352.0,
       "text": " Jeg vil sige, SAS",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 352.0,
       "end": 354.0,
       "text": " og Professional Services, de to kategorier,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 354.0,
       "end": 356.0,
       "text": " har ikke nogen dårlige undskyldninger.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 356.0,
       "end": 358.0,
       "text": " Hvis du sidder med tung industri,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 358.0,
       "end": 360.0,
       "text": " så forstår jeg godt, at det er en svær, kreativ nød at knække.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 360.0,
       "end": 362.0,
       "text": " Men du skal stadigvæk tænke denne.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 362.0,
       "end": 364.0,
       "text": " Så er det bare, at det bliver sværere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 364.0,
       "end": 366.0,
       "text": " Det skal du stadigvæk gøre.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 366.0,
       "end": 368.0,
       "text": " Ja, man kan sige, at hvis man så rent faktisk skal lykkes med det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 368.0,
       "end": 370.0,
       "text": " så står det også så meget mere ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 370.0,
       "end": 372.0,
       "text": " Så spørgsmålet, hvis man gerne vil med på det her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 374.0,
       "text": " og anerkende præmissen om, at short-form video,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 374.0,
       "end": 376.0,
       "text": " det er en af de ting, som folk opfatter som rent faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 376.0,
       "end": 378.0,
       "text": " autentisk materiale, og man er også det sted,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 378.0,
       "end": 380.0,
       "text": " hvor folk er. Det var også en ting, man skulle huske.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 380.0,
       "end": 382.0,
       "text": " Der har i lang tid været en migration",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 382.0,
       "end": 384.0,
       "text": " ud af Facebook-feedet og Instagram-feedet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 386.0,
       "text": " ind i short-form video-spacet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 386.0,
       "end": 388.0,
       "text": " Reels og Shorts og TikTok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.0,
       "end": 390.0,
       "text": " Så hvis man skal navigere over i short-form video",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 390.0,
       "end": 392.0,
       "text": " og bruge det som en del af playbooken",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 392.0,
       "end": 394.0,
       "text": " mod autentisk indhold,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 394.0,
       "end": 396.0,
       "text": " så rykker man også over der, hvor folk er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 396.0,
       "end": 398.0,
       "text": " Og det er jo altid et godt udgangspunkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 400.0,
       "text": " Hvordan skal man så gribe det andet?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 400.0,
       "end": 402.0,
       "text": " Marketing er i virkeligheden et eksempel på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 402.0,
       "end": 404.0,
       "text": " hvordan vi forsøger os med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 404.0,
       "end": 406.0,
       "text": " Fordi vi tager vores episoder og klipper dem om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 408.0,
       "text": " til små short-form videos efterfølgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 408.0,
       "end": 410.0,
       "text": " Så vi tager basically vores long-form content",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 410.0,
       "end": 412.0,
       "text": " og omdanner det til short-form.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 412.0,
       "end": 414.0,
       "text": " Og det kan være en podcast-episode med video på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 414.0,
       "end": 416.0,
       "text": " som vi har her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 416.0,
       "end": 418.0,
       "text": " Det kan være et webinar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 420.0,
       "text": " Det kan være, hvis man optager en fysisk præsentation",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 422.0,
       "text": " et eller andet sted til en konference eller event.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 424.0,
       "text": " Det er måske en lille smule sværere, hvis det er fysiske events.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 424.0,
       "end": 426.0,
       "text": " Det er lidt nemmere, når det er lavet til digitalt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 428.0,
       "text": " til at starte med, og så har man filen og har typisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 428.0,
       "end": 430.0,
       "text": " lidt bedre styr på lyden og sådan noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 432.0,
       "text": " Men generelt, vores metodik handler meget om at tage",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 432.0,
       "end": 434.0,
       "text": " vores long-form content og så omdanne det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 434.0,
       "end": 436.0,
       "text": " til short-form content.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 438.0,
       "text": " Og så har vi jo en lidt anden vinkel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 440.0,
       "text": " hvad skal vi kalde den, i mange lavede ord?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 440.0,
       "end": 442.0,
       "text": " Jokes, gags, små, korte videoer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 444.0,
       "text": " som vi laver for sjov, som du jo både har været med til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 444.0,
       "end": 446.0,
       "text": " at lave og været offer for et par gange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 446.0,
       "end": 448.0,
       "text": " Hvis dem begge to, ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 448.0,
       "end": 450.0,
       "text": " Ja, og dem ved jeg,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 450.0,
       "end": 452.0,
       "text": " dem er folk måske endnu mere tilbageholdende",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 452.0,
       "end": 454.0,
       "text": " med at lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 454.0,
       "end": 456.0,
       "text": " Kan man tillade sig at være sjov, hvis man er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " en BSW-virksomhed, der sælger et seriøst produkt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 460.0,
       "end": 462.0,
       "text": " Jeg er jo meget risikobetonet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 462.0,
       "end": 464.0,
       "text": " Jeg er lidt en stor gambler,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 464.0,
       "end": 466.0,
       "text": " så jeg forstår også godt, hvis der er nogen, der ikke ved,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 466.0,
       "end": 468.0,
       "text": " hvis jeg kommer med. Men hvis du er en BSW-virksomhed,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 468.0,
       "end": 470.0,
       "text": " skal du netop være sjov.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 470.0,
       "end": 472.0,
       "text": " Altså det er rigtig nemt for en B2C-virksomhed at være sjov,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 472.0,
       "end": 474.0,
       "text": " fordi de har lidt nogle andre",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 474.0,
       "end": 476.0,
       "text": " kreative gørmål.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 476.0,
       "end": 478.0,
       "text": " Men en BSW-virksomhed er jo ofte det der med,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 478.0,
       "end": 480.0,
       "text": " at man ikke forbinder dem med det sjov.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Altså vi har lidt et",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 482.0,
       "end": 484.0,
       "text": " brand forudensaget,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 484.0,
       "end": 486.0,
       "text": " brand om, at vi måske i høj grad er teknisk en kreativ.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 486.0,
       "end": 488.0,
       "text": " Hvis vi kan vise, at vi også kan være en lille smule sjove,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 488.0,
       "end": 490.0,
       "text": " tage en lille bittesmule",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 490.0,
       "end": 492.0,
       "text": " pis på os selv,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 492.0,
       "end": 494.0,
       "text": " det tror jeg giver ret meget til os.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 494.0,
       "end": 496.0,
       "text": " Og sådan vil jeg se det med mange BSW-virksomheder.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 496.0,
       "end": 498.0,
       "text": " Altså det er jo ikke fordi, at man skal være kedelig",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 498.0,
       "end": 500.0,
       "text": " for at arbejde i BSW. Tverdimod,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 500.0,
       "end": 502.0,
       "text": " jeg tror dem, der sidder og BSW'er er lige så sjov,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 502.0,
       "end": 504.0,
       "text": " de er bare et par roligt terroriste.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 504.0,
       "end": 506.0,
       "text": " Det her er en af mine største kæbhæster, det er, at du behøver ikke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 506.0,
       "end": 508.0,
       "text": " være kedelig bare fordi du arbejder i BSW,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 508.0,
       "end": 510.0,
       "text": " fordi jeg føler, at det er en ting, som vi som branche har vedtaget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " Vi har fælles vedtaget på den årlige",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 514.0,
       "text": " konference for BSW-virksomheder, som alle skal være med på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 514.0,
       "end": 516.0,
       "text": " Næste års content, det skal sgu være lige så",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 516.0,
       "end": 518.0,
       "text": " kedeligt som sidste års content.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 518.0,
       "end": 520.0,
       "text": " Vi producerer alle folk de samme whitepapers",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 520.0,
       "end": 522.0,
       "text": " og kedelige LinkedIn-opslag skrevet af ChatGPT",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 522.0,
       "end": 524.0,
       "text": " og fremhæver og cases.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 524.0,
       "end": 526.0,
       "text": " Og det ryger bare ud",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 528.0,
       "text": " i mængden af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 528.0,
       "end": 530.0,
       "text": " unødvendige ting, som folk ikke læser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 530.0,
       "end": 532.0,
       "text": " Og netop fordi, at der ikke er nogen, der gør det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 532.0,
       "end": 534.0,
       "text": " så virker det så meget bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 534.0,
       "end": 536.0,
       "text": " Altså jeg synes, hvis man skal prøve at skille sig ud",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 536.0,
       "end": 538.0,
       "text": " i en branche, så skal man jo helt simpelt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 540.0,
       "text": " se på, hvad alle andre gør og gøre noget andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 540.0,
       "end": 542.0,
       "text": " Men det er som om, det her BSW-virksomhed over",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 542.0,
       "end": 544.0,
       "text": " en bred kamp ikke rigtig fattede, så de gør bare",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 544.0,
       "end": 546.0,
       "text": " det samme som alle andre i stedet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 546.0,
       "end": 548.0,
       "text": " Og jeg synes, det er en af de største muligheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 548.0,
       "end": 550.0,
       "text": " man har som BSW-virksomhed. Det er faktisk at være",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 550.0,
       "end": 552.0,
       "text": " en smule personlig. Måske en lille smule",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 554.0,
       "text": " sjov at vise noget af sig selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 554.0,
       "end": 556.0,
       "text": " Det kan vi så komme tilbage til, hvordan man rent",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 558.0,
       "text": " faktisk kan gøre.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 558.0,
       "end": 560.0,
       "text": " Jeg sad og scrollede TikTok.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 560.0,
       "end": 562.0,
       "text": " Det gør jeg generelt ret meget.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 562.0,
       "end": 564.0,
       "text": " Men det er nok også noget generation som",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 564.0,
       "end": 566.0,
       "text": " Det er arbejdsrelateret.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 566.0,
       "end": 568.0,
       "text": " Jo jo jo.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 568.0,
       "end": 570.0,
       "text": " Bestemt. Her lørdag aften",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 570.0,
       "end": 572.0,
       "text": " der er det arbejdsrelateret TikTok.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 572.0,
       "end": 574.0,
       "text": " Jeg stod på Salesforce.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 574.0,
       "end": 576.0,
       "text": " Salesforce?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 576.0,
       "end": 578.0,
       "text": " Okay, det er overraskende.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 578.0,
       "end": 580.0,
       "text": " Jeg skal være den første til at sige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 580.0,
       "end": 582.0,
       "text": " Salesforce forbinder",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 582.0,
       "end": 584.0,
       "text": " jeg bestemt ikke med noget humoristisk.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 584.0,
       "end": 586.0,
       "text": " Det er sådan lige et skridt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 586.0,
       "end": 588.0,
       "text": " over stigen i forhold til SAP i Tyskland",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 590.0,
       "text": " på de to mest kedelige brands i hele verden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 590.0,
       "end": 592.0,
       "text": " Jep.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 592.0,
       "end": 594.0,
       "text": " Og de har knækket den ret godt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 594.0,
       "end": 596.0,
       "text": " Så hvis man nu sidder og tænker, okay jeg ved godt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 596.0,
       "end": 598.0,
       "text": " Salesforce er det ikke særlig sjovt. Prøv lige at gå ind på",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 598.0,
       "end": 600.0,
       "text": " deres, nu er det et tilfældigt TikTok.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 600.0,
       "end": 602.0,
       "text": " Jeg tror også, de lægger nogenlunde sammen op.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 602.0,
       "end": 604.0,
       "text": " Det er ikke deres. De er eddermame lykkedes med det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 604.0,
       "end": 606.0,
       "text": " De tager også, igen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 606.0,
       "end": 608.0,
       "text": " de er ikke så højtidelige",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 608.0,
       "end": 610.0,
       "text": " med deres eget brand, og det tror jeg, det er der med",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 610.0,
       "end": 612.0,
       "text": " tilpasset platformen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 612.0,
       "end": 614.0,
       "text": " Men altså, de har mange millioner af visninger",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 614.0,
       "end": 616.0,
       "text": " og det på videoer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 616.0,
       "end": 618.0,
       "text": " som for mig var relateret bare.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 618.0,
       "end": 620.0,
       "text": " Så det du siger, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 620.0,
       "end": 622.0,
       "text": " at du kommer faktisk til at planere for at opcd'erne skal udskifte",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 624.0,
       "text": " vores hopspot med Salesforce lige om lidt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " Nej, det gør jeg ikke.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 626.0,
       "end": 628.0,
       "text": " De har jo ikke sat mig produktet, men",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 628.0,
       "end": 630.0,
       "text": " det er godt nok langt til siden jeg har tænkt på Salesforce.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 630.0,
       "end": 632.0,
       "text": " Så der er helt sikkert noget brand i det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 632.0,
       "end": 634.0,
       "text": " Ja, det er der.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " Undskyld, Salesforce,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 636.0,
       "end": 638.0,
       "text": " men jeg havde lidt glemt dem.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 638.0,
       "end": 640.0,
       "text": " Og nu her, der forbinder jeg dem",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 640.0,
       "end": 642.0,
       "text": " jo bare med noget sjovt, altså jeg vil bruge dem som",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 642.0,
       "end": 644.0,
       "text": " reference fremadrettet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 644.0,
       "end": 646.0,
       "text": " Ja, og det er jo faktisk et et, det er jo, at du overhovedet kan huske dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 646.0,
       "end": 648.0,
       "text": " Fordi en af de ting, jeg allermest bange for",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 650.0,
       "text": " på vegne af vores kunder, det er, at folk bare skråler videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 650.0,
       "end": 652.0,
       "text": " Fordi så sker der i hvert fald ingenting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 652.0,
       "end": 654.0,
       "text": " Så altså til at starte med, hvis folk bare synes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 654.0,
       "end": 656.0,
       "text": " de er sjove og kan huske dem af den årsag, altså det er jo et win.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 656.0,
       "end": 658.0,
       "text": " Det tager jeg gerne til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 660.0,
       "text": " Og så er der et eksempel med Shopify senere i dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 660.0,
       "end": 662.0,
       "text": " med noget, de også gør rigtig godt, man kan lade sig inspirere en lille smule af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 662.0,
       "end": 664.0,
       "text": " Lad os hoppe videre til en anden ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 664.0,
       "end": 666.0,
       "text": " Fordi jeg tror, noget som mange forbinder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 668.0,
       "text": " med sådan selve ordet autentiske",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 668.0,
       "end": 670.0,
       "text": " annoncer, det er, at de sætter",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 670.0,
       "end": 672.0,
       "text": " lighedstegn mellem autentisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 672.0,
       "end": 674.0,
       "text": " materiale og UGC",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 674.0,
       "end": 676.0,
       "text": " materiale, User Generated Content.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 676.0,
       "end": 678.0,
       "text": " Og User Generated Content",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 678.0,
       "end": 680.0,
       "text": " er jo ikke et nyt begreb.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 680.0,
       "end": 682.0,
       "text": " Det har været en af de største trends",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 682.0,
       "end": 684.0,
       "text": " over de sidste, lad os sige, tre, fire,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 686.0,
       "text": " fem år måske, hvor det startede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 686.0,
       "end": 688.0,
       "text": " med at være sådan noget materiale, som virksomheden",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 690.0,
       "text": " indsamlede organisk, og i dag så er det en ganske",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 690.0,
       "end": 692.0,
       "text": " professionel industri, hvor man skriver",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 692.0,
       "end": 694.0,
       "text": " scripts og får leveret noget præcis materiale",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " tilbage, som ligner noget, en almindelig bruger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " har lavet, men det er det bestemt ikke. Det er lige så",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 700.0,
       "text": " professionelt som alt andet materiale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 700.0,
       "end": 702.0,
       "text": " Så på den måde er UGC blevet modnet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 702.0,
       "end": 704.0,
       "text": " Men man kan måske også være en lille smule bange",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 704.0,
       "end": 706.0,
       "text": " for, at i takt med, at UGC er blevet modnet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 706.0,
       "end": 708.0,
       "text": " og at flere virksomheder går brug af det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 708.0,
       "end": 710.0,
       "text": " så taber det også noget af effektiviteten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 710.0,
       "end": 712.0,
       "text": " Hvad er din sådan",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 712.0,
       "end": 714.0,
       "text": " oplevelse med UGC, både som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 714.0,
       "end": 716.0,
       "text": " annonceringsmand og som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 716.0,
       "end": 718.0,
       "text": " heavy, hardcore TikTok-user over de sidste år?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 718.0,
       "end": 720.0,
       "text": " Jeg tror, det er helt rigtigt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 720.0,
       "end": 722.0,
       "text": " Der er mange, der sætter ligehedstegn mellem autentisk",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 722.0,
       "end": 724.0,
       "text": " indhold og UGC, og det er heller ikke forkert.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 724.0,
       "end": 726.0,
       "text": " Som du selv nævner, sådan var det engang.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 726.0,
       "end": 728.0,
       "text": " Og det var svært, så der var",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 728.0,
       "end": 730.0,
       "text": " høje barriere for at bruge UGC, men det var nemlig",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 730.0,
       "end": 732.0,
       "text": " at skrive til ens top-10-kunder, eller hvad det",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 732.0,
       "end": 734.0,
       "text": " nu kunne være, og sige, vi er ikke nødt til at hjælpe os.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 734.0,
       "end": 736.0,
       "text": " Vi har købt her så mange gange, så det virker som om",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 736.0,
       "end": 738.0,
       "text": " I er glade for os. Lav en video. Og så var det",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 738.0,
       "end": 740.0,
       "text": " autentisk. Altså, så kom Jan på 54",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 740.0,
       "end": 742.0,
       "text": " fra Medfyn",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 742.0,
       "end": 744.0,
       "text": " og lavede en video, som man godt kunne se, det har han aldrig brugt før.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 744.0,
       "end": 746.0,
       "text": " Og derfor virkede den jo.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 746.0,
       "end": 748.0,
       "text": " Og derfor virkede den? Ja, tak til Jan på 54",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 748.0,
       "end": 750.0,
       "text": " fra Fyn, der anbefaler de her flødeboller. Dem skal jeg",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 750.0,
       "end": 752.0,
       "text": " også have nu. Netop. Hvor i dag,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 752.0,
       "end": 754.0,
       "text": " ja, som du selv nævner, det er væsentligt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 754.0,
       "end": 756.0,
       "text": " sådan omkostningstungere",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 756.0,
       "end": 758.0,
       "text": " projekt. Altså, der koster",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 758.0,
       "end": 760.0,
       "text": " det, lad os sige, 2.000 kroner for en god UGC-video.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 760.0,
       "end": 762.0,
       "text": " Vi vælger creatoren, vi laver",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 762.0,
       "end": 764.0,
       "text": " et script. Alt det er lavet",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 764.0,
       "end": 766.0,
       "text": " præcis efter skarploven. Hook,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 766.0,
       "end": 768.0,
       "text": " bowl, alt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 768.0,
       "end": 770.0,
       "text": " Og det er nok også lidt det, der gør, at vi",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 770.0,
       "end": 772.0,
       "text": " begynder at se, at 1. Hvis du skal",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 772.0,
       "end": 774.0,
       "text": " have det i gang, så bliver det dyrere, end det var før.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 774.0,
       "end": 776.0,
       "text": " Og 2.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 776.0,
       "end": 778.0,
       "text": " Folk har begyndt at lukke det nu.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 778.0,
       "end": 780.0,
       "text": " Man skal altid passe på,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 780.0,
       "end": 782.0,
       "text": " men folk er altså ikke så dumme, som man nogle gange går",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 782.0,
       "end": 784.0,
       "text": " et sprog på sådan som",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 784.0,
       "end": 786.0,
       "text": " TikTok eller Instagram Reels. De skal nok",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 786.0,
       "end": 788.0,
       "text": " kunne spotte, hvad der er generisk",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 788.0,
       "end": 790.0,
       "text": " indhold. Altså, sådan noget, der passer ind i platformen",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 790.0,
       "end": 792.0,
       "text": " og som nogen, de rent faktisk",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 792.0,
       "end": 794.0,
       "text": " står bag. Og så en content creator, der",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 794.0,
       "end": 796.0,
       "text": " er lavet med det specifikke formål at promovere",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 796.0,
       "end": 798.0,
       "text": " en annonce. Det bliver rigtig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 798.0,
       "end": 800.0,
       "text": " sjovt, når man begynder at se den samme content creator",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 800.0,
       "end": 802.0,
       "text": " på tværs af brands. Fordi det har jeg selv oplevet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 802.0,
       "end": 804.0,
       "text": " med mine YouTube Shorts-videoer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 804.0,
       "end": 806.0,
       "text": " inden i nogle lidt andre spaces, hvor man kan se, at det er sådan",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 806.0,
       "end": 808.0,
       "text": " den samme person, der går igen og reklamerer for flere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 808.0,
       "end": 810.0,
       "text": " forskellige tjenester. Og så falder tiøjen jo der på et",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 810.0,
       "end": 812.0,
       "text": " eller andet tidspunkt. Men jeg tror i virkeligheden, at den gør det tidligere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 812.0,
       "end": 814.0,
       "text": " Altså, jeg tror,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 814.0,
       "end": 816.0,
       "text": " når der kommer en ny metode til at lave marketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 816.0,
       "end": 818.0,
       "text": " og det kan jo være Facebook-annonce, lige da de kom frem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 818.0,
       "end": 820.0,
       "text": " eller TikTok-annonce, lige da de kom frem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 820.0,
       "end": 822.0,
       "text": " eller UGC-materiale på tværs af platform,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 822.0,
       "end": 824.0,
       "text": " lige da det kom frem. Når noget kommer frem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 824.0,
       "end": 826.0,
       "text": " til at starte med, så virker det allerbedst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 826.0,
       "end": 828.0,
       "text": " Altså, der er sådan en decideret arbitrage-mulighed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 828.0,
       "end": 830.0,
       "text": " Det virker sådan for godt til at være sandt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 830.0,
       "end": 832.0,
       "text": " Det er der, hvor jeg for eksempel synes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 832.0,
       "end": 834.0,
       "text": " nyhedsbrev på LinkedIn er lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 834.0,
       "end": 836.0,
       "text": " som jeg tidligere har nævnt i MarketingPod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 836.0,
       "end": 838.0,
       "text": " Altså, LinkedIn sender notifikationer og e-mails",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 838.0,
       "end": 840.0,
       "text": " til samtlige brugere, hver gang du udsender et nyhedsbrev.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 840.0,
       "end": 842.0,
       "text": " Det kan de simpelthen ikke blive ved med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 842.0,
       "end": 844.0,
       "text": " Men når folk, de begynder at bruge det mere og mere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 846.0,
       "text": " og mere, så virker det dårligere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 846.0,
       "end": 848.0,
       "text": " og dårligere og dårligere. Og på den måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 848.0,
       "end": 850.0,
       "text": " så kan man jo joke med, at marketers ødelægger alting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 850.0,
       "end": 852.0,
       "text": " Fordi når hele bunken springer ind i et eller andet område,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 854.0,
       "text": " så stopper det med at virke hen ad vejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 854.0,
       "end": 856.0,
       "text": " Og jeg tror faktisk, at vi er ret langt på den kurve,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 856.0,
       "end": 858.0,
       "text": " der med sådan et standard UGC-materiale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 860.0,
       "text": " Altså, min hypotese, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 860.0,
       "end": 862.0,
       "text": " at når folk, de ser det der materiale på deres feed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 862.0,
       "end": 864.0,
       "text": " så er deres udgangspunkt nu at tro,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 864.0,
       "end": 866.0,
       "text": " at det er betalt. Og det var ikke udgangspunktet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 868.0,
       "text": " for fire år siden. Og det var en af årsagen til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 868.0,
       "end": 870.0,
       "text": " at det virkede så godt, det så autentisk ud dengang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 870.0,
       "end": 872.0,
       "text": " Og jeg tror faktisk ikke, det ser autentisk ud på samme måde længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 872.0,
       "end": 874.0,
       "text": " Og det sjove, det er jo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 874.0,
       "end": 876.0,
       "text": " at vi snakker jo stadig med virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 876.0,
       "end": 878.0,
       "text": " som siger, at vi kunne godt tænke os at gå i gang med UGC.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 878.0,
       "end": 880.0,
       "text": " Er det for sent?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 880.0,
       "end": 882.0,
       "text": " Det er i hvert fald for sent,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 882.0,
       "end": 884.0,
       "text": " i forhold til et stort afkast.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 884.0,
       "end": 886.0,
       "text": " Altså, det er sådan lidt, du er kommet sent ind på markedet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 886.0,
       "end": 888.0,
       "text": " og jo, hvis du gør det ordentligt, og du virkelig investerer i det,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 888.0,
       "end": 890.0,
       "text": " et, det er blevet dyre.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 890.0,
       "end": 892.0,
       "text": " Og så er der selvfølgelig, det er mindre afkast for det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 892.0,
       "end": 894.0,
       "text": " Altså, det er mindre effektive annoncer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 894.0,
       "end": 896.0,
       "text": " Men de er nok stadigvæk bedre, end de der helt branded generiske annoncer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 896.0,
       "end": 898.0,
       "text": " Ja, det er stadig bedre.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 898.0,
       "end": 900.0,
       "text": " Så det er ikke for sent at gå i gang.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 900.0,
       "end": 902.0,
       "text": " Det var lidt ligesom for tre år siden.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 902.0,
       "end": 904.0,
       "text": " Man skal ikke forvente, at det er noget, der afgør alt på samme måde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 904.0,
       "end": 906.0,
       "text": " Nej.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 906.0,
       "end": 908.0,
       "text": " Jeg ved, at vores kollegaer, Kasper og Magnus fra Scrollstop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 908.0,
       "end": 910.0,
       "text": " kommer til Marketing Bio om lidt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 910.0,
       "end": 912.0,
       "text": " som er udsolgt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 912.0,
       "end": 914.0,
       "text": " Det er sindssygt fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 914.0,
       "end": 916.0,
       "text": " Der kommer 1400 personer på tværs af alle biografer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 916.0,
       "end": 918.0,
       "text": " Kæft, hvor jeg glæder mig til den tur.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 918.0,
       "end": 920.0,
       "text": " Men de har jo et oplæg med, som handler om, hvad kommer efter UGC?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 920.0,
       "end": 922.0,
       "text": " Fordi deres præmis er den samme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 922.0,
       "end": 924.0,
       "text": " den traditionelle metode at lave UGC på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 924.0,
       "end": 926.0,
       "text": " Ja, den virker stadig, men du kan ikke lave de der sindssyge afkast,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 926.0,
       "end": 928.0,
       "text": " du kunne med det for nogle år siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 928.0,
       "end": 930.0,
       "text": " Når der er noget, der sopper med virk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 930.0,
       "end": 932.0,
       "text": " så er der nogen, der opdager noget andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 932.0,
       "end": 934.0,
       "text": " Så det kan alle dem, der kommer der, glæde sig til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 934.0,
       "end": 936.0,
       "text": " Du har en lidt anden vinkel på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 936.0,
       "end": 938.0,
       "text": " Jeg synes, vi skal prøve at snakke en lille smule om det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 938.0,
       "end": 940.0,
       "text": " Fordi du vil gerne have,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 940.0,
       "end": 942.0,
       "text": " at vi går fra at snakke om UGC",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 942.0,
       "end": 944.0,
       "text": " til EGC.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 944.0,
       "end": 946.0,
       "text": " Hvad står EGC for?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 946.0,
       "end": 948.0,
       "text": " Jamen, i det engelske regime,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 948.0,
       "end": 950.0,
       "text": " det som det står, UGC står for",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 950.0,
       "end": 952.0,
       "text": " Just Generated Content, så i det her tilfælde",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 952.0,
       "end": 954.0,
       "text": " står det for Employee Generated Content.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 954.0,
       "end": 956.0,
       "text": " Og det er som sådan ikke noget nyt begreb.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 956.0,
       "end": 958.0,
       "text": " UGC, jeg synes bare, den har været overset.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 958.0,
       "end": 960.0,
       "text": " Og UGC har lidt sådan,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 960.0,
       "end": 962.0,
       "text": " låget på den trend, som der måske var på vej.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 962.0,
       "end": 964.0,
       "text": " Og nu tror jeg, det bliver et omvendte.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 964.0,
       "end": 966.0,
       "text": " Jeg tror, at det vi er nødt til at finde ud af,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 966.0,
       "end": 968.0,
       "text": " det var, hvad de ikke kunne opnå",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 968.0,
       "end": 970.0,
       "text": " med UGC.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 970.0,
       "end": 972.0,
       "text": " Kan du ikke lige starte med at forklare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 972.0,
       "end": 974.0,
       "text": " hvad er forskellen på Employee Generated Content",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 974.0,
       "end": 976.0,
       "text": " og Employee Branding?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 976.0,
       "end": 978.0,
       "text": " Fordi jeg tror, der er nogen, der hører de to ting",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 978.0,
       "end": 980.0,
       "text": " og måske tænker, det er det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 980.0,
       "end": 982.0,
       "text": " Yes, så UGC,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 982.0,
       "end": 984.0,
       "text": " Just Generated Content, I lægger det ud til",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 984.0,
       "end": 986.0,
       "text": " en bruger. I teoretisk",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 986.0,
       "end": 988.0,
       "text": " så skulle det gerne være en bruger, der",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 988.0,
       "end": 990.0,
       "text": " rent faktisk køber jeres produkt. I det her tilfælde, der er det",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 990.0,
       "end": 992.0,
       "text": " højst sandsynligt en content creator, hvor at",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 992.0,
       "end": 994.0,
       "text": " I giver dem et produkt, og I får en video tilbage",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 994.0,
       "end": 996.0,
       "text": " om, hvor glad de er for, at I købte jeres produkt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 996.0,
       "end": 998.0,
       "text": " Employee Generated Content,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 998.0,
       "end": 1000.0,
       "text": " det er jeres medarbejder.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1000.0,
       "end": 1002.0,
       "text": " Så I giver telefonen internt og",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1002.0,
       "end": 1004.0,
       "text": " siger, jamen nu skal du være vores",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1004.0,
       "end": 1006.0,
       "text": " ambassadør, du skal lave videoer om vores",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1006.0,
       "end": 1008.0,
       "text": " produkt. Så vi har ikke samme",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1008.0,
       "end": 1010.0,
       "text": " formål for at lave sådan en, det her",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1010.0,
       "end": 1012.0,
       "text": " det er, hvad jeg fik ud af at købe produktet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1012.0,
       "end": 1014.0,
       "text": " Vi laver det helt omvendt og siger indfra",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1014.0,
       "end": 1016.0,
       "text": " og ud. Hvorfor sælger vi",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1016.0,
       "end": 1018.0,
       "text": " produktet? Hvad er produktet værd?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1018.0,
       "end": 1020.0,
       "text": " Alle kreative idéer, man nu har.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1020.0,
       "end": 1022.0,
       "text": " Er vi i gang med at lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1022.0,
       "end": 1024.0,
       "text": " Employee Generated Content lige nu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1024.0,
       "end": 1026.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1026.0,
       "end": 1028.0,
       "text": " Det er jo lidt meta.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1028.0,
       "end": 1030.0,
       "text": " Det er det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1030.0,
       "end": 1032.0,
       "text": " Men jeg tror, at folk finder ud af det her",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1032.0,
       "end": 1034.0,
       "text": " med, hvad mangler det på UGC? Jamen de mangler",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1034.0,
       "end": 1036.0,
       "text": " nok det der med, at det",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1036.0,
       "end": 1038.0,
       "text": " bliver dyrere,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1038.0,
       "end": 1040.0,
       "text": " det bliver måske sværere",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1040.0,
       "end": 1042.0,
       "text": " at opholde ens brain på det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1042.0,
       "end": 1044.0,
       "text": " Vi skal tænke på dem, der får de her content creators",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1044.0,
       "end": 1046.0,
       "text": " for produktet. De har ikke",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1046.0,
       "end": 1048.0,
       "text": " ekspertisen. De ved, hvordan de skal",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1048.0,
       "end": 1050.0,
       "text": " sælge det, men hvis der kom et spørgsmål",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1050.0,
       "end": 1052.0,
       "text": " til dem omkring, kan du ikke lige gå dybt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1052.0,
       "end": 1054.0,
       "text": " ved det? Så ville vi være særlige.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1054.0,
       "end": 1056.0,
       "text": " Hvor her er tablet den omvendte vinkel.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1056.0,
       "end": 1058.0,
       "text": " Det jeg godt kan lide",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1058.0,
       "end": 1060.0,
       "text": " ved Employee Generated Content som udgangspunkt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1060.0,
       "end": 1062.0,
       "text": " det er, at man behøver ikke fake noget her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1062.0,
       "end": 1064.0,
       "text": " Hvis man laver UGC, så er det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1064.0,
       "end": 1066.0,
       "text": " under den der efterhånden lidt falske",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1066.0,
       "end": 1068.0,
       "text": " præmisser med, her er en bruger, der har købt produktet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1068.0,
       "end": 1070.0,
       "text": " og er glad for det, og så er det bare ikke i virkeligheden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1070.0,
       "end": 1072.0,
       "text": " Jeg er ked af det, hvis der er nogen, der tror, at alt UGC",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1072.0,
       "end": 1074.0,
       "text": " var rigtigt, og vi kommer til at børste og boble i det her podcast,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1074.0,
       "end": 1076.0,
       "text": " men langt det meste af det er scripted professional",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1076.0,
       "end": 1078.0,
       "text": " materiale, som har til formål at sælge produkter",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1078.0,
       "end": 1080.0,
       "text": " ligesom alle mulige andre ting. Hashtag digital marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1080.0,
       "end": 1082.0,
       "text": " Men det fede ved Employee",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1082.0,
       "end": 1084.0,
       "text": " Generated Content, det er, at der ikke er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1084.0,
       "end": 1086.0,
       "text": " noget falsk ved det, fordi",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1086.0,
       "end": 1088.0,
       "text": " folk ved godt, hvis du ser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1088.0,
       "end": 1090.0,
       "text": " Morten B. fra",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1090.0,
       "end": 1092.0,
       "text": " Mortens Paddle Shop, så selvfølgelig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1092.0,
       "end": 1094.0,
       "text": " prøver han at sælge deres produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1094.0,
       "end": 1096.0,
       "text": " Who are we kidding?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1096.0,
       "end": 1098.0,
       "text": " Altså",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1098.0,
       "end": 1100.0,
       "text": " der er ikke nogen, vi",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1100.0,
       "end": 1102.0,
       "text": " snyder her. Der er ikke noget fordægt i det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1102.0,
       "end": 1104.0,
       "text": " Selvfølgelig prøver han at sælge deres produkter, og du er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1104.0,
       "end": 1106.0,
       "text": " faktisk okay med det, fordi det bliver en lille smule personligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1106.0,
       "end": 1108.0,
       "text": " Så på en eller anden måde, så synes jeg, at",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1108.0,
       "end": 1110.0,
       "text": " udgangspunktet eller præmissen for",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1110.0,
       "end": 1112.0,
       "text": " Employee Generated Content er til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1112.0,
       "end": 1114.0,
       "text": " at starte med faktisk mere oprigtigt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1114.0,
       "end": 1116.0,
       "text": " eller autentisk, om man vil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1116.0,
       "end": 1118.0,
       "text": " Hvad synes du om det?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1118.0,
       "end": 1120.0,
       "text": " Jamen det er helt korrekt. Det er mere autentisk.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1120.0,
       "end": 1122.0,
       "text": " Altså jeg synes jo på mange punkter, at det",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1122.0,
       "end": 1124.0,
       "text": " har væsentligt til at fordele UGC.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1124.0,
       "end": 1126.0,
       "text": " Hvad vil nogle af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1126.0,
       "end": 1128.0,
       "text": " de andre fordele ved sådan",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1128.0,
       "end": 1130.0,
       "text": " EGC materiale være? Udover at der",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1130.0,
       "end": 1132.0,
       "text": " måske er en troværdighed, der er ret godt på plads fra",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1132.0,
       "end": 1134.0,
       "text": " starten af, fordi folk ved godt, at du prøver at sælge dem noget, og de er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1134.0,
       "end": 1136.0,
       "text": " faktisk okay med det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1136.0,
       "end": 1138.0,
       "text": " Altså man kan sagtens tage",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1138.0,
       "end": 1140.0,
       "text": " lad os tage den helt til højre benet",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1140.0,
       "end": 1142.0,
       "text": " i vinklen, der hedder Employee Branding.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1142.0,
       "end": 1144.0,
       "text": " Jeg så så sent som i går på",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1144.0,
       "end": 1146.0,
       "text": " Instagram Reels, det er Lloyd i Odense",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1146.0,
       "end": 1148.0,
       "text": " der lavede en",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1148.0,
       "end": 1150.0,
       "text": " EGC video, og det var",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1150.0,
       "end": 1152.0,
       "text": " med en af deres",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1152.0,
       "end": 1154.0,
       "text": " revisionsstuderende, hvor du havde",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1154.0,
       "end": 1156.0,
       "text": " set ham lave videoen omkring hans",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1156.0,
       "end": 1158.0,
       "text": " day in the life hos Deloitte i Odense.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1158.0,
       "end": 1160.0,
       "text": " Så det er jo rekrutteringsregime, men også",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1160.0,
       "end": 1162.0,
       "text": " MindBee Branding viser, at selvom",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1162.0,
       "end": 1164.0,
       "text": " det er ved Deloitte eller andet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1164.0,
       "end": 1166.0,
       "text": " så er det en fed arbejdsplads.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1166.0,
       "end": 1168.0,
       "text": " Det tror jeg vi kommer til at se mere af.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1168.0,
       "end": 1170.0,
       "text": " Så er der ekspertpositioneringen er det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1170.0,
       "end": 1172.0,
       "text": " Mit bedste eksempel på det,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1172.0,
       "end": 1174.0,
       "text": " dit ur. Dit ur, ret",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1174.0,
       "end": 1176.0,
       "text": " stort brand. Jeg har aldrig set en",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1176.0,
       "end": 1178.0,
       "text": " UGC anonyms for dit ur, men jeg har",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1178.0,
       "end": 1180.0,
       "text": " ild og mame set dem selv",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1180.0,
       "end": 1182.0,
       "text": " mange gange, og hvis man går ind på deres TikTok",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1182.0,
       "end": 1184.0,
       "text": " eller Instagram, de bruger dem selv og deres",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1184.0,
       "end": 1186.0,
       "text": " medarbejdere, og jeg tror det med den der",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1186.0,
       "end": 1188.0,
       "text": " tilbage til 1.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1188.0,
       "end": 1190.0,
       "text": " Der er noget i Playbranding og noget, hvor fedt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1190.0,
       "end": 1192.0,
       "text": " branded er, at de kender deres målgruppe, men 2.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1192.0,
       "end": 1194.0,
       "text": " De har også været lidt for at præsentere et ur,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1194.0,
       "end": 1196.0,
       "text": " hvorfor det lige præcis koste sig 2.700",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1196.0,
       "end": 1198.0,
       "text": " med tippet på 21, der fik det",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1198.0,
       "end": 1200.0,
       "text": " igennem en UGC pakke.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1200.0,
       "end": 1202.0,
       "text": " Det er klart det er mere troværdigt, for det første",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1202.0,
       "end": 1204.0,
       "text": " så er det oprigtigt, man ved godt de prøver at sælge noget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1204.0,
       "end": 1206.0,
       "text": " til at starte med, og det er okay, når de to tvillinger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1206.0,
       "end": 1208.0,
       "text": " står der, Mikkel og hvad det en anden hedder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1208.0,
       "end": 1210.0,
       "text": " De står der, og du ved det godt, og",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1210.0,
       "end": 1212.0,
       "text": " det andet er, at de ved mere om uger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1212.0,
       "end": 1214.0,
       "text": " Deres anbefaling betyder en lille smule mere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1214.0,
       "end": 1216.0,
       "text": " så skal man holde dem inde, de vil nok gerne anbefale",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1216.0,
       "end": 1218.0,
       "text": " deres egne uger, men fair nok, det ved du godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1218.0,
       "end": 1220.0,
       "text": " når de står med afsenderen, som dit ur er på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1220.0,
       "end": 1222.0,
       "text": " På den måde er det bare autentisk til at starte",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1222.0,
       "end": 1224.0,
       "text": " med, kan man sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1224.0,
       "end": 1226.0,
       "text": " Der er et spillovereffekt i forhold til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1226.0,
       "end": 1228.0,
       "text": " employee branding. Jeg kan komme med et sjovt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1228.0,
       "end": 1230.0,
       "text": " eksempel på det, som er, at for nogle år siden",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1230.0,
       "end": 1232.0,
       "text": " var jeg med til at lave et podcast, som vi kaldte",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1232.0,
       "end": 1234.0,
       "text": " for Vækst, som handlede om rejsen med",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1234.0,
       "end": 1236.0,
       "text": " Obsidian Digital, mens den var i gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1236.0,
       "end": 1238.0,
       "text": " Og vores tanke, det var egentlig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1238.0,
       "end": 1240.0,
       "text": " at vi kunne lave nogle episoder om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1240.0,
       "end": 1242.0,
       "text": " overvejelser i forhold til at få",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1242.0,
       "end": 1244.0,
       "text": " finansiering ind og købe bruger og",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1244.0,
       "end": 1246.0,
       "text": " alle mulige andre emner, som vi syntes var sindssygt spændende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1246.0,
       "end": 1248.0,
       "text": " men at det også skulle være",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1248.0,
       "end": 1250.0,
       "text": " på en eller anden måde et akquisitivt podcast,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1250.0,
       "end": 1252.0,
       "text": " om man vil. Det vil sige, hen ad vejen kunne vi",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1252.0,
       "end": 1254.0,
       "text": " virkelig godt tænke os, at det her var noget, som også fik os på",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1254.0,
       "end": 1256.0,
       "text": " raderen for de rigtige virksomheder, som måske kunne blive en kunder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1256.0,
       "end": 1258.0,
       "text": " en dag. Det blev det faktisk aldrig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1258.0,
       "end": 1260.0,
       "text": " men til gengæld var det en vildt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1260.0,
       "end": 1262.0,
       "text": " effektiv rekruttering, fordi vi fik folk ind til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1262.0,
       "end": 1264.0,
       "text": " samtaler, som havde lyttet til 20 episoder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1266.0,
       "end": 1268.0,
       "text": " og at sige det er en mens, det rent faktisk foregik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1268.0,
       "end": 1270.0,
       "text": " Så jeg følte, de kendte næsten virksomheden bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1270.0,
       "end": 1272.0,
       "text": " end vi gjorde, når det kom til samtaler og var",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1272.0,
       "end": 1274.0,
       "text": " totalt godt afstemt med, at det var det her, de gerne ville.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1274.0,
       "end": 1276.0,
       "text": " Så det var jo et forsøg på EGC, som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1276.0,
       "end": 1278.0,
       "text": " faktisk endte ud i lidt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1278.0,
       "end": 1280.0,
       "text": " utilsigtet employer branding,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1280.0,
       "end": 1282.0,
       "text": " om man vil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1282.0,
       "end": 1284.0,
       "text": " Jeg har hørt den selv,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1284.0,
       "end": 1286.0,
       "text": " og jeg kan huske, at i en lang periode",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1286.0,
       "end": 1288.0,
       "text": " både til samtaler, men også",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1288.0,
       "end": 1290.0,
       "text": " efterfølgende sag, der ligger en episode derinde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1290.0,
       "end": 1292.0,
       "text": " Den hedder, hvordan det er at være associeret konstant,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1292.0,
       "end": 1294.0,
       "text": " eller hvordan det er at være konstant, eller seniorkonstant.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1294.0,
       "end": 1296.0,
       "text": " Hør den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1296.0,
       "end": 1298.0,
       "text": " Hør den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1298.0,
       "end": 1318.0,
       "text": " Jeg kan huske, at i en lang periode, både til samtaler, men også efterfølgende sag, der ligger en episode derinde, den hedder, hvordan det er at være associeret konstant, eller hvordan det er at være konstant, eller seniorkonstant.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1318.0,
       "end": 1342.0,
       "text": " Hør den. For hvis du har hørt den, så har du hørt det, du skal. Så det var meget god forventningsafstænding også, og folk de går og hører det fra dem, der rent faktisk sad i det, i stedet for at vi skulle sidde til en jobsamtale 35 minutter og fortælle det, fordi det er bare altid det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1342.0,
       "end": 1372.0,
       "text": " Nej, og så hvis de har hørt det på forhånd, så kan man måske gå lidt mere i dybden til jobsamtalen efterfølgende og stille nogle bedre spørgsmål. Lad os tage en anden ting omkring EGC, fordi jeg ved, mange af dem, der lyder til det her, vil nu tænke, ja, EGC, det lyder fedt, vi kunne godt tænke os at lave noget, men jeg arbejder i en stor international BSB virksomhed, og hvordan gør man det her, hvis man er en stor virksomhed? Det er nemmere da, hvis man er en lille virksomhed, så får man bare lov til det. Hvad hvis man arbejder i en stor virksomhed, 600 medarbejdere og sælger stålplader på tværs af Europa, hvem fanden skal være på materialet",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1372.0,
       "end": 1400.0,
       "text": " Ja, og det er den her, der er den potentielle stop også for mange, fordi der er én som minimum, der er nødt til at være på materialet, og hvis man skal finde den, så er der forskellige veje, der er jo altid tvangsindløsningen, og så satser man på, ja, hvis jeg er til den, der er også den, der hedder, hvis I er 600 medarbejdere, må der ikke være én medarbejder, som bare synes, at det her ikke er helt vildt langtfrugende, og de godt vil være kreative.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1400.0,
       "end": 1415.0,
       "text": " Jeg tror, man kommer til at se om til 15 år, når man ansætter kandidater, måske ellers fem år, så er der mange, der har lært, altså de har formater at kende på forhånd, så jeg tror, den yngre målgruppe bliver ansat med et formål om, at vi også godt ved, de bliver dygtige content creators for en selv.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1415.0,
       "end": 1429.0,
       "text": " Ja, måske vil de rent faktisk gerne. Altså jeg ved, du har arbejdet med Nordisk Film i mange år, og de har været sådan ahead of the curve på det her punkt, er meget, meget dygtige digitalt i det hele taget. Kan du ikke fortælle om, hvordan de gjorde med employee generated content?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1429.0,
       "end": 1442.0,
       "text": " Jo, og lad jeg lige inspirere af det. Jeg synes, det er en fed metodik, de gjorde, og det var, at deres marketing og content team, de havde ikke båndbredt til at skulle lave så mange videoer, som det krævede.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1442.0,
       "end": 1449.0,
       "text": " Når der hele tiden går en ny film, og der er 26 biografer, og der er hele tiden nye menuer osv., så har du bare ikke båndbredt med mindre, du har.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1449.0,
       "end": 1459.0,
       "text": " Man kan sådan lige forsætte sig at arbejde i marketing i Nordisk Film, og så kommer chefen ind og siger, kan du ikke lige lave en video til de her 26 biografer? Kan du ikke lige medlem? Og du ved, han kommer bare fredag kl. 14.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1459.0,
       "end": 1474.0,
       "text": " 14.30, så er du rigtig heldig. Det, de gjorde, det var, at de fandt ud af, at alle de ungarbejdere og logoansvarlige, de har ude i butikken, det er jo lige præcis dem, der er vokset op med TikTok og Instagram og YouTube osv.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1474.0,
       "end": 1485.0,
       "text": " De kender godt formatet, der er mange af dem, der laver det privat. Hvad med, at vi bare siger, at den der firmatelefon, der ligger ude i Nordisk Film biografer Odense, der er TikTok allerede logget på.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1485.0,
       "end": 1496.0,
       "text": " Hvis I har lyst til at lave en TikTok, imens I arbejder, give det jo go. Og så begyndte de at holde konkurrence om det og sige, jamen, nu er der lige pludselig fem biografer, der gør det. Vi vil gerne have flere til at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1496.0,
       "end": 1509.0,
       "text": " Dem, der laver månedens bedste TikTok-venner, det er jo ligesom blevet en form for konkurrence. Hold da op, de gør det godt nok godt. Så skal Tosse tilbage. Vi gør det bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1509.0,
       "end": 1523.0,
       "text": " Så lige nu er det bare masseproduktion af TikTok-videoer til platformen, fordi de rammer den jo. Lige røven, undskyld mit fynske. Fordi dem, der laver det, de ved godt, hvad de skal lave. Så er det bare masseproduktion.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1523.0,
       "end": 1532.0,
       "text": " Jeg så faktisk en på mit YouTube-shortsfeed, hvor jeg havde været inde og bestille nogle biografbilletter. Varianna 2 med mine børn i efterårsferien. Kanonfilm.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1532.0,
       "end": 1541.0,
       "text": " Men så blev jeg ramt af, jeg ved ikke om det var retargeting, eller Google bare havde fanget, at jeg var biograf interesseret. Så fik jeg faktisk en shortsvideo på YouTube, som en af biograferne havde lavet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1541.0,
       "end": 1551.0,
       "text": " Og det var ret sjovt. Det var sådan et lille skidt, hvor der var nogen, der går hen og bestiller en biografbillet, og så siger hende, der står og sælger billetterne, heller hygge jer med filmen, eller et eller andet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1551.0,
       "end": 1561.0,
       "text": " Og så siger de i lige måde, og joken er jo, at hun skal jo ikke ind og se filmen. Men så spillede man bare med på den. Så kom hun med ind og se filmen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1561.0,
       "end": 1571.0,
       "text": " Og den lavede de sådan nogle omgang. Sådan gå ud og købe og blandt selv slik hygge jer med det. I lige måde, så står han og sælger blandt selv slik, han skal også lige ind og blande 200 gram af magen og se filmen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1571.0,
       "end": 1575.0,
       "text": " Det er så lille og simpelt en ting, men jeg er så sgu og griner lidt af den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1575.0,
       "end": 1582.0,
       "text": " Jo, og det er jo det, de lykkes med, og det er jo fordi, de er født ind i det, og de er ikke bange for det. Det er der med, der er 26 biografer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1582.0,
       "end": 1590.0,
       "text": " De er alle 26 biografer, der deltager. Og det er jo ikke fordi, de har 40 medarbejdere fra Biograf. Så der er bare en eller anden, der siger, nu gør vi det, sku.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1590.0,
       "end": 1593.0,
       "text": " Og så ser de de andre, der har gjort det, og det er jo slet ikke så farligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1593.0,
       "end": 1603.0,
       "text": " Og ved du, altså, når man så er stadig i Nordisk Film Odense og har lavet den her video, skulle man så sende den ind til et eller andet centralt sted for at få den godkendt først, eller fik de bare lov til at køre?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1603.0,
       "end": 1611.0,
       "text": " Du har firmatelefonen i Odense, det er det, som du har i Køjlinge og i Tostrup og andet. Der har du login til TikTok. Læg den op. Vi stoler på dig.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1611.0,
       "end": 1619.0,
       "text": " Og det synes jeg er kanonfedt, det her, fordi, du ved, i det øjeblik, de kommer til at centralisere og lægge en godkendelsesprocedur ned over det der, og så tilføjer det så meget friktion, og så kommer projektet bare til at dø til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1619.0,
       "end": 1626.0,
       "text": " Altså, jeg tror sådan noget der, det virker også kun, hvis man tør stoler nok på de folk, man så giver loginet til firmatelefonen, til at de rent faktisk gør det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1626.0,
       "end": 1634.0,
       "text": " Og ved du, har der nogensinde været nogen, der, jeg ved ikke, hvordan man skulle gå over stregen i forhold til en TikTok-videobiograf, men har der været det?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1634.0,
       "end": 1642.0,
       "text": " Så der er lavet den regel, hvis jeg ikke tager fejl, om at de ikke må kommentere sig, hvis der er en, der laver en dum kommentar på den TikTok-video, du lige har lagt op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1642.0,
       "end": 1645.0,
       "text": " Så skal du ikke blive græbet af egne følelser, og så svare igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1645.0,
       "end": 1648.0,
       "text": " Okay, så du må ikke være næspes på firmaprofilen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1648.0,
       "end": 1652.0,
       "text": " Så lad være med at tage direkte kommentarkommunikation.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1652.0,
       "end": 1658.0,
       "text": " Videomæssigt, når det er synligt menet, tjekker det en gang om ugen og siger, det der er blevet lagt op, er der noget, der bonger ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1658.0,
       "end": 1660.0,
       "text": " Meget bekendt har der aldrig været noget, der bongede ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1660.0,
       "end": 1664.0,
       "text": " Og det er altså, det ved jeg ikke, 400-500 videoer senere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1664.0,
       "end": 1669.0,
       "text": " Så når der ikke er noget, der har været bonget ud nu, så er det enten et spørgsmål om tid, eller så sker det aldrig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1669.0,
       "end": 1672.0,
       "text": " Jeg synes, det her, det er et kanonfedt eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1672.0,
       "end": 1678.0,
       "text": " Noget, vi prøver at gøre i vores egen virksomhed, bare i mindre skala, det er, at vi prøver at have en god LinkedIn-kultur.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1678.0,
       "end": 1684.0,
       "text": " Fordi nu er vi Professional Services og B2B i Obsidian, så LinkedIn er vores hjemmebane.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1684.0,
       "end": 1686.0,
       "text": " Men vi prøver også bare at have en god kultur omkring det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1686.0,
       "end": 1691.0,
       "text": " En god kultur omkring det, det er noget så simpelt som, at hvis der er nogen, der lægger noget op, og de har lavet et godt opslag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1691.0,
       "end": 1693.0,
       "text": " så like det og skriv til dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1693.0,
       "end": 1698.0,
       "text": " Jeg har afholdt et webinar med Morten Münster på et tidspunkt, som hedder Førstehjælp til din skrevet LinkedIn-profil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1698.0,
       "end": 1704.0,
       "text": " Og der er et af de største problemer, som folk skrev i kommentarfeltet, i forhold til, hvorfor de ikke laver noget på LinkedIn,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1704.0,
       "end": 1707.0,
       "text": " det er, hvad hvis mine kollegaer ser det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1707.0,
       "end": 1710.0,
       "text": " For helvede, det er jo meningen, at de skal se det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1710.0,
       "end": 1713.0,
       "text": " Hvad hvis de ser det? Kommer de til at bede dig om at stoppe, eller hvad?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1713.0,
       "end": 1717.0,
       "text": " Og der gik det bare op for mig, at der er mange, der sidder i virksomheder, hvor der ikke er en kultur for at gøre det her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1717.0,
       "end": 1722.0,
       "text": " Hvor hvis du er den eneste, der skriver et opslag på LinkedIn, så kigger jeg sådan, hvad fanden laver Morten der?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1722.0,
       "end": 1724.0,
       "text": " Hvorfor er det, han bliver ved med at skrive det her?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1724.0,
       "end": 1728.0,
       "text": " Og det er så fjern for mig, fordi hvis der er en, der skriver et fedt LinkedIn-opslag i Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1728.0,
       "end": 1733.0,
       "text": " så er der sådan 100 kollegaer i Danmark, der er inde og liker det, og skriver til ham bagefter, og siger, at det var fedt og godt opslag.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1733.0,
       "end": 1736.0,
       "text": " Vi prøver at have sådan en virkelig positiv kultur rundt omkring det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1736.0,
       "end": 1738.0,
       "text": " Og bare det til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1738.0,
       "end": 1740.0,
       "text": " Ja, det lover jeg, det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1742.0,
       "end": 1746.0,
       "text": " Det er ikke, at det skal trække i støv, men jeg tænker bare det der med, at helt korrekt, der er mange, der har set,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1746.0,
       "end": 1748.0,
       "text": " åh, nu lægger han noget op igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1748.0,
       "end": 1751.0,
       "text": " Eller hvorfor har han det, og så træder man lidt noget op og viser sig frem?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1751.0,
       "end": 1753.0,
       "text": " Det er den, jeg får følelsen nogle gange, når jeg hører det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1753.0,
       "end": 1757.0,
       "text": " I stedet for den anden vinkel, sådan, åh, fedt han ser ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1757.0,
       "end": 1761.0,
       "text": " Jeg vil i hvert fald sige, at dem, der siger det, er nok dem, der har først liked selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1762.0,
       "end": 1764.0,
       "text": " Jamen, det er nok rigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1764.0,
       "end": 1768.0,
       "text": " Der er sådan lidt small-dig energy over at sige, hvorfor ligger han så meget op på LinkedIn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1768.0,
       "end": 1770.0,
       "text": " Jamen, det er rigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1773.0,
       "end": 1777.0,
       "text": " Lad os trække den over i en anden måde, hvorpå man kan lave autentisk indhold,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1777.0,
       "end": 1779.0,
       "text": " som jeg har valgt bare at kalde personlighed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1779.0,
       "end": 1782.0,
       "text": " Og det er, fordi jeg har sådan en hypotese, som jeg vil kalde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1782.0,
       "end": 1784.0,
       "text": " people are the new brands.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1784.0,
       "end": 1787.0,
       "text": " Og det er også en af de ting, jeg faktisk kom ind på på min præsentation til Marketing Bios,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1787.0,
       "end": 1789.0,
       "text": " som jeg var underbygget på nogle måder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1789.0,
       "end": 1791.0,
       "text": " Men jeg tror rigtig meget på, at i gamle dage,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1791.0,
       "end": 1794.0,
       "text": " og hvis vi snakker gamle dage, lad os sige sådan 30, 40, 50 år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1794.0,
       "end": 1798.0,
       "text": " det vil sige før vi to var her, i hvert fald hvis det er 50, 40 år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1798.0,
       "end": 1804.0,
       "text": " der kunne man etablere brands ved bare at bruge enormt effektiv og underkommercialiserede massemarketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1804.0,
       "end": 1806.0,
       "text": " som især tv og radio.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1806.0,
       "end": 1810.0,
       "text": " Altså hvis man ser på, hvad tv-annoncering kostede i 1960'erne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1810.0,
       "end": 1813.0,
       "text": " for eksempel i forhold til i dag, selv hvis du inflationsjusterer det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1813.0,
       "end": 1816.0,
       "text": " så var det enormt meget billigere, og det var meget mere effektivt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1816.0,
       "end": 1819.0,
       "text": " Det var billigere, fordi folk havde ikke fattet, hvor meget det var værd,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1819.0,
       "end": 1822.0,
       "text": " og det var mere effektivt, fordi det var den eneste måde, du kunne lave annoncering på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1822.0,
       "end": 1824.0,
       "text": " men du havde så også, altså der var lidt aviser, ja ja,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1824.0,
       "end": 1827.0,
       "text": " men det var måden, hvorpå du opbyggede brand, det var tv-annoncering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1827.0,
       "end": 1830.0,
       "text": " men du havde også hele nationer, der bare sad på fjernsynet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1830.0,
       "end": 1833.0,
       "text": " Altså du kunne ikke second screen på din mobiltelefon i 1960,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1833.0,
       "end": 1836.0,
       "text": " for du fik bare en umatchet opmærksomhed derinde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1836.0,
       "end": 1840.0,
       "text": " Så det var billigt og effektivt, og så kunne du virkelig bare opbygge nogle brands på den måde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1840.0,
       "end": 1844.0,
       "text": " Altså det er bare Dr. Smoke Camel, og så bare 110 i timen fremad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1844.0,
       "end": 1846.0,
       "text": " og så kommer det til at virke for dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1846.0,
       "end": 1848.0,
       "text": " Og det kan man jo ikke rigtig gøre længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1848.0,
       "end": 1851.0,
       "text": " Men hvis man ser på de brands, der bliver opbygget i dag,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1851.0,
       "end": 1854.0,
       "text": " de bliver jo opbygget via internettet, de bliver opbygget via sociale medier,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1854.0,
       "end": 1856.0,
       "text": " men det er jo ikke virksomheder.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1856.0,
       "end": 1861.0,
       "text": " Altså hvis du tænker på de største brands- eller kulturfænomener de sidste år online,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1861.0,
       "end": 1863.0,
       "text": " hvem vil du tænke på?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1863.0,
       "end": 1865.0,
       "text": " Jeg vil sige Mr. Beast.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1865.0,
       "end": 1866.0,
       "text": " Oplagt kandidat.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1866.0,
       "end": 1867.0,
       "text": " Selvfølgelig, mand.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1867.0,
       "end": 1870.0,
       "text": " Verdens mest fulde YouTube-konto.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1870.0,
       "end": 1872.0,
       "text": " Vi kan komme ud om Elon Musk.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1872.0,
       "end": 1873.0,
       "text": " Elon Musk.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1873.0,
       "end": 1876.0,
       "text": " Lad os sige PewDiePie på YouTube.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1876.0,
       "end": 1880.0,
       "text": " Kendrick Lamar til NFL.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1880.0,
       "end": 1882.0,
       "text": " Ja, også ham.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1882.0,
       "end": 1885.0,
       "text": " Der er jo vildt mange eksempler på det, jeg tror.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1885.0,
       "end": 1887.0,
       "text": " Dem, man ser i Danmark i høj grad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1887.0,
       "end": 1889.0,
       "text": " altså det er jo mange af dem, som vi tidligere,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1889.0,
       "end": 1891.0,
       "text": " nogen af os gjorde det klint med over YouTuber.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1891.0,
       "end": 1894.0,
       "text": " Altså de har jo bygget en ekstremt stor følgeskade-community op,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1894.0,
       "end": 1897.0,
       "text": " og så har de lavet et kommercielt bagefter.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1897.0,
       "end": 1899.0,
       "text": " Mønsterfælgen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1899.0,
       "end": 1901.0,
       "text": " Og der snakker vi jo ikke om AdFace-eksperten.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1901.0,
       "end": 1902.0,
       "text": " Hvor er det mønster, der er?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1902.0,
       "end": 1903.0,
       "text": " Nej, nej, nej.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1903.0,
       "end": 1905.0,
       "text": " Vi snakker om YouTuber'en.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1905.0,
       "end": 1908.0,
       "text": " De laver stadigvæk content og lukker folk ind,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1908.0,
       "end": 1911.0,
       "text": " men de er også super dygtige til at kommerciere det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1911.0,
       "end": 1914.0,
       "text": " Du foreslog mig et eller andet med en, der hedder Rasmus Søndergaard for nylig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1914.0,
       "end": 1916.0,
       "text": " og så sagde jeg, hvem er det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1916.0,
       "end": 1918.0,
       "text": " Så gik jeg ind og tjekkede, og jeg kan konstatere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1918.0,
       "end": 1920.0,
       "text": " at jeg er den eneste i Danmark, der ikke vidste det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1922.0,
       "end": 1924.0,
       "text": " Ja, Danmarks største streamer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1924.0,
       "end": 1926.0,
       "text": " Men jeg tror ekstremt meget på det der at bygge en personlighed op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1926.0,
       "end": 1928.0,
       "text": " og så bygger du dit brand op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1928.0,
       "end": 1930.0,
       "text": " og så er det rigtig nemt at afsætte produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1930.0,
       "end": 1931.0,
       "text": " Beast er et godt eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1931.0,
       "end": 1933.0,
       "text": " Selvfølgelig nok det bedste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1933.0,
       "end": 1935.0,
       "text": " Men der er rigtig, rigtig mange eksempler på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1935.0,
       "end": 1937.0,
       "text": " også i mindre grad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1937.0,
       "end": 1939.0,
       "text": " hvor en person affører et salg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1939.0,
       "end": 1941.0,
       "text": " Det tror jeg nemlig også på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1941.0,
       "end": 1943.0,
       "text": " Og hvis man lige skal vende tilbage til noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1943.0,
       "end": 1945.0,
       "text": " vi snakkede om tidligere i form af UGC'en.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1945.0,
       "end": 1947.0,
       "text": " UGC kan virke fantastisk godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1947.0,
       "end": 1949.0,
       "text": " men det kræver bare, at du kender personen til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1949.0,
       "end": 1951.0,
       "text": " Hvis man skal tage et godt eksempel på det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1951.0,
       "end": 1953.0,
       "text": " så lad os tage Joe Rogan i USA.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1953.0,
       "end": 1955.0,
       "text": " Hvis podcast jo er det mest populære podcast i hele verden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1955.0,
       "end": 1957.0,
       "text": " og mere populære end mange tv-stationer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1957.0,
       "end": 1959.0,
       "text": " der er nogle, der siger, at det var ham, der vandt Trump",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1959.0,
       "end": 1961.0,
       "text": " det amerikanske valg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1961.0,
       "end": 1963.0,
       "text": " Jeg ved ikke, er det svært at modbevise eller bevise,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1963.0,
       "end": 1965.0,
       "text": " men jeg tror i hvert fald, det havde en impact.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1965.0,
       "end": 1967.0,
       "text": " Det havde en impact, det må man bare sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1967.0,
       "end": 1971.0,
       "text": " Hvis jeg lytter til et podcast med ham,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1971.0,
       "end": 1973.0,
       "text": " og han anbefaler et produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1973.0,
       "end": 1975.0,
       "text": " så er jeg tilbøjelig til at lytte til det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1975.0,
       "end": 1977.0,
       "text": " fordi jeg kender ham i forvejen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1977.0,
       "end": 1979.0,
       "text": " end hvis jeg ser en random ass Lennart på 54 på Fyn,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1979.0,
       "end": 1981.0,
       "text": " der anbefaler et samme produkt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1981.0,
       "end": 1983.0,
       "text": " i en UGC-video på Facebook.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1983.0,
       "end": 1985.0,
       "text": " Jeg tror faktisk ikke engang,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1985.0,
       "end": 1987.0,
       "text": " du behøver at stole på ham.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 1987.0,
       "end": 1989.0,
       "text": " Jeg ved ikke engang,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1989.0,
       "end": 1991.0,
       "text": " om det behøver at være, at du kender ham",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1991.0,
       "end": 1993.0,
       "text": " for noget positivt eller negativt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1993.0,
       "end": 1995.0,
       "text": " Hvis du virkelig ikke kan lide personen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1995.0,
       "end": 1997.0,
       "text": " er det nok ikke godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1997.0,
       "end": 1999.0,
       "text": " Du har et forhold, hvor du stoler på dem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1999.0,
       "end": 2001.0,
       "text": " og følger alt, hvad de siger religiøst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2001.0,
       "end": 2003.0,
       "text": " Du ved, at de er rigtige personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2003.0,
       "end": 2005.0,
       "text": " og du kender dem for noget andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2005.0,
       "end": 2007.0,
       "text": " Det er det, der skaber autenticiteten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2007.0,
       "end": 2009.0,
       "text": " hvis de anbefaler et produkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2009.0,
       "end": 2011.0,
       "text": " Et andet sjovt eksempel på det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2011.0,
       "end": 2013.0,
       "text": " det er Brian Johnson og hele hans...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2013.0,
       "end": 2015.0,
       "text": " Det står ikke engang i noterne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2015.0,
       "end": 2017.0,
       "text": " og jeg sidder og googler Brian Johnson,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2017.0,
       "end": 2019.0,
       "text": " for at finde hans webshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2019.0,
       "end": 2021.0,
       "text": " Jeg er helt enig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2021.0,
       "end": 2023.0,
       "text": " Brian Johnson er et fantastisk eksempel på det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2023.0,
       "end": 2025.0,
       "text": " og til folk, der ikke ved, hvem det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2025.0,
       "end": 2027.0,
       "text": " han stiftede et virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2027.0,
       "end": 2029.0,
       "text": " der hedder Braintree,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2029.0,
       "end": 2031.0,
       "text": " og han opkøbte Venmo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2031.0,
       "end": 2033.0,
       "text": " og så solgte han det hele til PayPal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2033.0,
       "end": 2035.0,
       "text": " og der fik han 400-500 millioner dollars ud af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2035.0,
       "end": 2037.0,
       "text": " Så han gik i gang med at stifte",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2037.0,
       "end": 2039.0,
       "text": " den her Don't Die-bevægelse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2039.0,
       "end": 2041.0,
       "text": " og der kom faktisk en Netflix-dokumentar om det for nyligt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2041.0,
       "end": 2043.0,
       "text": " som jeg tror faktisk hedder Don't Die,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2043.0,
       "end": 2045.0,
       "text": " som handler om, at han bruger sig selv",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2045.0,
       "end": 2047.0,
       "text": " som human guinea pig i forhold til at finde ud af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2047.0,
       "end": 2049.0,
       "text": " hvordan forlænger vi livet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2049.0,
       "end": 2051.0,
       "text": " Så han lever ekstremt sundt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2051.0,
       "end": 2053.0,
       "text": " og ekstremt i den mest ekstreme forstand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2053.0,
       "end": 2055.0,
       "text": " og det er enormt fascinerende at følge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2055.0,
       "end": 2057.0,
       "text": " Jeg har fulgt ham på Twitter i nogle år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2057.0,
       "end": 2059.0,
       "text": " Det var rigtig sjovt, han skrev der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2059.0,
       "end": 2061.0,
       "text": " at det var en af årsagerne til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2061.0,
       "end": 2063.0,
       "text": " at han faktisk har lavet sin egen serie",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2063.0,
       "end": 2065.0,
       "text": " af kosttilskud og morgenmad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2065.0,
       "end": 2067.0,
       "text": " man kan købe og sådan nogle ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2067.0,
       "end": 2069.0,
       "text": " Ja, Blueprint.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2069.0,
       "end": 2071.0,
       "text": " Ja, Blueprint, lige præcis.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2071.0,
       "end": 2073.0,
       "text": " Så kan man købe nogle forskellige ting der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2073.0,
       "end": 2075.0,
       "text": " Men jeg læste et interview med ham,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2075.0,
       "end": 2077.0,
       "text": " hvor folk spurgte, hvorfor gjorde du det egentlig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2077.0,
       "end": 2079.0,
       "text": " Og så sagde jeg, at jeg lagde et blogpost op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2079.0,
       "end": 2081.0,
       "text": " hvor jeg bare linkede til Amazon og sagde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2081.0,
       "end": 2083.0,
       "text": " at det her er de produkter, jeg køber.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2083.0,
       "end": 2085.0,
       "text": " Så gik der omkring en halv time,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2085.0,
       "end": 2087.0,
       "text": " og han kunne faktisk ikke engang selv købe dem længere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2087.0,
       "end": 2089.0,
       "text": " Fordi der var så mange, der fulgte ham",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2089.0,
       "end": 2091.0,
       "text": " og stolede på ham. Så i det øjeblik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2091.0,
       "end": 2093.0,
       "text": " han lagde et link op til Amazon, så ryddede de bare",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2093.0,
       "end": 2095.0,
       "text": " lageret flere måneder frem og sagde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2095.0,
       "end": 2097.0,
       "text": " jeg kan godt se, at jeg har et audience.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2097.0,
       "end": 2099.0,
       "text": " Jeg kan hjælpe folk med at få noget bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2099.0,
       "end": 2101.0,
       "text": " Det kan være, at jeg kan lave en forretning ud af det her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2101.0,
       "end": 2103.0,
       "text": " på et eller andet tidspunkt. Og jeg synes bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2103.0,
       "end": 2105.0,
       "text": " at det er et fedt eksempel på, at en eller anden",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2105.0,
       "end": 2107.0,
       "text": " random UGC-annonce med det samme produkt på Amazon",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2107.0,
       "end": 2109.0,
       "text": " havde ikke gjort noget, men fordi det er en person,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2109.0,
       "end": 2111.0,
       "text": " du kender i forvejen, som har en smule topical authority,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2112.0,
       "end": 2114.0,
       "text": " så han er et mere effektivt longevity brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2114.0,
       "end": 2116.0,
       "text": " end nogen virksomhed nogensinde kan være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2121.0,
       "end": 2123.0,
       "text": " Hvordan kan man så bruge det her i praksis?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2123.0,
       "end": 2125.0,
       "text": " En ting er selvfølgelig, at man ikke skal være",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2125.0,
       "end": 2127.0,
       "text": " bange for at være personlig afsender og sætte en person fremad.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2127.0,
       "end": 2129.0,
       "text": " Og jeg er med på, hvis man er en stor BSOB-virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2129.0,
       "end": 2131.0,
       "text": " der sælger stol, og har 600 medarbejdere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2131.0,
       "end": 2133.0,
       "text": " på tværs af hele verden. Ja, det er sværere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2133.0,
       "end": 2135.0,
       "text": " Men det er også sværere for alle dine konkurrenter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2135.0,
       "end": 2137.0,
       "text": " Så man må prøve at se, om det ikke kan lade sig gøre alligevel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2137.0,
       "end": 2139.0,
       "text": " Det er ret nemt for os.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2139.0,
       "end": 2141.0,
       "text": " Vi har ikke én person i Obsidian.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2141.0,
       "end": 2143.0,
       "text": " Vi vil gerne have mange personer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2143.0,
       "end": 2145.0,
       "text": " Jeg fylder en god chat, du fylder en god chat, Morten.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2145.0,
       "end": 2147.0,
       "text": " Det har vi mange kollegaer, der også gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2147.0,
       "end": 2149.0,
       "text": " Og jeg tror, det er en af vores største styrker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2149.0,
       "end": 2151.0,
       "text": " Jeg tror, det er en af årsagerne til, at vi i Obsidian",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2151.0,
       "end": 2153.0,
       "text": " ikke har noget salgspersonale ansat.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2153.0,
       "end": 2155.0,
       "text": " Jeg tror, vi har den mest attraktive ratio",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2155.0,
       "end": 2157.0,
       "text": " af eksekverende til salgsfolk",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2157.0,
       "end": 2159.0,
       "text": " i hele den danske byråbranche.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2159.0,
       "end": 2161.0,
       "text": " Fordi vi har ikke nogen dedikerede sælgere ansat.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2161.0,
       "end": 2163.0,
       "text": " Og det er jo, fordi folk kommer, fordi de har lært os.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2163.0,
       "end": 2165.0,
       "text": " Og kender forhåbentlig gerne vil arbejde sammen med os",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2165.0,
       "end": 2167.0,
       "text": " og har et bud på, hvordan vi kan hjælpe dem.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2169.0,
       "end": 2171.0,
       "text": " Og det handler også om organisationsforbragelse.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2171.0,
       "end": 2173.0,
       "text": " Altså det der med, hvis I sidder i en virksomhed,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2173.0,
       "end": 2175.0,
       "text": " der ikke gør det nu.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2175.0,
       "end": 2177.0,
       "text": " Der skal være én eller to, der driver den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2177.0,
       "end": 2179.0,
       "text": " Og så skal de andre nok lidt følge med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2179.0,
       "end": 2181.0,
       "text": " Det handler om den der positive kulturændring.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2181.0,
       "end": 2183.0,
       "text": " Ligesom at man ikke ser skævt til folk, der laver",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2183.0,
       "end": 2185.0,
       "text": " længe indomslag til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2185.0,
       "end": 2187.0,
       "text": " Netop. Men også det der med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2187.0,
       "end": 2189.0,
       "text": " jeg kan huske, da jeg startede, og det tror jeg måske lige nødvendigvis",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2189.0,
       "end": 2191.0,
       "text": " jeg har sagt superhøjt før, men der var det meget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2191.0,
       "end": 2193.0,
       "text": " på grund af dig. Så det var jeg meget sådan en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2193.0,
       "end": 2195.0,
       "text": " okay, hvad gør Halvstand? Så gør jeg det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2195.0,
       "end": 2197.0,
       "text": " Men det er fedt. Så virkede det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2197.0,
       "end": 2199.0,
       "text": " Ja, og jeg tænker, jeg er ikke den eneste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2199.0,
       "end": 2201.0,
       "text": " Og så er det måske andre, der har set, okay, jeg har haft det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2201.0,
       "end": 2203.0,
       "text": " Det er en anden, jeg har set op til inden i Opsidan.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2203.0,
       "end": 2205.0,
       "text": " Så gør de det der. Jamen, så gør jeg det også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2205.0,
       "end": 2207.0,
       "text": " Og det er slet ikke så skræmmende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2207.0,
       "end": 2209.0,
       "text": " Og det er da fedt. Og jeg tror bare, der er noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2209.0,
       "end": 2211.0,
       "text": " der hedder, man skal virkelig embrace det, men også",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2211.0,
       "end": 2213.0,
       "text": " have lidt nogle forbilleder for det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2213.0,
       "end": 2215.0,
       "text": " I enhver virksomhed skal der være",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2215.0,
       "end": 2217.0,
       "text": " nogle kulturbærere. Det er jo ikke anderledes fra en fodboldklub.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2217.0,
       "end": 2219.0,
       "text": " Altså, FCK har spillet som en sæt kartofler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2219.0,
       "end": 2221.0,
       "text": " da Thomas Delaney forlod os. Og det er jo ikke fordi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2221.0,
       "end": 2223.0,
       "text": " at vi ikke kunne afstatte hans tekniske kompetencer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2223.0,
       "end": 2225.0,
       "text": " men han var bare en leder på banen, som manglede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2225.0,
       "end": 2227.0,
       "text": " efterfølgende. Og nu har vi fået ham tilbage,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2227.0,
       "end": 2229.0,
       "text": " så vi vinder det danske mesterskab.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2229.0,
       "end": 2231.0,
       "text": " Men jeg tror også på, at der skal være nogen, der tør",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2231.0,
       "end": 2233.0,
       "text": " gå fremad, og så skal man bare understøtte det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2233.0,
       "end": 2235.0,
       "text": " og skabe den der positive kultur for det i virksomheden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2235.0,
       "end": 2237.0,
       "text": " Og så ved jeg, at der er nogen, der sidder og tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2237.0,
       "end": 2239.0,
       "text": " men hvad hvis vi bygger en person op?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2239.0,
       "end": 2241.0,
       "text": " Og ved ikke, om den så endda ikke er her længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2241.0,
       "end": 2243.0,
       "text": " Og det er jo en del af risikoen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2243.0,
       "end": 2245.0,
       "text": " Det bedste svar, man så kan sige, er, hvad hvis du ikke gør,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2245.0,
       "end": 2247.0,
       "text": " og det bliver?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2247.0,
       "end": 2249.0,
       "text": " Det er selvfølgelig også ikke et bedre sted.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2249.0,
       "end": 2251.0,
       "text": " Så på en eller anden måde, så er du tvunget til",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2251.0,
       "end": 2253.0,
       "text": " nogle gange at tage et sats med nogle personer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2253.0,
       "end": 2255.0,
       "text": " Og så, altså, reap the benefits,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2255.0,
       "end": 2257.0,
       "text": " så længe du kan det. Og det er også sådan, jeg har det med",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2257.0,
       "end": 2259.0,
       "text": " Linkedins nyhedsbrev. Jeg ved,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2259.0,
       "end": 2261.0,
       "text": " det kommer ikke til at virke lige så godt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2261.0,
       "end": 2263.0,
       "text": " Altså, det bliver ikke ved med at virke lige så godt, som det gør lige nu.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2263.0,
       "end": 2265.0,
       "text": " Det virker for godt. Og det siger jeg til alle personer, brug det nu.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2265.0,
       "end": 2267.0,
       "text": " Fordi det virker simpelthen for godt, det her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2267.0,
       "end": 2269.0,
       "text": " Og den dag, det ikke virker længere, fordi at",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2269.0,
       "end": 2271.0,
       "text": " alle marketers, de har begyndt at misbruge det,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2271.0,
       "end": 2273.0,
       "text": " så Linkedin var nødt til at nøffe algoritmen",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2273.0,
       "end": 2275.0,
       "text": " og ikke give os den samme rækkevidde, som vi har lige nu.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2275.0,
       "end": 2277.0,
       "text": " Så vil jeg i hvert fald sove godt velviden,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2277.0,
       "end": 2279.0,
       "text": " at jeg udnyttede det så meget, som jeg overhovedet kunne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2279.0,
       "end": 2281.0,
       "text": " indtil det skete. Og det synes jeg er den sådan tilgang,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2281.0,
       "end": 2283.0,
       "text": " man skal have til det her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2283.0,
       "end": 2285.0,
       "text": " Hvis der er en medarbejder, der smutter sig, som man har oplært i",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2285.0,
       "end": 2287.0,
       "text": " at være rigtig, rigtig out there,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2287.0,
       "end": 2289.0,
       "text": " jeg tror, det er tilbage til organisationen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2289.0,
       "end": 2291.0,
       "text": " Fordi hvis en medarbejder hopper over til en organisation,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2291.0,
       "end": 2293.0,
       "text": " hvor man ikke er vant til det, så skal enten",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2293.0,
       "end": 2295.0,
       "text": " den medarbejder skubbe den hele fremad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2295.0,
       "end": 2297.0,
       "text": " selv den agenda, eller bare tilpasse sig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2297.0,
       "end": 2299.0,
       "text": " Og jeg tror, at højebrænden tilpasser sig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2299.0,
       "end": 2301.0,
       "text": " end går ind og laver radikale ændringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2301.0,
       "end": 2303.0,
       "text": " Det er meget få, der gør det, i hvert fald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2303.0,
       "end": 2305.0,
       "text": " Så jeg tror, det er dermed, selv hvis I oplærer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2305.0,
       "end": 2307.0,
       "text": " den personlige, hvis de kommer over til en virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2307.0,
       "end": 2309.0,
       "text": " jo, der er en chance, fordi de genbruger det,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2309.0,
       "end": 2311.0,
       "text": " eller tager de læringer med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2311.0,
       "end": 2313.0,
       "text": " Men det er det jo med alt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2313.0,
       "end": 2315.0,
       "text": " Om det er for leadership, eller det er, at du har blevet bedre til revision,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2315.0,
       "end": 2317.0,
       "text": " eller kreativ budskaber,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2317.0,
       "end": 2319.0,
       "text": " eller økonomi.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2319.0,
       "end": 2321.0,
       "text": " Det er jo alt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2321.0,
       "end": 2323.0,
       "text": " Det er vildkornet, for rent faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2323.0,
       "end": 2325.0,
       "text": " at drive en virksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2325.0,
       "end": 2327.0,
       "text": " Jeg tror, jeg læste et sjovt interview med en direktør",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2327.0,
       "end": 2329.0,
       "text": " i en stor dansk virksomhed, Børsen, der sagde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2329.0,
       "end": 2331.0,
       "text": " at vildkornet ved at arbejde i Kina,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2331.0,
       "end": 2333.0,
       "text": " det er, at dine kinesiske medarbejdere stjæler dine hemmeligheder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2333.0,
       "end": 2335.0,
       "text": " og sælger dem til staten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2335.0,
       "end": 2337.0,
       "text": " Og vildkornet ved at arbejde i professional services,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2337.0,
       "end": 2339.0,
       "text": " det er, at hvis du bygger et brand op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2339.0,
       "end": 2341.0,
       "text": " så skal du prøve at holde på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2341.0,
       "end": 2343.0,
       "text": " Det lyder meget sådan en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2343.0,
       "end": 2345.0,
       "text": " men sådan er der jo så meget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2345.0,
       "end": 2347.0,
       "text": " Ja, men sådan er der jo så meget.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2347.0,
       "end": 2349.0,
       "text": " Ni hao, så må vi jo fortsætte at bygge op igen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2349.0,
       "end": 2351.0,
       "text": " Hvordan kan man rent faktisk",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2351.0,
       "end": 2353.0,
       "text": " bruge det her med People are the New Brands?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2353.0,
       "end": 2355.0,
       "text": " Hvordan opbygger man det i praksis?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2355.0,
       "end": 2357.0,
       "text": " Der er to lavpraktiske tips, jeg vil nævne her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2357.0,
       "end": 2359.0,
       "text": " Det ene er, at LinkedIn har et format, der hedder",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2359.0,
       "end": 2361.0,
       "text": " Thought Leader Ads.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2361.0,
       "end": 2363.0,
       "text": " Morten, det er jo en af vores store uenigheder, det her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2363.0,
       "end": 2365.0,
       "text": " Det er, hvor mange penge, vi skal bruge på LinkedIn.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2365.0,
       "end": 2367.0,
       "text": " Du vil gerne have, at vi skal bruge flere penge, end jeg vil.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2367.0,
       "end": 2369.0,
       "text": " Jeg synes, deres annonceværktøj er for dårligt til at bruge noget overhovedet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2369.0,
       "end": 2371.0,
       "text": " Men der, hvor vi kan mødes på neutral grund,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2371.0,
       "end": 2373.0,
       "text": " og hvor vi begge to er enige, det er",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2373.0,
       "end": 2375.0,
       "text": " Thought Leader Ads.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2375.0,
       "end": 2377.0,
       "text": " Hvad er Thought Leader Ads til dem, der ikke kender det?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2377.0,
       "end": 2379.0,
       "text": " Ja, men i teorien, hvis jeg skal",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2379.0,
       "end": 2381.0,
       "text": " række det bedst muligt ned,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2383.0,
       "end": 2385.0,
       "text": " jeg går ind og siger, halvstand, det vil jeg gerne",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2385.0,
       "end": 2387.0,
       "text": " booste ud, annoncere ud til en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2387.0,
       "end": 2389.0,
       "text": " bestemt målgruppe,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2389.0,
       "end": 2391.0,
       "text": " og så gør jeg det. Jeg bruger halvstands posts som en annonce.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2391.0,
       "end": 2393.0,
       "text": " Den eneste lille ting, der kommer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2393.0,
       "end": 2395.0,
       "text": " det er, at jeg lige står op i bunden af det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2395.0,
       "end": 2397.0,
       "text": " med meget små strifter, som Sponsored by Obsidian.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2397.0,
       "end": 2399.0,
       "text": " Men det er egentlig,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2399.0,
       "end": 2401.0,
       "text": " at jeg bruger det originale post som annonce.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2401.0,
       "end": 2403.0,
       "text": " Du laver stadigvæk alt det kampagnetekniske.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2403.0,
       "end": 2405.0,
       "text": " Audience og så videre.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2405.0,
       "end": 2407.0,
       "text": " Du bruger bare postet som annonce",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2407.0,
       "end": 2409.0,
       "text": " i stedet for en annonce-annonce.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2409.0,
       "end": 2411.0,
       "text": " Jeg har noget statistik",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2411.0,
       "end": 2413.0,
       "text": " fra LinkedIn, der siger, at i gennemsnit",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2413.0,
       "end": 2415.0,
       "text": " får man en 2,7 gange højere click-through rate",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2415.0,
       "end": 2417.0,
       "text": " af at bruge en personlig afsender, end man gør,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2417.0,
       "end": 2419.0,
       "text": " hvis det er en virksomhed, som afsender.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2419.0,
       "end": 2421.0,
       "text": " Jeg tror, det er lavt sat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2421.0,
       "end": 2423.0,
       "text": " Jeg tror faktisk, LinkedIn undersælger den der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2423.0,
       "end": 2425.0,
       "text": " Vi har set resultater, der hedder 3, 4, 5, 6",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2425.0,
       "end": 2427.0,
       "text": " gange højere ved en personlig afsender, end hvis",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2427.0,
       "end": 2429.0,
       "text": " det er virksomheden, som afsender.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2429.0,
       "end": 2431.0,
       "text": " Jeg tror, der ligger noget i, at det måske er",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2431.0,
       "end": 2433.0,
       "text": " lidt konservativt, og det er det sikkert gode grund til at være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2433.0,
       "end": 2435.0,
       "text": " Men jeg tror også, der ligger noget, som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2435.0,
       "end": 2437.0,
       "text": " allerede er nok et par enkelte ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2437.0,
       "end": 2439.0,
       "text": " Det handler også om, hvem personen er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2439.0,
       "end": 2441.0,
       "text": " Ja, det er klart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2441.0,
       "end": 2443.0,
       "text": " Det kan man bare ikke undervære.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2443.0,
       "end": 2445.0,
       "text": " Nej. Og den anden ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2445.0,
       "end": 2447.0,
       "text": " det er, hvis man primært annoncerer på Mesa,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2447.0,
       "end": 2449.0,
       "text": " Facebook og Instagram, de har ikke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2449.0,
       "end": 2451.0,
       "text": " thoughtleaders, det gad jeg rigtig godt, at de havde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2451.0,
       "end": 2453.0,
       "text": " Men de har en anden mulighed. Du kan jo simpelthen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2453.0,
       "end": 2455.0,
       "text": " oprette en side, der hedder dit navn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2455.0,
       "end": 2457.0,
       "text": " Så hvis man f.eks. søger på Facebook efter",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2457.0,
       "end": 2459.0,
       "text": " halvten tim, så vil man finde to profiler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2459.0,
       "end": 2461.0,
       "text": " Man vil finde min, og så vil man finde en side,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2461.0,
       "end": 2463.0,
       "text": " der hedder det samme. Og sidens eneste",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2463.0,
       "end": 2465.0,
       "text": " formål, det er at være afsender på",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2465.0,
       "end": 2467.0,
       "text": " annoncer, som jeg reelt er afsender på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2467.0,
       "end": 2469.0,
       "text": " Så hvis jeg afholder et webinar,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2469.0,
       "end": 2471.0,
       "text": " så vil jeg bruge halvten tim som afsender,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2471.0,
       "end": 2473.0,
       "text": " i stedet for at opsige den digital. Hvis jeg har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2473.0,
       "end": 2475.0,
       "text": " et kursus, jeg gerne vil sælge, som jeg",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2475.0,
       "end": 2477.0,
       "text": " af oplægsholder på, eller holder oplæg",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2477.0,
       "end": 2479.0,
       "text": " til en konference, eller",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2479.0,
       "end": 2481.0,
       "text": " hvis jeg laver Facebook-annoncer til marketingpot,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2481.0,
       "end": 2483.0,
       "text": " så bruger jeg den her side som afsender.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2483.0,
       "end": 2485.0,
       "text": " Og der kan vi også bare se, at det gør en stor forskel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2485.0,
       "end": 2487.0,
       "text": " Og det har intet at gøre med,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2487.0,
       "end": 2489.0,
       "text": " om folk kender mig i forvejen. Det handler",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2489.0,
       "end": 2491.0,
       "text": " ene og alene om, at det ikke er en kommersiel",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2491.0,
       "end": 2493.0,
       "text": " afsender, det er ikke en virksomhed.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2493.0,
       "end": 2495.0,
       "text": " I det øjeblik, du genkender",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2495.0,
       "end": 2497.0,
       "text": " en afsender som en virksomhed, så er der bare noget",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2497.0,
       "end": 2499.0,
       "text": " banner blindness, eller noget advertik, der træder ind,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2499.0,
       "end": 2501.0,
       "text": " og så forholder folk sig ikke engang til",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2501.0,
       "end": 2503.0,
       "text": " budskabet. Så det er en måde lige at",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2503.0,
       "end": 2505.0,
       "text": " omgå den første barriere i forhold til,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2505.0,
       "end": 2507.0,
       "text": " at folk overhovedet skal læse dit post.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2507.0,
       "end": 2509.0,
       "text": " Derfor at det ser mere personligt ud.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2509.0,
       "end": 2511.0,
       "text": " Så en side som personlig afsender,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2511.0,
       "end": 2513.0,
       "text": " det har i mange år at sæde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2513.0,
       "end": 2515.0,
       "text": " i det med en yndlingshacks til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2515.0,
       "end": 2517.0,
       "text": " at forbedre performance hos vores kunder, når jeg får",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2517.0,
       "end": 2519.0,
       "text": " lov til at lave den. Og hvis det er,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2519.0,
       "end": 2521.0,
       "text": " at man føler, at det er lige grænsen",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2521.0,
       "end": 2523.0,
       "text": " at oprette en personlig afsender, for det er",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2523.0,
       "end": 2525.0,
       "text": " så godt, hvis man ikke gider have en personlig",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2525.0,
       "end": 2527.0,
       "text": " facebookside udlukkende til fæssende formål.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2527.0,
       "end": 2529.0,
       "text": " Så er det den måde,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2529.0,
       "end": 2531.0,
       "text": " altså du kan godt lave et handshake, og nu har",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2531.0,
       "end": 2533.0,
       "text": " jeg glemt min dansk oversættelse, men hvor du",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2533.0,
       "end": 2535.0,
       "text": " rent faktisk siger, halvfanden tim",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2535.0,
       "end": 2537.0,
       "text": " og opsig den digital.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2537.0,
       "end": 2539.0,
       "text": " Så den",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2539.0,
       "end": 2541.0,
       "text": " danske indstilling kan i godt huske.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2541.0,
       "end": 2543.0,
       "text": " Jeg sidder og tænker, er det en kollaboratør,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2543.0,
       "end": 2545.0,
       "text": " eller sådan noget? Det lyder som et eller andet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2545.0,
       "end": 2547.0,
       "text": " Ja, det lyder som et eller andet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2547.0,
       "end": 2549.0,
       "text": " Vi finder det på en ångstniveau. Vi gør det faktisk for",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2549.0,
       "end": 2551.0,
       "text": " en af vores fashion kunder, hvor",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 2551.0,
       "end": 2553.0,
       "text": " kunderne er meget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2553.0,
       "end": 2555.0,
       "text": " out there, og de vil gerne bruge deres",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2555.0,
       "end": 2557.0,
       "text": " personlige profil som slet en creator",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2557.0,
       "end": 2559.0,
       "text": " til at bruge hver egen produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2559.0,
       "end": 2561.0,
       "text": " Så der går vi ind og siger x-brand og",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2561.0,
       "end": 2563.0,
       "text": " x-person. Det er jo en mellemting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2563.0,
       "end": 2565.0,
       "text": " Jeg ved godt, at det ikke er det samme som en 100%",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2565.0,
       "end": 2567.0,
       "text": " personlig afsender, men det der med, at der er en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2567.0,
       "end": 2569.0,
       "text": " personlig profil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2569.0,
       "end": 2571.0,
       "text": " der sætter snavn på en annonce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2571.0,
       "end": 2573.0,
       "text": " altså så er kvalitetsstemperet også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2573.0,
       "end": 2575.0,
       "text": " Altså når du bruger din private Instagram.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2575.0,
       "end": 2577.0,
       "text": " Så det er langt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2577.0,
       "end": 2579.0,
       "text": " Og det fungerer også, det samme som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2579.0,
       "end": 2581.0,
       "text": " et creator, eller hvad er det, Sparget, TikTok og så videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2581.0,
       "end": 2583.0,
       "text": " Så der er mange veje til Rom.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2583.0,
       "end": 2585.0,
       "text": " Det er der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2585.0,
       "end": 2587.0,
       "text": " Morten, jeg vil sige tak, fordi du havde lyst til at være med i en episode",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2587.0,
       "end": 2589.0,
       "text": " med MarketingPod. Hvis folk synes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2589.0,
       "end": 2591.0,
       "text": " at det her var fedt, så vil jeg sige, at man skulle gerne",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2591.0,
       "end": 2593.0,
       "text": " købe en billet til MarketingBio, men det er udsolgt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2593.0,
       "end": 2595.0,
       "text": " Så man skal i stedet for at gå ind og følge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2595.0,
       "end": 2597.0,
       "text": " os på LinkedIn, så man kan få",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2597.0,
       "end": 2599.0,
       "text": " short form, video, memes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2599.0,
       "end": 2601.0,
       "text": " employee generated content og alt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2601.0,
       "end": 2603.0,
       "text": " imellem. Og så vil jeg sige tusind tak til dig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2603.0,
       "end": 2605.0,
       "text": " der har lyttet med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2605.0,
       "end": 2607.0,
       "text": " Det er vi super glade for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2607.0,
       "end": 2609.0,
       "text": " Vi kigger på statistik for alle episoder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2609.0,
       "end": 2611.0,
       "text": " og der er i gennemsnit omkring 12-1500",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2611.0,
       "end": 2613.0,
       "text": " personer, der lytter med til hver episode af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2613.0,
       "end": 2615.0,
       "text": " MarketingPod, og det er vi bare sindssygt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2615.0,
       "end": 2617.0,
       "text": " stolte over og ydmyge over, og vi er glade for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2617.0,
       "end": 2619.0,
       "text": " at I har lyst til at bruge jeres tid sammen med os.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2619.0,
       "end": 2621.0,
       "text": " Så tusind tak for det. Glæder os til at lancere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2621.0,
       "end": 2623.0,
       "text": " næste episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

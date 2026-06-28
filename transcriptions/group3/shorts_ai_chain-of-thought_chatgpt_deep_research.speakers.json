@@ -9,1216 +9,1219 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A"
+      "Halfdan"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
       "text": " Hej og velkommen til dagens episode MarketingPod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2.0,
       "end": 8.0,
       "text": " Christian Tinho render stadig rundt nede i Vietnam og holder ferie, så jeg kommer til at køre den her korte episode selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 8.0,
       "end": 12.0,
       "text": " Derfor har jeg valgt et emne, som jeg synes er enormt interessant i digital marketing lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 22.0,
       "text": " Det vi kommer til at snakke om, det er de nye Chain of Thought modeller, som for eksempel O3 Mini fra OpenAI i ChatGPT og især Deep Research.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 22.0,
       "end": 28.0,
       "text": " Jeg har arbejdet en del med Deep Research, som er en ny funktion, der ligger i ChatGPT over den sidste uges tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 28.0,
       "end": 34.0,
       "text": " Den koster 200 dollars om måneden at have adgang til, og den kræver en amerikansk VPN, fordi den ikke er lanseret i Europa.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.0,
       "end": 39.0,
       "text": " Så der er sådan nogle små trin på vejen, men jeg har adgang, og jeg kommer til at vise, hvad modellen kan i den her episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 39.0,
       "end": 47.0,
       "text": " Når det er det her emne, som jeg samler op, så er det fordi udviklingen inden for AI nu går lige så stærkt, som den har gjort de sidste to år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 54.0,
       "text": " Måske endda endnu stærkere, og OpenAI har fornyeligt den 6. februar lanseret deres Deep Research-modul.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 55.0,
       "end": 62.0,
       "text": " Der er nogen, der mener, at det her kommer som et svar på, at Deep Seek, ikke at forveksle med Deep Search,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 62.0,
       "end": 70.0,
       "text": " men altså den her kinesiske udbyder, som lavede deres R1-model, kom på banen og fik Nvidia's aktiekurser til at falde helt vildt i slutningen af januar,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 70.0,
       "end": 75.0,
       "text": " da man fandt ud af, at man faktisk kan lave nogle virkelig gode modeller for meget mindre budget, end man har brugt i USA.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 75.0,
       "end": 79.0,
       "text": " I virkeligheden har Deep Research nok været på vej et stykke tid, men det er selvfølgelig svært at afvise,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 79.0,
       "end": 88.0,
       "text": " at OpenAI måske fik en lille smule mere travlt med at lansere modellen, da hele verdens fokus lige pludselig skiftede til Kina og Deep Seek.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 88.0,
       "end": 94.0,
       "text": " Men der er i virkeligheden to innovationer, der er værd at tale om, og jeg synes faktisk ikke, de får nok opmærksomhed i forhold til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.0,
       "end": 98.0,
       "text": " hvor interessante de er, særligt Deep Search-delen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 98.0,
       "end": 100.0,
       "text": " Men lad os starte et andet sted.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 100.0,
       "end": 105.0,
       "text": " OpenAI har også lanseret to andre modeller. Først O1 og nu O3.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 105.0,
       "end": 109.0,
       "text": " O3 har vi også fået som O3 Mini og O3 Mini High.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 109.0,
       "end": 114.0,
       "text": " Man kan sige meget om deres navngivning primært, at den er forfærdelig, men det er rigtig interessante modeller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 114.0,
       "end": 119.0,
       "text": " Det, der er interessant ved dem, det er, at de viser deres Chain of Thought, eller en Open Reasoning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 119.0,
       "end": 121.0,
       "text": " Og hvad betyder det så?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 121.0,
       "end": 127.0,
       "text": " Det betyder, at normalt, hvis du har brugt ChatGPT, så har du stillet den et spørgsmål, og så har du fået et svar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 127.0,
       "end": 134.0,
       "text": " Måske tog det lige et øjeblik for dig rent faktisk at få svaret, men du har ikke skulle vente i lang tid på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 134.0,
       "end": 140.0,
       "text": " og du har heller ikke kunne se de bagvedlæggende udregninger, eller de bagvedlæggende overvejelser i forhold til at få svaret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 143.0,
       "text": " Du har bare fået svaret fra din ChatGPT.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.0,
       "end": 150.0,
       "text": " Med Chain of Thought, så har du lige pludselig mulighed for at se, hvad der sker, når OpenAI forsøger at besvare et spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 157.0,
       "text": " Og jeg kan prøve at vise dig et eksempel på det her, hvis du ser med på YouTube, eller hvis du ser med på Spotify med video på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 157.0,
       "end": 161.0,
       "text": " Nu kommer jeg lige til at dele min skærm her, og spørger OpenAI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 161.0,
       "end": 166.0,
       "text": " Jeg har bare åbnet op for en chat her, og jeg har valgt O3 Mini High, som er den nyeste version.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 172.0,
       "text": " Nu stiller jeg et spørgsmål, som hedder, hvordan kan jeg forklare reasoning i de nyere modeller af OpenAI, som for eksempel O3 Mini High,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.0,
       "end": 175.0,
       "text": " i forhold til non-reasoning modeller som GPT 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 175.0,
       "end": 177.0,
       "text": " Det spørgsmål stiller jeg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 183.0,
       "text": " Det, man skal lægge mærke til, der sker på skærmen lige nu, det er, at OpenAI skriver reasoning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 183.0,
       "end": 188.0,
       "text": " Og nu kommer der lige pludselig noget information om, hvad det er, modellen overvejer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 193.0,
       "text": " Så der står, den skriver simpelthen, det er ikke det færdige prompt, jeg får nu, eller det færdige resultat,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 193.0,
       "end": 199.0,
       "text": " men ChatGPT skriver, the user asks about explaining reasoning in newer OpenAI models like, og så fortsætter den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 199.0,
       "end": 202.0,
       "text": " Jeg kan simpelthen se, hvad er det egentlig, modellen tænker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 202.0,
       "end": 208.0,
       "text": " Nu kommer der noget nyt på skærmen, hvor nu tænker den sådan videre, og den stiller sig selv nogle relevante spørgsmål,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 208.0,
       "end": 213.0,
       "text": " og den har nogle overvejelser i forhold til, hvad det er for et spørgsmål, jeg egentlig har stillet for at finde frem til det rigtige svar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 220.0,
       "text": " Og først nu, efter at der står reason for 32 seconds, får jeg rent faktisk et svar, som forklarer mig, hvad det handler om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 224.0,
       "text": " Det interessante her, det er, at den her chain of thought, den muliggør to ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 228.0,
       "text": " Den ene, det er, at jeg kan se de bagvedliggende overvejelser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 228.0,
       "end": 234.0,
       "text": " Så hvis jeg får et andet svar, eller noget, jeg vurderer, der er forkert, så kan jeg faktisk gå tilbage i min reasoning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 239.0,
       "text": " fordi jeg kan klikke på den, og så simpelthen se, hvad ChatGPT har overvejet for at komme frem til mit svar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 239.0,
       "end": 243.0,
       "text": " Og så kan jeg jo se, om der er noget af det her, der rent faktisk er forkert, og som jeg ønsker at clarify,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 243.0,
       "end": 246.0,
       "text": " eller gøre mere præcist i en ny prompt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 246.0,
       "end": 251.0,
       "text": " Den anden ting, den muliggør her, det er, at jeg oplever, at jeg får bedre svar fra ChatGPT,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 256.0,
       "text": " når den får lov til at reason sig frem til noget, når den simpelthen bruger længere tid på at generere svaret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 256.0,
       "end": 260.0,
       "text": " Jeg er sådan næsten blevet skeptisk ved, at når jeg skriver noget til ChatGPT og får svar med det samme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 263.0,
       "text": " så tænker jeg, hov, skulle du slet ikke tænke over det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 263.0,
       "end": 267.0,
       "text": " Fordi jeg oplever, at kvaliteten af svaret er så meget bedre, hvis den får lov til lige at tænke lidt over det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.0,
       "end": 271.0,
       "text": " og faktisk stille sig selv nogle spørgsmål til, hvad det er, jeg bærer om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 271.0,
       "end": 277.0,
       "text": " Den her chain of thought, eller reasoning, har man også i DeepSeeks R1-model,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 277.0,
       "end": 282.0,
       "text": " hvor man også kan se, at den rent faktisk tænker løbende, og så kommer frem til svaret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 282.0,
       "end": 287.0,
       "text": " Og det er enormt interessant at sidde og se, hvordan den rent faktisk kigger ind i fremtiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 287.0,
       "end": 292.0,
       "text": " Jeg føler, at jeg sidder og kigger ind i fremtiden, når jeg kan se en computermodel tænke over det spørgsmål,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 292.0,
       "end": 297.0,
       "text": " jeg har givet, overveje og søge mere information for at finde ud af, hvad der er det rigtige svar til mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 297.0,
       "end": 300.0,
       "text": " Det er helt futuristisk at kigge ind i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 304.0,
       "text": " Så det i sig selv er enormt interessant, og det gør, at man allerede nu kan få bedre svar på de prompts,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 304.0,
       "end": 309.0,
       "text": " man før bare ville have fået et øjeblikligt svar på, ved at lade modellen reason sig frem til at måske stille nogle spørgsmål,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 309.0,
       "end": 311.0,
       "text": " og selv besvare dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 311.0,
       "end": 316.0,
       "text": " Den næste ting, det er jo så, at vi har fået Deep Research oveni.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 316.0,
       "end": 321.0,
       "text": " Deep Research blev, som jeg nævnte tidligere kort, lanceret den 6. februar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 325.0,
       "text": " Og Deep Research er en mulighed for at kombinere reasoning modeller med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 325.0,
       "end": 329.0,
       "text": " at ChatGPT nu faktisk også kan gå på internettet og søge mere information.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 329.0,
       "end": 336.0,
       "text": " Så den kan både stille spørgsmålene, finde svarene, stille uddybende spørgsmål, researche, finde svarene osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 336.0,
       "end": 338.0,
       "text": " Og hvordan ser det så ud i praksis?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 340.0,
       "text": " Lige nu, der skal man have et ChatGPT Pro.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 340.0,
       "end": 345.0,
       "text": " Det koster 200 dollars om måneden, og du skal bruge en amerikansk VPN samtidig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 345.0,
       "end": 351.0,
       "text": " Årsagen til, at det ikke er lanceret i EU, det er ikke fordi, at modellen teknisk set ikke kunne blive lanceret i EU.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 351.0,
       "end": 355.0,
       "text": " Det er fordi, at EU har valgt at lave verdens eneste lovgivning inden for digital marketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 358.0,
       "text": " og det gør, at de store techvirksomheder bare tænker, at glem det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 358.0,
       "end": 362.0,
       "text": " Så kan I også bare lade være med at få det, hvis det skal være så besværligt at få lov til at servere produktet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 362.0,
       "end": 366.0,
       "text": " Og derfor går man simpelthen udenom både EU og UK, som også har underlagt de samme regler lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 366.0,
       "end": 372.0,
       "text": " Men hvis du kører en amerikansk IP, så kan du rent faktisk godt få adgang til det, hvis du betaler de 200 dollars om måneden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 376.0,
       "text": " Jeg har jo godt tænkt mig at vise et eksempel på, hvad det er, de rent faktisk kan det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 376.0,
       "end": 381.0,
       "text": " Jeg synes, Deep Research er noget af det mest interessante, der er lanceret i hele AI-bygden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 384.0,
       "text": " der startede i november 2022 med ChatGPT indtil nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 389.0,
       "text": " Det er en af de ting, hvor det for mig har været den største sådan wow moment,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 394.0,
       "text": " da jeg rent faktisk brugte den første gang og tænkte, hold da op, der tog vi godt nok et stort skridt frem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 394.0,
       "end": 396.0,
       "text": " Jeg kan prøve at vise et eksempel på det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 396.0,
       "end": 400.0,
       "text": " Det er et konkret eksempel fra min egen hverdag, hvor jeg arbejder med en virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 400.0,
       "end": 405.0,
       "text": " som tidligere har valgt at fjerne Google Analytics 4 fra deres eget site.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 405.0,
       "end": 412.0,
       "text": " Det gjorde de for cirka et år siden i forbindelse med, at den gamle privacy shield-aftale mellem EU og USA blev ophedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 412.0,
       "end": 418.0,
       "text": " Men siden da har vi jo fået et nyt privacy framework, og derfor har de fleste virksomheder måske genetableret Google Analytics 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 421.0,
       "text": " Men det her er en meget stor virksomhed, og de kører med livrem og seler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 424.0,
       "text": " så de vil gerne være helt sikre på, at man rent faktisk må det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 424.0,
       "end": 432.0,
       "text": " Jeg har fået tilsendt på mail al korrespondensen, de tidligere har haft i forhold til, hvorfor de rent faktisk har fjernet Google Analytics 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 432.0,
       "end": 438.0,
       "text": " Og nu kunne jeg godt tænke mig at sende dem en rigtig god mail, der forklarer, at det her er ikke længere noget, de behøver at være bange for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 442.0,
       "text": " Men jeg vil også gerne være sikker på, at den både er korrekt, og at den er formuleret korrekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 446.0,
       "text": " Og det kan jeg godt lave selv, men jeg kan ikke lave det på kort tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 446.0,
       "end": 450.0,
       "text": " Det her det vil være en opgave, jeg skal bruge i hvert fald en time og måske længere tid på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 453.0,
       "text": " og jeg er endda halvgodt inde i materialet i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 456.0,
       "text": " Og det her det var et godt eksempel for mig for at kunne bruge Deep Seek.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 460.0,
       "text": " Undskyld, Deep Search. Ikke Deep Seek, det er den kinesiske version, Deep Search.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 460.0,
       "end": 464.0,
       "text": " Så det jeg konkret gjorde, det var ikke at kigge ind i Deep Search.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 464.0,
       "end": 468.0,
       "text": " Og for dem der ikke anser mere på YouTube og Spotify, så har jeg sat video på nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 468.0,
       "end": 472.0,
       "text": " Her der lagde jeg faktisk hele den bagvidlæggende email-korspondanse ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 472.0,
       "end": 478.0,
       "text": " Jeg kopierede den simpelthen. Altså jeg kopierede det fra første bogstav til sidste punkt, som kopierede det hele ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 478.0,
       "end": 482.0,
       "text": " Og det var en rigtig lang email-tråd, men den har også fået et meget langt kontekst-vindue, så det kan man sagtens gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 482.0,
       "end": 486.0,
       "text": " Jeg kopierede hele email-tråden ind, og så skrev jeg allerede nederst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 486.0,
       "end": 490.0,
       "text": " Her er en email-tråde, der viser hvorfor den her pågældende virksomhed valgte at fjerne Google Analytics.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 490.0,
       "end": 494.0,
       "text": " Jeg kunne godt tænke mig at redegøre for, at Google Analytics igen er sikkert at installere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 494.0,
       "end": 499.0,
       "text": " Og så slog jeg Deep Search til, og jeg valgte O3 Mini High, som er den nyeste version.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 504.0,
       "text": " Det første Deep Search gør, eller ChatGBT gør, det er faktisk at den stiller mig nogle uddybende spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 504.0,
       "end": 506.0,
       "text": " Og det her det gør den helt generelt, når man bruger Deep Search.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 506.0,
       "end": 508.0,
       "text": " Jeg har brugt det en del over den sidste uge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 508.0,
       "end": 510.0,
       "text": " Og den stiller altid nogle uddybende spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 515.0,
       "text": " Så det første den spørger mig om, det er om jeg ønsker at undersøge nogle ekstra ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 515.0,
       "end": 520.0,
       "text": " Er jeg interesseret i alternative værktøjer? Er det korrekt, at det kun handler om Google Analytics 4?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 520.0,
       "end": 527.0,
       "text": " Sådan 2-3-4 uddybende spørgsmål, så det er jeg har skrevet til at starte med, hvor jeg så kan svare ja eller nej på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 527.0,
       "end": 529.0,
       "text": " Og det synes jeg jo for det første er kanon fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 534.0,
       "text": " Fordi jeg ved også, at værdien af det output jeg får, det er også begrænset af, hvor godt et input jeg giver.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 534.0,
       "end": 539.0,
       "text": " Så har ChatGPT selv begyndt at stille uddybende spørgsmål, og den gør det hver eneste gang, jeg laver en Deep Search-søgning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 539.0,
       "end": 541.0,
       "text": " Hver eneste gang stiller den mig 3-4 spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 541.0,
       "end": 543.0,
       "text": " Så jeg kan se, at det er simpelthen bare indbygget i modellen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 546.0,
       "text": " Der skal stilles nogle uddybende spørgsmål til dem, der bruger det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 546.0,
       "end": 549.0,
       "text": " Og det synes jeg er kanon fedt, fordi det gør mit output bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 553.0,
       "text": " Efter den har stillet 3-4 spørgsmål, så svarer jeg på dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 558.0,
       "text": " Og hvad det er, at den skal begrænses til, og hvad den skal kigge på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 558.0,
       "end": 560.0,
       "text": " Og så går den ellers i gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 560.0,
       "end": 564.0,
       "text": " Det, der så sker, det er, at den bruger 5 minutter på at researche.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.0,
       "end": 569.0,
       "text": " I de her 5 minutter, og jeg har også haft nogle, hvor det har taget 10 eller 15 minutter, så det afhænger af sådan lidt af spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 572.0,
       "text": " Men den står faktisk bare og kører i 5 minutter, hvor man bare står og venter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 574.0,
       "text": " Og det er vi jo ikke vant til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 574.0,
       "end": 578.0,
       "text": " Hvis du overvejer, hvor lang tid 5 minutter er, så er vi jo vant til at få svar af ChatGPT med det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 578.0,
       "end": 582.0,
       "text": " 5 minutter er faktisk ret lang tid at vente, så jeg kunne gå i gang med lige at lave en kop kaffe eller skrive en anden mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 582.0,
       "end": 588.0,
       "text": " Når jeg så får den tilbage, så får jeg et enormt grundigt svar, som er underbygget med forskellige datakilder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 594.0,
       "text": " Noget af det fede ved Deep Research, det er, at den tager alle datakilderne med, så jeg kan simpelthen klikke og se præcis, hvor kommer det her fra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 600.0,
       "text": " Og det har været en af de store udfordringer med ChatGPT tidligere, det er, at den har skrevet nogle ting, men du har ikke rigtig vidst, hvad kilden var.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 604.0,
       "text": " Det er en af de gode ting ved for eksempel Perplexity som søgemaskine, det er, at du får kilderne med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 615.0,
       "text": " Men jeg får det her enormt grundige svar med information fra forskellige lande og forskellige bloganlæg fra cookieudbydere, fra nyhedsartikler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 615.0,
       "end": 622.0,
       "text": " Alt muligt meget uddybende svar, og også et svar, der faktisk er alt for langt, til jeg kan sende til den virksomhed, jeg arbejder sammen med her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 630.0,
       "text": " Det vil være voldsomt at sende det her til dem i en mail, de vil falde bagover og sandsynligvis aldrig komme igennem det, og så får vi heller ikke en stilled af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 635.0,
       "text": " Derfor så beder jeg i et sidste kort prompt om at opsummere det i et kortere svar, som jeg kan sende til dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 643.0,
       "text": " Og det gør den, og den laver et rigtig godt svar, som er kortere med en konklusion, som matcher det, som jeg også selv gerne ville komme frem til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 646.0,
       "text": " Det her er et godt eksempel på, hvad Deep Research kan.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 646.0,
       "end": 651.0,
       "text": " Fordi hvis jeg havde lavet det samme prompt uden Deep Research, så havde jeg også fået et svar.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 655.0,
       "text": " Men for det første, så havde det svar ikke været underbygget med kilder, som jeg kan sende med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 655.0,
       "end": 660.0,
       "text": " Deep Research tager kilderne med, så man kan undersøge kilderne og verificere, at det rent faktisk er korrekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 660.0,
       "end": 662.0,
       "text": " Og for det andet havde det slet ikke været lige så grundigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 662.0,
       "end": 667.0,
       "text": " Deep Research skriver nærmest i sit afhandling, og det er sådan en mini-PhD, du nogle gange får tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 667.0,
       "end": 672.0,
       "text": " Og det er jo fantastisk fedt, fordi så kan jeg altid bede den om at gøre det mere simpelt for mig, eller kode det ned efterfølgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.0,
       "end": 677.0,
       "text": " Når det her er fedt, så er det fordi, at jeg med ét prompt og ved at vente i fem minutter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 681.0,
       "text": " kunne få det, jeg måske skulle have brugt en time eller to eller tre på at lave selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 681.0,
       "end": 686.0,
       "text": " Måske kunne jeg have lavet dem AI også, men tidligere har det ikke været muligt både at få Chain of Thought over,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 686.0,
       "end": 689.0,
       "text": " at den stiller spørgsmål selv, over at den rent faktisk går på nettet for at undersøge ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 689.0,
       "end": 693.0,
       "text": " Og det er det, der gør, at det her bare er en kæmpe oplettering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 693.0,
       "end": 695.0,
       "text": " Og jeg tror, at folk undervurderer, hvor stor en oplettering er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 695.0,
       "end": 699.0,
       "text": " Og det er fordi, der er heller ikke særlig mange, der betaler 200 dollar som måned for tjatgebetale endnu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 699.0,
       "end": 703.0,
       "text": " Og det forstår jeg godt. Vi har taget en beslutning om, at vi skal have den bedste version af tjatgebetale,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 703.0,
       "end": 706.0,
       "text": " uanset hvad den koster. De kunne tage 20.000 dollars for den, og så havde vi også betalt det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 706.0,
       "end": 708.0,
       "text": " fordi vi skal være de bedste til at bruge det her værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 708.0,
       "end": 711.0,
       "text": " Og det har vi truffet en strategisk beslutning om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 711.0,
       "end": 714.0,
       "text": " Men jeg forstår godt, at man synes, det er godt nok dyrt at bruge mange penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 714.0,
       "end": 717.0,
       "text": " Så jeg tror ikke, der er særlig mange, der gør det. Selv dem, der gør det, skal lægge en VPN oveni.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 717.0,
       "end": 722.0,
       "text": " Så lige nu er indgangsbarrieren høj, og det betyder, at vi snakker ikke særlig meget om det her i hverken Danmark eller i Europa.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 722.0,
       "end": 726.0,
       "text": " Men jeg kan bare se, at det her var et wow moment, da jeg begyndte at bruge den her de første gange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 726.0,
       "end": 731.0,
       "text": " Og jeg har brugt tjatgebetale meget mere den sidste uge, end jeg har gennemsnitligt de sidste to år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 731.0,
       "end": 736.0,
       "text": " Fordi lige pludselig kan jeg tage ret komplekse spørgsmål, der kræver en del research,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 736.0,
       "end": 738.0,
       "text": " og lægge ind og få brugbare svar tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 738.0,
       "end": 745.0,
       "text": " Tidligere har jeg brugt tjatgebetale super meget til oversættelser, korrekturerettelser, udkast til tekster og alt det der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 749.0,
       "text": " Men når jeg fik et svært spørgsmål i emailen, eller skulle lave noget grundigt arbejde fra starten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 749.0,
       "end": 752.0,
       "text": " så har jeg faktisk ikke brugt det, fordi kvaliteten blev for lav, synes jeg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 752.0,
       "end": 755.0,
       "text": " Så hvad er de oplagte use cases på det her fra starten af?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 758.0,
       "text": " Der er i hvert fald noget research og analyse arbejde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 758.0,
       "end": 764.0,
       "text": " Fordi tjatGBT Pro med de 200 dollars og DeepSearch, det er lidt ligesom at have en junior analytiker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 764.0,
       "end": 768.0,
       "text": " eller en research analyst, bare meget billigere og on guard hele tiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 768.0,
       "end": 770.0,
       "text": " Så den mest oplagte, det er jo research arbejde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 770.0,
       "end": 774.0,
       "text": " Altså Sam Altmann, som jo er i Svitseren for OpenAI, skrev jo et tweet, der hedde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 774.0,
       "end": 779.0,
       "text": " Tag det sværeste spørgsmål, du har lige nu på dit arbejde, som kan løses med research, og prøv at stille det til DeepSearch.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 779.0,
       "end": 784.0,
       "text": " Og det var sådan lidt det, jeg gjorde, og var virkelig positivt overrasket over det svar, der kom tilbage igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 784.0,
       "end": 787.0,
       "text": " Så sådan research og analyse arbejde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 787.0,
       "end": 791.0,
       "text": " Jeg har brugt den til noget indledende pitch arbejde i Obsidian Regie, hvor jeg har skrevet",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 791.0,
       "end": 794.0,
       "text": " Det her er virksomheden, vi gerne vil arbejde med. Det her er den vinkel, jeg gerne vil arbejde med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 794.0,
       "end": 797.0,
       "text": " Det her er de virkemidler, vi gerne vil gøre brug af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 797.0,
       "end": 804.0,
       "text": " Jeg har også oplåget tidligere præsentationer og gjort alle mulige ting, for at få lavet et udkast til den e-mail eller præsentation, jeg skal lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 804.0,
       "end": 808.0,
       "text": " Det har jeg fået så gode resultater ud af, at det kommer jeg til at fortsætte med at gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 808.0,
       "end": 811.0,
       "text": " Det er rent faktisk tidsbesparelse, og der ligger et rigtig godt stykke arbejde i det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 811.0,
       "end": 814.0,
       "text": " Jeg har brugt det til dataanalyser og store marketing dataset.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 814.0,
       "end": 821.0,
       "text": " Tidligere i dag, der hævde jeg et stort dataset ud af tre års data på en Facebook-konto, der har brugt en del millioner kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 821.0,
       "end": 826.0,
       "text": " Det har jeg brækket ud i forskellige segmenter og kampagnenavne og kampagneformater og alle mulige ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 826.0,
       "end": 832.0,
       "text": " Jeg fik lavet koalitionsanalyser, koalitionskoefficienter, diminishing returns-analyser og alle mulige ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 832.0,
       "end": 836.0,
       "text": " Til sidst stillede jeg ChatGPT et spørgsmål, der bare sagde, hvad kan du ellers bruge det her dataset til?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 836.0,
       "end": 839.0,
       "text": " Jeg fik otte forslag tilbage, og to af dem var virkelig gode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 843.0,
       "text": " To af dem var virkelig gode og bedre, end jeg selv havde fundet på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 843.0,
       "end": 847.0,
       "text": " Og så er der jo en gigantisk vinkel i det her, der hedder Programmatic SEO.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 847.0,
       "end": 860.0,
       "text": " Teknikken i forhold til at bruge LLM'erne, som for eksempel ChatGPT eller Claude eller DeepSeek R1 til at lave indhold og så publicere det på landingssider med en vis skala takket hver værktøjer, som Make.com eksisterer allerede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 860.0,
       "end": 866.0,
       "text": " Men det svageste led er, hvor godt indhold man kan skabe og at man ikke får for tynde sider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 875.0,
       "text": " Det har vi tidligere i vores Programmatic SEO-projekter løst ved at bruge Perplexity som en del af vores research-fase for at sikre, at vi får reelt brugbare og faktuelt korrekte information ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 875.0,
       "end": 882.0,
       "text": " Det ligger lige pludselig direkte indbygget i en Chain of Thought reasoning-model i ChatGPT, der er endnu bedre end Perplexity.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 882.0,
       "end": 891.0,
       "text": " I forhold til Programmatic SEO er jeg mindblown over, hvilke fremtidsperspektiver, der rent faktisk er i det her, når vi får det sat op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 891.0,
       "end": 894.0,
       "text": " Det var det, jeg gerne ville lave en episode om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 894.0,
       "end": 900.0,
       "text": " Jeg tror virkelig, at folk undervurderer både Chain of Thought og især Deep Research-talen, fordi de ikke har adgang til det endnu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 901.0,
       "end": 910.0,
       "text": " Så er du blandt de 0,1% i Danmark, der rent faktisk er så få, der har adgang til det her, og det er så brugbart allerede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 910.0,
       "end": 912.0,
       "text": " Jeg vil virkelig anbefale, at du kigger ind i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 912.0,
       "end": 914.0,
       "text": " Tak fordi du lytter med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 914.0,
       "end": 919.0,
       "text": " Hvis du selv har arbejdet med Deep Research og har nogle spændende læringer, så skriv til mig på LinkedIn, det vil jeg super gerne høre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 919.0,
       "end": 926.0,
       "text": " Ellers er Christian Tignue tilbage fra mandagens episode med gode aktie-tips og alt muligt andet dejligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 926.0,
       "end": 928.0,
       "text": " Tusind tak fordi du lytter med i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

@@ -9,1890 +9,1895 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B",
-      "C"
+      "Halfdan",
+      "Morten",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Morten",
+      "C": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 4.0,
       "text": " Christian.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
       "end": 5.0,
       "text": " Halløj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 5.0,
       "end": 10.0,
       "text": " I denne episode kommer vi til at snakke om TikTok og hvordan man i virkeligheden skal bruge det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 15.0,
       "text": " Og vi har igen Morten Bie med, som også var med i sidste episode til at fortælle os om hans tur til META i Dublin.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 19.0,
       "text": " Han har ikke været hos TikTok i Dublin, men til gengæld har han en interessant case med til os.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.0,
       "end": 25.0,
       "text": " Fordi Morten, vi ved, TikTok siger selv, at de er en brandingplatform og at det er sådan, man skal bruge den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 31.0,
       "text": " Er det, fordi TikTok er en brandingplatform, eller er de bare dårlige til at måle konverteringer og bruger det som en undskyldning?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 31.0,
       "end": 35.0,
       "text": " Det er sgu et spørgsmål i knæhøjde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 35.0,
       "end": 43.0,
       "text": " Jeg vil sige, at selve platformen er en mindre klik-attribueret platform end andre.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 43.0,
       "end": 50.0,
       "text": " Og dermed taler det over i branding. Lidt ligesom YouTube eller Display på Comedic eller TV.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 50.0,
       "end": 55.0,
       "text": " Når det er sagt, så er deres tech-stack også mindre brugbare end META.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 55.0,
       "end": 57.0,
       "text": " Så der er helt sikkert noget, der ligger der.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 57.0,
       "end": 63.0,
       "text": " Men jeg tror i høj grad, at platformen også skal ses som en branding-visningstrede platform.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 63.0,
       "end": 65.0,
       "text": " Ja, og når du siger mindre klik-trede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 65.0,
       "end": 72.0,
       "text": " I sidste episode, der snakkede vi om, at Generation Z, den her unge generation, lad os kalde det rundt regnet 30 og under.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 72.0,
       "end": 78.0,
       "text": " De er mindre tilbøjelige til at klikke og konvertere og har en anden kunderejse, hvor de måske i højere grad ser annoncerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 78.0,
       "end": 83.0,
       "text": " Og så selv går ind på siden, går ind en anden dag, eller på en eller anden måde selv finder ind på siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 83.0,
       "end": 90.0,
       "text": " Og er det også tilfældet med TikTok, at folks adfærd måske er en lille smule anderledes, end vi er vant til fra Google Ads og Facebook Ads osv.?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 90.0,
       "end": 94.0,
       "text": " Altså, hvis man spørger TikTok, så siger de ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 94.0,
       "end": 97.0,
       "text": " Og hvis man spørger mig, så siger jeg også ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 97.0,
       "end": 100.0,
       "text": " Jeg ved ikke, Tenjo, du er nu halvfølgelig ikke på TikTok.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 100.0,
       "end": 103.0,
       "text": " Scroller du også mere, end du klikker?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 103.0,
       "end": 105.0,
       "text": " Ja, uden tvivl. Uden tvivl.",
-      "speaker": "C"
+      "speaker": "Christian"
     },
     {
       "start": 105.0,
       "end": 109.0,
       "text": " Og så er der noget med den browser, jeg kommer ind i via TikTok, jeg bare ikke bryder mig om.",
-      "speaker": "C"
+      "speaker": "Christian"
     },
     {
       "start": 109.0,
       "end": 112.0,
       "text": " Og det kan være min helt egen holdning. Det ved jeg ikke, om andre har det på samme måde.",
-      "speaker": "C"
+      "speaker": "Christian"
     },
     {
       "start": 112.0,
       "end": 115.0,
       "text": " Men det gør faktisk, at jeg ikke klikker særlig ofte. Så det kan også godt være en af årsagerne.",
-      "speaker": "C"
+      "speaker": "Christian"
     },
     {
       "start": 115.0,
       "end": 118.0,
       "text": " Men faktum er ja. Jeg scroller meget mere, end jeg klikker.",
-      "speaker": "C"
+      "speaker": "Christian"
     },
     {
       "start": 118.0,
       "end": 119.0,
       "text": " Men det er også en lidt anden adfærd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 119.0,
       "end": 123.0,
       "text": " Altså, det er hurtige, korte videoer. Man går bare igennem dem, og man er der jo for underholdning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 123.0,
       "end": 126.0,
       "text": " Og hvis man klikker sig væk, så stopper ens underholdning jo også i mange tilfælde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 129.0,
       "text": " Så den ligger ikke op til det på samme måde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 132.0,
       "text": " Og det er jo også noget, der gør det svært at tilskrive kommenteringer direkte fra TikTok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 132.0,
       "end": 138.0,
       "text": " Selv hvis de er der, så vil du ikke kunne måle dem via et klik og en UTM-sporing, som vi er vant til fra andre platforme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.0,
       "end": 142.0,
       "text": " Morten, du har en case med, hvor der var noget, der faktisk virkede ret godt på TikTok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 142.0,
       "end": 146.0,
       "text": " Men du greb det også an på en anden måde. Kan du ikke fortælle, hvad er casen her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 150.0,
       "text": " Og hvordan greb du den an, og hvilke kampagneformater kørte vi på den?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 155.0,
       "text": " Jo, gerne. Og som et start, så har jeg lidt lille rant.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 155.0,
       "end": 158.0,
       "text": " Og det er, fordi jeg hører det stadigvæk alt for ofte.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 158.0,
       "end": 162.0,
       "text": " Og jeg synes, det er sådan en joke, hvor den bliver fortalt, og så griner dem, der fortæller den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 162.0,
       "end": 165.0,
       "text": " Og så sidder jeg og tænker, fuck, hvor er det bare ikke sjovt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 165.0,
       "end": 167.0,
       "text": " Altså, det er bare kritisk, du synes, det er sjovt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 167.0,
       "end": 171.0,
       "text": " Og det er annonsører, der sidder og siger, nej, vi skal ikke på TikTok, fordi det er sådan nogle dansevideoer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 171.0,
       "end": 174.0,
       "text": " Og så skal vi have bjergene til at danse.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 174.0,
       "end": 175.0,
       "text": " Stop!",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 175.0,
       "end": 177.0,
       "text": " Ja, der er ingen, der gider at se bjergene danse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 177.0,
       "end": 180.0,
       "text": " Nej, og I skal ikke danse.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 180.0,
       "end": 183.0,
       "text": " Altså, jo, jeg ved godt, den startede sådan.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 183.0,
       "end": 185.0,
       "text": " Men det er været fem år siden.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 185.0,
       "end": 189.0,
       "text": " Altså, så følg nu lige lidt med, please.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 189.0,
       "end": 191.0,
       "text": " Fordi det er sgu lidt jeres egen skyld.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 191.0,
       "end": 193.0,
       "text": " Altså, jeg er da lige glad om, at I ikke er på TikTok.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 193.0,
       "end": 198.0,
       "text": " Men hvis det er, at I ikke er på TikTok, fordi I tror, det er en dansevideo, så er I helt forkert på den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 198.0,
       "end": 202.0,
       "text": " Og så har I egentlig bare en platform, som I ikke bruger på grund af et forkert argument.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 202.0,
       "end": 208.0,
       "text": " Altså, det samme content, I bruger på TikTok, kan I bruge på Instagram Reels eller på LinkedIn for den tage skyld.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 208.0,
       "end": 210.0,
       "text": " Altså, det er bare short form content.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 210.0,
       "end": 212.0,
       "text": " Så er det ikke noget, man danser for.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 212.0,
       "end": 215.0,
       "text": " Apropos casen her, fordi den startede jo på TikTok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 215.0,
       "end": 220.0,
       "text": " Og til dem, der ser med på YouTube eller på Spotify med video, der kan man også se annoncen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 223.0,
       "text": " Hvad er det, vi kigger på her, Morten? Og hvad skete der med den her annonce?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 223.0,
       "end": 225.0,
       "text": " Nordisk Filmbiograf har holdt den store biografdag.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 225.0,
       "end": 227.0,
       "text": " Billetter til 65 kroner.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 227.0,
       "end": 234.0,
       "text": " Vi smider to af vores unge arbejdere ind foran kameraet, som ikke som sådan får et script,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 234.0,
       "end": 236.0,
       "text": " men bare får lov til at stå og pinge på en lidt med en anden.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 236.0,
       "end": 240.0,
       "text": " Og så kan I se, det er en lille smule redigeret med noget CapCut, der lige hurtigt klipper scenerne op",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 240.0,
       "end": 243.0,
       "text": " sammen med Lacroix, som var med til at filme det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 243.0,
       "end": 246.0,
       "text": " Og så har den produceret en video på fem minutter.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 246.0,
       "end": 249.0,
       "text": " Ja, altså videoen er 20 sekunder kort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 249.0,
       "end": 251.0,
       "text": " To piger står og snakker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 253.0,
       "text": " Der er store biografdag, billetter til 65 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 253.0,
       "end": 255.0,
       "text": " De kaster noget popcorn op i luften.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 257.0,
       "text": " Det er fint, det er paced.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.0,
       "end": 259.0,
       "text": " Altså, man forstår ret hurtigt budskabet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 259.0,
       "end": 265.0,
       "text": " Og den har så 6.000 likes, 300 kommentarer, 5.000 delinger, tror jeg, det det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 265.0,
       "end": 267.0,
       "text": " Hvor mange penge er der blevet brugt på at opnå det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.0,
       "end": 269.0,
       "text": " Og hvad betaler man for at få den eksponeret på TikTok?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 269.0,
       "end": 275.0,
       "text": " Så, øhm, selvfølgelig er der noget organisk i det her, som ligger oveni.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 275.0,
       "end": 283.0,
       "text": " Men vi betalte 6.000 kroner over tre dage og lavede en million impressions i Danmark.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 283.0,
       "end": 284.0,
       "text": " Ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 284.0,
       "end": 286.0,
       "text": " Det er en frekvens på tre hen over tre dage.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 286.0,
       "end": 291.0,
       "text": " Vi ligger på et reach af sådan noget 335, og så har vi omkring 180.000 organiske visninger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 291.0,
       "end": 293.0,
       "text": " altså samlede antal visninger af 500.000.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 293.0,
       "end": 297.0,
       "text": " Men, altså, for 6.000 kroner, så har vi lige eksponeret, hvad?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 297.0,
       "end": 300.0,
       "text": " En fjerdedel af alle TikTok-brugere hen over weekenden tre gange.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 300.0,
       "end": 301.0,
       "text": " Ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 301.0,
       "end": 306.0,
       "text": " Og man kan se på, jo, fordi det er nemt nok at skaffe visninger, altså videovisninger.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 306.0,
       "end": 308.0,
       "text": " Det kan man altid betale sig fra.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 308.0,
       "end": 312.0,
       "text": " Men her der får man så også det organiske, som jo nærmest er en tredjedel over samlede antal visninger.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 312.0,
       "end": 317.0,
       "text": " Og alle de kommentarer, delinger, likes, de kommer altså ikke naturligt bare af en booster",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 317.0,
       "end": 318.0,
       "text": " eller en tilfældig video.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 318.0,
       "end": 320.0,
       "text": " De kommer, fordi videoen er god.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 320.0,
       "end": 323.0,
       "text": " Og i det her tilfælde, der bruger man jo popcornene, hvor man smider dem ud på gulvet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 323.0,
       "end": 324.0,
       "text": " som sådan lidt en ragebait.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 324.0,
       "end": 328.0,
       "text": " Hvis man ser kommentarspråber, så er det sådan, ikke sige, eller sådan noget chat,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 328.0,
       "end": 332.0,
       "text": " at vi er døde numse, der har popcornet over et eller andet sådan noget ekstremt ungdomligt sprog.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 334.0,
       "end": 338.0,
       "text": " Ja, og jeg synes jo, det er interessant, fordi det her, det svarer jo til en CPM-pris på måske en 5-6 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 343.0,
       "text": " Og det vil altså sige, for hver 1.000 visninger på TikTok og annoncen, betaler man 5-6 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 343.0,
       "end": 347.0,
       "text": " Og så effektivt kommer der en del organiske visninger oveni, fordi folk, de engagerer med dig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 347.0,
       "end": 352.0,
       "text": " som så trækker CPM-prisen effektivt ned på måske en 3-4 kroner, eller et eller andet stykke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 352.0,
       "end": 355.0,
       "text": " Og meta-analysering til sammenligning har jo også en reach-format,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 358.0,
       "text": " men det koster måske 10-15-20 kroner, afhængig af, hvordan man laver det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 358.0,
       "end": 364.0,
       "text": " Så her kan man godt se, at TikTok er på reach-basis i hvert fald en billigere platform at komme ud på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 365.0,
       "end": 368.0,
       "text": " Men spørgsmålet er altså, hvor kvalificeret er det rent faktisk?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 368.0,
       "end": 372.0,
       "text": " Og var der nogen måling på, at det her bidrog til noget?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 376.0,
       "text": " Eller er det her et eksempel på, at TikTok rent faktisk var branding-kampagnen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 376.0,
       "end": 379.0,
       "text": " hvor det handlede om at komme langt ud, og så går folk selv ned i biografen efterfølgende?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 382.0,
       "text": " Så i det her tilfælde kunne vi rent faktisk godt måle kommenteringer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 382.0,
       "end": 388.0,
       "text": " Fordi de er bare sat op gennem et link, gennem UTM, med en call to action osv.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 388.0,
       "end": 390.0,
       "text": " Alt det organiske, det er jo selvfølgelig svært.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 390.0,
       "end": 395.0,
       "text": " Og det er det også, altså størst delen af danske biograf-billetter bliver faktisk lavet købt fysisk,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 395.0,
       "end": 396.0,
       "text": " som gør det endnu sværere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 396.0,
       "end": 398.0,
       "text": " Altså det er folk, der bor nede og siger, jeg vil gerne i biograf nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 400.0,
       "text": " Hvad spilles her kl. 11.30? Jeg kan slet ikke forstå det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 400.0,
       "end": 402.0,
       "text": " Jeg vil altid have puttet min billet før.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 402.0,
       "end": 406.0,
       "text": " Jeg tror, der kom en undersøgelse af de danske biografer, der siger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 406.0,
       "end": 409.0,
       "text": " at omkring halvdelen af danske billetter er købt fysisk.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " De er kredseret på online, og det gør det jo endnu sværere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 411.0,
       "end": 414.0,
       "text": " Men, som vores summarum er, det er høj grad en branding case.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 414.0,
       "end": 418.0,
       "text": " Vi har kørt meget performance bruger på meta, og der var et spørgsmål om,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 418.0,
       "end": 422.0,
       "text": " hvis vi kan ramme så meget på TikTok for 6.000 kroner,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 422.0,
       "end": 425.0,
       "text": " så er det nok ikke de dummeste 6.000 kroner, vi nogensinde har brugt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 425.0,
       "end": 426.0,
       "text": " Svært imod.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 426.0,
       "end": 430.0,
       "text": " Og hvis vi har kørt de samme 6.000 kroner på meta,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 430.0,
       "end": 433.0,
       "text": " højere CPM, men også væsentligt lavere engagement.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 434.0,
       "end": 436.0,
       "text": " Det, vi får med 6.000 kommentarer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 436.0,
       "end": 437.0,
       "text": " Det er noget, jeg synes, er interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 437.0,
       "end": 441.0,
       "text": " Der er 500-600 kommentarer, der er 5.000 delinger af den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 445.0,
       "text": " hvor folk sender den til deres venner, fordi der er en call to action til sidst på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 447.0,
       "text": " at du skal dele det med den, du gerne vil biografen med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 447.0,
       "end": 449.0,
       "text": " Apropos Morten, vi skal lige have booket billetter til Mission Impossible,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 449.0,
       "end": 450.0,
       "text": " hvis jeg husker rigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 453.0,
       "text": " Så jeg tænker også, at den adfærd kunne du ikke have forventet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " Hvis jeg brugte 6.000 kroner på Facebook-organiseringen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 455.0,
       "end": 458.0,
       "text": " ville jeg ikke forvente, at der var 5.000 kommentarer eller delinger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 460.0,
       "text": " hvor folk sendte den til nogen, de kendte.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 460.0,
       "end": 463.0,
       "text": " Det gode ved det er, at vi får 500 kommentarer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 463.0,
       "end": 466.0,
       "text": " Ud af de kommentarer, der har vi nok de næste 50 videoer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 466.0,
       "end": 469.0,
       "text": " Fordi så er der nogen, der skriver noget, som vi responderer på,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 469.0,
       "end": 473.0,
       "text": " eller vi laver en sentimentanalyse, hvor vi bruger det til at lave nye annoncer med scripts.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 473.0,
       "end": 475.0,
       "text": " Så vi får også ekstremt meget ud af det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 476.0,
       "end": 479.0,
       "text": " En af de ting, der blev gjort her, var, at man tog det her materiale,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 479.0,
       "end": 481.0,
       "text": " der organisk på TikTok performede ret godt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 481.0,
       "end": 484.0,
       "text": " og så brugte det i et performance-bord på meta bagefter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 486.0,
       "text": " Hvad betyder det så at bruge det i et performance-bord på meta bagefter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 486.0,
       "end": 487.0,
       "text": " og hvordan fungerede det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 487.0,
       "end": 489.0,
       "text": " Der er sådan en tommelfingeregel.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 489.0,
       "end": 490.0,
       "text": " Hvert fald spørg mig.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 490.0,
       "end": 493.0,
       "text": " Hvis du lægger en organisk video op på TikTok, og den ikke klarer så godt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 493.0,
       "end": 496.0,
       "text": " så klarer den så godt, uanset hvor du lægger den op henne.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 496.0,
       "end": 497.0,
       "text": " Også i betalt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 497.0,
       "end": 500.0,
       "text": " Så i det her tilfælde, der lagde vi den her video op en dag inden,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 500.0,
       "end": 502.0,
       "text": " vi egentlig skulle køre den betalte kampagne.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 502.0,
       "end": 503.0,
       "text": " Så den performede godt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Der var også nogen, der performede dårligt, som det ville altid være.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 505.0,
       "end": 508.0,
       "text": " Så lavede vi en A-plus kampagne på meta.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 508.0,
       "end": 509.0,
       "text": " Helt bred målgruppe.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 509.0,
       "end": 511.0,
       "text": " Vi ville bare gerne have nogen køb.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 511.0,
       "end": 515.0,
       "text": " De skal bare ind på en stand-up-side inde på nordiskfilm.dk, nfbio.dk.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 516.0,
       "end": 518.0,
       "text": " En annonce, det er den her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 518.0,
       "end": 519.0,
       "text": " Lægger den op i samme format.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 519.0,
       "end": 520.0,
       "text": " 9-16.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 520.0,
       "end": 525.0,
       "text": " Og så lavede vi en lille smule ad-copy, som vi tog fra kommentarsporet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 525.0,
       "end": 527.0,
       "text": " for at tale ind i samme sprog.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 527.0,
       "end": 529.0,
       "text": " Så vi ikke bare skrev sådan noget,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 529.0,
       "end": 531.0,
       "text": " køb en billet til Danmarks bedste biograf,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 531.0,
       "end": 535.0,
       "text": " men rent faktisk bruger sproget, der tilhører annoncen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 536.0,
       "end": 538.0,
       "text": " Og på den måde, så lavede vi en kampagne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 538.0,
       "end": 541.0,
       "text": " som kunne stå ved siden af den kampagne, vi normalt ville køre,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 541.0,
       "end": 542.0,
       "text": " som var sådan hero-image,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 542.0,
       "end": 544.0,
       "text": " at købe billetter til 65 kroner.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 544.0,
       "end": 545.0,
       "text": " Tag familien med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 545.0,
       "end": 546.0,
       "text": " Ja, standard.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 546.0,
       "end": 548.0,
       "text": " Og var det her et kreativt, der så performede bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 548.0,
       "end": 551.0,
       "text": " end det der hero-image med grafisk overlæg osv.?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 554.0,
       "text": " Så hvis vi kigger på CPA, så er det den samme.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 554.0,
       "end": 559.0,
       "text": " Men hvis vi kigger på outbound CTR, har vi en procent højere.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 559.0,
       "end": 563.0,
       "text": " Hvis vi kigger på outbound CLICK, altså CPC outbound,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " så skralder vi 25 øvre af.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 565.0,
       "end": 569.0,
       "text": " Hvis vi kigger på alt det hedder hook, hold, engagement,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " så lægger vi 5-6 procent over.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 572.0,
       "end": 574.0,
       "text": " I forhold til den anden kampagne.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 574.0,
       "end": 576.0,
       "text": " Så det mest interessante her,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 576.0,
       "end": 578.0,
       "text": " det lægger ikke nødvendigvis resultaterne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 578.0,
       "end": 579.0,
       "text": " for jeg tror de fleste godt kan se,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 579.0,
       "end": 582.0,
       "text": " hvorfor det her er bedre end et hero-billede,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 582.0,
       "end": 584.0,
       "text": " eller en animationsvideo, eller andet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 584.0,
       "end": 586.0,
       "text": " Men det lægger i targetingen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 586.0,
       "end": 588.0,
       "text": " Og nu havde vi jo sidste episode, der snakkede vi om",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 588.0,
       "end": 590.0,
       "text": " Creative is targeting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 590.0,
       "end": 593.0,
       "text": " Altså det her med, at du rammer de rigtige personer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 595.0,
       "text": " ud fra dit kreativ, og hvem det viser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 598.0,
       "text": " Og der var den her case med en svensk læggingsvirksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 600.0,
       "text": " som havde sænket deres CPI ret drastisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 602.0,
       "text": " og øget deres rækkevidde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 602.0,
       "end": 605.0,
       "text": " ved simpelthen bare at have flere forskellige typer af personer med i deres annoncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 608.0,
       "text": " Og nu den her annonce viser jo to ret unge kvinder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 610.0,
       "text": " lad os kalde dem 17 år eller et eller andet stil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 610.0,
       "end": 611.0,
       "text": " ungarbejdere i biografen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 613.0,
       "text": " Og det er jo så ét segment.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 613.0,
       "end": 616.0,
       "text": " Hvad kunne du se i Facebooks demografiske data,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 616.0,
       "end": 618.0,
       "text": " i forhold til hvem den henvendte sig til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 620.0,
       "text": " i forhold til Nordisk Films normale annoncer?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 620.0,
       "end": 623.0,
       "text": " Så udover at vi trickede på kønsbalancen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " normalt så ligger vi, altså på den kampagne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 625.0,
       "end": 627.0,
       "text": " der er det 75 kvinder, 25 procent mænd.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 627.0,
       "end": 630.0,
       "text": " Den her TikTok-video lægger 61 procent kvinder,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 630.0,
       "end": 632.0,
       "text": " og 36 procent mænd.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 632.0,
       "end": 634.0,
       "text": " Og så er der så uncategorist.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " Men det sjove, det er aldersgruppen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 636.0,
       "end": 639.0,
       "text": " Så i og med at vi kunne beholde samme CPI på begge kampagner,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " det er jo ikke fordi den ene løn er bedre end den anden,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 641.0,
       "end": 643.0,
       "text": " men den var bedre til forskellige målgrupper end den anden.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 643.0,
       "end": 646.0,
       "text": " Så på vores almindelige standard kampagne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 646.0,
       "end": 648.0,
       "text": " der ligger vores største målgruppe,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 648.0,
       "end": 650.0,
       "text": " og er 45 til 54 år.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 650.0,
       "end": 653.0,
       "text": " I vores TikTok-video kampagne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " jamen der er vores absolut største målgruppe,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 655.0,
       "end": 656.0,
       "text": " det er 25 til 34.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " Og så næststørste 18 til 24.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 659.0,
       "end": 661.0,
       "text": " Altså den nye kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 661.0,
       "end": 663.0,
       "text": " den her TikTok-video med de to unge kvinder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 663.0,
       "end": 665.0,
       "text": " den er jo stort set død, hvis du bliver over 40 år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 665.0,
       "end": 667.0,
       "text": " Altså får nærmest ingen visninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 667.0,
       "end": 670.0,
       "text": " På trods af, at den ligger i det samme annoncesæt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 670.0,
       "end": 671.0,
       "text": " som den normale kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 671.0,
       "end": 673.0,
       "text": " som er størst, hvis du kommer over omkring 45.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " Jeg synes det her er et sindssygt interessant eksempel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 675.0,
       "end": 676.0,
       "text": " fordi det viser det der med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 676.0,
       "end": 678.0,
       "text": " at du kan godt have én kampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 678.0,
       "end": 681.0,
       "text": " men have to vidt forskellige målgrupper i kampagnen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 681.0,
       "end": 684.0,
       "text": " fordi at kreativhed tiltaler to helt forskellige målgrupper.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 686.0,
       "text": " Det er meget tydeligt at se, at 55-årige kvinder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 686.0,
       "end": 688.0,
       "text": " de reagerer ikke særlig meget på det her budskab.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 690.0,
       "text": " Men unge mellem 18 og lad os kalde dem 30,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 690.0,
       "end": 692.0,
       "text": " de reagerer super meget på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 692.0,
       "end": 694.0,
       "text": " Så de to annoncer demografisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " kan vi se henværende sig til helt forskellige segmenter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " selvom det faktisk ligger i samme kampagne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 701.0,
       "text": " Og det gør, at man kan bruge væsentligt bedre effektivt spændt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 701.0,
       "end": 703.0,
       "text": " og holdelsepain ved.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 703.0,
       "end": 705.0,
       "text": " Du rammer simpelthen en ny målgruppe.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 705.0,
       "end": 706.0,
       "text": " Ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 706.0,
       "end": 707.0,
       "text": " Og jeg synes også, at det er noget af det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 707.0,
       "end": 708.0,
       "text": " der er mest interessant ved casen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 708.0,
       "end": 710.0,
       "text": " Det er, at en annonce, som ikke minder om det andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 710.0,
       "end": 712.0,
       "text": " reelt bliver distribueret til en helt anden målgruppe,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 712.0,
       "end": 714.0,
       "text": " og dermed åbner op for øget volume",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 714.0,
       "end": 715.0,
       "text": " i forhold til, hvad man ellers havde ramt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 715.0,
       "end": 716.0,
       "text": " Helt enig.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 716.0,
       "end": 718.0,
       "text": " Hvis man havde taget samme kampagne,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 718.0,
       "end": 720.0,
       "text": " branded, og så lavet et nyt still image,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 720.0,
       "end": 723.0,
       "text": " så er det fint, at du får en ny annonce ind,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 723.0,
       "end": 725.0,
       "text": " men det er den præcist samme annonce",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 725.0,
       "end": 726.0,
       "text": " til den præcist samme målgruppe.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 726.0,
       "end": 729.0,
       "text": " Så det er det her med diversifikationen i dit content.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 729.0,
       "end": 731.0,
       "text": " Tænk aldersgrupper, når du laver content,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 731.0,
       "end": 733.0,
       "text": " eller køn, eller interesser, hvad det nu skal være.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 733.0,
       "end": 735.0,
       "text": " På den måde kan du sørge for,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 735.0,
       "end": 736.0,
       "text": " at du ikke skal lave 10 annoncer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 736.0,
       "end": 737.0,
       "text": " du kan måske lave 4,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 737.0,
       "end": 739.0,
       "text": " men de 4 rammer bare hvidt forskelligt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 739.0,
       "end": 741.0,
       "text": " og gør, at du har det flere,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 741.0,
       "end": 743.0,
       "text": " altså det større budget, du bruger af.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 743.0,
       "end": 745.0,
       "text": " Morten, jeg tænker på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 747.0,
       "text": " nu er det her jo to, lad os sige, 17-årige kvinder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 747.0,
       "end": 749.0,
       "text": " Hvis nordisk film nu kunne tænke sig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 749.0,
       "end": 751.0,
       "text": " at ramme mere som 33-årige mænd,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 751.0,
       "end": 754.0,
       "text": " så er jeg ret billigt til salg som influencer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 754.0,
       "end": 756.0,
       "text": " Hvis nu de kunne tænke sig nogle annoncer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 756.0,
       "end": 757.0,
       "text": " der går i en helt anden retning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 757.0,
       "end": 758.0,
       "text": " fordi jeg vil gerne have nogle flere biografbilleder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 758.0,
       "end": 759.0,
       "text": " som mig og mine børn,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 759.0,
       "end": 760.0,
       "text": " det kan du naturligvis nævne",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 760.0,
       "end": 762.0,
       "text": " næste gang, du snakker med Martin derinde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 762.0,
       "end": 763.0,
       "text": " Jeg har ikke det største rækkevidde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 763.0,
       "end": 765.0,
       "text": " men jeg virkelig er hærdig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 765.0,
       "end": 767.0,
       "text": " Vi leder altid efter content creators,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 767.0,
       "end": 768.0,
       "text": " og teaterlytter med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 768.0,
       "end": 770.0,
       "text": " Hvis I hopper ind på TikTok,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 770.0,
       "end": 772.0,
       "text": " det kræver, at I har en platform selvfølgelig,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 772.0,
       "end": 774.0,
       "text": " men hvis I hopper derind,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 774.0,
       "end": 775.0,
       "text": " så kan I også godt se,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 775.0,
       "end": 777.0,
       "text": " det er et klassisk TikTok eksempel.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 777.0,
       "end": 779.0,
       "text": " Nogle relativt unge piger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 779.0,
       "end": 782.0,
       "text": " som kalder TikTok-språget direkte ud i filet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 782.0,
       "end": 786.0,
       "text": " Men I vil også kunne se biografchefen bo på 34 derinde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 786.0,
       "end": 788.0,
       "text": " Så vi har forskellige...",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 788.0,
       "end": 790.0,
       "text": " Har han rist?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 790.0,
       "end": 791.0,
       "text": " Åh nej.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 791.0,
       "end": 794.0,
       "text": " Christian, Christian hjælp.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 794.0,
       "end": 796.0,
       "text": " Har han rist?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 796.0,
       "end": 797.0,
       "text": " Vi har tidligere været efter,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 797.0,
       "end": 799.0,
       "text": " hvorfor I ikke kan forstå slanget.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 799.0,
       "end": 800.0,
       "text": " Ikke det der nogamle, mand.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 800.0,
       "end": 802.0,
       "text": " Ikke det der nogamle.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 805.0,
       "end": 807.0,
       "text": " Chat, har han rist?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 807.0,
       "end": 808.0,
       "text": " Åh ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 808.0,
       "end": 810.0,
       "text": " Vi skal en eller anden dag køre en livestream,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 810.0,
       "end": 812.0,
       "text": " og så virkelig bare gå all in.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 812.0,
       "end": 814.0,
       "text": " Ja, det er fandme ikke tufft, det der.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 814.0,
       "end": 815.0,
       "text": " Men det der...",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 815.0,
       "end": 817.0,
       "text": " Slag.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 817.0,
       "end": 819.0,
       "text": " Slag, mand.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 820.0,
       "end": 822.0,
       "text": " Ja, det er sgu Sigma nok.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 822.0,
       "end": 824.0,
       "text": " Ja.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 824.0,
       "end": 826.0,
       "text": " Men Skibbity, altså...",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 826.0,
       "end": 829.0,
       "text": " Hvis man går og kigger, så kan man se,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 829.0,
       "end": 832.0,
       "text": " at alt på kontoren har forskellige former for målgrupper,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 832.0,
       "end": 834.0,
       "text": " og det er det, der virker.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 834.0,
       "end": 837.0,
       "text": " Det er det, så vil vi afslutte dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 839.0,
       "text": " Chat, Sigma, rist, Skibbity.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 841.0,
       "text": " Jeg skal op og have en hvid monster og en søn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 841.0,
       "end": 843.0,
       "text": " Tusind tak, fordi I blev med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 843.0,
       "end": 845.0,
       "text": " Og på genhør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

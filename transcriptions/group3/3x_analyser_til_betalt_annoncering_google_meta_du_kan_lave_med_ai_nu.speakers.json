@@ -9,1745 +9,1749 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 6.0,
       "text": " Hej og velkommen til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.0,
       "end": 14.0,
       "text": " I sidste episode, i mandags i Marketingpod, der snakkede vi bl.a. om at hive data ud af f.eks. Facebookads og Googleads og lave korrelationsanalyser med AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 21.0,
       "text": " Og vi synes det her er så spændende, at vi godt kunne tænke os at vise nogle flere analyser, man kan lave til f.eks. betalt annoncering via AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 21.0,
       "end": 25.0,
       "text": " Og Christian, hvis du lige skulle hurtigt opsummere, hvad var det vi snakkede om i sidste episode her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 30.0,
       "text": " I sidste episode snakkede vi ret meget om netop korrelationsanalyser. Og hvad er det så?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 30.0,
       "end": 35.0,
       "text": " Jamen det er en statistisk metode, hvor vi kigger på, hvor stærk og i hvilken retning er det egentlig, at to variabler hænger sammen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 35.0,
       "end": 42.0,
       "text": " F.eks. når vi spænder mere på metads, kan vi så egentlig se, at det har en positiv indvirkning på forretningen eller ej.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 42.0,
       "end": 45.0,
       "text": " Og det kan man jo så kigge på på forskellige måder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 45.0,
       "end": 54.0,
       "text": " Og det er her, hvor AI i dag bare har mulighed gjort, at sådan nogen som vi to kan sidde og lave korrelationsanalyser i et væk, hvor det tidligere har været lidt svære.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 55.0,
       "end": 66.0,
       "text": " Det må man sige. Og Tini, jeg fortalte jo sidste gang om min dårlige oplevelse på gymnasiet med, at jeg trækte matematik af til sidst og derfor endte med 0-0 i huden, selvom jeg egentlig klarede det ok i gymnasiet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 66.0,
       "end": 69.0,
       "text": " Hvordan klarede du det egentlig i gymnasiet?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 69.0,
       "end": 71.0,
       "text": " Hvordan klarede du det egentlig, Tini?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 71.0,
       "end": 78.0,
       "text": " Gymnasiet, det var nok der, hvor jeg peakede. Jeg fik jo sagt i sidste episode, at jeg var rimelig glad for de der ekstra bonuspoeng, man kunne få, når man havde 5A-fag.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 78.0,
       "end": 80.0,
       "text": " Og hvorfor bager du det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 80.0,
       "end": 85.0,
       "text": " Det er faktisk, da jeg kom ud med et snit på 12,74, på grund af, at man kunne gange op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 85.0,
       "end": 89.0,
       "text": " Så er det godt nok også gået ned af siden, skal jeg så love.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 89.0,
       "end": 94.0,
       "text": " Fordi jeg dummer altså et kvantitativt metode på bacheloren, så der er meget højt at flyve.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 94.0,
       "end": 100.0,
       "text": " Jeg forstår ikke, hvorfor det er mig, der trækker de her statistiske episoder, når du har 12,7 i snit på gymnasiet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 105.0,
       "text": " Og du var for ydmygt til at sige det selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 105.0,
       "end": 109.0,
       "text": " Hvordan kan en person, der har 12,7 i gymnasiet, investere så dårligt, som du gør?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 109.0,
       "end": 111.0,
       "text": " Jamen, det er sgu da derfor, jeg ikke siger det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 111.0,
       "end": 114.0,
       "text": " Altså, det er lidt pinligt. Der er et eller andet her, der ikke hænger sammen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 114.0,
       "end": 116.0,
       "text": " Folk finder ud af, at jeg er snydt i AI.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 118.0,
       "end": 120.0,
       "text": " Ej, det er lang tid siden. Det er glemt nu, du er tilgivet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 120.0,
       "end": 124.0,
       "text": " Vi skal snakke om tre andre analyser, man kan lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 124.0,
       "end": 126.0,
       "text": " Fordi der ligger så mange fede muligheder med AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 130.0,
       "text": " Og det her, det er baseret på en større præsentation, jeg har lavet for en dansk e-commerce virksomhed for nylig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 130.0,
       "end": 134.0,
       "text": " Hvor vi har trukket en masse data ud, analyseret med henblik på at lave 2026-planer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 134.0,
       "end": 137.0,
       "text": " Og der kunne jeg bare godt tænke mig at dele et par stykker af dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 141.0,
       "text": " Den første analyse, vi har lavet her, det er impact af brand awareness på den her specifikke konto.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 141.0,
       "end": 146.0,
       "text": " Det man kan se her, det er en analyse af, hvor mange penge, vi har brugt på brand awareness over tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 148.0,
       "text": " Så man skal forestille sig en stor webshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 150.0,
       "text": " De har brugt mange penge på Facebook hele tiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 153.0,
       "text": " Men i løbet af det sidste halve år, begynder de rent faktisk at bruge penge på brand awareness.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 153.0,
       "end": 155.0,
       "text": " Og det giver jo rigtig god mening.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 155.0,
       "end": 159.0,
       "text": " Fordi man skal bruge flere penge på brand awareness, hvis man oplever, at ens effektivitet falder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 159.0,
       "end": 162.0,
       "text": " Det vil sige, at man bruger flere penge, uden at få flere konverteringer ud af dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.0,
       "end": 167.0,
       "text": " Problemet er bare, når man kigger på effekten af rent faktisk at bruge mere brand awareness,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 167.0,
       "end": 171.0,
       "text": " så er der en positiv korrelation, som er højt signifikant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 171.0,
       "end": 174.0,
       "text": " Og vi ønsker ikke en positiv korrelation lige i det her tilfælde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 178.0,
       "text": " Fordi den positive korrelation, den betyder, at når vi bruger flere penge på brand awareness,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 180.0,
       "text": " så stiger prisen per køb på webshoppen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 180.0,
       "end": 182.0,
       "text": " Og det er jo det modsatte af den forventede effekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 182.0,
       "end": 186.0,
       "text": " Så det vil sige, den brand awareness, der bliver kørt på den her virksomhed lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 186.0,
       "end": 188.0,
       "text": " leverer faktisk ikke, fordi det øger bare omkostningerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 192.0,
       "text": " Og normalt vil man jo tro, at brand awareness hjælper på den samlede pris per konversering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 194.0,
       "text": " fordi vi når ud til nye personer osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 194.0,
       "end": 197.0,
       "text": " Men i det her konkrete tilfælde, når vi analyserer på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 197.0,
       "end": 200.0,
       "text": " så kan vi se, at det faktisk ikke er tilfældet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.0,
       "end": 203.0,
       "text": " Og hvis du skulle gætte, fordi jeg har heller ikke svaret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 203.0,
       "end": 207.0,
       "text": " hvordan kan man se en øget pris per køb, når man bruger flere penge på brand awareness?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 209.0,
       "text": " Hvordan kan det næsten ske?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 212.0,
       "text": " Det handler jo nok om, at brand awareness, det er,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 212.0,
       "end": 215.0,
       "text": " der fortæller du algoritmen i det her tilfælde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 215.0,
       "end": 220.0,
       "text": " at du gerne vil have den her annonce ud og leve.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 220.0,
       "end": 223.0,
       "text": " Ikke nødvendigvis til folk, der er most likely to buy,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 223.0,
       "end": 226.0,
       "text": " altså der er i purchase mode, men som egentlig bare skal være opmærksom på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 226.0,
       "end": 228.0,
       "text": " hvad branded her kan.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 228.0,
       "end": 230.0,
       "text": " Og i og med, at man så bruger flere penge der,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 230.0,
       "end": 233.0,
       "text": " så er det klart, at så stiger ens pris per konversering,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 233.0,
       "end": 235.0,
       "text": " hvis ikke også, at der kommer det ekstra konverseringer ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 235.0,
       "end": 238.0,
       "text": " Så på den måde giver det jo egentlig fint nok meaning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 238.0,
       "end": 240.0,
       "text": " Ja, men jeg tænker mere på, hvorfor?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 240.0,
       "end": 242.0,
       "text": " Hvordan kan man køre brand awareness,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 244.0,
       "text": " og så ikke se tilfældet på konverseringspris?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 246.0,
       "text": " Jeg har nemlig to hypoteser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 246.0,
       "end": 249.0,
       "text": " Den ene, det er, at det bare er en længere kunderejse, end vi kigger på her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 249.0,
       "end": 251.0,
       "text": " så de har kun brugt mange penge de sidste halve år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 253.0,
       "text": " men det tror jeg faktisk ikke er tilfældet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 253.0,
       "end": 255.0,
       "text": " Det andet, det er, at de simpelthen har kørt det forkerte materiale,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 257.0,
       "text": " brand awareness, som ikke hjælper folk med at huske dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.0,
       "end": 259.0,
       "text": " Fordi man skal huske, at brand awareness er jo to ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 259.0,
       "end": 261.0,
       "text": " det er at nå ud til nye personer, og det er at nå ud med et budskab,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 261.0,
       "end": 262.0,
       "text": " de rent faktisk husker en for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 262.0,
       "end": 264.0,
       "text": " Jeg tror, de lykkes med den ene ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.0,
       "end": 265.0,
       "text": " Jeg tror ikke, de lykkes med den anden ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 265.0,
       "end": 267.0,
       "text": " Det er mit bedste bud i hvert fald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.0,
       "end": 269.0,
       "text": " Det er noget, jeg vil frem til med spørgsmålet om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 269.0,
       "end": 271.0,
       "text": " hvor lang en periode er det, vi kigger henover her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 271.0,
       "end": 273.0,
       "text": " Fordi det er klart, at hvis vi skal aktivere nogen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 273.0,
       "end": 275.0,
       "text": " der ikke var i et mindset om at skulle købe,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 275.0,
       "end": 277.0,
       "text": " så må vi også antage, at der går noget tid,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 277.0,
       "end": 279.0,
       "text": " før at de ligesom handler.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 279.0,
       "end": 281.0,
       "text": " Og især i den her webshop, så ved vi, at der er en lidt længere kunderejse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 281.0,
       "end": 283.0,
       "text": " Så på den måde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 283.0,
       "end": 285.0,
       "text": " er det ret interessant, det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 285.0,
       "end": 287.0,
       "text": " Og jeg vil sige, jeg synes,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 287.0,
       "end": 289.0,
       "text": " hvis man kører brand awareness i et halvt år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 289.0,
       "end": 291.0,
       "text": " og stadig oplever en stigende pris på kompensering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 291.0,
       "end": 293.0,
       "text": " på trods af, at man gør det, så synes jeg ikke, man skal være tilfreds med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 295.0,
       "text": " Så skal man kigge ind i, hvilke budskaber man rent faktisk kører med brand awareness.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 297.0,
       "text": " Det er noget andet, hvis man er professional services,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 297.0,
       "end": 299.0,
       "text": " eller B2B, eller har super lange kunderejser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 299.0,
       "end": 301.0,
       "text": " I det her tilfælde, så er det en webshop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 303.0,
       "text": " deres produkter koster nogle tusind kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 303.0,
       "end": 305.0,
       "text": " Det er mange penge, men det er også nok til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 305.0,
       "end": 307.0,
       "text": " at du ikke skal overveje det i et halvt år, i hvert fald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 307.0,
       "end": 309.0,
       "text": " Så det er den ene analyse, man kan lave,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 309.0,
       "end": 311.0,
       "text": " det er at tage effekten af brand awareness,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 311.0,
       "end": 313.0,
       "text": " og se om det samlede har en positiv impact på ens pris",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 313.0,
       "end": 315.0,
       "text": " pr. kompensering på hele konsolen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 315.0,
       "end": 317.0,
       "text": " Man kan også tage antallet af samlete omsætning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 317.0,
       "end": 319.0,
       "text": " man har, som ud over hvad Mesa selv har tilskrevet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 319.0,
       "end": 321.0,
       "text": " og se om det måske er positivt, hvis man måler med et andet datasæt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 323.0,
       "text": " Men det er en analyse, AI er super god til at lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 325.0,
       "end": 327.0,
       "text": " Bare lige før vi hopper, det er bare helt lavpraktisk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 327.0,
       "end": 329.0,
       "text": " når du siger brand awareness,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 329.0,
       "end": 331.0,
       "text": " hvordan distinguisher,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 331.0,
       "end": 333.0,
       "text": " hvad hedder det, hvordan adskiller du det på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 333.0,
       "end": 335.0,
       "text": " metacontent i det her tilfælde?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 335.0,
       "end": 337.0,
       "text": " Er det fordi, at kampagnen navnet simpelthen har navnet brand awareness,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 337.0,
       "end": 339.0,
       "text": " og det er på den måde, det er bare sådan helt lavpraktisk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 339.0,
       "end": 341.0,
       "text": " så folk ved, hvordan man kiver datan ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 341.0,
       "end": 343.0,
       "text": " Det jeg har gjort, det er, at jeg har været inde i",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 343.0,
       "end": 345.0,
       "text": " annonce-rapportering på Mesa, jeg deler skærmen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 345.0,
       "end": 347.0,
       "text": " så man kan se det her, så har jeg lagt et filter ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 347.0,
       "end": 349.0,
       "text": " som hedder målsætning alligevel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 349.0,
       "end": 351.0,
       "text": " og så har jeg taget de tre, der hedder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 351.0,
       "end": 353.0,
       "text": " kendskab, kendskab til brand og rækkevidde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.0,
       "end": 355.0,
       "text": " Der er flere forskellige, fordi der er noget lækkert at se",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 357.0,
       "text": " i gamle kampagnemålsætninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 357.0,
       "end": 359.0,
       "text": " Så har jeg valgt kun det, og så har jeg trukket",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 359.0,
       "end": 361.0,
       "text": " brugt beløb ud, så det vil sige",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 361.0,
       "end": 363.0,
       "text": " direkte inden for Facebook, ikke afhængig af navngivningen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 363.0,
       "end": 365.0,
       "text": " fordi navngivningen kan fejle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 365.0,
       "end": 367.0,
       "text": " Der har jeg simpelthen bare taget de kampagner helt konkret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 367.0,
       "end": 369.0,
       "text": " som er optimeret efter kendskab,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 371.0,
       "text": " kendskab til brand og rækkevidde, trukket de penge ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 371.0,
       "end": 373.0,
       "text": " og så kan man mest se, hvor mange af de penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 375.0,
       "text": " vi samlet set analyserer, udgør det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 375.0,
       "end": 377.0,
       "text": " Og det er faktisk på den måde, vi har lavet analysen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 377.0,
       "end": 379.0,
       "text": " Lad os tabe analysen nummer to,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 381.0,
       "text": " og det er den, jeg tænker, du også har lavet før,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 383.0,
       "text": " fordi den er meget ekonvendelig, og vi kalder den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 383.0,
       "end": 385.0,
       "text": " Budget Efficiency Zones.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 385.0,
       "end": 387.0,
       "text": " Det vi kigger på her, det er, hvor mange penge vi bruger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 387.0,
       "end": 389.0,
       "text": " og hvad pris per køb er. Og der kan vi så se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 391.0,
       "text": " at når vi bruger under 30.000 kroner om ugen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 391.0,
       "end": 393.0,
       "text": " så er pris per køb 2.200.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 393.0,
       "end": 395.0,
       "text": " Når vi bruger 30.000 til 37.000,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 397.0,
       "text": " så er pris per køb 1.800, og når vi bruger over",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 397.0,
       "end": 399.0,
       "text": " 37.000, så er prisen 2.500.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 399.0,
       "end": 401.0,
       "text": " Så det vil sige, at hvis vi bruger for få penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 403.0,
       "text": " stiger pris per køb. Hvis vi bruger for mange penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 403.0,
       "end": 405.0,
       "text": " stiger pris per køb. Men lige i midten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 405.0,
       "end": 407.0,
       "text": " der ligger 1.800 kroner, som i øvrigt er en fin",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 407.0,
       "end": 409.0,
       "text": " pris per køb. Det er nogle halvdyre produkter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " og høj ordervalg, vi snakker om her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " Så 1.800 kroner per køb. Men det er jo sjovt at se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 415.0,
       "text": " at hvis du faktisk bruger færre penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 417.0,
       "text": " så får du også en højere pris per køb.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 417.0,
       "end": 419.0,
       "text": " Og det er jo på grund af læringsfaser. Når du har kampagner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 421.0,
       "text": " så kommer du ud af læringsfasen, så leverer du ikke lige så godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 421.0,
       "end": 423.0,
       "text": " Og i det her tilfælde, der kan vi se, at deres",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 423.0,
       "end": 425.0,
       "text": " Medium Zone, deres Sweet Spot,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 427.0,
       "text": " det er omkring 30.000-37.000 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 429.0,
       "text": " Om ugen i spændt rammer de de laveste",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 431.0,
       "text": " priser per køb. Og det her er jo en meget fed episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 433.0,
       "text": " fordi den svarer, eller ikke episode, det er det også jo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " Men det er en meget fed analyse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 437.0,
       "text": " Det er en meget fed analyse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 437.0,
       "end": 439.0,
       "text": " Ja, det er dig, der plejer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " at humblebrag her. Det var ikke engang humble,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " det var bare brag, det der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " Det var noget klogt, du sagde der, som jeg selv har",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 447.0,
       "text": " tænkt på et shit. Var det det, du sagde?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 449.0,
       "end": 451.0,
       "text": " Men det er en fed analyse, fordi du kan",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " se en anbefaling af, hvor mange",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " penge, du faktisk skal bruge om ugen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 455.0,
       "end": 457.0,
       "text": " Så det besvarer det der spørgsmål, hvor meget skal vi bruge for at få",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 457.0,
       "end": 459.0,
       "text": " den lavest mulige pris per køb. I det her tilfælde skal vi bruge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " ca. 30.000 kroner om ugen. Men det her, det viser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 461.0,
       "end": 463.0,
       "text": " også, hvorfor man generelt godt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " kan have lidt svært ved at skalere en",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " konto. Fordi i takt med, at du bruger flere penge,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 467.0,
       "end": 469.0,
       "text": " så skal Meta ud og finde",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 469.0,
       "end": 471.0,
       "text": " endnu flere mennesker. Og",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 471.0,
       "end": 473.0,
       "text": " de mennesker, som Meta startede med at finde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 473.0,
       "end": 475.0,
       "text": " var nok dem, der var allermest likely to buy.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 475.0,
       "end": 477.0,
       "text": " Og det er klart, at så begynder man at skyde mere med",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 477.0,
       "end": 479.0,
       "text": " spredhavl. Så det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 479.0,
       "end": 481.0,
       "text": " det er jo en fantastisk fed analyse at kunne lave.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Og hvordan har du lavet den helt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 483.0,
       "end": 485.0,
       "text": " konkret med AI-halvfanden?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 485.0,
       "end": 487.0,
       "text": " Så det er simpelthen, at jeg har igen taget et udtryk fra",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 487.0,
       "end": 489.0,
       "text": " annoncekontoren. Og så har jeg taget det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 489.0,
       "end": 491.0,
       "text": " per uge de sidste to år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " Så har jeg taget pris per køb og brugt beløb.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 495.0,
       "text": " Og det er de to, jeg så har hævet ud i",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 495.0,
       "end": 497.0,
       "text": " to et intervald. Og så kan jeg bede AI",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 497.0,
       "end": 499.0,
       "text": " om at sige, simpelthen lave de her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 501.0,
       "text": " grupperinger. Og det er Manus i det her tilfælde, der har lavet det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 503.0,
       "text": " med ChatGPU-serien. XAI og",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Gemini kan det samme. Så jeg har bare bedt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " den om at udregne budget efficiency zones og dele",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 509.0,
       "text": " den op i tre forskellige zoner. Man kan også bede om 5",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.0,
       "end": 511.0,
       "text": " eller 10 eller hvad man gerne vil. Og så har den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 511.0,
       "end": 513.0,
       "text": " simpelthen bare grupperet dem og set,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 513.0,
       "end": 515.0,
       "text": " når vi bruger så mange penge, hvad er pris per",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 515.0,
       "end": 517.0,
       "text": " køb så? Så mange penge, hvad er pris per køb så?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 517.0,
       "end": 519.0,
       "text": " Så jeg har i virkeligheden bare taget de her to dataset,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 519.0,
       "end": 521.0,
       "text": " brugt beløb og pris per køb i to år",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 521.0,
       "end": 523.0,
       "text": " og så bedt om at få budget efficiency zones",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " tilbage igen. Den tredje analyse, jeg har lavet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 525.0,
       "end": 527.0,
       "text": " som jeg også synes er ret fed, det er at lave sådan en effektivitets",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 527.0,
       "end": 529.0,
       "text": " trend over tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 531.0,
       "text": " Og effektivitets trend over tid, den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 531.0,
       "end": 533.0,
       "text": " viser noget om, hvordan går det i det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 533.0,
       "end": 535.0,
       "text": " hele taget på kontoen. Og i det her tilfælde, der kan man",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " se en opadgående trend i",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 539.0,
       "text": " pris per køb. Og den er sådan opadgående",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 539.0,
       "end": 541.0,
       "text": " over en længere periode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 541.0,
       "end": 543.0,
       "text": " Årsagen til at jeg har lavet den her, det er at den fortæller noget om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " hvor moden deres marked er. Fordi hvis vi oplever",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 545.0,
       "end": 547.0,
       "text": " at de bruger flere penge, men ikke får",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " tilsvarende flere resultater ud af det, eller vi oplever",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " at deres generelle pris per konvertering",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 553.0,
       "text": " stiger rimelig statistisk signifikant",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 555.0,
       "text": " og det gør den i det her tilfælde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 555.0,
       "end": 557.0,
       "text": " Der er en meget høj statistisk signifikans i forhold",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 557.0,
       "end": 559.0,
       "text": " til at deres gennemsnitlige pris faktisk stiger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " ganske betragteligt uge for uge over",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " de sidste to år. Det kan fortælle noget om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " at markedet er skrumpet. Det kan fortælle noget om",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 567.0,
       "text": " at der er flere konkurrenter. Det fortæller",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 569.0,
       "text": " i hvert fald noget om at konkurrencesituationen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " er ret offensiv i markedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 573.0,
       "text": " Fordi enten så er de blevet marginalt dårligere uge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 573.0,
       "end": 575.0,
       "text": " for uge over de sidste to år. Det tror jeg ikke er tilfældet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " Jeg tror de er lige så gode som de nogensinde har været.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 579.0,
       "text": " Men jeg tror enten så er der",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 579.0,
       "end": 581.0,
       "text": " færre personer i markedet, som gør at pris per køb",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 581.0,
       "end": 583.0,
       "text": " stiger. Eller så er der flere konkurrenter, der er blevet mere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 583.0,
       "end": 585.0,
       "text": " offensiv og så stiger pris per køb.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 585.0,
       "end": 587.0,
       "text": " Det er jo lidt det samme man også har med Black Friday og julesalget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 589.0,
       "text": " med webshops, der er bagud på det årlige budget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 591.0,
       "text": " og så skruer de op for rabatknappen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 593.0,
       "text": " Og så stjæler de salget for alle andre, der ikke er lige så desperate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 595.0,
       "text": " Og jeg tror det er det der er et udtryk for i de sidste to år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 597.0,
       "text": " Men sådan en effektivitetstrend over tid",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 599.0,
       "text": " den kan fortælle dig noget ikke om din performance her og nu",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 599.0,
       "end": 601.0,
       "text": " men mere det underlæggende marked",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 601.0,
       "end": 603.0,
       "text": " og er det måske tid til at man begynder at sælge nogle",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 605.0,
       "text": " andre produkter i det samme marked eller begynder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 607.0,
       "text": " at sælge de samme produkter i nogle andre marked",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 609.0,
       "text": " eller et eller andet skal man i hvert fald ikke gøre på den graf der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 611.0,
       "text": " Og det du gør her, det er virkelig vigtigt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 611.0,
       "end": 613.0,
       "text": " at man lige lægger mærke til det, fordi det du gør",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 613.0,
       "end": 615.0,
       "text": " det er at du drager ikke en konklusion ud fra statistikken",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 615.0,
       "end": 617.0,
       "text": " når du bruger den her statistik",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 617.0,
       "end": 619.0,
       "text": " og de her resultater til ligesom at pege dig",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 619.0,
       "end": 621.0,
       "text": " i en retning til at stille de spørgsmål",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 621.0,
       "end": 623.0,
       "text": " som er kritiske og som er nødvendige",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " at stille sig selv, men som du jo stiller dig selv",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 625.0,
       "end": 627.0,
       "text": " på baggrund af den her analyse",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 627.0,
       "end": 629.0,
       "text": " og det er bare virkelig, virkelig vigtigt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " for ellers så kan nogle af de her analyser godt blive lidt ensidige",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 631.0,
       "end": 633.0,
       "text": " og man mangler måske noget kontekst",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 633.0,
       "end": 635.0,
       "text": " men bruger det til at stille de rigtige spørgsmål",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 635.0,
       "end": 637.0,
       "text": " rent forretningsmæssigt, fordi at de her statistikker her",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 637.0,
       "end": 639.0,
       "text": " kan rent faktisk præge en i en retning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " Ja, jeg synes det gode ved analysen",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 641.0,
       "end": 643.0,
       "text": " det er at den viser om der er et problem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 645.0,
       "text": " eller ej og en overordnet retning",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 647.0,
       "text": " men den fortæller ikke hvorfor",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 647.0,
       "end": 649.0,
       "text": " eller hvad præcis der sker",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 649.0,
       "end": 651.0,
       "text": " og det er jo der hvor den dygtige marketer stedet skal være inde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " og jeg synes det her er et godt eksempel på hvor du kan bruge AI",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " men også hvor du ikke kan bruge AI",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " fordi du kan helt klart bruge AI til at lave nogle analyser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 657.0,
       "end": 659.0,
       "text": " som jeg personligt ikke ville kunne finde ud af at lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 659.0,
       "end": 661.0,
       "text": " jeg fik heller ikke 12,7 i gymnasiet, så det er bare mig her",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 661.0,
       "end": 663.0,
       "text": " det har jeg sagt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 663.0,
       "end": 665.0,
       "text": " dem kan jeg ikke finde ud af at lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 665.0,
       "end": 667.0,
       "text": " men AI kan finde ud af at lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 667.0,
       "end": 669.0,
       "text": " men det AI ikke kan, det er at den har jo ikke det kendskab",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 669.0,
       "end": 671.0,
       "text": " til virksomheden jeg har og kender ikke",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 671.0,
       "end": 673.0,
       "text": " kampagnerne, kender ikke markedet, kender ikke produkterne",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " det gør jeg heller ikke i det her tilfælde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " men det gør jeg jo for vores faste kunder, kan man sige",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 681.0,
       "text": " og jeg tror ikke dem ville kunne komme med en god anbefaling",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 681.0,
       "end": 683.0,
       "text": " til hvordan vi rent faktisk skal løse det her problem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 683.0,
       "end": 685.0,
       "text": " men den kan hjælpe med at definere om der er et problem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 685.0,
       "end": 687.0,
       "text": " og det er der hvor man skal se AI som",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 687.0,
       "end": 689.0,
       "text": " en fantastisk hjælperedskab til at konstatere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 689.0,
       "end": 691.0,
       "text": " er der et problem og lave nogle analyser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 693.0,
       "text": " jeg ikke personligt ville kunne, men derefter så bliver det op til",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 693.0,
       "end": 695.0,
       "text": " de mennesker der er på casene at finde ud af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 695.0,
       "end": 697.0,
       "text": " hvordan vi så rent faktisk løser det bagefter",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

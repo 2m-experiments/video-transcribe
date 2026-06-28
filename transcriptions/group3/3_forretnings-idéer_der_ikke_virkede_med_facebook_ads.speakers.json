@@ -9,197 +9,201 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 3.4,
       "text": " Lad mig prøve at pitche tre forretningsidéer for dig, som jeg har siddet og lavet Facebook-organisering for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.4,
       "end": 5.4,
       "text": " Okay, så forretningsidé nr. 1 til Njo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.0,
       "end": 11.6,
       "text": " Har du lyst til at købe et abonnement, hvor du hver måned får tilsendt to nye uger til 500 kroner pr. stk.?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 13.4,
       "end": 14.4,
       "text": " Okay.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 14.4,
       "end": 16.4,
       "text": " Nej, det har jeg godt nok ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 16.4,
       "end": 18.4,
       "text": " Hvad skulle man bruge det til?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 20.4,
       "end": 23.4,
       "text": " Nu går jeg ikke rigtig op i uger, så det kan godt være, at jeg er den forkerte.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 23.4,
       "end": 24.4,
       "text": " Så vær med to om måneden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 26.4,
       "end": 27.4,
       "text": " Men selv hvis du gør...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.8,
       "end": 30.8,
       "text": " Jeg synes bare, at det her var en faktisk grunde, vi havde for seks år siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 30.8,
       "end": 32.8,
       "text": " Og jeg skal godt sige dig, at den var svær.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 32.8,
       "end": 37.8,
       "text": " Der er høj churn på, når folk har fået deres første fire uger efter to måneder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 38.8,
       "end": 40.8,
       "text": " Okay, lad mig prøve en anden en.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 41.8,
       "end": 44.8,
       "text": " Kunne du tænke dig som virksomhedsejer at købe et abonnement,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 44.8,
       "end": 50.8,
       "text": " hvor jeg hver uge en gang om ugen kommer ud til dine medarbejdere med håndlaget is til 40 kroner pr. stk.?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 52.8,
       "end": 53.8,
       "text": " Den var specifik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.2,
       "end": 57.2,
       "text": " Hvordan så de det ind?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 58.2,
       "end": 59.2,
       "text": " Det havde vi også nogle problemer med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 61.2,
       "end": 62.2,
       "text": " Ikke mindst på grund af prisen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 62.2,
       "end": 64.2,
       "text": " Sådan en ting er, at du vil have is til dine medarbejdere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.2,
       "end": 65.2,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 65.2,
       "end": 67.2,
       "text": " 40 kroner pr. stk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.2,
       "end": 68.2,
       "text": " Og ja, de håndlaget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 68.2,
       "end": 70.2,
       "text": " Og der er fløjet de vildeste nødder inden for Brasilien.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 70.2,
       "end": 71.2,
       "text": " Og hold kæft, de smager godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 71.2,
       "end": 72.2,
       "text": " Jeg smagte også nogen af dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 73.2,
       "end": 75.2,
       "text": " Men 40 kroner pr. stk. en gang om ugen pr. person.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 76.2,
       "end": 78.2,
       "text": " Det er fandme en hel liter is, man kan få for det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 79.2,
       "end": 81.2,
       "text": " Og på den, jeg køber, der kan du få to.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 81.2,
       "end": 83.2,
       "text": " Altså, det er 3 kroner til 17 kroner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 83.8,
       "end": 85.2,
       "text": " Hahahaha.",
-      "speaker": "B"
+      "speaker": "Christian"
     }
   ]
 }

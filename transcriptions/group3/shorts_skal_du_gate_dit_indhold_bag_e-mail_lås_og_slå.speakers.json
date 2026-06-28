@@ -9,2249 +9,2253 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 12.0,
       "text": " Christian, denne episode handler om, hvorvidt man skal gatede ens content, særligt som BSUB-virksomhed, men også som BSUC,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 17.0,
       "text": " og hvis man vil gøre det, hvordan man så eventuelt kan gøre det, og hvilke værktøjer, der kan bruges til formålet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 17.0,
       "end": 21.0,
       "text": " Lad os starte med at definere, hvad betyder det egentlig, når vi snakker om gated content og ligegenrækning?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 21.0,
       "end": 26.0,
       "text": " Helt lavpraktisk handler det om, at du har lavet noget content, det kan være en video, det kan være en e-book,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 26.0,
       "end": 33.0,
       "text": " det kan være en artikel, som du simpelthen synes er så god, og hvor du gerne vil have et eller andet for at låse den op,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 33.0,
       "end": 39.0,
       "text": " at du lægger det bag en mur, så at sige, og der er navnet gated, mange kender det nok fra medierne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 39.0,
       "end": 43.0,
       "text": " hvor der er, at man skal betale sig adgang for at kunne få lov til at læse artiklerne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 43.0,
       "end": 48.0,
       "text": " I det her tilfælde så vil det typisk være, at man skal indtaste sit oplysninger, det kan være navn, det kan være e-mail,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 48.0,
       "end": 51.0,
       "text": " det kan være telefonnummer med videre, hvorefter man så enten får det her tilsendt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 51.0,
       "end": 56.0,
       "text": " eller man kan komme direkte ind og læse eller se det content, man gerne vil ind og have fingrene i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 56.0,
       "end": 59.0,
       "text": " Det er sådan den helt lavpraktiske forklaring.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 59.0,
       "end": 63.0,
       "text": " Et par eksempler på det her, det er for eksempel Whitepaper som B2B virksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 63.0,
       "end": 67.0,
       "text": " Man kan lægge bag et e-mail felt, hvor man skal indtaste det for at få adgang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.0,
       "end": 73.0,
       "text": " De fleste webinars er gated content, hvor du indtaster navn, e-mail og virksomhedsnavn for at få adgang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 73.0,
       "end": 77.0,
       "text": " Man kan lave desiderede landingssider bare med artikler og kræve e-mailer dem, hvis folk signer op der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 77.0,
       "end": 80.0,
       "text": " som vi har et eksempel på senere i dag, og et værktøj, der gør det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 83.0,
       "text": " Så der er mange måder, hvorpå man kan gøre det her på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 83.0,
       "end": 86.0,
       "text": " Obsidian og ICE Digital laver mange arrangementer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 86.0,
       "end": 88.0,
       "text": " Vi har lige haft Marketingby og Aalborg åbent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 88.0,
       "end": 91.0,
       "text": " Begge to er gated i denne forstand, at det ikke bare er en adresse, hvor du møder op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 91.0,
       "end": 94.0,
       "text": " Du skal rent faktisk tilmelde dig først. Når du tilmelder dig, så bliver du tilmeldt nyhedsbredt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.0,
       "end": 97.0,
       "text": " og så får du adgang til rent faktisk at komme til arrangementet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 97.0,
       "end": 102.0,
       "text": " så man kan endda tale om det i en fysisk kontekst, men normalt vil man tale sådan Whitepapers osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 107.0,
       "text": " Når vi starter med at sige, hvorfor man overhovedet skal gøre det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 107.0,
       "end": 111.0,
       "text": " så er det jo fordi, hvis vi afholder, hvis vi laver noget videokontent,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 111.0,
       "end": 114.0,
       "text": " og vi lægger et link op og siger, at alle kan bare gå ind og se det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 114.0,
       "end": 117.0,
       "text": " kontra hvis vi sætter en gate op, hvor man skal indsætte ens navn og e-mail,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 117.0,
       "end": 119.0,
       "text": " så er der jo færre, der rent faktisk kommer til at se det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 119.0,
       "end": 122.0,
       "text": " men nu kan du rent faktisk identificere dem og bruge dem i din marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 125.0,
       "text": " Så det er jo det, der er problemstillingen. Vil du have flest mulighed til at se dit indhold,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 125.0,
       "end": 128.0,
       "text": " eller vil du gerne have flest mulige leads?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 132.0,
       "text": " Hvad er mest værdifuldt for dig af de to?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 132.0,
       "end": 135.0,
       "text": " Hvad er din generelle tilgang til det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 135.0,
       "end": 138.0,
       "text": " Jamen det er sjovt, fordi en gang var det jo det helt store.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 138.0,
       "end": 141.0,
       "text": " Det var gated content, og det var det, alle snakkede om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 141.0,
       "end": 145.0,
       "text": " Og så lidt efter lidt, så begynder man at snakke om, at man skulle åbne mere op for det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 145.0,
       "end": 147.0,
       "text": " og gated content, det er alligevel ikke noget, der virker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 147.0,
       "end": 151.0,
       "text": " Du kan ikke få det til at virke SEO-mæssigt, fordi Google kan ikke få lov til at læse selve artiklen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 151.0,
       "end": 154.0,
       "text": " Som marketingpod lige her og nu er jo non-gated content.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 155.0,
       "text": " Der skal man ikke skrive sig op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 155.0,
       "end": 156.0,
       "text": " Man må gerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
       "end": 160.0,
       "text": " Marketingpod.dk, man må meget gerne, men man behøver ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 160.0,
       "end": 163.0,
       "text": " Nej, og som du selv siger, jeg er lidt splittet på den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 163.0,
       "end": 167.0,
       "text": " fordi på den ene side, så det at du har afgivet noget for at få lov til at læse noget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 167.0,
       "end": 172.0,
       "text": " så skulle du også gerne være mere investeret i, og vil læse og modtage det her indhold.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 172.0,
       "end": 176.0,
       "text": " Men er det også meget fedt bare at komme så langt ud som overhovedet muligt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 176.0,
       "end": 180.0,
       "text": " fordi der er jo også en chance for dem, der rent faktisk har givet en e-mail for at subscribe,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 180.0,
       "end": 182.0,
       "text": " for så at få adgang, de aldrig læser det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 182.0,
       "end": 185.0,
       "text": " Den ender af indbakken, og så får de aldrig kigget på det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 185.0,
       "end": 187.0,
       "text": " Jeg ved faktisk ikke, om der er nogen, der har lavet statistik på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 187.0,
       "end": 189.0,
       "text": " hvor mange der rent faktisk læser de her white papers.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 189.0,
       "end": 191.0,
       "text": " Jeg tror, det er lidt skræmmende faktisk, for der er mange,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 191.0,
       "end": 194.0,
       "text": " der lige i momentet bliver ramt af den her dopamin og skriver sig op,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 194.0,
       "end": 195.0,
       "text": " men ikke går igennem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 195.0,
       "end": 197.0,
       "text": " Det kan være, at I har aldrig rigtig lavet white papers.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 197.0,
       "end": 198.0,
       "text": " Jeg ved ikke, om I har noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 198.0,
       "end": 200.0,
       "text": " Jeg kan faktisk give dig lidt tal på det, fordi da vi startede i 2016,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.0,
       "end": 203.0,
       "text": " så var det en primær måde, hvorpå vi fyldte vores e-mailliste op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 203.0,
       "end": 207.0,
       "text": " Man kan sige, at vores e-mailliste, vi har cirka 22.000 permissions i Hopspot i dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 208.0,
       "end": 211.0,
       "text": " men 25% af den liste, den churner helt naturligt hver eneste år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 211.0,
       "end": 215.0,
       "text": " fordi 25% af alle danskere skifter job hvert år, og så får de en ny arbejds-e-mail,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 215.0,
       "end": 217.0,
       "text": " og så forsvinder mailsen uden at de hardbouncer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 217.0,
       "end": 222.0,
       "text": " Så 25%, 6-8.000 af vores e-mailliste, den dør bare hvert år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 222.0,
       "end": 224.0,
       "text": " Så vi skal gøre en del arbejde for at replenishe den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 228.0,
       "text": " fordi vores e-mailbase er et meget stort aktiv for os i vores sales- og marketingarbejde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 228.0,
       "end": 232.0,
       "text": " Og der har white papers tidligere været en primær måde, hvorpå vi gjorde det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 232.0,
       "end": 235.0,
       "text": " Så vi lavede white papers, typisk 20, 30, 40, 50 sider, og sagde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.0,
       "end": 236.0,
       "text": " at du kan downloade dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 236.0,
       "end": 240.0,
       "text": " Og det vi stoppede med igen, og årsagen til, at vi stoppede med dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 240.0,
       "end": 243.0,
       "text": " det er, at når vi så så på, hvor mange læste rent faktisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 243.0,
       "end": 247.0,
       "text": " og jeg brugte bare en proxy, der hedder, hvor mange åbner mailen og klikker på linket til PDF.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 247.0,
       "end": 250.0,
       "text": " Hvis du ikke gør det, så har du i hvert fald ikke læst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 254.0,
       "text": " Og med det samme, selvom vi sender mail med det samme, når folk de beder om at få det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 254.0,
       "end": 256.0,
       "text": " så 30% de åbner aldrig den mail, vi sender til dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 256.0,
       "end": 260.0,
       "text": " Det kan være, at bussturen er slut, eller du gad ikke lige læse det alligevel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 263.0,
       "text": " da du rent faktisk kom til dine mails, eller hvad det skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 263.0,
       "end": 267.0,
       "text": " Så 30% af dem, vi fik ind som leads, åbnede aldrig mailen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 267.0,
       "end": 269.0,
       "text": " Og de 30%, det kan godt være, at vi har en permission på dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 269.0,
       "end": 272.0,
       "text": " men de har ingen idé om, hvem vi er, så jeg tror ikke, de er særlig kvalificerede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 272.0,
       "end": 276.0,
       "text": " Ud af dem, der åbnede mailen, så var det under halvdelen, der klikkede på linket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.0,
       "end": 280.0,
       "text": " Så det var under halvdelen af de 70%, der åbnede, så er vi altså nede på 35% af dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 284.0,
       "text": " som rent faktisk bad om materialet, som overhovedet klikkede på linket til at læse det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 284.0,
       "end": 287.0,
       "text": " Hvor mange af dem gik så rent faktisk i gang med at læse, det ved jeg ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 287.0,
       "end": 289.0,
       "text": " men der tror jeg, at vi er nede på halvdelen igen. Best case.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 289.0,
       "end": 293.0,
       "text": " Så den udregning, vi lavede, det var, at det var en ret billig måde for os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 296.0,
       "text": " at få nyhedsprøves tilmeldinger ind, men den var også meget ukvalificeret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 296.0,
       "end": 301.0,
       "text": " Hvor hvis vi nu sammenligner med webinars, som er en af de primære måder, hvorpå vi gør det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 306.0,
       "text": " det er sådan, at vi fylder meget op i dag. Vi kører en, lad os sige, 15, 16, 17 webinars i år",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 309.0,
       "text": " i Obsidian Digital, og vi vil gerne have 10.000 tilmeldinger på dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 309.0,
       "end": 313.0,
       "text": " Mange af dem er der i forvejen og kender os, men det er også den måde, hvorpå vi holder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 313.0,
       "end": 317.0,
       "text": " vores e-mailliste oppe. Det er omkring 60%, både live og on demand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 317.0,
       "end": 320.0,
       "text": " af dem, der tilmelder sig et webinar, der rent faktisk går i gang med at se det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 320.0,
       "end": 327.0,
       "text": " Og af de 60%, så bruger de i gennemsnit 52 minutter på tværs af alle vores webinars i 23 lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 327.0,
       "end": 330.0,
       "text": " Så 60% af dem, der gør det, bruger 52 minutter. Jeg ved ikke, om de er multiscreenere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 335.0,
       "text": " og laver noget andet ved siden af, men det er multitudes meget mere, end de vil bruge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 335.0,
       "end": 336.0,
       "text": " med et PDF-dokument.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 336.0,
       "end": 339.0,
       "text": " Ja, og det er jo lidt af det samme, vi sidder og kigger på. Nu er det godt nok ikke gated,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 339.0,
       "end": 343.0,
       "text": " men MarketingPod, hvor er det også udgivs på YouTube, og man kan se os på video,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 343.0,
       "end": 346.0,
       "text": " hvis man har lyst til det. Og der kan vi jo sidde og følge med i mange timer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 346.0,
       "end": 349.0,
       "text": " Man kan blandt andet se det trøje, jeg har på lige nu. Hvad siger du til det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 349.0,
       "end": 354.0,
       "text": " Jeg skal simpelthen spørge dig, hvad er det, du har på?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 354.0,
       "end": 360.0,
       "text": " Det, der sker, det er, at det er koldt. Verden er kold. Kontoret er i hvert fald koldt lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 360.0,
       "end": 366.0,
       "text": " Og jeg har ikke taget en trøje med. Og så spørger jeg vores gode ven Lone fra leasen.dk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 366.0,
       "end": 373.0,
       "text": " kan jeg låne en trøje? Og leasen.dk er en trøje-webshop, og det viser sig, at hun har den her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 379.0,
       "text": " blomstrede genialitet liggende i bagagerummet på hendes bil. Og det er svært at forklare til folk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 383.0,
       "text": " der lytter til det her. Men altså...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 383.0,
       "end": 389.0,
       "text": " Jeg ved slet ikke, hvad jeg skal sige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 389.0,
       "end": 395.0,
       "text": " Hvis man forestiller sig inden for fashion-branchen, så har de fleste brands sådan nogle styles,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 395.0,
       "end": 399.0,
       "text": " som virkelig skiller sig ud, hvor de godt ved, at det her kommer ikke til at sælge,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 399.0,
       "end": 404.0,
       "text": " men det er med til at få det andet til at se godt ud. Her er vi over i den første kategori.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 404.0,
       "end": 407.0,
       "text": " Vi er ved den style, hvor man bare har sagt, at nu skal vi gøre et eller andet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 407.0,
       "end": 411.0,
       "text": " som er så vildt for øjnene, at man ikke forstår, hvad der er, der foregår.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 411.0,
       "end": 415.0,
       "text": " Jeg ved ikke, hvordan det er at tage syre, men jeg tror, det er sådan her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 415.0,
       "end": 418.0,
       "text": " Jeg tror faktisk, det er en meget god forklaring. Jeg har heller ikke prøvet det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 418.0,
       "end": 422.0,
       "text": " men ud fra, hvad man hører... Jeg længer sikkert på, at det føles som den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 425.0,
       "text": " Se ud. Den er vild, mand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 430.0,
       "text": " Jeg har det varmt og komfortabelt i mute-boksen, så alt er godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 435.0,
       "text": " Hvis man ønsker at se den, så kan man gå ind på YouTube og se videoen her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 435.0,
       "end": 439.0,
       "text": " hvor vi har taget tid at følge med i, hvor mange timer, der bliver konsumeret af vores indhold.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " Og så kan man sige, burde vi have gated det eller ej.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 441.0,
       "end": 444.0,
       "text": " Pludselig kommer det ikke så meget ned til det spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 444.0,
       "end": 447.0,
       "text": " Det er mere, hvor mange er det egentlig, der konsumerer vores indhold,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 447.0,
       "end": 449.0,
       "text": " der bliver det vigtige parameter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 449.0,
       "end": 453.0,
       "text": " Det er klart, vi kan jo ikke gå ud og skrive en mail til alle dem, der har konsumeret,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 453.0,
       "end": 454.0,
       "text": " for vi har jo ikke gated den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 454.0,
       "end": 459.0,
       "text": " Det gode her er, at forhåbentlig kan folk stadig finde den her YouTube-video om et, to, tre år,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 459.0,
       "end": 462.0,
       "text": " når de søger efter et af de keywords, det her emne i dag handler om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 462.0,
       "end": 466.0,
       "text": " Det er lidt svært med det her gated content, der ofte har en meget, meget lille livstidsværdi,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 466.0,
       "end": 469.0,
       "text": " fordi det skal pushes ud, som vi kom ind på før.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 469.0,
       "end": 474.0,
       "text": " Så en af udfordringerne ved det gated content, det er, at det i sig selv kan være rigtig svært",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 474.0,
       "end": 478.0,
       "text": " at være ranked på Google, fordi at Googles algoritme jo ganske kunne gå ind og læse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 478.0,
       "end": 481.0,
       "text": " hvad er det, man har skrevet, og det er det, den ranker ud fra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 481.0,
       "end": 484.0,
       "text": " Det kan man komme udenom, der er vi jo over i nogle lidt andre teknikker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 484.0,
       "end": 488.0,
       "text": " Men som udgangspunkt kan man ikke, så det vil sige, at man er meget, meget afhængig af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 488.0,
       "end": 493.0,
       "text": " at folk signer op, når man kører de her annoncer på det her gated content,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 493.0,
       "end": 495.0,
       "text": " og efter det, så dør den ligesom ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 495.0,
       "end": 497.0,
       "text": " Hvordan må vi have gjort det på her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 497.0,
       "end": 501.0,
       "text": " Der håber vi jo selvfølgelig på, at det bliver ved med at blive konsumeret om lang tid,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 501.0,
       "end": 502.0,
       "text": " men vi kan så heller ikke række ud til dem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 502.0,
       "end": 505.0,
       "text": " Så der er to sider af sagen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 505.0,
       "end": 509.0,
       "text": " Jeg vil sige, at min egen opdeling er, at hvis man tager årsagen til, at marketing på det ikke er gated,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.0,
       "end": 511.0,
       "text": " men vores webinars, det er gated.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 511.0,
       "end": 514.0,
       "text": " Marketingpod, det er ultra-opperfunnel for os.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 514.0,
       "end": 517.0,
       "text": " Fordi det er jo indirekt en eller anden form for markedsføring af Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 517.0,
       "end": 519.0,
       "text": " og Aries Digital, og Halften, og Tinew.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 519.0,
       "end": 523.0,
       "text": " Men vi er meget, meget langt fra at begynde at pitche produkter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " eller tale sådan særligt kommersielt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 525.0,
       "end": 528.0,
       "text": " Vi kommer aldrig til at lave en episode af Marketingpod, der hedder Køb CEO,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 528.0,
       "end": 530.0,
       "text": " fordi vi fandme gider lytte til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 530.0,
       "end": 533.0,
       "text": " Og vi laver også det her, fordi vi synes, det er ret sjovt og underholdende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 533.0,
       "end": 535.0,
       "text": " og det er den type materiale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 538.0,
       "text": " Så det er sådan ultra-opperfunnel, og jeg ved, at der er mange, der lytter med til det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 540.0,
       "text": " som også bare gør det, fordi de synes, det er lidt underholdende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 540.0,
       "end": 543.0,
       "text": " og er en god start på ugen, og alt er godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " Hvor hvis man tager et webinar, der hedder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 545.0,
       "end": 548.0,
       "text": " Sådan laver du meget bedre tracking til din Shopify-shop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 548.0,
       "end": 550.0,
       "text": " så er det virkelig noget, som er relevant for dit arbejde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 550.0,
       "end": 553.0,
       "text": " Det er faktisk en del af din arbejdsdag at tilmelde dig det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 553.0,
       "end": 555.0,
       "text": " og lytte til det, og så implementere det efterfølgende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 555.0,
       "end": 558.0,
       "text": " Og når jeg synes, det begynder at være så arbejdsnært og produktnært,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 558.0,
       "end": 561.0,
       "text": " så vil jeg begynde at sætte en gate op, og finde ud af, hvem det rent faktisk er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " Fordi så er det også noget for mig at følge op på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.0,
       "end": 568.0,
       "text": " Dem, der lytter til MarketingPod, som vi har e-mail på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 570.0,
       "text": " alle 40, eller hvad det er, der har tilmeldt sig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 570.0,
       "end": 572.0,
       "text": " Ja, det er jo højt tilbage, tror jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 573.0,
       "end": 576.0,
       "text": " Vi har en e-mail-dress, men det er jo ikke, fordi vi skriver ud til dem og siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 576.0,
       "end": 578.0,
       "text": " vil du købe SEO?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 578.0,
       "end": 580.0,
       "text": " Det vil være underligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 580.0,
       "end": 582.0,
       "text": " Vi vil gerne have folkes e-mail-dress,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 582.0,
       "end": 584.0,
       "text": " fordi så kan vi sende en mail de to gange om ugen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 584.0,
       "end": 586.0,
       "text": " når der kommer en ny MarketingPod-episode, og måske er der flere, der lytter af den årsag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 586.0,
       "end": 589.0,
       "text": " Men vi har heller ikke rigtig nogen kommersiel anvendelse af dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 591.0,
       "text": " Folk, der har deltaget på et webinar, der hedder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 594.0,
       "text": " er der en vis kommersiel mulighed i, så vil jeg gerne fortælle dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 596.0,
       "text": " alt det, jeg lige har lyttet til, det kan jeg gøre for 10.000 kroner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 598.0,
       "text": " Har du lyst til, at jeg skal lave det til dig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 600.0,
       "text": " Så det er også lidt en overvejelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 601.0,
       "end": 603.0,
       "text": " Jeg ved, at du har kigget på et tool, der hedder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 609.0,
       "text": " Jeg har ikke særlig lige prøvet det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 611.0,
       "text": " men du sendte en artikel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 613.0,
       "text": " man kunne komme ind på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 613.0,
       "end": 615.0,
       "text": " og så signe sig op til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 615.0,
       "end": 617.0,
       "text": " Kan du ikke fortælle, hvad var tanken med det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 617.0,
       "end": 619.0,
       "text": " og hvad var din use case med det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 619.0,
       "end": 621.0,
       "text": " Fordi det er jo hverken white paper eller webinar,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 621.0,
       "end": 623.0,
       "text": " nu er det en helt tredje måde at gate content på, vi er ude i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " Ja, lige præcis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 625.0,
       "end": 627.0,
       "text": " Sådan helt lavpraktisk, så har vi gået her på kontoret",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 627.0,
       "end": 629.0,
       "text": " og arbejdet på sådan, lad os kalde det en artikel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 629.0,
       "end": 632.0,
       "text": " en guide, og det er specifikt inden for noget Google Ads værk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 632.0,
       "end": 634.0,
       "text": " hvor vi vil prøve at dele det på en lidt ny måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " Og i stedet for bare at åbne op,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 636.0,
       "end": 638.0,
       "text": " så har vi så gated det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 638.0,
       "end": 640.0,
       "text": " og til det har vi brugt det tool,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 640.0,
       "end": 642.0,
       "text": " og igen, vi er ikke sponsoreret,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 642.0,
       "end": 644.0,
       "text": " men distribute.so",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 644.0,
       "end": 646.0,
       "text": " distribute.so",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 646.0,
       "end": 648.0,
       "text": " distribute.so",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 648.0,
       "end": 650.0,
       "text": " Jeg ved ikke lige, men ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 650.0,
       "end": 652.0,
       "text": " Jo, lige en lille note.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 652.0,
       "end": 654.0,
       "text": " So-domænet, det er fra Somalia, kan jeg sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 654.0,
       "end": 656.0,
       "text": " Det er ikke så sindssygt, at jeg støder på den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 656.0,
       "end": 658.0,
       "text": " Nå, det er lidt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 660.0,
       "text": " i gås og en sjov i forhold til det, jeg skal til at sige nu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 660.0,
       "end": 662.0,
       "text": " fordi uanset om man skal bruge det her tool eller ej,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 662.0,
       "end": 664.0,
       "text": " så prøv lige at hoppe ind og se",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 664.0,
       "end": 666.0,
       "text": " deres måde at skrive tingene på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 666.0,
       "end": 668.0,
       "text": " de har sådan en meksikansk vinkel på alting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 668.0,
       "end": 670.0,
       "text": " Den er ret fed faktisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 670.0,
       "end": 672.0,
       "text": " På deres somaliske domæne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 672.0,
       "end": 674.0,
       "text": " Ja, der knækker den her lidt for mig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 674.0,
       "end": 676.0,
       "text": " men hvis vi glemmer den detalje,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 676.0,
       "end": 678.0,
       "text": " så er den faktisk ret fed.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 678.0,
       "end": 680.0,
       "text": " Selve toolet, det er super simpelt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 680.0,
       "end": 682.0,
       "text": " Det er en blanding mellem",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 682.0,
       "end": 684.0,
       "text": " Notion og Google Docs,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 684.0,
       "end": 686.0,
       "text": " hvor du kan rigtig nemt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 686.0,
       "end": 688.0,
       "text": " lave en artikel og skrive din tekst",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 688.0,
       "end": 690.0,
       "text": " indsæt billeder, indsæt video og så videre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 690.0,
       "end": 692.0,
       "text": " Og så kan du gate det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 692.0,
       "end": 694.0,
       "text": " Du kan vælge selv, hvor du gater det hen, og du kan gøre det på forskellige måder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " Det kan for eksempel være, når folk har scrollet",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " to gange ned af siden, så skal der komme et pop-up frem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 698.0,
       "end": 700.0,
       "text": " hvor du siger, hvis du gerne vil læse videre, så skal du lige indtaste",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 700.0,
       "end": 702.0,
       "text": " dine oplysninger. Den måde vi har gjort det på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 702.0,
       "end": 704.0,
       "text": " det er, at I skal forestille jer",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 704.0,
       "end": 706.0,
       "text": " to-tre afsnit nede, der blører den",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 706.0,
       "end": 708.0,
       "text": " ligesom resten af landingssiden og siger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 708.0,
       "end": 710.0,
       "text": " vil du have låst op for det her, så skal du lige indtaste",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 710.0,
       "end": 712.0,
       "text": " din navn og din e-mailadress her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 712.0,
       "end": 714.0,
       "text": " og lige snart du klikker, så låser den op for artiklen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 714.0,
       "end": 716.0,
       "text": " Der er sådan lidt forskellige måder, det kan gøres på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 716.0,
       "end": 718.0,
       "text": " Det fede her, det er, det er så",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 718.0,
       "end": 720.0,
       "text": " brugervenligt, og det er rigtig nemt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 720.0,
       "end": 722.0,
       "text": " også at sætte op, sådan så det ser fedt ud oppe i URL'en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 722.0,
       "end": 724.0,
       "text": " altså hvor man så kan bruge",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 724.0,
       "end": 726.0,
       "text": " ICE Digitals domæne til at sende folk ind",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 726.0,
       "end": 728.0,
       "text": " på en specifik landingsside.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 728.0,
       "end": 730.0,
       "text": " Toolet kan ikke meget mere end det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 730.0,
       "end": 732.0,
       "text": " That's it. Det er bare",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 732.0,
       "end": 734.0,
       "text": " super enkelt og simpelt at sætte sådan en",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 734.0,
       "end": 736.0,
       "text": " elite-magnet, sådan en",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 736.0,
       "end": 738.0,
       "text": " artikel op,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 738.0,
       "end": 740.0,
       "text": " hvor man gerne vil have, at folk",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 740.0,
       "end": 742.0,
       "text": " de indtaster sin e-mail eller sin",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 742.0,
       "end": 744.0,
       "text": " telefonnummer, eller hvad man gerne vil.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 744.0,
       "end": 746.0,
       "text": " Der er også forskellige valgmuligheder her",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 746.0,
       "end": 748.0,
       "text": " til at gate sit content.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 748.0,
       "end": 750.0,
       "text": " Ja, også et spændende værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 750.0,
       "end": 752.0,
       "text": " Hvad tænker du om elite",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 752.0,
       "end": 754.0,
       "text": " magnets og content",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 754.0,
       "end": 756.0,
       "text": " gating og alt muligt i en B2C-kontekst?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 756.0,
       "end": 758.0,
       "text": " Altså hvis man er e-commerce-virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 758.0,
       "end": 760.0,
       "text": " skal man lave guides, andre typer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 760.0,
       "end": 762.0,
       "text": " af materiale? Siger du rent faktisk noget til at signe op til det her",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 762.0,
       "end": 764.0,
       "text": " for at få adgang til materialet med henblik på at øge afsætning",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 764.0,
       "end": 766.0,
       "text": " i ens webshop?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 766.0,
       "end": 768.0,
       "text": " 100%. 110%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 768.0,
       "end": 770.0,
       "text": " Lad os have et lavpraktisk eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 770.0,
       "end": 772.0,
       "text": " Hvis man sælger proteinpulver eller kosttilskud,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 772.0,
       "end": 774.0,
       "text": " at lave nogle",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 774.0,
       "end": 776.0,
       "text": " elite magnets, som omhandler",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 776.0,
       "end": 778.0,
       "text": " træningsprogrammer, kostprogrammer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 778.0,
       "end": 780.0,
       "text": " taler direkte ind i, hvad der er for nogle",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 780.0,
       "end": 782.0,
       "text": " drømme, som brugerne af ens produkter",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 782.0,
       "end": 784.0,
       "text": " har, men som man ikke selv sælger, fordi webshoppen",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 784.0,
       "end": 786.0,
       "text": " ikke selv sælger kosttilskudprogrammer",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 786.0,
       "end": 788.0,
       "text": " eller træningsprogrammer, men man",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 788.0,
       "end": 790.0,
       "text": " på den måde kan komme ud og få fat på målgruppen",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 790.0,
       "end": 792.0,
       "text": " og på den måde sælge sine produkter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 792.0,
       "end": 794.0,
       "text": " jamen det skal man simpelthen bare gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 794.0,
       "end": 796.0,
       "text": " Det er en fed måde at få",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 796.0,
       "end": 798.0,
       "text": " udbygget sin liste på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 798.0,
       "end": 800.0,
       "text": " altså sin e-mailliste, om",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 800.0,
       "end": 802.0,
       "text": " det er, ja, du får",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 802.0,
       "end": 804.0,
       "text": " færre tilmeldinger, end hvis du laver en konkurrence",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 804.0,
       "end": 806.0,
       "text": " med en iPhone 16, som jo",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 806.0,
       "end": 808.0,
       "text": " kommer ud nu her, men",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 808.0,
       "end": 810.0,
       "text": " den kvalitet af de brugere er",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 810.0,
       "end": 812.0,
       "text": " så meget højere. Hvad tænker du?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 812.0,
       "end": 814.0,
       "text": " Kan vi ikke sige, hvis vi laver sådan en matrise,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 814.0,
       "end": 816.0,
       "text": " som hedder overutilized",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 816.0,
       "end": 818.0,
       "text": " og underutilized og galt og genialt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 818.0,
       "end": 820.0,
       "text": " så vil jeg sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 820.0,
       "end": 822.0,
       "text": " Lead Magnets for B2C ligger i den kvadrant,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 822.0,
       "end": 824.0,
       "text": " der hedder underutilized og genialt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 824.0,
       "end": 826.0,
       "text": " Det virker rigtig godt, hvis du gør det rigtigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 826.0,
       "end": 828.0,
       "text": " og der er alt for få, der rent faktisk gør det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 828.0,
       "end": 830.0,
       "text": " Og det kan være mange forskellige",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 830.0,
       "end": 832.0,
       "text": " måder. Der er også nogen, der vil gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 832.0,
       "end": 834.0,
       "text": " Lad os tage et andet eksempel. Jeg arbejder sammen med",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 834.0,
       "end": 836.0,
       "text": " et hudplejefirma, som har lavet en hudtest.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 836.0,
       "end": 838.0,
       "text": " Og hudtesten viser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 838.0,
       "end": 840.0,
       "text": " lige præcis, hvilke plejeprodukter",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 840.0,
       "end": 842.0,
       "text": " man skal tage, og hvad ens hud skal være særlig",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 842.0,
       "end": 844.0,
       "text": " opmærksom på og alle mulige ting. Og når du har gået igennem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 846.0,
       "text": " en test, så kan du få materiale tilsendt på din",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 846.0,
       "end": 848.0,
       "text": " e-mail efterfølgende med nogle specifikke produktanbefalinger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 848.0,
       "end": 850.0,
       "text": " Og det er på sig også",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 850.0,
       "end": 852.0,
       "text": " en måde at lave gated content på, for nu har du været",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 854.0,
       "text": " igennem en test og vil gerne have de her testresultater",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 854.0,
       "end": 856.0,
       "text": " og konkrete personaliserede anbefalinger til dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 856.0,
       "end": 858.0,
       "text": " Og det virker fantastisk godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 860.0,
       "text": " Og det er der flere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 860.0,
       "end": 862.0,
       "text": " der burde gøre det her, og vi ser det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 862.0,
       "end": 864.0,
       "text": " på tværs af forskelligheden. Så det behøver ikke være sådan en guide.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 864.0,
       "end": 866.0,
       "text": " Jeg tror ikke, man som B2C-brand skal lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 868.0,
       "text": " et webinar nødvendigvis. Du skal ikke sætte B2B",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 868.0,
       "end": 870.0,
       "text": " i playbooken. Men tankegangen om at lave noget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 870.0,
       "end": 872.0,
       "text": " materiale som er produktnært, som gated content,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 872.0,
       "end": 874.0,
       "text": " som du kan få folk igennem med, det kan være en",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 874.0,
       "end": 876.0,
       "text": " ny måde, hvorpå du kan skalere din virksomhed på, hvis du",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 876.0,
       "end": 878.0,
       "text": " oplever, at dine traditionelle Facebook-annoncer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 878.0,
       "end": 880.0,
       "text": " de falder i effektivitet i takt med, at du bruger flere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 880.0,
       "end": 882.0,
       "text": " penge på dem. Altså den her til sidst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 882.0,
       "end": 884.0,
       "text": " der skal jeg simpelthen lige høre, og det har ikke noget med",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 884.0,
       "end": 886.0,
       "text": " dagens emne at gøre. Vi har næsten lige snakket om branding,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 886.0,
       "end": 888.0,
       "text": " og du har lige nævnt MarketingPod som værende topfonden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 888.0,
       "end": 890.0,
       "text": " Ja. Den trøje der,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 890.0,
       "end": 892.0,
       "text": " er det reelt set",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 892.0,
       "end": 894.0,
       "text": " et forsøg på",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 894.0,
       "end": 896.0,
       "text": " at løfte MarketingPod-brandet?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 896.0,
       "end": 898.0,
       "text": " Eller hvor tænker du, den ligger hen?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 898.0,
       "end": 900.0,
       "text": " Det er en kvadrant,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 900.0,
       "end": 902.0,
       "text": " ligger vi her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 902.0,
       "end": 904.0,
       "text": " Vurderer du den løfter?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 904.0,
       "end": 906.0,
       "text": " Den her trøje, den er et skridt i retningen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 906.0,
       "end": 908.0,
       "text": " Jeg sidder her i en plæn sort polo,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 908.0,
       "end": 910.0,
       "text": " og jeg sidder der og bliver sådan lidt",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 910.0,
       "end": 912.0,
       "text": " misundelig faktisk. Nu kan godt være, at jeg lige basher dig for at have den på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 912.0,
       "end": 914.0,
       "text": " Men det kan ikke være et eller andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 914.0,
       "end": 916.0,
       "text": " Jeg er fly as fuck.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 916.0,
       "end": 918.0,
       "text": " At du er fly as fuck.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 918.0,
       "end": 920.0,
       "text": " Jeg ved ikke, om jeg kan bevæge mig udenfor",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 920.0,
       "end": 922.0,
       "text": " kontoret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 922.0,
       "end": 924.0,
       "text": " Nu er vi jo lige kommet på TikTok.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 924.0,
       "end": 926.0,
       "text": " Jeg glæder mig til at se, hvordan TikTok",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 926.0,
       "end": 928.0,
       "text": " trøjer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 928.0,
       "end": 930.0,
       "text": " Har vi fået nogen views endnu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 930.0,
       "end": 932.0,
       "text": " Er der andet end dig og Laura?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 932.0,
       "end": 934.0,
       "text": " Det tror jeg ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 936.0,
       "end": 938.0,
       "text": " Det kan jo så komme dig til gavn.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 938.0,
       "end": 940.0,
       "text": " Nu kommer jeg lige ind og kigger her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 940.0,
       "end": 942.0,
       "text": " Lad os lige prøve at se her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 942.0,
       "end": 944.0,
       "text": " Jeg vil godt tænke mig at vide det, fordi vi er sådan godt kørende på YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 944.0,
       "end": 946.0,
       "text": " Okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 946.0,
       "end": 948.0,
       "text": " 13 followers. 8 likes.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 948.0,
       "end": 950.0,
       "text": " Totalt set.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 950.0,
       "end": 952.0,
       "text": " 33 plus 17 plus 14.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 952.0,
       "end": 954.0,
       "text": " Er det sådan 12 indre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 954.0,
       "end": 956.0,
       "text": " eller er det sådan legit?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 956.0,
       "end": 958.0,
       "text": " Nej, det er faktisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 958.0,
       "end": 960.0,
       "text": " det skandinaviske navn.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 960.0,
       "end": 962.0,
       "text": " Og",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 962.0,
       "end": 964.0,
       "text": " omkring 60 views",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 964.0,
       "end": 966.0,
       "text": " indtil videre på de første 3 videoer her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 968.0,
       "end": 970.0,
       "text": " Det er på kanten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 970.0,
       "end": 972.0,
       "text": " I hvert fald der er en, der har fået 33 views.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 972.0,
       "end": 974.0,
       "text": " Det vil jeg faktisk våge at påstå.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 974.0,
       "end": 976.0,
       "text": " Nu arbejder vi med marketing.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 976.0,
       "end": 978.0,
       "text": " Kanonstart. 33 på TikTok.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 978.0,
       "end": 980.0,
       "text": " Hvis jeg var konsulent for os,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 980.0,
       "end": 982.0,
       "text": " så ville jeg sige godt klaret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 984.0,
       "end": 986.0,
       "text": " Så ville jeg sige godt klaret at sende en kæmpe faktur.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 994.0,
       "end": 996.0,
       "text": " Lad os slutte episode med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 996.0,
       "end": 998.0,
       "text": " Marketingpod bliver ikke gated i forløbet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 998.0,
       "end": 1000.0,
       "text": " men husk at følge os på TikTok, hvor du kan se",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1000.0,
       "end": 1002.0,
       "text": " min fly as fuck overtrøje i dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1002.0,
       "end": 1004.0,
       "text": " som jeg ikke tror, jeg kommer til at have på",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1004.0,
       "end": 1006.0,
       "text": " i en episode i fremtiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1006.0,
       "end": 1008.0,
       "text": " Men der er det virkelig stor efterspørgsel på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1008.0,
       "end": 1010.0,
       "text": " Så går jeg ind, og så køber jeg den alone.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1010.0,
       "end": 1012.0,
       "text": " Tusind tak for i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

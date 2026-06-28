@@ -9,5081 +9,5085 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 5.0,
       "text": " Halvstanden?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 5.0,
       "end": 9.0,
       "text": " Du er på ferie hele januar, og du har lige fortalt mig, at du skal på ferie igen i april.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.0,
       "end": 11.0,
       "text": " Altså, ved du overhovedet det her fælles projekt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 13.0,
       "text": " Det var februar, jeg var på ferie, ikke januar.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 15.0,
       "end": 19.0,
       "text": " Ved du overhovedet det her, Tinju? Nogle gange føler jeg, at du ved, at din kæreste laver mere end mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.0,
       "end": 23.0,
       "text": " Øh, ja. Det ved jeg ikke lige, hvad jeg skal sige til det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 24.0,
       "end": 27.0,
       "text": " Selvfølgelig, mener jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 28.0,
       "end": 35.0,
       "text": " Jeg tror ikke, at Laura lytter til det her længere. Jeg er sikker på, at hun gjorde det i de første par episoder for at være sød og give os en femminciernet rating.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 35.0,
       "end": 38.0,
       "text": " Men du kan godt sige sandheden. Altså, det her er jo dagens højdepunkt for os begge to.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 38.0,
       "end": 40.0,
       "text": " Eller er det bare mig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 40.0,
       "end": 43.0,
       "text": " Jeg synes, jeg bliver sat i en svær position nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 44.0,
       "end": 48.0,
       "text": " Hvad skal du i april, som gør, at vi er nødt til at planlægge vores podcastoptagelse allerede nu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 48.0,
       "end": 50.0,
       "text": " Ej, jeg skal til smutagen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 50.0,
       "end": 51.0,
       "text": " Igen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.0,
       "end": 53.0,
       "text": " Til Indonesien. Ja, ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 53.0,
       "end": 55.0,
       "text": " Så, øh, det glæder jeg mig til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 55.0,
       "end": 59.0,
       "text": " Ja. Hvad er det, vi ikke har i Danmark, siden du bliver ved med at smutte ud af landet og eflade mig op?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 59.0,
       "end": 63.0,
       "text": " Altså, regner du med at kunne komme tilbage som medvært på MarketingPod igen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.0,
       "end": 67.0,
       "text": " Ej, jeg håber da, at du har fundet navnet, så det kan ikke lide.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 71.0,
       "end": 75.0,
       "text": " Det kan godt være, at jeg lige er nødt til at ringe til Morten B. og vi skal finde nogle Facebookhjemner igen, ligesom sidste gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 75.0,
       "end": 78.0,
       "text": " Ja, det gik jo godt, så det synes jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 78.0,
       "end": 82.0,
       "text": " Altså, show must go on. Jeg har jo tænkt mig aldrig nogensinde at bryde vores streak.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 83.0,
       "end": 87.0,
       "text": " Du har allerede givet op to gange inden for det første år, men altså, jeg er dedikeret til kontinuerlige udgiver.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 87.0,
       "end": 89.0,
       "text": " Om jeg så skal gøre det selv, som jeg har gjort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.0,
       "end": 91.0,
       "text": " En gang gør du glædeligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 93.0,
       "end": 95.0,
       "text": " Og det er en fornøjelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 95.0,
       "end": 101.0,
       "text": " Nå, kære lyttere, du der lytter med, du kan glæde dig til, der kommer nok en Facebook-episode eller to mere i april.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 101.0,
       "end": 103.0,
       "text": " Vi må se, om Tinju kommer tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 106.0,
       "text": " Men indtil da har vi glæden af ham, så lad os lytte til ugens nyheder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 106.0,
       "end": 108.0,
       "text": " Knap.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 144.0,
       "text": " Men LinkedIn viser her, at vi måske kan gøre os nogle forhåbninger om endnu flere interessante metrics i forbindelse med LinkedIn-nyhedsbrev i fremtiden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 146.0,
       "end": 151.0,
       "text": " EU-kommissionen har besluttet at droppe to foreslåede techregler, og I har hørt rigtigt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 151.0,
       "end": 153.0,
       "text": " De har besluttet at droppe dem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 153.0,
       "end": 159.0,
       "text": " AI-ansvarsdirektivet på dansk, på engelsk, AI Liability og ePrivacy-forordningen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 159.0,
       "end": 164.0,
       "text": " AI-ansvarsdirektivet skulle gøre det nemmere at rejse erstatningskraven ved AI-relaterede skader,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 164.0,
       "end": 170.0,
       "text": " mens ePrivacy-forordningen skulle erstatte den nuværende cookie-direktiv og regulere elektronisk kommunikation.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 170.0,
       "end": 177.0,
       "text": " Beslutningen møder både kritik, især fra politikere, og ros fra techindustrien, der ser det som en sejr mod overregulering.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 179.0,
       "end": 186.0,
       "text": " TikTok har opdateret sin desktop-platform med nye funktioner, der bringer den tættere på, hvad vi kender fra YouTube og Twitch.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 186.0,
       "end": 190.0,
       "text": " Det betyder bl.a., at TikTok har gjort det lettere at navigere rundt via webbrowser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 190.0,
       "end": 195.0,
       "text": " og derudover forsøgt at åbne op for segmentet for livestreaming af f.eks. gaming.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 195.0,
       "end": 201.0,
       "text": " Det sker ved, at man nu har mulighed for at gå live på platformen i både portræt og landskabstilstand,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 201.0,
       "end": 206.0,
       "text": " hvilket minder om det, vi kender fra de traditionelle streamingplatformer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 206.0,
       "end": 212.0,
       "text": " For uden det her, så har TikTok lanceret flere funktioner, som man i forvejen f.eks. kender over fra YouTuber.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 214.0,
       "end": 216.0,
       "text": " Lad os starte med LinkedIn's nyhedsbrev.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 216.0,
       "end": 219.0,
       "text": " Jeg vil lige prøve at dele skærmen, og det er jo første gang, du også ser det her, Tino,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 219.0,
       "end": 222.0,
       "text": " og til alle, der ser med på video på Spotify eller på YouTube,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 222.0,
       "end": 226.0,
       "text": " så vil I også nu kunne se noget statistik fra vores nyhedsbrev på LinkedIn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 230.0,
       "text": " Fordi vi har jo også nyhedsbrev, det ligger på min profil, det hedder marketingpod.dk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 230.0,
       "end": 235.0,
       "text": " nye episoder, og der er 2851 heldige sjale, der har skrevet sig op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.0,
       "end": 239.0,
       "text": " hvilket er marginalt flere, end der er på vores nyhedsbrev på marketingpod.dk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 239.0,
       "end": 243.0,
       "text": " hvor vi jo organisk fik omkring, jeg husker det som 29 tilmeldinger inklusiv os selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 243.0,
       "end": 248.0,
       "text": " Yes, ja, fantastisk, tak til de 29, det er i sandhed den hårde kern.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 248.0,
       "end": 251.0,
       "text": " Det, der er kommet, det er, hvis man kigger på statistikken,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 251.0,
       "end": 254.0,
       "text": " og vi har vores opslag fra sidste uge, hvor der er kommet en ny episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 254.0,
       "end": 257.0,
       "text": " jeg lægger den op på LinkedIn, og man får en mail,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.0,
       "end": 260.0,
       "text": " eller hvor mange gør det, fordi det er jo en af de ting, vi lige pludselig kan se.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.0,
       "end": 264.0,
       "text": " Så jeg kan nu gå ind og sige View Stats for den her nyhedsbrevsudgivelse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.0,
       "end": 269.0,
       "text": " så kan jeg se, at den har fået 4400 impressions i feedet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 269.0,
       "end": 273.0,
       "text": " det er ikke særlig meget, den har nået 3100 unikke LinkedIn-profiler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 273.0,
       "end": 277.0,
       "text": " men det, jeg synes, der er interessant, det er, at artikkelperformance,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 277.0,
       "end": 279.0,
       "text": " og det er altså folk, som er inde og se artiklen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 279.0,
       "end": 282.0,
       "text": " det vil sige, de ser den ikke i feedet, nu har de klikket sig ind og læst artiklen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 282.0,
       "end": 285.0,
       "text": " eller nyhedsbrevet, om du vil, der har den fået 1500 visninger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 285.0,
       "end": 289.0,
       "text": " den har sendt 1900 e-mails, og vi har en 49% e-mail open rate,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 289.0,
       "end": 292.0,
       "text": " og det her, det er altså en nytal, hvor mange e-mails LinkedIn sendte,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 292.0,
       "end": 295.0,
       "text": " og hvor mange, der åbnede dem, det er et sprit nytal for os.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 298.0,
       "text": " Og i vores tilfælde, der er det her rigtig interessant,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 298.0,
       "end": 300.0,
       "text": " det øverste, man ser i et nyhedsbrev for os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 304.0,
       "text": " det er faktisk links til YouTube, Spotify og Apple Podcasts,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 304.0,
       "end": 306.0,
       "text": " så man kan sige, det er fint nok for os, at vi kan se folk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 308.0,
       "text": " de kommer ind og læser nyhedsbrevet på LinkedIn,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 308.0,
       "end": 312.0,
       "text": " men vi er faktisk ligeså interesserede i bare, at folk åbner og klikker sig direkte videre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 314.0,
       "text": " jeg kan så ikke se, hvor mange, der klikker sig videre endnu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 314.0,
       "end": 318.0,
       "text": " den statistik har vi ikke, men jeg anser, at det vil nok være en god chat,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 318.0,
       "end": 320.0,
       "text": " og så er der selvfølgelig mange, der modtager den og bare bruger det som en påmeldelse",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 320.0,
       "end": 324.0,
       "text": " til måske lige at åbne Spotify, og der er også kommet en mandag klokken 06,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 324.0,
       "end": 328.0,
       "text": " fordi vi selvfølgelig udgiver hver mandag klokken 06 til New Come Hell og High Water,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 328.0,
       "end": 332.0,
       "text": " om man er på ferie i Asien eller ej, right?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 332.0,
       "end": 334.0,
       "text": " Øh, yes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 334.0,
       "end": 337.0,
       "text": " Men jeg synes, det er spændende statistik, det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 337.0,
       "end": 339.0,
       "text": " Også, at LinkedIn sender så mange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 339.0,
       "end": 343.0,
       "text": " Ja, lige præcis, for hvor mange abonnenter vi har, er det en 2.800?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 343.0,
       "end": 346.0,
       "text": " Vi har 2.800, og den har sendt 1.900 e-mails på den her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 346.0,
       "end": 349.0,
       "text": " så det er over to tredjedel af dem, der har abonneret på LinkedIn,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 349.0,
       "end": 353.0,
       "text": " som får nyhedsbrevsmailen, og som jo så 49% rent faktisk åbner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.0,
       "end": 355.0,
       "text": " og 49% er åbningsretten.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 358.0,
       "text": " Altså, jeg kan ikke lige huske vores gennemsnit i Hopspot for Obsidian Digital,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 358.0,
       "end": 361.0,
       "text": " men det er under 49%. Det er det helt sikkert.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 361.0,
       "end": 364.0,
       "text": " Altså 49%, det er en flot åbningsrette.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 364.0,
       "end": 366.0,
       "text": " Og det leder os til det naturlige spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 366.0,
       "end": 371.0,
       "text": " Hvad siger du, Tino? Er nyhedsbrevet fortsat underkommercialiseret på LinkedIn?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 371.0,
       "end": 375.0,
       "text": " Det var underkommercialiseret sidste uge, og er det også den her uge?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 375.0,
       "end": 378.0,
       "text": " Og er det nok også næste uge, fordi der er alt for få af jer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 378.0,
       "end": 381.0,
       "text": " som kan lytte og lytte med, der har gjort noget ved det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 384.0,
       "text": " Vi har jo begyndt at gøre en lille smule mere ved det i Obsidian Digital.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 388.0,
       "text": " Vi har nyhedsbrev på 4-5 personer nu, som har forskellige emner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.0,
       "end": 393.0,
       "text": " Et omkring marketing i modebranchen, et omkring Horns tekniske marketingskole,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 393.0,
       "end": 395.0,
       "text": " som jeg synes er et enormt vittigt navn.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 397.0,
       "text": " Du har stadig ikke lavet noget, Tino?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 397.0,
       "end": 400.0,
       "text": " Nej, der har du selvfølgelig en kopie.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 400.0,
       "end": 404.0,
       "text": " Du kunne lige så godt lave en rejseblog som et nyhedsbrev om digital marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 404.0,
       "end": 407.0,
       "text": " Jeg føler jo, at jeg er med i et marketingbods-nyhedsbrev,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 407.0,
       "end": 410.0,
       "text": " selvom det ikke er det store, jeg har gjort for det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 410.0,
       "end": 413.0,
       "text": " Det ved jeg godt. Det er dig, der sidder og omøbler rundt med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 417.0,
       "text": " Ej, men en spændende opdatering, og endnu en anbefaling til, at man kigger mere på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 417.0,
       "end": 420.0,
       "text": " Vi har en dedikeret episode tidligere om Linkedins nyhedsbrev,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 424.0,
       "text": " men det er en af de ting på Linkedins platform, der virker allerbedst lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 424.0,
       "end": 426.0,
       "text": " Og helt ærligt, så virker det for godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 430.0,
       "text": " LinkedIn kan ikke blive ved med at give så meget plads og distribution til en nyhedsbrev,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 431.0,
       "text": " som det gør lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 434.0,
       "text": " Men de gør det lige nu, og dem, der er med tidligt og udnytter det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 434.0,
       "end": 436.0,
       "text": " de får rigtig, rigtig meget rækkevidde og opmærksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 439.0,
       "text": " Og så på et eller andet tidspunkt stopper det, når alle de andre markedsheds også har fundet ud af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 443.0,
       "text": " Så min anbefaling er selvfølgelig at være med i det, mens man rent faktisk får meget værdi ud af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 443.0,
       "end": 448.0,
       "text": " Lad os hoppe videre til emmene nr. 2, EU-kommissionen, der rent faktisk dropper et regelsæt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 451.0,
       "end": 454.0,
       "text": " Hvad siger du til den tid, Jo? Hold kæft, det er en nyhed, hva'?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 454.0,
       "end": 456.0,
       "text": " De har lyttet til marketing på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " Ja, men det er lige før, jeg tror det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 463.0,
       "text": " Og hvis de har lyttet til det, så har de jo ikke lyttet så meget til mig i den her kontekst.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 463.0,
       "end": 464.0,
       "text": " Det er jo mere til dig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 464.0,
       "end": 469.0,
       "text": " Det, man skal vide, det er, at vi sidder jo med et langt notesagt, når vi optager afsnit,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 469.0,
       "end": 473.0,
       "text": " hvor vi har skrevet sjovt nok nogle noter ned, og jeg har én note til den her nyhed.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 473.0,
       "end": 476.0,
       "text": " Det er bare halvten tekne, Mike. Ved du hvad? Du får sgu lov nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 477.0,
       "text": " Så værsgo.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 477.0,
       "end": 482.0,
       "text": " Og jeg vil jo normalt, når vi har noget med EU og tekregulering, så har det jo haft et negativt foretegn,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 482.0,
       "end": 484.0,
       "text": " fordi der er kommet mere og mere og mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 488.0,
       "text": " Og vi har snakket om Mario Draghi's rapport om konkurrencedygtighed i EU,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 488.0,
       "end": 493.0,
       "text": " hvordan GDPR har fjernet 12 procent af overskuddet for det gennemsnittlige europæiske tekselskab,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 499.0,
       "text": " hvordan vi har savet benene over på os selv i forhold til at være med på den måske mest revolutionerende teknologi nogensinde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 503.0,
       "text": " for menneskeheden i form af, at I vil bare lovgive os ud af det, inden vi har nogensinde begyndt at bygge noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 504.0,
       "text": " og alle mulige andre ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 504.0,
       "end": 506.0,
       "text": " Vi har nævnt Margrethe Vesterhage en gang eller to.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 506.0,
       "end": 508.0,
       "text": " Men credit where credit is due.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 508.0,
       "end": 512.0,
       "text": " Vi er jo også nødt til at anerkende, at for første gang nogensinde, så har EU tænkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 516.0,
       "text": " okay, det var måske lige et skridt langt nok i forhold til at regulere ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 516.0,
       "end": 519.0,
       "text": " og rent faktisk trukket to nye sæt lovgivninger tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 519.0,
       "end": 523.0,
       "text": " Det var et e-privacy-forordning, som skulle gøre, who cares,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 523.0,
       "end": 526.0,
       "text": " og et eller andet AI-ansvarsdirektiv, hvor nogen i EU måske tænkte,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 529.0,
       "text": " okay, det kunne være, at vi skulle have noget AI, før vi rent faktisk regulerede det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 534.0,
       "text": " Og jeg synes bare, at det er en fantastisk nyhed, at det her rent faktisk kunne ske.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 534.0,
       "end": 537.0,
       "text": " Og jeg håber, at vi får meget mere i den her retning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 543.0,
       "text": " Og når jeg læser dine noter, især kritik fra politikere og ros fra tekindustrien,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 543.0,
       "end": 546.0,
       "text": " det er jo win-win for mig lige der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 550.0,
       "end": 552.0,
       "text": " Jeg synes, det er selvfølgelig fantastisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 556.0,
       "text": " Vi står i en rigtig svær situation i Europa, hvor vi bliver overhældet både fra den ene side af Kina",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 557.0,
       "text": " og den anden side fra USA.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 557.0,
       "end": 560.0,
       "text": " Og vi kunne i det mindste bare lade være med at gøre det svært for os selv,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 560.0,
       "end": 563.0,
       "text": " og så rent faktisk give os selv en fighting chance i det her kapløb,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " som de faktisk jo foregår, uanset om vi vil det eller ej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 568.0,
       "text": " Og det her, det er et lille bitte skridt i den rigtige retning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 570.0,
       "text": " Så tager vi nogle meget store skridt i den forkerte retning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 570.0,
       "end": 572.0,
       "text": " samtidig at det håber vi, at vi kan gøre op med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 576.0,
       "text": " Måske vi kommer med en nyhed i det i en anden episode, hvis vi er rigtig heldige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 576.0,
       "end": 580.0,
       "text": " Lad os hoppe over til TikTok, der har opdateret deres desktop-platform med funktioner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 580.0,
       "end": 582.0,
       "text": " som man kender fra YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 582.0,
       "end": 585.0,
       "text": " Er det her TikTok, der prøver at spise YouTubes frokost?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 585.0,
       "end": 588.0,
       "text": " Altså, jeg kan jo ikke lade være med at tænke tanken.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 588.0,
       "end": 592.0,
       "text": " Jeg synes, det er lidt sjovt, fordi når du kigger på YouTube, der med shorts arbejder sig hen imod,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 592.0,
       "end": 595.0,
       "text": " man kan sige, TikTok-ificering, hvis man kan kalde det det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 595.0,
       "end": 600.0,
       "text": " hvorimod TikTok nu begynder at lette ind på Twitch, YouTube med de her funktioner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 600.0,
       "end": 603.0,
       "text": " Det er sådan lidt interessant, hvordan de mødes på midten nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 603.0,
       "end": 607.0,
       "text": " Du har jo ret i, at alle andre platformer har jo prøvet at spise TikToks frokost,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 608.0,
       "text": " hvis man skal starte der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 611.0,
       "text": " TikTok genopfinder jo lidt short-form video-formatet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 614.0,
       "text": " Og så får vi Instagram Reels, som jo har været en enorm succes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 617.0,
       "text": " Det er det bedste, Facebook har kopieret siden Snapchat Stories.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 617.0,
       "end": 619.0,
       "text": " Vi får YouTube Shorts.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 619.0,
       "end": 622.0,
       "text": " Vi får LinkedIn, der laver en halvdårlig implementering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 624.0,
       "text": " ligesom de altid gør, som stadig ikke virker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " Men vi ser generelt platformene gå i den retning her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 629.0,
       "text": " Og det er første gang, vi ser TikTok forsøge at bevæge sig over i deres retning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " Har du prøvet TikTok på desktop endnu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 635.0,
       "text": " Ja, fordi hver gang, jeg ligger og uploader på vores TikTok-profil,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 635.0,
       "end": 637.0,
       "text": " man er meget velkommen til at følge forresten,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 637.0,
       "end": 640.0,
       "text": " så foregår det faktisk på desktop-versionen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 640.0,
       "end": 643.0,
       "text": " Hidtil har den været noget klunted.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 643.0,
       "end": 646.0,
       "text": " Men man kan godt se, hvad de er i gang med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 646.0,
       "end": 650.0,
       "text": " Og det er lidt interessant, fordi hvis de kan få flere over at bruge det på desktop,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 650.0,
       "end": 652.0,
       "text": " jamen det åbner os op for nogle nye muligheder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 652.0,
       "end": 653.0,
       "text": " Også som annoncerer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 656.0,
       "text": " Men man kan sige, at normalt, når man sidder på TikTok,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 656.0,
       "end": 658.0,
       "text": " går jeg ud fra, at jeg er lidt for gammel til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 658.0,
       "end": 661.0,
       "text": " Men der er det vel lidt ligesom, man sidder i metroen eller lige på toilettet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 661.0,
       "end": 663.0,
       "text": " og det er sådan hurtige videoer, når du lige har et øjeblik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 663.0,
       "end": 666.0,
       "text": " Hvor desktop er jo nemlig, at når du sidder og laver noget arbejde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 671.0,
       "text": " så er det sådan det samme, du laver på TikTok på desktop, eller hvad?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 671.0,
       "end": 676.0,
       "text": " Jamen nu har jeg faktisk kun brugt det i forventelse med at uploade vores egne videoer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 676.0,
       "end": 678.0,
       "text": " Fordi jeg kunne ikke finde på at bruge det på desktop.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 678.0,
       "end": 680.0,
       "text": " Fordi det er jo et swipe-game, ikke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 680.0,
       "end": 682.0,
       "text": " Altså, man går videre til næste video.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 682.0,
       "end": 685.0,
       "text": " Og det er sgu sådan lidt klunted på desktop.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 685.0,
       "end": 688.0,
       "text": " Jamen det er det bare. Kommer der nogle funktioner med noget livestreaming,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 691.0,
       "text": " eller et eller andet, som kunne forsvare, at folk skulle sidde og bruge det mere?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 694.0,
       "text": " Det er faktisk, når man ser på TikToks egen officielle udmeldelse,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 694.0,
       "end": 697.0,
       "text": " så bruger de netop livestreaming af gaming som eksempel på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 697.0,
       "end": 702.0,
       "text": " hvor fedt det er, at man går fra, hvad hedder det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 702.0,
       "end": 707.0,
       "text": " går over og kan se med på landskabstilstand, eller hvad det hedder på dansk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 707.0,
       "end": 711.0,
       "text": " Og det er jo det, vi kender fra for eksempel Twitch og egentlig også YouTube,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 711.0,
       "end": 716.0,
       "text": " hvor det er meget tydeligt at se, at det er det her segment, de virkelig gerne vil ramme.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 716.0,
       "end": 718.0,
       "text": " Altså det her livestream-segment.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 718.0,
       "end": 721.0,
       "text": " Så sidder du og livestreamer folk, der spiller spil på computeren?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 721.0,
       "end": 725.0,
       "text": " Det gør jeg faktisk ikke, og har aldrig gjort det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 725.0,
       "end": 728.0,
       "text": " Det er kommet efter min tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 728.0,
       "end": 731.0,
       "text": " Det skulle jeg lige til at sige, indtil du så siger det der,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 731.0,
       "end": 734.0,
       "text": " for så passer det i hvert fald ikke, at det er kommet efter min tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 734.0,
       "end": 735.0,
       "text": " Det gør jeg jo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 739.0,
       "text": " Og hvis jeg lige skal give en hurtig anbefaling til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 739.0,
       "end": 743.0,
       "text": " hvad man kan sidde og se folk, der sidder på Aarhus og København kontoret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 743.0,
       "end": 746.0,
       "text": " Jeg vil sige det digitalt, hvor jeg jo er lidt splittet mellem de to steder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 746.0,
       "end": 751.0,
       "text": " De har sikkert set det her på min ene skærm, når jeg sidder i løbet af dagen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 751.0,
       "end": 756.0,
       "text": " fordi jeg sidder og ser Age of Empires 2 gameplay fra en af verdens bedste spillere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 756.0,
       "end": 758.0,
       "text": " norske, The Viber, som ligger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 758.0,
       "end": 761.0,
       "text": " Du kan se den seneste video her, 25 minutter siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 761.0,
       "end": 764.0,
       "text": " Han har uploadet en time og 40 minutters gameplay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 764.0,
       "end": 768.0,
       "text": " Og at se ham sidde og spille Age of Empires 2 live på YouTube,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 768.0,
       "end": 771.0,
       "text": " er en form for meditation for mig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 771.0,
       "end": 774.0,
       "text": " Fordi, du ved, det rammer alle de rigtige lyd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 774.0,
       "end": 775.0,
       "text": " Wollolo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 775.0,
       "end": 777.0,
       "text": " Men det er også bare...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 777.0,
       "end": 779.0,
       "text": " Han kan, altså...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 779.0,
       "end": 783.0,
       "text": " Han er det, jeg gerne ville have været, som bare...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 783.0,
       "end": 787.0,
       "text": " Du ved, han viser mig måder at spille spillet på, som jeg slet ikke vidste eksisterede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 787.0,
       "end": 788.0,
       "text": " Så det her, det er faktisk...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 788.0,
       "end": 790.0,
       "text": " Mit YouTube-feed, det er to ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 790.0,
       "end": 791.0,
       "text": " Det er uberøget, som du ved,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 791.0,
       "end": 793.0,
       "text": " men der er faktisk også en del Age of Empires 2 gameplay,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 793.0,
       "end": 794.0,
       "text": " for folk, der sidder og spiller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 794.0,
       "end": 797.0,
       "text": " Og altså, 25 minutter siden, han har fået 271 visninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 797.0,
       "end": 798.0,
       "text": " Han er mere populær end MarketingPod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 798.0,
       "end": 800.0,
       "text": " Det må vi bare give ham.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 800.0,
       "end": 803.0,
       "text": " Ikke mere populær end trukkerne, men MarketingPod, den er...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 803.0,
       "end": 805.0,
       "text": " Ja, ja, der har han pillet os indenom.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 805.0,
       "end": 807.0,
       "text": " Ej, så det kan jeg anbefale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 807.0,
       "end": 809.0,
       "text": " Skal du lige have linket? Jeg kan sende det til dig i Slack.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 809.0,
       "end": 811.0,
       "text": " Det behøver du sgu ikke. Det er fint.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 811.0,
       "end": 812.0,
       "text": " Nå, okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 813.0,
       "end": 815.0,
       "text": " Det er okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 816.0,
       "end": 818.0,
       "text": " Det vil jeg overveje til næste gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 821.0,
       "end": 823.0,
       "text": " Vi rykker over til dagens primære emne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 823.0,
       "end": 826.0,
       "text": " som måske er et af de vigtigste i MarketingPods historie,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 826.0,
       "end": 828.0,
       "text": " og helt klart også et af de sværeste emner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 828.0,
       "end": 830.0,
       "text": " vi nogensinde har talt om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 830.0,
       "end": 832.0,
       "text": " Fordi det kommer til at handle om fremtiden, og om AI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 832.0,
       "end": 835.0,
       "text": " og om noget som, Christian, jeg fornærmer vel ingen af os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 835.0,
       "end": 837.0,
       "text": " hvis jeg siger, at ingen af os endnu fuldstændig forstår",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 839.0,
       "text": " eller ved, hvad der kommer til at ske,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 841.0,
       "text": " fordi det udvikler sig helt ærligt så hurtigt lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 841.0,
       "end": 843.0,
       "text": " Nej, fuldstændig rigtigt. Fuldstændig rigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 843.0,
       "end": 848.0,
       "text": " Det handler om, at vi er vant til at tænke på software as a service,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 848.0,
       "end": 851.0,
       "text": " men vi måske skal til at vende os til at tænke på service as a software,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 851.0,
       "end": 853.0,
       "text": " og det kommer jeg til at forklare.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 853.0,
       "end": 855.0,
       "text": " Men lad mig lige backtrack en lille smule.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 855.0,
       "end": 858.0,
       "text": " I november 2022 fik vi ChatGPT.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 860.0,
       "text": " Det var baseret på GPT 3.0,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 860.0,
       "end": 863.0,
       "text": " som var OpenAI's, på daværende tidspunkt, nyeste model.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 863.0,
       "end": 866.0,
       "text": " Og da vi alle sammen prøvede den for første gang nogensinde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 868.0,
       "text": " så synes vi, at det var et revolutionerende værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 868.0,
       "end": 870.0,
       "text": " Hvis vi gik tilbage på ChatGPT 3.0 i dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 870.0,
       "end": 874.0,
       "text": " ville vi jo synes, at det var et decideret, ubrugeligt og kriminelt værktøj",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 874.0,
       "end": 876.0,
       "text": " at sætte foran nogen, fordi det er så dårligt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 876.0,
       "end": 879.0,
       "text": " Men det er bare, fordi udviklingen er gået enormt hurtigt i mellemtiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 879.0,
       "end": 883.0,
       "text": " Noget af det, der virkelig har accelereret, især i løbet af det sidste halve år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 886.0,
       "text": " det er det, der hedder reasoning modeller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 886.0,
       "end": 892.0,
       "text": " Og reasoning modeller, det er for eksempel ChatGPT 0.1 og 0.3,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 892.0,
       "end": 897.0,
       "text": " og det er også DeepSeek R1, hvor R'et står for reasoning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 897.0,
       "end": 902.0,
       "text": " som kom ud i januar, som vi har talt om, som gav alle NVIDIA-stokejere et lille hak nedad.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 902.0,
       "end": 904.0,
       "text": " Var det ikke også inklusiv dig, Signe, når vi er inde på den?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 904.0,
       "end": 907.0,
       "text": " Havde du ikke lige købt NVIDIA-aktien kort før DeepSeek kom ud?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 907.0,
       "end": 909.0,
       "text": " Jo!",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 910.0,
       "end": 913.0,
       "text": " Det stod ikke i vores noter, det her, men jeg kom bare lige i tanke om det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 913.0,
       "end": 915.0,
       "text": " fordi jeg synes, det var sådan en sød historie.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 915.0,
       "end": 918.0,
       "text": " Du var igen, altså ligesom du købte Klaviyo kort før, at de tænker på toppen af...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 918.0,
       "end": 920.0,
       "text": " Nå, det skal vi ikke ind på i den her episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 920.0,
       "end": 923.0,
       "text": " Vi har begge to tabt mange penge i dag på Trumps nye tarifer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 923.0,
       "end": 927.0,
       "text": " så jeg er ikke i humør til at drille, fordi du kan drille i hvert fald tre gange så meget igen lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 927.0,
       "end": 929.0,
       "text": " Så vi hopper tilbage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 929.0,
       "end": 935.0,
       "text": " De første GPT-modeller var baseret på det, man kan kalde System 1-modeller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 935.0,
       "end": 938.0,
       "text": " Og System 1 handlede om, at man i virkeligheden bare skulle gætte det næste ord.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 938.0,
       "end": 941.0,
       "text": " Du har sikkert hørt det, når du har forsøgt at få ChatGPT forklaret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 941.0,
       "end": 945.0,
       "text": " at den jo i virkeligheden bare forsøger at gætte det næste ord, og den er virkelig, virkelig dygtig til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 945.0,
       "end": 949.0,
       "text": " System 2-modeller, det er de her reasoning-modeller, som har et resonement",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 949.0,
       "end": 954.0,
       "text": " og selv forsøger at finde frem til, hvad er de rigtige svar, og kan, så at sige, tænke højt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 954.0,
       "end": 959.0,
       "text": " Så OpenAI's nye O1-model var altså et ret stort gennembrud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 959.0,
       "end": 962.0,
       "text": " som ikke bare var bedre til at gætte det næste ord,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 962.0,
       "end": 966.0,
       "text": " men kunne stoppe op og tænke lidt à la AlphaGo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 966.0,
       "end": 970.0,
       "text": " Kan du huske AlphaGo, Sinu, eller er det sådan, før din tid?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 970.0,
       "end": 973.0,
       "text": " Det tror jeg altså, er før min tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 973.0,
       "end": 977.0,
       "text": " AlphaGo, der er sådan nogle meget berømte øjeblikke i kunstig intelligenshistorie,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 977.0,
       "end": 981.0,
       "text": " før at ChatGPT kom til, hvor jeg vil sige, to af de nok helt store.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 981.0,
       "end": 987.0,
       "text": " Det var, da IBM byggede en maskine, der kunne slå Garry Kasparov i skak,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 987.0,
       "end": 989.0,
       "text": " hvilket skete i slut-90'erne, som jeg husker det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 989.0,
       "end": 994.0,
       "text": " Og så byggede Google det, der hed AlphaGo, og det mener jeg er sådan start i 2010'erne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 994.0,
       "end": 999.0,
       "text": " fordi Go er det her kinesiske spil, som er sådan helt psykopatkompleks,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 999.0,
       "end": 1001.0,
       "text": " og jeg kan slet ikke spille det, men det er enormt kompleks,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1001.0,
       "end": 1003.0,
       "text": " og folk kan bruge hele deres liv på at blive dygtige til Go.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1003.0,
       "end": 1007.0,
       "text": " Og man sagde sådan, Go er det sidste spil, som AI kommer til at konkøre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1007.0,
       "end": 1010.0,
       "text": " fordi det er så mange forskellige, det er bare et sindssygt spil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1010.0,
       "end": 1014.0,
       "text": " som kræver CSC'et, og det er lidt à la poker, og man skal jo kunne kende sine modstandere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1014.0,
       "end": 1016.0,
       "text": " og det kommer AI aldrig til at gøre, og så bygger Google en AI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1016.0,
       "end": 1020.0,
       "text": " som bare serverer menneskeheden over og opfinder strategier, som aldrig nogensinde er set før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1020.0,
       "end": 1023.0,
       "text": " Og det kalder man sådan AlphaGo-øjeblikket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1023.0,
       "end": 1028.0,
       "text": " Og der er nogen, der siger, at O1-modellen, det er ChatGPT's AlphaGo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1028.0,
       "end": 1031.0,
       "text": " fordi nu har vi de her reasoning-modeller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1031.0,
       "end": 1035.0,
       "text": " Ja, altså da du sagde navnet AlphaGo, jeg har ikke hørt om det før,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1035.0,
       "end": 1040.0,
       "text": " det første jeg tænkte på, det var Pokémon Go, så jeg kan godt se, vi er i et helt andet spektrum.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1040.0,
       "end": 1045.0,
       "text": " Og endnu en gang får vi sådan illustreret forskellen ved at være over eller under 30 i markedsimport.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1046.0,
       "end": 1051.0,
       "text": " Nej, det der er enormt interessant i det her, det er, at du har sikkert prøvet det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1051.0,
       "end": 1056.0,
       "text": " hvis du allerede har brugt O1 eller O3 eller DeepSeek, og kan se nogle af de ting, de gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1056.0,
       "end": 1061.0,
       "text": " Og det åbner bare op for, at man kan gøre nogle helt andre ting med AI, end man har kunnet gøre tidligere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1061.0,
       "end": 1069.0,
       "text": " Det leder os allesammen til, at kapitalfonden Sequoia, eller i virkeligheden venturekapitalfonden Sequoia i USA,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1069.0,
       "end": 1073.0,
       "text": " har skrevet et af de mest interessante indlæg, jeg nogensinde har læst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1073.0,
       "end": 1079.0,
       "text": " De udgav det for ikke så lang tid siden og kaldte det Generative AIs Act O1,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1079.0,
       "end": 1083.0,
       "text": " The Agentic Reasoning Era. Begins, vi kommer til at længe til det her i podcastets noter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1083.0,
       "end": 1087.0,
       "text": " Det er en rigtig lang artikel, og den er enormt interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1087.0,
       "end": 1094.0,
       "text": " Men vi fik vel også lige, fik vi ikke begge to en smule eksistentiel angst, da vi læste den her? Kan jeg sige det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1094.0,
       "end": 1099.0,
       "text": " Ja, det er mildt sagt. Og jeg kan stadigvæk mærke den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1099.0,
       "end": 1107.0,
       "text": " Altså, det er så svært at rumme nogle af de ting, ja, mange af de ting, de skriver i den pdf'en der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1107.0,
       "end": 1111.0,
       "text": " Det er svært at forholde sig til. Det er pokker svært at forholde sig til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1111.0,
       "end": 1114.0,
       "text": " Og det er også derfor, vi sad lige og snakkede sammen her inden episodeen i dag.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1114.0,
       "end": 1117.0,
       "text": " Det bliver sgu en svær episode, men der er så mange effekter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1117.0,
       "end": 1122.0,
       "text": " Det er ikke sådan et klik her i klædehjul, så får du bedre resultater. Det er ikke det, vi er ude i her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1123.0,
       "end": 1129.0,
       "text": " Basalt set, så er det, vi ser lige nu og er vidne til, at der foregår sådan en form for paradigmeskift,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1129.0,
       "end": 1134.0,
       "text": " hvor lavpraktisk, at i stedet for, at man køber sig adgang til et software,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1134.0,
       "end": 1138.0,
       "text": " altså som I kender det med SAS eller Software as a Service, som du også sagde før,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1138.0,
       "end": 1145.0,
       "text": " så køber du dig mere til et outcome eller et resultat via AI-agenter, der er prompted i forvejen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1145.0,
       "end": 1149.0,
       "text": " Og der er en Service as a Software, eller nogen kalder det også en SAS 2.0.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1149.0,
       "end": 1154.0,
       "text": " Så er det lavpraktisk dermed at gå fra, at man køber sig adgang til en SAS og får selv at bruge det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1154.0,
       "end": 1158.0,
       "text": " til at det er et outcome eller et resultat, du køber dig til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1158.0,
       "end": 1165.0,
       "text": " Og det, som den her artikel og de eksperter, der nogen gange er derude og forsøger at kloge sig på det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1165.0,
       "end": 1169.0,
       "text": " mener, det er jo, at man går fra, at virksomheder har brug for mennesker,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1169.0,
       "end": 1176.0,
       "text": " basalt set til at håndtere software, til at AI-agenter kan agere autonomt inden for et eller andet spektrum",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1176.0,
       "end": 1183.0,
       "text": " og udføre en opgave og give et decideret outcome, hvor det tidligere har været mennesker,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1183.0,
       "end": 1187.0,
       "text": " der har brugt software for at komme dertil. Og hvad sker der så?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1187.0,
       "end": 1190.0,
       "text": " Lad mig prøve at give et eksempel på det her, for vi kan sælge et meget konkret eksempel",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1190.0,
       "end": 1193.0,
       "text": " med en af de mest succesfulde danske virksomheder, der nogensinde er blevet stiftet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1193.0,
       "end": 1197.0,
       "text": " som selvfølgelig er flyttet til USA, fordi fundingmiljøet var meget bedre og blev børnetidere der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1197.0,
       "end": 1202.0,
       "text": " Men Zendesk er jo stiftet af tre danskere, hvis jeg husker rigtigt, enormt dygtige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1202.0,
       "end": 1207.0,
       "text": " Zendesk er jo et kundeservice-værktøj, men det er software as a service, det er klassisk software as a service det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1207.0,
       "end": 1210.0,
       "text": " Jeg er sikker på, at du har nogle kunder, der har brugt det her i deres webshops.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1210.0,
       "end": 1212.0,
       "text": " Ja, mange, mange.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1212.0,
       "end": 1218.0,
       "text": " Ja, Zendesk er jo et kundeservice-software. Man kan købe adgang til det her, og så kan man håndtere kundeservice-tickets",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1218.0,
       "end": 1221.0,
       "text": " og give folk en god oplevelse i det her, og man køber adgang til platformen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1221.0,
       "end": 1225.0,
       "text": " Det vil sige, at platformen, uden at du sætter en person til at have det her som ansvarsområde, er ikke særlig meget værd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1225.0,
       "end": 1231.0,
       "text": " Du køber ikke en færdig tjeneste her. Du køber et stykke software, som du betaler for måned for måned,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1231.0,
       "end": 1236.0,
       "text": " og så har du mulighed for at lægge dit support services derinde, og så kan du håndtere kundesupport derinde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1236.0,
       "end": 1241.0,
       "text": " Det her er klassisk B2B, SAS og en enormt succesfuld dansk historie.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1241.0,
       "end": 1244.0,
       "text": " Det her er software as a service. Du køber softwaren.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1244.0,
       "end": 1251.0,
       "text": " Hvis vi skal vende den rundt og sige, hvad er 2025 versionen af det her, så kan man tage sådan et værktøj som Kindly.ai,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1252.0,
       "end": 1257.0,
       "text": " som vi jo ikke har noget med at gøre, men jeg synes bare, at det er et interessant eksempel på det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1257.0,
       "end": 1261.0,
       "text": " Kindly.ai er service as a software.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1261.0,
       "end": 1267.0,
       "text": " Det vil sige, at du kan sætte Kindly.ai, integrere det på din Shopify-shop eller Magento-shop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1267.0,
       "end": 1269.0,
       "text": " så skal du bruge nogle uger på at onboarde det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1269.0,
       "end": 1272.0,
       "text": " Vi har nogle kunder, der har gjort det her. Vi har nævnt det i en tidligere episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1272.0,
       "end": 1277.0,
       "text": " Herefter begynder Kindly.ai at agere kundeservice for dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1277.0,
       "end": 1281.0,
       "text": " Det er ikke en platform, du køber adgang til, det er en serviceydelse, du køber adgang til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1281.0,
       "end": 1284.0,
       "text": " som sker gennem software, som sker gennem AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1284.0,
       "end": 1287.0,
       "text": " Vi havde en virksomhed, en kunde, der implementerede det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1287.0,
       "end": 1292.0,
       "text": " og oplevede, at det kunne tage 80-85% af deres support til en højere kvalitet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1292.0,
       "end": 1296.0,
       "text": " ratet af dem, der modtog servicen, end deres menneskelige kundeservice medarbejdere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1296.0,
       "end": 1298.0,
       "text": " hvor de nu har færre, end de havde før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1298.0,
       "end": 1303.0,
       "text": " Så her er et eksempel på Kindly. Du køber i virkeligheden ikke platformen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1303.0,
       "end": 1305.0,
       "text": " Jo, det gør du, men du får servicen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1305.0,
       "end": 1307.0,
       "text": " Du køber service, altså software.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1307.0,
       "end": 1312.0,
       "text": " Du køber faktisk det, som et person, et menneske sad i kundeservice og lavede før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1312.0,
       "end": 1314.0,
       "text": " Og det her er bare et simpelt eksempel på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1314.0,
       "end": 1317.0,
       "text": " Men det her er vel i virkeligheden paradigmeskiftet, vi kigger ind i?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1317.0,
       "end": 1322.0,
       "text": " Fuldstændig. Du køber outcome, og outcome er besvarelser på kundene i en tilfredsstillelse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1322.0,
       "end": 1324.0,
       "text": " Og det er lige præcis det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1324.0,
       "end": 1329.0,
       "text": " Og så sidder der nok nogen derude nu, fordi det er en af de tankestrøm, jeg har haft,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1329.0,
       "end": 1335.0,
       "text": " og så tænker jeg, ja, men jeg kunne da også bare lave min egen AI-agent, der kunne besvare de her spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1335.0,
       "end": 1339.0,
       "text": " Og i takt med, at jeg så kommer længere og længere ned i den her tanke her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1339.0,
       "end": 1345.0,
       "text": " så tror jeg i sidste ende, det handler mere om, at Kindly, hvis vi bare tager det som eksempel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1345.0,
       "end": 1349.0,
       "text": " har været kanondygtige til at stille de rigtige spørgsmål,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1349.0,
       "end": 1353.0,
       "text": " der gør, at de har kunne promte sig til at levere et resultat, der er kanongodt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1353.0,
       "end": 1358.0,
       "text": " For hvis jeg kom til dig i 90'erne og spurgte, hvad er god kundeservice?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1358.0,
       "end": 1363.0,
       "text": " Din holdning til god kundeservice i en given case er højst sandsynlig anderledes end min.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1363.0,
       "end": 1369.0,
       "text": " Så det outcome, der ligesom skal komme af den her AI-agent, er jo baseret på en holdning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1369.0,
       "end": 1371.0,
       "text": " eller i hvert fald, at der er blevet stillet de rette spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1371.0,
       "end": 1375.0,
       "text": " For eksempel, hvis en kunde kommer og er sur, skal vedkommende så bare have alle pengene i retur,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1375.0,
       "end": 1377.0,
       "text": " eller forsøger man at løse det? Det er sådan lidt sat på spidsen, det ved jeg ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1377.0,
       "end": 1379.0,
       "text": " Men hvad gør man lige her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1379.0,
       "end": 1384.0,
       "text": " Og det er alle de tanker, man som virksomhedsejer ville skulle tænke sig til at promte sig ud af i løbende,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1384.0,
       "end": 1388.0,
       "text": " og det kan jo tage lang tid, fordi man når at lave rigtig mange fejl undervejs,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1388.0,
       "end": 1390.0,
       "text": " før man kommer til en AI-agent, der rent faktisk kan det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1390.0,
       "end": 1393.0,
       "text": " Hvis man så kigger modsat på det, så Kindly, de har sat sig ned og sagt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1393.0,
       "end": 1397.0,
       "text": " vi skal edderhug med værkspænden, og jeg skal lige sige, at jeg kender ikke Kindly særlig godt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1397.0,
       "end": 1399.0,
       "text": " men jeg går ud fra, at det er det her, de gør.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1399.0,
       "end": 1402.0,
       "text": " De sætter sig ned og siger, at vi skal kunne løse den her problemstilling.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1402.0,
       "end": 1405.0,
       "text": " Vi skal kunne levere den her outcome, og det er tilfredsstillende kundeservice.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1405.0,
       "end": 1408.0,
       "text": " Ergo, vi bygger en agent, som folk køber sig adgang til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1408.0,
       "end": 1411.0,
       "text": " Igen, servicen, de køber sig adgang til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1411.0,
       "end": 1413.0,
       "text": " Så skal de bare være pissehamrende dygtige, undskyld mit franske,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1413.0,
       "end": 1415.0,
       "text": " til at levere lige præcis det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1415.0,
       "end": 1419.0,
       "text": " Og det er det her paradigmeskift, som man antager, kommer til at ske nu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1419.0,
       "end": 1421.0,
       "text": " og jeg tror også på det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1421.0,
       "end": 1423.0,
       "text": " Jeg tror også, det kommer til at ske.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1423.0,
       "end": 1425.0,
       "text": " Der er to interessante aspekter i det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1425.0,
       "end": 1427.0,
       "text": " Det ene er, hvilke virksomheder åbner det her op for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1427.0,
       "end": 1430.0,
       "text": " og det andet er, hvad fanden sker der med vores job-tinio?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1432.0,
       "end": 1436.0,
       "text": " Står vi nede på et jobscenter i Silkeborg i kommende uge med hatten i hånden?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1436.0,
       "end": 1438.0,
       "text": " Måske ikke i kommende uge, men om to uger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1439.0,
       "end": 1442.0,
       "text": " Det er det, der er så pokkersvært at finde ud af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1443.0,
       "end": 1446.0,
       "text": " Lad os prøve at tage det her i en marketingkontekst og tænke det lidt videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1446.0,
       "end": 1449.0,
       "text": " Med den udvikling, der sker lige nu, hvad er det for nogle dele af vores roller,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1449.0,
       "end": 1451.0,
       "text": " som der måske ikke er lige om lidt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1451.0,
       "end": 1454.0,
       "text": " Og vi havde for nylig en episode med, hvilke jobs tror vi ikke eksisterer lige om lidt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1454.0,
       "end": 1456.0,
       "text": " hvor kundeservicemedarbejder jo også var en del af det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1456.0,
       "end": 1458.0,
       "text": " men jeg tror bare, man kan tænke det endnu videre end det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1458.0,
       "end": 1460.0,
       "text": " Lad os prøve at tænke kampagneopsætning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1460.0,
       "end": 1463.0,
       "text": " Lige nu, altså indtil nu, hvis vi tænker sådan en annoncering på Facebook",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1463.0,
       "end": 1466.0,
       "text": " og en annoncering på Google, har vi jo kunnet købe adgang til software.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1466.0,
       "end": 1469.0,
       "text": " Så vi har kunnet købe adgang til software, altså service,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1469.0,
       "end": 1472.0,
       "text": " og det kunne jo være platforme som, jeg kan ikke engang huske, hvad de hedder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1472.0,
       "end": 1475.0,
       "text": " men der er sådan en del forskellige platforme, som ligger som et overlay",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1475.0,
       "end": 1478.0,
       "text": " på både Google og MetaHats, og så kan man sætte op igennem det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1478.0,
       "end": 1481.0,
       "text": " Og vi bruger ikke nogen af dem i Obsidian, og der er to årsager til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1481.0,
       "end": 1484.0,
       "text": " Det ene er, at de er typisk spændt afregnede, og vores kunder bruger rigtig mange penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1484.0,
       "end": 1486.0,
       "text": " så det vil være virkelig dyrt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1486.0,
       "end": 1489.0,
       "text": " Og den anden er, at man kan flere ting på Metas egen platform,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1489.0,
       "end": 1492.0,
       "text": " end man kan igennem tredjepartsværktøjerne, i hvert fald fordi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1492.0,
       "end": 1495.0,
       "text": " at Meta afgrænser nogle ting i deres API, så vi kan i realitet en flere ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1495.0,
       "end": 1498.0,
       "text": " Så vi har ved det her, at det er nemmere bare at lære Metas redskaber kende,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1498.0,
       "end": 1501.0,
       "text": " og så gør det. Kunne man forestille sig, at der bliver bygget service,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1501.0,
       "end": 1506.0,
       "text": " altså software, som i virkeligheden går ind og håndterer kampagnehåndteringen for en,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1506.0,
       "end": 1512.0,
       "text": " og er det i virkeligheden sket med Advantage Plus og Performance Max til en vis grad allerede?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1514.0,
       "end": 1517.0,
       "text": " Ja, det er jo et rigtig interessant spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1517.0,
       "end": 1519.0,
       "text": " Det kunne jo da Facebook prøve at gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1549.0,
       "end": 1559.0,
       "text": " Jeg forsøger i hvert fald, ikke? Men igen så kommer jeg bare tilbage til, at jeg tror, altså personligt, så tror jeg, at hvis man tager et marketingsbyrå-kontekst, bare for at tage et eksempel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1559.0,
       "end": 1569.0,
       "text": " eller en given virksomhed, der sidder derude og gerne vil håndtere sin annoncering selv, man bygger sine egne AI-agenter, fordi at man skal kunne stille de rigtige spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1569.0,
       "end": 1577.0,
       "text": " Lad os bare tage et eksempel. Jeg siger til dig, eller jeg siger til en eller anden bred, bred AI-agent. Jeg vil gerne have genereret så meget omsætning som overhovedet muligt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1577.0,
       "end": 1587.0,
       "text": " så går den ellers bare i gang. Men må den sætte varer ned på en webshop, for eksempel? Hvilken roer skal den holde sig ind for? Hvor meget spænd må den bruge? Er der noget likviditets, den lige skal tage højde for?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1587.0,
       "end": 1595.0,
       "text": " Er der nogle varer, vi ikke kan få tilbage, altså vi ikke kan køre ind igen fra leverandørene? Der er en masse spørgsmål, som er så individuelle for de enkelte forretninger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1595.0,
       "end": 1605.0,
       "text": " hvor det er så vigtigt at være oppe på et strategisk niveau og kunne besvare de her, i hvert fald stille spørgsmålene. Og jeg tror, det er der, hvor at, nu spurgte du ind til vores job,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1605.0,
       "end": 1614.0,
       "text": " jeg tror, det er der, vi skal være rigtig skarpe fremadrettet. Jeg tror, for så vidt der indgår betalt annoncering, er der nogle faldgrupper, og det er jo nogle, man kommer igennem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1614.0,
       "end": 1620.0,
       "text": " i takt med, at man arbejder med det her. Hvis man nogensinde har set sådan et opslag fra en 19-årig selvudnævnt Facebook-ekspert på LinkedIn, der siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1620.0,
       "end": 1627.0,
       "text": " jeg har skaffet ROAS 15 på min kunde, så ved man jo, man ved jo, det er fordi, de har inkluderet view-tilskrivning og så bare målrettet eksisterende kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1627.0,
       "end": 1637.0,
       "text": " Det var ikke ROAS 15, men Facebook rapporterede det bare. Og det er der, hvor udfordringen kan opstå, med at nogle gange, så skal man lige et lag dybere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1637.0,
       "end": 1646.0,
       "text": " Jeg kan jo nævne, jeg sidder en gang om ugen ved en virksomhed, vi har arbejdet sammen med i mange år, og vi har fornyeligt slukket annonceringen i Tyskland,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1646.0,
       "end": 1652.0,
       "text": " fordi, jeg nævnte det i en tidligere episode også, men vi har en acceptabel ROAS i Tyskland, men vi har 60% retur.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1652.0,
       "end": 1659.0,
       "text": " Det hænger bare ikke sammen. Og der skal man lige et spadestik dybere ned i Shopify-installationen, og se, hvor meget der rent faktisk kommer igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1659.0,
       "end": 1666.0,
       "text": " og hvilke produkter folk køber for at koncentrere sig. ROAS er finere, den er bedre end andre lande, og det er en helt vildt dårlig forretning, det er vi her gang i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1666.0,
       "end": 1673.0,
       "text": " Der er også en udfordring med, at spendallokeringen, hvis man lige tager specifikt betalt annoncering, sker jo i et duopol mellem Google og Meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1673.0,
       "end": 1681.0,
       "text": " Altså alle vores kunder bruger alle de penge, de kan på Google og Meta, og så drøbber der sådan en lille smule spær-change af til Pinterest, TikTok og alle mulige andre plattformer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1681.0,
       "end": 1690.0,
       "text": " Sådan generelt. TikTok tager også en stor del for nogle kunder, og der er edge-cases, men hovedreglen er jo, at du bruger rigtig mange penge på Google og på Meta,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1690.0,
       "end": 1699.0,
       "text": " og så bruger du en lille smule på alt andet. Og der er jo en udfordring med, at hvis en AI-agent skal kunne lave en fornuftig optimering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1699.0,
       "end": 1707.0,
       "text": " er de jo nødt til at have et rigtig stort data-fundament. Men Google og Meta sidder inde med meget mere data, end de giver adgang til i API'en.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1707.0,
       "end": 1714.0,
       "text": " Så en AI-agent, der skal gå ind udefra og optimere resultaterne på Google og Meta, vil være stikket fra første øjeblik af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1714.0,
       "end": 1720.0,
       "text": " De vil simpelthen ikke have de samme forudsætninger for det. Og det er der, hvor jeg tror, at Meta og Google kommer til at gøre så meget, de overhovedet kan for det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1720.0,
       "end": 1728.0,
       "text": " fordi de vil gerne sænke indgangsbarrierne for at bruge flere penge på Google og Meta. Og hvis ikke byråer og deres tekniske egenskab er mellemmænd på den så at sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1728.0,
       "end": 1734.0,
       "text": " eller indgangsbarriere, så vil det jo være godt for Google og Meta, hvis flere folk fik bedre resultater ud af det, fordi det blev nemmere at bruge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1734.0,
       "end": 1740.0,
       "text": " Så de har al interesse i, at det her bliver bedre. Men jeg tror, det bliver Google og Meta selv, der gør det. Jeg tror faktisk ikke, det bliver tredepart-redskaber lige i det her tilfælde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1740.0,
       "end": 1744.0,
       "text": " fordi det kræver den datamængde, de selv sidder med. Men det er jo noget andet, end at med kundeservice på en webshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1744.0,
       "end": 1747.0,
       "text": " Fordi der er jo et webshop, hvor vi holder data ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1747.0,
       "end": 1751.0,
       "text": " Ja, det har du ret i. Det er en god pointende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1752.0,
       "end": 1759.0,
       "text": " Hvad tænker du om content creation? Fordi lige nu igen, vi har adgang til at købe software as a service. Det kunne for eksempel være Canva og Photoshop.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1759.0,
       "end": 1766.0,
       "text": " Og så kan vi jo gå ind i Canva, og du ved, jeg kan godt lide at gå ind i Canva. Og så laver jeg nogle kreativer, og du skriver en besked til mig på Slack og siger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1766.0,
       "end": 1773.0,
       "text": " hvad fanden er det? Jeg har kunnet lave noget, der var bedre, selvom jeg er jo blind. Men vi lægger det ud alligevel, og det er autentisk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1773.0,
       "end": 1782.0,
       "text": " og folk kan godt lide det og liker min LinkedIn-opslag. Kunne man foretælle sig service as a software på content creation-delen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1782.0,
       "end": 1789.0,
       "text": " hvor du bare i natural language prompter, hvad du har behov for, og så kommer der færdige kreativer ud i den anden ende?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1789.0,
       "end": 1800.0,
       "text": " Ja, 100 procent. 100 procent. Og vi ser det jo til deles allerede. Når man sidder og kigger på nogle specifikke tools, der er rigtig langt fremme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1800.0,
       "end": 1810.0,
       "text": " hvad det her, det angår. Særligt inden for video, så er Haygen og Creatify, som er dem, der ligesom har slået sig ned på, at du kan prompte video,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1810.0,
       "end": 1818.0,
       "text": " hvor der sidder en person, altså en avatar, og siger præcis, hvad det er, du har sagt, den skal sige. Og i forskellige settings, og du kan selv vælge de her avatars,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1818.0,
       "end": 1827.0,
       "text": " og så videre. Altså, du har sagt det før. Det bliver ikke dårligere, end det er lige nu. Og det er faktisk okay nu. Altså, det er ikke fantastisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1827.0,
       "end": 1836.0,
       "text": " men vi har da nogle cases, hvor vi har kørt nogle videoer med nogle af de her avatars her, hvor det faktisk har fungeret i annonceringsøje med. Og det bliver kun bedre nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1836.0,
       "end": 1838.0,
       "text": " Så det tror jeg får svar på spørgsmålet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1838.0,
       "end": 1847.0,
       "text": " Ja, jeg synes nemlig, at Haygen er et rigtig godt eksempel på det her. Og Haygen er en af de fedeste AI-virksomheder. Og det, de laver, det er, at man kan lave sin egne avatar,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1847.0,
       "end": 1855.0,
       "text": " og her lave videoer med dem lidt, eller det danske start-up synes, det er ligesom i virkeligheden. Så man kan både vælge mellem en masse eksisterende avatars derinde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1855.0,
       "end": 1862.0,
       "text": " eller man kan lave sin egne. Og det kan man så bruge til fx, at jeg kan lave en video med mig, som præsenterer noget på finsk via mig, der taler finsk med min stemme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1862.0,
       "end": 1871.0,
       "text": " fordi det er koblet op på en anden AI-tjeneste, der hedder 11Labs. Og så kan man lave noget rigtig godt video på den måde. Og det er godt nok til at blive brugt i betalt annoncering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1871.0,
       "end": 1883.0,
       "text": " Men jeg synes også, at et eksempel på noget interessant her, det er, at NetApp Haygen, de har for et lille års tid siden, lanceret en tjeneste, der hedder URL2UGC.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1883.0,
       "end": 1894.0,
       "text": " Så det er en tjeneste i Haygen, hvor du simpelthen tager et link fra din shop og lægger det ind, og så crawler Haygen linket og genererer selv et script,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1894.0,
       "end": 1902.0,
       "text": " finder selv en creator, laver selv editing, så klipper frem og tilbage mellem en eller anden creator, der indtaler et script og går ude i naturen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1902.0,
       "end": 1907.0,
       "text": " og så kommer nogle billeder af produktet, og så klipper det tilbage til creatoren og eksporterer det selv inde i size'en med undertekster.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1908.0,
       "end": 1913.0,
       "text": " Du kan stort set one-click det. Og du ved, det er ikke perfekt. Og på dansk er det faktisk ret sløjt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1913.0,
       "end": 1920.0,
       "text": " Men på engelsk er det godt nok til, at hvis dit alternativ var et billede, du havde lavet i Canva, så ville det sgu nok fungere bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1920.0,
       "end": 1922.0,
       "text": " Især hvis du havde lavet det i Canva.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1926.0,
       "end": 1933.0,
       "text": " Men det er ikke perfekt, og især på de små sprog er det ret sløjt. Vi kan ikke bruge de her obsidian lige nu, fordi det er for dårligt på dansk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1933.0,
       "end": 1941.0,
       "text": " Men hvis du sad som engelsk virksomhed og skulle teste en kampagne med nogle hurtige og billige kreativer, fuck det er en god løsning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1941.0,
       "end": 1948.0,
       "text": " Og det er lige præcis service, altså software, fordi lige tidligere så havde det her jo været en service, du havde betalt nogen for, at det skulle lave.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1948.0,
       "end": 1952.0,
       "text": " Og der er stadig et kæmpe marked for at betale for det her, fordi det er ikke perfekt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1952.0,
       "end": 1957.0,
       "text": " Men man skal huske på, hvad er alternativet, og der er virkelig meget dårlig annoncering derude.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1957.0,
       "end": 1958.0,
       "text": " For pokker, mand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1962.0,
       "end": 1970.0,
       "text": " Jeg kan mærke oppe i min hjerne, hvordan det kører rundt, fordi det er så stort og svært et emne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1970.0,
       "end": 1973.0,
       "text": " Men for pokker var det vigtigt, at vi forholder os til det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1973.0,
       "end": 1977.0,
       "text": " Og ikke bare sådan i makro, men også i de enkle virksomheder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1977.0,
       "end": 1986.0,
       "text": " Og jeg håber også, at I der lytter med, går og tænker over, hvordan det her paradigmeskift påvirker i forretningen, fordi det handler altså om at være med her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1986.0,
       "end": 1999.0,
       "text": " Og så tror jeg en ting, nu da vi snakker content creation, en ting som jeg, eller en fælge jeg selv er hoppet i nogle gange, det er det her med, AI er hvor den er lige nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1999.0,
       "end": 2001.0,
       "text": " Og lad os tage haten som eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2001.0,
       "end": 2008.0,
       "text": " Og folk kan godt lide at gå rundt og sige, at nu kan AI det hele, og den kan lave contentet for dig, og du kan bare uploade en URL, og så er den der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2008.0,
       "end": 2010.0,
       "text": " Så prøver man det, så er det ikke skide godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2010.0,
       "end": 2013.0,
       "text": " Og så tænker man, nej, det er der ikke endnu, nej, det kommer ikke til at ske, osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2013.0,
       "end": 2023.0,
       "text": " I stedet for at tage det lidt længere ned på et lidt mere lavpraktisk niveau, fordi du faktisk kommer med et ret godt eksempel, det er noget så simpelt som en content kalender.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2023.0,
       "end": 2031.0,
       "text": " Det er noget, som rigtig mange virksomheder har enormt svært ved at sætte sig ned og lave, især når der kommer nogle variabler ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2031.0,
       "end": 2034.0,
       "text": " Det kan være, at nogle af ens forhandlere ligger og kører rabat på et eller andet tidspunkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2034.0,
       "end": 2038.0,
       "text": " Jamen det skal lige tænkes ind, når man laver sin content kalender, som man overlapper deres, osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2038.0,
       "end": 2040.0,
       "text": " Der kan være rigtig mange ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2040.0,
       "end": 2046.0,
       "text": " Men noget så simpelt som det, kan man jo godt få AI til at komme med et rigtig, rigtig godt resultat på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2046.0,
       "end": 2054.0,
       "text": " Så selvom at AI ikke kan løse alle dine udfordringer, så tror jeg meget på, at man skal tænke det i, og det vil jeg jo altid sige om det meste, for jeg elsker processer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2054.0,
       "end": 2061.0,
       "text": " men tænk det i en proces eller en eller anden handling af en række af handlinger, du udfører for at opnå et eller andet resultat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2061.0,
       "end": 2067.0,
       "text": " Hvad er nogle af de handlinger, der får ud fra resultatet, hvor man kan brække det ned i nogle små stykker?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2067.0,
       "end": 2073.0,
       "text": " Der tror jeg rigtig mange vil blive chokeret over, hvor dygtig AI er i dag til rent faktisk at hjælpe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2073.0,
       "end": 2075.0,
       "text": " Ja, det tror jeg også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2075.0,
       "end": 2078.0,
       "text": " Og man kan sige et andet eksempel på en ting, folk bliver chokeret over.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2078.0,
       "end": 2086.0,
       "text": " Jeg lavede jo, mens du var på ferie i Vietnam og bare forlod mig i flere uger, lavede jeg jo en soloepisode om det Deep Research fra OpenAI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2086.0,
       "end": 2093.0,
       "text": " som jo er en mulighed for at lave et prompt på, altså det tager fem minutter eller ti minutter, eller jeg har prøvet at lave det to fem minutter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2093.0,
       "end": 2099.0,
       "text": " hvor du så stiller et spørgsmål, får nogle uddybende spørgsmål tilbage, og herefter går OpenAI i gang med at troll internettet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2099.0,
       "end": 2105.0,
       "text": " kigger jo 20, 25, 30 kilder igennem og skriver en halv PHD-afhandling til dig tilbage igen på 10 minutter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2105.0,
       "end": 2110.0,
       "text": " og det er bare det ting, som man kunne have, altså jeg kunne ikke have gjort det bedre, hvis jeg havde brugt hele dagen på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2110.0,
       "end": 2113.0,
       "text": " Det er for sindssygt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2113.0,
       "end": 2118.0,
       "text": " Lad os snakke lidt om, hvad skal man egentlig gøre, altså hvor stiller det rent faktisk ind fremadrettet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2118.0,
       "end": 2123.0,
       "text": " hvis man nu sidder og har sådan noget eksistentielt angst over det her, at AI kommer og tager ens job,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2123.0,
       "end": 2129.0,
       "text": " hvad skal man så rent faktisk gøre, og lad mig starte med at dele et tip fra Sebastian Siermicowski,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2129.0,
       "end": 2134.0,
       "text": " som vi har talt om tidligere i det her podcast, som er direktør i Klarne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2134.0,
       "end": 2139.0,
       "text": " Han delte et sjovt tweet for en dag siden, jeg tager det lige op på skærmen her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2139.0,
       "end": 2146.0,
       "text": " Han skriver, AI is a threat to admin and white-collar jobs, not restaurants, truckers, etc.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2146.0,
       "end": 2154.0,
       "text": " Og så linker han til en artikel fra yahoo.com, som siger, at gen-C-mænd, og det er jo dig, Signe, du er gen-C faktisk,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2154.0,
       "end": 2161.0,
       "text": " fandt vi ud af sidste gang, du er lige akkurat inde på grænsen, men du er sindssygt mere gen-C, end du er sådan en gammel millennial.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2161.0,
       "end": 2168.0,
       "text": " Gen-C-mænd er turning to the kitchen instead of college, they can make 170,000 without the burden of student debt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2168.0,
       "end": 2174.0,
       "text": " Og det er jo den ene måde at gribe det her an på, det er at du dropper dit white-collar job, du dropper marketingjobbet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2174.0,
       "end": 2177.0,
       "text": " og så går du fuld Gordon Ramsey i køkkenet i stedet for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2177.0,
       "end": 2185.0,
       "text": " Til dem, der gerne vil blive i digital marketing, Signe, hvad er dine overvejelser i forhold til at fortsætte at være relevant i en verden af AI-agenter og service,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2185.0,
       "end": 2191.0,
       "text": " altså software, som kan lave mange af de der triviale opgaver meget bedre og billigere end vi kan lige om lidt?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2191.0,
       "end": 2199.0,
       "text": " Altså jeg kan tage udgangspunkt i, hvad jeg selv gør, og jeg først og fremmest forsøger virkelig at holde mig opdateret på emnet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2199.0,
       "end": 2205.0,
       "text": " Så det kan godt være, at jeg ikke sidder og tester alle mulige nye modeller, det gad jeg rigtig godt, og det ved jeg, det er noget af det, du er rigtig dygtig til at sætte sig ned og teste.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2205.0,
       "end": 2213.0,
       "text": " Jamen så holder jeg mig opdateret, og det gør jeg især igennem dels nyheder, men også YouTube, hvor jeg rent faktisk kan se nogle andre gennemføre,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2213.0,
       "end": 2219.0,
       "text": " eller gennemføre, i hvert fald forsøge at benytte sig af de her nye modeller, der kommer ud, og den viden de sidder med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2219.0,
       "end": 2223.0,
       "text": " altså det her med at få perspektiver på, tror jeg er enormt vigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2224.0,
       "end": 2232.0,
       "text": " Derudover, så forsøger jeg, og det er sgu ikke altid til lykkes, men jeg forsøger virkelig at få prøvet tools af, så ikke nødvendigvis LLM'erne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2232.0,
       "end": 2240.0,
       "text": " men de her nye tools, der kommer ud, og jeg får nok Steffen, vores kære partner, der sidder og kigger på de omkostninger efter mig på et eller andet tidspunkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2240.0,
       "end": 2242.0,
       "text": " fordi på min blevekort kan man godt se, at jeg forsøger det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2242.0,
       "end": 2243.0,
       "text": " Du får et ram.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2243.0,
       "end": 2244.0,
       "text": " Ja, du ved det nemlig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2246.0,
       "end": 2252.0,
       "text": " Men fordi, og det falder tilbage igen på, at det er så vigtigt at forsøge at holde sig opdateret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2253.0,
       "end": 2258.0,
       "text": " Steffen har jo fortalt mig, at i Obsidian, der har vi en software-linje i vores P&L per afdeling,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2258.0,
       "end": 2262.0,
       "text": " så Social har noget software, PPC har noget software, og så har vi en afdeling, der hedder Halvdan Software.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2264.0,
       "end": 2266.0,
       "text": " Der går nok ikke lang tid, før jeg også får min egen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2268.0,
       "end": 2273.0,
       "text": " Og et protip, jeg ved faktisk, at vi to gør nogenlunde det samme, når vi gerne vil lære noget nyt om et emne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2273.0,
       "end": 2279.0,
       "text": " Du går jo ned på løbebåndet, for der er jo lidt mere af et gåbånd nede i fitnesscenteret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2279.0,
       "end": 2286.0,
       "text": " Jeg optager jo her fra min kælder, hvor der står cyklerne foran fjernsynet, og gør fuldstændig det samme,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2286.0,
       "end": 2289.0,
       "text": " fordi jeg har fundet ud af, at det er faktisk en virkelig god måde at lære noget på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2289.0,
       "end": 2295.0,
       "text": " det er at tage en halvtimes lang YouTube-video, og så sætte dig og cykle, eller gå på løbebåndet foran.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2295.0,
       "end": 2299.0,
       "text": " Fordi helt dagpraktisk, så er det ikke særlig sjovt at gå eller cykle i lang tid ad gangen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2299.0,
       "end": 2304.0,
       "text": " så en ellers ikke særlig interessant faglig video på YouTube bliver lige pludselig helt vildt interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2305.0,
       "end": 2308.0,
       "text": " Fordi alternativet er, at du skal cykle eller gå.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2310.0,
       "end": 2311.0,
       "text": " Så er det pro tip givet videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2311.0,
       "end": 2317.0,
       "text": " Min egen overvejelse i forhold til det her, det er at også give fokus på, hvor ens værdileverance sker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2317.0,
       "end": 2320.0,
       "text": " og det her er særlig svært for folk, der kommer ind på arbejdsmarkedet i det øjeblikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2320.0,
       "end": 2326.0,
       "text": " Også er det, at det som AI bliver god til, det er at implementere arbejdet bedre, billigere, hurtigere og mere effektivt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2326.0,
       "end": 2327.0,
       "text": " inden man selv kan gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2327.0,
       "end": 2330.0,
       "text": " Så hvis man fx tager campaign creation på Metas platform,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2330.0,
       "end": 2334.0,
       "text": " hvor meget tid vi ikke brugte i 2016, da vi startede Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2334.0,
       "end": 2337.0,
       "text": " i forhold til at sætte sindrige kampagnekonstruktioner op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2337.0,
       "end": 2341.0,
       "text": " og ned for mobil og særlige annoncer til hvert køn og alt muligt gøl.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2341.0,
       "end": 2343.0,
       "text": " Og i dag der sætter man en Advantage Plus kampagne op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2343.0,
       "end": 2346.0,
       "text": " og så er Meta virkelig dygtige til at finde de rigtige personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2346.0,
       "end": 2350.0,
       "text": " fordi nogle af verdens aller dygtigste ingeniører arbejder på at få os til at bruge længere tid på Meta,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2350.0,
       "end": 2351.0,
       "text": " i stedet for at bygge broer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2353.0,
       "end": 2354.0,
       "text": " Det er et emne til en anden episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2355.0,
       "end": 2356.0,
       "text": " Men de gør det virkelig godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2357.0,
       "end": 2360.0,
       "text": " Så Meta er en sindssyg platform til at finde de rigtige personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2360.0,
       "end": 2364.0,
       "text": " hvis du giver dem det rigtige input, dvs. signaler eller konverteringshændelser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2364.0,
       "end": 2367.0,
       "text": " når en person køber noget på din webshop eller udfylder en formular,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2367.0,
       "end": 2368.0,
       "text": " eller hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2369.0,
       "end": 2371.0,
       "text": " Så jeg kan ikke være bedre til det her end Meta kan.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2372.0,
       "end": 2375.0,
       "text": " Altså, Meta er bedre til kampagneopsætning end jeg er i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2376.0,
       "end": 2380.0,
       "text": " Men jeg kan være bedre til at levere det rigtige input til Meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2380.0,
       "end": 2383.0,
       "text": " Jeg ved, der hvor jeg kan forbedre Metas performance,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2384.0,
       "end": 2386.0,
       "text": " det er ved at sætte den rigtige sporing op til at starte med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2386.0,
       "end": 2388.0,
       "text": " så vi får så mange signaler som overhovedet muligt igennem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2388.0,
       "end": 2390.0,
       "text": " hvilket er meget sværere end det har været tidligere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2390.0,
       "end": 2392.0,
       "text": " Jeg kan gøre noget i forhold til at sørge for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2392.0,
       "end": 2394.0,
       "text": " at vi strategisk promoverer de rigtige produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2395.0,
       "end": 2398.0,
       "text": " Altså fx hvis man tager Obsidians annoncekonto lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2398.0,
       "end": 2401.0,
       "text": " vi kan lave enormt mange annoncer, hvor vi skriver køb, sæve,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2401.0,
       "end": 2404.0,
       "text": " og det vil ikke virke særlig godt, fordi det er et super modent marked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2404.0,
       "end": 2405.0,
       "text": " folk har en løsning i forvejen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2405.0,
       "end": 2407.0,
       "text": " Vi står ikke ud med det på nogen måde der,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2407.0,
       "end": 2409.0,
       "text": " men hvis vi rammer nogle af vores nyere produkter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2409.0,
       "end": 2412.0,
       "text": " som ikke er lige så etableret, så får vi rigtig god respons på dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2412.0,
       "end": 2415.0,
       "text": " Så der skal man vide strategisk, hvad det er man sætter fokus på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2415.0,
       "end": 2419.0,
       "text": " Og så kan jeg jo kontinuerligt være kreativ og lægge nye annoncer ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2419.0,
       "end": 2421.0,
       "text": " se hvordan det fungerer, undgå adfatig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2421.0,
       "end": 2423.0,
       "text": " og på den måde hele tiden forbedre resultatet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2423.0,
       "end": 2426.0,
       "text": " Så jeg ved, når jeg skal forbedre resultatet på en metakonto,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2426.0,
       "end": 2428.0,
       "text": " jeg er ansvarlig på, så er det ikke tekniske ændringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2428.0,
       "end": 2432.0,
       "text": " fordi de tekniske ændringer ligger Metas algoritme og laver i realtid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2432.0,
       "end": 2436.0,
       "text": " Og altså alle dem, der forsøger at outsmarte Meta,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2436.0,
       "end": 2440.0,
       "text": " og lave små tekniske growth hacks og opdelinger i deres kampagner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2440.0,
       "end": 2442.0,
       "text": " og alt det der pisse, hold kæft de spiller meget tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2444.0,
       "end": 2446.0,
       "text": " Det er en tabkamp, lad nu være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2446.0,
       "end": 2450.0,
       "text": " Det handler om at spille Meta god, ikke at prøve at kæmpe imod den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2450.0,
       "end": 2453.0,
       "text": " Og det er jo det AI ikke har de samme forudsætninger for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2453.0,
       "end": 2455.0,
       "text": " så jeg gør mig mange tanker om, hvad er det jeg kan,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2455.0,
       "end": 2459.0,
       "text": " hvor jeg spiller algoritme god, og det er ikke at forsøge teknisk at outsmarte dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2459.0,
       "end": 2461.0,
       "text": " Det er at give dem de rigtige signaler til at starte med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2461.0,
       "end": 2464.0,
       "text": " strategisk prioritere de rigtige produkter, som passer med virksomhedens prioriteringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2464.0,
       "end": 2466.0,
       "text": " og så rent faktisk give mening, har de højeste teknisk bidrag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2466.0,
       "end": 2468.0,
       "text": " og hvad det nu kan være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2468.0,
       "end": 2470.0,
       "text": " og så kontinuerligt lave bedre kreativt og finde ud af, hvad der virker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2470.0,
       "end": 2472.0,
       "text": " og så skal lære den del.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2472.0,
       "end": 2475.0,
       "text": " Og der føler jeg mig faktisk ikke truet af AI på de punkter der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2475.0,
       "end": 2477.0,
       "text": " Famous last words måske.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2477.0,
       "end": 2479.0,
       "text": " Gør du det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2480.0,
       "end": 2484.0,
       "text": " Nej, fordi det du nævner der, det er også at komme lidt mere op i helikopterperspektivet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2484.0,
       "end": 2485.0,
       "text": " Ja, det er det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2485.0,
       "end": 2487.0,
       "text": " Og det er derfor, det er først folk i starten af deres karriere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2487.0,
       "end": 2490.0,
       "text": " som jo normalt ville sidde på platformen, gøre det her for at lære det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2490.0,
       "end": 2492.0,
       "text": " og så komme op i helikopteren.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2492.0,
       "end": 2496.0,
       "text": " Vi er heldige nok med, at vi har været i digital marketing i 15 år begge to,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2496.0,
       "end": 2498.0,
       "text": " så vi kan godt gå op i helikopteren,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2498.0,
       "end": 2500.0,
       "text": " men havde vi været, altså,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2500.0,
       "end": 2503.0,
       "text": " det skulle på nogen måder svære at starte i digital marketing i dag,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2503.0,
       "end": 2505.0,
       "text": " end det var for 15 år siden, fordi du kæmper mod AI,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2505.0,
       "end": 2508.0,
       "text": " som er meget bedre og billigere end dig i det første år i din karriere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2508.0,
       "end": 2510.0,
       "text": " Hvad fanden skal du lige gøre med det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2510.0,
       "end": 2512.0,
       "text": " Jamen, du har fuldstændig ret, og man kan sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2512.0,
       "end": 2514.0,
       "text": " hvis jeg skulle starte forfra,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2514.0,
       "end": 2520.0,
       "text": " så tror jeg også, at mit take på det ville være at blive rigtig dygtig til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2520.0,
       "end": 2522.0,
       "text": " eller i hvert fald kende til AI's muligheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2522.0,
       "end": 2526.0,
       "text": " for så at kunne stille spørgsmålene til dem, der ved mere inden for branchen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2526.0,
       "end": 2529.0,
       "text": " for så at kunne oversætte det til et AI-sprog,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2529.0,
       "end": 2533.0,
       "text": " og på den måde benytte mig af min viden omkring,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2533.0,
       "end": 2536.0,
       "text": " jamen, det bliver jo mere AI, end det bliver omkring selv,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2536.0,
       "end": 2538.0,
       "text": " altså, det handler om at stille de rigtige spørgsmål, ikke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2538.0,
       "end": 2540.0,
       "text": " Du bliver en person, der skal orkestrere et orkester,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2540.0,
       "end": 2542.0,
       "text": " der skal styre et orkester,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2542.0,
       "end": 2544.0,
       "text": " nærmere end en person, der står og spiller det enkelte instrument.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2544.0,
       "end": 2548.0,
       "text": " Og hvis man starter ens karriere på at blive virkelig dygtig til at spille det enkelte instrument,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2548.0,
       "end": 2552.0,
       "text": " så tror jeg, at man får en rigtig dårlig oplevelse i digital marketing de næste fem år.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2553.0,
       "end": 2558.0,
       "text": " Hvordan tror du, fordi det handler lidt omkring det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2558.0,
       "end": 2563.0,
       "text": " kommer hver virksomhed til at, lad os sige om fem år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2563.0,
       "end": 2566.0,
       "text": " have sin egen eller flere AI-agenter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2566.0,
       "end": 2569.0,
       "text": " eller hvordan tror du fremtidens ud, hvad det angår?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2569.0,
       "end": 2573.0,
       "text": " Altså, bygger man sin egen, i og med at det handler omkring de her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2573.0,
       "end": 2575.0,
       "text": " altså, hvordan du prompter det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2575.0,
       "end": 2579.0,
       "text": " og ofte så er virksomheder jo relativt unikke på nogle områder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2579.0,
       "end": 2580.0,
       "text": " og mange andre områder er de ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2580.0,
       "end": 2584.0,
       "text": " men på de her unikke faktorer, der skal AI'en jo gerne promptes korrekt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2584.0,
       "end": 2589.0,
       "text": " Eller køber man sig ind i AI-agenter udelukkende, eller hvad tænker du?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2589.0,
       "end": 2591.0,
       "text": " Jeg tror ikke, at man behøver at bygge sin egen ting i det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2591.0,
       "end": 2593.0,
       "text": " Og jeg er egentlig principielt ret meget imod det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2593.0,
       "end": 2595.0,
       "text": " fordi så skifter man lige pludselig formål med ens virksomhed",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2595.0,
       "end": 2596.0,
       "text": " og bliver en udviklingsvirksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2596.0,
       "end": 2600.0,
       "text": " og det er en helt anden forretningsmodel, som de færreste virksomheder bør bevæge sig ind på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2600.0,
       "end": 2603.0,
       "text": " Så min tanke i forhold til, hvad Obsidian skal gøre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2603.0,
       "end": 2605.0,
       "text": " det er, at vi skal ikke bygge vores egen modeller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2605.0,
       "end": 2608.0,
       "text": " Jeg tror, at vi skal bruge alle andres arbejde",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2608.0,
       "end": 2611.0,
       "text": " og være dem, der rent faktisk implementerer det i vores egen virksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2611.0,
       "end": 2614.0,
       "text": " Det vi skal, det er, at vi skal sørge for at stille den rigtige data til rådighed",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2614.0,
       "end": 2616.0,
       "text": " og sørge for at strukturere det på den rigtige måde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2616.0,
       "end": 2618.0,
       "text": " Men jeg tror ikke, at vi skal ud og bygge vores egen redskaber,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2618.0,
       "end": 2620.0,
       "text": " fordi vi kan aldrig bygge noget, som bliver bedre end det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2620.0,
       "end": 2622.0,
       "text": " Google kommer til at lægge ind i Google Workspace,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2622.0,
       "end": 2625.0,
       "text": " som vi bruger, eller OpenAI, hvor vi allerede har Pro-modulet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2625.0,
       "end": 2626.0,
       "text": " eller hvad det nu skal være.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2626.0,
       "end": 2629.0,
       "text": " Så jeg tror ret meget på, at vi skal være de bedste til at bruge det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2629.0,
       "end": 2630.0,
       "text": " alle de andre bygger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2630.0,
       "end": 2633.0,
       "text": " Men jeg tror, at det vil være en kæmpe fejltagelse",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2633.0,
       "end": 2635.0,
       "text": " at begynde at bygge vores egne værktøjer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2635.0,
       "end": 2637.0,
       "text": " fordi i det øjeblik, vi er færdige med dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2637.0,
       "end": 2640.0,
       "text": " så er der nogle crack-kinesere med meget dårligere chips,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2640.0,
       "end": 2642.0,
       "text": " som er bygget i en model, der er 40 gange billigere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2642.0,
       "end": 2645.0,
       "text": " end vi har hashtag DeepSeekR1 og vores Nvidia-stocks.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2645.0,
       "end": 2647.0,
       "text": " Så den er jeg sgu meget opmærksom på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2647.0,
       "end": 2649.0,
       "text": " at jeg har lyst til at bygge mit eget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2649.0,
       "end": 2653.0,
       "text": " og jeg tror, at det er den dårligste idé, vi overhovedet kunne komme på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2653.0,
       "end": 2655.0,
       "text": " Så i stedet for at gå ud og sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2655.0,
       "end": 2657.0,
       "text": " at man er de bedste til at bygge AI-modeller,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2657.0,
       "end": 2660.0,
       "text": " så er man måske de bedste til at benytte sig af AI-modeller.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2660.0,
       "end": 2661.0,
       "text": " Ja, det tror jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2662.0,
       "end": 2664.0,
       "text": " Jeg tror, at det er meget få virksomheder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2664.0,
       "end": 2666.0,
       "text": " der skal bygge deres egen modeller.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2666.0,
       "end": 2668.0,
       "text": " Du ved, hvis du sidder og lytter med sig det her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2668.0,
       "end": 2670.0,
       "text": " og du arbejder i Maersk, okay, det er måske lidt anderledes.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2670.0,
       "end": 2673.0,
       "text": " Men til alle andre, så tror jeg faktisk ikke, man skal gøre det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2673.0,
       "end": 2675.0,
       "text": " Så tror jeg, man skal benytte sig af det, som andre bygger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2675.0,
       "end": 2677.0,
       "text": " fordi andre gør det bedre, og vi kan få adgang til det",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2677.0,
       "end": 2681.0,
       "text": " for en sygt lav pris i forhold til, hvad det i virkeligheden er værd,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2681.0,
       "end": 2683.0,
       "text": " hvis vi bruger det på den rigtige måde.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2683.0,
       "end": 2685.0,
       "text": " Jamen, den køber jeg,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2685.0,
       "end": 2688.0,
       "text": " fordi nu lyttede jeg til et podcast her i morges",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2688.0,
       "end": 2689.0,
       "text": " omkring det her emne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2689.0,
       "end": 2691.0,
       "text": " hvor et af de selskaber, der blev brugt som eksempel...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2691.0,
       "end": 2693.0,
       "text": " Var det på Løbebundet?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2693.0,
       "end": 2695.0,
       "text": " Ja, hvor jeg gik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2695.0,
       "end": 2697.0,
       "text": " Godbundet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2697.0,
       "end": 2699.0,
       "text": " Godbundet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2699.0,
       "end": 2700.0,
       "text": " Der brugte de et eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2700.0,
       "end": 2701.0,
       "text": " Jeg kan ikke huske, hvad virksomheden hedder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2701.0,
       "end": 2702.0,
       "text": " men du skal forestille dig, at det er en virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2702.0,
       "end": 2704.0,
       "text": " der går ind og sælger workflows,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2704.0,
       "end": 2706.0,
       "text": " altså AI-workflows til andre virksomheder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2706.0,
       "end": 2708.0,
       "text": " Så de går ind, kigger på dine processer og siger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2708.0,
       "end": 2709.0,
       "text": " okay, det her, det kan jeg automatisere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2709.0,
       "end": 2710.0,
       "text": " Vi laver et workflow.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2710.0,
       "end": 2711.0,
       "text": " Så forestil dig lav praksis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2711.0,
       "end": 2712.0,
       "text": " De går ind og laver et makeflow.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2712.0,
       "end": 2713.0,
       "text": " Meget lav praksis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2713.0,
       "end": 2715.0,
       "text": " Dem sendte du mig et link til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2715.0,
       "end": 2718.0,
       "text": " Det er jo en virksomhed, som lever af",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2718.0,
       "end": 2720.0,
       "text": " at implementere workflows for virksomheder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2720.0,
       "end": 2722.0,
       "text": " og så tager en betaling per gang, workflowet kører.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2722.0,
       "end": 2725.0,
       "text": " Så for eksempel 1 cent eller 5 øre",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2725.0,
       "end": 2727.0,
       "text": " eller et eller andet for hver gang, workflowet kører.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2727.0,
       "end": 2729.0,
       "text": " Så tænker man, det er ikke særlig mange gange.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2729.0,
       "end": 2731.0,
       "text": " Og så kører det bare en million gange om dagen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2731.0,
       "end": 2733.0,
       "text": " Det var en super interessant forretningsmodel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2733.0,
       "end": 2735.0,
       "text": " Ja, og jeg kan huske,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2735.0,
       "end": 2737.0,
       "text": " jeg stussede over det her med prismodellen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2737.0,
       "end": 2739.0,
       "text": " Der betaler du for et outcome.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2739.0,
       "end": 2741.0,
       "text": " Outcome er den her flow, der de kører.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2741.0,
       "end": 2742.0,
       "text": " Service, altså software.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2742.0,
       "end": 2743.0,
       "text": " Fuldstændig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2743.0,
       "end": 2745.0,
       "text": " Men der, hvor jeg så godt kan se den,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2745.0,
       "end": 2748.0,
       "text": " det er den dag, hvor det her workflow knækker",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2748.0,
       "end": 2749.0,
       "text": " af en eller anden årsag.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2749.0,
       "end": 2750.0,
       "text": " Der er kommet en eller anden opdatering,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2750.0,
       "end": 2751.0,
       "text": " eller whatever it is.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2751.0,
       "end": 2752.0,
       "text": " Så sidder de klar.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2752.0,
       "end": 2754.0,
       "text": " Og det er deres job at sørge for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2754.0,
       "end": 2755.0,
       "text": " at det her workflow fungerer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2755.0,
       "end": 2757.0,
       "text": " Hvis vi som virksomhed har lavet vores eget workflow igennem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2757.0,
       "end": 2758.0,
       "text": " lad os bare sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2758.0,
       "end": 2759.0,
       "text": " og det har vi jo tit gjort,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2759.0,
       "end": 2760.0,
       "text": " gennem Make eller Zapier.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2760.0,
       "end": 2761.0,
       "text": " Vi har jo faktisk et meget godt eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2761.0,
       "end": 2764.0,
       "text": " Vi havde jo vores nyhedsbrev,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2764.0,
       "end": 2766.0,
       "text": " der automatisk bliver sendt ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2766.0,
       "end": 2768.0,
       "text": " lige så snart, at en ny episode udkommer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2768.0,
       "end": 2770.0,
       "text": " Der var et eller andet, der var knækket der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2770.0,
       "end": 2774.0,
       "text": " Så der er sgu en, der laver snød om på vores Make flow derinde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2774.0,
       "end": 2777.0,
       "text": " Men det bliver vi nødt til selv at opdage og stå for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2777.0,
       "end": 2778.0,
       "text": " Og ind og fejlse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2778.0,
       "end": 2779.0,
       "text": " Og uh, hvad er det lige det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2779.0,
       "end": 2780.0,
       "text": " Nej, nej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2780.0,
       "end": 2781.0,
       "text": " I det andet tilfælde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2781.0,
       "end": 2782.0,
       "text": " der er det ikke sku dem, der står for det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2782.0,
       "end": 2783.0,
       "text": " men man får lov til at betale for det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2783.0,
       "end": 2784.0,
       "text": " pr. gang det bliver brugt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2784.0,
       "end": 2787.0,
       "text": " Men de står så også for, at det fungerer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2787.0,
       "end": 2789.0,
       "text": " Super interessant forretningsmodel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2789.0,
       "end": 2790.0,
       "text": " de har lavet der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2790.0,
       "end": 2791.0,
       "text": " Og jeg tror for mange virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2791.0,
       "end": 2793.0,
       "text": " så kunne det være super attraktivt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2793.0,
       "end": 2795.0,
       "text": " Hvis man skal sige noget positivt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2795.0,
       "end": 2798.0,
       "text": " det er sværere at komme ind i digital marketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2798.0,
       "end": 2801.0,
       "text": " som Straight Out Of School har vi lige snakket om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2801.0,
       "end": 2803.0,
       "text": " Der er også nogle måder, hvorpå det er nemmere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2803.0,
       "end": 2804.0,
       "text": " Fordi da vi startede for 15 år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2804.0,
       "end": 2805.0,
       "text": " der havde vi ikke af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2805.0,
       "end": 2806.0,
       "text": " altså så man kan sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2806.0,
       "end": 2807.0,
       "text": " den arbitrage du havde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2807.0,
       "end": 2809.0,
       "text": " det var at købe mine tekster til 20 ører,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2809.0,
       "end": 2810.0,
       "text": " og sælge dem til 30 ører.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2810.0,
       "end": 2811.0,
       "text": " Din skiderik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2811.0,
       "end": 2814.0,
       "text": " Det var virkelig fantastisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2814.0,
       "end": 2816.0,
       "text": " Jeg savnede det så meget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2816.0,
       "end": 2818.0,
       "text": " Den kloge, der har den mindre kloge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2818.0,
       "end": 2819.0,
       "text": " Men det var jo den måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2819.0,
       "end": 2820.0,
       "text": " hvorpå du kunne skabe noget arbitrage.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2820.0,
       "end": 2826.0,
       "text": " Altså unge, digital native, teknisk indfødte personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2826.0,
       "end": 2827.0,
       "text": " som kommer ud på arbejdsmarkedet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2827.0,
       "end": 2831.0,
       "text": " I dag er vokset op med AI.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2831.0,
       "end": 2833.0,
       "text": " Jeg tror, de kommer til at have de mest sindssyge muligheder",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2833.0,
       "end": 2834.0,
       "text": " de næste 5-10 år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2834.0,
       "end": 2835.0,
       "text": " for at gå og implementere det",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2835.0,
       "end": 2839.0,
       "text": " i alle de der gamle danske produktions- og servicevirksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2839.0,
       "end": 2842.0,
       "text": " som har ingen idé om, hvad det rent faktisk er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2842.0,
       "end": 2844.0,
       "text": " Altså vi skal også huske,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2844.0,
       "end": 2846.0,
       "text": " hvis du lytter med til det her podcast,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2846.0,
       "end": 2847.0,
       "text": " lige nu prøv lige at tage et øjeblik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2847.0,
       "end": 2848.0,
       "text": " hvis du lytter med til det her podcast,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2848.0,
       "end": 2850.0,
       "text": " så er du fucking top 1% allerede i alle i Danmark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2850.0,
       "end": 2853.0,
       "text": " i forhold til hvem der ved noget om det her lort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2853.0,
       "end": 2854.0,
       "text": " Der er ingen, der ved noget om det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2854.0,
       "end": 2855.0,
       "text": " Prøv at spørge til et midterselskab,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2855.0,
       "end": 2856.0,
       "text": " hvad er forskellen på reasoning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2857.0,
       "end": 2859.0,
       "text": " modeller og gamle system 1-tænkende modeller,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2859.0,
       "end": 2860.0,
       "text": " der bare skal gette det næste ord.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2860.0,
       "end": 2862.0,
       "text": " Der er jo ingen, der fucking ved, hvad du taler om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2862.0,
       "end": 2864.0,
       "text": " Så den gode nyhed, det er bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2864.0,
       "end": 2865.0,
       "text": " hvis du lytter med til det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2865.0,
       "end": 2867.0,
       "text": " og har en brygdel forståelse af det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2867.0,
       "end": 2870.0,
       "text": " og Christian, vi to har kun en brygdel forståelse af det her lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2870.0,
       "end": 2872.0,
       "text": " Vi fatter overhovedet ikke det fulde billede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2872.0,
       "end": 2873.0,
       "text": " men vi ved, der sker noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2873.0,
       "end": 2875.0,
       "text": " Og vi kan reagere på det og følge med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2875.0,
       "end": 2877.0,
       "text": " Bare hvis du er der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2877.0,
       "end": 2879.0,
       "text": " Kæft, du er meget værd i de rigtige settings.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2879.0,
       "end": 2881.0,
       "text": " Ja, det er rigtigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2881.0,
       "end": 2882.0,
       "text": " Og det er jo den gode nyhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2882.0,
       "end": 2884.0,
       "text": " Det er bare ikke som junior tekstforfatter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2884.0,
       "end": 2886.0,
       "text": " der selv skriver alle ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2886.0,
       "end": 2888.0,
       "text": " som jeg gjorde for fem år siden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2888.0,
       "end": 2890.0,
       "text": " Det er ikke sådan, du kommer ind på markedet i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2890.0,
       "end": 2892.0,
       "text": " Især ikke, hvis du møder sådan en agær i nordjyde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2892.0,
       "end": 2894.0,
       "text": " som udnytter dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2900.0,
       "end": 2903.0,
       "text": " Jeg kommer til at sende dig en request for en bordboldperiode en eller anden dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2904.0,
       "end": 2906.0,
       "text": " Ja, gør du det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2907.0,
       "end": 2911.0,
       "text": " Jeg må ikke afslutte episoden med lige at tage en anden sidste vinkel på det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2911.0,
       "end": 2914.0,
       "text": " fordi der er noget andet interessant i det, vi faktisk ikke har talt om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2914.0,
       "end": 2918.0,
       "text": " Og det er bare, hvis vi nu skal snakke en lille smule investering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2918.0,
       "end": 2922.0,
       "text": " og markedsstørrelser, opvækst og alle mulige andre ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2922.0,
       "end": 2925.0,
       "text": " Så lad mig lige vise dig den her graf,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2925.0,
       "end": 2930.0,
       "text": " som er en af de mest sindssyge illustrationer, jeg nogensinde har set.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2930.0,
       "end": 2932.0,
       "text": " Så igen, video på Spotify eller YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2932.0,
       "end": 2934.0,
       "text": " Prøv lige at se med her i et øjeblik.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2934.0,
       "end": 2936.0,
       "text": " Det her er en graf fra blogindlægget fra Sequoia Capital,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2936.0,
       "end": 2938.0,
       "text": " som er med i det her blogindlæg, vi også linker til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2938.0,
       "end": 2942.0,
       "text": " Det den handler om, det er, at i 2010 til venstre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2942.0,
       "end": 2947.0,
       "text": " der havde vi et softwaremarked på 350 billion dollars.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2947.0,
       "end": 2950.0,
       "text": " Ud af det var 6 billion dollars cloud software,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2950.0,
       "end": 2952.0,
       "text": " altså det var jo B2B SaaS, som vi kender det i dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2952.0,
       "end": 2955.0,
       "text": " hvor du ikke får en CD-ROM med, men bare tilgår det online via cloud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2955.0,
       "end": 2960.0,
       "text": " Det var 6 billioner, milliarder dollars i 2010.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2960.0,
       "end": 2965.0,
       "text": " I 2024 var cloud software afsted fra 6 milliarder til 400 milliarder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2966.0,
       "end": 2971.0,
       "text": " Hvor den traditionelle software var afsted fra 350 til 650.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2971.0,
       "end": 2979.0,
       "text": " Så cloud software, som jo er B2B SaaS, var jo 600 dobblet i perioden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2979.0,
       "end": 2982.0,
       "text": " Men hvis man så lige kigger til højre i grafen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2982.0,
       "end": 2985.0,
       "text": " og så husker man lige, altså cloud software market i dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2985.0,
       "end": 2988.0,
       "text": " det er 400 milliarder dollars, det er stort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2988.0,
       "end": 2991.0,
       "text": " Software og service market, hvis du tager service med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2991.0,
       "end": 2993.0,
       "text": " det er fucking 10 trilliarder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2993.0,
       "end": 2996.0,
       "text": " Det er 30 gange større i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2996.0,
       "end": 2999.0,
       "text": " Ikke om 10 år, i dag er det 30 gange større.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2999.0,
       "end": 3002.0,
       "text": " Så det vil sige, hvis du tager den samlede omsætning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 3002.0,
       "end": 3006.0,
       "text": " markedet for software og service er 10 trilliarder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3006.0,
       "end": 3009.0,
       "text": " B2B SaaS i sig selv er 400 milliarder, det er minuscule.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3009.0,
       "end": 3013.0,
       "text": " Det er sindssygt at tænke over, hvilke forretninger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3013.0,
       "end": 3015.0,
       "text": " der kommer til at blive skabt over de næste 5 til 10 år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3015.0,
       "end": 3019.0,
       "text": " som tager software, altså service, og er en omdanner til service,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3019.0,
       "end": 3024.0,
       "text": " altså software, og på den måde taber ind i et 30 gange større marked.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3024.0,
       "end": 3027.0,
       "text": " Shit, nogle virksomheder, man kommer til at kunne lave på det der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3027.0,
       "end": 3031.0,
       "text": " Og jeg er sikker på, Thilo, du kommer til at investere i ingen af dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3031.0,
       "end": 3034.0,
       "text": " I hvert fald ikke dem, der kommer til at gå godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3040.0,
       "end": 3043.0,
       "text": " Vi vil sige tusind tak, fordi du havde lyst til at være med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3043.0,
       "end": 3045.0,
       "text": " Nogle gange laver vi episoder, som er meget klik her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3045.0,
       "end": 3048.0,
       "text": " gør det her, andre gange er det filosofisk overvejelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3048.0,
       "end": 3051.0,
       "text": " Vi håber, at du fik noget af at være med på den filosofiske overvejelse",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3051.0,
       "end": 3053.0,
       "text": " fra den sidste halve times tid.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3053.0,
       "end": 3057.0,
       "text": " Måske en dag er vi omdannet marketing på til ikke at være content,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3057.0,
       "end": 3059.0,
       "text": " men service, altså nej, jeg ved ikke engang, hvor vi ender hen i fremtiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3059.0,
       "end": 3061.0,
       "text": " Det må vi se.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3061.0,
       "end": 3064.0,
       "text": " Tusind tak, fordi du ville være med uden omstændigheder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

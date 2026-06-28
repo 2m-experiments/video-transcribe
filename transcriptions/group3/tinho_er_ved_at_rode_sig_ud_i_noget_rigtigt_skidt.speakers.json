@@ -9,106 +9,109 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A"
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 8.0,
       "text": " Og i den forbindelse, så har jeg et punkt med dig, der hedder process og struktur, og det er bare noget, der ofte bliver underprioriteret.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 8.0,
       "end": 14.0,
       "text": " Og nu griner jeg lidt, når jeg kigger på dig, Halfter, fordi du er jo ekstremt, ekstremt dygtig til at sætte ting i gang.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 14.0,
       "end": 18.0,
       "text": " Noget, jeg har lagt mærke til, og det tør jeg godt sige, for jeg har sagt det til dig før.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 18.0,
       "end": 19.0,
       "text": " Hvad kommer du til at sige mig?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 19.0,
       "end": 20.0,
       "text": " Processen.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 20.0,
       "end": 21.0,
       "text": " Det lyder, som om der kommer et men her.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 21.0,
       "end": 24.0,
       "text": " Processen efterfølgende har du typisk nogen til at hjælpe dig med at lave.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 24.0,
       "end": 27.0,
       "text": " Det tror jeg rigtig, rigtig godt, og det er typisk også to forskellige personlige profiler, der sidder med det hele ting.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 27.0,
       "end": 29.0,
       "text": " Er det ikke det?",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 29.0,
       "end": 33.0,
       "text": " Jeg kan godt mærke, at jeg er på vej ud i noget, der er noget rigtigt skifærdigt.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 33.0,
       "end": 40.0,
       "text": " Men det her med at have en process og struktur for, hvordan vi leverer de her, f.eks. nye produkter eller eksisterende produkter, er jo også en måde at styre kapacitet på.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 40.0,
       "end": 45.0,
       "text": " Fordi det kan være svært at styre kapacitet, hvis ikke man ved, hvad en given handling tager af tid.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 45.0,
       "end": 50.0,
       "text": " Tid er jo typisk det, som vi som børo bliver nødt til at måle på, fordi det er vores input.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 50.0,
       "end": 56.0,
       "text": " Og at få styr på process og struktur, det er en af de måder, som vi forsøger at løse det på.",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 56.0,
       "end": 63.0,
       "text": " Så når der er en eller anden action, som vi har gjort 3-4 gange i løbet af den seneste måned, hvor vi så siger, at det fortsætter nok egentlig med at komme,",
-      "speaker": "A"
+      "speaker": "Christian"
     },
     {
       "start": 63.0,
       "end": 71.0,
       "text": " så lad os sætte os ned og få lavet en helt klar struktur og process for, hvordan det egentlig bliver gjort, så vi fremadrettet kan begynde at kapacitetsstyre ud fra det.",
-      "speaker": "A"
+      "speaker": "Christian"
     }
   ]
 }

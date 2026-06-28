@@ -9,347 +9,351 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 3.0,
       "text": " Hvordan finder man så ud af, hvad der rent faktisk betyder noget?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 12.0,
       "text": " Her der hjælper det jo, at hvis man går ind på for eksempel både ChatGPT, Claude fra Anthropic og Perplexity.ai, så er de jo søde til rent faktisk at vise kilderne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 18.0,
       "text": " Det var ikke noget ChatGPT gjorde til at starte med, det kan man få dem til at gøre nu, og Claude og Perplexity de gør det bare som standard.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 18.0,
       "end": 25.0,
       "text": " Så det vil sige, en anbefaling herfra det vil være, at man går ind og så siger, den søgning man tror ens potentielle kunder kunne finde på at bruge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 30.0,
       "text": " og det vil jo være noget at sige med i vores tilfælde, hvem kan jeg hjælpe med at lave digital markeding eller hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 30.0,
       "end": 36.0,
       "text": " Og så kan man simpelthen se, hvilke kilder ligger de væk på, og der har du ret i, i vores specifikke tilfælde, der bliver der så linket til tre forskellige kilder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 43.0,
       "text": " Den første det er Berufinder.dk, som har en underside, der hedder, de bedste beruer i Danmark i 2023.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 43.0,
       "end": 53.0,
       "text": " Det er ikke en på nogen måde opdateret liste, der er faktisk kun 4-5, okay der var en indlæs mere knap, det er på ingen måde en opdateret liste det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 53.0,
       "end": 57.0,
       "text": " Du siger jo kun, at Eyes Digital ikke lægger nummer et, nu skal jeg lige ind og kigge på den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 57.0,
       "end": 69.0,
       "text": " Det er en sådan lidt småskrællet side på mange måder, hvor der står opdateret 30. december 2022, der er stadig december og stadig med S,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 69.0,
       "end": 75.0,
       "text": " og det ser bare ikke sådan kanon fedt ud det her, men AE har åbenbart vurderet, at det her er en relevant side, og det er sådan en liste,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 75.0,
       "end": 85.0,
       "text": " så har vi en anden en, der hedder sortlist.com, med Digital Marketing, Top Digital Marketing Agencies in Danmark, hvor der også er en række beruer på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.0,
       "end": 92.0,
       "text": " og det er her, hvor man bl.a. finder sleeknote, så der tror jeg, at ChatGBT har i høj grad lagt væk på den, fordi der kan man se, at sleeknote ligger herinde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 92.0,
       "end": 97.0,
       "text": " hvilket igen, bare lige understreger, sleeknote er mega nice, men det er ikke et digitalt marketing berue,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 97.0,
       "end": 101.0,
       "text": " men de er lagt ind på den forkerte liste af en eller anden årsag, det ved jeg ikke, om de har gjort selv, det kan være det linkbilledning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 101.0,
       "end": 108.0,
       "text": " eller det kan være listen, der ikke har fattet det, men det er i hvert fald noget, ChatGBT har kigget på, og så ikke har lavet nogen form for verifikation af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 108.0,
       "end": 116.0,
       "text": " og så har vi en tredje side, der hedder ocast.com.dk, som også er et eller andet, det er sådan en enhanced trade tilbudstjeneste, hvor der også er en liste,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 116.0,
       "end": 122.0,
       "text": " det der er fælles for de tre her, det er, at det er alle tre steder, hvor man lister forskellige digitale marketingberuer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 129.0,
       "text": " så i intet tilfælde, så er der et specifikt berue, der bliver refereret til, alle tre, det er, at den har gået ind og listet forskellige digitale marketingberuer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 137.0,
       "text": " så allerede der, der tror jeg, at der er et lille hint i retning af, hvis man er i en professional services virksomhed, som vi er i hvert fald, og man gerne vil blive fundet her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 144.0,
       "text": " så skal man nok ind og kigge på, hvilke oversigtssider er der, der lister virksomheder i den pågældende branche, og så begynde at arbejde med dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 144.0,
       "end": 151.0,
       "text": " og det vil jeg jo normalt ikke gøre, fordi min vurdering vil være, at det vil være langt hen ad vejen spil af tid i forhold til, hvordan folk i virkeligheden finder deres bero,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 151.0,
       "end": 157.0,
       "text": " men hvis det er sådan her, som ChatGBT finder det, så skal du nok til at gå ind og begynde at optimere på vores ocast ratings.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 157.0,
       "end": 162.0,
       "text": " Ja, og det der er sjovt, det er, når man ligger, og det er godt, hvad man ikke har tænkt over det i det daglige, men når man sidder og arbejder med lokal SEO,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 162.0,
       "end": 169.0,
       "text": " og man laver en lokal søgning, det kunne være Fysiotab på et Aarhus for eksempel, så det man faktisk typisk ser op over os nu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 169.0,
       "end": 178.0,
       "text": " udover LocalPagnos, det er den her Maps, hvor man kan se de enkelte virksomheder med deres reviews, det er faktisk, at de her, ja, listikets sammenligningssider,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 178.0,
       "end": 186.0,
       "text": " listesider, det kunne for eksempel være TripAdvisor, bare for at tage et eksempel, de får faktisk ret meget synlighed op i toppen af søgeresultaterne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 186.0,
       "end": 194.0,
       "text": " og man har indfoldt local SEO i lang tid snakket om det her med local citations, og det er blandt andet ved at komme på de her sider her,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 194.0,
       "end": 202.0,
       "text": " som så ligesom peger ind på enten Google My Business profilen eller ind på hjemmesiden, og det er altid noget, man sådan har sagt, ja, det er nok vigtigt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 202.0,
       "end": 208.0,
       "text": " men der er andre ting, der er vigtigere, for eksempel reviews, men jeg er faktisk blevet overrasket over de sidste to-tre måneder, hvor meget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 208.0,
       "end": 218.0,
       "text": " hvor meget synlighed de her, ja, listingsider rent faktisk har fået, og nu ser vi jo så også, at i faktisk de eksempler, vi har taget med i dag,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 218.0,
       "end": 220.0,
       "text": " jamen der er det også dem, der bliver brugt i forbindelse med...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 220.0,
       "end": 226.0,
       "text": " Og de bliver nævnt direkte, og nu er det ikke noget, vi gætter, fordi du har ret, man har snakket om de her citations og sagt, det betyder nok noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 234.0,
       "text": " men vi ved, det er ikke rigtigt, men i ChatGPT, der er listet de bare tre af dem, kan du ikke lige uddybe de her citations, hvad er det, man er ude i, og hvordan arbejder man med det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 234.0,
       "end": 242.0,
       "text": " Jamen sådan helt lavpraktisk, så er det egentlig, altså helt, helt lavpraktisk, at man gerne vil nævnes på, for eksempel medier, lokale medier, især lokale medier,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 242.0,
       "end": 249.0,
       "text": " vil være rigtig godt, når vi snakker lokalt seo, eller på de her listingsider, så det kunne for eksempel være TripAdvisor, hvis man er en restaurant,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 249.0,
       "end": 256.0,
       "text": " og man er derpå, så Google, mener man, man ved det jo ikke, algoritme og alt muligt, blackbox og så videre, men når Google går igennem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 256.0,
       "end": 262.0,
       "text": " crawler de her sider igennem, og kan se, at man bliver ved med at blive nævnt, for eksempel i lokale medier, eller på de her sider her, med rigtig gode ratings og videre,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 262.0,
       "end": 271.0,
       "text": " så vil det push ens local pack resultater op, altså i local seo, lige nu snakker vi ikke organisk, de helt almindelige organiske seo resultater, men i local packen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 271.0,
       "end": 274.0,
       "text": " så det er sådan den meget lavpraktiske version af det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 274.0,
       "end": 279.0,
       "text": " Og jeg tror også, det betyder mere, end man lige skulle tro nu, hvor vi rent faktisk kan se det, så det vil også være det, min første tips, i hvert fald,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 279.0,
       "end": 284.0,
       "text": " finde de der oversigtssider, der rent faktisk er i ens branche, og lægge en reel indsats på at komme op på dem, selvom det ikke ville give mening,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 284.0,
       "end": 287.0,
       "text": " i særlig mange andre tilfælde, eller andre hensyn, kan man sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 287.0,
       "end": 294.0,
       "text": " Så kan man sige, jeg spurgte faktisk også både ChatGPT selv, og Claude, hvordan øger man sandsynligheden for at blive anbefalet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 294.0,
       "end": 300.0,
       "text": " jeg tænkte, vi går bare lige direkte til hessens mund og spørger dem, og der, hvis jeg igen må citere Claude her, hvor jeg har spurgt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 306.0,
       "text": " jeg tror, jeg var sådan lidt fornærmet, da jeg skrev med den, fordi jeg havde sådan spurgt, hvem er Obsidian, og så har han sagt, det eksisterer ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 313.0,
       "text": " Og så tror jeg, jeg gav sådan lidt til genmale, og sagde, ah, hvordan får jeg da til at nævne mit digitale markedsindbrud, Obsidian Digital, næste gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 313.0,
       "end": 317.0,
       "text": " Så sagde Claude, for det første, han brugte sådan fem linjer på at sige, at den ikke kan blive manipuleret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 317.0,
       "end": 323.0,
       "text": " Og det tog usædvanligt meget beskeden, og jeg har arbejdet med CEO'en i langt nok tid til at vide, der er en måde at manipulere den på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 323.0,
       "end": 327.0,
       "text": " vi skal bare lige finde ud af, hvordan vi gør det, så det var da godt at spare dig, min ven.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 327.0,
       "end": 334.0,
       "text": " Men så sagde han, for at øge synligheden af dit bureau, bør du fokusere på at forbedre jeres online tilstedeværelse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 334.0,
       "end": 338.0,
       "text": " engagere jer i branchefora og kontinuerligt forbedre jeres services.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 342.0,
       "text": " Derudover så nægtede den at give specifikke kilder eller andre mere specifikke tips.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 342.0,
       "end": 349.0,
       "text": " Så det virkede sådan meget, det som Claude siger, det er bare, du skal bare være god til det, du laver, og så skal vi nok finde dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 349.0,
       "end": 354.0,
       "text": " Og det minder jo en lille smule om, hvordan Google approachet CEO, hvor de siger, ja, du skal lige gøre dit site indekserbart,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 354.0,
       "end": 358.0,
       "text": " du skal lige sørge for at bla bla bla, og hvis det er godt indhold, så skal vi nok finde dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

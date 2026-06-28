@@ -9,1985 +9,1989 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 9.0,
       "text": " Christian, i dag skal vi snakke om cookieless tracking, både med tekniske og adfærdsmæssige alternativer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.0,
       "end": 13.0,
       "text": " Og fuck, hvor bliver det en fed episode. Jeg har igen fået noget tracking ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 13.0,
       "end": 16.0,
       "text": " Det er fuldstændig vanvittigt, du får lov.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 19.0,
       "text": " Men det kommer ikke kun til at handle om serverside tracking.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.0,
       "end": 21.0,
       "text": " Der er faktisk mange andre måder, hvorpå man kan gøre det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 21.0,
       "end": 24.0,
       "text": " Vil du ikke bare starte med at lige hurtigt definere cookieless tracking?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 24.0,
       "end": 26.0,
       "text": " Nej, det kan du sgu selv få lov til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 26.0,
       "end": 30.0,
       "text": " Jeg melder mig ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 30.0,
       "end": 37.0,
       "text": " Jeg tror simpelthen, at hvis du skal køre en serie hver tirsdag eller onsdag, hvor det er bare med dig, så kan du få lov til at snakke om det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 37.0,
       "end": 43.0,
       "text": " Så kan det være, at jeg ikke kan få lov til at se min skøn kæreste hjemme bare en enkelt gang om ugen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 43.0,
       "end": 48.0,
       "text": " i stedet for at sidde her lørdag kl. 13.28 og optage cookieless tracking.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 48.0,
       "end": 51.0,
       "text": " Og tak, fordi du er her, Tinju.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 52.0,
       "end": 56.0,
       "text": " Lad mig starte med at definere det, fordi det er faktisk ret vigtigt inden for digital marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 56.0,
       "end": 64.0,
       "text": " Cookieless tracking er et begreb, der dækker over, at cookies som metode til at tracke både adfærd og konverteringer osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 64.0,
       "end": 67.0,
       "text": " har det ret svært i 2025 og fremad.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.0,
       "end": 72.0,
       "text": " Cookies er jo de her små tekstfiler, der ligger på din computer, som kan bruges til f.eks. at sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 72.0,
       "end": 77.0,
       "text": " Tinju's MacBook Air har besøgt eb.dk på det her tidspunkt og set de her sider.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 77.0,
       "end": 80.0,
       "text": " Altså bare små tekstfiler, der kan logge forskellige informationer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 83.0,
       "text": " Og cookies er helt essentielle for, at internettet fungerer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 83.0,
       "end": 88.0,
       "text": " Det er cookies, der holder os logget ind på Facebook, gemmer, hvad du har gemt i indkøbskuren på en Shopify-shop og en masse andre ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 88.0,
       "end": 89.0,
       "text": " Cookies er helt essentielle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.0,
       "end": 94.0,
       "text": " Det, der er med cookies, det er, at afhængig af, hvordan man bruger dem, så er der ikke nødvendigvis særlig meget kontrol med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.0,
       "end": 96.0,
       "text": " hvem der får den information.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 96.0,
       "end": 98.0,
       "text": " Og det er jo det, der hedder tredjeparts-cookies.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 98.0,
       "end": 104.0,
       "text": " Så hvis jeg nu går ind på et dansk, almindeligt, du ved, nyhedswebsite,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 104.0,
       "end": 108.0,
       "text": " så vil man jo få sådan en cookie-prompt til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 108.0,
       "end": 116.0,
       "text": " Og der vil typisk stå noget med, har du lyst til at acceptere cookies fra os og vores 828 partnere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 116.0,
       "end": 117.0,
       "text": " Ja, et eller andet sådan stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 117.0,
       "end": 123.0,
       "text": " Jeg har faktisk, nu har jeg lige taget et lille eksempel her, fordi jeg lige er gået ind på bt.dk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 123.0,
       "end": 126.0,
       "text": " Og der kan man se, at der står sådan, ansvarlige bruger dine data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 132.0,
       "text": " Vi og vores 912 partnere ønsker dit samtykke til at anvende cookies og indsamle persondata i en eBay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 132.0,
       "end": 135.0,
       "text": " Så kan man faktisk klikke på linket, og så kan man ellers bare gå i gang fra den ene ende til den anden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 135.0,
       "end": 137.0,
       "text": " Og det her, det er tredjeparts-cookies.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 139.0,
       "text": " Det sjove ved det, det er, at der er en 912-platform her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 139.0,
       "end": 143.0,
       "text": " Din 912-platform, de kan være viderestillet til alle verdens virksomheder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.0,
       "end": 148.0,
       "text": " Altså, tredjeparts-cookies er bare defineret med, at du aner ikke, hvem der får adgang til den her information.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 150.0,
       "text": " Den her information er jo ikke særlig kontroversiel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 153.0,
       "text": " Det er jo bare sådan nogle ting som min IP-adresse og hvilke sider jeg besøger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 153.0,
       "end": 156.0,
       "text": " Så hvis jeg læser en bilanmændelse, så får jeg annoncer fra biler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
       "end": 157.0,
       "text": " Det er fint nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 157.0,
       "end": 161.0,
       "text": " Men tredjeparts-cookies er bare sådan inherently ikke særlig fedt af den årsag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 161.0,
       "end": 166.0,
       "text": " Så derfor er der både en juridisk og en teknisk bevægelse væk fra tredjeparts-cookies.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 169.0,
       "text": " Den tekniske, det vil være sådan noget som Intelligent Tracking Prevention fra Apple.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 169.0,
       "end": 172.0,
       "text": " Og den juridiske, det vil være sådan nogle ting som GDPR, Digital Services Act.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.0,
       "end": 175.0,
       "text": " Det var bare det, du skulle have sagt, der er bedre med at definere det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 175.0,
       "end": 176.0,
       "text": " Nå ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 176.0,
       "end": 180.0,
       "text": " Jamen, det er fordi, jeg er best, når vi ligesom får CheckGBT til at fortælle os det, som var vi fem år.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 180.0,
       "end": 182.0,
       "text": " Nej, det er halvten af GBT, det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 182.0,
       "end": 184.0,
       "text": " Det kan du godt glemme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 184.0,
       "end": 186.0,
       "text": " Det er halvten af GBT, det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.0,
       "end": 192.0,
       "text": " Jeg ved så gengæld, at den dag, du kommer med en smater med et eller andet inden for cookie-baseret tracking,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 194.0,
       "text": " så ved jeg godt, hvor den kommer fra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 194.0,
       "end": 196.0,
       "text": " Ja, det bliver svært at skive ud af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 196.0,
       "end": 198.0,
       "text": " Den er hentet lige ud af klort, den der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 198.0,
       "end": 202.0,
       "text": " Så man kan se, problemet med cookie-baseret tracking, det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 202.0,
       "end": 205.0,
       "text": " at både juridisk og teknisk årsager, så virker det bare ikke særlig godt længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 205.0,
       "end": 209.0,
       "text": " Det er derfor, at man bl.a. måler for lidt omsætning, når man kigger med Google Analytics 4 i ens webshop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.0,
       "end": 212.0,
       "text": " og hvorfor man tror, man har færre besøgende, end man i virkeligheden har.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 212.0,
       "end": 213.0,
       "text": " Det er problemet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 215.0,
       "text": " Cookie-less tracking er løsningen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 215.0,
       "end": 218.0,
       "text": " Hvordan kan du lave tracking uden cookies?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 218.0,
       "end": 220.0,
       "text": " Det er der forskellige måder, man kan gøre på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 223.0,
       "text": " Både nogle tekniske og nogle adfærdsmæssige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 223.0,
       "end": 225.0,
       "text": " Vil du lægge landet med den første?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 225.0,
       "end": 226.0,
       "text": " Jamen, det kan vi godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 229.0,
       "text": " Jeg starter altså et andet sted, end du regner med, at jeg starter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 229.0,
       "end": 231.0,
       "text": " Jeg starter med en adfærdsbaseret løsning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 231.0,
       "end": 236.0,
       "text": " Er det en måde at forsøge at snitte dig uden om teknikken i server-side tracking på det her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 236.0,
       "end": 238.0,
       "text": " Ja, men altså...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 238.0,
       "end": 241.0,
       "text": " Hytterne får alligevel ikke ret meget ud af, at jeg forklarer server-side tracking,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 241.0,
       "end": 243.0,
       "text": " fordi jeg kommer til at klokke mig lidt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 243.0,
       "end": 245.0,
       "text": " Nej, men jeg gør til det jo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 245.0,
       "end": 247.0,
       "text": " Jeg får stor glæde ud af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 247.0,
       "end": 250.0,
       "text": " Ej, du må godt starte med de adfærdsmæssige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 259.0,
       "text": " Noget af det, som vi arbejder en del med, det er, man kan kalde det sessions-replay og heatmaps.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 259.0,
       "end": 263.0,
       "text": " Sådan et værktøj, og kæmpe anbefaling til det her værktøj, som er gratis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 263.0,
       "end": 265.0,
       "text": " Microsoft Clarity.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 265.0,
       "end": 269.0,
       "text": " De giver en vanvittig god indsigt i, hvordan det egentlig er, at brugerne interagerer med dit website.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 269.0,
       "end": 271.0,
       "text": " Kan de overhovedet finde ud af at bruge det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 271.0,
       "end": 273.0,
       "text": " Bruger de det, som du egentlig selv havde tænkt, at de ville bruge det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 273.0,
       "end": 276.0,
       "text": " Hvor er det, de klikker hen, og hvor langt scroller de ned?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 276.0,
       "end": 279.0,
       "text": " Hvor er det, de klikker på noget, som ikke virker?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 279.0,
       "end": 281.0,
       "text": " Altså det, man kalder... Jeg tror, de kalder det death...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 281.0,
       "end": 283.0,
       "text": " Nej, jo, dødklik.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 285.0,
       "end": 287.0,
       "text": " Og hvor er det egentlig...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 287.0,
       "end": 290.0,
       "text": " Altså, hvilken del af siden får mest opmærksomhed på?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 290.0,
       "end": 294.0,
       "text": " En af de ting, som vi ofte bliver overrasket over, det er jo på den produktside.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 294.0,
       "end": 298.0,
       "text": " Hvor få der faktisk scroller længere ned, end billederne af produkterne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 298.0,
       "end": 304.0,
       "text": " Og det er jo derfor, at man vil se, at rigtig mange webshops begynder at lægge infografikkerne videre op i karusellen af produktbilleder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 304.0,
       "end": 306.0,
       "text": " Fordi folk simpelthen ikke scroller ned.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 306.0,
       "end": 310.0,
       "text": " Man kan have lavet den fedeste produktside hele vejen ned ad med alle mulige videoer, jeg skal give dig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 310.0,
       "end": 313.0,
       "text": " Men det er bare rigtig få, der faktisk kommer derned.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 313.0,
       "end": 316.0,
       "text": " Så den, synes jeg, er vanvittigt fed.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 316.0,
       "end": 319.0,
       "text": " Ja, kæmpe anbefaling til gratis Microsoft Clarity.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 319.0,
       "end": 321.0,
       "text": " Og jeg vil lige sige, hvis der er nogen, der nu sidder og tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 324.0,
       "text": " Hov, jeg troede, det var en episode om Tracking, og det havde jeg virkelig glædet mig til at høre halvdelen tale om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 324.0,
       "end": 328.0,
       "text": " Når vi nævner Session Replace og Heatmap, så er det jo fordi, at Tracking kan tage for området og spore kommenteringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 328.0,
       "end": 330.0,
       "text": " Det kommer vi tilbage til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 335.0,
       "text": " Men opsætning af Tracking og forståelse af websitet kan jo også have noget at gøre med, at man bare kan se, hvordan folk bruger det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 335.0,
       "end": 340.0,
       "text": " Og hvis Google Analytics ikke er affyret, så kan du heller ikke se, hvilke sider de er på, og hvor de klikker, og hvordan brugerrejsen ser ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 340.0,
       "end": 345.0,
       "text": " Så Session Replace og Heatmap er en legit måde for på, at du kan se, hvordan folk interagerer med dit website.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 345.0,
       "end": 351.0,
       "text": " Og det er et reelt alternativ til for eksempel Analytics-værktøjer som Google Analytics for at forstå, hvordan folk bruger det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 351.0,
       "end": 356.0,
       "text": " Så når vi snakker om cookie-less tracking, hvordan kan du forstå, hvordan folk bruger dit website, uden at sætte cookies?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 356.0,
       "end": 358.0,
       "text": " Så er det her en af dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 358.0,
       "end": 360.0,
       "text": " Det er der bare mange, der glemmer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 360.0,
       "end": 365.0,
       "text": " En anden ting, der er rigtig mange, der glemmer, som vi for nylig lavede en hel episode om, det er jo Zero-Party data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 365.0,
       "end": 367.0,
       "text": " Man snakker jo om First-Party og Third-Party.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 367.0,
       "end": 371.0,
       "text": " Third-Party det er, at BT deler med 912, og de deler med et ubekendt antal virksomheder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 371.0,
       "end": 373.0,
       "text": " Vi aner ikke, hvem der havde i gang til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 380.0,
       "text": " First-Party det er, at du indsamler data om dine egne brugere via fx et værktøj som Metaspixel eller Google Analytics 4.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 380.0,
       "end": 384.0,
       "text": " Det er sådan lige på kanten at kalde det First-Party data, men vi gør det for all intents and purposes her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 386.0,
       "text": " Så er der Zero-Party data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 386.0,
       "end": 388.0,
       "text": " Det er data, du selv får direkte fra brugerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.0,
       "end": 395.0,
       "text": " Klassisk måde at få det her på, det er, at du lægger en post-purchase-survey ind på kvarteringssiden på en webshop og spørger, hvorfor har du købt her i dag?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 399.0,
       "text": " Og så kan det godt være, at folk har klikket på en Google Ads-annonce, men herinde kan de så svare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 399.0,
       "end": 401.0,
       "text": " hey, det er fordi jeg så en YouTube-video.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 406.0,
       "text": " Og så kan du forstå, hvad det er, der i realiteten skabte konvertering, og ikke bare, hvad der var det sidste klik i kunderejsen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 408.0,
       "text": " fordi det første er meget mere interessant at vide.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 408.0,
       "end": 415.0,
       "text": " Zero-Party data er et alternativ til at indsamle data og tracking via for eksempel Google Analytics og Facebook Pixel osv.,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 418.0,
       "text": " og i virkeligheden meget mere kvalificeret, fordi en ting er, hvad du måler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 422.0,
       "text": " en anden ting er, hvad folk de selv synes, der gjorde udslaget i deres kunderejse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 427.0,
       "text": " Det er selvfølgelig meget vigtigere, end hvilke trafikkanaler Google Analytics helt tilskriver eller ikke tilskriver.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 431.0,
       "text": " Så kæmpe anbefaling til Zero-Party data og indsamle det på forskellige måder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 435.0,
       "text": " Men det har vi også lige haft en episode om for nylig, så der kan man gå to episoder tilbage og høre os tale om det i 45 minutter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 440.0,
       "text": " Skal du have lov til at snakke om server-side tracking?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " Der kom en!",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 444.0,
       "end": 446.0,
       "text": " Nu har vi snakket om lidt adfærdsbaserede løsninger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 446.0,
       "end": 449.0,
       "text": " Du har jo også mulighed for at forbedre dit tekniske setup.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 449.0,
       "end": 452.0,
       "text": " Vi er nødt til at snakke om server-side tracking i to minutter her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 452.0,
       "end": 456.0,
       "text": " Server-side tracking det handler om, at man indsamler informationen og sender det server-side,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 462.0,
       "text": " altså fra server til server, i stedet for client-side, som vil være fra client, din browser, til server.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 462.0,
       "end": 467.0,
       "text": " Den server, vi sender til, det kunne være for eksempel Google Analytics, Metaspixel, Google Ads eller et andet værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 470.0,
       "text": " Så man kan sige, at slutdestinationen er den samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 470.0,
       "end": 473.0,
       "text": " Men med server-side tracking, så sender du det server til server.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 478.0,
       "text": " Fordelen ved at gøre det, det er, at rigtig mange af de restriktioner, vi er udsat for som digitale marketers nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 478.0,
       "end": 480.0,
       "text": " de ligger i browseren.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Adblockeren ligger i browseren.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 482.0,
       "end": 484.0,
       "text": " Intelligent tracking prevention ligger i browseren.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 488.0,
       "text": " Alt mulig pis fra Apple med private browsing osv., det ligger i browseren.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 488.0,
       "end": 493.0,
       "text": " Så hvis du kan undgå at sende data via browseren, hvor du er udsat for alle mulige tekniske restriktioner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 499.0,
       "text": " og sende det direkte fra din egen server til Facebooks server, så har du løst rigtig mange problemer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 499.0,
       "end": 501.0,
       "text": " Det er det server-side tracking handler om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 501.0,
       "end": 505.0,
       "text": " Conversions API, som der også er nogen, der kender, er bare en anden måde at sige server-side tracking om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 509.0,
       "text": " Hvis du bruger penge på digital marketing, og du ikke har sat server-side tracking op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 509.0,
       "end": 513.0,
       "text": " nu skal jeg ikke være alt for kontroversiel, men det er ikke særlig klogt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 519.0,
       "end": 524.0,
       "text": " Det er sket et par gange i marketingpods-historie, at jeg har sagt noget så gralt, at jeg har været nødt til at klippe det ud bagefter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 524.0,
       "end": 526.0,
       "text": " Jeg kunne mærke, at den var på vej igen, den der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 528.0,
       "text": " Jeg kunne godt se det på dig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 528.0,
       "end": 534.0,
       "text": " Lad os nøjes med at konstatere, at de penge kunne du bruge bedre i hvert fald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 536.0,
       "end": 538.0,
       "text": " Så det skal man gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 538.0,
       "end": 543.0,
       "text": " Foruden server-side tracking, så har du et punkt mere med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 543.0,
       "end": 547.0,
       "text": " Jeg ved ikke, om du vil til det nu, fordi jeg synes, den er ret interessant.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " Det er noget, jeg har hørt særlig meget om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " Browser fingerprinting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 551.0,
       "end": 554.0,
       "text": " Ja, vi er også ude i den grå ende her, og det er faktisk ikke noget, som man...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 554.0,
       "end": 556.0,
       "text": " Nå, det er derfor, jeg har ikke hørt om det før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 558.0,
       "text": " Nå, okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 560.0,
       "end": 562.0,
       "text": " Hvid som sne derovre, hva'?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 562.0,
       "end": 564.0,
       "text": " Det der, det må jo være sådan noget som affiliates, de bruger.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 564.0,
       "end": 566.0,
       "text": " Nå, okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 571.0,
       "text": " Nå, okay, og du har også vækket lavere med blomster og ringe til din mor i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 572.0,
       "text": " Hvordan går det, hva'?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 573.0,
       "text": " Hvordan vidste du det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 573.0,
       "end": 575.0,
       "text": " Jeg skulle da ikke fortælle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 577.0,
       "end": 579.0,
       "text": " Okay, ja, ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 579.0,
       "end": 582.0,
       "text": " Browser fingerprinting er også en måde, hvorfor man forsøger at lave",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 582.0,
       "end": 585.0,
       "text": " kommenteringsbrug og matching uden cookies.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 585.0,
       "end": 587.0,
       "text": " Når vi ikke skal snakke helt vildt meget om det, så er det fordi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 589.0,
       "text": " det vil typisk være de platform, man arbejder på, der gør det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 591.0,
       "text": " Det er ikke den enkelte virksomhed, der gør det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 591.0,
       "end": 593.0,
       "text": " fordi det kræver, at du har virkelig meget data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 597.0,
       "text": " Men gør Google det her, gør Meta det her, gør mange af de andre store",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 599.0,
       "text": " annonceplatformer, hvis du spørger dem, de rigtigt siger det nok,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 599.0,
       "end": 602.0,
       "text": " nej, og så er det en blackbox-algoritme at lade se, hvad der rent faktisk ligger",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 602.0,
       "end": 603.0,
       "text": " i den ene eller anden dag, når det bliver lækket.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 604.0,
       "text": " Det gør de nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 607.0,
       "text": " Browser fingerprinting er sådan semi-kontroversielt og semi-gråt",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 611.0,
       "text": " og semi-ulovligt, men det handler om, at du indsamler små forskellige stykker",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 614.0,
       "text": " af informationer over det hele og forsøger at sammensætte det til en person.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 617.0,
       "text": " Så igen, forestil dig, at du går ind på din Macbook Air,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 617.0,
       "end": 619.0,
       "text": " på bt.dk og akcenterer cookies.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 619.0,
       "end": 622.0,
       "text": " Eller ikke akcenterer cookies, browser fingerprinting er lidt ligeglad.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 625.0,
       "text": " Det handler om at indsamle informationer her, som kunne identificere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 626.0,
       "text": " din enhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 628.0,
       "text": " Så det kunne være fx, hvilken browserversion sidder du i?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 628.0,
       "end": 631.0,
       "text": " Fordi det kan de jo læse, når du besøger deres site med det penge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 632.0,
       "text": " du sender dertil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 632.0,
       "end": 634.0,
       "text": " Hvad er din opløsning på skærmen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 634.0,
       "end": 635.0,
       "text": " Hvad er din IP-adresse?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 636.0,
       "text": " Hvad er din Mac-adresse?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 636.0,
       "end": 637.0,
       "text": " Hvad er det for nogle funds, du har installeret?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 637.0,
       "end": 639.0,
       "text": " Hvad er det for nogle browser extensions, du har installeret?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 640.0,
       "text": " Hvad er dit sprog på browseren?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 640.0,
       "end": 643.0,
       "text": " Alle de her små tekniske detaljer kan du samle.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 645.0,
       "text": " Og på et eller andet tidspunkt, hvis du samler nok af dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 648.0,
       "text": " så bliver det sådan statistisk usandsynligt, at hvis der kommer en anden person",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 648.0,
       "end": 651.0,
       "text": " på et tidspunkt med fuldstændig identiske informationer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " så er det nok den samme person.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " Og det er det fingerprinting handler om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 655.0,
       "end": 659.0,
       "text": " Når du besøger websites, så efterlader du et digitalt fingerprint.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 659.0,
       "end": 661.0,
       "text": " Hvad er det, det hedder på dansk?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 662.0,
       "end": 663.0,
       "text": " Fingerprint?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 663.0,
       "end": 665.0,
       "text": " Nej, det hedder ikke fingerprint.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 665.0,
       "end": 666.0,
       "text": " Nej, øh...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 668.0,
       "text": " Aftryk? Hedder det ikke det? Fingeraftryk?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 668.0,
       "end": 669.0,
       "text": " Ja, fingeraftryk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 669.0,
       "end": 670.0,
       "text": " Fingeraftryk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 670.0,
       "end": 671.0,
       "text": " Fingeraftryk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 671.0,
       "end": 673.0,
       "text": " Hvad spørger du om det? Det hedder sgu da bare fingerprint.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 673.0,
       "end": 674.0,
       "text": " Kom nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 674.0,
       "end": 675.0,
       "text": " Fingerprint.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 675.0,
       "end": 680.0,
       "text": " Så efterlader du et digitalt fingerprint på den side, du besøger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 680.0,
       "end": 682.0,
       "text": " Og hvis der er nok informationer, og du besøger nok sider,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 682.0,
       "end": 684.0,
       "text": " så begynder man at kunne sammensætte det her til en person",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 686.0,
       "text": " og sige, at den der besøgte i dag, og den der besøgte om en uge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 686.0,
       "end": 688.0,
       "text": " de er nok samme person, og så kan du kommentere en sprog på den måde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 691.0,
       "text": " Det er sådan lige lidt krigsmådet, rent teknisk og juridisk at gøre det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 691.0,
       "end": 693.0,
       "text": " men der er nok nogen, der gør det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 693.0,
       "end": 695.0,
       "text": " Det er ikke noget, den enkelte virksomhed skal stå stille ind til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 695.0,
       "end": 697.0,
       "text": " men når vi laver en episode om cookies tracking, vil det være sundt at nævne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 697.0,
       "end": 699.0,
       "text": " at det nok sker via nogle af værktøjene.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 699.0,
       "end": 701.0,
       "text": " Det man kan gøre, det handler mest om server-site.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 701.0,
       "end": 705.0,
       "text": " Fordi hvis du laver server-site connections, så sætter du ikke længere cookies.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 705.0,
       "end": 707.0,
       "text": " Du er ikke afhængig af cookies for at spore.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 707.0,
       "end": 711.0,
       "text": " Så sætter du HTTPS-cookies, der sætter server-site og sender server-site.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 711.0,
       "end": 714.0,
       "text": " Og så kan du komme med tusind adblockere, så det er fuldstændig ligegyldigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 714.0,
       "end": 719.0,
       "text": " Så det er den primære metode, hvorpå man kan overgå de faktor til cookie-less tracking",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 719.0,
       "end": 722.0,
       "text": " og bibevare rigtig meget af ens sporebarhed i forhold til kommenteringer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 722.0,
       "end": 724.0,
       "text": " og hvordan folk bruger websitet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 724.0,
       "end": 726.0,
       "text": " Hvis man i hvert fald kigger på tekniske løsninger, så er det server-site tracking.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 726.0,
       "end": 728.0,
       "text": " Men vi er nødt til at nævne en ting mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 728.0,
       "end": 730.0,
       "text": " For der er også et juridisk aspekt til det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 730.0,
       "end": 733.0,
       "text": " Hvis vi kommer tilbage til cookies, så inden for EU,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 733.0,
       "end": 735.0,
       "text": " hvilket jo er en tragedie i sig selv,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 735.0,
       "end": 737.0,
       "text": " men jeg skal nok være med at snakke om at præge det veste af den her episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 737.0,
       "end": 740.0,
       "text": " så har vi nogle regler om, at man skal bede om cookies",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 740.0,
       "end": 743.0,
       "text": " og hvor meget kollektivtid spiller vi ikke i EU på det hver eneste dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 743.0,
       "end": 745.0,
       "text": " Men det er igen ikke emnet fra episoden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 745.0,
       "end": 749.0,
       "text": " Men når du bruger 3D-parts-værktøjer, og Google Analytics er et 3D-parts-værktøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 749.0,
       "end": 752.0,
       "text": " Metaspixel er et 3D-parts-værktøj, Google Ads er et 3D-parts-værktøj,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 752.0,
       "end": 755.0,
       "text": " de indsamler first-party data, men det er sådan en teknisk differentiering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 755.0,
       "end": 757.0,
       "text": " de har lavet for at få lov til at gøre det alligevel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 757.0,
       "end": 759.0,
       "text": " Det er de facto en anden virksomhed, der indsamler data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 759.0,
       "end": 761.0,
       "text": " Så skal du have tilladelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 761.0,
       "end": 764.0,
       "text": " Hvis du indsamler reelt første-party-information,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 764.0,
       "end": 767.0,
       "text": " som kun du selv har adgang til, som ikke bruges til marketing,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 767.0,
       "end": 770.0,
       "text": " så skal du ikke indsamle en permission for at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 770.0,
       "end": 772.0,
       "text": " Det er der ret mange, der ikke ved det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 772.0,
       "end": 775.0,
       "text": " Hvis du bruger et statistikværktøj på dit website,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 775.0,
       "end": 778.0,
       "text": " hvor du ejer dataen, og ingen andre reelt har adgang til den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 778.0,
       "end": 781.0,
       "text": " og Google har reelt adgang til dine data, og derfor tæller det ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 781.0,
       "end": 784.0,
       "text": " Men hvis du bruger et værktøj, som for eksempel Simple Analytics,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 784.0,
       "end": 786.0,
       "text": " eller Pivik Pro, eller Matomo,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 786.0,
       "end": 791.0,
       "text": " så skal du ikke kræve konsent for, at du må lokke folk med de værktøjer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 791.0,
       "end": 795.0,
       "text": " Og det løser også en stor del af det hul, du ikke kan spore normalt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 795.0,
       "end": 803.0,
       "text": " Men forstår jeg, at det er korrekt, at du så ikke må sende conversion data til Google?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 803.0,
       "end": 804.0,
       "text": " Nej.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 804.0,
       "end": 805.0,
       "text": " Okay.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 805.0,
       "end": 806.0,
       "text": " Det må du stadig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 806.0,
       "end": 807.0,
       "text": " Ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 807.0,
       "end": 808.0,
       "text": " Det kræver permission.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 808.0,
       "end": 811.0,
       "text": " Men hvis du installerer et af de her værktøjer, for eksempel Simple Analytics,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 811.0,
       "end": 815.0,
       "text": " så må du godt installere det og måle statistik på 100% af dine besøgende uden konsent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 815.0,
       "end": 816.0,
       "text": " Okay.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 816.0,
       "end": 819.0,
       "text": " Så er der nogle tekniske problemer, som vi allerede har snakket om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 819.0,
       "end": 820.0,
       "text": " Det må man faktisk godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 820.0,
       "end": 823.0,
       "text": " Så de her alternative, GDPR-fokuserede Analytics-værktøjer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 823.0,
       "end": 827.0,
       "text": " hvor igen, Simple Analytics koster fra 100 dollars om måneden og er rigtig godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 827.0,
       "end": 829.0,
       "text": " PV-Pro, et bedre værktøj, men desværre også ret dyrt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 829.0,
       "end": 831.0,
       "text": " Det kan hurtigt koste 100.000 om året.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 831.0,
       "end": 837.0,
       "text": " Og Matomo, lidt billigere, men har UX, som Microsoft XP så ud i 2001 og er tyskudviklet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 838.0,
       "text": " og det siger alt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 838.0,
       "end": 844.0,
       "text": " Men de her værktøjer, dem må du rent faktisk bruge uden at kræve konsent til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 846.0,
       "text": " Og det er faktisk næsten endnu bedre end ServerSight,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 846.0,
       "end": 848.0,
       "text": " fordi ServerSight løser dine tekniske problemer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 848.0,
       "end": 850.0,
       "text": " Det løser ikke dine GDPR-problemer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 850.0,
       "end": 852.0,
       "text": " Du skal stadig have permission.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 854.0,
       "text": " ServerSight løser bare alle dine tekniske problemer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 854.0,
       "end": 856.0,
       "text": " så du sender 100% af det, du må.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 856.0,
       "end": 859.0,
       "text": " Hvis du får Simple Analytics, så må du 100% til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 859.0,
       "end": 862.0,
       "text": " Det er bare ærgerligt, du kan ikke gøre det med din annonceplatform.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 862.0,
       "end": 864.0,
       "text": " Du kan ikke gøre det med Facebook og Google.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 864.0,
       "end": 867.0,
       "text": " Det er kun dit eget første part-statistik-værktøj, du kan gøre det her med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 867.0,
       "end": 870.0,
       "text": " Men det er jo også værd at nævne i en cookie-less tracking-verden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 870.0,
       "end": 873.0,
       "text": " Stærkt. Så hvis vi skal give den en knude på det, så som jeg har hørt det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 873.0,
       "end": 876.0,
       "text": " så er det her cookie-less tracking ikke bare en trend,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 876.0,
       "end": 879.0,
       "text": " men det er rent faktisk fremtiden inden for vores område.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 879.0,
       "end": 883.0,
       "text": " Hvad er din fornemmelse? Er de fleste virksomheder ved at være hoppet med på bølgen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 883.0,
       "end": 886.0,
       "text": " eller er der stadigvæk et stort gap?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 886.0,
       "end": 891.0,
       "text": " Jeg oplever i praksis, at serverSight-tagging-penetrationen i Danmark er faktisk rigtig høj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 891.0,
       "end": 893.0,
       "text": " Der er vi ret langt fremme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 893.0,
       "end": 895.0,
       "text": " Nu opererer vi jo i Obsidian 3-markeder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 895.0,
       "end": 897.0,
       "text": " Vi har et kontor i Finland, Helsinki.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 897.0,
       "end": 899.0,
       "text": " Vi har et kontor i Tyskland, Hamburg og Leipzig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 899.0,
       "end": 901.0,
       "text": " Og så har vi fire i Danmark, København, Odense og Aarhus Aalborg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 901.0,
       "end": 905.0,
       "text": " Danmark er klart med længder det mest modende marked.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 905.0,
       "end": 907.0,
       "text": " Tyskland er helt til grin på det her punkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 907.0,
       "end": 910.0,
       "text": " De sidder stadig fast til at snakke om, hvorvidt man må.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 910.0,
       "end": 914.0,
       "text": " Hvor det er standard i Danmark at implementere serverSight, hvis du er i en webshop, der vil noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 914.0,
       "end": 916.0,
       "text": " Og hvis du er i en B2B-virksomhed, der vil noget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 916.0,
       "end": 919.0,
       "text": " Det er virkelig få virksomheder, som jeg i hvert fald snakker med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 919.0,
       "end": 923.0,
       "text": " der bruger bare en lille smule penge på digital marketing, der ikke har taget det her op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 923.0,
       "end": 926.0,
       "text": " Og det er også fordi nogle værktøjer, som Shopify for eksempel, gør det meget nemt at sætte op til Meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 926.0,
       "end": 930.0,
       "text": " Det kræver stadig en lille smule mere til Google Ads, men det koster ikke særlig meget.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 930.0,
       "end": 934.0,
       "text": " Når vi laver serverSight-tagging-implementeringer, de koster 10-15.000, og så er man færdig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 934.0,
       "end": 937.0,
       "text": " Så det er meget få penge i forhold til, hvad man får ud af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 937.0,
       "end": 941.0,
       "text": " Og derfor oplever jeg også penetrationen på det her, i det danske marked, er rigtig høj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 941.0,
       "end": 943.0,
       "text": " Jeg oplever det modsatte i Tyskland og Finland.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 943.0,
       "end": 948.0,
       "text": " Og jeg ved ikke, om de er langsomme, eller vi er foran, men det er i hvert fald, det oplever jeg anderledes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 948.0,
       "end": 951.0,
       "text": " Hvad er din generelle fornemmelse med det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 951.0,
       "end": 954.0,
       "text": " Jeg bliver nødt til at lægge mig op ad din fornemmelse med det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 954.0,
       "end": 958.0,
       "text": " Fordi du har undersøgt det langt mere end mig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 959.0,
       "end": 965.0,
       "text": " Ret skal være ret. Inden for e-commerce, der har vi jo trods alt talt om det her i et stykke tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 965.0,
       "end": 969.0,
       "text": " Og der føler jeg faktisk, at det er mere real end undtagelsen, at man ikke har serverSight op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 969.0,
       "end": 970.0,
       "text": " Altså, man har serverSight op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 970.0,
       "end": 971.0,
       "text": " Ja, man har.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 971.0,
       "end": 972.0,
       "text": " Ja, omvendt, omvendt, omvendt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 972.0,
       "end": 974.0,
       "text": " Jeg tænkte lige, at du sidder midt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 975.0,
       "end": 979.0,
       "text": " Jeg skulle lige til at lave en Aalborg-joke i det her, men det er noget, du har fixet, inden jeg kunne det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 982.0,
       "end": 984.0,
       "text": " Vi plejer ikke at holde dig igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 984.0,
       "end": 986.0,
       "text": " Nej, jeg skal nok finde en anden lejlighed til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 986.0,
       "end": 988.0,
       "text": " Lad os afslutte dagens episode her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 988.0,
       "end": 994.0,
       "text": " Koncentreringen af cookie-less tracking handler om, hvordan du kan tracke via client-side cookies, som bliver slettet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 994.0,
       "end": 997.0,
       "text": " eller slet ikke kan sættes rent teknisk eller diuridisk, eller ikke må længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 997.0,
       "end": 1001.0,
       "text": " Det handler om, hvordan du stadig sporer kommenteringer og forstår, hvordan folk bruger dit website.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1001.0,
       "end": 1007.0,
       "text": " Det er der tekniske løsninger, som serverSight til, og adfærdsmæssige, som for eksempel heatmaps, session replays",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1007.0,
       "end": 1010.0,
       "text": " og indsamling af zero-party-data, der kan gøre rigtig meget for at løse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1010.0,
       "end": 1012.0,
       "text": " Det værste, du kan gøre, det er ingenting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1012.0,
       "end": 1014.0,
       "text": " Tusind tak, for at du lytter med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

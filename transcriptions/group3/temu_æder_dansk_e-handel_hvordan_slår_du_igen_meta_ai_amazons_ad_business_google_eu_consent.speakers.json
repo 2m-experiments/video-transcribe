@@ -9,3347 +9,3351 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 3.0,
       "text": " Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 3.0,
       "end": 5.0,
       "text": " God aften.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 5.0,
       "end": 7.0,
       "text": " Vi starter med ugens tre vigtigste nyheder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 7.0,
       "end": 11.0,
       "text": " Amazons adbusiness voksede med 24 procent.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 11.0,
       "end": 16.0,
       "text": " Det er hurtigere end Googles egen relativ vækst og langsommere end Metas relativ vækst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 22.0,
       "text": " Men det der er vildt, det er at det nu udgør 8 procent af Amazons samlede omsætning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 22.0,
       "end": 27.0,
       "text": " Derudover så siger Google i en mail til de store byråer, blandt andet Obsidian,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 33.0,
       "text": " at de vil til at deaktivere de kundti, der ikke har opsat KUKI-konsent i EU.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 33.0,
       "end": 37.0,
       "text": " Men passer det nu også? Det er noget af det, vi vil prøve at dykke lidt ned i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 37.0,
       "end": 42.0,
       "text": " Og Meta annoncerer nye AI-værktøjer til annoncører.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 42.0,
       "end": 45.0,
       "text": " Herunder AI Image Generation og mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 45.0,
       "end": 47.0,
       "text": " Den er spændende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 49.0,
       "text": " Der er tre spændende ting her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 49.0,
       "end": 53.0,
       "text": " Jeg synes, den vildeste af de tre her, vi har fået den seneste uge, det er den her e-mail, Google sendte til os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 53.0,
       "end": 56.0,
       "text": " Og bare lige for at give en lille smule kontekst.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 56.0,
       "end": 59.0,
       "text": " Vi får en mail fra Google, hvor vi er BCC.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 59.0,
       "end": 63.0,
       "text": " Så vi kan se, at det her er en mail, der er sendt til en del byråer, men vi kan ikke se, hvilke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 63.0,
       "end": 65.0,
       "text": " Vi får en mail, der hedder Measurement Heads Up.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.0,
       "end": 68.0,
       "text": " Udøbstegn, udøbstegn, udøbstegn, udøbstegn.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 68.0,
       "end": 70.0,
       "text": " Fra Google, hvor vi er BCC.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 70.0,
       "end": 74.0,
       "text": " Og det er for det første sjældent, at vi får en mail fra Google, hvor der er fire udøbstegne i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 74.0,
       "end": 77.0,
       "text": " Allerede der, der stopper vi jo op og tænker, at det her ser godt nok spændende ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 77.0,
       "end": 81.0,
       "text": " Og sådan at vi kan se, at den er BCC-masseudsendt, så bliver det jo bare endnu mere spændende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 81.0,
       "end": 86.0,
       "text": " Det, de skriver i den, det er, at Google har jo faktisk haft en politik i mange år.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 86.0,
       "end": 89.0,
       "text": " Omkring, at man skal leve op til EU's end user consent.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 89.0,
       "end": 92.0,
       "text": " Altså det vil sige, at i EU skal man have en cookie consent løsning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 92.0,
       "end": 94.0,
       "text": " Det kunne være cookie bot, eller cookie information.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 94.0,
       "end": 96.0,
       "text": " Alle de der bokser, vi kender så godt i forvejen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 96.0,
       "end": 100.0,
       "text": " Og man skal faktisk leve op til de her cookie regler, for at få lov til at køre Google Ads anlægsering.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 100.0,
       "end": 103.0,
       "text": " Sådan har det egentlig altid været, men det er bare aldrig blevet håndhævet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 103.0,
       "end": 109.0,
       "text": " Men det, som Google så skriver til os i en mail, det er, hvis ikke at jeres kunder rent faktisk lever op til det her krav.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 109.0,
       "end": 111.0,
       "text": " Og det er noget, vi vil tjekke maskinelt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 111.0,
       "end": 113.0,
       "text": " Altså det har Google deres eget værktøj til at gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 113.0,
       "end": 118.0,
       "text": " Så risikerer de at få deaktiveret deres kommenteringsboring, som første advarsel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 118.0,
       "end": 123.0,
       "text": " Men de risikerer faktisk at få afvist eller deaktiveret hele deres annoncekonto.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 123.0,
       "end": 125.0,
       "text": " Det skriver de direkte i mailen til os.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 125.0,
       "end": 127.0,
       "text": " Den er alligevel vild.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 127.0,
       "end": 130.0,
       "text": " Fordi nu ved jeg jo, du har også arbejdet med Google Ads i 100 år.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 130.0,
       "end": 133.0,
       "text": " Har du nogensinde set nogen få deaktiveret deres konto, fordi de ikke har sat en cookie box op?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 133.0,
       "end": 135.0,
       "text": " Aldrig, aldrig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 135.0,
       "end": 140.0,
       "text": " Altså jeg synes ofte, at Google har råbet op omkring de ting, der nu skal være styr på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 140.0,
       "end": 144.0,
       "text": " Men aldrig sådan decideret været ude og sige, at hvis I ikke giver styr på det her inden den her dato,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 144.0,
       "end": 147.0,
       "text": " så kan vi forresten ikke helt give jer datum.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 147.0,
       "end": 150.0,
       "text": " Det er sådan lidt up for grabs.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 154.0,
       "text": " Så deaktiveret er simpelthen kommet som, at det er ret vildt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 156.0,
       "text": " Ja, vi var også overrasket, hvor du var ret i dato.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 156.0,
       "end": 158.0,
       "text": " De siger fra 1. maj, men det er ikke 1. maj.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 158.0,
       "end": 163.0,
       "text": " Men det er fra 1. maj på et tidspunkt, så gennemgår vi maskinelt 25% af alle Google Ads-konto i hele verden",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 163.0,
       "end": 165.0,
       "text": " og lukker dem ned for godt befindende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 165.0,
       "end": 167.0,
       "text": " Når vi så skriver, men passer det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 167.0,
       "end": 170.0,
       "text": " Så er det fordi, det for det første ikke skete, og vi er forbi 1. maj.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 170.0,
       "end": 174.0,
       "text": " For det andet, så har vi haft svært ved at få Google til officielt at bekræfte det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 174.0,
       "end": 181.0,
       "text": " Vi lavede et webinar med cookie information om det, og cookie information har også nogle guideveje ind til Google,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 181.0,
       "end": 185.0,
       "text": " hvor de har prøvet at skrive til dem og få dem til at bekræfte, at de vil lukke Google Ads-kontoen ned,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 185.0,
       "end": 187.0,
       "text": " hvis ikke der er sat en cookie content box op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 187.0,
       "end": 190.0,
       "text": " Og man kan sige, at cookie information håber nok på, at det sker, fordi det hjælper dem mere med at sælge deres produkt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 190.0,
       "end": 192.0,
       "text": " hvor vi håber måske ikke, at det sker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 192.0,
       "end": 195.0,
       "text": " Men ikke til så minde, at de har ikke kunnet få Google til at bekræfte det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 195.0,
       "end": 198.0,
       "text": " Google har heller ikke afkræftet det, men de har i hvert fald ikke bekræftet det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 198.0,
       "end": 200.0,
       "text": " Lad os tage ind i de andre ting, du lige har nævnt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 200.0,
       "end": 203.0,
       "text": " Amazons ad-business, der er vokset med 24%, det er sindssygt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 203.0,
       "end": 206.0,
       "text": " Fordi når man tænker på Amazon, så tænker man jo først og fremmest selv af produkter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 206.0,
       "end": 210.0,
       "text": " Derudover så har de deres Prime-medlemskab, hvor der er 100 mio. amerikanske husstande, der er medlem af det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 210.0,
       "end": 216.0,
       "text": " De har Prime Video, hvor jeg selv er subscriber, så jeg kan se Rammesteins Live aus Paris-DVD, når jeg træner nede i kælderen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 216.0,
       "end": 223.0,
       "text": " Og så har de en række andre forretningsmodelle, inklusive en af verdens største hosting-tjenester i form af Amazon Web Services.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 223.0,
       "end": 229.0,
       "text": " Men der er ikke særlig mange, der ved, at det er faktisk 8% af Amazons omsætning i dag, der er udgjort af annoncer på Amazon.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 229.0,
       "end": 234.0,
       "text": " Og det fede ved annoncer på Amazon er jo, at folk, der går ind på Amazon, de er 100% i mål for at købe noget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 234.0,
       "end": 237.0,
       "text": " Altså alle dem, der er inde på Amazon, de er der for at købe et produkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 237.0,
       "end": 242.0,
       "text": " Så Amazons annoncer rammer typisk folk allersidst i forhold til at have et ret højt afkast, men de er altså også dyre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 242.0,
       "end": 247.0,
       "text": " Fordi udover at betale Amazon for annoncer, så betaler du dem jo også en procentdel af dit salg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 247.0,
       "end": 254.0,
       "text": " Så vi har kunder, der bruger Amazon, altså de kan godt bruge 20, 30 eller 40% af deres revenue på samlede salg til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 254.0,
       "end": 257.0,
       "text": " eller du skal sige, annoncer til Amazon og den kommission, de efterfølgende betaler.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 257.0,
       "end": 263.0,
       "text": " Og omkostninger for at fx få deres produkter opbevaret af Amazon og pakketeret osv. shipped by Amazon.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 263.0,
       "end": 270.0,
       "text": " Det er ikke en billig platform, men 8% og at Amazon vokser hurtigere end Google, det er fascinerende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 270.0,
       "end": 271.0,
       "text": " Det er virkelig imponerende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 271.0,
       "end": 275.0,
       "text": " Der er også sket meget på deres business manager, deres ads manager.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 275.0,
       "end": 277.0,
       "text": " Den har virkelig udviklet sig i løbet af de sidste år.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 277.0,
       "end": 280.0,
       "text": " Vi er ikke der, hvor man siger, den er lige så fed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 285.0,
       "text": " Ikke at business manageren hos Facebook er nødvendigvis fed hver gang, man logger derind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 285.0,
       "end": 288.0,
       "text": " Men der er virkelig sket meget derovre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 288.0,
       "end": 294.0,
       "text": " Og det er jo helt klart også med til at vækste omsætningstallet for dem, eller i hvert fald ad-spend-tallet for dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 294.0,
       "end": 297.0,
       "text": " Fordi at det bare bliver mere intuitive at bruge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 297.0,
       "end": 300.0,
       "text": " Og det er jo det, vi ser på tværs af alle de her ads-platforme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 300.0,
       "end": 304.0,
       "text": " Det er mere intuitive, det bliver at bruge, end hvis flere begynder så at bruge dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 304.0,
       "end": 306.0,
       "text": " Så det er virkelig spændende at følge med i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 311.0,
       "text": " Så har vi til sidst Mesa's nye annoncering af endnu mere AI, og det er jo en retning Mesa er gået i i lang tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 311.0,
       "end": 314.0,
       "text": " Det her er et spritnyt blog-indlæg fra dem, som hedder",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 314.0,
       "end": 318.0,
       "text": " Introducing Enhanced Gen AI Features and Other Tools to Help You Build Your Business.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 318.0,
       "end": 323.0,
       "text": " Nogle af de ting, som Mesa nu annoncerer, det er bl.a. noget image generation.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 323.0,
       "end": 328.0,
       "text": " Det går ud på, at når du har oplovet dit billede til Mesa, så gør de endnu mere i forhold til at lave text-overlays på det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 328.0,
       "end": 330.0,
       "text": " I forhold til at udstrække billedet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 330.0,
       "end": 334.0,
       "text": " I forhold til, hvis du har lagt dit mørkt billede op, så ændrer de lyssætningen til det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 334.0,
       "end": 336.0,
       "text": " Det her vil de gøre endnu mere af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 336.0,
       "end": 338.0,
       "text": " De vil gøre mere i forhold til at lave tekster.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 338.0,
       "end": 342.0,
       "text": " Så fra nu af, hvis du er en del af den her beta, og det bliver rullet ud til alle snart.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 342.0,
       "end": 347.0,
       "text": " Når du lægger et link til dit produkt op, så går Mesa ind og kigger på dit side, og hvad du selv skriver om det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 347.0,
       "end": 352.0,
       "text": " Så via deres egen LLM, deres egen Large Language Model, som hedder Lama 3.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 352.0,
       "end": 357.0,
       "text": " Og language model, det er jo for eksempel GPT, som OpenAI har lavet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 357.0,
       "end": 362.0,
       "text": " Når man bruger ChatGPT, så bruger man den Large Language Model, der hedder GPT.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 362.0,
       "end": 366.0,
       "text": " Metas tilsvarende GPT, den hedder Lama 3.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 366.0,
       "end": 370.0,
       "text": " Så går Lama 3 simpelthen ind og kigger på ens site, og skriver ens annonce tekst.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 370.0,
       "end": 375.0,
       "text": " For Mesa vil simpelthen gå ind og lave udkast af ens annonce tekst, og en række andre ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 375.0,
       "end": 380.0,
       "text": " Og det her er bare endnu et skridt i retning af, at Mesa vil rigtig gerne hjælpe dig med at lave dine annoncer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 380.0,
       "end": 386.0,
       "text": " Mesa kan se, at hvis de hjælper annoncererne med at lave bedre billeder, og bedre tekster, og bedre alting,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 386.0,
       "end": 390.0,
       "text": " jamen så ender de jo med at få bedre resultater, og så bruger de flere penge på Mesa-annonceren.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 390.0,
       "end": 392.0,
       "text": " Og på den måde så vinder alle i sidste ende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 392.0,
       "end": 395.0,
       "text": " Hvor meget erfaring har du selv med de her funktionaliteter fra Mesa,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 395.0,
       "end": 398.0,
       "text": " i forhold til de går ind og skriver dine annonce tekster og redigerer dine billeder?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 398.0,
       "end": 401.0,
       "text": " Altså de forsøger, lad os sige det sådan, de forsøger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 405.0,
       "text": " Det er ikke skide godt for at sige det på jysk endnu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 405.0,
       "end": 408.0,
       "text": " men vi begynder at komme hen til et sted, hvor jeg sidder og tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 408.0,
       "end": 412.0,
       "text": " altså seks måneder ud i fremtiden, hvor sidder vi så hen der?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 412.0,
       "end": 416.0,
       "text": " Og det er virkelig interessant, fordi som du selv siger, det åbner jo op for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 416.0,
       "end": 420.0,
       "text": " at endnu flere kan begynde at gøre brug af de her muligheder, der nu engang er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 422.0,
       "text": " Så hvor er det så, man skal skille sig ud hen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 427.0,
       "text": " Fordi hvis det er AI, der sidder og laver de her tekster og genererer størstedelen af billederne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 430.0,
       "text": " jamen hvad skal vi så finde på for at skille os ud?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 430.0,
       "end": 433.0,
       "text": " Det er enormt spændende, jeg synes det er virkelig interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 437.0,
       "text": " Ja, og det leder faktisk også en lille smule over til dagens primære emne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 440.0,
       "end": 444.0,
       "text": " Dagens primære emne, det handler nemlig om temu og impacten på dansk e-handel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 444.0,
       "end": 447.0,
       "text": " og især hvad man som e-handler kan gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 447.0,
       "end": 452.0,
       "text": " Fordi nu har vi også i Obsidian og i Ice, vi har skrevet en del om temu indsat.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 452.0,
       "end": 457.0,
       "text": " Det er blandt andet, fordi vi har lavet en undersøgelse blandt Obsidians 17 største kunder på Google Ads,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 457.0,
       "end": 462.0,
       "text": " mål på deres adspent, så vi har altså taget vores 17 største e-commerce kunder mål på adspent.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 462.0,
       "end": 465.0,
       "text": " Og så har vi brugt et værktøj, der hedder Auction Insights.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 465.0,
       "end": 468.0,
       "text": " Auction Insights, det har man adgang til i Google Ads, og der kan man se,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 468.0,
       "end": 471.0,
       "text": " hvilke andre virksomheder byder ind på de samme søgninger, som man selv gør.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 471.0,
       "end": 474.0,
       "text": " Så det er derhen, hvor man typisk vil se alle ens konkurrenter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 474.0,
       "end": 480.0,
       "text": " Og der kan vi bare se i juli 2023, det var 0% temu for alle sammen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 480.0,
       "end": 482.0,
       "text": " Temo var fuldstændig usynde i juli 2023.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 482.0,
       "end": 486.0,
       "text": " I august 2023 begynder de at poppe frem, der kommer lidt mere i september,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 486.0,
       "end": 489.0,
       "text": " lidt mere i oktober, og i november eksploderer det op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 489.0,
       "end": 495.0,
       "text": " Og faktisk fra august til november, der er temu gået fra at fylde 0% i de her Auction Insights,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 495.0,
       "end": 497.0,
       "text": " til at fylde 40% i Auction Insights.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 497.0,
       "end": 501.0,
       "text": " Og 40% af Auction Insights på tværs af vores 17 største kunder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 501.0,
       "end": 506.0,
       "text": " det betyder, at i 40% af de søgninger, vores kunder byder ind på, der er temu også til stede.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 506.0,
       "end": 509.0,
       "text": " Det er fuldstændig vanvittigt meget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 509.0,
       "end": 513.0,
       "text": " Altså vi har aldrig oplevet noget tilsvarende fra nogen anden virksomhed,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 513.0,
       "end": 516.0,
       "text": " nogensinde der er kommet ind med et tilsvarende tryk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 516.0,
       "end": 517.0,
       "text": " Det er helt sindssygt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 517.0,
       "end": 523.0,
       "text": " Og vi kan også se, at vores klikpris på Google Ads i samme periode på tværs af de her 17 kunder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 523.0,
       "end": 525.0,
       "text": " den er steget med 40%.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 525.0,
       "end": 529.0,
       "text": " Så hvor de før betalte x, så betalte de x plus 40% per klik.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 529.0,
       "end": 533.0,
       "text": " Og det betyder jo alt andet lige, hvis de bruger det samme budget, som de gjorde tidligere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 533.0,
       "end": 538.0,
       "text": " jamen så får de færre kliks ud af det, og mindre omsætning ud af det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 538.0,
       "end": 542.0,
       "text": " fordi at temu simpelthen presser prisen op på hele Google Ads.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 542.0,
       "end": 546.0,
       "text": " Det er vanvittigt, og det er også derfor vi hører rigtig meget om temu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 546.0,
       "end": 549.0,
       "text": " Nu sidder du selv og oprejser med Google Ads på rigtig mange kunder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " Hvordan har du oplevet det her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 552.0,
       "end": 555.0,
       "text": " Det er det vilde vesten lige nu, for at sige det mildt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 555.0,
       "end": 562.0,
       "text": " Det er det første gang nogensinde, at vi har oplevet, at en så stor konkurrent kommer ind og presser",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 562.0,
       "end": 564.0,
       "text": " på to forskellige fronter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.0,
       "end": 566.0,
       "text": " Som du selv siger, så CPC-prisen stiger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 566.0,
       "end": 570.0,
       "text": " Det vil sige, at vi får færre besøgende ind, og udgiften til Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 570.0,
       "end": 572.0,
       "text": " hvis du gerne vil have de samme antal besøgende ind, den stiger bare.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 573.0,
       "text": " Det er bare sådan, det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 573.0,
       "end": 576.0,
       "text": " Men samtidig presser de priserne ned på produkterne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 576.0,
       "end": 581.0,
       "text": " Deres produkter er jo så billige i forhold til mange af de andre, vi kan se derude.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 581.0,
       "end": 586.0,
       "text": " Og det gør jo, at det bliver et kæmpe issue, fordi hvad pokker gør man så?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 586.0,
       "end": 588.0,
       "text": " Skal man fortsætte med at forsøge at tage kampen op?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 589.0,
       "text": " Skal man gøre noget anderledes?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 590.0,
       "text": " Hvad gør man?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 590.0,
       "end": 594.0,
       "text": " Og det er jo det, som vi vil prøve at dykke ned i nu her, i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 597.0,
       "text": " Og det er det, vi sidder og snakker med vores kunder om nærmest dagligt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 600.0,
       "text": " lige p.t. især, når det kommer til Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 604.0,
       "text": " Vi har lavet sådan en lille interne præsentation, som vi bruger til vores konsulenter",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 604.0,
       "end": 607.0,
       "text": " i forhold til at klæde dem på til at løse det her problem bedst muligt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 607.0,
       "end": 610.0,
       "text": " Og der er et sjovt eksempel, jeg lige vil tage alle lytter igennem her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 610.0,
       "end": 614.0,
       "text": " Massagepistoler. Dem er der sikkert mange, der har fået annoncer for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 614.0,
       "end": 618.0,
       "text": " Og nu ved jeg ikke, Tine, jo du træner jo også en del.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 618.0,
       "end": 621.0,
       "text": " Har du en massagepistole til sådan din eftertræningsstation?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 621.0,
       "end": 623.0,
       "text": " Det har jeg faktisk. Det har jeg faktisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " Ja, okay. Det har jeg ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 625.0,
       "end": 627.0,
       "text": " Er det måske derfor, jeg er ved at komme bagud på bænkpress?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 627.0,
       "end": 631.0,
       "text": " Burde jeg have en massagepistole?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 631.0,
       "end": 634.0,
       "text": " Det skal jeg ikke kunne sige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 634.0,
       "end": 637.0,
       "text": " Jeg har tænkt mig at løse den på andre måder, men jeg er åben over for alt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 637.0,
       "end": 639.0,
       "text": " fordi jeg kan simpelthen ikke tillade, at det kommer til at ske det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " Så det kan være, jeg skal have en massagepistole.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 641.0,
       "end": 643.0,
       "text": " Så fortsætter jeg at gå ind og søge på Google efter massagepistolen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 643.0,
       "end": 645.0,
       "text": " Vi har en præsentation, hvor vi har et eksempel med det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 645.0,
       "end": 649.0,
       "text": " Det første resultat er en massagepistole, der koster 1000 kroner fra en dansk webshop.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 649.0,
       "end": 653.0,
       "text": " Så har vi en EU-shop. Den ligger lidt billigere. Der ligger vi på 650 kroner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " Så har vi en anden dansk webshop, der ligger på 600 kroner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 655.0,
       "end": 658.0,
       "text": " Og en fjerde dansk webshop, der ligger på 800 kroner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 658.0,
       "end": 662.0,
       "text": " Så er det sidste resultat af den her Google Shopping-søgning på massagepistole.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 662.0,
       "end": 665.0,
       "text": " Det er Teemu, der kommer ind med et bedre billede.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 665.0,
       "end": 668.0,
       "text": " Flyshipping. Det er den eneste massagepistole, der har anmeldet sig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 668.0,
       "end": 670.0,
       "text": " Til gengæld har den 1 af 7 af dem, og de er 5-stjernede.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 670.0,
       "end": 673.0,
       "text": " De står direkte i søgeresultatet. Og ved du, hvad den koster?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " 105 kroner.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " Ej.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 677.0,
       "end": 681.0,
       "text": " Hvad gør man ikke?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 681.0,
       "end": 685.0,
       "text": " Nu har jeg ikke købt med Teemu, kan jeg sige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 685.0,
       "end": 687.0,
       "text": " Og jeg kommer til at stille dig et spørgsmål, om du skal svare ærlig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 687.0,
       "end": 691.0,
       "text": " Jeg har ikke gjort det, fordi jeg har en meget streng regel i vores hussøgning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 691.0,
       "end": 693.0,
       "text": " som gælder både mig og Ulisse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 693.0,
       "end": 695.0,
       "text": " Vi køber kun ved vores kunder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 695.0,
       "end": 697.0,
       "text": " Obsidian skal holde omsætningen op ved alle vores kunder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 697.0,
       "end": 700.0,
       "text": " Også den omsætning, vi selv kan generere, hvor let det end er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 700.0,
       "end": 703.0,
       "text": " Og Teemu er ikke kunden i Obsidian Digital.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 703.0,
       "end": 706.0,
       "text": " Hvilket både er godt, men også lidt en skam.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 706.0,
       "end": 709.0,
       "text": " For jeg er sikker på, at det kunne være en højdagsbind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 709.0,
       "end": 714.0,
       "text": " Men jeg kan godt se, hvis man går ind som almindelig dansk forbruger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 714.0,
       "end": 718.0,
       "text": " og gerne vil have en massagepistol, og der er en med 21 anmeldelser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 718.0,
       "end": 721.0,
       "text": " og den koster 100 kroner, og du får free shipping,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 721.0,
       "end": 724.0,
       "text": " og så er der fire andre, der koster mellem 6 og 10 gange så meget,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 724.0,
       "end": 727.0,
       "text": " uden anmeldelser, og der står plus 99 kroner i shipping.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 727.0,
       "end": 729.0,
       "text": " Det er et hard sell.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 729.0,
       "end": 731.0,
       "text": " Det er et hard sell.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 731.0,
       "end": 735.0,
       "text": " Der skal du virkelig ikke ville købe Teemu, for du er rent faktisk ender der.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 735.0,
       "end": 738.0,
       "text": " Og jeg kan godt se, hvorfor folk rent faktisk gør det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 738.0,
       "end": 742.0,
       "text": " Lad os snakke lidt om, hvad er det egentlig, Teemu gør godt i øjeblikket?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 742.0,
       "end": 745.0,
       "text": " Fordi de har lavet priser, det ved alle.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 745.0,
       "end": 747.0,
       "text": " Men når man ser på det fra en Google Ads teknisk vinkel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 747.0,
       "end": 750.0,
       "text": " så er der flere ting i det, som gør, at det her er en formidabel modstander,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 750.0,
       "end": 753.0,
       "text": " og meget værre end for eksempel Wish nogensinde har været.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 753.0,
       "end": 756.0,
       "text": " En ting er, at de har et virkelig højt budget.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 756.0,
       "end": 760.0,
       "text": " Der er nogen, der argumenterer for, at det her er den største annonceur i verdenshistorien.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 760.0,
       "end": 765.0,
       "text": " Og det er svært at verificere, fordi det har vi ikke nogen objektiv transparens for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 765.0,
       "end": 767.0,
       "text": " i forhold til, hvor mange penge man bruger i Google Ads og Meta.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 767.0,
       "end": 769.0,
       "text": " Det ved kun Google og Meta.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 769.0,
       "end": 770.0,
       "text": " Men jeg tror sagtens, du kan lave casen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 770.0,
       "end": 773.0,
       "text": " Altså jeg ved ikke, hvem det ellers skulle være, der ville være den største annonceur i verden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 773.0,
       "end": 776.0,
       "text": " Teemu er så stor, at de er blevet nævnt i Metas kvartaltrænskab.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 776.0,
       "end": 779.0,
       "text": " Ikke med navn, men Meta nævner i deres kvartaltrænskab,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 779.0,
       "end": 781.0,
       "text": " at de har medvendt fra kinesiske e-commerce annonceure.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 781.0,
       "end": 783.0,
       "text": " Og det er jo Teemu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 783.0,
       "end": 785.0,
       "text": " Så mange andre er der heller ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 785.0,
       "end": 787.0,
       "text": " Men de gør nogle andre ting godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 787.0,
       "end": 790.0,
       "text": " Når du som sådan en Google Ads ekspert ser udefra,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 790.0,
       "end": 795.0,
       "text": " hvad tænker du sådan om deres anmeldelser, deres produktbilleder osv.?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 795.0,
       "end": 797.0,
       "text": " Hvad er det, Teemu, de gør godt her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 797.0,
       "end": 800.0,
       "text": " Jamen, hvis vi tager det fra en ende af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 800.0,
       "end": 803.0,
       "text": " og vi starter med, at der er en bruger, der går ind og foretager en søgning for eksempel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 803.0,
       "end": 809.0,
       "text": " som massagepistol, som det vi lige har fået visualiseret eksemplet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 809.0,
       "end": 812.0,
       "text": " Først og fremmest, så er prisen jo bare lav.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 812.0,
       "end": 815.0,
       "text": " Så det vil sige, at dine øjne rettes med det samme i shoppingresultaterne",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 815.0,
       "end": 817.0,
       "text": " hen mod det shoppingresultat.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 817.0,
       "end": 821.0,
       "text": " Deres produktbilleder er, som du også siger, typisk rigtig, rigtig gode faktisk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 821.0,
       "end": 823.0,
       "text": " Og det de er gode til generelt, ikke bare på produktbilleder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 823.0,
       "end": 825.0,
       "text": " men også inde på produktsiden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 825.0,
       "end": 829.0,
       "text": " det er at vise produktet in action, altså lifestyle images,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 829.0,
       "end": 833.0,
       "text": " og med de her små videosekvenser af, hvordan du bruger produktet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 833.0,
       "end": 837.0,
       "text": " Noget, som rigtig mange, især i Danmark, faktisk ikke kan gøre brug af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 837.0,
       "end": 839.0,
       "text": " altså danske e-handlere, desværre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 842.0,
       "text": " Men det gør bare, at den produktside, du lander på, er bare så veloptimeret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 842.0,
       "end": 845.0,
       "text": " Du har anmeldelserne, du har anmeldelser med billeder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 845.0,
       "end": 847.0,
       "text": " altså kunder, der indsender deres billede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 847.0,
       "end": 849.0,
       "text": " Der har de været rigtig gode, Teemu, har jeg hørt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 849.0,
       "end": 852.0,
       "text": " Fordi jeg sidder stadigvæk og venter på spørgsmålet fra dig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 853.0,
       "text": " om hvorvidt jeg har handlet dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 853.0,
       "end": 854.0,
       "text": " Har du kigget på Teemu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 854.0,
       "end": 856.0,
       "text": " Nej, det har jeg ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 856.0,
       "end": 858.0,
       "text": " Men jeg er kommet udenom det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 861.0,
       "text": " fordi jeg blev nødt til at se, hvad er det egentlig, de kan.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 861.0,
       "end": 863.0,
       "text": " Så lad os tage den først.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 863.0,
       "end": 866.0,
       "text": " Jeg har fået en bekendt til at handle på Teemu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 868.0,
       "text": " hvor jeg sad og kiggede vedkommende overskulderen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 868.0,
       "end": 869.0,
       "text": " Hvem er den her bekendte?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 869.0,
       "end": 871.0,
       "text": " Og det var faktisk enormt interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 872.0,
       "end": 874.0,
       "text": " Kan jeg ikke komme nærmere ind?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 874.0,
       "end": 878.0,
       "text": " Altså, fordi hvis det er din kæreste, så tæller det næsten som dig, det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 880.0,
       "end": 881.0,
       "text": " Okay, okay, bedre nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 881.0,
       "end": 882.0,
       "text": " Det var min kæreste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 882.0,
       "end": 883.0,
       "text": " Det var ikke mig, men det var min kæreste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 885.0,
       "text": " Men det var med science for øje,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 885.0,
       "end": 887.0,
       "text": " fordi jeg blev nødt til at sidde og kigge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 887.0,
       "end": 888.0,
       "text": " hvad er det egentlig, de gør så godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 888.0,
       "end": 890.0,
       "text": " Du opfordrer simpelthen i den gode sagens tjeneste her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 890.0,
       "end": 891.0,
       "text": " Jamen, det føler jeg.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 892.0,
       "end": 894.0,
       "text": " Tak for mig og hele Dansk E-handlet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 894.0,
       "end": 897.0,
       "text": " Ellers kunne jeg jo ikke sidde nu og berette om, hvad det egentlig er, de gør godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 897.0,
       "end": 900.0,
       "text": " Nej, det er rigtigt. Så tak for det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 900.0,
       "end": 902.0,
       "text": " Så hvad købte du dig inden?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 902.0,
       "end": 904.0,
       "text": " Årh, det var en lang liste, hun efterhånden har fået lavet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 904.0,
       "end": 906.0,
       "text": " men vi fik kortet det meste af det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 907.0,
       "end": 909.0,
       "text": " Ej, det var blandt andet et...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 910.0,
       "end": 912.0,
       "text": " Faktisk et hundehalsbund.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 912.0,
       "end": 914.0,
       "text": " Det var noget af det, som jeg kunne se, der var det mest...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 914.0,
       "end": 916.0,
       "text": " Altså, jeg turde ikke købe noget elektronik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 916.0,
       "end": 918.0,
       "text": " og det kommer vi også ind på her senere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 918.0,
       "end": 923.0,
       "text": " Jeg turde ikke købe noget, hvor jeg vidste, at kemikalier med videre var en stor del af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 923.0,
       "end": 925.0,
       "text": " Så det blev et hundehalsbund, som jeg ikke agter at bruge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 925.0,
       "end": 927.0,
       "text": " skal jeg lige sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 927.0,
       "end": 931.0,
       "text": " Nå, det de jo er ekstremt dygtige til, det er den her Gamification vedkøb.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 931.0,
       "end": 936.0,
       "text": " Så når du lander derindefra og har været ude i Google Shopping og lander på produktsiden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 936.0,
       "end": 939.0,
       "text": " jamen så er de ekstremt dygtige til, dels at få dig til at købe,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 939.0,
       "end": 941.0,
       "text": " men også at få dig til at købe mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 941.0,
       "end": 943.0,
       "text": " Og det gør de med flere forskellige metoder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 943.0,
       "end": 945.0,
       "text": " blandt andet med at sætte priserne yderligere ned,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 945.0,
       "end": 947.0,
       "text": " du får en rabatkode osv.,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 947.0,
       "end": 949.0,
       "text": " så deres konverteringsrette er jo enormt høj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 949.0,
       "end": 953.0,
       "text": " I hvert fald indtagelsen og ud fra det, man kan læse sig frem til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 953.0,
       "end": 955.0,
       "text": " fordi de bruger jo ikke få penge på Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 955.0,
       "end": 959.0,
       "text": " men de formår rent faktisk at tjene penge efter sigende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 959.0,
       "end": 965.0,
       "text": " Så vi må antage, at deres produktside og den måde, det er sat op på, jo bare spiller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 965.0,
       "end": 968.0,
       "text": " Men en ting, som der er rigtig få, der faktisk snakker om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 968.0,
       "end": 974.0,
       "text": " når vi snakker temu, det er deres evne til at oversætte deres produktfeeds.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 974.0,
       "end": 978.0,
       "text": " Deres produktfeeds er faktisk ret godt oversættet til de lande, de nu engang opererer i,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 978.0,
       "end": 981.0,
       "text": " og det gør jo, at de kommer frem på alle de her søgninger lokalt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 981.0,
       "end": 984.0,
       "text": " Så vi kan godt blive enige om, at det danske ikke spiller 100% på hjemmesiden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 984.0,
       "end": 988.0,
       "text": " men deres produktfeeds generelt er faktisk så fint optimeret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 988.0,
       "end": 990.0,
       "text": " at de jo kommer frem, når man søger massagepistole,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 990.0,
       "end": 992.0,
       "text": " de kommer frem, når man søger hundehalsbund,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 992.0,
       "end": 994.0,
       "text": " de kommer frem, når man søger solbriller.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 994.0,
       "end": 996.0,
       "text": " Solbriller til mænd, og når du søger solbriller til kvinder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 996.0,
       "end": 998.0,
       "text": " så er det kvindesolbriller, der kommer frem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 998.0,
       "end": 1002.0,
       "text": " Der har de gjort det ret godt, og jeg tror, det er en af deres simpeligheder bag at kunne skrue så meget op,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1002.0,
       "end": 1007.0,
       "text": " fordi det rent faktisk bliver så relevant trafik, de får ind.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1007.0,
       "end": 1009.0,
       "text": " Og så har vi det her med de anmeldelser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1009.0,
       "end": 1012.0,
       "text": " fordi de logger jo helt vildt med at få de her anmeldelser ind,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1012.0,
       "end": 1015.0,
       "text": " men de gør det faktisk på sådan en måde, at det bliver troværdigt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1015.0,
       "end": 1017.0,
       "text": " og det er jo noget af det, de kæmper med, Timo, det er jo troværdigheden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1017.0,
       "end": 1020.0,
       "text": " Er det troværdigt for os som forbrugere i Danmark at købe noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1020.0,
       "end": 1023.0,
       "text": " der kommer lang vejs fra og er lang tid undervejs ind?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1023.0,
       "end": 1026.0,
       "text": " Hvordan er det, man bryder den her mur ned?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1026.0,
       "end": 1030.0,
       "text": " Det er jo en mur for dem, når de træder ind i f.eks. det danske marked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1030.0,
       "end": 1032.0,
       "text": " generelt det europæiske marked,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1032.0,
       "end": 1037.0,
       "text": " hvor vi jo ikke er så glade for generelt at handle uden for landets grænser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1037.0,
       "end": 1040.0,
       "text": " Men de her anmeldelser, hvor man jo kan se et billede",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1040.0,
       "end": 1044.0,
       "text": " taget af den givende kunde, der skriver, hvor fantastisk det her produkt er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1044.0,
       "end": 1048.0,
       "text": " jamen det gør jo bare, at den her mur bliver bare brudt lige så langsomt ned,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1048.0,
       "end": 1051.0,
       "text": " og det er jo en spill-over-effekt nu her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1051.0,
       "end": 1054.0,
       "text": " fordi så får de flere til at handle, de får flere til at lægge de her anmeldelser,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1054.0,
       "end": 1056.0,
       "text": " for så får man en rabatkode, når man lægger en anmeldelse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1056.0,
       "end": 1058.0,
       "text": " og det er jo det her hjul, der kører lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1058.0,
       "end": 1062.0,
       "text": " Ja, og du nævner en vigtig ting, det er, at de er megadygtige til at bruge billeder i deres anmeldelser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1062.0,
       "end": 1065.0,
       "text": " så det er jo faktisk en form for user-generated content, det skaber,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1065.0,
       "end": 1069.0,
       "text": " og de får brugerne til at tage billeder af produktet, de har fået, når de er kommet hjem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1069.0,
       "end": 1072.0,
       "text": " så det er altså Fidu, der har fået hundehalsbåndet på og står og ser glade,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1072.0,
       "end": 1074.0,
       "text": " når man lægger op med et billede,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1074.0,
       "end": 1076.0,
       "text": " og det virker bare enormt troværdigt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1076.0,
       "end": 1079.0,
       "text": " fordi jeg tror, at der er mange, der er sådan naturligt skeptiske over for anmeldelser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1079.0,
       "end": 1081.0,
       "text": " særlig hvis de bliver skrevet på sådan bare semi-gebrokkendansk,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1081.0,
       "end": 1086.0,
       "text": " så er vi ret hurtige til at tro, at det er falske anmeldelser, det er jeg i hvert fald.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1086.0,
       "end": 1089.0,
       "text": " Men i det her objekt, der rent faktisk ligger billeder af produktet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1089.0,
       "end": 1092.0,
       "text": " så det virker lidt sværere at forfalske, det kan man jo stadig,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1092.0,
       "end": 1094.0,
       "text": " men det er sværere at forfalske i hvert fald,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1094.0,
       "end": 1097.0,
       "text": " så det virker enormt troværdigt på mig, at der er brugere, der har taget et billede af produktet,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1097.0,
       "end": 1099.0,
       "text": " og lagt det op som en del af deres anmeldelse.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1099.0,
       "end": 1101.0,
       "text": " Så det er også en af de ting, som jeg synes, de gør rigtig, rigtig godt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1101.0,
       "end": 1104.0,
       "text": " som der faktisk ikke er særlig mange danske shops, der gør.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1104.0,
       "end": 1107.0,
       "text": " Så har vi lige, vi har en udfordring med leveringen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1107.0,
       "end": 1109.0,
       "text": " og udfordringen er, at de er faktisk ret hurtige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1109.0,
       "end": 1112.0,
       "text": " Fordi hvis du kan huske tilbage på Wish.com,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1112.0,
       "end": 1116.0,
       "text": " som jo er en fed historie, fordi det var også en af de største annoncerer på meta tilbage i 2017,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1116.0,
       "end": 1118.0,
       "text": " 18 stykker, så blev de faktisk børsnoteret,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1118.0,
       "end": 1121.0,
       "text": " og siden da faldt de 99,1 eller andet på børsen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1121.0,
       "end": 1124.0,
       "text": " og blev for nylig afnoteret til under 1% af deres oprindelige værdi,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1124.0,
       "end": 1126.0,
       "text": " så Wish krakkede fuldstændig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1126.0,
       "end": 1129.0,
       "text": " Og en lang historie kort omkring, hvorfor Wish gjorde det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1129.0,
       "end": 1131.0,
       "text": " det findes der nogle mega gode artikler om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1131.0,
       "end": 1133.0,
       "text": " Det var, at hele virksomheden var grundlæggende bygget op på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1133.0,
       "end": 1136.0,
       "text": " at de ville tage penge på første ordre, og så skulle de vende dem igen på anden ordre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1136.0,
       "end": 1139.0,
       "text": " Men folk, altså, det man fik købt fra Wish, det var sådan noget lort,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1139.0,
       "end": 1142.0,
       "text": " at folk, de lavede aldrig anden bestilling.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1142.0,
       "end": 1145.0,
       "text": " Altså, jeg har selv bestillet for ting fra Wish for mange år siden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1145.0,
       "end": 1148.0,
       "text": " og det tog tre uger at komme frem, og det var sgu nok det forkerte, du fik,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1148.0,
       "end": 1151.0,
       "text": " og der mandlede et del af det, og det var virkelig, virkelig, virkelig shabby.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1151.0,
       "end": 1153.0,
       "text": " Det var faktisk et meme. Altså, det er et meme-template.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1153.0,
       "end": 1157.0,
       "text": " What I ordered versus what I got on Wish.com er et meme-template,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1157.0,
       "end": 1159.0,
       "text": " som man kan bruge til alle mulige ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1159.0,
       "end": 1162.0,
       "text": " Så Wish havde lidt samme forretningsmodel som Teemu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1162.0,
       "end": 1165.0,
       "text": " De var villige til at tage penge på første ordre, men tjene den igen på anden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1165.0,
       "end": 1168.0,
       "text": " Men hvis man gik på TrustPearl dengang, og bare...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1168.0,
       "end": 1172.0,
       "text": " Folk, de var rasende. Det tog lang tid, det blev fortolket, det var et lorteprodukt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1202.0,
       "end": 1217.6,
       "text": " Hvis man går på TrustPearl med Teemu, så er det sådan en u-curve, hvor halvdelen af deres anvendelser, de er fandme 5-stjernede, fordi de har lager i bl.a. Sverige for mange af deres populære produkter, så der er faktisk mange ting fra Teemu, du får inden for 2-3 dage, og der er ikke 12 på, og det er faktisk ret godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1217.6,
       "end": 1242.4,
       "text": " Altså, vi har nogle kunder, der bestiller produkter fra Kina, hvor de er udfordret af, at deres producenter i Kina sælger produktet på Teemu. Ikke et lignende produkt, det produkt, altså produktet, som de sælger til vores kunder, og så kan du købe det samme produkt, ikke en dårlig kopi, som de har mange af i øvrigt, men i nogle tilfælde er det vidderligt det samme produkt, du kan købe til en femtedel af prisen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1242.72,
       "end": 1266.4,
       "text": " Og man kan sige, lige der spekulerer jeg altså også på, har man en fremtid som dansk e-handel ved at købe random produkter fra Kina og marke dem op med 5-10 gange, altså det har man kunnet i mange år, og det har virket, og alt er godt, men ligger der en reelt forretningsmodel i at gøre det, når kineserne begynder at sælge direkte direct to consumer via sådan nogle platformer som Teemu, det kan man godt spekulere på, om der måske ikke gør, og vi kommer lidt ind på senere, hvordan man rent faktisk kan beskytte sig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1266.4,
       "end": 1286.4,
       "text": " Men det er sådan en ting, jeg synes, der er ret vildt, det er, at Teemu er faktisk dygtige, det er kort levering, der er ingen tol, og det er faktisk nogle i mange tilfælde gode produkter, så på den måde er det her en meget værre udfordring end Wish fx nogensinde var, fordi der købte folk ikke igen, det gør folk altså her, der køber de igen, bortset fra dig, du har selvfølgelig ikke købt igen, vel?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1286.4,
       "end": 1290.4,
       "text": " Så sagde du, at du havde handlet på Wish, for der har jeg da trods alt aldrig handlet. Nå?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1290.4,
       "end": 1303.4,
       "text": " Ja, der har jeg da aldrig handlet på Wish, for jeg har faktisk mig selv da dag købt, jeg købte min lillebror, som jo også har arbejdet med digital marketing i mange år, vi spillede fodbold for fem-seks år siden sammen, og han var glad for Kylian Mbappé.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1303.4,
       "end": 1304.4,
       "text": " Ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1304.4,
       "end": 1329.4,
       "text": " Ja, dygtig dreng. Og så gik jeg på Wish til Maldes fødselsdag, og så købte jeg sådan en Kylian Mbappé fodboldtrøje i sådan en tight stretch, hvor det bare var et kæmpestort ansigt af Kylian, man bevæger sådan en full-size print med bare ansigtet af Kylian Mbappé, og så købte jeg den i Statsmedien, så den ser altså helt enormt tæt, så det var sådan en blanding mellem en gave, hvor man kan se, at man kender hinanden ret godt, men det er også lidt en prank,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1329.4,
       "end": 1341.4,
       "text": " men han har faktisk spillet i den der Kylian Mbappé-trøje, og den kan for alle sager sige, at man måske skal løse ud, fordi den sidder så tæt. Men det var sådan et godt eksempel på et produkt, man kunne købe derinde, som da jo helt sikkert ikke var en nogen form for copyright og alle mulige...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1341.4,
       "end": 1359.4,
       "text": " Men ja, det prøvede jeg, men det tog tre uger før det kom frem, og det var i altså forfærdelig kvalitet, og jeg er sikker på, hvis du tændte en sindstik på den, så ville det være en brændfald af dimensioner, og den har sikkert udlægt 8 tons kemikalier i nærliggende flåde for at kunne blive produceret, og alle mulige andre ting, så det er da ikke et køb, jeg er stolt af, men det var billigt, det var rigtig billigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1359.4,
       "end": 1379.4,
       "text": " Du nævner det faktisk selv der, og det er jo også det, du siger før, at leveringstiden var lang, og jeg er helt sikker på, at det har været en af de helt store årsager til, at Wishik fik mere succes, end hvad de gjorde dengang, fordi barrieren simpelthen blev for høj, den leveringstid der, den er træls.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1379.4,
       "end": 1407.4,
       "text": " Og som du siger, så er Teemu jo begyndt at strategisk placere nogle lager her i Europa med de varer, de nogle gange sælger allermest af, fordi så kan de jo ligge og skyde dem afsted inden for rimelig kort tid. Og det gør jo også, at man som forhandler i, du kalder det forhandler, afhængig af om man køber det hjemme og sætter sit eget logo på de her produkter, men du nævner det selv, er det nok bare at have produkter hjemme fra Kina og sælge dem videre i Danmark?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1407.4,
       "end": 1430.4,
       "text": " Forhandlerne her i Danmark og resten af Europa er jo et mellemlede, og skal man det her mellemlede fra, som jo er ved at ske nu, jamen hvad er det så for en real værdi, man tilfører som dansk forhandler? Og det er jo noget af det, vi skal prøve at dykke ned i. Hvordan er det egentlig, man adskiller sig og differencierer sig fra Teemu i forhold til andre punkter end bare pris og leveringstid nu også?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1430.4,
       "end": 1457.4,
       "text": " Lad os tage det, fordi Teemu har jo også nogle svagheder. Vi har snakket om, hvor Teemu er gode. De har rigtig mange penge, de er faktisk ret gode til deres anmeldelser, de er gode til deres billeder, som regel kortlevering. Hvor er de rent faktisk svage? Skal vi bare ligge os ned og dø? Teemu er svage på nogle ting. De har nogen gange lang levering. Hvis man bestiller produkter, som ikke er blandt de populære, som de for eksempel laver og fører i Sverige, nogle gange har de rent faktisk lang levering, og de kan ikke love kortlevering på altid. Danske webshops skal kunne love kortlevering.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1457.4,
       "end": 1481.4,
       "text": " Hvis en dansk webshop sender med fem dage til levering, så kan man sgu ligeså godt købe på Teemu, så der er man bare ikke konkurrencedygtig længere. Der er også noget 12. Teemu har ikke 12 på alle varer, men hvis man går ind på deres trustpile, der læser, så er der folk, der får en ubehagelig overraskelse fra PostNord, når de får deres pakke fra Teemu. Og det er også en USP, som jeg tror, man skal kommunikere til en dansk webshop. Vi er danske, vi ligger i Danmark, vi sender fra Danmark. Du bliver aldrig fortålet, den har vi allerede betalt for dig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1482.4,
       "end": 1497.4,
       "text": " Ingen lokal support, tænker jeg, er en rigtig vigtig USP her, fordi en af de ting, vi ved, at Teemu aldrig, aldrig, aldrig kommer til at gøre, det er at ansætte danskere til at lave support. Så deres support er ret god i den forstand, at du kan skrive hvad som helst, og så får du bare dine penge igen, og på den måde, så er det nemmere at have med at gøre, men de kommer aldrig til at levere reelt dansk support.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1497.4,
       "end": 1512.4,
       "text": " Jeg hjælper en af Danmarks største webshops inden for kæledyr, og de overvejer, om de skal fuldstændig ansætte en dansk supporter, som står til rådighed med telefon 9-17, og det har de ikke gjort tidligere, fordi det er også ret dyrt, og har folk overhovedet brug for det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1512.4,
       "end": 1524.4,
       "text": " Men som en eller anden form for differentiering mod Teemu, hvis de skal se på, hvad kan vi gøre, som Teemu aldrig kommer til at gøre, du kan faktisk ringe til Jeanette, og hun kan hjælpe dig med at finde det rigtige produkt, og guide dig med din hund, og hun elsker hunden, og alle sådan nogle ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1524.4,
       "end": 1537.4,
       "text": " Det er ikke det billigste, I kan gøre, men jeg synes, det er rigtig, rigtig godt tænkt, faktisk, fordi det kommer Teemu aldrig nogensinde til at gøre. Og så er der jo noget, du nævnte kort før, altså hvorfor er det, at du ikke kunne tænke dig at fx købe elektronik eller hovedpleje fra Teemu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1538.4,
       "end": 1560.4,
       "text": " Jamen lige præcis, der er jo hele issuet, som er kæmpestort jo, og som medierne også har taget op med, de ulovlige produkter, ulovligt forstået på den måde, at de ikke har de godkendelsescertifikater, har ikke været igennem de tests, som produkter nu engang skal igennem, før de må sælges i både EU og især også i Danmark, hvor vi har nogle ret strenge krav, hvilket jo er super godt for forbrugerne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1560.4,
       "end": 1585.4,
       "text": " Problemet er bare, at vi som forbrugere generelt ikke er særlig godt oplyste omkring, hvad er det egentlig for nogle tests og certifikater, produkter bør have? Og det er et issue, og jeg hørte det faktisk i sidste uge fra en, det her det var så godt nok en bekendt, der havde siddet og undersøgt, det var nogle hundesænge, ja igen med hunde, men hundesænge, de her donutsænge, de populære donutsænge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1586.4,
       "end": 1594.4,
       "text": " Og sagde, jamen altså jeg tjekkede bare lige på Timo, der var de jo noget billigere, så jeg tænkte bare, de skal jo bare handle der, det er jo det samme. Og han siger, prøv lige at vente lidt, nu siger du, det er det samme, er det jo det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1594.4,
       "end": 1595.4,
       "text": " Men er det det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1595.4,
       "end": 1603.4,
       "text": " Jamen er det reelt set det? Ved du, hvad der er i den her donut? Ved du, om det har været igennem de tests? Nu ved jeg ikke, hvilke tests de her, de skal igennem, for at kunne blive godkendt til at blive solgt i EU.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1603.4,
       "end": 1609.4,
       "text": " Nej, men det ville da være fedt, hvis den ikke læggede et eller andet i kemikalier, fordi den havde fået en overfladebehandling, når hunden så rent faktisk ligger sig i den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1609.4,
       "end": 1636.4,
       "text": " Lige præcis, eller hvis hunden får et eller andet ind i munden, fordi den er blevet revet i stykker, eller hvad ved jeg? Men det er jo det samme, der ligesom slog mig at sige, hold op, jeg tror at brands og forhandlere og virksomheder i Danmark generelt skal være bedre til at informere og uddanne kunderne i, hvad er det egentlig inden for deres respektive nischer og områder, hvad er det der er rigtig vigtigt, at produkterne lever op til?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1636.4,
       "end": 1645.4,
       "text": " Fordi det er jo de krav, som Teemu ikke lever op til i høj grad. Det er jo det, vi ser, når vi tester. Blandt andet det her børnelejr, som man har været ude at teste, hvor nu må du rette mig, hvis...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1645.4,
       "end": 1657.4,
       "text": " Hold da op, lad mig fortælle dig om den der, fordi det er et rigtig godt eksempel. Nu har du jo ikke børn, Sinu. Du lever et nemt liv, hvor du tager ned og træner om morgenen, og så tager du på kontoret, og så går du i biografen hver aften og i byen, og altså hold kæft, mand.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1657.4,
       "end": 1667.4,
       "text": " Jeg har tre børn, så jeg gør ingen af de ting, og vores børn leger med legetøj, ligesom alle andre gør, og lad mig lige prøve at quote dig en nyhed fra Dansk Evakuation fra februar i 2024.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1667.4,
       "end": 1674.4,
       "text": " Parply-organisationen for den europæiske legetøjsindustri, TIE, har fået undersøgt 19 stykker legetøj købt på online-platformen Teemu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1674.4,
       "end": 1688.4,
       "text": " Ingen af produkterne overholdt europæisk lovgivning, og 18 ud af 19 var decideret farlige for børn at lege med. Altså farlige, hvor der er ting, der kan gå i stykker, og kvælningsfare og alle mulige ting.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1688.4,
       "end": 1693.4,
       "text": " Der står, at risici inkluderer at skære sig, kvælning, strangulering, punktering og farlig kemi.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1693.4,
       "end": 1703.4,
       "text": " For eksempel kan en ranglig med regnbuebånd udgøre indtil flere sikkerhedsrisici, bl.a. skarpe kanter på metalbjæller, børn kan skære sig på, små dele, der kan slues og blokere luftveje.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1703.4,
       "end": 1707.4,
       "text": " 18 ud af 19 stykker legetøj var i øvrigt ikke udstillet med kontaktinformationer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1707.4,
       "end": 1718.4,
       "text": " Altså, hvis man læser det der, at i øvrigt kan lide sine børn, nok ser man ikke ønske, at de bliver kvalt. Hvordan ville man så nogensinde kunne købe legetøj på Teemu i efterfølgende?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1718.4,
       "end": 1732.4,
       "text": " Udfordringen er, at der ligger en ret stor opgave for dansk e-handel i, at man skal oplyse, hvad det er for nogle krav, vi lever op til, som alle andre ikke lever op til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1732.4,
       "end": 1741.4,
       "text": " Og den opgave er svær, fordi den er dyr og kræver tid, og det er ikke bottom front performance marketing i en search ads annonce.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1742.4,
       "end": 1748.4,
       "text": " Jeg tror, at hvis jeg solgte legetøj, så ville jeg skrive i min search ads på Google, at vores legetøj er sikkerhedsgodkendt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1748.4,
       "end": 1757.4,
       "text": " Der er ikke kvælningsfarer på vores legetøj, fordi det, man ikke kan gøre, det er, at du ikke kan skrive, at dit barn bliver kvalt, hvis du køber ved Teemu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1757.4,
       "end": 1765.4,
       "text": " Det er lov om sammenligning i reklamen, og det er meget, meget strikse krav for, og så vil man helt sikkert få fingrene i maskinen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1765.4,
       "end": 1773.4,
       "text": " Men man må godt fremhæve ting om sig selv, der er korrekt. Man kan som legetøjspolitik ikke skrive, at dit barn dør, hvis du køber legetøj ved Teemu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1773.4,
       "end": 1780.4,
       "text": " Det, du godt kan skrive, det er, at hvis du køber legetøj ved os, så kan du i hvert fald være sikker på, at alle vores legetøj er kemigodkendt, sikkerhedsgodkendt, EU-godkendt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1780.4,
       "end": 1784.4,
       "text": " det har en CERC-statistik, alle de der ting, det skal have for at få lov til at blive solgt her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1784.4,
       "end": 1793.4,
       "text": " Og der ligger en rigtig, rigtig stor opløsningsopgave for danske shops her, og man kan godt argumentere for, at det her ikke burde være opgaven for den enkelte shop rent faktisk at håndtere det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1793.4,
       "end": 1801.4,
       "text": " Altså er det her ikke noget, som Dansk Erhverv, som jo i dag har foreningen for dansk internethandel, er det ikke noget, de burde løse, eller nogle andre?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1801.4,
       "end": 1809.4,
       "text": " Fordi det kan også være svært som enkelt shop at sige, at jeg påtager mig opgaven at opløse alle i Danmark om farlig kemi for børn, hvis de køber legetøj ved Teemu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1809.4,
       "end": 1817.4,
       "text": " Det er en meget stor opgave, og de fleste shops skal jo fokusere på deres egen drift, rent faktisk at sælge, betale deres ansatte, løn og alle mulige andre ting, så det er fandme også svært at gøre det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1817.4,
       "end": 1822.4,
       "text": " Men der er behov for at lave den her opløsning, og medierne bidrager til det lige nu ved at sørge for selvtid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1822.4,
       "end": 1831.4,
       "text": " Og der er fokus på det, men jeg tror ikke, der er nok fokus på det, og jeg tror den enkelte shop har også et ansvar, både i deres Google-apps-kampagne, i deres Facebook-kampagne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1831.4,
       "end": 1839.4,
       "text": " det kan være, at når du går ind på siden, så er der en tophjælpe, hvor der står, at alt vores legetøj har ingen kvælningsfarer, vær sikker på det, når du køber ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 1839.4,
       "end": 1850.4,
       "text": " Det man simpelthen er nødt til udfordring er, at det er oplagt, hvis man sælger legetøj, men hvad hvis du sælger et iPhone-cover, som jo ikke er ment til at blive spist,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1850.4,
       "end": 1856.4,
       "text": " og måske ikke har samme kvælningsfarer, kan du så stedet slå på det? Altså der er nogle produkter, hvor den her også er nemmere end andre, må man sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1856.4,
       "end": 1860.4,
       "text": " Helt enkelt, ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1860.4,
       "end": 1868.4,
       "text": " Så hvad skal dansk e-handel gøre lige nu? Du har arbejdet med rigtig mange webstores, hvad vil du anbefale dem at kigge ind i?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1868.4,
       "end": 1879.4,
       "text": " Jamen, og det lyder måske mærkeligt, men nu har vi jo siddet og roset temaet så meget, at vi jo også godt kan tage nogle eksempler derovre fra og forsøge at implementere ude hos kunderne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1879.4,
       "end": 1887.4,
       "text": " Så for eksempel, når man kigger på produktsiderne, og det er en ret stor opmeldning fra mange e-commerce, så vi plejer at sige, tag de 10-20 bedst solgte produkter, og så lad os prøve at se her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1887.4,
       "end": 1897.4,
       "text": " vi har den her checkliste med ting. Har I nu produktbilleder? Har I produktbilleder, hvor produktet bliver vist, hvordan det bruges inden action lifestyle images med USB'er osv.?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1897.4,
       "end": 1904.4,
       "text": " Altså alle de her ting, vi lige har siddet og snakket om, at Teemu er så dygtig til, det bliver vi også nødt til at få implementeret, fordi kan vi hæve konverteringsretten,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1904.4,
       "end": 1915.4,
       "text": " kan vi trods alt offset den her CPC-stigning en anelse. Det er den ene ting. Den anden ting, det er altså at kigge på, jamen tidligere har vi jo været meget begundt steder at kunne få trafik ind via Google,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1915.4,
       "end": 1924.4,
       "text": " og så konvertere det. Er det også tilfældet i dag? Ja, det er jo svært at sige. Hvordan får vi dem ind på vores e-mail liste, så vi rent faktisk kan informere kunderne?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1924.4,
       "end": 1932.4,
       "text": " Apropos det, vi lige har siddet og snakket om, så vores produkter, de er certificerede, de er godkendte med videre, altså den her storytelling og informationskampagne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1932.4,
       "end": 1942.4,
       "text": " som jeg bare tror bliver nødvendigt. Jeg tror, det bliver et USP for virksomheder i Danmark at skulle have på, ligesom hurtig levering og 365-dages returret, så er det også godkendte produkter.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1942.4,
       "end": 1949.4,
       "text": " Jeg tror simpelthen, det bliver en decideret USP, og så tror jeg generelt, at man skal forsøge at kigge lidt andre veje.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1949.4,
       "end": 1956.4,
       "text": " Altså nu, Google er jo der, hvor vi især har ramt lige nu af Teemu, men hvilke andre kanaler er det egentlig, der findes?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1956.4,
       "end": 1966.4,
       "text": " Nu var jeg kort inde på e-mail før, sms er et andet godt eksempel. Liveshopping er enormt interessant, apropos den her barriere, der er med troværdighed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1966.4,
       "end": 1977.4,
       "text": " hvor at når du stiller dig op på en liveshopping, som danskere står og fortæller omkring, de varer, du nu engang sælger, og kan vise den her ekspertise, du som forretning og du som individ har,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1978.4,
       "end": 1986.4,
       "text": " jamen det er jo noget helt, det kommer Teemu aldrig til at kunne gøre, og det er nogle af de ting, som vi ligger og dykker ned i og kigger på og siger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1986.4,
       "end": 1995.4,
       "text": " okay, vi har den her udfordring, hvad gør vi, hvordan kan vi sprede os yderligere ud, fordi de er kommet for at blive, det må vi se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1995.4,
       "end": 2006.4,
       "text": " og det er jo ikke den enkelte e-handlers opgave, og hvad skal man sige, der er nogle politikere, der må tage fat her i forhold til de reglementer, de nu engang bryder og ikke bryder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2006.4,
       "end": 2014.4,
       "text": " men vi står overfor den her udfordring, så hvad er det, vi kan gøre, hvor er det, vi kan finde vores vej igennem den her djungle af udfordringer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2014.4,
       "end": 2023.4,
       "text": " og især e-mail, sms og liveshopping er noget af det, vi kigger ind i, meta også, men som du jo også, vi sad lige og snakkede kort sammen her, inden vi startede optagelsen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2023.4,
       "end": 2028.4,
       "text": " vi kan jo også godt mærke derovre på meta, altså priserne stiger jo også derovre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2028.4,
       "end": 2035.4,
       "text": " De gør det ikke på samme måde som i Google Ads, fordi man kan se på Google Ads, der har vi en søgning efter et produkt, hvor Teemu går ind og byder direkte ind på det pågældende produkt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2035.4,
       "end": 2038.4,
       "text": " og så stiger prisen der, men det stiger ikke for alle de produkter, hvor Teemu ikke byder ind.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2038.4,
       "end": 2046.4,
       "text": " Hvor man kan se på Facebook, der er det mere et prisstil, der bliver absorberet i samtlige auktioner, de rent faktisk byder ind på, så man mærker det ikke ens og en på samme måde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2046.4,
       "end": 2052.4,
       "text": " men det sagt så er Teemu en gigantisk annonsør på det danske marked også. Hvis man går ind og tager Teemu Danmark på Facebook Ads Library,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2052.4,
       "end": 2056.4,
       "text": " så ser det bare over 750 aktive annoncer, fordi den kan simpelthen ikke tilslære.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2056.4,
       "end": 2061.4,
       "text": " Den viser ikke flere, der er ikke plads til flere, men der er over 750 aktive annoncer lige nu i Danmark.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2061.4,
       "end": 2065.4,
       "text": " Jeg ved ikke hvor mange de har, men det er rigtig mange, og Teemu er begyndt at lave annoncer på dansk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2065.4,
       "end": 2072.4,
       "text": " Jeg blev selv eksponeret for en her den anden dag, og jeg har faktisk et link, jeg kommer til at lægge show notes med en reel fra Teemu Danmark,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2072.4,
       "end": 2079.4,
       "text": " hvor de har sådan en 30 sekunders video om, at hvis du opretter appen, eller downloader appen, opretter en bruger og køber produkt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2079.4,
       "end": 2083.4,
       "text": " så får du gratis en boremaskine med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2083.4,
       "end": 2089.4,
       "text": " Og den er på dansk, men det er AI, det kan du meget tydeligt høre, det er sådan en halvdårlig AI,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2089.4,
       "end": 2093.4,
       "text": " men det er sådan en lille instruktionsvideo, hvor der er sådan en person, der borer i alt muligt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2093.4,
       "end": 2096.4,
       "text": " og den siger, at det er godt batterier, den holder hele dagen, osv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2096.4,
       "end": 2100.4,
       "text": " Men det er bare, køb et eller andet blandt andet lort, så får du sgu lige en boremaskine med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2100.4,
       "end": 2102.4,
       "text": " Det fortæller også noget om, hvor mange penge de har.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2102.4,
       "end": 2105.4,
       "text": " Og den nævner også en anden ting lige før, der er lidt værre lige at nævne,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2105.4,
       "end": 2108.4,
       "text": " altså kan Teemu egentlig blive ved med at gøre det her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2108.4,
       "end": 2113.4,
       "text": " Udfordringen med Teemu, det er jo den kinesiske virksomhed, der hedder Pinduoduo,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2113.4,
       "end": 2116.4,
       "text": " som blev kæmpestor under corona, fordi det startede sammen med udbringning af fødevarer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2116.4,
       "end": 2119.4,
       "text": " og lige pludselig så blev hele Kina jo lukket ind og skulle bestille fødevarer på nettet osv.,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2119.4,
       "end": 2122.4,
       "text": " så de fik et windfall, de blev enormt store på ingen tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2122.4,
       "end": 2127.4,
       "text": " Udfordringen med Pinduoduo, det er, at de tjener så mange milliarder kroner i det kinesiske marked.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2127.4,
       "end": 2132.4,
       "text": " Altså, Wish tjente ikke penge på andre ting, så de var afhængige af at få penge ind, de kunne bruge,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2132.4,
       "end": 2134.4,
       "text": " og så skulle de altså lave en god business case på det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2134.4,
       "end": 2136.4,
       "text": " Teemu tjener penge.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2136.4,
       "end": 2139.4,
       "text": " De tjener ikke penge i Europa, men de tjener flere penge i Kina, end de taber i Europa,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2139.4,
       "end": 2141.4,
       "text": " og det er også det, der er udfordringen ved Teemu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2141.4,
       "end": 2143.4,
       "text": " De kan blive ved meget længere tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2143.4,
       "end": 2145.4,
       "text": " Der er et fantastisk investeringscitat, der hedder",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2145.4,
       "end": 2148.4,
       "text": " The markets can stay irrational longer than you can stay solvent,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2148.4,
       "end": 2150.4,
       "text": " som handler om, at det kan godt være, at du har fundet en investering,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2150.4,
       "end": 2152.4,
       "text": " hvor du siger, den her den skal op, eller den skal ned,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2152.4,
       "end": 2156.4,
       "text": " men markeden kan være irrationel længere tid, end du kan vente på, at det rent faktisk retter sig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2156.4,
       "end": 2161.4,
       "text": " Og det er lidt det samme med Teemu, fordi de er jo nødt til at tjene penge på deres forretning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2161.4,
       "end": 2164.4,
       "text": " de kan ikke tabe 10 milliarder om året, eller hvad de gør, ubegrænset,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2164.4,
       "end": 2167.4,
       "text": " men de kan faktisk gøre det, fordi de tjener 12 milliarder et andet sted,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2167.4,
       "end": 2170.4,
       "text": " eller 20 milliarder, altså der er faktisk en udfordring her med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2170.4,
       "end": 2172.4,
       "text": " at Teemu er som udgangspunkt en profitabel forretning,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2172.4,
       "end": 2174.4,
       "text": " og det tjener flere penge, end det taber.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2174.4,
       "end": 2176.4,
       "text": " Og det er også derfor, når der er nogen, altså jeg har snakket med et dansket websystem,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2176.4,
       "end": 2179.4,
       "text": " der siger, det kan ikke blive ved, og vi skal bare lige vente, til de forsvinder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2179.4,
       "end": 2182.4,
       "text": " Det tror jeg, er wishful thinking, og det er en lille smule naivt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2182.4,
       "end": 2184.4,
       "text": " fordi Teemu tjener flere penge, end det taber.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2184.4,
       "end": 2187.4,
       "text": " Så vi kan ikke stole på, at de bare forsvinder af sig selv.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2187.4,
       "end": 2189.4,
       "text": " Ultimativt, så skal Teemu jo ændre sine penge på forretningen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2189.4,
       "end": 2193.4,
       "text": " men når jeg ser på, hvor stor en genpøbsret, de har, og deres trustpile-anmeldelser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2193.4,
       "end": 2196.4,
       "text": " hvor folk siger, at jeg har bestilt 21 gange, og alle regner kommer til siden,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2196.4,
       "end": 2200.4,
       "text": " så kan jeg godt være bange for, at de ikke forsvinder igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2200.4,
       "end": 2202.4,
       "text": " Altså, så jeg tror ikke, at man kan læne sig tilbage og sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2202.4,
       "end": 2205.4,
       "text": " at de taber så mange penge, så de er nødt til at rette sig selv op på et eller andet tidspunkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2205.4,
       "end": 2209.4,
       "text": " Det er naivt. Teemu kan tage penge længere tid, end en gængs dansk virksomhed kan gøre det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2209.4,
       "end": 2211.4,
       "text": " så det kan simpelthen ikke være ens strategi.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2211.4,
       "end": 2213.4,
       "text": " Så meget enig i alle dine punkter.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2213.4,
       "end": 2217.4,
       "text": " Det var bare lige for at lægge en note til, at man faktisk ikke kan wait it out.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2217.4,
       "end": 2220.4,
       "text": " En enkelt ting, jeg lige vil nævne, det er, at jeg synes også,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2220.4,
       "end": 2223.4,
       "text": " at det ultimative værd er måske brand og positionering.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2223.4,
       "end": 2226.4,
       "text": " Jeg har et eksempel fra min egen købsredfærd,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2226.4,
       "end": 2229.4,
       "text": " mit HDMI-stik på vores overhuskontor drillede her den anden dag,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2229.4,
       "end": 2231.4,
       "text": " så jeg kunne ikke sætte min skærm til. Det var skide irriterende.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2231.4,
       "end": 2234.4,
       "text": " Jeg kan godt købe et virkelig billigt HDMI-stik på Teemu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2234.4,
       "end": 2238.4,
       "text": " men der er leveringsdagen for i dag om 2, 3, 4, 5 dage.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2238.4,
       "end": 2240.4,
       "text": " Det er jo nu, at min skærm ikke virker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2240.4,
       "end": 2242.4,
       "text": " Jeg kunne godt gå ned i Elgiganten, men det var slut på dagen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2242.4,
       "end": 2243.4,
       "text": " Det gad jeg alligevel ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2243.4,
       "end": 2244.4,
       "text": " Det endte med at gøre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2244.4,
       "end": 2247.4,
       "text": " Det var, at jeg gik ind på Broshop og købte mit HDMI-stik,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2247.4,
       "end": 2249.4,
       "text": " fordi jeg har købt med dem før, og jeg ved,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2249.4,
       "end": 2251.4,
       "text": " at hvis jeg køber kl. 19, så sender de kl. 22.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2251.4,
       "end": 2254.4,
       "text": " Jeg ved ikke, hvad det er, de har i deres logistik-setup,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2254.4,
       "end": 2255.4,
       "text": " men det er sindssygt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2255.4,
       "end": 2257.4,
       "text": " Og så har jeg købt det slut på dagen, de sendte samme dag.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2257.4,
       "end": 2260.4,
       "text": " Jeg havde det dagen efter, da jeg mødte dem på kontoret.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2260.4,
       "end": 2263.4,
       "text": " Og det er, fordi jeg har haft gode oplevelser derinde før,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2263.4,
       "end": 2266.4,
       "text": " og de har positioneret sig ved, at de har latterligt hurtige afsendelser.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2266.4,
       "end": 2268.4,
       "text": " AV-kabler skal gøre noget i samme stil.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2268.4,
       "end": 2270.4,
       "text": " Det er der mange, der virkelig gør.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2270.4,
       "end": 2272.4,
       "text": " Men jeg ved, at de har latterligt hurtige afsendelser.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2272.4,
       "end": 2275.4,
       "text": " Så jeg endte med at købe det der, fordi jeg vidste bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2275.4,
       "end": 2277.4,
       "text": " at jeg havde brug for det nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2277.4,
       "end": 2279.4,
       "text": " Det var faktisk måske AV-kabler, som jeg købte derinde for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2279.4,
       "end": 2280.4,
       "text": " men Broshop gør det samme.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2280.4,
       "end": 2282.4,
       "text": " Jeg ved bare, at det er to af de danske virksomheder,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2282.4,
       "end": 2283.4,
       "text": " hvor jeg ved, uanset hvornår de bestiller,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2283.4,
       "end": 2284.4,
       "text": " at de sender det med det samme.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2284.4,
       "end": 2286.4,
       "text": " Og der har de lykkes med at positionere sig",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2286.4,
       "end": 2288.4,
       "text": " ved en god oplevelse tidligere via en arrangement,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2288.4,
       "end": 2290.4,
       "text": " hvor jeg ved, at det er en af deres primære USB'er.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2290.4,
       "end": 2294.4,
       "text": " Så jeg kunne godt have sparet 100 kroner ved at købe det til Cemu,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2294.4,
       "end": 2297.4,
       "text": " men jeg fik stadig 55 dage på at gå og bruge min skærm igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2297.4,
       "end": 2300.4,
       "text": " Og jeg ved ikke, om det er to dage eller 20 dage, så det gjorde jeg ikke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2300.4,
       "end": 2302.4,
       "text": " Så man kan godt slå igen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2302.4,
       "end": 2304.4,
       "text": " Det er bare svært.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2304.4,
       "end": 2305.4,
       "text": " Det er svært.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2308.4,
       "end": 2310.4,
       "text": " En lille hurtig note, det er emnet Næstegang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2310.4,
       "end": 2312.4,
       "text": " Det kommer til at handle om Performance Max.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2313.4,
       "end": 2316.4,
       "text": " Og vi har givet lidt titlen, er det en ven eller en fjende?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2316.4,
       "end": 2318.4,
       "text": " Fordi Performance Max har jo været...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2318.4,
       "end": 2321.4,
       "text": " Altså, det har på ingen tid gået ind og taget helt enormt meget spændende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2321.4,
       "end": 2324.4,
       "text": " Jeg tror, vi bruger flere penge på Performance Max-kampagnen end noget andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2325.4,
       "end": 2328.4,
       "text": " Hvad tænker du, den lille, sidste sekunde af episodeen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2328.4,
       "end": 2331.4,
       "text": " er Performance Max gaven til annoncøren,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2331.4,
       "end": 2333.4,
       "text": " eller er det gaven til Google?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2336.4,
       "end": 2340.4,
       "text": " Jeg tror, man skal glæde sig til det der afsnit,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2340.4,
       "end": 2344.4,
       "text": " fordi det er absolut ikke, fordi vi kommer til at stryge Google med hårene,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2344.4,
       "end": 2347.4,
       "text": " som jo forsøger virkelig at pushe det her Performance Max.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2347.4,
       "end": 2350.4,
       "text": " Så vi har nogle klare holdninger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2350.4,
       "end": 2352.4,
       "text": " og vi ser jo en masse ting nede i vores konti,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2352.4,
       "end": 2354.4,
       "text": " og det glæder vi os til at dele med jer.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2355.4,
       "end": 2357.4,
       "text": " Vi kan bl.a. fortælle, hvorfor Google,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2357.4,
       "end": 2359.4,
       "text": " eller undskyld, optil den digitale Google Ads-account,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2359.4,
       "end": 2361.4,
       "text": " nu kører 0% Performance Max fra,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2361.4,
       "end": 2362.4,
       "text": " har kørt 80% tidligere,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2362.4,
       "end": 2364.4,
       "text": " og en case med en af de kunder, jeg er ansvarlig for,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2364.4,
       "end": 2368.4,
       "text": " hvor vi har fordoblet deres reelle afkast ved at gå helt væk fra Performance Max.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2368.4,
       "end": 2370.4,
       "text": " Så det glæder jeg mig til at fortælle mere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2370.4,
       "end": 2372.4,
       "text": " Tusind tak, fordi du er blevet med til dagens episode.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 2372.4,
       "end": 2374.4,
       "text": " Tusind tak.",
-      "speaker": "B"
+      "speaker": "Christian"
     }
   ]
 }

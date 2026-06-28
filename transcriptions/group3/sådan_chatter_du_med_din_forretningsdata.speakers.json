@@ -9,1109 +9,1113 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 10.0,
       "text": " Christian, du har lagt op til en superspændende episode om, hvordan man skal chatte ved hjælp af AI med ens data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 16.0,
       "text": " Og du har skrevet i dine noter, hvem kender ikke det at vågne kl. 1.30 om natten og tænke videre om der er en sammenhæng mellem X og Y.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 17.0,
       "text": " Har du sovet godt i nat?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 17.0,
       "end": 22.0,
       "text": " Ja, indtil klokken blev det alle to. Det er faktisk ikke løgn. Helt ærligt, det er faktisk ikke løgn.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 22.0,
       "end": 26.0,
       "text": " Det er lidt skræmmende, det ved jeg godt. Jeg er okay, hvis nogen skulle tænke.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 26.0,
       "end": 29.0,
       "text": " Fordi det spørgsmål kommer ikke fra hælften, men jeg er okay.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 29.0,
       "end": 30.0,
       "text": " Det er jeg glad for.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 30.0,
       "end": 35.0,
       "text": " Altså, kender du ikke det? At stå i badet og tænke, oh shit, er der egentlig et eller andet her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 35.0,
       "end": 39.0,
       "text": " Jo, nærmere nede at træne, og så får man alle de gode idéer, fordi man har kørt fuldstændig op på pre-workout.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 39.0,
       "end": 41.0,
       "text": " Men jo, ellers noget i den samme retning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 41.0,
       "end": 45.0,
       "text": " Og der skal vi så snakke om en mulighed for rent faktisk at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 45.0,
       "end": 47.0,
       "text": " Og det synes jeg, du har lagt nogle spændende tanker op om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 50.0,
       "text": " Hvad vil det sige egentlig at chatte med ens data?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 50.0,
       "end": 54.0,
       "text": " Og hvorfor er det sådan et fedt eksempel på, hvordan AI kan bruges helt lavpraktisk?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 59.0,
       "text": " Jeg tror, de fleste kender til drømmen om at have det perfekte dashboard i sit forretning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 59.0,
       "end": 65.0,
       "text": " Det her dashboard, der kører på en stor flad skærm inde på kontoret, hvor man altid kan følge med i alle sine tal.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 65.0,
       "end": 68.0,
       "text": " Og det er for så vidt også fint, og det er mega fedt. Det kender jeg godt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 68.0,
       "end": 75.0,
       "text": " Problemet er bare, at de her dashboards typisk er sat op ud fra nogle krav, man havde, da man ligesom satte det her dashboard op.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 75.0,
       "end": 77.0,
       "text": " Og derfor er du også låst i, hvad det er, du kan se.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 77.0,
       "end": 82.0,
       "text": " Problemet er jo så, når du sidder med nogle tanker om, kan jeg vide, om der er en eller anden sammenhæng her og her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 82.0,
       "end": 88.0,
       "text": " Eller hvordan er spændtet på den her kanal versus sidste år i samme kvartal,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 88.0,
       "end": 93.0,
       "text": " men hvor vi samtidig holder antallet af solgte enheder af et eller andet produkt op imod det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 93.0,
       "end": 95.0,
       "text": " Måske et åndssvagt eksempel.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 95.0,
       "end": 102.0,
       "text": " Men det er de her spørgsmål, som man sidder og stiller sig derude, i hvert fald i for eksempel Ecoms med en større volume.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 102.0,
       "end": 105.0,
       "text": " Og de her ting kan man altså ikke bare hive ned i...",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 105.0,
       "end": 107.0,
       "text": " Eller det kan du godt, men det tager noget tid.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 107.0,
       "end": 113.0,
       "text": " Det er her, hvor det er enormt fedt at kunne chatte med AI omkring store datasæt, forskellige datasæt,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 113.0,
       "end": 116.0,
       "text": " og på den måde stille de her spørgsmål lige så snart de popper op,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 116.0,
       "end": 120.0,
       "text": " om det er nede i træningscenteret, eller om det er klokken halv to om natten.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 120.0,
       "end": 122.0,
       "text": " Lad os have nogle konkrete eksempler med, hvordan man kan gøre det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 126.0,
       "text": " Så det første eksempel, du har lagt op til, det er forretningskritiske tal,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 129.0,
       "text": " som omsætning spændt på kanalniveau osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 133.0,
       "text": " Hvor kunne man hente den her data, og hvad kunne man for eksempel stille spørgsmål om?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 133.0,
       "end": 139.0,
       "text": " Yes, det her er et lavpraktisk eksempel fra en case, hvor vi er i gang i flere forskellige lande.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 139.0,
       "end": 142.0,
       "text": " Og bare her, der begynder kompleksiteten i dataarbejdet at blive det større,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 142.0,
       "end": 145.0,
       "text": " fordi ofte så ser man tingene opfra eller på landeniveau.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 145.0,
       "end": 148.0,
       "text": " Men hvis man gerne vil dykke dybere ned, så tager det altså bare noget tid,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 148.0,
       "end": 150.0,
       "text": " især hvis ikke man har bygget de her dashboards dertil.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 150.0,
       "end": 154.0,
       "text": " Og det havde vi ikke i det her tilfælde. Det var nogle skæve spørgsmål, vi ligesom strøde tilbage med.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 154.0,
       "end": 160.0,
       "text": " Så det vi gjorde, det var, vi gik igen og hentede Excel'er eller CSV-filer for henholdsvis omsætning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 160.0,
       "end": 163.0,
       "text": " Og det her var på månedsbasis de sidste 4-5 år.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 163.0,
       "end": 169.0,
       "text": " Vi hentede spend ned fra meta og antallet af kliks genereret fra meta, altså metaannonseringen.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 169.0,
       "end": 173.0,
       "text": " Det samme gjorde vi for Google Ads, TikTok Ads, Snapchat, Pinterest.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 173.0,
       "end": 176.0,
       "text": " Vi hentede omsætningen ned på kategoriniveau,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 176.0,
       "end": 182.0,
       "text": " altså hvis man kigger på deres varer, så kunne man dele det op i 10 forskellige kategorier og ordne kategorier.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 182.0,
       "end": 185.0,
       "text": " Der hentede vi omsætningen ned igen på månedsbasis de sidste 4-5 år.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 185.0,
       "end": 190.0,
       "text": " Så tog vi antallet af nye kunder, vi ligesom hilste velkommen i forretningen de sidste 5 år",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 190.0,
       "end": 193.0,
       "text": " og deres antallet af returning customers.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 193.0,
       "end": 196.0,
       "text": " Og ud fra alt det her, så kunne vi så begynde at stille nogle spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 196.0,
       "end": 200.0,
       "text": " For eksempel, er der en eller anden sammenhæng her mellem antallet af solgte,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 200.0,
       "end": 204.0,
       "text": " nu var det ikke hundedonutsænge, men nu bruger jeg bare det som eksempel,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 204.0,
       "end": 209.0,
       "text": " i Q2 2025 sammenlignet med Q2 2024.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 209.0,
       "end": 213.0,
       "text": " Hvordan ser det ud i forhold til antallet af nye kunder? Er der en eller anden korrelation her?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 213.0,
       "end": 217.0,
       "text": " Og før folk med statistisk baggrund kommer efter mig og siger,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 217.0,
       "end": 219.0,
       "text": " sådan der kan du altså ikke bruge en korrelationsanalys.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 219.0,
       "end": 221.0,
       "text": " Nej, det er jeg helt med på.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 221.0,
       "end": 225.0,
       "text": " Men det at der er en eller anden form for sammenhæng og får svar på nogle af de spørgsmål,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 225.0,
       "end": 227.0,
       "text": " man måtte side med, det er faktisk ret fedt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 227.0,
       "end": 231.0,
       "text": " Og det går simpelthen så stærkt, når man sidder og chatter med AI'en.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 231.0,
       "end": 235.0,
       "text": " Og det er jo bare at uploade alle de her CSV-filer ind og så begynde at stille spørgsmålene.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 235.0,
       "end": 240.0,
       "text": " Du kan både få grafer, du kan få konkrete svar, altså på skrift fra AI'en,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 240.0,
       "end": 244.0,
       "text": " og du kan sågang også få handlingsforslag derfra, hvis du giver den lidt kontekst.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 244.0,
       "end": 247.0,
       "text": " Det synes jeg simpelthen er så fedt, og jeg har brugt det enormt meget her på det sidste.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 247.0,
       "end": 252.0,
       "text": " Og en ret fed ting, man kan gøre, det er, at den største udfordring for mange ved ChatGPT",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 256.0,
       "text": " eller Manus eller hvad man nu arbejder med, det er, at du har jo bare det her store søgeinterface.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 256.0,
       "end": 259.0,
       "text": " Du kan gøre hvad som helst, men du skal også vide, hvad du gerne vil lave.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 259.0,
       "end": 262.0,
       "text": " Så nogle gange det der med lige at vide, hvad du rent faktisk leder efter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 262.0,
       "end": 266.0,
       "text": " det er ikke sikkert, man gør det, men du ved, du har noget data, hvor der ligger noget interessant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 266.0,
       "end": 270.0,
       "text": " Så det, man kan gøre her, det er, at man kan jo faktisk godt spørge, for eksempel ChatGPT eller Manus,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 270.0,
       "end": 274.0,
       "text": " som jeg vil bruge til det her, som også gør det rigtig godt, hvad springer i øjnene på dig?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.0,
       "end": 278.0,
       "text": " Altså, når jeg uploader al den her data, hvad synes du egentlig, der er spændende at slå ned på her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 284.0,
       "text": " Og hvis man lige holder, sådan bærer agenten eller ChatGPT om at sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 284.0,
       "end": 286.0,
       "text": " jeg vil gerne øge omsætning i min forretning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 286.0,
       "end": 289.0,
       "text": " Ud fra al den her data, hvad synes du så kunne være interessant at kigge på i den forbindelse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 289.0,
       "end": 292.0,
       "text": " så du ikke gør den sådan helt bred, men du stadig har et eller andet formål med det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 292.0,
       "end": 295.0,
       "text": " Altså, jeg vil gerne øge min omsætning, jeg vil gerne sænke min omkostning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 297.0,
       "text": " jeg vil gerne mindske mine processer, hvad det nu skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 297.0,
       "end": 301.0,
       "text": " Men så faktisk, altså, lad ChatGPT finde ud af, hvad der er relevant.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 301.0,
       "end": 303.0,
       "text": " Du behøver faktisk ikke at vide præcis, hvad du leder efter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 303.0,
       "end": 305.0,
       "text": " hvis du bare har det rigtige dataset fra starten af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 305.0,
       "end": 307.0,
       "text": " Har du god erfaring med bare at komme med sådan en god bred,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 307.0,
       "end": 310.0,
       "text": " hvad ligger der af guld i det her, som jeg ikke selv har fundet frem til?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 310.0,
       "end": 313.0,
       "text": " Helt vildt, og som du selv siger, hvis først man giver den noget kontekst om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 313.0,
       "end": 316.0,
       "text": " hvor det er, man gerne vil hen, så ligger den jo bare og søger hele nettet igennem",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 316.0,
       "end": 319.0,
       "text": " og siger, hvad er de bedste metoder til fx at øge omsætningen",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 319.0,
       "end": 321.0,
       "text": " eller øge antallet af nye kunder, så begynder den at kigge på,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 321.0,
       "end": 324.0,
       "text": " hvad er det egentlig for nogle varer, der typisk korrelerer med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 324.0,
       "end": 327.0,
       "text": " at når den her kategori stiger, så stiger antallet af nye kunder også.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 327.0,
       "end": 328.0,
       "text": " Kunne der være et eller andet der?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 328.0,
       "end": 329.0,
       "text": " Og det kan godt være, at den ikke rammer rigtigt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 329.0,
       "end": 332.0,
       "text": " Den har jo trods alt kun den data, som jeg nu engang har givet den.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 332.0,
       "end": 335.0,
       "text": " Men det giver mig da noget at tænke over, og så at sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 335.0,
       "end": 338.0,
       "text": " det er jo også egentlig sjovt, når vi øger spænd på den her kanal,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 338.0,
       "end": 341.0,
       "text": " og vi sælger rigtig mange af de her varer her, så får vi også mange flere nye kunder.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 341.0,
       "end": 343.0,
       "text": " Lad mig lige prøve at dykke ned i den givende kanal,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 343.0,
       "end": 346.0,
       "text": " om vi rent faktisk kørte nogle annoncer på den her varer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 346.0,
       "end": 348.0,
       "text": " for den data har jeg trods alt ikke givet den,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 348.0,
       "end": 350.0,
       "text": " men det kunne jeg jo godt gøre, hvis jeg havde den data.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 350.0,
       "end": 355.0,
       "text": " Så det kommer faktisk mere ned til at cleane sin data og have den parat,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 355.0,
       "end": 358.0,
       "text": " for at man så netop kan chatte med AI'en omkring det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 358.0,
       "end": 361.0,
       "text": " Men i det her tilfælde, der kunne man jo få nogle indikationer om,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 361.0,
       "end": 364.0,
       "text": " hvor man skulle kigge ned hen og få nogle rigtig fede takeaways med derfra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 365.0,
       "end": 368.0,
       "text": " Lad os tage eksempel nummer to, som handler om ekstern data.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 368.0,
       "end": 370.0,
       "text": " Og der har vi jo et trick, som vi har omtalt før.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 370.0,
       "end": 373.0,
       "text": " Det er, at hvis man arbejder med e-commerce, så kan man gå ind i Google Merchant Center",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 373.0,
       "end": 378.0,
       "text": " og hive produktinformationen ned om, hvad er de mest populære produkter i min kategori,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 378.0,
       "end": 379.0,
       "text": " selvom du ikke sælger dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 379.0,
       "end": 382.0,
       "text": " Så du kan vælge at sige, at jeg sælger regntøj, eller hundemad,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 382.0,
       "end": 384.0,
       "text": " eller hvad det nu skal være, eller hunded udstyr.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 386.0,
       "text": " Og hvad er overordnet de mest populære produkter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 386.0,
       "end": 388.0,
       "text": " også fra andre webshops inden for det her område.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.0,
       "end": 392.0,
       "text": " Men du har så lige lagt et interessant AI-hack ned over det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 392.0,
       "end": 394.0,
       "text": " for at gøre den her dataindsamling endnu nemmere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 394.0,
       "end": 395.0,
       "text": " Hvad er vi ude i der?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 398.0,
       "text": " Ja, det, der er lidt sjovt her, det er, at man henter data ned på månesniveau.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 398.0,
       "end": 402.0,
       "text": " Så du kan sige, at i 2024, jul i måned,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 402.0,
       "end": 406.0,
       "text": " hvad er bare top 100 produkter her på Google Shopping.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 406.0,
       "end": 409.0,
       "text": " På tværs, altså ikke kun hos dig, men generelt set på markedet.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " Altså kæmpe hacker, man kan se de her data.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " Men det er sådan en hel anden sag. Vi har haft en episode omkring det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 413.0,
       "end": 416.0,
       "text": " Det, der er lidt af et issue, jeg fandt ud af, det var, at de her CSV-filer,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 416.0,
       "end": 418.0,
       "text": " altså for hver måned, skal hentes ned manuelt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 418.0,
       "end": 421.0,
       "text": " Så man skulle ind og lave, jeg ved ikke, hvor mange kliks, for at hente det ned.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 421.0,
       "end": 423.0,
       "text": " Og der kunne jeg ikke, altså jeg kunne ikke dyge mig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 423.0,
       "end": 427.0,
       "text": " Jeg blev nødt til at forsøge at få Perplexity Comet, som er den her AI-browser,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 427.0,
       "end": 432.0,
       "text": " AI-Agentic-browser, til at sige, du skal nu hente den her file ned for mig på alle måneder",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 432.0,
       "end": 438.0,
       "text": " fra januar 2024 frem til og med juli, mener jeg, der er kommet data ud for 2025.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 438.0,
       "end": 441.0,
       "text": " Og så gik den jo bare i gang. Så jeg sad og svarede mail, mens den ligesom gjorde det.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 441.0,
       "end": 445.0,
       "text": " Da den så havde hentet alle de her CSV-filer ned, så uploadede jeg dem til,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 445.0,
       "end": 447.0,
       "text": " i det her tilfælde var det faktisk Gemini.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 447.0,
       "end": 449.0,
       "text": " Det kunne lige så godt have været ChatGPT.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 449.0,
       "end": 451.0,
       "text": " Og så begyndte jeg at stille spørgsmål.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " Jeg begyndte at stille nogle spørgsmål omkring, hvad er det for nogle produkter,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " der egentlig har rykket på sig i den her kategori?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 455.0,
       "end": 458.0,
       "text": " Hvad er det for nogle produkter, der har stadig det største spring?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 458.0,
       "end": 462.0,
       "text": " Hvornår starter sæsonen? Det her var jo sådan nogle produkter, hvor der er noget sæson i.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 462.0,
       "end": 466.0,
       "text": " Og jeg kunne godt tænke mig at se de her produkter, der sådan er meget sommer-relateret.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 466.0,
       "end": 468.0,
       "text": " Hvornår starter det egentlig? Det starter allerede i marts måned.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 468.0,
       "end": 471.0,
       "text": " Og så kunne de jo beskrive for mig, at de her produkter begynder virkelig at stige frem mod marts.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 471.0,
       "end": 476.0,
       "text": " Men det er jo fantastisk viden at sidde med, når man sidder som forretning og gerne vil være klar på de her trends her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 480.0,
       "text": " Jeg delte så også spørgsmålet, fordi jeg ved, at nu går vi snart ind i Q4.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 480.0,
       "end": 486.0,
       "text": " Hvornår begynder salget af XYZ-produkt i det her tilfælde at gå ret godt?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 486.0,
       "end": 492.0,
       "text": " Jamen det var allerede i september. Så lige nu der kigger vi ind i, og allerede nu at få de her varer på hylderne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 492.0,
       "end": 497.0,
       "text": " Så det er fed, fed indsigt baseret på en masse data, hvor du har nærmest ikke en chance,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 497.0,
       "end": 499.0,
       "text": " hvis du bare skal sidde og kigge på 20 forskellige CSV-filer som menneske.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 499.0,
       "end": 503.0,
       "text": " Altså det er så svært, men med AI, der går det altså bare stærkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 503.0,
       "end": 507.0,
       "text": " Lad os tage et tredje eksempel her, hvor man skal forestille sig, at man også er aktiv i andre lande.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 513.0,
       "text": " Og man skulle godt kunne tænke sig at kigge ned i, hvad er det måske for en delstat eller noget andet demografi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 513.0,
       "end": 517.0,
       "text": " som man kan bruge til, lad os sige, måske planlægge noget fysisk udrulling, finde andre retailers.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 517.0,
       "end": 521.0,
       "text": " Der er alle mulige ting, man kan gøre med den her data. Hvad kunne eksemplet være her?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 521.0,
       "end": 527.0,
       "text": " I det her specifikke tilfælde, der er det en forretning, der opererer blandt andet i Tyskland.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 527.0,
       "end": 533.0,
       "text": " Og de sælger online via Shopify. Og det, der er i det, det er, at når en kunde bestiller en vare,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 533.0,
       "end": 537.0,
       "text": " så kan jeg se Shipping City, altså byen, den skal sendes til.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 537.0,
       "end": 543.0,
       "text": " Men jeg kan ikke se, hvilken delstat det er i. Og til de af jer, der har arbejdet med det tyske marked,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 543.0,
       "end": 548.0,
       "text": " det er som lande i sig selv. Altså de her delstater, de er simpelthen så forskellige. Det er helt vildt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 548.0,
       "end": 552.0,
       "text": " Det er måske svært at forholde sig til som danskere, hvor vi ikke er så mange mennesker, som de er i Tyskland.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 552.0,
       "end": 558.0,
       "text": " Det kan være verden til forskel, om du targeter Berlin eller Hamburg for den tidspunkt.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 558.0,
       "end": 563.0,
       "text": " Så det, der var lidt interessant her at se, det var, hvilke delstater er det egentlig, ordrene kommer fra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 563.0,
       "end": 568.0,
       "text": " Og i stedet for at skulle sidde og mappe hver by ud, altså den her by her, nu googler jeg lige den her by.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 568.0,
       "end": 570.0,
       "text": " Hvad for en delstat er den i? Jamen det er herovre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 570.0,
       "end": 576.0,
       "text": " Så tog vi, vi træk hele listen over byer, hvor der har været omsætning i, og så fået ChatGBT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 576.0,
       "end": 579.0,
       "text": " jeg tror faktisk, det var Gemini i det her tilfælde, men det kan ligeså godt have været ChatGBT,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 579.0,
       "end": 584.0,
       "text": " til at lave en konsolidering af den her data og mappe det ud på delstatsniveau.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 584.0,
       "end": 587.0,
       "text": " Og vi blev virkelig overrasket af det her.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 587.0,
       "end": 592.0,
       "text": " Og det har faktisk gjort, at vi har ændret vores indsats i Tyskland for den her pågældende kunde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 592.0,
       "end": 595.0,
       "text": " og det undrede faktisk også kunden, så det var en helt ny viden.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 595.0,
       "end": 598.0,
       "text": " Men det er sådan nogle ting her, dem lægger man ikke mærke til i det daglige.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 598.0,
       "end": 600.0,
       "text": " Det tager så lang tid, og det er lidt et helt projekt, du skal til at finde ud af,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 600.0,
       "end": 602.0,
       "text": " hvad for en delstater er det egentlig, ordrene kommer fra.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 602.0,
       "end": 605.0,
       "text": " Her, der tog det under 10 minutter, og det er simpelthen bare fantastisk.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 605.0,
       "end": 608.0,
       "text": " I princippet kan det jo også gøres med Danmark, hvordan vi kan dele op i regionerne.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 608.0,
       "end": 611.0,
       "text": " Er det fra Midtjylland, er det fra København og så videre.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 611.0,
       "end": 614.0,
       "text": " Men om det giver lige så meget mening, er jeg lidt mere i tvivl om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 614.0,
       "end": 616.0,
       "text": " Det kan være, at der i nogle cases derude, det giver mening,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 616.0,
       "end": 620.0,
       "text": " men sådan nogle større lande som for eksempel Tyskland, der var den her faktisk ret fed.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 620.0,
       "end": 625.0,
       "text": " Har du gjort dig nogle erfaringer med om ChatGBT eller Manus, Claude, Gemini,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 629.0,
       "text": " er bedre værktøjer til at gøre det her, eller virker det i stor strik lige godt på dem alle sammen?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 629.0,
       "end": 637.0,
       "text": " Jeg har haft mine udfordringer med, at Gemini simpelthen glemmer at vedhæfte filen, jeg beder om.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 637.0,
       "end": 640.0,
       "text": " Så jeg beder den om at komme med et svar i en fil, og den bliver ved med at sige,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 640.0,
       "end": 644.0,
       "text": " her har jeg vedhæftet CSV-filen, for så ved syvende gang, jeg spørger efter det,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 644.0,
       "end": 646.0,
       "text": " så kommer den stadigvæk ikke og siger, at det har en begrænsning.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 646.0,
       "end": 650.0,
       "text": " Jeg synes stadigvæk, den er fin til selve det her chatarbejde,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 650.0,
       "end": 656.0,
       "text": " men det her ved, at hvis man ønsker en filretur, så har jeg mere held med enten ChatGBT eller Claude.",
-      "speaker": "B"
+      "speaker": "Christian"
     }
   ]
 }

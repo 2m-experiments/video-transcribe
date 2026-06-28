@@ -9,1475 +9,1479 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Christian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Christian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 4.0,
       "text": " Hej og velkommen til en ny episode af MarketingPod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
       "end": 8.0,
       "text": " Det er torsdag, det er en af de korte episoder, og vi prøver at besvare et helt simpelt spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 8.0,
       "end": 12.0,
       "text": " Christian Tinju, burde dem, der lytter med her, sende flere e-mails?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 14.0,
       "text": " Ja, og tak for i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 16.0,
       "text": " Tak for i dag, ja.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 16.0,
       "end": 20.0,
       "text": " Ej, in all seriousness, jeg har jo en hypotese om, at der er rigtig mange, der sender for få e-mails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 20.0,
       "end": 24.0,
       "text": " fordi de er bange for at slide på deres e-maillister, eller måske ikke ved, hvad de skal skrive om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 24.0,
       "end": 28.0,
       "text": " Men at der er rigtig mange virksomheder, for hvem den nemmeste måde at hæve omsætningen på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 28.0,
       "end": 32.0,
       "text": " uden at øge deres omkostninger, det er at sende flere kampagne-e-mails ud af deres klædehjælp,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 32.0,
       "end": 34.0,
       "text": " eller hvad de ellers sidder i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.0,
       "end": 36.0,
       "text": " Deler du den hypotes?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.0,
       "end": 38.0,
       "text": " Jeg er meget enig. Jeg er meget, meget enig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 38.0,
       "end": 42.0,
       "text": " Så kan vi så gå lidt længere ned, og så spørge os selv, om folk er gode nok til at segmentere.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 42.0,
       "end": 46.0,
       "text": " Jeg tror mere, at det er det, det handler om, at folk er bange for at blaste ud til hele deres liste,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 46.0,
       "end": 48.0,
       "text": " gang på gang på gang.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 48.0,
       "end": 52.0,
       "text": " Men uanset hvad, hvordan vi vender og drejer den, så sender folk generelt bare for få e-mails ud.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 52.0,
       "end": 54.0,
       "text": " Så jo, jeg er meget enig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 54.0,
       "end": 58.0,
       "text": " Og jeg tror, at der er mange, der holder sig tilbage, fordi de tænker, at hvis vi sender flere e-mails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 58.0,
       "end": 62.0,
       "text": " så gider folk ikke rigtig åbne den, og så er vi bange for at slide på listen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 62.0,
       "end": 66.0,
       "text": " Og jeg kan godt forstå frygten, men du kan ret nemt teste det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 66.0,
       "end": 70.0,
       "text": " Og jeg kunne tænke mig at vise en case på det, fordi jeg sidder lige nu og auditorer en virksomheds Klædehjælp-konto,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 70.0,
       "end": 74.0,
       "text": " og kommer med anbefalinger til, hvordan de kan øge effekten af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 74.0,
       "end": 78.0,
       "text": " De sidder selv og håndterer Klædehjælp, og så kommer man bare ud fra med nogle anbefalinger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 78.0,
       "end": 80.0,
       "text": " og laver en lille rapport, og så kan de implementere dem selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 85.0,
       "text": " Den virksomhed her, de laver nogle årlige events, så det vil sige, at de sælger billetter til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.0,
       "end": 89.0,
       "text": " Så de kører ret mange e-mails ud i en kort periode, og de har selv en idé om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.0,
       "end": 93.0,
       "text": " okay, vi kan nok ikke sende mange flere e-mails, end vi gør lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 93.0,
       "end": 95.0,
       "text": " Men det kan man jo efterprøve.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 95.0,
       "end": 97.0,
       "text": " Fordi det man kan gøre, og det jeg har gjort, og det vil jeg anbefale her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 97.0,
       "end": 99.0,
       "text": " det er, at man går ind i ens e-mail-værktøj.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 99.0,
       "end": 102.0,
       "text": " Det kunne være Klæde.io, eller Hopspot, eller hvad det nu skulle være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 102.0,
       "end": 106.0,
       "text": " Og så går man simpelthen ind og eksporterer alle de kampagne-e-mails, man nogensinde har sendt ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 106.0,
       "end": 110.0,
       "text": " Hvis man går ind under Klæde.io og Campaigns, så ligger der faktisk en knap, der hedder Export derinde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 110.0,
       "end": 116.0,
       "text": " hvor du bare i et CSV-ark trækker samtlige kampagner, der nogensinde er blevet sendt på konsoen ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 116.0,
       "end": 118.0,
       "text": " Det her fortsætter selvfølgelig, at du har noget kommenteringsspurring på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 118.0,
       "end": 120.0,
       "text": " Så jeg går ud fra, at man kan måle på et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 120.0,
       "end": 122.0,
       "text": " eller så skal du ind og lave nogle korrelationsanalyser.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.0,
       "end": 123.0,
       "text": " Det gør det lidt mere komplekst.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 123.0,
       "end": 127.0,
       "text": " Men hvis nu er e-commerce, eller en ret simpel case, hvor du sælger et produkt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 127.0,
       "end": 129.0,
       "text": " eller billetter, eller et eller andet i denne stil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 134.0,
       "text": " så kan du bare trække al din data ud, så du tager alle dine e-mails fra et stort CSV-ark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 134.0,
       "end": 138.0,
       "text": " hvor du har e-mailen, emnelinjen, åbningsrate, omsætning og alle de her ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 138.0,
       "end": 141.0,
       "text": " Hvis man nu er B2B, så er den en lille smule sværere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 141.0,
       "end": 144.0,
       "text": " fordi så kan du ikke nødvendigvis se, hvad du har fået ud af mailen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 144.0,
       "end": 146.0,
       "text": " men du kan stadig lave analysen, fordi den kan vise dig noget om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.0,
       "end": 149.0,
       "text": " hvorvidt din målgruppe begynder at blive træt af dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 149.0,
       "end": 152.0,
       "text": " Fordi hvis du sender for mange mails, og din målgruppe begynder at blive træt af dig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.0,
       "end": 154.0,
       "text": " hvordan vil du så kunne se det i dine tal?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 156.0,
       "text": " Jamen, de vil ikke åbne den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
       "end": 159.0,
       "text": " De markerer det måske som spam, de afmelder sig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 159.0,
       "end": 162.0,
       "text": " Der er sådan flere forskellige ting, men du er ikke i tvivl i hvert fald.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 162.0,
       "end": 165.0,
       "text": " Det er en faldende åbningsrat, faldende klikret og øgende spam-complaint",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 165.0,
       "end": 166.0,
       "text": " og øget omsubscribe-rate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 169.0,
       "text": " Så selv hvis du ikke har omsætning, så kan du stadig lave denne her analyse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 169.0,
       "end": 174.0,
       "text": " fordi de tal får du også ud, hvis du eksporterer fx alle dine e-mails fra Hopswot.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 177.0,
       "text": " Det du gør, det er, at du tager den her liste, eller det her CSV-ark,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 177.0,
       "end": 181.0,
       "text": " og så oplodrer du den ind i din foretrækende large language model,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 181.0,
       "end": 184.0,
       "text": " vi ved jo, det hedder en LMM, ikke en LMM.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 184.0,
       "end": 188.0,
       "text": " Jeg har brugt Manus i det her tilfælde, og du kan også bruge alle mulige andre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 192.0,
       "text": " Du kan også bruge Gemini eller Cloud, eller du kan også bruge ChatGPT til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 194.0,
       "text": " Og hvis der er nogen, der tænker, må vi overhovedet det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 194.0,
       "end": 198.0,
       "text": " Din e-mail-data, du eksporterer fra Klaviyo, indeholder ikke nogen personidentificerbare informationer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 198.0,
       "end": 200.0,
       "text": " Du eksporterer ikke din e-mail-liste her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.0,
       "end": 203.0,
       "text": " Du eksporterer bare en liste over dine mails, emnelinje og performance.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 203.0,
       "end": 207.0,
       "text": " Det er altså fint at oplode det ind i en kinesisk large language model, hvis det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 207.0,
       "end": 210.0,
       "text": " Når du så har gjort det, så laver du et prompt, der hedder noget af den her stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 210.0,
       "end": 213.0,
       "text": " Og det er det her, jeg har brugt til den her kampagne, eller den her analyse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 213.0,
       "end": 216.0,
       "text": " Her er data fra alle mine e-mail-kampagner.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 216.0,
       "end": 220.0,
       "text": " Lav en diminishing returns-analyse på antallet af sendte mails og omsætning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.0,
       "end": 224.0,
       "text": " Jeg er interesseret i at vide, om jeg falder i omsætning per e-mail, når jeg sender flere e-mails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 226.0,
       "text": " og til sidst en anbefaling til, om jeg bør sende flere e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.0,
       "end": 230.0,
       "text": " Du kan godt lave et prompt, der er bedre end det her, men det er faktisk nok.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 230.0,
       "end": 235.0,
       "text": " Når du så har gjort det, så går Manus, eller Gemini, eller hvad du nu har valgt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.0,
       "end": 239.0,
       "text": " i gang med at crunche data og levere nogle grafer tilbage til dig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 239.0,
       "end": 242.0,
       "text": " som viser noget om din e-mail performance.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 242.0,
       "end": 244.0,
       "text": " Og det er jo så her, det bliver spændende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 247.0,
       "text": " Og der er flere forskellige måder, hvorpå du kan måle det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 247.0,
       "end": 252.0,
       "text": " Og i det her specifikke tilfælde, nu kan jeg lige prøve at vise dig en visualisering,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 252.0,
       "end": 255.0,
       "text": " fordi i det her specifikke tilfælde, der kiggede jeg på to grafer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 255.0,
       "end": 259.0,
       "text": " Den ene, det var åbningsrate per e-mail, og den anden, det var omsætning per e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 259.0,
       "end": 264.0,
       "text": " Og hvis vi lige starter med åbningsrate per e-mail, der er sådan et billede her, man kan kigge på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.0,
       "end": 268.0,
       "text": " Og det, vi kigger på, det er sådan i perioden, fordi nu bliver der solgt billetter til et event.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 268.0,
       "end": 271.0,
       "text": " Så det vil sige, det er altså nogle afgrænsede perioder, vi sender i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 271.0,
       "end": 274.0,
       "text": " Nogle gange bliver der sendt mange e-mails, nogle gange bliver der sendt få e-mails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 274.0,
       "end": 276.0,
       "text": " fordi det er et event, der har gjort det igen og igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.0,
       "end": 279.0,
       "text": " Men vi kigger altså i, hvor mange e-mails, der bliver sendt i perioden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 279.0,
       "end": 283.0,
       "text": " Og det, vi ser her på skærmen, hvis du ser mere på YouTube eller Spotify,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 283.0,
       "end": 287.0,
       "text": " det er åbningsrate, afhængig af, hvor mange e-mails, der bliver sendt ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 287.0,
       "end": 290.0,
       "text": " Og Christian Tiniu, hvad kigger vi på? Hvad sker der, når man sender flere e-mails ud?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 290.0,
       "end": 293.0,
       "text": " Når man sender e-mail nr. 37 i stedet for nr. 7?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 298.0,
       "text": " Jamen, når man sidder og kigger på den kære røde trendline, du har været så god at medtage,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 298.0,
       "end": 301.0,
       "text": " eller AI'en har været så god at medtage, så går det jo opad.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 301.0,
       "end": 303.0,
       "text": " Din åbningsrat stiger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 303.0,
       "end": 304.0,
       "text": " Yes.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 304.0,
       "end": 306.0,
       "text": " Det er desværre modsat af, hvad jeg personligt havde forventet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 311.0,
       "text": " Det, som analysen virker, det er, at jo flere e-mails, de sender inden for den periode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 311.0,
       "end": 316.0,
       "text": " hvor de sender og sælger billetter, jo flere mails, de sender, jo højere en åbningsrat har du.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 316.0,
       "end": 320.0,
       "text": " Den stiger faktisk 0,11% per e-mail i perioden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 320.0,
       "end": 323.0,
       "text": " Det er jo det modsatte, hvad man skulle tro.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 323.0,
       "end": 327.0,
       "text": " Hvor man tænker, jo flere e-mails, vi sender, jo mindre folk åbner dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 327.0,
       "end": 329.0,
       "text": " Nej, jo flere du sender, jo mere åbner folk dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 329.0,
       "end": 331.0,
       "text": " Jeg har lidt svært ved lige at forklare, hvorfor.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 331.0,
       "end": 336.0,
       "text": " Nu er det 0,11% per e-mail, så det kan være en statistisk tilfældighed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 336.0,
       "end": 340.0,
       "text": " Men de skal i hvert fald ikke være bange for, at folk ikke gider åbne deres e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 340.0,
       "end": 341.0,
       "text": " Nej, lige præcis.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 341.0,
       "end": 347.0,
       "text": " Fordi den falder jo ikke, så kan vi så diskutere de 0,11% og om det er en statistisk bøvs,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 347.0,
       "end": 351.0,
       "text": " eller hvad det er, men det ser jo forluftigt ud for pokker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 351.0,
       "end": 353.0,
       "text": " Den stiger. Du skal da sende nogle flere e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 353.0,
       "end": 356.0,
       "text": " Her er vi oppe i, at de sender én e-mail i hvert fald hver anden dag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 356.0,
       "end": 358.0,
       "text": " og måske også lidt mere end det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 358.0,
       "end": 360.0,
       "text": " Så de er egentlig oppe i et ret godt tempo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 360.0,
       "end": 363.0,
       "text": " Men det tempo kan i virkeligheden blive endnu højere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 363.0,
       "end": 367.0,
       "text": " Den anden graf, man kan lave, det er jo så omsætning per e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 367.0,
       "end": 370.0,
       "text": " Her ser grafen lidt anderledes ud, fordi den falder per e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 370.0,
       "end": 372.0,
       "text": " Men det er også, fordi man skal huske, at den første e-mail, de sender,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 375.0,
       "text": " hvor de siger, at billetsalget er åbent, så sælger de jo rigtig meget på den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 375.0,
       "end": 377.0,
       "text": " fordi der ligger det her opsparrede efterspørgsel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 377.0,
       "end": 381.0,
       "text": " Og så jo længere tid der går, jo flere personer har jo allerede købt en billet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 384.0,
       "text": " og derfor bliver der solgt færre billetter per e-mail, de sender.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 388.0,
       "text": " Så det er klart, at den falder, men den viser også, at den forsvinder ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 388.0,
       "end": 393.0,
       "text": " At den holder faktisk en ret høj omsætning per e-mail, også til sidst i perioden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 393.0,
       "end": 399.0,
       "text": " Så min anbefaling, som jeg har sendt videre nu, det er, at I skal faktisk ikke være bange for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 399.0,
       "end": 400.0,
       "text": " om I sender for mange e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 400.0,
       "end": 404.0,
       "text": " Det, vi ser, når I sender flere e-mails, det er faktisk, at åbningsratten stiger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 404.0,
       "end": 406.0,
       "text": " Den falder i hvert fald ikke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 409.0,
       "text": " Og omsætning per e-mail indtil kort før arrangementet er slut,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 409.0,
       "end": 413.0,
       "text": " og hvor der kun er de sidste dårlige billetter tilbage, eller ikke lige så gode som alle de andre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 414.0,
       "text": " der begynder den at falde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 414.0,
       "end": 418.0,
       "text": " Men det tror jeg mere er en tidsfaktor, hvor nu er der kun de dårlige pladser tilbage,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 418.0,
       "end": 420.0,
       "text": " eller yderpladserne, så nu kan det ikke have mening at købe dem længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 424.0,
       "text": " Hvor i midten og i starten, der er det næsten lige meget, hvor mange mails de sender.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 431.0,
       "text": " De omsætter næsten det samme per e-mail, så hvis de sender flere mails, så omsætter de mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 436.0,
       "text": " Jeg har lavet en tredje korrelation på unsubscribe rate, som viste, at den var også stabil i hele perioden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 441.0,
       "text": " Og det betyder jo, at når de sender flere mails, så unsubscribe'er de også flere personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 442.0,
       "text": " men ikke relativt flere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 442.0,
       "end": 446.0,
       "text": " Deres unsubscribe rate lå på 0,1 eller 0,2 eller et eller andet, og den var stabil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 446.0,
       "end": 449.0,
       "text": " Så hver gang de sendte, kostede det 0,1 eller 0,2.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 449.0,
       "end": 453.0,
       "text": " Men hvis I sendte mange e-mails, så lå det stadig på 0,1 eller 0,2.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 458.0,
       "text": " Og når det er tilfældet, så er det jo for mig et signal om, at de burde sende flere e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 459.0,
       "text": " Hvordan vil du læse det, Søren?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " Ja, men jeg er fuldstændig enig.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 461.0,
       "end": 465.0,
       "text": " Jeg sidder bare og tænker på, at der må sidde mange derude, der lytter med,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " som tænker, at det her, det skal vi have testet af.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 467.0,
       "end": 470.0,
       "text": " Og det er jo relativt simpelt at sende flere e-mails.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 470.0,
       "end": 476.0,
       "text": " Men hvis man skal holde øje med nogle tal for at finde ud af, om tingene simpelthen er ved at knække,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 476.0,
       "end": 480.0,
       "text": " om den her aftagende marginaler-effekt eller afkast er ved at ramme,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 480.0,
       "end": 483.0,
       "text": " altså sådan så, at du får så meget mindre ud af den næste e-mail, du sender.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 483.0,
       "end": 486.0,
       "text": " Hvordan vil du anbefale, at man bærer sig af det?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 486.0,
       "end": 490.0,
       "text": " Er det at bruge den prompt, du viste lige før, og så følge det ugentligt?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 490.0,
       "end": 491.0,
       "text": " Eller hvad tænker du der?",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " Ja, så hvis man har et rimeligt...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 493.0,
       "end": 496.0,
       "text": " Altså de fleste virksomheder sender rimeligt fast e-mails ud inden for et eller andet intervall,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 496.0,
       "end": 500.0,
       "text": " to om ugen eller tre om ugen eller to om måneden eller et eller andet den stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 500.0,
       "end": 503.0,
       "text": " Det betyder, at du har jo allerede data på, hvad du gør normalt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 507.0,
       "text": " Det jeg ville gøre, det ville være at skrue den op med 50 eller 100 procent, afhængig af, hvor man ligger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 507.0,
       "end": 510.0,
       "text": " Så hvis man ligger på tre om ugen, prøv fem om ugen, seks om ugen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 515.0,
       "text": " Altså lav en ordentlig stigning, ikke en lille stigning, fordi det er også for kedeligt på en eller anden måde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 515.0,
       "end": 517.0,
       "text": " Hvis du laver en om måneden, prøv to eller tre om måneden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 517.0,
       "end": 519.0,
       "text": " Hvis du laver fire om måneden, prøv otte om måneden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 519.0,
       "end": 524.0,
       "text": " fordi de fleste virksomheder sender for få e-mails og putter for meget med deres e-mailliste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 524.0,
       "end": 526.0,
       "text": " Og jeg kan faktisk godt forstå, hvor det kommer fra,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 529.0,
       "text": " fordi e-maillisten er et sindssygt vigtigt aktiv i virksomheden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 532.0,
       "text": " Og man sådan tænker og sidder og passer på det, og vi må ikke misbruge det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 533.0,
       "end": 535.0,
       "text": " fordi så forsvinder det igen og så videre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 535.0,
       "end": 537.0,
       "text": " Men måden, jeg har lært at tænke på det nu, det er bare,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 539.0,
       "text": " den forsvinder af sig selv, og det er der to årsager til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 539.0,
       "end": 541.0,
       "text": " Den ene det er, hvis du har B2B elite.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 541.0,
       "end": 546.0,
       "text": " Ligesom vi har Obsidian, Churner, 25 procent af vores e-mailliste hvert år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 546.0,
       "end": 548.0,
       "text": " selv hvis vi ikke sender en eneste e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 548.0,
       "end": 551.0,
       "text": " Og det er fordi omkring 20-25 procent af alle danskere har skiftet job,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 551.0,
       "end": 554.0,
       "text": " og vi beder om deres arbejdse-e-mail, når de tilmelder sig til marketingbio,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 554.0,
       "end": 556.0,
       "text": " eller et webinar, eller hvad det skal være.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 559.0,
       "text": " Hvis vi ingen e-mail sendte de næste 12 måneder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 559.0,
       "end": 561.0,
       "text": " ville det koste os omkring 25 procent af vores liste.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 561.0,
       "end": 563.0,
       "text": " Det er cirka 7.000 personer, eller et eller andet stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " Og der kan jeg bare ikke lade være med at tænke til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 565.0,
       "end": 568.0,
       "text": " Altså, så kan jeg jo lade være med at sende e-mails,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 568.0,
       "end": 569.0,
       "text": " og sidde og putte mig i listen de næste tre år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 569.0,
       "end": 571.0,
       "text": " og så er den bare væk alligevel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 571.0,
       "end": 574.0,
       "text": " Så det, at din e-mailliste forsvinder, det er en given.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 574.0,
       "end": 576.0,
       "text": " Og det gælder også lidt med privatforbrugere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 576.0,
       "end": 578.0,
       "text": " selv hvis du sælger e-commerce til privatforbrugere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 578.0,
       "end": 581.0,
       "text": " Ikke fordi det skifter e-mail, det er der også nogen, der gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 581.0,
       "end": 584.0,
       "text": " Men det er bare fordi, jeg ser en generelt aftagende effekt på e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 584.0,
       "end": 586.0,
       "text": " Det tror jeg er, fordi spamfilterne bliver bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 586.0,
       "end": 588.0,
       "text": " e-mail bliver mere tilbøjeligt til at smide.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 590.0,
       "text": " Det er sådan en marketingkolonne, hvor du ikke ser det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 590.0,
       "end": 592.0,
       "text": " De får flere e-mails fra andre virksomheder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 595.0,
       "text": " og derfor er de mindre tilbøjelige til at åbne lige præcis din e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 598.0,
       "text": " Der er sådan nogle eksterne faktorer, som man ikke rigtig kan kontrollere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 600.0,
       "text": " men de leder alle sammen hen til det samme punkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 604.0,
       "text": " Den samme konklusion, som er, du behøver sende flere e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 606.0,
       "text": " Den der liste, den forsvinder, om du vil eller ej.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 606.0,
       "end": 608.0,
       "text": " Så bare realisere værdien af den, mens du kan.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 610.0,
       "text": " Og hvis du er bange for, om du slider for meget på listen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 611.0,
       "end": 614.0,
       "text": " så prøv at trække al din kampagne ud og lave en diminishing returns-analyse",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 616.0,
       "text": " på din åbningsret og din omsætning per e-mail.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 616.0,
       "end": 618.0,
       "text": " Og jeg tror, du vil blive positivt overrasket,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 620.0,
       "text": " fordi hver gang jeg har lavet den her, så er jeg kommet frem til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 620.0,
       "end": 622.0,
       "text": " vi burde sende nogle flere e-mails.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 624.0,
       "text": " Kunne du øventligt hente ting der og høre tre af de andre prima konklusioner",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " fra den her rapport, vi har i gang?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 627.0,
       "text": " Ja, kom med dem, kom med dem.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 627.0,
       "end": 629.0,
       "text": " Nummer et, det var at implementere sms,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " fordi det er for mig, på en eller anden måde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 631.0,
       "end": 635.0,
       "text": " den ultimative værn mod, at e-mail mister effektivitet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 637.0,
       "text": " Det er at begynde at samle sms-permissions op også.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 637.0,
       "end": 639.0,
       "text": " Jeg vil ikke anbefale at sende sms'er ud i Klavio,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 641.0,
       "text": " fordi det er meget, meget dyrt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 641.0,
       "end": 643.0,
       "text": " Der vil jeg bruge en udbyder, som for eksempel InMobile,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 645.0,
       "text": " som har en Klavio-integration og er danske.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 645.0,
       "end": 647.0,
       "text": " De er mega billige og har super god support.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 647.0,
       "end": 649.0,
       "text": " Der er mange af vores kunder, der bruger.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 649.0,
       "end": 653.0,
       "text": " Min anden anbefaling, det vil være at sende færre e-mails ud til non-openers.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 653.0,
       "end": 655.0,
       "text": " Og det er fordi, der er sådan en mulighed i Klavio,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 655.0,
       "end": 657.0,
       "text": " også i Hopspot og i andre værktøjer, hvor du kan sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 657.0,
       "end": 660.0,
       "text": " send den her mail igen til alle dem, der ikke har åbnet den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 660.0,
       "end": 663.0,
       "text": " Og tankegangen, det er, at dem der ikke har åbnet den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 663.0,
       "end": 664.0,
       "text": " det var måske ikke, fordi de ikke var interesserede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 664.0,
       "end": 666.0,
       "text": " det var bare, fordi du ramte dem på et dårligt tidspunkt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 666.0,
       "end": 668.0,
       "text": " Men når jeg kigger ned i deres data,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 668.0,
       "end": 670.0,
       "text": " når de har lavet det her med at sende til non-openers,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 670.0,
       "end": 673.0,
       "text": " så har de stadig en meget lav åbningsrate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.0,
       "end": 675.0,
       "text": " Så det er ret få, der faktisk åbner den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 675.0,
       "end": 677.0,
       "text": " Tilgængelig, deres spamrate tår den op.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 677.0,
       "end": 680.0,
       "text": " Så jeg er ikke sikker på, at det rent faktisk har været en god forretning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 680.0,
       "end": 684.0,
       "text": " De selv er ikke særlig meget på det, og de øger virkelig risikoen for at blive spammarkerede,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 684.0,
       "end": 686.0,
       "text": " af de forskellige e-mail-services-providers.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 686.0,
       "end": 688.0,
       "text": " Så den her er sådan en ladende anbefaling til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 688.0,
       "end": 690.0,
       "text": " at bruge den knap så tit, som I gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 690.0,
       "end": 692.0,
       "text": " Så skal I virkelig overveje det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 692.0,
       "end": 694.0,
       "text": " Virkelig sjældent et tilfælde, at den skal bruges sådan der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " Så har jeg selvfølgelig sagt, at vi skal udbygge automations.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " Det er altid en god idé, og det var den om konkret måde, hvorpå vi kunne gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 698.0,
       "end": 700.0,
       "text": " Og så den vigtigste anbefaling,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 700.0,
       "end": 702.0,
       "text": " at sende flere e-mails.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 702.0,
       "end": 706.0,
       "text": " Og dermed konklusionen på dagens afsnit.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 706.0,
       "end": 708.0,
       "text": " Skal du sende flere e-mails? Ja, lav eventuelt analysen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 708.0,
       "end": 710.0,
       "text": " og hvis du bare går direkte til konklusionen,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 710.0,
       "end": 712.0,
       "text": " send dobbelt så mange e-mails i en periode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 712.0,
       "end": 713.0,
       "text": " og se hvad der sker.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 713.0,
       "end": 715.0,
       "text": " Så kan du komme til at omsætte ca. dobbelt så meget, som du gør lige nu.",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 715.0,
       "end": 717.0,
       "text": " Tusind tak, fordi du lyttede med sig i dagens episode,",
-      "speaker": "B"
+      "speaker": "Christian"
     },
     {
       "start": 717.0,
       "end": 719.0,
       "text": " og på igen heroppe.",
-      "speaker": "B"
+      "speaker": "Christian"
     }
   ]
 }
