@@ -58,8 +58,9 @@ def assign_speakers(segments: list[dict], turns: list[dict]) -> list[dict]:
 
     Each segment is matched to the speaker whose turn shares the most time with
     it. Segments with no overlap inherit the previous segment's speaker (a short
-    aside between two of A's turns is almost always still A), falling back to the
-    first known speaker, then "?".
+    aside between two of A's turns is almost always still A). Leading segments
+    that precede the first diarized turn have no previous speaker to inherit, so
+    they are back-filled with the first known speaker (see backfill_leading_unknown).
     """
     out = []
     last_speaker = None
@@ -75,7 +76,27 @@ def assign_speakers(segments: list[dict], turns: list[dict]) -> list[dict]:
         else:
             last_speaker = best_speaker
         out.append({**seg, "speaker": best_speaker or "?"})
-    return out
+    return backfill_leading_unknown(out)
+
+
+def backfill_leading_unknown(segments: list[dict]) -> list[dict]:
+    """Replace a leading run of "?" speakers with the first known speaker.
+
+    "?" only ever occurs at the very start — once a speaker is assigned it carries
+    forward — so an opening segment that landed before the first diarized turn
+    would otherwise render as "Speaker ?:". Back-fill it with the first real
+    speaker so the transcript opens cleanly. No-op if every segment is "?".
+    """
+    first_known = next((s.get("speaker") for s in segments
+                        if s.get("speaker") not in (None, "?")), None)
+    if first_known is None:
+        return segments
+    for seg in segments:
+        if seg.get("speaker") in (None, "?"):
+            seg["speaker"] = first_known
+        else:
+            break
+    return segments
 
 
 def parse_name_map(spec: str) -> dict[str, str]:
