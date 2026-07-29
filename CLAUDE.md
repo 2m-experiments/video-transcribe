@@ -4,6 +4,9 @@ Pipeline: `transcribe.py` (YouTube/Vimeo → Whisper text) → `diarize.py` (Ass
 speaker labels) → `index.py` (searchable summary index). Source channels and per-group
 status live in [`channel/`](channel/README.md); derived answers in [`queries/`](queries/README.md).
 
+**Step-by-step how-to for transcribing + diarizing is in [`AGENTS.md`](AGENTS.md)** — read
+it before running the pipeline. The rule and gotchas below are the essentials.
+
 ## STANDING RULE: always diarize newly-transcribed videos
 
 Whenever new videos are transcribed, **always run `diarize.py` (AssemblyAI) on them as
