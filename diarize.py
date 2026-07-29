@@ -330,9 +330,13 @@ def diarize_transcript(transcript_path: Path, api_key: str,
     speakers = [name_map.get(s, s) for s in letters] if name_map else letters
 
     transcript_path = transcript_path.resolve()
-    stem = transcript_path.with_suffix("")  # drop .json
-    json_out = stem.with_suffix(".speakers.json")
-    txt_out = stem.with_suffix(".speakers.txt")
+    # Strip only the trailing ".json". Using .with_suffix(".speakers.json") here
+    # mangles transcript names that contain dots (e.g. "...5_mio._kr.json" would
+    # lose "_kr"), so build the sibling names by string surgery instead.
+    base_name = (transcript_path.name[:-len(".json")]
+                 if transcript_path.name.endswith(".json") else transcript_path.stem)
+    json_out = transcript_path.with_name(base_name + ".speakers.json")
+    txt_out = transcript_path.with_name(base_name + ".speakers.txt")
     _write_speaker_outputs(data, labeled, speakers, json_out, txt_out,
                            language_code=language_code, name_map=name_map)
     return json_out, txt_out

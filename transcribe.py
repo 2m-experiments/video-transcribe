@@ -21,7 +21,7 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 AUDIO_DIR = SCRIPT_DIR / "audio"
 CHUNKS_DIR = SCRIPT_DIR / "chunks"
 TRANSCRIPTIONS_DIR = SCRIPT_DIR / "transcriptions"
-CHANNEL_CACHE_DIR = SCRIPT_DIR / "channel_cache"
+CHANNEL_CACHE_DIR = SCRIPT_DIR / "channel" / "channel_cache"
 
 # ── Constants ────────────────────────────────────────────────────────────────
 MAX_CHUNK_SIZE_MB = 20  # Whisper API limit is 25MB, generous margin for re-encoding variance
@@ -67,6 +67,12 @@ VIDEO_GROUPS = {
         {"url": "https://www.youtube.com/watch?v=6OW5meZW4VY", "title": "Hvorfor din markedsfoering ikke virker og saadan fikser du det"},
         {"url": "https://www.youtube.com/watch?v=pBiavdChcKw", "title": "Saadan strukturerer 95 procent af behandlere deres kalender forkert"},
         {"url": "https://www.youtube.com/watch?v=QzRhsRV4l1E", "title": "Hold klinikken fuldt booket foer og efter ferien"},
+        {"url": "https://www.youtube.com/watch?v=yQWgS3n9Qe4", "title": "Hvordan vi ændrede en behandlers sommer (case study med Marianne)"},
+        {"url": "https://www.youtube.com/watch?v=A24-hSuJpic", "title": "Dine priser slider dig op (uden du opdager det)"},
+        {"url": "https://www.youtube.com/watch?v=mxmD3CMHfiU", "title": "Det ingen taler om når man driver en klinik"},
+        {"url": "https://www.youtube.com/watch?v=uWRAW_-l5fo", "title": "Hvis du vil firedoble dine bookinger, så se denne video"},
+        {"url": "https://www.youtube.com/watch?v=Z4fgkaq-T68", "title": "Jeg hjalp en behandler med at blive den, hele byen går til"},
+        {"url": "https://www.youtube.com/watch?v=sCpHlU0csj0", "title": "Sådan booster du din kliniks omsætning med 9 enkle ting"},
     ],
     "group2": [
         {"url": "https://player.vimeo.com/video/1097517089", "title": "100 bookinger workshop"},
