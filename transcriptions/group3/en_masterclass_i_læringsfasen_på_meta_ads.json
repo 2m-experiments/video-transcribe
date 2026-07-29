@@ -1,0 +1,5076 @@
+{
+  "title": "En masterclass i læringsfasen på Meta Ads",
+  "url": "https://www.youtube.com/watch?v=hh4qigIbFms",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 2597.8,
+  "transcribed_at": "2026-07-29T14:11:47.715016+00:00",
+  "full_text": "Hej og velkommen til dagens episode af MarketingPod. Dagens episode udspringer sig af et spørgsmål, som vi har fået af en lyttere. Og vi får ofte nogle kanon gode spørgsmål fra jer kære lyttere, som vi løbende tager op. Og i dag er som sagt ikke nogen undtagelse. Og det her er et af de spørgsmål, som leder os hen til nogle af de lidt mere tekniske aspekter af meta. Og derfor er det jo kanon heldigt, at jeg igen og igen har Morten Meta med mig i studiet, mens halvdan han er et eller andet sted i Asien og holder ferie. Morten, hvis jeg nu lige læser det her spørgsmål højt, skal vi så ikke lige prøve at tage afsæt i det? Spørgsmålet kommer fra Alex, og nu læser jeg bare lige den del af beskeden, hvor spørgsmålet er i. Så, det Alex skriver det her. Han har netop lanceret et e-commerce produkt selv. Den oplagte tanke er at køre en lansering med mål om salg. Problemet er dog, at det er svært at få nok salg til at få et stærkt signal. Algoritmen kan ikke optimere. De kloge hoveder, jeg har talt med, har sagt, at jeg skal optimere mod landing page view, eventuelt engaged sessions. Men, hvornår skal man skifte fra det ene til det andet, og har de kloge hoveder ret? Hvad tænker du om det, Morten? Jeg tænker, at det starter lidt et andet sted. Så for at vi også lige kan få lidt at snakke om, så skal vi jo starte fra fundamentet. Og det er læringsfasen. Det er jo, hvordan vi måler signaler. Hvordan meta er eksplorativ i aktionen. Hvordan den går ud og finder brugere. Og netop det her med, hvordan får vi algoritmen til netop at optimere. Og så skal vi nok vende tilbage til de kloge hoveder, og hvad der er sandt, og hvad der er falsk. Men vi starter med læringsfasen, fordi læringsfasen er faktisk det centrale element i, hvordan meta kalibrerer. Og meta, til jer der har lyttet med før, til jer der sidder med meta, det er nok ikke nogen hemmelighed, at meta er ekstremt signalstyret. Så vi kommer til at sige ordet signal eller signaler. Rigtig mange gange i dag. Rigtig mange gange. Og vi starter med, hvordan læringsfasen er bygget op. Den er bygget op som en stor sandsynlighedskalibrering. Det vil sige, når algoritmen skal løse det, som vi kalder sådan et multi-armed bandit problem. Det vil sige, den skal gå ud og finde det, vi bærer den om. Hvis vi sætter en saleskampagne op, eller en leadskampagne, som i det tilfælde med Alex. Jamen, så skal den gå ud og sige, okay, de første x procent af vores budget, det skal vi bruge til at være eksplorativ. Det vil sige, den skyder bare med sit brædhavn. Den går ud i det meste af Danmark og siger, okay, hvad er placeringer, tidsintervaller, køn, alder, interesser, og så krydre med de website-signaler, I har. For at finde lige præcis den formel, der er bedst, for at skille et budget op til den rigtige bruger. Så forestil jer en, der bare hævler 101 kroner afsted, og så skal vi ramme den rigtige person. Og så når vi har gjort det, så giver vi den gas. Det er sådan lidt som, jeg forestiller mig sådan en telefonsælger, der har fået tusind forskellige telefonnummerer, som bare sidder og hamrer dem igennem, og der bliver skabt nogle salg engang imellem. Og ved hver salg, der ligger han og skriver ned, hvad der kendetegner den her person. Men også der, hvor der ikke er skabt salg, der sidder han og skriver ned, hvad der kendetegner dem. Og på en eller anden måde, så begynder algoritmen lige så stille i den her eksplorative fase at finde ud af, hvad det er for en retning, den skal gå i. Og før vi kommer videre, skal vi så ikke lige prøve at definere det ord, som du nævnte lige før? Signal. Hvad er det egentlig, vi mener, når vi siger signal? Signal, der mener vi den optimeringshændelse eller konverteringshændelse, som vi beder kompanien om, at vi skal have. Det tror jeg er det bedste eksempel, vi kan bruge, som alle forstår. Vi sætter en salgskampagne op. Vi vil gerne have salg til vores webshop. Det vil så sige, så måler vi på salg. Altså er der nogen, der køber et par skrue? Det kan være i B2B, der måler vi, at dem, der udfølger kontaktformularen, eller et white paper eller andet, det er vores signal. Og dem vil vi gerne have flest mulighed af, fordi jo flere signaler, vi kan give til meta, jo mere den får igennem, jo større chancer er der for, at sælgerne har skrevet nok ned på sine ord og siger, nu er det stereotypen persona, Lonnie på 64, det er hende, vi skal prøve at finde. Det er hende, der har de rigtige behov. Og vi skal forresten prøve at ramme ind på Instagram stories, Instagram reels om morgenen. I aften skal vi gøre det på Facebook feed. Hvordan det nu kan være. Det hedder estimated action rate, det som meta gætter. Det er et ret, ret kvalificeret gæt, I skal forestille jer. Det er måske, jamen den tager jeg for egen, egen vinding den er, men måske verdens bedste algoritme. Den er fåret, jeg trak den en gang til min eksamen, da jeg studerede. Den gang, det var i 2019, der trak jeg 19.000 sider af fire sider ud fra meta. Det kan man alle sammen gøre på sin private profil, om hvor meget den vidste om mig. Og så brugte jeg perspektivet. Hvis jeg havde booket Danmarks bedste psykolog, og gav vedkommende 19.000 af fire sider omkring mig, så ville han eller hun nok også godt kunne gennemskue mig, og min næste træk, og mine vaner, og hvordan jeg gør. Så er vi slet ikke så unikke alligevel. Det her, det bliver bare sat ind i en kæmpe algoritme, og der begynder den så i de her aktioner at byde helt vildt random. Den byder for eksempel, lad os bare tage nogle tilfældige beløb. Den byder 20 kr. på dig, den byder 10 kr. på mig, så byder den 60 kr. på halvstanden. Det kan godt være, at halvstanden skulle være den billigere, og du skulle være den dyrere. Men det er bare for at samle nok rådata ind, så jeg kan sige, fint, nu ved jeg, hvor jeg skal lægge mig henad. Det er også derfor, at når man går ind og op, og der er en ny kampagne, og jeg er i læringsfasen, altså in-learning, typisk ser jeg det, der hedder en ustabile læring. Altså hvor du fluktuerer vildt meget i en CPA eller CPL. Vi plejer at forvente, at det er 20-40% dyrere at lægge i læringsfasen end uden for læringsfasen. Og at mandag kan være rigtig god, og tirsdag kan være rigtig dårligt. Og hvordan når vi kigger på kampagnetyper, Morten? Altså den her læringsproces, den her eksplorative proces med videre, den her algoritme, er det på tværs af alle kampagnetyper i Ads Manageren? Uanset om man er B2B virksomhed og går efter leads, eller det er konverteringer, man går efter som e-commerce, altså er det simpelthen grundmekanismen i Metas algoritme? Det er grundmekanismen i de kampagner, hvor vi optimerer efter en, lad os bare sige en websitehændelse. Så hvis vi arbejder med reach-kampagner, eller videovisningskampagner, eller hvad det hele kan være, brand recall, ad recall-kampagner, jamen der har vi ikke brug for en læringsfase som sådan. Der ligger meget data på Meta, der skal du nok få nok signaler, fordi hvis du optimerer efter reach, jamen så er det et signal, det er teorien en eksponering. At få nok eksponeringer til at blive dygtigt, det er ikke et problem, det er nok i højere grad et problem, når det er 50 leads, eller 50 kø, eller 100 kø, så jeg tror de plejer at sige, at man forestiller, hvis du skulle sætte en reach-kampagne op, så kunne du bruge 1 kr. på den, og så ville den være ude. Af læringen, der skulle du nok bruge 5 kr. på at komme ud fra et lead-perspektiv. Så det er derfor, vi typisk snakker om læringsfase til konverteringsoptimerede kampagner. Så man kan sige, vi kan vel godt konkludere nu, læringsfasen er, eller i hvert fald, lad os kalde det en explorativ fase, den her læringsfase, den er vigtig. Og i den forbindelse, der ved jeg, at Meta jo har været ude og prædike omkring nogle best practices. Og som det så typisk er, når en annonceplatform går ud og preacher, hvad hedder det, best practices, og her tænker jeg især også på Google Ads, men nu handler det lige om Meta, så er der også nogle undtagelser dertil. Men lad os lige prøve at starte med at tage fat i de her best practices, for jeg tror, det er her mange af de her, skal vi kalde det misforståelser, de opstår. Morten, vil du ikke prøve lige kort at tage sig igennem de vigtigste best practices, jævnt før Meta? Vi kan altså godt lave en Google Ads-episode, hvis det er, Christian. Det er også tavlet, at du får mig på slæb i en måned til hver torsdag, og så skal vi bare snakke Meta hele tiden, altså. Ved du hvad, Morten, det er faktisk super fint, fordi jeg kommer lige fra, direkte fra blæskift, direkte ind i podcasten her, det er skønt at kunne sidde og stille dig nogle spørgsmål. Altså, hvis vi skal snakke Google Ads, så må lytteren have sit tal, eller så må du sige til. Ja, lige præcis, lige præcis. Det er egentlig en relativt nem håndbog, i forhold til best practices med at, skal vi kalde det, respektere læringsfasen. Fordi læringsfasen, hvis vi respekterer, det er ikke en bibel, men vi skal tage højde for den. Den første, og jeg tror, det er den, hvor de fleste faktisk, undskyld med sprog, dummer sig, det kan vi godt lidt kalde at være utålmodig. Når du starter kampagnen op, så vil du med det samme gerne se resultater. Du begynder måske, hvis der er gået et par timer, eller du har brugt de første 100 kroner, eller 1000 kroner, at blive lidt i tvivl om, åh, ej, det er også fordi, at min ad copy er for dårlig. Det kan være, det er fordi, linket er det forkerte. Creativitet er nok heller ikke rigtigt, så jeg skal tilføje en annonce mere, eller jeg skal skrue budgettet op. Hvad det nu kan være? Det er den forkerte målgruppe, jeg sætter ind. Altså, alle de der tvivlstanker, der kommer, hvis det er, at man ikke regner med, at leveringen er så god, som man har regnet med. Og det man så gør, som man ikke skal gøre, det er at gå ind og redigere i et annoncesæt, der er i læringsfasen. Fordi så bliver du bare ved med at fedte rundt i læringsfasen. Så den første, være tålmodig. Og det gælder alle former for ændringer. Vi skal nok komme til dem lige om lidt, hvordan de er delt op. Men i starten, lad være med at påvirke den, når den er i læringsfasen. Når den er ude af læringsfasen, så lad være med at lave dumme ændringer der også. Så i stedet for, lad os sige, Christian, du har sat en kampagne op. Du har holdt tålmodigheden på plads. Den er endelig kommet ud af læringsfasen. Vi har stabilt levering. Liv og glade dage, cirka en uge vi har. Og så tænker du, ej, nu går jeg altså ind. Nu er den lige kommet ud af læringsfasen, så nu kan jeg godt ændre den der kommafejl. Eller tilføje den nye annonce. Ej, vent nu lige lidt. Du må godt lige lade den køre bare en lille smule på stabilt levering, eller bulke dine ændringer, så du ikke lige laver en ændring hver eneste dag. Den tredje, det er en, som jeg tror faktisk overrasker folk. Lad være med at tilføje for mange annoncer til dit annoncesæt. Jeg plejer at lave sådan lidt et stamtræ. Og et stamtræ er det ikke, fordi vi skal gerne snakke familier og årsager, men jeg tror folk kan se det sådan visuelt i det. Så hvis du har en kampagneøver at stoppe, der har du et kampagnebudget på, lad os sige, 100 kroner. Så har du måske et eller to annoncesæt. Jamen, så splitter vi det bare ned på de to annoncesæt og siger, jamen, et annoncesæt til 50 kroner, et til 50 kroner, et til 50 kroner. Og derfra, jamen, så har vi så vores annoncer. Hvis du så skal splitte de 50 kroner ud på, lad os bare sige, 20 annoncer, jamen, så udvandrer du budgettet fuldstændig. Og så går det galt, fordi så kan Mesa sige, jamen, jeg kan lige nå at bruge 2 kroner på den her enkelte annonce. Jamen, det lærer vi sgu ikke meget af. Så havde det været bedre at sige, vi har et annoncesæt med 5 annoncer i. De får 10 kroner om dagen. Stadigvæk måske lige til den lave side, men trods alt bedre end 2 kroner. Så der, hvor der er også mange, der fejler, det er, at jeg faktisk kan lave for mange annoncer eller for mange annoncesæt, og dermed udvandre budgettet, udvandre læringen og gøre, at alle tingene faktisk bare sidder stok. Ja, fordi det, du nævner her, det er jo, hvor at det er ikke nødvendigvis de mange annoncer, men det er relativt til det budget, der er til rådighed, sådan så Mesa rent faktisk kan komme frem til noget læring i den her eksplorative proces. Og pandangen her fra over til Google Ads er jo den typiske med 1000 produkter. Man går ind i en shoppingkampagne og giver 50 kroner om dagen, og så skal den altså bare opnå en ROAS 300, og den kan bare selv finde ud af, hvilken af de 1000 produkter. Altså, når du så regner baglæns på CPC-priserne, du når ikke engang igennem alle produkterne en gang i løbet af et år. Det er sådan lidt den samme tankegang der. Så den kan jeg godt følge, den her med, at man vil for meget, men relativt til sit budget, så giver det bare ikke mening. Det er jo det sidste punkt, det er at bruge et realistisk budget. De fleste, som har annonceret på Mesa, jamen, de ved godt nogenlunde, hvad deres cost per lead, eller cost per purchase, eller hvad det nu er, nogenlunde er indenfor. Lad os bare sige, jamen, hvis vi ved, at vi skal betale 200 kroner for et webshopkøb, og vi skal have x antal kompenseringssender, for at komme ud af læringsfasen, så er det et relativt nemt regnestykke, hvad dit budget skal være inden for en 7-dagsperiode. Så hjælper det jo ikke, at du sætter 100 kroner om dagen. Altså, så kan du lige så godt lade være. Så ved du jo godt, hvad resultatet ender med. Så det handler også om at lave en lille smule matematik, inden du starter. Hvis du starter med 100 kroner om dagen, hvor du sidder fast, jamen, så skal vi nok komme tilbage til, hvad du kan gøre. Men hvis ja, du har budgettet, så regn baglæns. Hvad er nogenlunde forkastet CPI gang derop? Morten, nu hvor vi er ved de her ændringer, så ved jeg, at meta også skældner mellem det, der hedder signifikante ændringer, og jeg ved faktisk ikke, hvad bruger de som det modsatte term af signifikant ændring, af de her lidt mere bløde ændringer? Safe edit. For dansk, sikre ændringer. Langt bedre på engelsk. Safe edit. Signifikante ændringer og safe edit. Vil du lige prøve at tale os igennem igennem den del, fordi det er rimelig vigtigt, som annoncør at kende til forskellen på de to her, fordi det er jo egentlig her, hvor at den store reset kan komme til at ske, uden at man egentlig havde intentionen om at resette den her læringsfase. Så først vil jeg starte med at give, jeg vil nok give lidt en advarsel. Det er selvom det her, det er dokumentation, I kan finde inde på Metas egen dokumentationssider, så tag det med et græns salt. Fordi der har været så mange regler med, hvad du må af budget og hvad du må på annonceniveau osv. For det er en væsentlig ændring. En signifikant edit. Og så er der altså mange gange, hvor jeg sidder og laver en signifikant edit og så har det ikke påvirket læringsfasen. Og lige modsat har jeg lavet en safe edit, der har påvirket læringsfasen. Det kan være lidt sjovt der, men brug det som sådan Skal vi sige en tommelfingeregel, men vær opmærksom på igen at være med at lave ting bare for at lave, prøve at bulge dem i samme omgang. De signifikante ændringer du kan lave. Først og fremmest alt der vedrører targeting. Så hvis du har en bred målgruppe, og du går ind og lægger et, du eksploderer et custom audience, eller du inkluderer en lookalike, eller du ændrer alder, eller køn, eller whatever. Geografi, det er en signifikant ændring til din targeting. Det vil sige, først og fremmest alt der arbejder inden for målgruppen, lad være. Det er en signifikant ændring. Nummer to, alt der handler om ad creatives. Så hvis jeg går ind og tilføjer et 9-16 format på en af vores annoncer, fordi jeg halvdelen glemte at lægge det op på stories. Jamen det er først og fremmest et rigtigt eksempel, og nummer to også en signifikant ændring. Det samme hvis jeg slettede kreativ og reuploaded et nyt kreativ, eller jeg tilføjede en ny annonce. Nummer to, det er selvfølgelig, hvis vi går fra lige pludselig at sige, jamen vi vil gerne have leads, til at nu vil vi gerne have complete registration. Altså vi skifter optimeringshandelser. Også en signifikant ændring. Hvis da du vil tilføje en ny annonce, eller et nyt adset, også en signifikant ændring. Og den sidste, som måske egentlig godt kan bruges lidt som et hack nogle gange, det er, at du faktisk godt kan pause dine kampagner, eller dit annonce set, i op til syv dage, uden at når du så genstarter den, at du starter læringsfasen forfra. Så du kan godt holde en pause. Lad os sige, de næste syv dage, der skal alle på ferie. Der er ingen på arbejde. Vi synes det kunne være rart lige at slukke annonceringen. Jamen så har vi faktisk syv dage, hvor vi kan slukke annonceringen. Vi skal bare tænde det på syvende dagen. Hvis vi tænder på åttende, så går det galt. Men så kan vi faktisk godt pause, komme tilbage og fortsætte, uden der er sket noget. Og Morten, hvor ofte oplever du egentlig, at virksomheder, du sidder med, kommer til dig og siger, åh, de der annoncer, der vi satte i gang for en uge siden, som egentlig kører ret godt. Vi er lidt trætte af, at det er den forkerte lille farve, vi har fået på annoncen. Kan vi ikke lige uploade de her nye? Og så kan I ikke bare lige gøre det? Hvor mange gange har du sgu forklaret ud af det? Jeg er jo faktisk en lille smule forkælet i forhold til, hvem jeg arbejder sammen med. Det er jo ikke fordi, jeg nødvendigvis er arrogant eller bedrevidende, men jeg kender også mit eget temperament og tålmodighed, så jeg er heldigvis ikke så mange, der sidder og går op i, hvis der er en lille bitte fejl i whatever, brand color, lille farve, jamen, så går hele verden under. Hvis det var, jeg havde de former for samarbejder, så ville jeg ikke være den rigtige til at annoncere dig, fordi det er uden for min pædagogiske rækkevidde. Der synes jeg, at der er andre ting, der er vigtigere her i verden. Men dem, jeg har, der kan sagtens være, at vi har lavet en eller anden fejl alligevel. Hvis det er det, vi vurderer som en kritisk fejl, lad os sige, at vi kommunikerede, at der var 20 procents rabat, men der er ikke rabat, så vil vi selvfølgelig nødt til at ændre det. Hvis det er, at vi har lavet en kommafejl eller at der er en stavefejl eller andet, du kan ikke få mig til at ændre det. Jo, Pistolforplanen skal nok gøre det, hvis det ikke kun sidste ende ønsker, men jeg vil altid informere om at sige, lad os vente til, vi skal lave nogle flere ændringer, altså lad os vente til, vi skal tilføje nye annoncer om syv dage, så gør vi det i den forbindelse. Det er de færreste øjne ude ved forbrugeren, der ser de fejl, som vi ser. Det er altid lidt rigtigt. Ja, så budskabet er vel egentlig, man bliver nok nødt til nogle gange at sluge nogle kameler, hvis man har noget, der rent faktisk fungerer, selvom der er et eller andet, der lige det twitcher lidt i øjnene, når man kigger på det selv, men altså hvis det fungerer, så fungerer det, med mindre at man for eksempel, som du siger, har kommet til at skrive 20 procent rabat, og man ikke har rabat, jamen så er læringsfasen jo også bare startet fundamentalt et forkert sted. Der er jo den læring, den har fået, er bare ikke, hvad skal man sige, i god søgnende korrekt sat lidt på spidsen, men hvordan er det, nu kom du selv ind på det her med et komme at copy. Jeg ved, der har tidligere været snak om den her at copy-regel. Hører den ind under, altså når du ændrer i at copy eller ej, eller er det en af dem, der falder imellem de her to stolevarer? Nogle gange går det godt, nogle gange går det ikke. Det er faktisk en af dem, der falder under i officiel dokumentation et safe edit. Jeg synes virkelig, det er måske en lidt lavt sat, men 50-50 i min bog. Jeg synes godt nok, jeg har været inde og ændre en at copy tit, trykket publish, og så er hele balladen startet forfra. Så har jeg fået et screenshot af en changelog fra hvem det nu end kunne være, der siger, hvorfor er vi i læringsfasen igen? Jamen, det er jo mig, der lige ændrede en at copy. Jeg vil sige, det er ikke sket så tit for nyligt, og at copy burde være en af de, der er safe editet. Så hvis du går ind og ændrer kommefejlen, eller overskriften, headline'en, eller hvad det nu kan være, så burde det ikke påvirke læringsfasen. Det er kun selve kreativt, den påvirker det. Det er det samme med, hvis du skal skrue op og ned for dit budget. Det må du egentlig gerne. Der er en god gammel tommelfingerregel, der hedder 20% skal du holde dig til op eller ned på daglig basis. Der er nogle rygter, og der er også noget dokumentation, som bekræfter rygterne på, at det faktisk er op til 75%. Men jeg sidder stadigvæk den dag i dag og redigerer omkring 20%, fordi jeg har oplevet, at hvis vi gjorde det med 40, så gik det galt. Så, hvad mindre det er, at det er Black Friday, hvor du siger, at jeg skal skrue op med 140, så skru op med 140 og glem det. Men til dagligdagsdrift hold dig til de 20. Lad os lige prøve at dykke lidt videre i det her, fordi jeg tror, at jeg har en problemstilling her, som jeg ved, at mange andre sidder med. Lad os bare tage et simplificeret eksempel. Vi har en kampagne, et annonce-sæt og fem annoncer. Det her annonce-sæt er kommet ud af læringsfasen. Det spiller bare, at man har nogle relativt fine resultater, men man vil jo gerne have mere. Mere vil have mere, og man tror på, at man kan gøre det bedre. Og man har været ude i baghaven og skyet en eller anden fantastisk god annoncevideo. Den vil man gerne have ud og leve, fordi man tror, at den her, den sidder altså lige i skabet. Hvad pokker gør man så? Fordi hvis man uploader en ny annonce i det her givende annonce-sæt, der måske er kommet ud af læringsfasen. Resetter man så det hele? Altså spiller man lidt Jeopardy? Eller hvordan ser det ud den dag i dag? Hvad vil du anbefale her i det her lidt lavpraktiske eksempel? Så, det er lidt tilbage til, at nogle gange følger Meta ikke selv sine egne regler, og det tror jeg, at de fleste Meta-arrangører kan genkende til. Så nogle gange har jeg uploadet annoncer uden at påvirke læringsfasen. Men lad os nu bare antage dokumentationerne 100% korrekt. Der bliver ikke raflet med terningerne. At uploade en ny annonce, det er lige med at vise ad læringsfasen. Jeg tror, jeg vil se det på to punkter. Den ene, først og fremmest, det vil være, at vi er ude af vores læringsfase. Vi har stabil levering. Vi kan begynde at se, at selvom vi har stabil levering, så stiger vores CPA. Den stiger lige så stille dag for dag. Vores konklusion, det kan være, at det er, fordi vi begynder at ramme adfatik, eller at vi i vores annoncer kun tiltaler en målgruppe. Jamen, hvad er så værst? Og ikke at lave nogle ændringer, og bare fortsætte med de der fem annoncer og se CPA'en stige, eller tage chancen og sige, ved du hvad, vi skal nok komme ud af den læringsfase igen. Men nu tilføjer vi altså nogle nye kreativer. Så vil jeg tage den og sige, jamen, lad os da prøve at ændre udfaldet og få den CPA'en ned. Nummer to vil være en forlængelse af den. Jeg vil være ked af, at man gjorde det her for at tilføje én annonce. Der synes jeg godt, man må sige, okay, jamen, i dag, jeg ser nu min CPA stige de sidste tre dage. Nu går jeg ind og tilføjer én nye annonce. Hvorfor kun én? Så vil jeg næsten hellere, at du venter til i morgen, og så du tilføjer to. Eller du venter til overmorgen, og tilføjer tre. Tilbage til det her med, jo flere ændringer vi ligesom kan bulke. Lad os sige, vi skulle alligevel ind og tilføje et 9-16 kreativ på en af annoncerne. Vi skulle alligevel lave en ændring på et kopie. Vi skulle måske alligevel skrue budgettet op med mere end 20%. Jamen, i den forvindelse lad os lige sætte tre nye annonce-liver i stedet for at gøre det altså, igen, på dagligdagsdrift. Så lad os lige prøve et kort sekund og hoppe tilbage til spørgsmålet fra Alex, fordi, og nu tager jeg bare lige et kort lille uddrag herfra. Han skriver, problemet er, at det er svært at få nok salg til at få et stærkt signal. Algoritmet kan ikke optimere. De her signaler, hvor mange er det Meta siger officielt set, at de skal have, og hvad er din erfaring her? Så, Meta siger, hvis vi arbejder med website, der er faktisk nogle andre regler for shop-ads, fordi signalet sker på platformen, men jeg tror godt, jeg kan sige 99,9% af danske annoncer bruger ikke shop-ads. Der skal vi til et market, der starter med US. Så, hvis vi tager udgangspunkt i en website kampagne om det er B2B eller B2C, så er dokumentationen, at man skal have 50 kompeteringer, altså 50 hvor mange er det, Meta siger officielt set at de skal have og hvad er din erfaring her? Meta siger, hvis vi arbejder med website, der er faktisk nogle andre regler for shop-ads, fordi signalet sker på platformen, men tror godt I kan sige, 99,9% af danske annoncerer bruger ikke shop-ads. Der skal vi til et markede, der starter med US. Så, hvis vi tager udgangspunkt i en website kampagne om B2B eller B2C, så er situationen, at man skal have 50 kompeteringer, altså 50 f.eks. webshop-køb eller leads, inden for et 7-dags-vindue. Den her regel eksisterer stadigvæk, men jeg har virkelig både set og læst mange eksempler på, at den er ligegyldig. Grunden til det er det, det er fordi vi har fået en bedre algoritme. Det er noget så simpelt som det. Den her 50 kompeteringer inden for 7-dags-vindue, den var der også, da jeg begyndte at lave meta-annoncer tilbage i 2018. Og der forstod jeg det måske i højere grad, men i dag er vi lidt et andet sted, end vi er i 2018, kan jeg nok godt sige. Og der er nogle AI-modeller, og der er et kæmpe, kæmpe, kæmpe setup hos Meta, der gør, at der er mange steder og mange konti, hvor først og fremmest, så kan du se den her progress bar på dit annonce-set. Den er faktisk sat ned, så du kun skulle have 20 kompeteringer. Der er også mange, som har cases, hvor de siger, jamen, Meta har faktisk været okay med det, hvis jeg har fået 10 inden for 3 dage. Så er den faktisk ændret sin leveringsstatus fra en learning til ud-learning, altså bare til aktiv. Så selvom man ved fra skolebænken 50 inden for 7 dage, så er der faktisk mange eksempler på, at det ikke reelt er et krav. Det er mere en retningslinjer. Det er mere deres built-to-scale. De siger, det er deroppe, hvor du rammer en, kan man sige, høj nok statistisk signifikans til, at Meta leverer en stabil levering. Men der er mange eksempler på, at hvis du har fået 10 kompeteringer på 7 dage, så er kampagnen alligevel gået aktiv, og så er det været rigeligt. Hvis det er, at man har det her, som Alex har, hvor man siger, jeg har svært nok ved at få de her 50 kompeteringer, først og fremmest er spørgsmålet til Alex, er det så fordi, du har 10, 20, 30 eller 40? Hvis vi nu anser, at det er 20, du har, så tror jeg faktisk, det er nok. Du kan også være heldig, det er 10. Hvad gør du, hvis det er, at du sidder fast i læringsfasen, selvom du har de her 10? Først og fremmest, prøv at konsolidere mest muligt. Hvis du har 3 kampagner lige nu, lav 1. Hvis du har 3 annoncesæt, lav 1. Hvis du har 20 annoncer, lav 5. Altså tilbage til, at vi skal prøve at samle mest muligt. Også fordi, når du går fra at have 3 kampagner eller 3 annoncesæt til at have 1, så har du forhåbentlig også noget budget, du kan rykke hen og samle dit budget. Og alt andet lige, så vil vi gerne samle vores budget, samle vores læring, og dermed prøve at maximere antallet af signaler. Nummer 2. Signalkvalitet betyder utrolig meget i forhold til det her med læringsfasen. Så en ting er antallet, altså tæl til 50 eller tæl til 10. Men alt efter, hvordan du har sat din tracking op, så er det også ret afgørende. Det er noget, der er med til at hjælpe, om META skal bruge 20 eller 50. Hvordan er din Event Match Quality, altså EMQ-score? Har du sat conversions-API op? Det duplikerer du dine events. Hvad det nu kan være. Er din data-freshness høj nok? Men når jeg hører det her, så lyder det også som om, at du taler lidt væk fra at gå... Lad mig stille det her spørgsmål på en anden måde, fordi tidligere, der kunne man godt have en tendens til at anbefale at gå lidt højere op i den her tracking-trakt. Altså hvis ikke du får konverteringer nok, så går vi til det næstbedste, det er for eksempel add-to-cart. Så vil vi gerne have fat i de folk, der tilføjer noget til kurven. Og hvis man heller ikke har nok af dem, så går man til dem, der rent faktisk lander på landingssiden og måske bruger x sekunder derpå, der klikker sig videre. Så man ligesom ser på dem bag. Altså jeg vil egentlig gerne have et salg, hvis det er en e-commerce-forretning, men jeg får simpelthen ikke nok igennem til at komme ud af den her læringsfase. Hvad gør jeg så? Jamen så går jeg til det næstbedste, hvor jeg rent faktisk får nok i godseøjne konverteringer eller signaler. Jeg skaber nok signaler til algoritmen til, at jeg kan komme ud af læringsfasen. Hvad tænker du omkring den? Er det stadigvæk anbefalingen den dag i dag? Skal man holde sig fra det? Skal man gå benhårdt efter de her salger, som man jo reelt set gerne vil have, skal lykkes? Hvad tænker du omkring det? Jeg har uden at overdrive på syv år set det her fungere én gang. Én gang har vi prøvet at gå fra purchase til add-to-cart, fordi du får flere add-to-carts, end du får purchases på en webshop, hvor det rent faktisk var et bedre resultat. Men jeg har også set rigtig mange studier, som vi selv har lavet, hvor vi har sat de her to op mod hinanden. Og jo, så har du fået flere add-to-carts, hvis du gerne vil have add-to-carts, men vi har stadig fået flere purchases, selvom vi ikke har fået nok, hvis det giver mening. Så selvom det er, at vi struggler med fem salger om ugen, hvis vi ender deres add-to-cart, så har det måske været to, vi har fået lige pludselig. Og det gør det jo faktisk endnu værre. Så kan du godt være kommet ud af læringsfasen ved at få nok add-to-carts. Problemet er bare, at meta er faktisk ekstremt simpelt at forstå. De har bygget en maskine, hvor de siger, hvad vil du gerne have? Jamen, jeg vil gerne have køb. Fedt. Så gør vi alt i verden, før vi prøver at skaffe dig nogen køb. Hvis du siger, nu vil jeg faktisk gerne have nogen add-to-carts, jamen så jagter den jo add-to-carts og finder dem, som er rigtig gode til at lægge ting i kurven, men er rigtig dårlige til at købe. Fordi så skulle du jo optimere efter at købe. Det er dem, der bruger det som sådan en indkøbsliste, ikke? Sådan en ønskeliste. De har ingen intention om at købe dit produkt, ingen intention om at åbne mobilpenge. Så du får det, du beder om. Og det vil sige, jo, kan du gå op i trakten? Ja, du kan begynde at arbejde med, okay, skal jeg lægge noget topfunnel, altså noget videovisninger på? Øh, kunne det være, at jeg skulle ændre en midtfunnel, så i stedet for at være trafik, så var det en, hvad ved jeg? Hvis det ellers ikke endte, kan det godt være en hovedtest. Så skulle vi aktivere nogle lead-outs. Nogle af de der ting kan vi jo stadigvæk godt arbejde med, men i din konverteringskampagne, der skal du opsætte det efter purchase. Ikke add-to-cart, ikke mere content. Det er 9 ud af 10 gange helt galt. Morten, vi bliver næsten også nødt til at komme lidt ind på budgettyper, for det er også et af de spørgsmål, jeg ved, at vi rigtig ofte får. Livstidsbudget vs. dagligtbudget. Og jeg ved, at du har en stærk holdning her, så jeg vil næsten bare glade dig for ordet her, for det er simpelthen fornøjelse at høre. Jeg er glad for, at du bare siger her og ikke også her. Jeg er jo blevet ældre med tiden, og det betyder også, at mine holdninger, de er jo blevet stærkere og stærkere. Jeg står jo bare af sådan en god omgang mørbrækryde, der bliver ved med at koge. Og lige forhold til budgetter. Nu har jeg haft fornøjelsen af at oplære rigtig, rigtig mange i vores afdeling inden for social media, og den her er sådan en, jeg har haft med hver eneste gang. Det er en, hvis du skal på mit projekt, så er det sådan her, vi gør. Og så er det heldigvis kommet ud til andre folk, der også har kunne se det. Men hvis du læser skolehåndbogen på Meta-annoncering, så ved du, at du kan arbejde med livstidsbudget og dagligtbudget. Hvad er forskellen? Jamen, livstidsbudget, der sætter du kampagneperioden. Jeg vil gerne sætte kampagnen op den første, den skal slutte den tredje. Vores budget siger, at vi har 170.000. Jeg skriver 170.000, og så skal Meta nok sørge for, på de enkelte dage, at bruge budgettet. Det kan være, at den bruger 100 kroner i dag, og den bruger 1000 kroner i morgen. Den finder ud af, hvornår det er bedst at bruge pengene. Og dagligtbudget, jamen det er til dig, der bare gerne vil bruge det samme budget hver eneste dag. Sådan burde det være. Sådan har det engang været. Altså tilbage til, ja, 18-19-tiden. Jamen der brugte jeg da mere livstidsbudget, end jeg brugte dagligtbudget, fordi der passede den her mekanisme. Der var livstidsbudget bedre til at finde, skal vi kalde det hullerne i osten, i bl.a. en kalender. Hvor dagligtbudget var mere end, du har 1700 kroner, jeg bruger 1700 kroner. Dot 0 0. Hvis vi kigger på det i dag, så kan jeg ikke finde en eneste case, et eneste eksempel, en eneste kampagne, hvor jeg ville bruge livstidsbudget. Der er ingen fordel ved det. Tværtimod, de fungerer på præcis samme måde. Hvis man går ind og googler dailybudgets meta, jamen så finder man ud af, at et dagligtbudget, det bliver kigget ind over en syvdagsperiode. Så hvis jeg sætter 1000 kroner på mit budget i dag, jamen så behøves den ikke at bruge 1000 kroner i dag. Den kan godt bruge 500 og så bruge 1500 i morgen. Bare den har brugt 7000 på samlede uge basis. Altså præcis det, som vores livstidsbudget skulle gøre, modellerer sig til dagene og til efterspørgselene og til CPA. Så de fungerer på præcis samme måde. Og hvis de fungerer på præcis samme måde, så er der da mere fordel ved at have et dagligtbudget, fordi der kan du rent faktisk gå ind og sige, nu vil jeg gerne hæve mit budget eller sænke det. Hvor livstidsbudgetet, lad os sige, du har sat det til 100.000, du står den 21. juli, meta har brugt 80, du finder ud af, jeg har faktisk kun 85 eller jeg vil gerne op og bruge 140. Der er det meget svært at regne på et livstidsbudget. Hvor et på dagligtbudget, jamen der kan du netop lave den der, vi ved weekenden er god. Vi skruer op om fredagen, vi skruer ned om mandagen. Det er væsentligt lettere at budgetkontrollere. Hvor jeg forstår simpelthen ikke, hvis der er nogen, der sidder og løber med og har en god case på livstidsbudgetet, fordi endelig skriv til mig, eller livstidsbudgetet, sorry. Endelig skriv til mig, men jeg kan ikke se andet end, at dem der gør det, det er fordi det er nemt at skrive det fulde bløb, der står i dit budgetark og så indtaste en periode. Det jeg så også har set ved livstidsbudgetet, det er, de cases, og det har vi desværre i Obsidian, hvor vi har lavet aller flest årsager til overspend på meter, altså hvor vi har brugt flere penge, end vi er blevet bedt om, det er livstidsbudgeter. Fordi når du har sagt 170.000 i juli, så når du sidder 1. august om morgenen og ikke engang har fået din første kop kaffe, så skal du måske op og bruge 300.000 i august. Så skal du sætte dit budgetgang af, altså 170.000 plus 300.000, så skal du skrive 470.000, og sådan bliver det jo ved med at gange dig op. Der kommer flere og flere nuller på, plus du skal kunne regne, og selvom det er simpel regnestykker, når du sidder og laver det her, så bliver det sådan lidt en dummy task, og det kan tit gå galt. Der er det sgu lidt lettere med, altså jo, en enkelt dag, hvis du har brugt 500.000 i stedet for 250.000, det skal vi nok kunne finde ud af. Hvis du har brugt millioner i stedet for at bruge 100.000, det ender sgu lidt værre. Og når META ligger og kigger på det uendelige forbrug, så, de siger en uge, men nu sad jeg lige og kiggede her på, hvis man ser med på Spotify eller YouTube, så ville man kunne se, at jeg sidder inde på den officielle dokumentation, og jeg har sgu lidt svært ved lige at finde ud af, om det var rullende, altså rolling seven days, eller om det var på ugebasis, men jeg kan læse mig til her, at de ligesom tager udgangspunkt i det, at de må bruge på en uge, baseret på det daglige budget, søndag til lørdag. Så her med en lille service-info til andre, der eventuelt må decide at tænke på det. Nå, Morten, så hvis man vil have mest muligt ud af sine budgetter, så skal man gerne konsolidere. Oder was? To consolidate or not to consolidate? Hvis jeg stiller det spørgsmål, hvad tænker du så? To consolidate or not consolidate? Det er sådan noget, jeg kommer til at bruge til fremadrettede møder. Så først og fremmest, jeg plejer altid at sige det her 9 ud af 10 cases, fordi der er altid en, der nok skal være der, og så siger jeg, nej, det passer ikke, og så siger jeg, det er helt rigtigt, det passer ikke. Så 10 ud af 10 vil altid være en fejl at sige. 9 ud af 10 gange vil jeg gøre alt for at konsolidere mest muligt. Vi har snakket om det mange gange. Det står jo alt i dokumentationen, det står jo alt på LinkedIn. At give META mest mulig likviditet, liquidity i deres aktion, det er en god ting. Jo flere signaler, jo bedre levering, jo får flere signaler af at samle dine kampagner. Så hvis jeg skulle booke sig ind til en META-workshop, hvor jeg åbnede og sagde, jamen, der er 10 kampagner, og der er 20 annonce-sæt, jamen, så ville jeg bruge halvdelen af workshoppen på at sige, jamen, det skal vi så have samlet nu. Nu finder vi en struktur for, hvordan vi samler det. Der er nogle enkelte sådan, jamen, hvis vi har nogle forskellige produkter, eller vi har nogle forskellige kampagneperioder eller andet. Igen, det afhænger af signaler. Hvis du får 1000 køb om ugen, så kan du godt tillade dig at fragmentere ud. Hvis du får 50 køb om ugen, så kan du ikke tillade dig. Altså, så er det en kampagne. Så det afhænger igen af antallet af signaler. Men der er faktisk også en, som, hvis man følger med bare inden for nogenlunde i det her META-game, Bram van der Hallen. Hallen, måske. Jeg ved, han er fra Holland. Hvis du følger ham, så har han fornyeligt også gået lidt imod det her konsulteringsspørgsmål. Og det er jo en mand, som de fleste lytter til. Jeg tror, han har, jeg ved ikke, 50.000 følgere på LinkedIn. Vi har prøvet at booke ham til Social Acts Conference de sidste tre år i streg, og de sidste tre år har han skrevet den samme besked hver eneste gang. Han er rigtig glad for at skrive hver eneste dag på LinkedIn, men han er ikke glad for at stå på en scene. Men Bård, det er blevet til at høre. Bram, jeg tror, de fleste, der arbejder med digital markedsøgning, har set ham eller kender ham fra LinkedIn. Hvor får han sin information fra? Fordi han er vel ikke ansat af META? Nej, og han er jo heller ikke ansat i et gigantisk byrå, som kender en eller anden, der kender en eller anden. Som jeg har hørt det, og som jeg har forstået det, jeg har spurgt ham, altså, nu når han ikke vil stille op til konferencen, så må da han give os noget andet. Han har en, jeg mener det var en Discord-gruppe, som hedder Bram Insiders, som, lad os bare sige, der er 1000 personer derinde. Jamen, alle sidder og laver META til fredag. Så når de spotter en ændring, så lægger de den derind, og så lægger han den op. Så det er ikke fordi, han sidder på en konto, der bare er helt magisk, og META giver alle sammen de nyeste features. Det er fordi, han har, altså det er jo en kult, altså, alle der bare filer information til ham. Det er derfor, han også nogle gange skriver, Spotted by X. Ah, okay. Så han er sgu bare en grib, det er det jeg siger. Jeg har ikke engang skrevet til ham, sådan, den her, den har du ikke set. Det havde han ikke. Det var så også fordi, jeg havde fået noget insight. Så, vi battlede lidt om det, uden at jeg kendte ham 100%. Men, han er, især efter man er introduceret, META Gem, META Lassage, META Andromeda, som har vi været igennem tidligere. Jamen, der gik han faktisk lidt imod, og sagde, at der er alt for mange specialister, der nu kun taler om, Atvantis Plus smider det ind i en stor pærevalgning. Og så kunne du bare få automatisk algoritmen til at vinde i lotto. Hans argument er, at det kan godt være, du får samlet dine signaler, samlet dit budget, og du får en større reach på kontoen, men at du også i højere grad graver dig ned i et hul. Vi har tidligere nævnt det her incremental reach, hvor hvis du har en salgskampagne, der bare kører, og kører, og kører, så lige pludselig rammer du et punkt, hvor den ligesom bare grader sig fast. Hvor det er de samme bruger, du tog i april, som du tager i maj, og du bare bliver ved med at geneksponere den samme sø. Du ser kun ud at fiske af det samme sted hver eneste gang. Til sidst er der bare ikke flere fisk i søen. Det er lidt det samme, han har her, så vi mangler faktisk noget impact. Og det er jo ikke fordi, han nødvendigvis snakker om, at META prøver at snyde os, eller at vi skal begynde at fragmentere 10 annoncer selv ud. Han snakker i højere grad om, at vi skal være opmærksom på incrementality, altså at Advantage Plus ikke må gå fuld retargeting på vores levering. At vi skal kigge på, hvordan vi kan supplere med reach, altså som et selvstændigt spor, topfunnel spor, og generelt sig bare være mere sofistikeret. Altså arbejde med value rules til jeres prospecting. Fragmentere det ud, hvis det er, at I gerne vil byde på value i stedet for lowest cost. Så det er jo egentlig, hvor han siger, at ja, til del skal I følge algoritmen, men I må jo godt tilpasse den. Og det er jo rigtigt nok. Altså jeg er langt hen ad vejen ind i ham. Og det er tilbage til det der gode gamle budskab om, nu er META blevet så nemt. Og det er det, der er problemet. Det er, at når det er blevet nemt, så er der faktisk ting, der er blevet svært, og det er, at du ikke bare kan lave en Advantage Plus kampagne, og så sige, hippie karriere, nu kører vi. Du skal stadigvæk kunne sige, jamen, hvordan aflæser vi vores resultater? Hvordan aflæser vi vores målgruppe? Hvordan beregner vi incremental reach? Hvordan kigger vi på incrementality? Hvordan kan vi få flere folk ind i folden? Og så vej så. Morten, nu, jeg var egentlig ved at skulle til at runde den her episode af, men jeg bliver simpelthen nødt til lige at høre det her, fordi du nævner et ord, et nøgleord. Skal vi kalde det et brandvarmt emne? Retargeting. Jeg kan, altså jeg ved ikke, hvor mange gange jeg har logget ind på en mediattskonto, hvor det er, at man har delt sin kampagne om en retargeting og en, der hedder prospecting. Det er den helt, helt klassiske, og den lever i allerbedste velgående. Eller gør den så også det? Jeg gad godt lige at høre din holdning her til sidst til den del, for nu hvor vi er i gang med at snakke omkring fragmenteret setup vs. konsolideret setup, incremental reach osv. Hvad er din holdning der? Hvad ser du? Jamen, nu skal jeg jo passe på, hvad jeg siger, fordi jeg ved det, at jeg har før sagt til... Jeg har før sagt det til Webinar, og der blev jeres bogbogler. Og det betyder jo højst sandsynligt også, at vi rammer rigtigt, fordi så betyder det, at der er rigtig mange, der har det her. Altså, hvor jeg har lavet en kampagne til prospecting og en til retargeting. Hvis i er helt gale, så kalder jeg det remarketing, og så har vi en helt anden snak. Men jeg har en meget, meget, meget, meget stærk holdning til retargeting. Og det er i mig aldrig nogensinde, og nu kommer jeg til at sige 10 ud af 10. Jeg har sagt 9 ud af 10 i hele episoden. Nu siger jeg 10 ud af 10. 10 ud af 10 gange vil jeg aldrig nogensinde oprette et dedikeret retargetingsbord til min purchase eller lease kampagne. Aldrig. Altså, det er et stort A, det er et stort L, og det er et stort 3. Fede streg under. Aldrig. Jeg glæder mig allerede til at klippe den her ud. Som en lille kort sekvens. Fantastisk. Jamen, det er altså... Det er en lang historie, og jeg kunne snakke om det her fra nu til juleaften, og så tror jeg stadigvæk ikke, at jeg vil være enig med alle, der lytter med. Men hvis jeg skal prøve at forklare det kort og også på et behærsket måde, hvor det ikke bare lyder, som om det er et personligt vendetta mod retargeting, så er det først og fremmest, fordi da vi lavede de her kampagneopdelinger i prospecthangen retargeting, jamen, det var igen meget sådan 2018-2019, hvor vi sad og lavede kohortanalyser inde i Facebook Analytics og Facebook Expiration, hvor vi kunne se, fra en bruger, jeg lavede et view content til et add to cart til et purchase, hvor mange dage gik det så, så lavede vi retargeting for lås med 1-3 dage, der skulle der være det her budskab, og 4-5 skulle der være det her, og så 7-14 skulle der være det her, og det var jo fedt dengang, men vi skal også bare lige blive enige om, at de kampagner, hvis vi kigger på inkrementel værdi, så hvis vi tager vores incremental breakdown ud på vores kolonne, jamen, så kan det godt være, hvis man kiggede i standardview'et, at det er dem, der har en mega høj ro og snøg i en CPA, men hvis du kigger incremental, så er det dem, der havde købt det alligevel. Og nummer to, hele Advantage Plus shopping kampagens strukturen er jo lavet til at samle prospecting og retargeting. Den tredje, men sidste, fordi det var den, jeg fik mest høvde for sidst, og det er primært webshop, jeg taler til her. I B2B vil jeg faktisk give jer den, at der kan det godt give mening at lave retargetingsspor. Jeg vil nok ikke gøre det politisk, fordi så mangler vi nok signaler, men det er gigantiske, men til webshops, der blev der spurgt mange gange sådan, jamen du kan da ikke bare servere det samme budskab til prospecting som retargeting? Hvorfor ikke? Hvis vi nu antager, Christian, at du starter en webshop i dag, hvor meget vil du så gå op i, at kommunikationen til dine brugere, der havde set dig før, lad os sige, at der er en bruger, der har været inde på dit site for 174 dage siden, og det er inde i din websiteview-kampagne med retargeting, vil du så gå op i at tænke, jamen de kan jo nok huske dig? At jeg skal skrive, hey tak for sidst du lavede resten af produktet i kogen. Med den rigtige fond, og den rigtige bill, og det rigtige, ej for pokker. Og en god annonce skal sgu lidt compounde alt, altså du laver ikke en aktion, baseret på en stalking message. Altså tilbage i 2018, da vi havde, det var IOS og alt på laden, vi kunne fandme køre at springe i 28 dage, og vi kunne se en af de folkes personnummer, og vi trackede ting. Der kunne du jo lave nogle beskeder, hvor vi var sådan, det her, det er for meget. Hvor jeg kunne skrive, hey, du har for nylig, eller du har inden for de sidste fire timer kigget på det her produkt. Husk det, fordi det lægger i din ko. Ja, det var vildt. Og der lægger du at have en anden relevans. I dag, hvis jeg har været inde på dit website, og så ville skrive, tak for dit besøg. De fungerer sgu ikke, mand. Igen, hvis du har en god prospect annonce, generelt, du skal bare lave en god annonce, og så skal folk nok komme til dig, fordi retargeting er i bund og grund bare en påmindelse. Så du behøver sgu ikke lave en dedikeret påmindelse. Det er nok bare at vise annoncen. Vi har tit gjort der på Black Friday, nu giver jeg sgu et gratis sæk ud, det kommer nok til at koste mig lidt, men til Black Friday. Mange af de cases, jeg har, hvor vi sidder og laver Black Friday i ugen, ved vi, at CPM-prisen stikker af. Vi ved, det er svært at bruge budget nok til konverteringskampagner, fordi alle går i aktionen. Så alt det her retargeting, dem, der har været med på en Facebook-begivenhed, er med på en CM-liste, de får sgu et reach på, fordi vi ved, det eneste, vi skal, det er bare at påminde dem, om vi er her. Så lad os bare bringe impressions afsted til en CPM, der er en femtedækkel af de andre. Jeg må bare være ham, der nu påkalder at sige, at vi har kun en episode tilbage, før alle kommer på ferie. Hvis der er nogen derude, der sidder og laver retargeting, vil I ikke godt, please, bruge jeres penge på en anden måde. Alt det META-bygget op. I sidder med verdens bedste algoritme, verdens bedste og sofistikerede platformer osv. Lad nu være med at tro, I kan lave en syvdagsperiode, og så tro, at en kunderejse, den er lavet lige efter trakten, og den er ligne og pisselort. Altså, sorry for mit sprog, men det er mit rage nu. Og jeg bliver så ked af det, for der er så mange muligheder for at gøre det bedre. Og det er det, jeg vil sige. Det er ikke fordi, I gør det dårligt, I kan bare gøre det bedre. Og det var præcis sådan der, jeg gerne ville slutte den her episode af. Og det var ikke for, at jeg ville ikke gøre dig ked af det, Morten. Men jeg håbede lidt på den her reaktion, fordi med det, der ville vi ordne af. Jeg ved bare, at når folk lytter, så tænker de sådan nu, Morten er godt nok også bare afganget selvfed, og han siger heller ikke noget, der er særlig pænt. Men ham, Christian, han virker supersød. Og med det, så tror jeg, vi vil ordne af på dagens episode. Tusind tak til Alex, først og fremmest, for det gode spørgsmål. Tak til dig, Morten, for igen og igen at deltage i MarketingPod, og dele ud af dine vanvittige fede indsigter. Og til dig, kære lytter. Tusind tak for at lytte med. Husk, at vi udkommer hver mandag, hver torsdag, alle uger på året, kl. 0600. Og næste torsdag, som Morten også lige fik sagt, der er Morten og jeg på pinden igen, fordi halvstanden er, jep, stadig på ferie. Men vi glæder os til næste torsdag. Vi lyttes ved.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 5.0,
+      "text": " Hej og velkommen til dagens episode af MarketingPod."
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": " Dagens episode udspringer sig af et spørgsmål, som vi har fået af en lyttere."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": " Og vi får ofte nogle kanon gode spørgsmål fra jer kære lyttere, som vi løbende tager op."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": " Og i dag er som sagt ikke nogen undtagelse."
+    },
+    {
+      "start": 16.0,
+      "end": 24.0,
+      "text": " Og det her er et af de spørgsmål, som leder os hen til nogle af de lidt mere tekniske aspekter af meta."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": " Og derfor er det jo kanon heldigt, at jeg igen og igen har Morten Meta med mig i studiet,"
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": " mens halvdan han er et eller andet sted i Asien og holder ferie."
+    },
+    {
+      "start": 32.0,
+      "end": 37.0,
+      "text": " Morten, hvis jeg nu lige læser det her spørgsmål højt, skal vi så ikke lige prøve at tage afsæt i det?"
+    },
+    {
+      "start": 37.0,
+      "end": 44.0,
+      "text": " Spørgsmålet kommer fra Alex, og nu læser jeg bare lige den del af beskeden, hvor spørgsmålet er i."
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": " Så, det Alex skriver det her."
+    },
+    {
+      "start": 46.0,
+      "end": 49.0,
+      "text": " Han har netop lanceret et e-commerce produkt selv."
+    },
+    {
+      "start": 49.0,
+      "end": 52.0,
+      "text": " Den oplagte tanke er at køre en lansering med mål om salg."
+    },
+    {
+      "start": 52.0,
+      "end": 56.0,
+      "text": " Problemet er dog, at det er svært at få nok salg til at få et stærkt signal."
+    },
+    {
+      "start": 56.0,
+      "end": 57.0,
+      "text": " Algoritmen kan ikke optimere."
+    },
+    {
+      "start": 57.0,
+      "end": 64.0,
+      "text": " De kloge hoveder, jeg har talt med, har sagt, at jeg skal optimere mod landing page view, eventuelt engaged sessions."
+    },
+    {
+      "start": 64.0,
+      "end": 69.0,
+      "text": " Men, hvornår skal man skifte fra det ene til det andet, og har de kloge hoveder ret?"
+    },
+    {
+      "start": 69.0,
+      "end": 71.0,
+      "text": " Hvad tænker du om det, Morten?"
+    },
+    {
+      "start": 71.0,
+      "end": 74.0,
+      "text": " Jeg tænker, at det starter lidt et andet sted."
+    },
+    {
+      "start": 74.0,
+      "end": 78.0,
+      "text": " Så for at vi også lige kan få lidt at snakke om, så skal vi jo starte fra fundamentet."
+    },
+    {
+      "start": 78.0,
+      "end": 81.0,
+      "text": " Og det er læringsfasen. Det er jo, hvordan vi måler signaler."
+    },
+    {
+      "start": 81.0,
+      "end": 83.0,
+      "text": " Hvordan meta er eksplorativ i aktionen."
+    },
+    {
+      "start": 83.0,
+      "end": 85.0,
+      "text": " Hvordan den går ud og finder brugere."
+    },
+    {
+      "start": 85.0,
+      "end": 89.0,
+      "text": " Og netop det her med, hvordan får vi algoritmen til netop at optimere."
+    },
+    {
+      "start": 89.0,
+      "end": 94.0,
+      "text": " Og så skal vi nok vende tilbage til de kloge hoveder, og hvad der er sandt, og hvad der er falsk."
+    },
+    {
+      "start": 94.0,
+      "end": 101.0,
+      "text": " Men vi starter med læringsfasen, fordi læringsfasen er faktisk det centrale element i, hvordan meta kalibrerer."
+    },
+    {
+      "start": 101.0,
+      "end": 104.0,
+      "text": " Og meta, til jer der har lyttet med før, til jer der sidder med meta,"
+    },
+    {
+      "start": 104.0,
+      "end": 108.0,
+      "text": " det er nok ikke nogen hemmelighed, at meta er ekstremt signalstyret."
+    },
+    {
+      "start": 108.0,
+      "end": 111.0,
+      "text": " Så vi kommer til at sige ordet signal eller signaler."
+    },
+    {
+      "start": 111.0,
+      "end": 115.0,
+      "text": " Rigtig mange gange i dag. Rigtig mange gange."
+    },
+    {
+      "start": 115.0,
+      "end": 119.0,
+      "text": " Og vi starter med, hvordan læringsfasen er bygget op."
+    },
+    {
+      "start": 119.0,
+      "end": 122.0,
+      "text": " Den er bygget op som en stor sandsynlighedskalibrering."
+    },
+    {
+      "start": 122.0,
+      "end": 127.0,
+      "text": " Det vil sige, når algoritmen skal løse det, som vi kalder sådan et multi-armed bandit problem."
+    },
+    {
+      "start": 127.0,
+      "end": 129.0,
+      "text": " Det vil sige, den skal gå ud og finde det, vi bærer den om."
+    },
+    {
+      "start": 129.0,
+      "end": 133.0,
+      "text": " Hvis vi sætter en saleskampagne op, eller en leadskampagne, som i det tilfælde med Alex."
+    },
+    {
+      "start": 134.0,
+      "end": 138.0,
+      "text": " Jamen, så skal den gå ud og sige, okay, de første x procent af vores budget,"
+    },
+    {
+      "start": 138.0,
+      "end": 141.0,
+      "text": " det skal vi bruge til at være eksplorativ."
+    },
+    {
+      "start": 141.0,
+      "end": 143.0,
+      "text": " Det vil sige, den skyder bare med sit brædhavn."
+    },
+    {
+      "start": 143.0,
+      "end": 148.0,
+      "text": " Den går ud i det meste af Danmark og siger, okay, hvad er placeringer, tidsintervaller,"
+    },
+    {
+      "start": 148.0,
+      "end": 154.0,
+      "text": " køn, alder, interesser, og så krydre med de website-signaler, I har."
+    },
+    {
+      "start": 154.0,
+      "end": 160.0,
+      "text": " For at finde lige præcis den formel, der er bedst, for at skille et budget op til den rigtige bruger."
+    },
+    {
+      "start": 160.0,
+      "end": 167.0,
+      "text": " Så forestil jer en, der bare hævler 101 kroner afsted, og så skal vi ramme den rigtige person."
+    },
+    {
+      "start": 167.0,
+      "end": 169.0,
+      "text": " Og så når vi har gjort det, så giver vi den gas."
+    },
+    {
+      "start": 169.0,
+      "end": 173.0,
+      "text": " Det er sådan lidt som, jeg forestiller mig sådan en telefonsælger, der har fået tusind forskellige telefonnummerer,"
+    },
+    {
+      "start": 173.0,
+      "end": 176.0,
+      "text": " som bare sidder og hamrer dem igennem, og der bliver skabt nogle salg engang imellem."
+    },
+    {
+      "start": 176.0,
+      "end": 180.0,
+      "text": " Og ved hver salg, der ligger han og skriver ned, hvad der kendetegner den her person."
+    },
+    {
+      "start": 180.0,
+      "end": 184.0,
+      "text": " Men også der, hvor der ikke er skabt salg, der sidder han og skriver ned, hvad der kendetegner dem."
+    },
+    {
+      "start": 184.0,
+      "end": 188.0,
+      "text": " Og på en eller anden måde, så begynder algoritmen lige så stille i den her eksplorative fase at finde ud af,"
+    },
+    {
+      "start": 188.0,
+      "end": 190.0,
+      "text": " hvad det er for en retning, den skal gå i."
+    },
+    {
+      "start": 190.0,
+      "end": 194.0,
+      "text": " Og før vi kommer videre, skal vi så ikke lige prøve at definere det ord, som du nævnte lige før?"
+    },
+    {
+      "start": 194.0,
+      "end": 197.0,
+      "text": " Signal. Hvad er det egentlig, vi mener, når vi siger signal?"
+    },
+    {
+      "start": 197.0,
+      "end": 204.0,
+      "text": " Signal, der mener vi den optimeringshændelse eller konverteringshændelse, som vi beder kompanien om, at vi skal have."
+    },
+    {
+      "start": 204.0,
+      "end": 207.0,
+      "text": " Det tror jeg er det bedste eksempel, vi kan bruge, som alle forstår."
+    },
+    {
+      "start": 207.0,
+      "end": 210.0,
+      "text": " Vi sætter en salgskampagne op. Vi vil gerne have salg til vores webshop."
+    },
+    {
+      "start": 210.0,
+      "end": 213.0,
+      "text": " Det vil så sige, så måler vi på salg."
+    },
+    {
+      "start": 213.0,
+      "end": 215.0,
+      "text": " Altså er der nogen, der køber et par skrue?"
+    },
+    {
+      "start": 215.0,
+      "end": 219.0,
+      "text": " Det kan være i B2B, der måler vi, at dem, der udfølger kontaktformularen,"
+    },
+    {
+      "start": 219.0,
+      "end": 222.0,
+      "text": " eller et white paper eller andet, det er vores signal."
+    },
+    {
+      "start": 222.0,
+      "end": 227.0,
+      "text": " Og dem vil vi gerne have flest mulighed af, fordi jo flere signaler, vi kan give til meta, jo mere den får igennem,"
+    },
+    {
+      "start": 227.0,
+      "end": 231.0,
+      "text": " jo større chancer er der for, at sælgerne har skrevet nok ned på sine ord og siger,"
+    },
+    {
+      "start": 231.0,
+      "end": 236.0,
+      "text": " nu er det stereotypen persona, Lonnie på 64, det er hende, vi skal prøve at finde."
+    },
+    {
+      "start": 236.0,
+      "end": 238.0,
+      "text": " Det er hende, der har de rigtige behov."
+    },
+    {
+      "start": 238.0,
+      "end": 243.0,
+      "text": " Og vi skal forresten prøve at ramme ind på Instagram stories, Instagram reels om morgenen."
+    },
+    {
+      "start": 243.0,
+      "end": 245.0,
+      "text": " I aften skal vi gøre det på Facebook feed."
+    },
+    {
+      "start": 245.0,
+      "end": 247.0,
+      "text": " Hvordan det nu kan være."
+    },
+    {
+      "start": 247.0,
+      "end": 252.0,
+      "text": " Det hedder estimated action rate, det som meta gætter."
+    },
+    {
+      "start": 252.0,
+      "end": 254.0,
+      "text": " Det er et ret, ret kvalificeret gæt, I skal forestille jer."
+    },
+    {
+      "start": 254.0,
+      "end": 258.0,
+      "text": " Det er måske, jamen den tager jeg for egen, egen vinding den er,"
+    },
+    {
+      "start": 258.0,
+      "end": 261.0,
+      "text": " men måske verdens bedste algoritme."
+    },
+    {
+      "start": 261.0,
+      "end": 266.0,
+      "text": " Den er fåret, jeg trak den en gang til min eksamen, da jeg studerede."
+    },
+    {
+      "start": 266.0,
+      "end": 272.0,
+      "text": " Den gang, det var i 2019, der trak jeg 19.000 sider af fire sider ud fra meta."
+    },
+    {
+      "start": 272.0,
+      "end": 276.0,
+      "text": " Det kan man alle sammen gøre på sin private profil, om hvor meget den vidste om mig."
+    },
+    {
+      "start": 276.0,
+      "end": 278.0,
+      "text": " Og så brugte jeg perspektivet."
+    },
+    {
+      "start": 278.0,
+      "end": 285.0,
+      "text": " Hvis jeg havde booket Danmarks bedste psykolog, og gav vedkommende 19.000 af fire sider omkring mig,"
+    },
+    {
+      "start": 285.0,
+      "end": 288.0,
+      "text": " så ville han eller hun nok også godt kunne gennemskue mig,"
+    },
+    {
+      "start": 288.0,
+      "end": 290.0,
+      "text": " og min næste træk, og mine vaner, og hvordan jeg gør."
+    },
+    {
+      "start": 290.0,
+      "end": 292.0,
+      "text": " Så er vi slet ikke så unikke alligevel."
+    },
+    {
+      "start": 292.0,
+      "end": 295.0,
+      "text": " Det her, det bliver bare sat ind i en kæmpe algoritme,"
+    },
+    {
+      "start": 295.0,
+      "end": 300.0,
+      "text": " og der begynder den så i de her aktioner at byde helt vildt random."
+    },
+    {
+      "start": 300.0,
+      "end": 303.0,
+      "text": " Den byder for eksempel, lad os bare tage nogle tilfældige beløb."
+    },
+    {
+      "start": 303.0,
+      "end": 308.0,
+      "text": " Den byder 20 kr. på dig, den byder 10 kr. på mig, så byder den 60 kr. på halvstanden."
+    },
+    {
+      "start": 308.0,
+      "end": 310.0,
+      "text": " Det kan godt være, at halvstanden skulle være den billigere, og du skulle være den dyrere."
+    },
+    {
+      "start": 310.0,
+      "end": 314.0,
+      "text": " Men det er bare for at samle nok rådata ind, så jeg kan sige,"
+    },
+    {
+      "start": 314.0,
+      "end": 316.0,
+      "text": " fint, nu ved jeg, hvor jeg skal lægge mig henad."
+    },
+    {
+      "start": 316.0,
+      "end": 320.0,
+      "text": " Det er også derfor, at når man går ind og op, og der er en ny kampagne,"
+    },
+    {
+      "start": 320.0,
+      "end": 322.0,
+      "text": " og jeg er i læringsfasen, altså in-learning,"
+    },
+    {
+      "start": 322.0,
+      "end": 325.0,
+      "text": " typisk ser jeg det, der hedder en ustabile læring."
+    },
+    {
+      "start": 325.0,
+      "end": 328.0,
+      "text": " Altså hvor du fluktuerer vildt meget i en CPA eller CPL."
+    },
+    {
+      "start": 328.0,
+      "end": 334.0,
+      "text": " Vi plejer at forvente, at det er 20-40% dyrere at lægge i læringsfasen end uden for læringsfasen."
+    },
+    {
+      "start": 334.0,
+      "end": 338.0,
+      "text": " Og at mandag kan være rigtig god, og tirsdag kan være rigtig dårligt."
+    },
+    {
+      "start": 338.0,
+      "end": 340.0,
+      "text": " Og hvordan når vi kigger på kampagnetyper, Morten?"
+    },
+    {
+      "start": 340.0,
+      "end": 344.0,
+      "text": " Altså den her læringsproces, den her eksplorative proces med videre,"
+    },
+    {
+      "start": 344.0,
+      "end": 347.0,
+      "text": " den her algoritme, er det på tværs af alle kampagnetyper i Ads Manageren?"
+    },
+    {
+      "start": 347.0,
+      "end": 350.0,
+      "text": " Uanset om man er B2B virksomhed og går efter leads, eller det er konverteringer,"
+    },
+    {
+      "start": 350.0,
+      "end": 355.0,
+      "text": " man går efter som e-commerce, altså er det simpelthen grundmekanismen i Metas algoritme?"
+    },
+    {
+      "start": 355.0,
+      "end": 359.0,
+      "text": " Det er grundmekanismen i de kampagner, hvor vi optimerer efter en,"
+    },
+    {
+      "start": 359.0,
+      "end": 361.0,
+      "text": " lad os bare sige en websitehændelse."
+    },
+    {
+      "start": 361.0,
+      "end": 365.0,
+      "text": " Så hvis vi arbejder med reach-kampagner, eller videovisningskampagner,"
+    },
+    {
+      "start": 365.0,
+      "end": 370.0,
+      "text": " eller hvad det hele kan være, brand recall, ad recall-kampagner,"
+    },
+    {
+      "start": 370.0,
+      "end": 372.0,
+      "text": " jamen der har vi ikke brug for en læringsfase som sådan."
+    },
+    {
+      "start": 372.0,
+      "end": 375.0,
+      "text": " Der ligger meget data på Meta, der skal du nok få nok signaler,"
+    },
+    {
+      "start": 375.0,
+      "end": 377.0,
+      "text": " fordi hvis du optimerer efter reach, jamen så er det et signal,"
+    },
+    {
+      "start": 377.0,
+      "end": 379.0,
+      "text": " det er teorien en eksponering."
+    },
+    {
+      "start": 379.0,
+      "end": 383.0,
+      "text": " At få nok eksponeringer til at blive dygtigt, det er ikke et problem,"
+    },
+    {
+      "start": 383.0,
+      "end": 387.0,
+      "text": " det er nok i højere grad et problem, når det er 50 leads, eller 50 kø,"
+    },
+    {
+      "start": 387.0,
+      "end": 391.0,
+      "text": " eller 100 kø, så jeg tror de plejer at sige, at man forestiller,"
+    },
+    {
+      "start": 391.0,
+      "end": 394.0,
+      "text": " hvis du skulle sætte en reach-kampagne op, så kunne du bruge 1 kr. på den,"
+    },
+    {
+      "start": 394.0,
+      "end": 396.0,
+      "text": " og så ville den være ude."
+    },
+    {
+      "start": 396.0,
+      "end": 401.0,
+      "text": " Af læringen, der skulle du nok bruge 5 kr. på at komme ud fra et lead-perspektiv."
+    },
+    {
+      "start": 401.0,
+      "end": 405.0,
+      "text": " Så det er derfor, vi typisk snakker om læringsfase til konverteringsoptimerede kampagner."
+    },
+    {
+      "start": 405.0,
+      "end": 409.0,
+      "text": " Så man kan sige, vi kan vel godt konkludere nu, læringsfasen er,"
+    },
+    {
+      "start": 409.0,
+      "end": 412.0,
+      "text": " eller i hvert fald, lad os kalde det en explorativ fase,"
+    },
+    {
+      "start": 412.0,
+      "end": 414.0,
+      "text": " den her læringsfase, den er vigtig."
+    },
+    {
+      "start": 414.0,
+      "end": 418.0,
+      "text": " Og i den forbindelse, der ved jeg, at Meta jo har været ude og prædike omkring nogle best practices."
+    },
+    {
+      "start": 418.0,
+      "end": 423.0,
+      "text": " Og som det så typisk er, når en annonceplatform går ud og preacher,"
+    },
+    {
+      "start": 423.0,
+      "end": 426.0,
+      "text": " hvad hedder det, best practices, og her tænker jeg især også på Google Ads,"
+    },
+    {
+      "start": 426.0,
+      "end": 428.0,
+      "text": " men nu handler det lige om Meta,"
+    },
+    {
+      "start": 428.0,
+      "end": 432.0,
+      "text": " så er der også nogle undtagelser dertil."
+    },
+    {
+      "start": 432.0,
+      "end": 434.0,
+      "text": " Men lad os lige prøve at starte med at tage fat i de her best practices,"
+    },
+    {
+      "start": 434.0,
+      "end": 439.0,
+      "text": " for jeg tror, det er her mange af de her, skal vi kalde det misforståelser, de opstår."
+    },
+    {
+      "start": 439.0,
+      "end": 443.0,
+      "text": " Morten, vil du ikke prøve lige kort at tage sig igennem de vigtigste best practices,"
+    },
+    {
+      "start": 443.0,
+      "end": 444.0,
+      "text": " jævnt før Meta?"
+    },
+    {
+      "start": 444.0,
+      "end": 447.0,
+      "text": " Vi kan altså godt lave en Google Ads-episode, hvis det er, Christian."
+    },
+    {
+      "start": 447.0,
+      "end": 452.0,
+      "text": " Det er også tavlet, at du får mig på slæb i en måned til hver torsdag,"
+    },
+    {
+      "start": 452.0,
+      "end": 455.0,
+      "text": " og så skal vi bare snakke Meta hele tiden, altså."
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": " Ved du hvad, Morten, det er faktisk super fint,"
+    },
+    {
+      "start": 457.0,
+      "end": 459.0,
+      "text": " fordi jeg kommer lige fra, direkte fra blæskift,"
+    },
+    {
+      "start": 459.0,
+      "end": 461.0,
+      "text": " direkte ind i podcasten her,"
+    },
+    {
+      "start": 461.0,
+      "end": 465.0,
+      "text": " det er skønt at kunne sidde og stille dig nogle spørgsmål."
+    },
+    {
+      "start": 465.0,
+      "end": 468.0,
+      "text": " Altså, hvis vi skal snakke Google Ads, så må lytteren have sit tal,"
+    },
+    {
+      "start": 468.0,
+      "end": 469.0,
+      "text": " eller så må du sige til."
+    },
+    {
+      "start": 469.0,
+      "end": 470.0,
+      "text": " Ja, lige præcis, lige præcis."
+    },
+    {
+      "start": 470.0,
+      "end": 473.0,
+      "text": " Det er egentlig en relativt nem håndbog,"
+    },
+    {
+      "start": 473.0,
+      "end": 477.0,
+      "text": " i forhold til best practices med at, skal vi kalde det, respektere læringsfasen."
+    },
+    {
+      "start": 477.0,
+      "end": 481.0,
+      "text": " Fordi læringsfasen, hvis vi respekterer, det er ikke en bibel,"
+    },
+    {
+      "start": 481.0,
+      "end": 482.0,
+      "text": " men vi skal tage højde for den."
+    },
+    {
+      "start": 482.0,
+      "end": 485.0,
+      "text": " Den første, og jeg tror, det er den, hvor de fleste faktisk,"
+    },
+    {
+      "start": 485.0,
+      "end": 487.0,
+      "text": " undskyld med sprog, dummer sig,"
+    },
+    {
+      "start": 487.0,
+      "end": 490.0,
+      "text": " det kan vi godt lidt kalde at være utålmodig."
+    },
+    {
+      "start": 490.0,
+      "end": 493.0,
+      "text": " Når du starter kampagnen op, så vil du med det samme gerne se resultater."
+    },
+    {
+      "start": 493.0,
+      "end": 495.0,
+      "text": " Du begynder måske, hvis der er gået et par timer,"
+    },
+    {
+      "start": 495.0,
+      "end": 498.0,
+      "text": " eller du har brugt de første 100 kroner, eller 1000 kroner,"
+    },
+    {
+      "start": 498.0,
+      "end": 499.0,
+      "text": " at blive lidt i tvivl om,"
+    },
+    {
+      "start": 499.0,
+      "end": 502.0,
+      "text": " åh, ej, det er også fordi, at min ad copy er for dårlig."
+    },
+    {
+      "start": 502.0,
+      "end": 504.0,
+      "text": " Det kan være, det er fordi, linket er det forkerte."
+    },
+    {
+      "start": 504.0,
+      "end": 505.0,
+      "text": " Creativitet er nok heller ikke rigtigt,"
+    },
+    {
+      "start": 505.0,
+      "end": 507.0,
+      "text": " så jeg skal tilføje en annonce mere,"
+    },
+    {
+      "start": 507.0,
+      "end": 509.0,
+      "text": " eller jeg skal skrue budgettet op."
+    },
+    {
+      "start": 509.0,
+      "end": 510.0,
+      "text": " Hvad det nu kan være?"
+    },
+    {
+      "start": 510.0,
+      "end": 511.0,
+      "text": " Det er den forkerte målgruppe, jeg sætter ind."
+    },
+    {
+      "start": 511.0,
+      "end": 513.0,
+      "text": " Altså, alle de der tvivlstanker, der kommer,"
+    },
+    {
+      "start": 513.0,
+      "end": 515.0,
+      "text": " hvis det er, at man ikke regner med, at leveringen er"
+    },
+    {
+      "start": 515.0,
+      "end": 517.0,
+      "text": " så god, som man har regnet med."
+    },
+    {
+      "start": 517.0,
+      "end": 520.0,
+      "text": " Og det man så gør, som man ikke skal gøre,"
+    },
+    {
+      "start": 520.0,
+      "end": 522.0,
+      "text": " det er at gå ind og redigere i et annoncesæt,"
+    },
+    {
+      "start": 522.0,
+      "end": 523.0,
+      "text": " der er i læringsfasen."
+    },
+    {
+      "start": 523.0,
+      "end": 526.0,
+      "text": " Fordi så bliver du bare ved med at fedte rundt i læringsfasen."
+    },
+    {
+      "start": 526.0,
+      "end": 529.0,
+      "text": " Så den første, være tålmodig."
+    },
+    {
+      "start": 529.0,
+      "end": 531.0,
+      "text": " Og det gælder alle former for ændringer."
+    },
+    {
+      "start": 531.0,
+      "end": 532.0,
+      "text": " Vi skal nok komme til dem lige om lidt,"
+    },
+    {
+      "start": 532.0,
+      "end": 533.0,
+      "text": " hvordan de er delt op."
+    },
+    {
+      "start": 533.0,
+      "end": 536.0,
+      "text": " Men i starten, lad være med at påvirke den,"
+    },
+    {
+      "start": 536.0,
+      "end": 537.0,
+      "text": " når den er i læringsfasen."
+    },
+    {
+      "start": 537.0,
+      "end": 539.0,
+      "text": " Når den er ude af læringsfasen,"
+    },
+    {
+      "start": 539.0,
+      "end": 541.0,
+      "text": " så lad være med at lave dumme ændringer der også."
+    },
+    {
+      "start": 541.0,
+      "end": 544.0,
+      "text": " Så i stedet for, lad os sige, Christian, du har sat en kampagne op."
+    },
+    {
+      "start": 544.0,
+      "end": 546.0,
+      "text": " Du har holdt tålmodigheden på plads."
+    },
+    {
+      "start": 546.0,
+      "end": 547.0,
+      "text": " Den er endelig kommet ud af læringsfasen."
+    },
+    {
+      "start": 547.0,
+      "end": 549.0,
+      "text": " Vi har stabilt levering."
+    },
+    {
+      "start": 549.0,
+      "end": 551.0,
+      "text": " Liv og glade dage, cirka en uge vi har."
+    },
+    {
+      "start": 551.0,
+      "end": 553.0,
+      "text": " Og så tænker du, ej, nu går jeg altså ind."
+    },
+    {
+      "start": 553.0,
+      "end": 555.0,
+      "text": " Nu er den lige kommet ud af læringsfasen,"
+    },
+    {
+      "start": 555.0,
+      "end": 557.0,
+      "text": " så nu kan jeg godt ændre den der kommafejl."
+    },
+    {
+      "start": 557.0,
+      "end": 559.0,
+      "text": " Eller tilføje den nye annonce."
+    },
+    {
+      "start": 559.0,
+      "end": 561.0,
+      "text": " Ej, vent nu lige lidt."
+    },
+    {
+      "start": 561.0,
+      "end": 563.0,
+      "text": " Du må godt lige lade den køre bare en lille smule"
+    },
+    {
+      "start": 563.0,
+      "end": 565.0,
+      "text": " på stabilt levering, eller bulke dine ændringer,"
+    },
+    {
+      "start": 565.0,
+      "end": 567.0,
+      "text": " så du ikke lige laver en ændring hver eneste dag."
+    },
+    {
+      "start": 567.0,
+      "end": 572.0,
+      "text": " Den tredje, det er en, som jeg tror faktisk overrasker folk."
+    },
+    {
+      "start": 572.0,
+      "end": 575.0,
+      "text": " Lad være med at tilføje for mange annoncer til dit annoncesæt."
+    },
+    {
+      "start": 575.0,
+      "end": 577.0,
+      "text": " Jeg plejer at lave sådan lidt et stamtræ."
+    },
+    {
+      "start": 577.0,
+      "end": 581.0,
+      "text": " Og et stamtræ er det ikke, fordi vi skal gerne snakke familier og årsager,"
+    },
+    {
+      "start": 581.0,
+      "end": 583.0,
+      "text": " men jeg tror folk kan se det sådan visuelt i det."
+    },
+    {
+      "start": 583.0,
+      "end": 585.0,
+      "text": " Så hvis du har en kampagneøver at stoppe,"
+    },
+    {
+      "start": 585.0,
+      "end": 588.0,
+      "text": " der har du et kampagnebudget på, lad os sige, 100 kroner."
+    },
+    {
+      "start": 588.0,
+      "end": 591.0,
+      "text": " Så har du måske et eller to annoncesæt."
+    },
+    {
+      "start": 591.0,
+      "end": 593.0,
+      "text": " Jamen, så splitter vi det bare ned på de to annoncesæt"
+    },
+    {
+      "start": 593.0,
+      "end": 595.0,
+      "text": " og siger, jamen, et annoncesæt til 50 kroner,"
+    },
+    {
+      "start": 595.0,
+      "end": 597.0,
+      "text": " et til 50 kroner, et til 50 kroner."
+    },
+    {
+      "start": 597.0,
+      "end": 600.0,
+      "text": " Og derfra, jamen, så har vi så vores annoncer."
+    },
+    {
+      "start": 600.0,
+      "end": 605.0,
+      "text": " Hvis du så skal splitte de 50 kroner ud på, lad os bare sige, 20 annoncer,"
+    },
+    {
+      "start": 605.0,
+      "end": 607.0,
+      "text": " jamen, så udvandrer du budgettet fuldstændig."
+    },
+    {
+      "start": 607.0,
+      "end": 609.0,
+      "text": " Og så går det galt, fordi så kan Mesa sige,"
+    },
+    {
+      "start": 609.0,
+      "end": 612.0,
+      "text": " jamen, jeg kan lige nå at bruge 2 kroner på den her enkelte annonce."
+    },
+    {
+      "start": 612.0,
+      "end": 614.0,
+      "text": " Jamen, det lærer vi sgu ikke meget af."
+    },
+    {
+      "start": 614.0,
+      "end": 618.0,
+      "text": " Så havde det været bedre at sige, vi har et annoncesæt med 5 annoncer i."
+    },
+    {
+      "start": 618.0,
+      "end": 620.0,
+      "text": " De får 10 kroner om dagen."
+    },
+    {
+      "start": 620.0,
+      "end": 622.0,
+      "text": " Stadigvæk måske lige til den lave side,"
+    },
+    {
+      "start": 622.0,
+      "end": 623.0,
+      "text": " men trods alt bedre end 2 kroner."
+    },
+    {
+      "start": 623.0,
+      "end": 625.0,
+      "text": " Så der, hvor der er også mange, der fejler,"
+    },
+    {
+      "start": 625.0,
+      "end": 627.0,
+      "text": " det er, at jeg faktisk kan lave for mange annoncer eller for mange annoncesæt,"
+    },
+    {
+      "start": 627.0,
+      "end": 629.0,
+      "text": " og dermed udvandre budgettet, udvandre læringen"
+    },
+    {
+      "start": 629.0,
+      "end": 632.0,
+      "text": " og gøre, at alle tingene faktisk bare sidder stok."
+    },
+    {
+      "start": 632.0,
+      "end": 634.0,
+      "text": " Ja, fordi det, du nævner her, det er jo, hvor at"
+    },
+    {
+      "start": 634.0,
+      "end": 636.0,
+      "text": " det er ikke nødvendigvis de mange annoncer,"
+    },
+    {
+      "start": 636.0,
+      "end": 638.0,
+      "text": " men det er relativt til det budget, der er til rådighed,"
+    },
+    {
+      "start": 638.0,
+      "end": 643.0,
+      "text": " sådan så Mesa rent faktisk kan komme frem til noget læring i den her eksplorative proces."
+    },
+    {
+      "start": 643.0,
+      "end": 647.0,
+      "text": " Og pandangen her fra over til Google Ads er jo"
+    },
+    {
+      "start": 647.0,
+      "end": 649.0,
+      "text": " den typiske med 1000 produkter."
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " Man går ind i en shoppingkampagne og giver 50 kroner om dagen,"
+    },
+    {
+      "start": 651.0,
+      "end": 653.0,
+      "text": " og så skal den altså bare opnå en ROAS 300,"
+    },
+    {
+      "start": 653.0,
+      "end": 655.0,
+      "text": " og den kan bare selv finde ud af, hvilken af de 1000 produkter."
+    },
+    {
+      "start": 655.0,
+      "end": 658.0,
+      "text": " Altså, når du så regner baglæns på CPC-priserne,"
+    },
+    {
+      "start": 658.0,
+      "end": 661.0,
+      "text": " du når ikke engang igennem alle produkterne en gang i løbet af et år."
+    },
+    {
+      "start": 661.0,
+      "end": 663.0,
+      "text": " Det er sådan lidt den samme tankegang der."
+    },
+    {
+      "start": 663.0,
+      "end": 665.0,
+      "text": " Så den kan jeg godt følge, den her med,"
+    },
+    {
+      "start": 665.0,
+      "end": 668.0,
+      "text": " at man vil for meget, men relativt til sit budget,"
+    },
+    {
+      "start": 668.0,
+      "end": 670.0,
+      "text": " så giver det bare ikke mening."
+    },
+    {
+      "start": 670.0,
+      "end": 673.0,
+      "text": " Det er jo det sidste punkt, det er at bruge et realistisk budget."
+    },
+    {
+      "start": 673.0,
+      "end": 675.0,
+      "text": " De fleste, som har annonceret på Mesa,"
+    },
+    {
+      "start": 675.0,
+      "end": 677.0,
+      "text": " jamen, de ved godt nogenlunde, hvad deres"
+    },
+    {
+      "start": 677.0,
+      "end": 679.0,
+      "text": " cost per lead, eller cost per purchase,"
+    },
+    {
+      "start": 679.0,
+      "end": 681.0,
+      "text": " eller hvad det nu er,"
+    },
+    {
+      "start": 681.0,
+      "end": 682.0,
+      "text": " nogenlunde er indenfor."
+    },
+    {
+      "start": 682.0,
+      "end": 685.0,
+      "text": " Lad os bare sige, jamen, hvis vi ved, at vi skal betale 200 kroner for"
+    },
+    {
+      "start": 685.0,
+      "end": 687.0,
+      "text": " et webshopkøb,"
+    },
+    {
+      "start": 687.0,
+      "end": 689.0,
+      "text": " og vi skal have x antal kompenseringssender,"
+    },
+    {
+      "start": 689.0,
+      "end": 691.0,
+      "text": " for at komme ud af læringsfasen,"
+    },
+    {
+      "start": 691.0,
+      "end": 693.0,
+      "text": " så er det et relativt nemt regnestykke, hvad dit budget skal være"
+    },
+    {
+      "start": 693.0,
+      "end": 695.0,
+      "text": " inden for en 7-dagsperiode."
+    },
+    {
+      "start": 695.0,
+      "end": 697.0,
+      "text": " Så hjælper det jo ikke, at du sætter 100 kroner om dagen."
+    },
+    {
+      "start": 697.0,
+      "end": 699.0,
+      "text": " Altså, så kan du lige så godt lade være."
+    },
+    {
+      "start": 699.0,
+      "end": 701.0,
+      "text": " Så ved du jo godt, hvad resultatet ender med."
+    },
+    {
+      "start": 701.0,
+      "end": 703.0,
+      "text": " Så det handler også om at"
+    },
+    {
+      "start": 703.0,
+      "end": 705.0,
+      "text": " lave en lille smule matematik,"
+    },
+    {
+      "start": 705.0,
+      "end": 706.0,
+      "text": " inden du starter."
+    },
+    {
+      "start": 706.0,
+      "end": 708.0,
+      "text": " Hvis du starter med 100 kroner om dagen,"
+    },
+    {
+      "start": 708.0,
+      "end": 709.0,
+      "text": " hvor du sidder fast,"
+    },
+    {
+      "start": 709.0,
+      "end": 711.0,
+      "text": " jamen, så skal vi nok komme tilbage til, hvad du kan gøre."
+    },
+    {
+      "start": 711.0,
+      "end": 713.0,
+      "text": " Men hvis ja, du har budgettet,"
+    },
+    {
+      "start": 713.0,
+      "end": 715.0,
+      "text": " så regn baglæns."
+    },
+    {
+      "start": 715.0,
+      "end": 717.0,
+      "text": " Hvad er nogenlunde forkastet CPI"
+    },
+    {
+      "start": 717.0,
+      "end": 718.0,
+      "text": " gang derop?"
+    },
+    {
+      "start": 718.0,
+      "end": 720.0,
+      "text": " Morten, nu hvor vi er ved de her ændringer,"
+    },
+    {
+      "start": 720.0,
+      "end": 722.0,
+      "text": " så ved jeg, at meta også skældner"
+    },
+    {
+      "start": 722.0,
+      "end": 724.0,
+      "text": " mellem det, der hedder signifikante"
+    },
+    {
+      "start": 724.0,
+      "end": 726.0,
+      "text": " ændringer, og"
+    },
+    {
+      "start": 726.0,
+      "end": 728.0,
+      "text": " jeg ved faktisk ikke, hvad bruger de som det modsatte term"
+    },
+    {
+      "start": 728.0,
+      "end": 730.0,
+      "text": " af signifikant ændring, af de her"
+    },
+    {
+      "start": 730.0,
+      "end": 731.0,
+      "text": " lidt mere bløde ændringer?"
+    },
+    {
+      "start": 731.0,
+      "end": 733.0,
+      "text": " Safe edit."
+    },
+    {
+      "start": 733.0,
+      "end": 735.0,
+      "text": " For dansk, sikre ændringer."
+    },
+    {
+      "start": 735.0,
+      "end": 737.0,
+      "text": " Langt bedre på engelsk."
+    },
+    {
+      "start": 737.0,
+      "end": 739.0,
+      "text": " Safe edit."
+    },
+    {
+      "start": 739.0,
+      "end": 741.0,
+      "text": " Signifikante ændringer og safe edit."
+    },
+    {
+      "start": 741.0,
+      "end": 743.0,
+      "text": " Vil du lige prøve at tale os igennem"
+    },
+    {
+      "start": 743.0,
+      "end": 745.0,
+      "text": " igennem den del, fordi"
+    },
+    {
+      "start": 745.0,
+      "end": 747.0,
+      "text": " det er rimelig vigtigt, som annoncør"
+    },
+    {
+      "start": 747.0,
+      "end": 749.0,
+      "text": " at kende til forskellen på de to her,"
+    },
+    {
+      "start": 749.0,
+      "end": 751.0,
+      "text": " fordi det er jo egentlig her, hvor at den store"
+    },
+    {
+      "start": 751.0,
+      "end": 753.0,
+      "text": " reset kan komme til at ske,"
+    },
+    {
+      "start": 753.0,
+      "end": 755.0,
+      "text": " uden at man egentlig havde intentionen om"
+    },
+    {
+      "start": 755.0,
+      "end": 757.0,
+      "text": " at resette den her læringsfase."
+    },
+    {
+      "start": 757.0,
+      "end": 759.0,
+      "text": " Så først vil jeg starte med at give,"
+    },
+    {
+      "start": 759.0,
+      "end": 761.0,
+      "text": " jeg vil nok give lidt en advarsel."
+    },
+    {
+      "start": 761.0,
+      "end": 763.0,
+      "text": " Det er selvom det her, det er"
+    },
+    {
+      "start": 763.0,
+      "end": 765.0,
+      "text": " dokumentation, I kan finde"
+    },
+    {
+      "start": 765.0,
+      "end": 767.0,
+      "text": " inde på Metas egen"
+    },
+    {
+      "start": 767.0,
+      "end": 769.0,
+      "text": " dokumentationssider, så tag det med et græns salt."
+    },
+    {
+      "start": 769.0,
+      "end": 771.0,
+      "text": " Fordi der har været så mange"
+    },
+    {
+      "start": 771.0,
+      "end": 773.0,
+      "text": " regler med, hvad du må af budget"
+    },
+    {
+      "start": 773.0,
+      "end": 775.0,
+      "text": " og hvad du må på annonceniveau osv."
+    },
+    {
+      "start": 775.0,
+      "end": 777.0,
+      "text": " For det er en væsentlig ændring."
+    },
+    {
+      "start": 777.0,
+      "end": 779.0,
+      "text": " En signifikant edit. Og så er der altså mange gange,"
+    },
+    {
+      "start": 779.0,
+      "end": 781.0,
+      "text": " hvor jeg sidder og laver en signifikant edit"
+    },
+    {
+      "start": 781.0,
+      "end": 783.0,
+      "text": " og så har det ikke påvirket læringsfasen."
+    },
+    {
+      "start": 783.0,
+      "end": 785.0,
+      "text": " Og lige modsat har jeg lavet en safe edit,"
+    },
+    {
+      "start": 785.0,
+      "end": 787.0,
+      "text": " der har påvirket læringsfasen. Det kan være lidt sjovt"
+    },
+    {
+      "start": 787.0,
+      "end": 789.0,
+      "text": " der, men brug det som sådan"
+    },
+    {
+      "start": 789.0,
+      "end": 791.0,
+      "text": " Skal vi sige en tommelfingeregel, men vær opmærksom på"
+    },
+    {
+      "start": 791.0,
+      "end": 793.0,
+      "text": " igen at være med at lave ting"
+    },
+    {
+      "start": 793.0,
+      "end": 795.0,
+      "text": " bare for at lave, prøve at bulge dem"
+    },
+    {
+      "start": 795.0,
+      "end": 797.0,
+      "text": " i samme omgang."
+    },
+    {
+      "start": 797.0,
+      "end": 799.0,
+      "text": " De signifikante ændringer du kan lave."
+    },
+    {
+      "start": 799.0,
+      "end": 801.0,
+      "text": " Først og fremmest"
+    },
+    {
+      "start": 801.0,
+      "end": 803.0,
+      "text": " alt der vedrører targeting."
+    },
+    {
+      "start": 803.0,
+      "end": 805.0,
+      "text": " Så hvis du har en bred målgruppe, og du"
+    },
+    {
+      "start": 805.0,
+      "end": 807.0,
+      "text": " går ind og lægger et, du"
+    },
+    {
+      "start": 807.0,
+      "end": 809.0,
+      "text": " eksploderer et custom audience, eller du"
+    },
+    {
+      "start": 809.0,
+      "end": 811.0,
+      "text": " inkluderer en lookalike, eller du ændrer"
+    },
+    {
+      "start": 811.0,
+      "end": 813.0,
+      "text": " alder, eller køn, eller whatever."
+    },
+    {
+      "start": 813.0,
+      "end": 815.0,
+      "text": " Geografi,"
+    },
+    {
+      "start": 815.0,
+      "end": 817.0,
+      "text": " det er en signifikant ændring til din targeting."
+    },
+    {
+      "start": 817.0,
+      "end": 819.0,
+      "text": " Det vil sige, først og fremmest"
+    },
+    {
+      "start": 819.0,
+      "end": 821.0,
+      "text": " alt der arbejder inden for målgruppen,"
+    },
+    {
+      "start": 821.0,
+      "end": 823.0,
+      "text": " lad være."
+    },
+    {
+      "start": 823.0,
+      "end": 825.0,
+      "text": " Det er en signifikant ændring. Nummer to,"
+    },
+    {
+      "start": 825.0,
+      "end": 827.0,
+      "text": " alt der handler om"
+    },
+    {
+      "start": 827.0,
+      "end": 829.0,
+      "text": " ad creatives. Så hvis jeg går ind"
+    },
+    {
+      "start": 829.0,
+      "end": 831.0,
+      "text": " og tilføjer et 9-16"
+    },
+    {
+      "start": 831.0,
+      "end": 833.0,
+      "text": " format på en af vores annoncer, fordi"
+    },
+    {
+      "start": 833.0,
+      "end": 835.0,
+      "text": " jeg halvdelen glemte at lægge det op på stories."
+    },
+    {
+      "start": 835.0,
+      "end": 837.0,
+      "text": " Jamen det er først og fremmest et rigtigt"
+    },
+    {
+      "start": 837.0,
+      "end": 839.0,
+      "text": " eksempel, og nummer to"
+    },
+    {
+      "start": 839.0,
+      "end": 841.0,
+      "text": " også en signifikant ændring."
+    },
+    {
+      "start": 841.0,
+      "end": 843.0,
+      "text": " Det samme hvis jeg slettede kreativ og"
+    },
+    {
+      "start": 843.0,
+      "end": 845.0,
+      "text": " reuploaded et nyt kreativ, eller jeg tilføjede"
+    },
+    {
+      "start": 845.0,
+      "end": 847.0,
+      "text": " en ny annonce. Nummer to,"
+    },
+    {
+      "start": 847.0,
+      "end": 849.0,
+      "text": " det er selvfølgelig, hvis vi går fra lige pludselig at sige,"
+    },
+    {
+      "start": 849.0,
+      "end": 851.0,
+      "text": " jamen vi vil gerne have leads, til at nu vil vi gerne"
+    },
+    {
+      "start": 851.0,
+      "end": 853.0,
+      "text": " have complete registration."
+    },
+    {
+      "start": 853.0,
+      "end": 855.0,
+      "text": " Altså vi skifter optimeringshandelser."
+    },
+    {
+      "start": 855.0,
+      "end": 857.0,
+      "text": " Også en signifikant ændring."
+    },
+    {
+      "start": 857.0,
+      "end": 859.0,
+      "text": " Hvis da du vil tilføje en ny annonce,"
+    },
+    {
+      "start": 859.0,
+      "end": 861.0,
+      "text": " eller et nyt adset,"
+    },
+    {
+      "start": 861.0,
+      "end": 863.0,
+      "text": " også en signifikant ændring."
+    },
+    {
+      "start": 863.0,
+      "end": 865.0,
+      "text": " Og den sidste, som måske"
+    },
+    {
+      "start": 865.0,
+      "end": 867.0,
+      "text": " egentlig godt kan bruges"
+    },
+    {
+      "start": 867.0,
+      "end": 869.0,
+      "text": " lidt som et hack nogle gange,"
+    },
+    {
+      "start": 869.0,
+      "end": 871.0,
+      "text": " det er, at du faktisk godt kan pause dine kampagner,"
+    },
+    {
+      "start": 871.0,
+      "end": 873.0,
+      "text": " eller dit annonce set,"
+    },
+    {
+      "start": 873.0,
+      "end": 875.0,
+      "text": " i op til syv dage, uden at"
+    },
+    {
+      "start": 875.0,
+      "end": 877.0,
+      "text": " når du så genstarter den, at du starter læringsfasen"
+    },
+    {
+      "start": 877.0,
+      "end": 879.0,
+      "text": " forfra. Så du kan godt holde en pause."
+    },
+    {
+      "start": 879.0,
+      "end": 881.0,
+      "text": " Lad os sige, de næste syv dage,"
+    },
+    {
+      "start": 881.0,
+      "end": 883.0,
+      "text": " der skal alle på ferie. Der er ingen på arbejde."
+    },
+    {
+      "start": 883.0,
+      "end": 885.0,
+      "text": " Vi synes det kunne være rart lige at slukke annonceringen."
+    },
+    {
+      "start": 885.0,
+      "end": 887.0,
+      "text": " Jamen så har vi faktisk syv dage, hvor vi kan slukke annonceringen."
+    },
+    {
+      "start": 887.0,
+      "end": 889.0,
+      "text": " Vi skal bare tænde det på syvende dagen."
+    },
+    {
+      "start": 889.0,
+      "end": 891.0,
+      "text": " Hvis vi tænder på åttende, så går det galt."
+    },
+    {
+      "start": 891.0,
+      "end": 893.0,
+      "text": " Men så kan vi faktisk godt pause,"
+    },
+    {
+      "start": 893.0,
+      "end": 895.0,
+      "text": " komme tilbage og fortsætte,"
+    },
+    {
+      "start": 895.0,
+      "end": 897.0,
+      "text": " uden der er sket noget. Og Morten, hvor ofte"
+    },
+    {
+      "start": 897.0,
+      "end": 899.0,
+      "text": " oplever du egentlig,"
+    },
+    {
+      "start": 899.0,
+      "end": 901.0,
+      "text": " at virksomheder,"
+    },
+    {
+      "start": 901.0,
+      "end": 903.0,
+      "text": " du sidder med, kommer til dig"
+    },
+    {
+      "start": 903.0,
+      "end": 905.0,
+      "text": " og siger, åh, de der annoncer,"
+    },
+    {
+      "start": 905.0,
+      "end": 907.0,
+      "text": " der vi satte i gang for en uge siden, som egentlig"
+    },
+    {
+      "start": 907.0,
+      "end": 909.0,
+      "text": " kører ret godt. Vi er lidt trætte af,"
+    },
+    {
+      "start": 909.0,
+      "end": 911.0,
+      "text": " at det er den forkerte lille farve, vi har fået på annoncen."
+    },
+    {
+      "start": 911.0,
+      "end": 913.0,
+      "text": " Kan vi ikke lige uploade de her nye?"
+    },
+    {
+      "start": 913.0,
+      "end": 915.0,
+      "text": " Og så kan I ikke bare lige gøre det?"
+    },
+    {
+      "start": 915.0,
+      "end": 917.0,
+      "text": " Hvor mange gange"
+    },
+    {
+      "start": 917.0,
+      "end": 919.0,
+      "text": " har du sgu forklaret ud af det?"
+    },
+    {
+      "start": 919.0,
+      "end": 921.0,
+      "text": " Jeg er jo"
+    },
+    {
+      "start": 921.0,
+      "end": 923.0,
+      "text": " faktisk en lille smule"
+    },
+    {
+      "start": 923.0,
+      "end": 925.0,
+      "text": " forkælet i forhold til, hvem jeg arbejder sammen med. Det er jo ikke fordi,"
+    },
+    {
+      "start": 925.0,
+      "end": 927.0,
+      "text": " jeg nødvendigvis er arrogant"
+    },
+    {
+      "start": 927.0,
+      "end": 929.0,
+      "text": " eller bedrevidende, men jeg kender"
+    },
+    {
+      "start": 929.0,
+      "end": 931.0,
+      "text": " også mit eget temperament og tålmodighed, så jeg er"
+    },
+    {
+      "start": 931.0,
+      "end": 933.0,
+      "text": " heldigvis ikke så mange, der"
+    },
+    {
+      "start": 933.0,
+      "end": 935.0,
+      "text": " sidder og går op i,"
+    },
+    {
+      "start": 935.0,
+      "end": 937.0,
+      "text": " hvis der er en lille"
+    },
+    {
+      "start": 937.0,
+      "end": 939.0,
+      "text": " bitte fejl i"
+    },
+    {
+      "start": 939.0,
+      "end": 941.0,
+      "text": " whatever, brand color, lille farve,"
+    },
+    {
+      "start": 941.0,
+      "end": 943.0,
+      "text": " jamen, så går hele verden under."
+    },
+    {
+      "start": 943.0,
+      "end": 945.0,
+      "text": " Hvis det var, jeg havde de former for"
+    },
+    {
+      "start": 945.0,
+      "end": 947.0,
+      "text": " samarbejder, så ville jeg ikke være den rigtige til at annoncere dig,"
+    },
+    {
+      "start": 947.0,
+      "end": 949.0,
+      "text": " fordi det er uden for min"
+    },
+    {
+      "start": 949.0,
+      "end": 951.0,
+      "text": " pædagogiske rækkevidde. Der synes jeg, at der er andre"
+    },
+    {
+      "start": 951.0,
+      "end": 953.0,
+      "text": " ting, der er vigtigere her i verden."
+    },
+    {
+      "start": 953.0,
+      "end": 955.0,
+      "text": " Men dem, jeg har, der kan sagtens være, at vi har lavet en eller anden fejl"
+    },
+    {
+      "start": 955.0,
+      "end": 957.0,
+      "text": " alligevel. Hvis det er det, vi vurderer"
+    },
+    {
+      "start": 957.0,
+      "end": 959.0,
+      "text": " som en kritisk fejl, lad os sige, at"
+    },
+    {
+      "start": 959.0,
+      "end": 961.0,
+      "text": " vi kommunikerede, at der var 20 procents rabat,"
+    },
+    {
+      "start": 961.0,
+      "end": 963.0,
+      "text": " men der er ikke rabat,"
+    },
+    {
+      "start": 963.0,
+      "end": 965.0,
+      "text": " så vil vi selvfølgelig nødt til at ændre det."
+    },
+    {
+      "start": 965.0,
+      "end": 967.0,
+      "text": " Hvis det er, at vi har lavet en kommafejl"
+    },
+    {
+      "start": 967.0,
+      "end": 969.0,
+      "text": " eller at"
+    },
+    {
+      "start": 969.0,
+      "end": 971.0,
+      "text": " der er en stavefejl"
+    },
+    {
+      "start": 971.0,
+      "end": 973.0,
+      "text": " eller andet, du kan ikke få mig til at ændre det."
+    },
+    {
+      "start": 973.0,
+      "end": 975.0,
+      "text": " Jo, Pistolforplanen skal"
+    },
+    {
+      "start": 975.0,
+      "end": 977.0,
+      "text": " nok gøre det, hvis det ikke kun sidste ende ønsker,"
+    },
+    {
+      "start": 977.0,
+      "end": 979.0,
+      "text": " men jeg vil altid informere om at sige,"
+    },
+    {
+      "start": 979.0,
+      "end": 981.0,
+      "text": " lad os vente til,"
+    },
+    {
+      "start": 981.0,
+      "end": 983.0,
+      "text": " vi skal lave nogle flere ændringer, altså lad os vente"
+    },
+    {
+      "start": 983.0,
+      "end": 985.0,
+      "text": " til, vi skal tilføje nye annoncer om syv dage,"
+    },
+    {
+      "start": 985.0,
+      "end": 987.0,
+      "text": " så gør vi det i den forbindelse."
+    },
+    {
+      "start": 987.0,
+      "end": 989.0,
+      "text": " Det er de færreste"
+    },
+    {
+      "start": 989.0,
+      "end": 991.0,
+      "text": " øjne ude ved forbrugeren, der ser de fejl,"
+    },
+    {
+      "start": 991.0,
+      "end": 993.0,
+      "text": " som vi ser. Det er altid lidt rigtigt."
+    },
+    {
+      "start": 993.0,
+      "end": 995.0,
+      "text": " Ja, så budskabet er vel egentlig, man bliver nok nødt til"
+    },
+    {
+      "start": 995.0,
+      "end": 997.0,
+      "text": " nogle gange at sluge nogle kameler, hvis man har noget, der rent faktisk"
+    },
+    {
+      "start": 997.0,
+      "end": 999.0,
+      "text": " fungerer, selvom der er et eller andet, der lige"
+    },
+    {
+      "start": 999.0,
+      "end": 1001.0,
+      "text": " det twitcher lidt i øjnene, når man kigger på det selv,"
+    },
+    {
+      "start": 1001.0,
+      "end": 1003.0,
+      "text": " men altså hvis det fungerer, så fungerer det, med mindre"
+    },
+    {
+      "start": 1003.0,
+      "end": 1005.0,
+      "text": " at man for eksempel, som du siger,"
+    },
+    {
+      "start": 1005.0,
+      "end": 1007.0,
+      "text": " har kommet til at skrive 20 procent rabat, og man ikke har"
+    },
+    {
+      "start": 1007.0,
+      "end": 1009.0,
+      "text": " rabat, jamen så er læringsfasen jo også bare"
+    },
+    {
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": " startet fundamentalt et forkert sted."
+    },
+    {
+      "start": 1011.0,
+      "end": 1013.0,
+      "text": " Der er jo den læring, den har fået, er bare"
+    },
+    {
+      "start": 1013.0,
+      "end": 1015.0,
+      "text": " ikke, hvad skal man sige, i god søgnende"
+    },
+    {
+      "start": 1015.0,
+      "end": 1017.0,
+      "text": " korrekt sat lidt på spidsen,"
+    },
+    {
+      "start": 1017.0,
+      "end": 1019.0,
+      "text": " men hvordan er det, nu kom"
+    },
+    {
+      "start": 1019.0,
+      "end": 1021.0,
+      "text": " du selv ind på det her med et komme at"
+    },
+    {
+      "start": 1021.0,
+      "end": 1023.0,
+      "text": " copy. Jeg ved, der har tidligere været snak om"
+    },
+    {
+      "start": 1023.0,
+      "end": 1025.0,
+      "text": " den her at copy-regel. Hører"
+    },
+    {
+      "start": 1025.0,
+      "end": 1027.0,
+      "text": " den ind under, altså når du ændrer i at copy"
+    },
+    {
+      "start": 1027.0,
+      "end": 1029.0,
+      "text": " eller ej, eller er det en af dem, der falder imellem de her to"
+    },
+    {
+      "start": 1029.0,
+      "end": 1031.0,
+      "text": " stolevarer? Nogle gange går det godt, nogle gange"
+    },
+    {
+      "start": 1031.0,
+      "end": 1033.0,
+      "text": " går det ikke. Det er faktisk en af"
+    },
+    {
+      "start": 1033.0,
+      "end": 1035.0,
+      "text": " dem, der falder under i officiel dokumentation"
+    },
+    {
+      "start": 1035.0,
+      "end": 1037.0,
+      "text": " et safe edit. Jeg synes"
+    },
+    {
+      "start": 1037.0,
+      "end": 1039.0,
+      "text": " virkelig,"
+    },
+    {
+      "start": 1039.0,
+      "end": 1041.0,
+      "text": " det er måske en lidt lavt sat,"
+    },
+    {
+      "start": 1041.0,
+      "end": 1043.0,
+      "text": " men 50-50 i min bog. Jeg synes"
+    },
+    {
+      "start": 1043.0,
+      "end": 1045.0,
+      "text": " godt nok, jeg har været inde og ændre en at copy tit,"
+    },
+    {
+      "start": 1045.0,
+      "end": 1047.0,
+      "text": " trykket publish, og så er hele balladen"
+    },
+    {
+      "start": 1047.0,
+      "end": 1049.0,
+      "text": " startet forfra. Så har jeg fået"
+    },
+    {
+      "start": 1049.0,
+      "end": 1051.0,
+      "text": " et screenshot af en changelog"
+    },
+    {
+      "start": 1051.0,
+      "end": 1053.0,
+      "text": " fra hvem det nu end kunne være, der"
+    },
+    {
+      "start": 1053.0,
+      "end": 1055.0,
+      "text": " siger, hvorfor er vi i læringsfasen igen?"
+    },
+    {
+      "start": 1055.0,
+      "end": 1057.0,
+      "text": " Jamen, det er jo mig,"
+    },
+    {
+      "start": 1057.0,
+      "end": 1059.0,
+      "text": " der lige ændrede en at copy. Jeg vil sige,"
+    },
+    {
+      "start": 1059.0,
+      "end": 1061.0,
+      "text": " det er ikke sket så tit for nyligt, og"
+    },
+    {
+      "start": 1061.0,
+      "end": 1063.0,
+      "text": " at copy burde være en af de, der er safe editet."
+    },
+    {
+      "start": 1063.0,
+      "end": 1065.0,
+      "text": " Så hvis du går ind og ændrer kommefejlen,"
+    },
+    {
+      "start": 1065.0,
+      "end": 1067.0,
+      "text": " eller overskriften, headline'en, eller"
+    },
+    {
+      "start": 1067.0,
+      "end": 1069.0,
+      "text": " hvad det nu kan være, så burde"
+    },
+    {
+      "start": 1069.0,
+      "end": 1071.0,
+      "text": " det ikke påvirke læringsfasen. Det er kun"
+    },
+    {
+      "start": 1071.0,
+      "end": 1073.0,
+      "text": " selve kreativt,"
+    },
+    {
+      "start": 1073.0,
+      "end": 1075.0,
+      "text": " den påvirker det. Det er det samme med, hvis du skal"
+    },
+    {
+      "start": 1075.0,
+      "end": 1077.0,
+      "text": " skrue op og ned for dit budget."
+    },
+    {
+      "start": 1077.0,
+      "end": 1079.0,
+      "text": " Det må du egentlig gerne."
+    },
+    {
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " Der er en god gammel tommelfingerregel, der hedder"
+    },
+    {
+      "start": 1081.0,
+      "end": 1083.0,
+      "text": " 20% skal du holde dig til"
+    },
+    {
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": " op eller ned på daglig basis."
+    },
+    {
+      "start": 1085.0,
+      "end": 1087.0,
+      "text": " Der er nogle rygter, og der er"
+    },
+    {
+      "start": 1087.0,
+      "end": 1089.0,
+      "text": " også noget dokumentation, som bekræfter rygterne"
+    },
+    {
+      "start": 1089.0,
+      "end": 1091.0,
+      "text": " på, at det faktisk er op til 75%."
+    },
+    {
+      "start": 1091.0,
+      "end": 1093.0,
+      "text": " Men jeg sidder stadigvæk"
+    },
+    {
+      "start": 1093.0,
+      "end": 1095.0,
+      "text": " den dag i dag og redigerer omkring 20%,"
+    },
+    {
+      "start": 1095.0,
+      "end": 1097.0,
+      "text": " fordi jeg har oplevet, at hvis vi gjorde det"
+    },
+    {
+      "start": 1097.0,
+      "end": 1099.0,
+      "text": " med 40, så gik det galt."
+    },
+    {
+      "start": 1099.0,
+      "end": 1101.0,
+      "text": " Så, hvad mindre det er, at det er"
+    },
+    {
+      "start": 1101.0,
+      "end": 1103.0,
+      "text": " Black Friday, hvor du siger, at jeg skal skrue op"
+    },
+    {
+      "start": 1103.0,
+      "end": 1105.0,
+      "text": " med 140, så skru op med 140"
+    },
+    {
+      "start": 1105.0,
+      "end": 1107.0,
+      "text": " og glem det. Men til dagligdagsdrift"
+    },
+    {
+      "start": 1107.0,
+      "end": 1109.0,
+      "text": " hold dig til de 20."
+    },
+    {
+      "start": 1109.0,
+      "end": 1111.0,
+      "text": " Lad os lige prøve at dykke lidt videre i det her,"
+    },
+    {
+      "start": 1111.0,
+      "end": 1113.0,
+      "text": " fordi jeg tror, at jeg har en"
+    },
+    {
+      "start": 1113.0,
+      "end": 1115.0,
+      "text": " problemstilling her, som jeg ved, at mange andre sidder med."
+    },
+    {
+      "start": 1115.0,
+      "end": 1117.0,
+      "text": " Lad os bare tage et"
+    },
+    {
+      "start": 1117.0,
+      "end": 1119.0,
+      "text": " simplificeret eksempel. Vi har en kampagne,"
+    },
+    {
+      "start": 1119.0,
+      "end": 1121.0,
+      "text": " et annonce-sæt og fem annoncer."
+    },
+    {
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": " Det her annonce-sæt er kommet ud af læringsfasen."
+    },
+    {
+      "start": 1123.0,
+      "end": 1125.0,
+      "text": " Det spiller bare, at man har nogle"
+    },
+    {
+      "start": 1125.0,
+      "end": 1127.0,
+      "text": " relativt fine resultater,"
+    },
+    {
+      "start": 1127.0,
+      "end": 1129.0,
+      "text": " men man vil jo gerne have mere."
+    },
+    {
+      "start": 1129.0,
+      "end": 1131.0,
+      "text": " Mere vil have mere, og man tror på, at man kan gøre det bedre."
+    },
+    {
+      "start": 1131.0,
+      "end": 1133.0,
+      "text": " Og man har været ude i"
+    },
+    {
+      "start": 1133.0,
+      "end": 1135.0,
+      "text": " baghaven og skyet en eller anden fantastisk"
+    },
+    {
+      "start": 1135.0,
+      "end": 1137.0,
+      "text": " god annoncevideo. Den vil man gerne have ud og leve,"
+    },
+    {
+      "start": 1137.0,
+      "end": 1139.0,
+      "text": " fordi man tror, at den her, den sidder altså lige i skabet."
+    },
+    {
+      "start": 1139.0,
+      "end": 1141.0,
+      "text": " Hvad pokker gør man så? Fordi hvis man"
+    },
+    {
+      "start": 1141.0,
+      "end": 1143.0,
+      "text": " uploader en ny annonce i det her"
+    },
+    {
+      "start": 1143.0,
+      "end": 1145.0,
+      "text": " givende annonce-sæt, der måske er kommet ud af"
+    },
+    {
+      "start": 1145.0,
+      "end": 1147.0,
+      "text": " læringsfasen. Resetter man så"
+    },
+    {
+      "start": 1147.0,
+      "end": 1149.0,
+      "text": " det hele? Altså spiller man lidt Jeopardy?"
+    },
+    {
+      "start": 1149.0,
+      "end": 1151.0,
+      "text": " Eller hvordan ser det ud den dag i dag?"
+    },
+    {
+      "start": 1151.0,
+      "end": 1153.0,
+      "text": " Hvad vil du anbefale her i det her lidt"
+    },
+    {
+      "start": 1153.0,
+      "end": 1155.0,
+      "text": " lavpraktiske eksempel?"
+    },
+    {
+      "start": 1155.0,
+      "end": 1157.0,
+      "text": " Så, det er lidt tilbage til,"
+    },
+    {
+      "start": 1157.0,
+      "end": 1159.0,
+      "text": " at nogle gange følger Meta ikke selv"
+    },
+    {
+      "start": 1159.0,
+      "end": 1161.0,
+      "text": " sine egne regler, og det tror jeg, at de fleste"
+    },
+    {
+      "start": 1161.0,
+      "end": 1163.0,
+      "text": " Meta-arrangører kan genkende til. Så nogle gange"
+    },
+    {
+      "start": 1163.0,
+      "end": 1165.0,
+      "text": " har jeg uploadet annoncer uden"
+    },
+    {
+      "start": 1165.0,
+      "end": 1167.0,
+      "text": " at påvirke læringsfasen. Men lad os nu bare"
+    },
+    {
+      "start": 1167.0,
+      "end": 1169.0,
+      "text": " antage dokumentationerne 100% korrekt."
+    },
+    {
+      "start": 1169.0,
+      "end": 1171.0,
+      "text": " Der bliver ikke raflet med terningerne."
+    },
+    {
+      "start": 1171.0,
+      "end": 1173.0,
+      "text": " At uploade en ny annonce, det er lige med"
+    },
+    {
+      "start": 1173.0,
+      "end": 1175.0,
+      "text": " at vise ad læringsfasen."
+    },
+    {
+      "start": 1175.0,
+      "end": 1177.0,
+      "text": " Jeg tror, jeg vil se det på to punkter."
+    },
+    {
+      "start": 1177.0,
+      "end": 1179.0,
+      "text": " Den ene, først og fremmest, det vil"
+    },
+    {
+      "start": 1179.0,
+      "end": 1181.0,
+      "text": " være, at vi er ude af vores"
+    },
+    {
+      "start": 1181.0,
+      "end": 1183.0,
+      "text": " læringsfase. Vi har stabil levering."
+    },
+    {
+      "start": 1183.0,
+      "end": 1185.0,
+      "text": " Vi kan begynde at se, at selvom vi har"
+    },
+    {
+      "start": 1185.0,
+      "end": 1187.0,
+      "text": " stabil levering, så stiger vores CPA."
+    },
+    {
+      "start": 1187.0,
+      "end": 1189.0,
+      "text": " Den stiger lige så stille dag for dag."
+    },
+    {
+      "start": 1189.0,
+      "end": 1191.0,
+      "text": " Vores"
+    },
+    {
+      "start": 1191.0,
+      "end": 1193.0,
+      "text": " konklusion, det kan være, at det er, fordi vi begynder at ramme"
+    },
+    {
+      "start": 1193.0,
+      "end": 1195.0,
+      "text": " adfatik, eller at vi i vores"
+    },
+    {
+      "start": 1195.0,
+      "end": 1197.0,
+      "text": " annoncer kun tiltaler en målgruppe."
+    },
+    {
+      "start": 1197.0,
+      "end": 1199.0,
+      "text": " Jamen, hvad er så værst?"
+    },
+    {
+      "start": 1199.0,
+      "end": 1201.0,
+      "text": " Og ikke at lave nogle ændringer,"
+    },
+    {
+      "start": 1201.0,
+      "end": 1203.0,
+      "text": " og bare fortsætte med de der fem annoncer og se"
+    },
+    {
+      "start": 1203.0,
+      "end": 1205.0,
+      "text": " CPA'en stige, eller tage chancen og sige,"
+    },
+    {
+      "start": 1205.0,
+      "end": 1207.0,
+      "text": " ved du hvad, vi skal nok komme ud af den læringsfase igen."
+    },
+    {
+      "start": 1207.0,
+      "end": 1209.0,
+      "text": " Men nu tilføjer vi altså nogle nye kreativer."
+    },
+    {
+      "start": 1209.0,
+      "end": 1211.0,
+      "text": " Så vil jeg tage den og sige, jamen, lad os da prøve"
+    },
+    {
+      "start": 1211.0,
+      "end": 1213.0,
+      "text": " at ændre udfaldet og få den"
+    },
+    {
+      "start": 1213.0,
+      "end": 1215.0,
+      "text": " CPA'en ned. Nummer to"
+    },
+    {
+      "start": 1215.0,
+      "end": 1217.0,
+      "text": " vil være en forlængelse af den."
+    },
+    {
+      "start": 1217.0,
+      "end": 1219.0,
+      "text": " Jeg vil være ked af, at man gjorde"
+    },
+    {
+      "start": 1219.0,
+      "end": 1221.0,
+      "text": " det her for at tilføje én annonce."
+    },
+    {
+      "start": 1221.0,
+      "end": 1223.0,
+      "text": " Der synes jeg godt, man må sige, okay,"
+    },
+    {
+      "start": 1223.0,
+      "end": 1225.0,
+      "text": " jamen, i dag, jeg ser nu min CPA"
+    },
+    {
+      "start": 1225.0,
+      "end": 1227.0,
+      "text": " stige de sidste tre dage. Nu går jeg ind og tilføjer"
+    },
+    {
+      "start": 1227.0,
+      "end": 1229.0,
+      "text": " én nye annonce. Hvorfor kun"
+    },
+    {
+      "start": 1229.0,
+      "end": 1231.0,
+      "text": " én? Så vil jeg næsten hellere, at du venter til"
+    },
+    {
+      "start": 1231.0,
+      "end": 1233.0,
+      "text": " i morgen, og så du tilføjer to."
+    },
+    {
+      "start": 1233.0,
+      "end": 1235.0,
+      "text": " Eller du venter til overmorgen, og tilføjer tre."
+    },
+    {
+      "start": 1235.0,
+      "end": 1237.0,
+      "text": " Tilbage til det her med, jo flere ændringer"
+    },
+    {
+      "start": 1237.0,
+      "end": 1239.0,
+      "text": " vi ligesom kan bulke. Lad os sige, vi skulle alligevel"
+    },
+    {
+      "start": 1239.0,
+      "end": 1241.0,
+      "text": " ind og tilføje et 9-16 kreativ"
+    },
+    {
+      "start": 1241.0,
+      "end": 1243.0,
+      "text": " på en af annoncerne. Vi skulle alligevel"
+    },
+    {
+      "start": 1243.0,
+      "end": 1245.0,
+      "text": " lave en ændring på et kopie. Vi skulle måske alligevel"
+    },
+    {
+      "start": 1245.0,
+      "end": 1247.0,
+      "text": " skrue budgettet op med mere end 20%."
+    },
+    {
+      "start": 1247.0,
+      "end": 1249.0,
+      "text": " Jamen, i den forvindelse lad os"
+    },
+    {
+      "start": 1249.0,
+      "end": 1251.0,
+      "text": " lige sætte tre nye annonce-liver"
+    },
+    {
+      "start": 1251.0,
+      "end": 1253.0,
+      "text": " i stedet for at gøre det"
+    },
+    {
+      "start": 1253.0,
+      "end": 1255.0,
+      "text": " altså, igen, på dagligdagsdrift."
+    },
+    {
+      "start": 1255.0,
+      "end": 1257.0,
+      "text": " Så lad os lige prøve et kort sekund"
+    },
+    {
+      "start": 1257.0,
+      "end": 1259.0,
+      "text": " og hoppe tilbage til spørgsmålet fra"
+    },
+    {
+      "start": 1259.0,
+      "end": 1261.0,
+      "text": " Alex, fordi, og nu tager jeg bare lige et kort"
+    },
+    {
+      "start": 1261.0,
+      "end": 1263.0,
+      "text": " lille uddrag herfra. Han skriver, problemet"
+    },
+    {
+      "start": 1263.0,
+      "end": 1265.0,
+      "text": " er, at det er svært at få nok salg til"
+    },
+    {
+      "start": 1265.0,
+      "end": 1267.0,
+      "text": " at få et stærkt signal. Algoritmet kan ikke"
+    },
+    {
+      "start": 1267.0,
+      "end": 1269.0,
+      "text": " optimere. De her signaler,"
+    },
+    {
+      "start": 1269.0,
+      "end": 1271.0,
+      "text": " hvor mange er det"
+    },
+    {
+      "start": 1271.0,
+      "end": 1273.0,
+      "text": " Meta siger officielt set,"
+    },
+    {
+      "start": 1273.0,
+      "end": 1275.0,
+      "text": " at de skal have, og hvad er din erfaring"
+    },
+    {
+      "start": 1275.0,
+      "end": 1277.0,
+      "text": " her? Så, Meta siger,"
+    },
+    {
+      "start": 1277.0,
+      "end": 1279.0,
+      "text": " hvis vi arbejder med website, der er faktisk"
+    },
+    {
+      "start": 1279.0,
+      "end": 1281.0,
+      "text": " nogle andre regler for shop-ads, fordi"
+    },
+    {
+      "start": 1281.0,
+      "end": 1283.0,
+      "text": " signalet sker på platformen, men"
+    },
+    {
+      "start": 1283.0,
+      "end": 1285.0,
+      "text": " jeg tror godt, jeg kan sige 99,9% af"
+    },
+    {
+      "start": 1285.0,
+      "end": 1287.0,
+      "text": " danske annoncer bruger ikke shop-ads."
+    },
+    {
+      "start": 1287.0,
+      "end": 1289.0,
+      "text": " Der skal vi til et market,"
+    },
+    {
+      "start": 1289.0,
+      "end": 1291.0,
+      "text": " der starter med US."
+    },
+    {
+      "start": 1291.0,
+      "end": 1293.0,
+      "text": " Så, hvis vi tager udgangspunkt i en website"
+    },
+    {
+      "start": 1293.0,
+      "end": 1295.0,
+      "text": " kampagne om det er B2B eller B2C,"
+    },
+    {
+      "start": 1295.0,
+      "end": 1297.0,
+      "text": " så er dokumentationen, at man skal have"
+    },
+    {
+      "start": 1297.0,
+      "end": 1299.0,
+      "text": " 50 kompeteringer, altså 50"
+    },
+    {
+      "start": 1299.16,
+      "end": 1303.9,
+      "text": " hvor mange er det, Meta siger officielt set at de skal have og"
+    },
+    {
+      "start": 1303.9,
+      "end": 1305.7,
+      "text": " hvad er din erfaring her?"
+    },
+    {
+      "start": 1305.9,
+      "end": 1310.4,
+      "text": " Meta siger, hvis vi arbejder med website, der er faktisk nogle andre regler for"
+    },
+    {
+      "start": 1310.4,
+      "end": 1313.8,
+      "text": " shop-ads, fordi signalet sker på platformen, men tror godt I kan sige, 99,9% af"
+    },
+    {
+      "start": 1314.1,
+      "end": 1318.9,
+      "text": " danske annoncerer bruger ikke shop-ads. Der skal vi til et markede,"
+    },
+    {
+      "start": 1319.2,
+      "end": 1325.8,
+      "text": " der starter med US. Så, hvis vi tager udgangspunkt i en website kampagne om B2B eller B2C,"
+    },
+    {
+      "start": 1325.8,
+      "end": 1331.0,
+      "text": " så er situationen, at man skal have 50 kompeteringer, altså 50 f.eks. webshop-køb eller leads,"
+    },
+    {
+      "start": 1331.0,
+      "end": 1339.2,
+      "text": " inden for et 7-dags-vindue. Den her regel eksisterer stadigvæk, men jeg har virkelig både set"
+    },
+    {
+      "start": 1339.2,
+      "end": 1343.8,
+      "text": " og læst mange eksempler på, at den er ligegyldig. Grunden til det er det, det er fordi vi har"
+    },
+    {
+      "start": 1343.8,
+      "end": 1348.4,
+      "text": " fået en bedre algoritme. Det er noget så simpelt som det. Den her 50 kompeteringer"
+    },
+    {
+      "start": 1348.4,
+      "end": 1353.4,
+      "text": " inden for 7-dags-vindue, den var der også, da jeg begyndte at lave meta-annoncer tilbage i 2018."
+    },
+    {
+      "start": 1353.4,
+      "end": 1358.0,
+      "text": " Og der forstod jeg det måske i højere grad, men i dag er vi lidt et andet sted, end vi er i 2018,"
+    },
+    {
+      "start": 1358.0,
+      "end": 1362.6,
+      "text": " kan jeg nok godt sige. Og der er nogle AI-modeller, og der er et kæmpe, kæmpe, kæmpe setup"
+    },
+    {
+      "start": 1362.6,
+      "end": 1367.8,
+      "text": " hos Meta, der gør, at der er mange steder og mange konti, hvor først og fremmest, så kan du se"
+    },
+    {
+      "start": 1367.8,
+      "end": 1373.0,
+      "text": " den her progress bar på dit annonce-set. Den er faktisk sat ned, så du kun skulle have 20 kompeteringer."
+    },
+    {
+      "start": 1374.0,
+      "end": 1378.6,
+      "text": " Der er også mange, som har cases, hvor de siger, jamen, Meta har faktisk været okay med det,"
+    },
+    {
+      "start": 1378.6,
+      "end": 1382.8,
+      "text": " hvis jeg har fået 10 inden for 3 dage. Så er den faktisk ændret sin leveringsstatus fra"
+    },
+    {
+      "start": 1383.0,
+      "end": 1391.4,
+      "text": " en learning til ud-learning, altså bare til aktiv. Så selvom man ved fra skolebænken 50 inden for 7 dage,"
+    },
+    {
+      "start": 1391.4,
+      "end": 1398.4,
+      "text": " så er der faktisk mange eksempler på, at det ikke reelt er et krav. Det er mere en retningslinjer."
+    },
+    {
+      "start": 1398.4,
+      "end": 1404.4,
+      "text": " Det er mere deres built-to-scale. De siger, det er deroppe, hvor du rammer en, kan man sige,"
+    },
+    {
+      "start": 1404.4,
+      "end": 1409.0,
+      "text": " høj nok statistisk signifikans til, at Meta leverer en stabil levering."
+    },
+    {
+      "start": 1409.6,
+      "end": 1413.0,
+      "text": " Men der er mange eksempler på, at hvis du har fået 10 kompeteringer på 7 dage,"
+    },
+    {
+      "start": 1413.0,
+      "end": 1416.2,
+      "text": " så er kampagnen alligevel gået aktiv, og så er det været rigeligt."
+    },
+    {
+      "start": 1416.2,
+      "end": 1423.6,
+      "text": " Hvis det er, at man har det her, som Alex har, hvor man siger, jeg har svært nok ved at få de her 50 kompeteringer,"
+    },
+    {
+      "start": 1423.6,
+      "end": 1428.0,
+      "text": " først og fremmest er spørgsmålet til Alex, er det så fordi, du har 10, 20, 30 eller 40?"
+    },
+    {
+      "start": 1428.0,
+      "end": 1434.6,
+      "text": " Hvis vi nu anser, at det er 20, du har, så tror jeg faktisk, det er nok. Du kan også være heldig, det er 10."
+    },
+    {
+      "start": 1434.6,
+      "end": 1440.0,
+      "text": " Hvad gør du, hvis det er, at du sidder fast i læringsfasen, selvom du har de her 10?"
+    },
+    {
+      "start": 1440.0,
+      "end": 1443.0,
+      "text": " Først og fremmest, prøv at konsolidere mest muligt."
+    },
+    {
+      "start": 1443.0,
+      "end": 1448.2,
+      "text": " Hvis du har 3 kampagner lige nu, lav 1. Hvis du har 3 annoncesæt, lav 1."
+    },
+    {
+      "start": 1448.2,
+      "end": 1452.6,
+      "text": " Hvis du har 20 annoncer, lav 5. Altså tilbage til, at vi skal prøve at samle mest muligt."
+    },
+    {
+      "start": 1452.6,
+      "end": 1456.4,
+      "text": " Også fordi, når du går fra at have 3 kampagner eller 3 annoncesæt til at have 1,"
+    },
+    {
+      "start": 1456.4,
+      "end": 1459.8,
+      "text": " så har du forhåbentlig også noget budget, du kan rykke hen og samle dit budget."
+    },
+    {
+      "start": 1459.8,
+      "end": 1463.4,
+      "text": " Og alt andet lige, så vil vi gerne samle vores budget, samle vores læring,"
+    },
+    {
+      "start": 1463.4,
+      "end": 1466.2,
+      "text": " og dermed prøve at maximere antallet af signaler."
+    },
+    {
+      "start": 1466.2,
+      "end": 1470.4,
+      "text": " Nummer 2. Signalkvalitet betyder utrolig meget i forhold til det her med læringsfasen."
+    },
+    {
+      "start": 1470.4,
+      "end": 1474.2,
+      "text": " Så en ting er antallet, altså tæl til 50 eller tæl til 10."
+    },
+    {
+      "start": 1474.2,
+      "end": 1478.0,
+      "text": " Men alt efter, hvordan du har sat din tracking op, så er det også ret afgørende."
+    },
+    {
+      "start": 1478.0,
+      "end": 1481.2,
+      "text": " Det er noget, der er med til at hjælpe, om META skal bruge 20 eller 50."
+    },
+    {
+      "start": 1481.2,
+      "end": 1484.4,
+      "text": " Hvordan er din Event Match Quality, altså EMQ-score?"
+    },
+    {
+      "start": 1484.4,
+      "end": 1489.4,
+      "text": " Har du sat conversions-API op? Det duplikerer du dine events."
+    },
+    {
+      "start": 1489.4,
+      "end": 1492.0,
+      "text": " Hvad det nu kan være. Er din data-freshness høj nok?"
+    },
+    {
+      "start": 1492.0,
+      "end": 1499.6,
+      "text": " Men når jeg hører det her, så lyder det også som om, at du taler lidt væk fra at gå..."
+    },
+    {
+      "start": 1499.6,
+      "end": 1503.0,
+      "text": " Lad mig stille det her spørgsmål på en anden måde, fordi tidligere, der kunne man godt"
+    },
+    {
+      "start": 1503.0,
+      "end": 1507.2,
+      "text": " have en tendens til at anbefale at gå lidt højere op i den her tracking-trakt."
+    },
+    {
+      "start": 1507.2,
+      "end": 1510.4,
+      "text": " Altså hvis ikke du får konverteringer nok, så går vi til det næstbedste,"
+    },
+    {
+      "start": 1510.4,
+      "end": 1514.2,
+      "text": " det er for eksempel add-to-cart. Så vil vi gerne have fat i de folk, der tilføjer noget til kurven."
+    },
+    {
+      "start": 1514.2,
+      "end": 1519.0,
+      "text": " Og hvis man heller ikke har nok af dem, så går man til dem, der rent faktisk lander på landingssiden"
+    },
+    {
+      "start": 1519.0,
+      "end": 1523.8,
+      "text": " og måske bruger x sekunder derpå, der klikker sig videre. Så man ligesom ser på dem bag."
+    },
+    {
+      "start": 1523.8,
+      "end": 1527.8,
+      "text": " Altså jeg vil egentlig gerne have et salg, hvis det er en e-commerce-forretning,"
+    },
+    {
+      "start": 1527.8,
+      "end": 1530.8,
+      "text": " men jeg får simpelthen ikke nok igennem til at komme ud af den her læringsfase."
+    },
+    {
+      "start": 1530.8,
+      "end": 1534.4,
+      "text": " Hvad gør jeg så? Jamen så går jeg til det næstbedste, hvor jeg rent faktisk får nok"
+    },
+    {
+      "start": 1534.4,
+      "end": 1538.8,
+      "text": " i godseøjne konverteringer eller signaler. Jeg skaber nok signaler til algoritmen til,"
+    },
+    {
+      "start": 1538.8,
+      "end": 1541.0,
+      "text": " at jeg kan komme ud af læringsfasen."
+    },
+    {
+      "start": 1541.0,
+      "end": 1545.2,
+      "text": " Hvad tænker du omkring den? Er det stadigvæk anbefalingen den dag i dag?"
+    },
+    {
+      "start": 1545.2,
+      "end": 1547.8,
+      "text": " Skal man holde sig fra det? Skal man gå benhårdt efter de her salger,"
+    },
+    {
+      "start": 1547.8,
+      "end": 1552.2,
+      "text": " som man jo reelt set gerne vil have, skal lykkes? Hvad tænker du omkring det?"
+    },
+    {
+      "start": 1552.2,
+      "end": 1559.2,
+      "text": " Jeg har uden at overdrive på syv år set det her fungere én gang."
+    },
+    {
+      "start": 1559.2,
+      "end": 1564.4,
+      "text": " Én gang har vi prøvet at gå fra purchase til add-to-cart, fordi du får flere add-to-carts,"
+    },
+    {
+      "start": 1564.4,
+      "end": 1569.6,
+      "text": " end du får purchases på en webshop, hvor det rent faktisk var et bedre resultat."
+    },
+    {
+      "start": 1569.6,
+      "end": 1575.0,
+      "text": " Men jeg har også set rigtig mange studier, som vi selv har lavet, hvor vi har sat de her to op mod hinanden."
+    },
+    {
+      "start": 1575.0,
+      "end": 1578.2,
+      "text": " Og jo, så har du fået flere add-to-carts, hvis du gerne vil have add-to-carts,"
+    },
+    {
+      "start": 1578.2,
+      "end": 1582.2,
+      "text": " men vi har stadig fået flere purchases, selvom vi ikke har fået nok, hvis det giver mening."
+    },
+    {
+      "start": 1582.2,
+      "end": 1586.6,
+      "text": " Så selvom det er, at vi struggler med fem salger om ugen,"
+    },
+    {
+      "start": 1586.6,
+      "end": 1590.4,
+      "text": " hvis vi ender deres add-to-cart, så har det måske været to, vi har fået lige pludselig."
+    },
+    {
+      "start": 1590.4,
+      "end": 1594.0,
+      "text": " Og det gør det jo faktisk endnu værre. Så kan du godt være kommet ud af læringsfasen ved at få nok add-to-carts."
+    },
+    {
+      "start": 1594.0,
+      "end": 1599.0,
+      "text": " Problemet er bare, at meta er faktisk ekstremt simpelt at forstå."
+    },
+    {
+      "start": 1599.0,
+      "end": 1601.8,
+      "text": " De har bygget en maskine, hvor de siger, hvad vil du gerne have?"
+    },
+    {
+      "start": 1602.0,
+      "end": 1606.2,
+      "text": " Jamen, jeg vil gerne have køb. Fedt. Så gør vi alt i verden, før vi prøver at skaffe dig nogen køb."
+    },
+    {
+      "start": 1606.2,
+      "end": 1611.6,
+      "text": " Hvis du siger, nu vil jeg faktisk gerne have nogen add-to-carts, jamen så jagter den jo add-to-carts"
+    },
+    {
+      "start": 1611.6,
+      "end": 1616.0,
+      "text": " og finder dem, som er rigtig gode til at lægge ting i kurven, men er rigtig dårlige til at købe."
+    },
+    {
+      "start": 1616.0,
+      "end": 1617.8,
+      "text": " Fordi så skulle du jo optimere efter at købe."
+    },
+    {
+      "start": 1617.8,
+      "end": 1622.0,
+      "text": " Det er dem, der bruger det som sådan en indkøbsliste, ikke? Sådan en ønskeliste."
+    },
+    {
+      "start": 1622.0,
+      "end": 1626.4,
+      "text": " De har ingen intention om at købe dit produkt, ingen intention om at åbne mobilpenge."
+    },
+    {
+      "start": 1626.4,
+      "end": 1629.4,
+      "text": " Så du får det, du beder om."
+    },
+    {
+      "start": 1629.4,
+      "end": 1633.0,
+      "text": " Og det vil sige, jo, kan du gå op i trakten? Ja, du kan begynde at arbejde med,"
+    },
+    {
+      "start": 1633.0,
+      "end": 1636.2,
+      "text": " okay, skal jeg lægge noget topfunnel, altså noget videovisninger på?"
+    },
+    {
+      "start": 1636.2,
+      "end": 1639.8,
+      "text": " Øh, kunne det være, at jeg skulle ændre en midtfunnel, så i stedet for at være trafik,"
+    },
+    {
+      "start": 1639.8,
+      "end": 1643.2,
+      "text": " så var det en, hvad ved jeg? Hvis det ellers ikke endte, kan det godt være en hovedtest."
+    },
+    {
+      "start": 1643.2,
+      "end": 1646.8,
+      "text": " Så skulle vi aktivere nogle lead-outs. Nogle af de der ting kan vi jo stadigvæk godt arbejde med,"
+    },
+    {
+      "start": 1646.8,
+      "end": 1650.6,
+      "text": " men i din konverteringskampagne, der skal du opsætte det efter purchase."
+    },
+    {
+      "start": 1650.6,
+      "end": 1656.2,
+      "text": " Ikke add-to-cart, ikke mere content. Det er 9 ud af 10 gange helt galt."
+    },
+    {
+      "start": 1656.2,
+      "end": 1659.4,
+      "text": " Morten, vi bliver næsten også nødt til at komme lidt ind på budgettyper,"
+    },
+    {
+      "start": 1659.4,
+      "end": 1662.2,
+      "text": " for det er også et af de spørgsmål, jeg ved, at vi rigtig ofte får."
+    },
+    {
+      "start": 1662.2,
+      "end": 1665.8,
+      "text": " Livstidsbudget vs. dagligtbudget."
+    },
+    {
+      "start": 1665.8,
+      "end": 1670.0,
+      "text": " Og jeg ved, at du har en stærk holdning her, så jeg vil næsten bare glade dig for ordet her,"
+    },
+    {
+      "start": 1670.0,
+      "end": 1672.4,
+      "text": " for det er simpelthen fornøjelse at høre."
+    },
+    {
+      "start": 1672.4,
+      "end": 1675.6,
+      "text": " Jeg er glad for, at du bare siger her og ikke også her."
+    },
+    {
+      "start": 1675.6,
+      "end": 1682.6,
+      "text": " Jeg er jo blevet ældre med tiden, og det betyder også, at mine holdninger, de er jo blevet stærkere og stærkere."
+    },
+    {
+      "start": 1682.6,
+      "end": 1688.2,
+      "text": " Jeg står jo bare af sådan en god omgang mørbrækryde, der bliver ved med at koge."
+    },
+    {
+      "start": 1688.2,
+      "end": 1690.2,
+      "text": " Og lige forhold til budgetter."
+    },
+    {
+      "start": 1690.2,
+      "end": 1695.0,
+      "text": " Nu har jeg haft fornøjelsen af at oplære rigtig, rigtig mange i vores afdeling inden for social media,"
+    },
+    {
+      "start": 1695.0,
+      "end": 1696.6,
+      "text": " og den her er sådan en, jeg har haft med hver eneste gang."
+    },
+    {
+      "start": 1696.6,
+      "end": 1698.8,
+      "text": " Det er en, hvis du skal på mit projekt, så er det sådan her, vi gør."
+    },
+    {
+      "start": 1698.8,
+      "end": 1703.4,
+      "text": " Og så er det heldigvis kommet ud til andre folk, der også har kunne se det."
+    },
+    {
+      "start": 1703.4,
+      "end": 1706.6,
+      "text": " Men hvis du læser skolehåndbogen på Meta-annoncering,"
+    },
+    {
+      "start": 1706.6,
+      "end": 1709.8,
+      "text": " så ved du, at du kan arbejde med livstidsbudget og dagligtbudget."
+    },
+    {
+      "start": 1709.8,
+      "end": 1710.8,
+      "text": " Hvad er forskellen?"
+    },
+    {
+      "start": 1710.8,
+      "end": 1713.2,
+      "text": " Jamen, livstidsbudget, der sætter du kampagneperioden."
+    },
+    {
+      "start": 1713.2,
+      "end": 1716.2,
+      "text": " Jeg vil gerne sætte kampagnen op den første, den skal slutte den tredje."
+    },
+    {
+      "start": 1716.2,
+      "end": 1718.6,
+      "text": " Vores budget siger, at vi har 170.000."
+    },
+    {
+      "start": 1718.6,
+      "end": 1724.0,
+      "text": " Jeg skriver 170.000, og så skal Meta nok sørge for, på de enkelte dage, at bruge budgettet."
+    },
+    {
+      "start": 1724.0,
+      "end": 1727.6,
+      "text": " Det kan være, at den bruger 100 kroner i dag, og den bruger 1000 kroner i morgen."
+    },
+    {
+      "start": 1727.6,
+      "end": 1730.0,
+      "text": " Den finder ud af, hvornår det er bedst at bruge pengene."
+    },
+    {
+      "start": 1730.0,
+      "end": 1734.4,
+      "text": " Og dagligtbudget, jamen det er til dig, der bare gerne vil bruge det samme budget hver eneste dag."
+    },
+    {
+      "start": 1734.4,
+      "end": 1735.8,
+      "text": " Sådan burde det være."
+    },
+    {
+      "start": 1735.8,
+      "end": 1737.6,
+      "text": " Sådan har det engang været."
+    },
+    {
+      "start": 1737.6,
+      "end": 1740.2,
+      "text": " Altså tilbage til, ja, 18-19-tiden."
+    },
+    {
+      "start": 1740.2,
+      "end": 1744.0,
+      "text": " Jamen der brugte jeg da mere livstidsbudget, end jeg brugte dagligtbudget, fordi der passede den her mekanisme."
+    },
+    {
+      "start": 1744.0,
+      "end": 1748.8,
+      "text": " Der var livstidsbudget bedre til at finde, skal vi kalde det hullerne i osten, i bl.a. en kalender."
+    },
+    {
+      "start": 1748.8,
+      "end": 1754.2,
+      "text": " Hvor dagligtbudget var mere end, du har 1700 kroner, jeg bruger 1700 kroner. Dot 0 0."
+    },
+    {
+      "start": 1754.2,
+      "end": 1763.4,
+      "text": " Hvis vi kigger på det i dag, så kan jeg ikke finde en eneste case, et eneste eksempel, en eneste kampagne,"
+    },
+    {
+      "start": 1763.4,
+      "end": 1764.8,
+      "text": " hvor jeg ville bruge livstidsbudget."
+    },
+    {
+      "start": 1764.8,
+      "end": 1767.6,
+      "text": " Der er ingen fordel ved det."
+    },
+    {
+      "start": 1767.6,
+      "end": 1771.0,
+      "text": " Tværtimod, de fungerer på præcis samme måde."
+    },
+    {
+      "start": 1771.0,
+      "end": 1777.2,
+      "text": " Hvis man går ind og googler dailybudgets meta, jamen så finder man ud af, at et dagligtbudget,"
+    },
+    {
+      "start": 1777.2,
+      "end": 1779.2,
+      "text": " det bliver kigget ind over en syvdagsperiode."
+    },
+    {
+      "start": 1779.2,
+      "end": 1783.8,
+      "text": " Så hvis jeg sætter 1000 kroner på mit budget i dag, jamen så behøves den ikke at bruge 1000 kroner i dag."
+    },
+    {
+      "start": 1783.8,
+      "end": 1786.2,
+      "text": " Den kan godt bruge 500 og så bruge 1500 i morgen."
+    },
+    {
+      "start": 1786.2,
+      "end": 1789.4,
+      "text": " Bare den har brugt 7000 på samlede uge basis."
+    },
+    {
+      "start": 1789.4,
+      "end": 1796.8,
+      "text": " Altså præcis det, som vores livstidsbudget skulle gøre, modellerer sig til dagene og til efterspørgselene og til CPA."
+    },
+    {
+      "start": 1796.8,
+      "end": 1798.6,
+      "text": " Så de fungerer på præcis samme måde."
+    },
+    {
+      "start": 1798.6,
+      "end": 1802.6,
+      "text": " Og hvis de fungerer på præcis samme måde, så er der da mere fordel ved at have et dagligtbudget,"
+    },
+    {
+      "start": 1802.6,
+      "end": 1806.6,
+      "text": " fordi der kan du rent faktisk gå ind og sige, nu vil jeg gerne hæve mit budget eller sænke det."
+    },
+    {
+      "start": 1806.6,
+      "end": 1811.4,
+      "text": " Hvor livstidsbudgetet, lad os sige, du har sat det til 100.000, du står den 21. juli,"
+    },
+    {
+      "start": 1811.4,
+      "end": 1817.6,
+      "text": " meta har brugt 80, du finder ud af, jeg har faktisk kun 85 eller jeg vil gerne op og bruge 140."
+    },
+    {
+      "start": 1817.6,
+      "end": 1820.2,
+      "text": " Der er det meget svært at regne på et livstidsbudget."
+    },
+    {
+      "start": 1820.2,
+      "end": 1823.8,
+      "text": " Hvor et på dagligtbudget, jamen der kan du netop lave den der, vi ved weekenden er god."
+    },
+    {
+      "start": 1823.8,
+      "end": 1825.8,
+      "text": " Vi skruer op om fredagen, vi skruer ned om mandagen."
+    },
+    {
+      "start": 1825.8,
+      "end": 1828.6,
+      "text": " Det er væsentligt lettere at budgetkontrollere."
+    },
+    {
+      "start": 1828.6,
+      "end": 1833.8,
+      "text": " Hvor jeg forstår simpelthen ikke, hvis der er nogen, der sidder og løber med og har en god case på livstidsbudgetet,"
+    },
+    {
+      "start": 1833.8,
+      "end": 1836.8,
+      "text": " fordi endelig skriv til mig, eller livstidsbudgetet, sorry."
+    },
+    {
+      "start": 1836.8,
+      "end": 1843.4,
+      "text": " Endelig skriv til mig, men jeg kan ikke se andet end, at dem der gør det, det er fordi det er nemt at skrive det fulde bløb,"
+    },
+    {
+      "start": 1843.4,
+      "end": 1845.8,
+      "text": " der står i dit budgetark og så indtaste en periode."
+    },
+    {
+      "start": 1846.0,
+      "end": 1848.0,
+      "text": " Det jeg så også har set ved livstidsbudgetet, det er,"
+    },
+    {
+      "start": 1848.0,
+      "end": 1855.4,
+      "text": " de cases, og det har vi desværre i Obsidian, hvor vi har lavet aller flest årsager til overspend på meter,"
+    },
+    {
+      "start": 1855.4,
+      "end": 1859.2,
+      "text": " altså hvor vi har brugt flere penge, end vi er blevet bedt om, det er livstidsbudgeter."
+    },
+    {
+      "start": 1859.2,
+      "end": 1865.8,
+      "text": " Fordi når du har sagt 170.000 i juli, så når du sidder 1. august om morgenen og ikke engang har fået din første kop kaffe,"
+    },
+    {
+      "start": 1865.8,
+      "end": 1869.8,
+      "text": " så skal du måske op og bruge 300.000 i august."
+    },
+    {
+      "start": 1870.0,
+      "end": 1876.0,
+      "text": " Så skal du sætte dit budgetgang af, altså 170.000 plus 300.000, så skal du skrive 470.000,"
+    },
+    {
+      "start": 1876.0,
+      "end": 1877.6,
+      "text": " og sådan bliver det jo ved med at gange dig op."
+    },
+    {
+      "start": 1877.6,
+      "end": 1882.6,
+      "text": " Der kommer flere og flere nuller på, plus du skal kunne regne, og selvom det er simpel regnestykker,"
+    },
+    {
+      "start": 1882.6,
+      "end": 1886.6,
+      "text": " når du sidder og laver det her, så bliver det sådan lidt en dummy task, og det kan tit gå galt."
+    },
+    {
+      "start": 1886.6,
+      "end": 1891.0,
+      "text": " Der er det sgu lidt lettere med, altså jo, en enkelt dag, hvis du har brugt 500.000 i stedet for 250.000,"
+    },
+    {
+      "start": 1891.0,
+      "end": 1893.2,
+      "text": " det skal vi nok kunne finde ud af."
+    },
+    {
+      "start": 1893.2,
+      "end": 1896.4,
+      "text": " Hvis du har brugt millioner i stedet for at bruge 100.000, det ender sgu lidt værre."
+    },
+    {
+      "start": 1896.4,
+      "end": 1901.8,
+      "text": " Og når META ligger og kigger på det uendelige forbrug, så, de siger en uge,"
+    },
+    {
+      "start": 1901.8,
+      "end": 1906.4,
+      "text": " men nu sad jeg lige og kiggede her på, hvis man ser med på Spotify eller YouTube,"
+    },
+    {
+      "start": 1906.4,
+      "end": 1909.0,
+      "text": " så ville man kunne se, at jeg sidder inde på den officielle dokumentation,"
+    },
+    {
+      "start": 1909.0,
+      "end": 1912.0,
+      "text": " og jeg har sgu lidt svært ved lige at finde ud af, om det var rullende, altså rolling seven days,"
+    },
+    {
+      "start": 1912.0,
+      "end": 1916.4,
+      "text": " eller om det var på ugebasis, men jeg kan læse mig til her, at de ligesom tager udgangspunkt i det,"
+    },
+    {
+      "start": 1916.4,
+      "end": 1921.4,
+      "text": " at de må bruge på en uge, baseret på det daglige budget, søndag til lørdag."
+    },
+    {
+      "start": 1921.4,
+      "end": 1927.2,
+      "text": " Så her med en lille service-info til andre, der eventuelt må decide at tænke på det."
+    },
+    {
+      "start": 1927.2,
+      "end": 1933.4,
+      "text": " Nå, Morten, så hvis man vil have mest muligt ud af sine budgetter, så skal man gerne konsolidere."
+    },
+    {
+      "start": 1933.4,
+      "end": 1936.4,
+      "text": " Oder was? To consolidate or not to consolidate?"
+    },
+    {
+      "start": 1936.4,
+      "end": 1939.6,
+      "text": " Hvis jeg stiller det spørgsmål, hvad tænker du så?"
+    },
+    {
+      "start": 1939.6,
+      "end": 1942.4,
+      "text": " To consolidate or not consolidate?"
+    },
+    {
+      "start": 1942.4,
+      "end": 1947.0,
+      "text": " Det er sådan noget, jeg kommer til at bruge til fremadrettede møder."
+    },
+    {
+      "start": 1948.0,
+      "end": 1951.8,
+      "text": " Så først og fremmest, jeg plejer altid at sige det her 9 ud af 10 cases,"
+    },
+    {
+      "start": 1951.8,
+      "end": 1954.6,
+      "text": " fordi der er altid en, der nok skal være der, og så siger jeg, nej, det passer ikke,"
+    },
+    {
+      "start": 1954.6,
+      "end": 1956.2,
+      "text": " og så siger jeg, det er helt rigtigt, det passer ikke."
+    },
+    {
+      "start": 1956.2,
+      "end": 1958.6,
+      "text": " Så 10 ud af 10 vil altid være en fejl at sige."
+    },
+    {
+      "start": 1958.6,
+      "end": 1961.4,
+      "text": " 9 ud af 10 gange vil jeg gøre alt for at konsolidere mest muligt."
+    },
+    {
+      "start": 1961.4,
+      "end": 1963.4,
+      "text": " Vi har snakket om det mange gange."
+    },
+    {
+      "start": 1963.4,
+      "end": 1966.0,
+      "text": " Det står jo alt i dokumentationen, det står jo alt på LinkedIn."
+    },
+    {
+      "start": 1966.0,
+      "end": 1971.2,
+      "text": " At give META mest mulig likviditet, liquidity i deres aktion, det er en god ting."
+    },
+    {
+      "start": 1971.2,
+      "end": 1976.0,
+      "text": " Jo flere signaler, jo bedre levering, jo får flere signaler af at samle dine kampagner."
+    },
+    {
+      "start": 1976.0,
+      "end": 1980.4,
+      "text": " Så hvis jeg skulle booke sig ind til en META-workshop, hvor jeg åbnede og sagde,"
+    },
+    {
+      "start": 1980.4,
+      "end": 1983.4,
+      "text": " jamen, der er 10 kampagner, og der er 20 annonce-sæt,"
+    },
+    {
+      "start": 1983.4,
+      "end": 1985.2,
+      "text": " jamen, så ville jeg bruge halvdelen af workshoppen på at sige,"
+    },
+    {
+      "start": 1985.2,
+      "end": 1986.6,
+      "text": " jamen, det skal vi så have samlet nu."
+    },
+    {
+      "start": 1986.6,
+      "end": 1988.6,
+      "text": " Nu finder vi en struktur for, hvordan vi samler det."
+    },
+    {
+      "start": 1988.6,
+      "end": 1992.4,
+      "text": " Der er nogle enkelte sådan, jamen, hvis vi har nogle forskellige produkter,"
+    },
+    {
+      "start": 1992.4,
+      "end": 1994.8,
+      "text": " eller vi har nogle forskellige kampagneperioder eller andet."
+    },
+    {
+      "start": 1994.8,
+      "end": 1996.0,
+      "text": " Igen, det afhænger af signaler."
+    },
+    {
+      "start": 1996.0,
+      "end": 2000.2,
+      "text": " Hvis du får 1000 køb om ugen, så kan du godt tillade dig at fragmentere ud."
+    },
+    {
+      "start": 2000.2,
+      "end": 2003.2,
+      "text": " Hvis du får 50 køb om ugen, så kan du ikke tillade dig."
+    },
+    {
+      "start": 2003.2,
+      "end": 2005.2,
+      "text": " Altså, så er det en kampagne."
+    },
+    {
+      "start": 2005.2,
+      "end": 2007.8,
+      "text": " Så det afhænger igen af antallet af signaler."
+    },
+    {
+      "start": 2007.8,
+      "end": 2013.2,
+      "text": " Men der er faktisk også en, som, hvis man følger med bare inden for nogenlunde i det her META-game,"
+    },
+    {
+      "start": 2013.2,
+      "end": 2015.2,
+      "text": " Bram van der Hallen."
+    },
+    {
+      "start": 2015.2,
+      "end": 2016.2,
+      "text": " Hallen, måske."
+    },
+    {
+      "start": 2016.2,
+      "end": 2018.2,
+      "text": " Jeg ved, han er fra Holland."
+    },
+    {
+      "start": 2018.2,
+      "end": 2024.8,
+      "text": " Hvis du følger ham, så har han fornyeligt også gået lidt imod det her konsulteringsspørgsmål."
+    },
+    {
+      "start": 2024.8,
+      "end": 2026.6,
+      "text": " Og det er jo en mand, som de fleste lytter til."
+    },
+    {
+      "start": 2026.6,
+      "end": 2029.2,
+      "text": " Jeg tror, han har, jeg ved ikke, 50.000 følgere på LinkedIn."
+    },
+    {
+      "start": 2029.2,
+      "end": 2032.8,
+      "text": " Vi har prøvet at booke ham til Social Acts Conference de sidste tre år i streg,"
+    },
+    {
+      "start": 2032.8,
+      "end": 2035.2,
+      "text": " og de sidste tre år har han skrevet den samme besked hver eneste gang."
+    },
+    {
+      "start": 2035.2,
+      "end": 2037.6,
+      "text": " Han er rigtig glad for at skrive hver eneste dag på LinkedIn,"
+    },
+    {
+      "start": 2037.6,
+      "end": 2039.0,
+      "text": " men han er ikke glad for at stå på en scene."
+    },
+    {
+      "start": 2039.0,
+      "end": 2040.6,
+      "text": " Men Bård, det er blevet til at høre."
+    },
+    {
+      "start": 2040.6,
+      "end": 2043.4,
+      "text": " Bram, jeg tror, de fleste, der arbejder med digital markedsøgning,"
+    },
+    {
+      "start": 2043.4,
+      "end": 2045.2,
+      "text": " har set ham eller kender ham fra LinkedIn."
+    },
+    {
+      "start": 2045.2,
+      "end": 2047.2,
+      "text": " Hvor får han sin information fra?"
+    },
+    {
+      "start": 2047.2,
+      "end": 2048.8,
+      "text": " Fordi han er vel ikke ansat af META?"
+    },
+    {
+      "start": 2048.8,
+      "end": 2052.8,
+      "text": " Nej, og han er jo heller ikke ansat i et gigantisk byrå,"
+    },
+    {
+      "start": 2052.8,
+      "end": 2056.8,
+      "text": " som kender en eller anden, der kender en eller anden."
+    },
+    {
+      "start": 2056.8,
+      "end": 2058.6,
+      "text": " Som jeg har hørt det, og som jeg har forstået det,"
+    },
+    {
+      "start": 2058.6,
+      "end": 2060.6,
+      "text": " jeg har spurgt ham,"
+    },
+    {
+      "start": 2060.6,
+      "end": 2062.6,
+      "text": " altså, nu når han ikke vil stille op til konferencen,"
+    },
+    {
+      "start": 2062.6,
+      "end": 2064.6,
+      "text": " så må da han give os noget andet."
+    },
+    {
+      "start": 2064.6,
+      "end": 2067.2,
+      "text": " Han har en, jeg mener det var en Discord-gruppe,"
+    },
+    {
+      "start": 2067.2,
+      "end": 2069.8,
+      "text": " som hedder Bram Insiders,"
+    },
+    {
+      "start": 2069.8,
+      "end": 2071.8,
+      "text": " som, lad os bare sige, der er 1000 personer derinde."
+    },
+    {
+      "start": 2071.8,
+      "end": 2074.2,
+      "text": " Jamen, alle sidder og laver META til fredag."
+    },
+    {
+      "start": 2074.2,
+      "end": 2076.2,
+      "text": " Så når de spotter en ændring, så lægger de den derind,"
+    },
+    {
+      "start": 2076.2,
+      "end": 2077.0,
+      "text": " og så lægger han den op."
+    },
+    {
+      "start": 2077.0,
+      "end": 2078.6,
+      "text": " Så det er ikke fordi, han sidder på en konto,"
+    },
+    {
+      "start": 2078.6,
+      "end": 2081.6,
+      "text": " der bare er helt magisk, og META giver alle sammen de nyeste features."
+    },
+    {
+      "start": 2081.6,
+      "end": 2084.0,
+      "text": " Det er fordi, han har, altså det er jo en kult,"
+    },
+    {
+      "start": 2084.0,
+      "end": 2087.6,
+      "text": " altså, alle der bare filer information til ham."
+    },
+    {
+      "start": 2087.6,
+      "end": 2089.6,
+      "text": " Det er derfor, han også nogle gange skriver,"
+    },
+    {
+      "start": 2089.6,
+      "end": 2091.6,
+      "text": " Spotted by X."
+    },
+    {
+      "start": 2091.6,
+      "end": 2093.6,
+      "text": " Ah, okay."
+    },
+    {
+      "start": 2093.6,
+      "end": 2095.6,
+      "text": " Så han er sgu bare en grib, det er det jeg siger."
+    },
+    {
+      "start": 2097.6,
+      "end": 2099.6,
+      "text": " Jeg har ikke engang skrevet til ham,"
+    },
+    {
+      "start": 2099.6,
+      "end": 2101.6,
+      "text": " sådan, den her, den har du ikke set."
+    },
+    {
+      "start": 2101.6,
+      "end": 2103.6,
+      "text": " Det havde han ikke. Det var så også fordi, jeg havde fået noget insight."
+    },
+    {
+      "start": 2103.6,
+      "end": 2105.6,
+      "text": " Så, vi battlede lidt om det,"
+    },
+    {
+      "start": 2105.6,
+      "end": 2107.6,
+      "text": " uden at jeg kendte ham 100%."
+    },
+    {
+      "start": 2107.6,
+      "end": 2109.6,
+      "text": " Men, han er,"
+    },
+    {
+      "start": 2109.6,
+      "end": 2111.6,
+      "text": " især efter man er introduceret,"
+    },
+    {
+      "start": 2111.6,
+      "end": 2113.6,
+      "text": " META Gem, META Lassage,"
+    },
+    {
+      "start": 2113.6,
+      "end": 2115.6,
+      "text": " META Andromeda,"
+    },
+    {
+      "start": 2115.6,
+      "end": 2117.6,
+      "text": " som har vi været igennem tidligere."
+    },
+    {
+      "start": 2117.6,
+      "end": 2119.6,
+      "text": " Jamen, der gik han faktisk lidt imod,"
+    },
+    {
+      "start": 2119.6,
+      "end": 2121.6,
+      "text": " og sagde, at der er alt for mange"
+    },
+    {
+      "start": 2121.6,
+      "end": 2123.6,
+      "text": " specialister, der nu kun"
+    },
+    {
+      "start": 2123.6,
+      "end": 2125.6,
+      "text": " taler om, Atvantis Plus"
+    },
+    {
+      "start": 2125.6,
+      "end": 2127.6,
+      "text": " smider det ind i en stor pærevalgning."
+    },
+    {
+      "start": 2127.6,
+      "end": 2129.6,
+      "text": " Og så kunne du bare få automatisk"
+    },
+    {
+      "start": 2129.6,
+      "end": 2131.6,
+      "text": " algoritmen til at vinde i lotto."
+    },
+    {
+      "start": 2131.6,
+      "end": 2133.6,
+      "text": " Hans argument er,"
+    },
+    {
+      "start": 2133.6,
+      "end": 2135.6,
+      "text": " at det kan godt være, du får"
+    },
+    {
+      "start": 2135.6,
+      "end": 2137.6,
+      "text": " samlet dine signaler, samlet dit budget,"
+    },
+    {
+      "start": 2137.6,
+      "end": 2139.6,
+      "text": " og du får en større"
+    },
+    {
+      "start": 2139.6,
+      "end": 2141.6,
+      "text": " reach på kontoen,"
+    },
+    {
+      "start": 2141.6,
+      "end": 2143.6,
+      "text": " men at du også i højere grad graver dig ned i et hul."
+    },
+    {
+      "start": 2143.6,
+      "end": 2145.6,
+      "text": " Vi har tidligere nævnt det her incremental reach,"
+    },
+    {
+      "start": 2145.6,
+      "end": 2147.6,
+      "text": " hvor hvis du har"
+    },
+    {
+      "start": 2147.6,
+      "end": 2149.6,
+      "text": " en salgskampagne, der bare kører,"
+    },
+    {
+      "start": 2149.6,
+      "end": 2151.6,
+      "text": " og kører, og kører, så lige pludselig"
+    },
+    {
+      "start": 2151.6,
+      "end": 2153.6,
+      "text": " rammer du et punkt, hvor den ligesom bare grader sig fast."
+    },
+    {
+      "start": 2153.6,
+      "end": 2155.6,
+      "text": " Hvor det er de samme bruger, du tog"
+    },
+    {
+      "start": 2155.6,
+      "end": 2157.6,
+      "text": " i april, som du tager i maj, og du bare bliver ved med"
+    },
+    {
+      "start": 2157.6,
+      "end": 2159.6,
+      "text": " at geneksponere den samme sø."
+    },
+    {
+      "start": 2159.6,
+      "end": 2161.6,
+      "text": " Du ser kun ud at fiske af det samme sted hver eneste gang."
+    },
+    {
+      "start": 2161.6,
+      "end": 2163.6,
+      "text": " Til sidst er der bare ikke flere fisk i søen."
+    },
+    {
+      "start": 2163.6,
+      "end": 2165.6,
+      "text": " Det er lidt det samme, han har her,"
+    },
+    {
+      "start": 2165.6,
+      "end": 2167.6,
+      "text": " så vi mangler faktisk noget impact."
+    },
+    {
+      "start": 2167.6,
+      "end": 2169.6,
+      "text": " Og det er jo ikke fordi, han nødvendigvis snakker om, at"
+    },
+    {
+      "start": 2169.6,
+      "end": 2171.6,
+      "text": " META prøver at snyde os, eller at"
+    },
+    {
+      "start": 2171.6,
+      "end": 2173.6,
+      "text": " vi skal begynde at fragmentere"
+    },
+    {
+      "start": 2173.6,
+      "end": 2175.6,
+      "text": " 10 annoncer selv ud. Han snakker"
+    },
+    {
+      "start": 2175.6,
+      "end": 2177.6,
+      "text": " i højere grad om, at vi skal være"
+    },
+    {
+      "start": 2177.6,
+      "end": 2179.6,
+      "text": " opmærksom på incrementality,"
+    },
+    {
+      "start": 2179.6,
+      "end": 2181.6,
+      "text": " altså at Advantage Plus ikke må gå"
+    },
+    {
+      "start": 2181.6,
+      "end": 2183.6,
+      "text": " fuld retargeting på"
+    },
+    {
+      "start": 2183.6,
+      "end": 2185.6,
+      "text": " vores levering."
+    },
+    {
+      "start": 2185.6,
+      "end": 2187.6,
+      "text": " At vi skal kigge på, hvordan vi kan supplere med"
+    },
+    {
+      "start": 2187.6,
+      "end": 2189.6,
+      "text": " reach, altså som et selvstændigt spor,"
+    },
+    {
+      "start": 2189.6,
+      "end": 2191.6,
+      "text": " topfunnel spor, og generelt sig bare"
+    },
+    {
+      "start": 2191.6,
+      "end": 2193.6,
+      "text": " være mere sofistikeret."
+    },
+    {
+      "start": 2193.6,
+      "end": 2195.6,
+      "text": " Altså arbejde med value rules til jeres prospecting."
+    },
+    {
+      "start": 2195.6,
+      "end": 2197.6,
+      "text": " Fragmentere det ud,"
+    },
+    {
+      "start": 2197.6,
+      "end": 2199.6,
+      "text": " hvis det er, at I gerne vil byde på value"
+    },
+    {
+      "start": 2199.6,
+      "end": 2201.6,
+      "text": " i stedet for lowest cost. Så det er jo"
+    },
+    {
+      "start": 2201.6,
+      "end": 2203.6,
+      "text": " egentlig, hvor han siger, at ja, til del skal I"
+    },
+    {
+      "start": 2203.6,
+      "end": 2205.6,
+      "text": " følge algoritmen, men I må jo godt"
+    },
+    {
+      "start": 2205.6,
+      "end": 2207.6,
+      "text": " tilpasse den. Og det er jo rigtigt nok."
+    },
+    {
+      "start": 2207.6,
+      "end": 2209.6,
+      "text": " Altså"
+    },
+    {
+      "start": 2209.6,
+      "end": 2211.6,
+      "text": " jeg er"
+    },
+    {
+      "start": 2211.6,
+      "end": 2213.6,
+      "text": " langt hen ad vejen ind i ham."
+    },
+    {
+      "start": 2213.6,
+      "end": 2215.6,
+      "text": " Og det er tilbage til det der gode gamle"
+    },
+    {
+      "start": 2215.6,
+      "end": 2217.6,
+      "text": " budskab om, nu er META"
+    },
+    {
+      "start": 2217.6,
+      "end": 2219.6,
+      "text": " blevet så nemt. Og det er det, der er"
+    },
+    {
+      "start": 2219.6,
+      "end": 2221.6,
+      "text": " problemet. Det er, at når det er blevet nemt,"
+    },
+    {
+      "start": 2221.6,
+      "end": 2223.6,
+      "text": " så er der faktisk ting, der er blevet svært, og det er, at du ikke"
+    },
+    {
+      "start": 2223.6,
+      "end": 2225.6,
+      "text": " bare kan lave en Advantage Plus kampagne, og så"
+    },
+    {
+      "start": 2225.6,
+      "end": 2227.6,
+      "text": " sige, hippie karriere, nu kører vi."
+    },
+    {
+      "start": 2227.6,
+      "end": 2229.6,
+      "text": " Du skal stadigvæk kunne sige,"
+    },
+    {
+      "start": 2229.6,
+      "end": 2231.6,
+      "text": " jamen, hvordan aflæser vi vores resultater?"
+    },
+    {
+      "start": 2231.6,
+      "end": 2233.6,
+      "text": " Hvordan aflæser vi vores målgruppe?"
+    },
+    {
+      "start": 2233.6,
+      "end": 2235.6,
+      "text": " Hvordan beregner vi incremental reach? Hvordan kigger"
+    },
+    {
+      "start": 2235.6,
+      "end": 2237.6,
+      "text": " vi på incrementality? Hvordan kan vi få"
+    },
+    {
+      "start": 2237.6,
+      "end": 2239.6,
+      "text": " flere folk ind i folden?"
+    },
+    {
+      "start": 2239.6,
+      "end": 2241.6,
+      "text": " Og så vej så. Morten, nu, jeg var"
+    },
+    {
+      "start": 2241.6,
+      "end": 2243.6,
+      "text": " egentlig ved at skulle til at runde den her episode af, men jeg bliver simpelthen"
+    },
+    {
+      "start": 2243.6,
+      "end": 2245.6,
+      "text": " nødt til lige at høre det her, fordi du nævner"
+    },
+    {
+      "start": 2245.6,
+      "end": 2247.6,
+      "text": " et ord, et nøgleord. Skal vi kalde det et brandvarmt"
+    },
+    {
+      "start": 2247.6,
+      "end": 2249.6,
+      "text": " emne? Retargeting."
+    },
+    {
+      "start": 2249.6,
+      "end": 2251.6,
+      "text": " Jeg kan,"
+    },
+    {
+      "start": 2251.6,
+      "end": 2253.6,
+      "text": " altså jeg ved ikke, hvor mange gange jeg har logget"
+    },
+    {
+      "start": 2253.6,
+      "end": 2255.6,
+      "text": " ind på en mediattskonto,"
+    },
+    {
+      "start": 2255.6,
+      "end": 2257.6,
+      "text": " hvor det er, at man har delt sin kampagne"
+    },
+    {
+      "start": 2257.6,
+      "end": 2259.6,
+      "text": " om en retargeting og en, der hedder prospecting."
+    },
+    {
+      "start": 2259.6,
+      "end": 2261.6,
+      "text": " Det er den helt, helt klassiske,"
+    },
+    {
+      "start": 2261.6,
+      "end": 2263.6,
+      "text": " og den lever i allerbedste velgående."
+    },
+    {
+      "start": 2263.6,
+      "end": 2265.6,
+      "text": " Eller gør den så"
+    },
+    {
+      "start": 2265.6,
+      "end": 2267.6,
+      "text": " også det? Jeg gad godt lige at høre din"
+    },
+    {
+      "start": 2267.6,
+      "end": 2269.6,
+      "text": " holdning her til sidst til den del,"
+    },
+    {
+      "start": 2269.6,
+      "end": 2271.6,
+      "text": " for nu hvor vi er i gang med at snakke omkring"
+    },
+    {
+      "start": 2271.6,
+      "end": 2273.6,
+      "text": " fragmenteret setup vs. konsolideret"
+    },
+    {
+      "start": 2273.6,
+      "end": 2275.6,
+      "text": " setup, incremental reach osv."
+    },
+    {
+      "start": 2275.6,
+      "end": 2277.6,
+      "text": " Hvad er din holdning der? Hvad ser"
+    },
+    {
+      "start": 2277.6,
+      "end": 2279.6,
+      "text": " du? Jamen, nu skal jeg jo passe på, hvad jeg siger,"
+    },
+    {
+      "start": 2279.6,
+      "end": 2281.6,
+      "text": " fordi jeg ved det, at jeg har før sagt til..."
+    },
+    {
+      "start": 2281.6,
+      "end": 2283.6,
+      "text": " Jeg har før sagt det til Webinar,"
+    },
+    {
+      "start": 2283.6,
+      "end": 2285.6,
+      "text": " og der blev jeres bogbogler."
+    },
+    {
+      "start": 2285.6,
+      "end": 2287.6,
+      "text": " Og det betyder jo højst sandsynligt"
+    },
+    {
+      "start": 2287.6,
+      "end": 2289.6,
+      "text": " også, at vi rammer rigtigt, fordi så betyder det, at der er"
+    },
+    {
+      "start": 2289.6,
+      "end": 2291.6,
+      "text": " rigtig mange, der har det her. Altså, hvor"
+    },
+    {
+      "start": 2291.6,
+      "end": 2293.6,
+      "text": " jeg har lavet en kampagne til prospecting"
+    },
+    {
+      "start": 2293.6,
+      "end": 2295.6,
+      "text": " og en til retargeting. Hvis i er helt gale,"
+    },
+    {
+      "start": 2295.6,
+      "end": 2297.6,
+      "text": " så kalder jeg det remarketing, og så"
+    },
+    {
+      "start": 2297.6,
+      "end": 2299.6,
+      "text": " har vi en helt anden snak. Men"
+    },
+    {
+      "start": 2299.6,
+      "end": 2301.6,
+      "text": " jeg har"
+    },
+    {
+      "start": 2301.6,
+      "end": 2303.6,
+      "text": " en meget, meget, meget, meget"
+    },
+    {
+      "start": 2303.6,
+      "end": 2305.6,
+      "text": " stærk holdning til retargeting."
+    },
+    {
+      "start": 2305.6,
+      "end": 2307.6,
+      "text": " Og det er i mig aldrig"
+    },
+    {
+      "start": 2307.6,
+      "end": 2309.6,
+      "text": " nogensinde, og nu kommer jeg til at sige 10 ud af 10."
+    },
+    {
+      "start": 2309.6,
+      "end": 2311.6,
+      "text": " Jeg har sagt 9 ud af 10 i hele episoden. Nu siger jeg"
+    },
+    {
+      "start": 2311.6,
+      "end": 2313.6,
+      "text": " 10 ud af 10. 10 ud af 10 gange vil jeg"
+    },
+    {
+      "start": 2313.6,
+      "end": 2315.6,
+      "text": " aldrig nogensinde oprette et dedikeret"
+    },
+    {
+      "start": 2315.6,
+      "end": 2317.6,
+      "text": " retargetingsbord til min purchase eller lease"
+    },
+    {
+      "start": 2317.6,
+      "end": 2319.6,
+      "text": " kampagne. Aldrig."
+    },
+    {
+      "start": 2319.6,
+      "end": 2321.6,
+      "text": " Altså, det er et stort A, det er et stort L, og det er"
+    },
+    {
+      "start": 2321.6,
+      "end": 2323.6,
+      "text": " et stort 3. Fede streg under."
+    },
+    {
+      "start": 2323.6,
+      "end": 2325.6,
+      "text": " Aldrig. Jeg glæder mig allerede til at klippe"
+    },
+    {
+      "start": 2325.6,
+      "end": 2327.6,
+      "text": " den her ud."
+    },
+    {
+      "start": 2327.6,
+      "end": 2329.6,
+      "text": " Som en lille kort sekvens. Fantastisk."
+    },
+    {
+      "start": 2329.6,
+      "end": 2331.6,
+      "text": " Jamen, det er altså..."
+    },
+    {
+      "start": 2331.6,
+      "end": 2333.6,
+      "text": " Det er en lang historie, og jeg kunne"
+    },
+    {
+      "start": 2333.6,
+      "end": 2335.6,
+      "text": " snakke om det her fra nu til juleaften, og så tror jeg stadigvæk"
+    },
+    {
+      "start": 2335.6,
+      "end": 2337.6,
+      "text": " ikke, at jeg vil være enig med alle, der lytter med."
+    },
+    {
+      "start": 2337.6,
+      "end": 2339.6,
+      "text": " Men hvis jeg skal prøve at forklare det kort"
+    },
+    {
+      "start": 2339.6,
+      "end": 2341.6,
+      "text": " og også på et behærsket måde,"
+    },
+    {
+      "start": 2341.6,
+      "end": 2343.6,
+      "text": " hvor det ikke bare lyder, som om det er et personligt"
+    },
+    {
+      "start": 2343.6,
+      "end": 2345.6,
+      "text": " vendetta mod retargeting,"
+    },
+    {
+      "start": 2345.6,
+      "end": 2347.6,
+      "text": " så er det først og fremmest, fordi"
+    },
+    {
+      "start": 2347.6,
+      "end": 2349.6,
+      "text": " da vi lavede de her"
+    },
+    {
+      "start": 2349.6,
+      "end": 2351.6,
+      "text": " kampagneopdelinger i prospecthangen retargeting,"
+    },
+    {
+      "start": 2351.6,
+      "end": 2353.6,
+      "text": " jamen, det var igen meget"
+    },
+    {
+      "start": 2353.6,
+      "end": 2355.6,
+      "text": " sådan 2018-2019,"
+    },
+    {
+      "start": 2355.6,
+      "end": 2357.6,
+      "text": " hvor vi sad og lavede kohortanalyser inde i"
+    },
+    {
+      "start": 2357.6,
+      "end": 2359.6,
+      "text": " Facebook Analytics og Facebook Expiration, hvor vi"
+    },
+    {
+      "start": 2359.6,
+      "end": 2361.6,
+      "text": " kunne se, fra en bruger, jeg lavede"
+    },
+    {
+      "start": 2361.6,
+      "end": 2363.6,
+      "text": " et view content til et add to cart til et purchase,"
+    },
+    {
+      "start": 2363.6,
+      "end": 2365.6,
+      "text": " hvor mange dage gik det så,"
+    },
+    {
+      "start": 2365.6,
+      "end": 2367.6,
+      "text": " så lavede vi retargeting for lås med 1-3 dage,"
+    },
+    {
+      "start": 2367.6,
+      "end": 2369.6,
+      "text": " der skulle der være det her budskab,"
+    },
+    {
+      "start": 2369.6,
+      "end": 2371.6,
+      "text": " og 4-5 skulle der være det her, og så"
+    },
+    {
+      "start": 2371.6,
+      "end": 2373.6,
+      "text": " 7-14 skulle der være det her,"
+    },
+    {
+      "start": 2373.6,
+      "end": 2375.6,
+      "text": " og det var jo fedt dengang,"
+    },
+    {
+      "start": 2375.6,
+      "end": 2377.6,
+      "text": " men vi skal også bare lige blive"
+    },
+    {
+      "start": 2377.6,
+      "end": 2379.6,
+      "text": " enige om, at de kampagner,"
+    },
+    {
+      "start": 2379.6,
+      "end": 2381.6,
+      "text": " hvis vi kigger på"
+    },
+    {
+      "start": 2381.6,
+      "end": 2383.6,
+      "text": " inkrementel værdi, så hvis vi tager vores"
+    },
+    {
+      "start": 2383.6,
+      "end": 2385.6,
+      "text": " incremental breakdown ud på vores"
+    },
+    {
+      "start": 2385.6,
+      "end": 2387.6,
+      "text": " kolonne, jamen, så kan det"
+    },
+    {
+      "start": 2387.6,
+      "end": 2389.6,
+      "text": " godt være, hvis man kiggede"
+    },
+    {
+      "start": 2389.6,
+      "end": 2391.6,
+      "text": " i standardview'et, at det er dem, der har en mega"
+    },
+    {
+      "start": 2391.6,
+      "end": 2393.6,
+      "text": " høj ro og snøg i en CPA,"
+    },
+    {
+      "start": 2393.6,
+      "end": 2395.6,
+      "text": " men hvis du kigger"
+    },
+    {
+      "start": 2395.6,
+      "end": 2397.6,
+      "text": " incremental, så er det dem, der havde købt det alligevel."
+    },
+    {
+      "start": 2397.6,
+      "end": 2399.6,
+      "text": " Og nummer to,"
+    },
+    {
+      "start": 2399.6,
+      "end": 2401.6,
+      "text": " hele Advantage Plus"
+    },
+    {
+      "start": 2401.6,
+      "end": 2403.6,
+      "text": " shopping kampagens strukturen"
+    },
+    {
+      "start": 2403.6,
+      "end": 2405.6,
+      "text": " er jo lavet til"
+    },
+    {
+      "start": 2405.6,
+      "end": 2407.6,
+      "text": " at samle prospecting og retargeting."
+    },
+    {
+      "start": 2407.6,
+      "end": 2409.6,
+      "text": " Den tredje, men sidste, fordi det var den,"
+    },
+    {
+      "start": 2409.6,
+      "end": 2411.6,
+      "text": " jeg fik mest høvde for sidst, og det er primært"
+    },
+    {
+      "start": 2411.6,
+      "end": 2413.6,
+      "text": " webshop, jeg taler til her. I B2B"
+    },
+    {
+      "start": 2413.6,
+      "end": 2415.6,
+      "text": " vil jeg faktisk give jer den, at der kan det godt"
+    },
+    {
+      "start": 2415.6,
+      "end": 2417.6,
+      "text": " give mening at lave retargetingsspor. Jeg vil nok ikke"
+    },
+    {
+      "start": 2417.6,
+      "end": 2419.6,
+      "text": " gøre det politisk, fordi så mangler vi nok signaler,"
+    },
+    {
+      "start": 2419.6,
+      "end": 2421.6,
+      "text": " men det er gigantiske, men"
+    },
+    {
+      "start": 2421.6,
+      "end": 2423.6,
+      "text": " til webshops, der blev der"
+    },
+    {
+      "start": 2423.6,
+      "end": 2425.6,
+      "text": " spurgt mange gange sådan, jamen du kan da ikke bare"
+    },
+    {
+      "start": 2425.6,
+      "end": 2427.6,
+      "text": " servere det samme budskab til prospecting som retargeting?"
+    },
+    {
+      "start": 2427.6,
+      "end": 2429.6,
+      "text": " Hvorfor ikke?"
+    },
+    {
+      "start": 2429.6,
+      "end": 2431.6,
+      "text": " Hvis vi nu antager, Christian, at du starter en"
+    },
+    {
+      "start": 2431.6,
+      "end": 2433.6,
+      "text": " webshop i dag, hvor meget vil du så gå op i,"
+    },
+    {
+      "start": 2433.6,
+      "end": 2435.6,
+      "text": " at kommunikationen"
+    },
+    {
+      "start": 2435.6,
+      "end": 2437.6,
+      "text": " til dine brugere, der havde set dig før,"
+    },
+    {
+      "start": 2437.6,
+      "end": 2439.6,
+      "text": " lad os sige, at der er en bruger, der har været inde på dit site for"
+    },
+    {
+      "start": 2439.6,
+      "end": 2441.6,
+      "text": " 174 dage siden, og det er inde i"
+    },
+    {
+      "start": 2441.6,
+      "end": 2443.6,
+      "text": " din websiteview-kampagne"
+    },
+    {
+      "start": 2443.6,
+      "end": 2445.6,
+      "text": " med retargeting, vil du så gå op"
+    },
+    {
+      "start": 2445.6,
+      "end": 2447.6,
+      "text": " i at tænke, jamen de kan jo nok huske dig?"
+    },
+    {
+      "start": 2447.6,
+      "end": 2449.6,
+      "text": " At jeg skal skrive, hey tak"
+    },
+    {
+      "start": 2449.6,
+      "end": 2451.6,
+      "text": " for sidst du lavede resten af produktet i kogen."
+    },
+    {
+      "start": 2451.6,
+      "end": 2453.6,
+      "text": " Med den rigtige fond,"
+    },
+    {
+      "start": 2453.6,
+      "end": 2455.6,
+      "text": " og den rigtige bill, og det rigtige, ej"
+    },
+    {
+      "start": 2455.6,
+      "end": 2457.6,
+      "text": " for pokker. Og en god annonce skal"
+    },
+    {
+      "start": 2457.6,
+      "end": 2459.6,
+      "text": " sgu lidt compounde alt, altså"
+    },
+    {
+      "start": 2459.6,
+      "end": 2461.6,
+      "text": " du laver ikke en"
+    },
+    {
+      "start": 2461.6,
+      "end": 2463.6,
+      "text": " aktion, baseret på en stalking message."
+    },
+    {
+      "start": 2463.6,
+      "end": 2465.6,
+      "text": " Altså tilbage i 2018, da vi"
+    },
+    {
+      "start": 2465.6,
+      "end": 2467.6,
+      "text": " havde, det var IOS og alt på laden,"
+    },
+    {
+      "start": 2467.6,
+      "end": 2469.6,
+      "text": " vi kunne fandme køre at springe i 28 dage, og vi"
+    },
+    {
+      "start": 2469.6,
+      "end": 2471.6,
+      "text": " kunne se en af de folkes personnummer, og vi trackede ting."
+    },
+    {
+      "start": 2471.6,
+      "end": 2473.6,
+      "text": " Der kunne du jo lave nogle beskeder,"
+    },
+    {
+      "start": 2473.6,
+      "end": 2475.6,
+      "text": " hvor vi var sådan, det her, det er for meget."
+    },
+    {
+      "start": 2475.6,
+      "end": 2477.6,
+      "text": " Hvor jeg kunne skrive, hey, du har for nylig,"
+    },
+    {
+      "start": 2477.6,
+      "end": 2479.6,
+      "text": " eller du har inden for de sidste fire timer kigget på det her produkt."
+    },
+    {
+      "start": 2479.6,
+      "end": 2481.6,
+      "text": " Husk det, fordi det lægger i din ko."
+    },
+    {
+      "start": 2481.6,
+      "end": 2483.6,
+      "text": " Ja, det var vildt. Og der lægger du at have"
+    },
+    {
+      "start": 2483.6,
+      "end": 2485.6,
+      "text": " en anden relevans. I dag, hvis jeg har været inde på dit"
+    },
+    {
+      "start": 2485.6,
+      "end": 2487.6,
+      "text": " website, og så ville skrive,"
+    },
+    {
+      "start": 2487.6,
+      "end": 2489.6,
+      "text": " tak for dit besøg."
+    },
+    {
+      "start": 2489.6,
+      "end": 2491.6,
+      "text": " De fungerer sgu ikke, mand."
+    },
+    {
+      "start": 2491.6,
+      "end": 2493.6,
+      "text": " Igen, hvis du har en god prospect annonce,"
+    },
+    {
+      "start": 2493.6,
+      "end": 2495.6,
+      "text": " generelt, du skal bare lave en god annonce, og så skal folk nok"
+    },
+    {
+      "start": 2495.6,
+      "end": 2497.6,
+      "text": " komme til dig, fordi retargeting"
+    },
+    {
+      "start": 2497.6,
+      "end": 2499.6,
+      "text": " er i bund og grund bare en påmindelse."
+    },
+    {
+      "start": 2499.6,
+      "end": 2501.6,
+      "text": " Så du behøver sgu ikke lave en dedikeret påmindelse."
+    },
+    {
+      "start": 2501.6,
+      "end": 2503.6,
+      "text": " Det er nok bare at vise annoncen."
+    },
+    {
+      "start": 2503.6,
+      "end": 2505.6,
+      "text": " Vi har tit gjort der på Black Friday,"
+    },
+    {
+      "start": 2505.6,
+      "end": 2507.6,
+      "text": " nu giver jeg sgu et gratis sæk ud,"
+    },
+    {
+      "start": 2507.6,
+      "end": 2509.6,
+      "text": " det kommer nok til at koste mig lidt,"
+    },
+    {
+      "start": 2509.6,
+      "end": 2511.6,
+      "text": " men til Black Friday."
+    },
+    {
+      "start": 2511.6,
+      "end": 2513.6,
+      "text": " Mange af de cases, jeg har, hvor vi sidder og laver Black Friday"
+    },
+    {
+      "start": 2513.6,
+      "end": 2515.6,
+      "text": " i ugen, ved vi, at CPM-prisen stikker af."
+    },
+    {
+      "start": 2515.6,
+      "end": 2517.6,
+      "text": " Vi ved, det er svært at bruge budget nok"
+    },
+    {
+      "start": 2517.6,
+      "end": 2519.6,
+      "text": " til konverteringskampagner, fordi alle går i aktionen."
+    },
+    {
+      "start": 2519.6,
+      "end": 2521.6,
+      "text": " Så alt det her retargeting,"
+    },
+    {
+      "start": 2521.6,
+      "end": 2523.6,
+      "text": " dem, der har været med på en Facebook-begivenhed,"
+    },
+    {
+      "start": 2523.6,
+      "end": 2525.6,
+      "text": " er med på en CM-liste,"
+    },
+    {
+      "start": 2525.6,
+      "end": 2527.6,
+      "text": " de får sgu et reach på,"
+    },
+    {
+      "start": 2527.6,
+      "end": 2529.6,
+      "text": " fordi vi ved, det eneste, vi skal,"
+    },
+    {
+      "start": 2529.6,
+      "end": 2531.6,
+      "text": " det er bare at påminde dem, om vi er her."
+    },
+    {
+      "start": 2531.6,
+      "end": 2533.6,
+      "text": " Så lad os bare bringe impressions afsted til en CPM,"
+    },
+    {
+      "start": 2533.6,
+      "end": 2535.6,
+      "text": " der er en femtedækkel af de andre."
+    },
+    {
+      "start": 2535.6,
+      "end": 2537.6,
+      "text": " Jeg må bare være ham,"
+    },
+    {
+      "start": 2537.6,
+      "end": 2539.6,
+      "text": " der nu påkalder at sige,"
+    },
+    {
+      "start": 2539.6,
+      "end": 2541.6,
+      "text": " at vi har kun en episode tilbage,"
+    },
+    {
+      "start": 2541.6,
+      "end": 2543.6,
+      "text": " før alle kommer på ferie."
+    },
+    {
+      "start": 2543.6,
+      "end": 2545.6,
+      "text": " Hvis der er nogen derude, der sidder og laver retargeting,"
+    },
+    {
+      "start": 2545.6,
+      "end": 2547.6,
+      "text": " vil I ikke godt, please, bruge jeres penge"
+    },
+    {
+      "start": 2547.6,
+      "end": 2549.6,
+      "text": " på en anden måde."
+    },
+    {
+      "start": 2549.6,
+      "end": 2551.6,
+      "text": " Alt det META-bygget op."
+    },
+    {
+      "start": 2551.6,
+      "end": 2553.6,
+      "text": " I sidder med verdens bedste algoritme,"
+    },
+    {
+      "start": 2553.6,
+      "end": 2555.6,
+      "text": " verdens bedste og sofistikerede platformer osv."
+    },
+    {
+      "start": 2555.6,
+      "end": 2557.6,
+      "text": " Lad nu være med at tro, I kan lave"
+    },
+    {
+      "start": 2557.6,
+      "end": 2559.6,
+      "text": " en syvdagsperiode, og så tro, at en kunderejse,"
+    },
+    {
+      "start": 2559.6,
+      "end": 2561.6,
+      "text": " den er lavet lige efter trakten,"
+    },
+    {
+      "start": 2561.6,
+      "end": 2563.6,
+      "text": " og den er ligne og pisselort."
+    },
+    {
+      "start": 2563.6,
+      "end": 2565.6,
+      "text": " Altså, sorry for mit sprog,"
+    },
+    {
+      "start": 2565.6,
+      "end": 2567.6,
+      "text": " men det er mit rage nu."
+    },
+    {
+      "start": 2567.6,
+      "end": 2569.6,
+      "text": " Og jeg bliver så ked af det,"
+    },
+    {
+      "start": 2569.6,
+      "end": 2571.6,
+      "text": " for der er så mange muligheder for at gøre det bedre."
+    },
+    {
+      "start": 2571.6,
+      "end": 2573.6,
+      "text": " Og det er det, jeg vil sige."
+    },
+    {
+      "start": 2573.6,
+      "end": 2575.6,
+      "text": " Det er ikke fordi, I gør det dårligt, I kan bare gøre det bedre."
+    },
+    {
+      "start": 2575.6,
+      "end": 2577.6,
+      "text": " Og det var præcis sådan der,"
+    },
+    {
+      "start": 2577.6,
+      "end": 2579.6,
+      "text": " jeg gerne ville slutte den her episode af."
+    },
+    {
+      "start": 2579.6,
+      "end": 2581.6,
+      "text": " Og det var ikke for, at jeg ville ikke gøre dig ked af det, Morten."
+    },
+    {
+      "start": 2581.6,
+      "end": 2583.6,
+      "text": " Men jeg håbede lidt på den her reaktion,"
+    },
+    {
+      "start": 2583.6,
+      "end": 2585.6,
+      "text": " fordi med det, der ville vi ordne af."
+    },
+    {
+      "start": 2585.6,
+      "end": 2587.6,
+      "text": " Jeg ved bare, at når folk lytter,"
+    },
+    {
+      "start": 2587.6,
+      "end": 2589.6,
+      "text": " så tænker de sådan nu,"
+    },
+    {
+      "start": 2589.6,
+      "end": 2591.6,
+      "text": " Morten er godt nok også bare afganget selvfed,"
+    },
+    {
+      "start": 2591.6,
+      "end": 2593.6,
+      "text": " og han siger heller ikke noget, der er særlig pænt."
+    },
+    {
+      "start": 2593.6,
+      "end": 2595.6,
+      "text": " Men ham, Christian, han virker supersød."
+    },
+    {
+      "start": 2595.6,
+      "end": 2597.6,
+      "text": " Og med det,"
+    },
+    {
+      "start": 2597.6,
+      "end": 2599.6,
+      "text": " så tror jeg, vi vil ordne af på dagens episode."
+    },
+    {
+      "start": 2599.6,
+      "end": 2601.6,
+      "text": " Tusind tak til Alex,"
+    },
+    {
+      "start": 2601.6,
+      "end": 2603.6,
+      "text": " først og fremmest, for det gode spørgsmål."
+    },
+    {
+      "start": 2603.6,
+      "end": 2605.6,
+      "text": " Tak til dig, Morten, for igen og igen at deltage i MarketingPod,"
+    },
+    {
+      "start": 2605.6,
+      "end": 2607.6,
+      "text": " og dele ud af dine vanvittige fede indsigter."
+    },
+    {
+      "start": 2607.6,
+      "end": 2609.6,
+      "text": " Og til dig, kære lytter."
+    },
+    {
+      "start": 2609.6,
+      "end": 2611.6,
+      "text": " Tusind tak for at lytte med."
+    },
+    {
+      "start": 2611.6,
+      "end": 2613.6,
+      "text": " Husk, at vi udkommer hver mandag,"
+    },
+    {
+      "start": 2613.6,
+      "end": 2615.6,
+      "text": " hver torsdag, alle uger på året,"
+    },
+    {
+      "start": 2615.6,
+      "end": 2617.6,
+      "text": " kl. 0600."
+    },
+    {
+      "start": 2617.6,
+      "end": 2619.6,
+      "text": " Og næste torsdag, som Morten også lige fik sagt,"
+    },
+    {
+      "start": 2619.6,
+      "end": 2621.6,
+      "text": " der er Morten og jeg på pinden igen,"
+    },
+    {
+      "start": 2621.6,
+      "end": 2623.6,
+      "text": " fordi halvstanden er, jep,"
+    },
+    {
+      "start": 2623.6,
+      "end": 2625.6,
+      "text": " stadig på ferie."
+    },
+    {
+      "start": 2625.6,
+      "end": 2627.6,
+      "text": " Men vi glæder os til næste torsdag."
+    },
+    {
+      "start": 2627.6,
+      "end": 2629.6,
+      "text": " Vi lyttes ved."
+    }
+  ]
+}

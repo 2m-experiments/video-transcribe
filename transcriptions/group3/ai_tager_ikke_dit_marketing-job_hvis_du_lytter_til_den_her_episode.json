@@ -1,0 +1,4636 @@
+{
+  "title": "AI tager ikke dit marketing-job, hvis du lytter til den her episode",
+  "url": "https://www.youtube.com/watch?v=HyyVO0IAQSY",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 2573.8,
+  "transcribed_at": "2026-07-29T13:21:54.310133+00:00",
+  "full_text": "Hej og velkommen til en ny episode af Marketingpod. Christian Sinju, du har valgt, at i hele juni, der skal vi kun snakke om tracking i digital marketing. Hvorfor har vi valgt det her emne? Ej, okay, der løftede jeg simpelthen mine hænder for tidligt. Jeg troede faktisk, at du skulle til at sige AI, som jo er det, som juni skal handle om. Det skal edderhugment ikke handle om, tracking. Ej, det skal handle om AI. Jeg håbede lige, at jeg kunne få dig til at forklare Consent Mode V2, fordi det gik så godt sidste gang, vi forsøgte. Men det er rigtigt. Der var ikke stemning, hverken fra Christian Sinju eller fra folk, der i det hele taget lyttede med til det her podcast. Jeg har lagt mærke til, at tracking-episoderne, de får ikke særlig mange listens. Hvad får det til gengæld listens? Folk vil gerne høre noget om AI, og det er heldigt, fordi vi synes faktisk også, at AI er det mest spændende emne, der er lige nu. Det er der, hvor der sker mest. Det er der, hvor du har det største potentiale for virkelig at komme frem ad i bussen. Så hvad er det, vi kommer til at gøre her i juni? Vi kommer til at tage udgangspunkt i fire forskellige emner. Store emner, tør jeg godt sige. Hvor vi virkelig forsøger at komme i dybden. Dagens emne er jo nok et af de mest omdiskuterede emner, der er ude den dag i dag. For der går vi faktisk lidt ekstra op i helikopteren, hvor vi i nogle af de næste tre episoder går lidt mere specifikt til værks. Men i første omgang skal vi snakke lidt om, hvordan man undgår, at AI går ind og tager ens job. Fordi det er... Vi kan ikke komme udenom det. Det er det, som der bare er rigtig, rigtig meget snak om derude. Måske med god grund. Måske er frygten uberettiget. Og det er lidt det, vi skal forsøge at komme ind på i dag. Når vi er færdige med dagens episode, så næste mandag kommer vi til at snakke om, hvordan du gør AI til din personlige assistent. Der har vi en hel del eksempler på. Både værktøjer, prompts, metoder og ting, vi selv får hjælp til. Hvordan du kan frigøre noget tid i hverdagen til endnu mere spændende opgaver. Vi kommer derefter til at snakke om, hvordan du bruger AI til at lave kreativer på den gode måde, hvad vi selv gør i vores egen marketing. Og så slutter vi af med en episode i slutningen af juni, der handler om de vigtigste tools, vi bruger lige nu på tværs af alle arbejdsområder. Så det bliver sådan en meget praktisk arbejds- og værktøjs gennemgang. Og vores målsætning med de her fire episoder, det er, at du får både inspiration, men også meget konkrete redskaber til, hvordan du bliver bedre til at bruge AI. Så det her bliver ikke sådan en super overordnet sludder for en sladder. Vi vil faktisk gerne gøre det meget konkret, hvordan du kan bruge AI til at levere et endnu bedre stykke arbejde. Til at nå dine ting hurtigere, så du kan frigøre tid til andre ting. Og til bare at være en af de personer, som får værdi ud af det, fordi der er så meget at hente. Så det er sådan vores målsætning med de her fire dedikerede episoder, der udkommer de næste fire mandagen. Og Christian, nu starter vi jo med sådan et lidt negativt lavet emne, fordi vi har kaldt den, Hvordan umgår du at AI tager dit job? Hvis vi lige skal lave en intro til det, hvorfor er det, at folk er bange for, at AI tager deres job? Jamen, jeg tror, det er en blanding af ting. Og noget af det helt store er jo selvfølgelig, at mange af de store tech virksomheder derude, og virksomheder faktisk generelt, men især inden for tech-verdenen, er jo ude og melde stort og bredt ud og stolt af sig. Og det er der nok også en grund til. Altså ud at melde ud om, at nu fyrer man en masse mennesker, fordi at AI kan gå ind og overtage mange af deres jobs. Og det er klart, når den retorik ligger og kører ude i medierne, og man på daglig basis bliver bekræftet i, at AI er lige med fyringer, jamen så kommer der bare sådan en negativ retorik omkring AI. Og det er en af de områder, vi gerne lige vil prøve at dykke lidt ned i i dag. Lige kort snakke om, hvorfor man måske skal, jeg vil ikke sige vende det blinde øje til, men jeg tror, man skal forstå, hvad der ligger til grund for de her fyringer i store dele af de cases her. Det er jo for eksempel Meta, der lige nu er ude her i slutningen af maj måned 2026 og siger, vi skal opsige 8.000 medarbejdere, og det er på grund af AI. Og det er jo sådan en stor fyringsrunde, det er omkring 10% af medarbejderne i Meta. Vi har også haft Microsoft, der har været ude og fyre også omkring 10.000. Cloudflare, Block, Square, der er så mange amerikanske selskaber, som går ud og laver de her fyringsrunder lige nu, og siger, det er fordi, vi er mere effektive på grund af AI. Og som med så mange andre ting her i livet, så er der både noget, der er rigtigt og forkert. Der er helt sikkert nogle virksomheder, som for nogle specifikke funktioner, bliver meget mere effektive via AI, og så er der nogle stillinger, de ikke længere har brug for, og nogle andre, de i stedet får brug for. Det man også skal være opmærksom på, det er, forestil dig det her, du er en virksomhed, det går ikke godt nok, du når ikke dine mål, du er nødt til at gøre et eller andet. Du har ikke nok omsætning, du har for mange omkostninger, der er noget, der ikke går op, du er nødt til at gøre et eller andet. Hvad er den bedste historie at sende ud i markedet? Er det enten, det går ikke så godt, vi har hørt fra mange mennesker, vi sælger ikke godt nok, vi er faktisk ret presset af vores konkurrenter, de er ret dygtige, vi er så dygtige til at bruge AI, hvis vi ikke har brug for de her 5.000 personer herovre længere. Ja, det er nok option B, ville jeg jo bare sige. Det tror jeg også, det ene smadrer din aktiekurs, det andet, det hæver den. Så man skal også lige huske, der er sådan noget AI-washing, der foregår lige nu, hvor man tager fyringsrunder, der alligevel skulle ske, fordi man skal lige huske, fyringsrunder sker hele tiden ved de her store selskaber, de kommer hele tiden til at høre fra mange personer, og der sker hele tiden ændringer i forhold til, hvad de har brug for. Det er fuldstændig normalt, at der sker runder engang imellem, og de omorganiserer deres arbejdskraft. Men hver eneste gang, det sker i øjeblikket, så siger man, det er på grund af AI. Og det er jo fordi, det er en mega god historie. Det er bare ikke altid sandt. Du kender også det der ordsprog, der hedder, man skal aldrig lade en god krise gå til spil. Det her er ikke en krise, men det er en eminent mulighed for at gøre det, du alligevel skulle have gjort som stor virksomhed, og så bare sige, det er på grund af AI. Det er lidt ligesom, hvis man er en virksomhed, hvor alle ens konkurrenter har hævet priserne, så er det også nemt for en selv at hæve priserne med referencesæt, alle andre har gjort det. Det er meget svært at være den første, det er meget nemt at være den sidste, der gør det. Så jeg tror faktisk også, en del af årsagen er, at der sker noget AI-whitewashing. Og jeg tror også, det sker i danske virksomheder. Var det danske bank, der var ude og fyre 5.000 for nylig og sige, det er på grund af AI, eller 500 personer, og det er på grund af AI. Altså, måske der også var andre, der tænkte bag, hvis man lige pressede dem et lille hul på maven. Er den danske bank sex, så er den der er længst i hele verden med AI? Så man skal bare lige huske, de overskrifter, du læser, er ikke nødvendigvis korrekte. Men det leder til et kæmpe problem. Fordi jeg har en hypotese om, at AI måske har det dårligste brand siden atomkraft i 1980'erne. Hvad siger du til den hypotese, Tini? Ja, om vi tager atomkraft, eller vi tager corona, jeg ved det ikke. Men det er i hvert fald i samme kategori. Fordelende har fået et dårligt brand. Jeg så sådan en ret interessant undersøgelse her for nylig, som fortæller noget om, hvordan unge mennesker i forskellige lande ser på AI. Og jeg har faktisk et billede af den her, så dem der ser med på YouTube eller Spotify med video. Og her er der andelen af dem, der har svaret. Og det er sådan relativt unge mennesker i starten af deres karriere, som siger, at de er enten mere excited, altså positivt stemte over for AI, end de er sådan bekymrede, kontra hvor mange, der er mere bekymrede i forhold til positivt. Altså, i hvilken grad er du positiv eller bekymrede over AI? Og der kan man se i et land som for eksempel Sydkorea, der er det den store majoritet, som er super positive omkring AI. Det er omkring 80%, de skal bare fremad. De er enten lige bekymrede og spændte, men de er generelt meget mere spændte over, at de skal bare fremad. I USA, i Canada, i mange andre lande, der er den i bedste fald lige, og i mange tilfælde er der faktisk flere unge, der er meget bekymrede over AI, end de er spændte. I USA er det 50%, der siger, at jeg er mere bekymrede, end jeg er spændt, og det er kun 38%, der siger, at jeg er mere spændt, end jeg er bekymret. Så der er faktisk flere unge i USA, der ser det her som en negativ ting, end de ser det som en positiv ting. Jeg så en anden undersøgelse, der sagde, at 70% af amerikanere, de siger, at AI går for stærkt. Vi kan slet ikke følge med, og det bliver en negativ ting i sig selv. Og jeg synes jo, at det er sindssygt, fordi der er så mange positive ting ved den her teknologi, men vi har sådan en short term job destruction, hvor AI med det samme går ind og fjerner nogle ting, hvor vi tænkte, det her ville vi tidligere betale for, det vil vi ikke gøre længere. Og jeg er sikker på, at der kommer en langsigtet vækst i jobs og muligheder, men vi mister bare nogle ting, før vi får dem, og det leder til det her enormt dårligt behandlede brand, hvor AI bliver en negativ ting, og det synes jeg faktisk er rigtig ærgerligt. Og lige præcis det leder jeg så videre til det næste, fordi man kan sige, at en ting er, at der helt sikkert sker noget AI-washing derude, men vi kommer ikke udenom, at AI i dag allerede har været inde og skabt nogle fundamentale ændringer på, hvordan virksomheder de hyrer, hvad er det for en arbejdskraft, de skal bruge, og hvem er det, de fyrer, det kommer vi heller ikke udenom. Og jeg synes, det er ret interessant med de her statistikker, du lige havde med, som jo netop var fra, det var uni-studerende, ikke? Det var det, og folk i starten af deres karriere. Og lige præcis der, der kan vi måske lægge episoden ud, og så sige, jamen, går AI rent faktisk ind og tager dit job? Jamen, det handler først og fremmest om, hvad er det, dit job er i dag? Det vi jo kan se, det er, at de jobs, så mange af de her universitetsstuderende skal ud og have søgt, det er faktisk dem, der i høj grad står lidt for skud, lige nu i hvert fald den måde, det har været struktureret på tidligere. Altså det her med, at man producerer stor volumen, men der er ikke særlig meget strategi bag, og hvad betyder det? Det kan være, man skulle sætte sig ned og skrive en masse tekster, lave en masse baner, lave mange rapporter, analyser, sådan en lavpraktisk grobrødsarbejde. Sådan en entry level arbejde, hvor du er meget operationel, du er hen og fed at udføre de opgaver, som bliver udstukket af andre. Og der må vi bare sige, hvis vi skal være ærlige, der er du sgu også bare mere udsat lige nu. Ja, og vi ser det, altså vi ser det vidt og bredt, og vi oplever det jo faktisk også selv, Alstan. Det gør vi, der er stillinger i Obsidian, som vi tidligere har ansat til, som vi bare ikke vil ansætte til længere, og det må vi også bare være ærlige og sige, der er nogle ting, hvor jeg godt kan se på den korte bane, der er det her en udfordring. Altså hvis du, i 2011, der startede jeg min karriere i digital marketing, det gjorde jeg som billig tekstforfatter. Det vil sige, at man kunne købe mine tekster til 20 ører pr. år, og så skrev jeg 500 år om, hvad end du havde brug for, og så kunne du bruge det til at lave nogle linkbuilding tekster og komme op i toppen af Google. Det job, det eksisterer ikke længere. ChatGPC er bedre og billigere og hurtigere på alle måder, end jeg var på det tidspunkt. Så det her entry level job, der var dengang, i form af en billig tekstforfatter, det eksisterer ikke længere. Hvad var dit første foray ind i digital marketing? Du er stadig ung, men da du var yngre? Jamen det var jo lige præcis det samme. 15 år siden satte jeg mig ned og lærte omkring SEO. Den nemmeste måde at komme i gang med SEO på dengang, det var at skrive tekster. Og så hørte det sig også med til historien, som nogen måske også har hørt, at jeg lå og købte nogle af dine tekster, som du solgte til 20 øre, og så solgte jeg dem videre til 25 eller 30 øre pr. år. Den kloge nær, den mindre kloge. Nej, det vidste jeg ikke. Jeg requestede dig på MobilePay, for at de får sådan en eller anden dag, din dumme svin. Men den eksisterer jo bare ikke. Og hvis man tager sådan nogle andre områder, junior designer, den tror jeg også er svær. Jeg er jo der, hvor jeg laver rigtig mange udkast til forskellige ting, via AI direkte, eller lægger dem ind på annoncekontoen, og hvis de virker godt først, derefter sender jeg det videre til en menneskelig designer. Men det betyder, at jeg sender færre opgaver afsted, end jeg måske ville have gjort før. Jeg er så billig til at betale mere for at få dem løst ordentligt, fordi nu har jeg fået valideret, at det jeg har brug for, det rent faktisk virker, men stadig er det en anden måde at arbejde på. Jeg laver praktiske opgaver med at oprette produkter, og skrive tekster, og manuelt arbejde, kopiering frem og tilbage, og sådan nogle ting. Ja, der er også en udsat stilling. Det er de der entry level stillinger, generelt i digital marketing, det er dem, der er udsatte. Og det er folk, der er i starten af deres karriere, der er mest udsatte på et kort bane. Det må vi også bare være ærlige omkring. Med det sagt, hvis jeg lige skal komme med et lidt contrarian take på det her, så er der altså også nogle områder, der eksploderer i stillinger i øjeblikket, især hvis man kigger i USA, hvor vi har lidt mere data. Jeg så det her opslag på Twitter fra A16Z, altså Andresen Horowitz. Det er en af de mest kendte venturefonde i hele verden. Stiftet af bl.a. Mark Andresen, som var ham, der lavede Netscape browseren, altså var med til nærmest at opfinde internettet. Så det her er klart en af de mest kendte venturefonde i hele verden. Og de lavede også en post for nylig, der hedder Narrative Violation. Og jeg synes, det er en fed måde at beskrive det på. Narrative Violation, det betyder lige nu, der har vi et narrative, en fortælling, som vi alle sammen er enige om, som hedder AI ødelægger jobs. Det er fortællingen, og det synes vi i Danmark, det synes vi i England, det synes vi i USA. Hele verden siger, at AI ødelægger jobs. De lavede det her post, hvor de siger Narrative Violation about. Det vil sige, at nu kommer vi og bryder med det narrative, eller den fortælling, der er. Og så viser de nogle interessante grafer, som f.eks. Efterspørgselen efter softwareingeniører stiger i USA lige nu, og har gjort det det sidste halve år. Softwareudviklere stiger, og har gjort det det sidste halve år. Systemdesign og AI-exposed industrier eksploderer fuldstændigt i øjeblikket. Selv PM, Project Manager jobs, siden 2022, stiger. Og det var måske ikke lige det, man rent faktisk skulle tro. Så der er jo også tegn på, at du faktisk har flere stillinger inden for nogle af de her områder. Og jeg har ikke ud på, hvorfor. Og det relaterer sig til det, der hedder Jevons Paradox. Og jeg tror faktisk, jeg har nævnt det for dig før, Tine, kan du huske, hvad Jevons Paradox går ud på? Nej, prøv at høre. Når du begynder at fortælle mig noget, så nikker jeg på de rigtige tidspunkter. Det har jeg trods alt lært. Men du ryger ind af det ene, og ud af det andet. Du surrer fuldstændig ud. Jeg kan se, der kører en YouTube-video på den anden skærm. Vi tager lige et øjeblik til at forklare Jevons Paradox. Jevons Paradox, det er faktisk et 160 år gammelt økonomisk paradoks. Og det beskriver, hvordan efterspørgselen stiger, når noget bliver billigere. Og det kan være lidt sjovt at tænke, når noget bliver mere tilgængeligt, når der kommer mere af noget. Et godt eksempel på det her, det er, hvis du har en tordsporet motorvej. Tænk den fynske motorvej lige nu, som jeg har været under udvidelse i 400 år, og de bliver aldrig nogensinde færdige. Den er tordsporet meget af strækningen. Derfor har man besluttet sig for at lave et tredje spor i hver retning på den fynske motorvej. Hvad tror du, der sker, når man laver et spor mere på motorvejen? Folk skulle jo gerne komme hurtigere frem, men jeg tror, du vil frem til, at der kommer flere biler. Der kommer nemlig flere biler. Man tænker, der er for mange biler, så nu laver vi nogle flere spor på motorvejen, og derfor kommer bilerne hurtigere frem. Det, der sker i realiteten, når man bygger flere spor på motorvejen, det er, at så kommer der flere biler, og hvis du bare bliver ved med at gøre det, så ender du med Los Angeles, hvor du har måske syv spor på motorvejen, og der har aldrig været flere biler, og det har aldrig været sværere at komme frem, end det er lige nu. Det er det, Jevons Paradox handler om. Når noget bliver mere tilgængeligt eller billigere, når olieprisen stiger, så bruger vi mindre olie. Flyselskaberne aflyser deres fly, fordi de mindre økonomisk vejrbåler, de bliver ikke længere profitabele at flyve, så vi får færre flyvninger, når olieprisen stiger. Hvad sker, når olieprisen falder? Vi boller hele lortet af. Flybilletterne falder i pris, der åbner nye ruter, vi giver dem bare gas, fordi nu olien billigere. Når noget koster mere og er mindre tilgængeligt, bruger vi mindre af det. Når det bliver billigere og mere tilgængeligt, så bruger vi mindre af det. Det, der sker lige nu, det er, at vi har en eksplosion i large language models og innovation. Anthropic kommer hele tiden med nye ting. OpenAI kommer hele tiden med nye ting. Google er lige kommet med 3,5. I går aftes, som er den nye Omni-model, priserne på tokens falder og falder og falder. priserne på tokens falder og falder og falder. Vi havde et interessant øjeblik i starten af 2025. Kan du huske, da DeepSeek kom ud fra Kina? Vi snakker om det her DeepSeek moment, fordi Nvidia's aktiekurs faldt faktisk rigtig meget, da DeepSeek kom ud. Det var, fordi man tænkte, at her kommer der en kinesisk model, der faktisk er næsten lige så god som alle de andre, men den koster meget mindre. Det er jo et kæmpe problem for Nvidia. Det er jo et kæmpe problem for Nvidia. Man kan faktisk se det på deres aktiekurs. Man kan faktisk se det på deres aktiekurs. Nu kommer der nogle grønne tal-tidninger. Nu kommer der nogle grønne tal-tidninger. Nu kommer der nogle grønne tal-tidninger. Hvis man tager Nvidia's aktiekurs, det er her i starten af 2025, der knækker den, og den mister faktisk en fjerdedel af sin værdi. Det var, da DeepSeek R2 kom ud, Det var, da DeepSeek R2 kom ud, og man tænkte, at nu er der en kinesisk model, der er meget billigere end alle de andre, så nu har folk slet ikke brug for at bruge lige så mange Nvidia-chips. Så derfor kommer Nvidia's aktiekurs til at falde. Tino, hvad er der sket, siden den faldt i starten af 2025? Tino, hvad er der sket, siden den faldt i starten af 2025? Jeg er sålt af mig, så er begyndt at stige. Jeg er sålt af mig, så er begyndt at stige. Jeg er sålt af mig, så er begyndt at stige. Det er godt, hvad du siger, det her er en DeepSeek moment. Jeg tænker mere, det er en Tino moment, for det passer sgu meget godt med, hvornår jeg har ad dem. Den er fordoblet. Og selvfølgelig er den det, fordi i det øjeblik, AI bliver bedre og billigere og mere tilgængelig, så bruger du det til flere ting. Og jeg har faktisk et meget konkret indsendt eksempel i Obsidian. Altså, vi overvejer. Vi har aldrig bygget software til os selv. Det gør vi lige nu. Vi er i gang med at bygge vores eget Obsidian OS, som laver standardiserede opgaver og hæver bundniveauet, og det er mega fedt at arbejde med, og det er måske den største prioritet i Obsidian lige nu. Vi har overvejet for første gang nogensinde at ansætte en indsendt softwareudvikler, som kun skal arbejde på vores egen ting. Vi har været i gang i 10 år. Det har vi aldrig gjort før. Der har aldrig været mere AI, end der er lige nu, og det er nu, vi overvejer at gøre det for første gang. Og det er, fordi AI er lige pludselig blevet så god, så tilgængelig, så billig, at nu giver det mening. Og det er jo et Narrative Violation. Vi er på vej til måske at ansætte vores første udvikler. Det har vi aldrig gjort, hvis ikke det her, det var sket, for nu er det nede i et prisleje, hvor det rent faktisk kan mene for os, at begynde at lave nogle ting. Og det er den, jeg synes, folk oversætter nogle gange. Må jeg prøve at komme med et eksempel, jeg lige kom i tanke om nu, mens du fortalte det her eksempel. Nu prøver vi bare lige, for jeg har ikke tænkt den til ende. Men jeg ansætter mange Marketing Managers, Ecomanagers derude, for eksempel, der sidder og lytter med. Og lad os bare lige lege med tanken om, at man har en forretning, man arbejder i. Man er lige nu til stede i et land. Det er Danmark. Og man er lige nu to ansatte om at håndtere det her pågældende land. Det vil sige, opdatere produktbeskrivelser, sørge for, at weapon den spiller, sørge for, at der kommer opslag på Facebook, osv. osv. osv. Ja, på den korte bane, så vil man nok kun have brug for en. Fordi alt det her, det kan gøres i høj grad ved hjælp af AI, hvor der er en, der sidder og orkestrerer det. Men, hvis vi tager udgangspunkt i det, som Halvstanden lige har sagt, så kunne man jo godt forestille sig, at den her forretning, der tidligere kun var i ét marked, pludselig ser mulighed for, at komme ud på syv markeder på én gang. Fordi tidligere, der kostede det altså rigtig mange penge. Det var ressourcekrævende. Du skulle til at have oversat hele Moldevilden, og det kostede mange penge. Uh, nej, nej, nej. Men i dag, der vil man jo rent faktisk ved hjælp af AI kunne orkestrere sig til at åbne op på tværs af nye markeder. Og det er her, hvor den her ekstra medarbejder bliver guld værd. Fordi det kræver noget orkestrering. Der er også et limit på, hvor meget man kan orkestrere en mand. Jeg tror, hvis man sådan kan perspektivere det lidt over til det, at ja, på kort sigt er der måske lidt her. Men i og med, at virksomhederne finder ud af, at det output, de kan få, bliver markant billigere. For det gør det i sidste ende. Og her tænker jeg ikke på lønningerne til den enkelte, men lønningerne i sin helhed. For det output, man får, altså kommer ud i syv forskellige lande ved hjælp af to medarbejdere, som håndterede ét land tidligere. Ved du hvad, den er sgu meget godt tilfreds med det eksempel. Det gik sgu bedre, end jeg lige havde regnet med. Folk skal jo vide, at nogle gange, så kommer det til et eller andet ramble, hvor vi godt kan se, at den ender ikke i et godt sted. Og så stopper vi, og så klipper jeg det ud af podcastet, fordi det er jo ikke, fordi jeg prøver at få Christian Tineu til at se dårlig ud. Det kunne jeg aldrig finde på. Ja, det skulle det være første gang. Ja, præcis. Lad os hoppe videre til det næste emne. Det hedder, okay, hvad fanden kan du så gøre ved det? Og jeg har lavet en handy illustration, som jeg godt kunne tænke mig at vise. Og jeg har lavet en VR-jagt. Og det er en VR-jagt, som jeg har lavet, og det er en VR-jagt, og jeg har lavet en VR-jagt. Jeg har lavet en matrise, der hedder, er AI godt eller skidt for dit job? Fordi det her, det er sådan, jeg ser verden, og det er også sådan, jeg har observeret tingene, der sker inde i Obsidian og hos vores kunder. Der er to akser, du kan være på. Den ene akse, det er, om du er god til at bruge AI, eller om du er dårlig til at bruge AI. Så er den anden akse, det er, om du er glad for at bruge det, altså du opsøger det, og gerne vil. Og den anden akse, det er, okay, jeg nægter at bruge AI. Og det giver fire forskellige udfaldsrum. Vi tager det udfaldsrum, der hedder, du nægter at bruge AI, og du er dårlig til det. Jeg har dårlige nyheder, min ven, det bliver fandme svært. Du kommer sgu nok til at tage dit job. Det kommer til at ske før eller senere. Den største udfordring her, det er ikke, om du er god eller dårlig til det, det er, hvis du bare nægter konsekvent at bruge det, så har du en udfordring. Og det her, det ser jeg i rigtig mange brancher. Typisk folk, som er provokeret af, at AI gør noget næsten lige så godt, som de har gjort tidligere. Ja, vi har blandt andet set det her med sure tekstforfatter, designer, animator, nogen, der kunne finde på at lave det her med en AI, i stedet for at købe det ved dem, og så nægter det, sådan at bruge det. Det er den helt forkerte tilgang. Den er enormt kortsigtet. Jeg forstår godt frustrationen, men det er ikke en kamp, du kommer til at vinde det der. Altså, jeg tror helt ærligt, så tror jeg, at om nogle år, der kommer man til at kigge tilbage på det, og så sige, jamen, det svarer lidt til, at man for 20-30 år siden nægter at bruge en computer til sit arbejde. Du arbejder med tal, og du nægter at bruge Excel. Jamen, så lykkes det lige så godt, Så er der en anden, der hedder nægter at bruge AI, men du er faktisk god til det. Jeg har lavet en emoji til det her scenario, Tino. Kan du forklare, hvad er det, der sker, hvis du nægter at bruge det, selvom du er god til det? Ja, men det er en lidt krummrykket mand, der sådan rent filmisk går med en papkasse, og man skal sådan forestille sig, at de har amerikanske film, hvor når man bliver fyret, så skal man hen og hente alle sine ting i sådan en sørgelig papkasse, og så går man ud, mens alle kigger på en. Det er et super ydmygende ritual, det der, de har. Men man kan jo godt forestille sig billedet, for du har sådan set det i filmen, den der papkasse, du går rundt med, og så ligger der billeder af dine børn inde i, og så skal du gå ud af bygningen med det. Jeg har aldrig forstået det der. Nej. Men jeg bad AI om at generere en emoji med en person, der er ved at blive fyret, og det gjorde den. Og min point er det her, det er, at om du er god til det, eller dårlig til det, hvis du nægter at bruge det, det er faktisk lige meget. Du ender det samme sted. Hvis vi så tager den modsatte, du er glad for at bruge AI, men du er dårlig til det, den har jeg givet en og det er fordi, vi er alle sammen dårlige til at bruge AI lige nu. Fuck om du er god eller dårlig til det. Det er så tidligt. Vi er så dårlige alle sammen. Om du vil det, er afgørende. Om du kan det, det kan du fandme lære. Jeg vil være den påstand, at hvis du sætter, hvis du vælger det her, det vil du. Og jeg vil være god til det, og det skal være min ting. Og du bare gør det. I to uger intensivt, så er du bedre end næsten alle andre allerede, fordi det handler om at prioritere det. Vi afholdte et webinar for to uger siden med 1500 deltagere. Før det webinar, der sendte jeg en mail ud til samtlige deltagere, og så spurgte jeg, hvad er det, der lige nu holder dig fra at bruge AI mere? Fordi jeg tænkte, jeg kunne måske få nogle gode input eller tekniske problemstillinger eller et eller andet, som vi kunne tage med i webinaret. Og der var især to ting, folk de sagde, der holdt dem fra at bruge AI mere, end de gør lige nu. Den ene ting, det var alt omkring legal, og det er selvfølgelig en lidt ærgerlig undskyldning. Altså alt omkring legal og må vi overhovedet det her, og datasikkerhed og alle de der ting, og det kommer det her podcast ikke til at handle om. Den anden, det var tid, og selvfølgelig er det tid, fordi du er nødt til at prioritere det her, og det er jo det, der er så mega svært. Så der var måske halvdelen af svaren, der siger, tid til at sætte mig ind i det, men vi har alle sammen de samme 24 timer til rådighed. Og det må bare ikke være en undskyldning, fordi om du frigør tid til det eller ej, det er din egen beslutning, vi har de samme 24 timer. Man er bare nødt til at gøre det. Man er nødt til at gøre det her til en prioritet. Men det er også lidt sjovt halvdelen ikke, fordi man går igennem uddannelsessystemet. Rigtig mange gør i hvert fald, for at komme ud og få et arbejde, så har man investeret sin egen tid, mens man er på SU, og måske har et studiejob, og har lidt svært ved at få tingene til at mødes, for så at investere den tid, i at man kan komme ud og få et arbejde. Og så er det som om, at mange giver slip derefter, så er det ikke deres egen, hvad skal man sige, så er det ikke dem selv, der står for at skulle videreudvikle sine kompetencer, så det passer til jobmarkeden. Ej, det må arbejdsgivere i øvrigt håbe, man sørger for. Det er sådan lidt for skroet, jeg har ikke rigtig forstået den tankegang, og nu forstår jeg også godt, at du og jeg er jo vokset op som i gåseøjne i værks, eller hvis man skulle sætte en label på, men hvis man sådan lige prøver bare lige at ændre sit perspektiv lidt, at man ser sig selv, og når man kigger i spejlet, så siger man, okay, jeg er i en virksomhed, jeg ved godt, det er super, super firkantet og super mærkeligt, men du investerer jo i dig selv, ved at sætte dig ned og forsøge at sætte dig ind i AI, og så kan det godt være, at man ikke føler, at man har tiden til det, men man bliver nødt til at prioritere og finde tiden til det, for det bliver så vigtigt. Og på en eller anden måde er det virksomhedens opgave at frigøre tiden til det, det ved jeg sgu ikke rigtigt, fordi hvis man ikke tager initiativ til det, og man ikke prioriterer det selv, det må du bare tage på dig selv. Det er nu din opgave at sørge for, at det her, det kommer til at ske. Og der var også nogle fede svar, da jeg sendte den her ud, jeg er nødt til lige at vise dig en kæmpe chef. Kent Friis Pedersen fra Vestadministrationen AIS. Jeg sendte en mail og spurgte, hvad holder dig tilbage for at bruge AI? Og Kent, han sendte det bedste svar af dem alle sammen. Han skrev nemlig bare, ikke at holde os tilbage, vi bruger det rigtig meget. Med venlig hilsen, Kent Friis Pedersen, direktør Vestadministrationen. Hold F, et fedt svar, mand. Kæmpe chef. Det er sådan her, man er nødt til at tænke det. Tak for det svar, Kent. Så har vi den sidste kvadrant. Du er glad for at bruge AI. Du er god til at bruge AI. Det har jeg også skrevet en emoji til. Nu er vi ude i dig. Jamen, du har brugt en vaske ægte dollar-emoji. Der er penge at hente. Ej, det giver penge i kassen. Det må man jo bare erkende. Men min primære pointe med det her, det handler faktisk ikke om, du er god til det eller dårlig til det. Det er ikke den vigtige aksje at indskue det fra. Det er, om du er glad for at bruge det eller ikke. Du kan være megagod, hvis ikke du gør det, fordi du i virkeligheden er bange for, at det kommer til at overtage et eller andet, eller du er sur på det eller et eller andet stil. Så er du lige så meget værd som den person, der ikke bruger det. Det handler ikke om institution. Det handler om at gøre det. Og der er den gode nyhed, om du vil være en person, der gør det eller ej. Det kan du bare bestemme dig for. Og så kommer kompetencerne. Men du kan bare lave valget her nu. Jeg vil være den person, der gør det. Så er beslutningen taget, og nu gør du det. Så kommer kompetencerne bagefter det. Det er så god en nyhed ved det her, synes jeg. I praksis er der to ting, du kan gøre, hvis du gerne vil være personen. Den ene er at opsøge viden. Hvordan kan man opsøge viden omkring AI på en god måde og bruge det på ens arbejdsplads? Jeg tror, det man skal huske på i forhold til det her med at opsøge viden, du kan nærmest ikke gøre det et forkert sted. Alle os, der sidder med AI til dagligt, vi har alle sammen monster meget FOMO. Og det er ligegyldigt, om vi følger 15 forskellige nyhedsbrev og 3 forskellige YouTubers, og jeg ved ikke, hvor mange LinkedIn influencers, eller ej, lang historie kort er, at hvis du kan acceptere, at du ikke nødvendigvis får den nyeste viden på dagen, som måske er obsolit i morgen, så find 2-3 nyhedsbrev, eller nogle personer, du synes, der er interessante at følge. Lyt til marketingpod. Vi kommer altså med... Nå, det vil jeg faktisk sige, det er godt, at vi kommer med det på dagen, men efterhånden, som de her tools, AI, koncepter og alt det her, det begynder at udvikle sig, så skal vi nok tale om det. Men find de her 2-3 kilder, som du bryder dig om. Nogen kan lide podcast, andre kan lide nyhedsbrev, nogen kan sikkert bedre lide YouTube-videoer, hvor de kan se det specifikt, og følg dem og acceptér, at det er der, hvor du får din viden. Min personlige, det er meget på Twitter. Jeg følger mange relevante personer i det her space. Det er sådan nogle André Karpathy, som var en af åben-AI-stifterne. Det kan være Peter Levels, der laver en masse værktøjer selv. Der er en masse AI-profiler, som er mega spændende at følge, og det er faktisk bare det, jeg gør. Så ser jeg, hvad de skriver, hvad andre skriver, og det er min primære kilde. Ved du TikTok og YouTube mere? Ja, især... Man kan sige, at TikTok kan godt være lidt svært, for du har ikke selv den fulde styring over algoritmen. Du kan selvfølgelig søge dig frem til tingene, ligesom du kan på YouTube. Men jeg har fundet ud af, at både TikTok og YouTube Shorts er fantastiske til at få forklaret nogle ting. Lad os se nogle konkrete eksempler på, hvordan AI bliver brugt, når du ved, hvad du skal søge efter. Jeg er meget enig. Den anden ting, du kan gøre, det er allerede nu at begynde at identificere og automatisere opgaver, du laver igen og igen, fordi det er en fænomenal måde bare at begynde at bruge AI mere på. Jeg har nogle konkrete eksempler. Det her, det er sådan noget, som du kan gøre med for eksempel ChatGPT, hvor du laver custom-GPT'er. Du kan lave gems med Gemini. Du kan lave projekter i Manus. Det er sådan områder, hvor du går ind og laver en eller anden form for system prompt. Det er bare et pænt ord for nogle faste instrukser, som den læser hver eneste gang, den skal udføre en opgave. Den kan måske lægge noget kontekst op, nogle ark, nogle billeder, eller et eller andet af den stil, og dermed kan løse opgaver, du sidder med igen og igen meget hurtigere. AI er mega fedt, især til de ting, du laver igen og igen. Hvis det er en opgave, du sidder og laver for første gang, en rapport, du laver for første gang, og du kun skal lave den en gang, så kan det faktisk godt være, at det nogle gange er nemmere bare at lave den selv. Det kan godt være, du kan bruge AI, men det kan godt være, det er nemmere bare at lave den selv. Hvor opgaver, du sidder og laver igen og igen, og vi har alle sammen opgaver, vi sidder og laver igen og igen og igen. Det er her, du virkelig har mulighed for at frigøre noget tid. Et par meget konkrete eksempler, som vi eller jeg har lavet, det kunne for eksempel være til marketing på et redigering. Der har jeg et projekt inde i Manus, som er et redskab, som vi er glade for at bruge. Manus er en general purpose AI-agent. Det startede af Kineser, det rykkede til Singapore, og nu er det købt af Mesa. Lad os se, om det får lov til at blive der for det kinesiske kommunisme at sige, men det er en anden snak. Jeg har et projekt inde i Manus, der hedder marketing på et redigering. Jeg laver de samme ting igen og igen og igen, når vi redigerer. Herinde har jeg lagt en skid. Den skid er marketing på et editor, og den har jeg defineret, hvordan vi redigerer podcastet. Det vil sige, at vi transkriberer en episode, vi laver en introduktion, vi laver kapitler til YouTube, vi laver en dumbnail til vores LinkedIn-nyhedsbrev, og alle sådan nogle ting. Det har jeg defineret i en skid. Det betyder, at når jeg har en episode klar, så uploader jeg faktisk bare episodenavnet. Her kan man se et eksempel. Jeg har bare uploadet et episodenavn og sagt, at mandagsepisoden er klar her, og det er det eneste prompt, den får. Så går den i gang med at læse skidfilen, og så venter jeg ti minutter, og så får jeg færdige thumbnails og en beskrivelse, jeg kan bruge, og YouTube-kapitlerne er allerede lavet, og de her ting, dem får jeg bare serveret, i stedet for at skulle prompte fra starten af. Det er en opgave, jeg sidder og laver hver eneste uge, og derfor kan det faktisk bare have meget tid at få den løst på den her måde. Hvad er nogle af de ting, du har fået løst på den her måde? Jeg vil lige skønne mig at sige, at skal vi ikke lave en lille kliphænger til næste uges episode omkring, hvordan man bruger AI som sin personlige assistent, hvor vi blandt andet gennemgår, hvordan du rent faktisk har lavet den her processer, for det er jo en fantastisk eksempel på det. Ja, og sætter den op fra scratch. Ja, lige præcis. Det er sådan nogle ting her, vi kommer til at vise i den næste episode, det er helt rigtigt. Hvad er nogle af de ting, du har automatiseret af opgaver, du laver igen og igen? Jamen, hvis vi lige bliver kort i marketing på verdenen, så har vi jo, om mandagen typisk, det har vi godt nok ikke i juni, men normalt har vi tre nyheder med fra branchen, som vi ligesom diskuterer. Og det tog noget tid, da jeg selv skulle finde de her nyheder frem og dernæst lave et resume. Det har jeg ikke klaret for mig nu. Jeg skal bare indsætte en URL til den nyhed, jeg ønsker, at den laver et resume til, hvor det er skrevet i marketing på et sprog, så den er klar til mig, fordi jeg har netop lavet en custom GPT, der fortæller, hvordan jeg gerne vil have, at den skal lave det. Eller, og det er noget af det nyeste, jeg har sat op, at den selv ligger dagligt og scraber efter nyheder, der er relevante. Det er et lavpraktisk marketing på et eksempel. Hvis vi så kommer med et lidt anderledes eksempel, så sidder vi jo i det daglige meget med SEO og Google Ads, og noget af det, der er rigtig svært derude, det er at bruge dataen på tværs. Det er ikke som sådan svært, men det tager noget tid at bruge data på tværs af de her kanaler. Jeg har nogle analyser, nogle go-to-analyser, jeg både laver på eksisterende kunder, og når vi er ude og pitch ind på nye kunder. Og jeg blev simpelthen træt af at blive ved med at skulle lave det manuelt, som mange folk gik til, når det var, at de skulle have lavet den her analyse. Så jeg endte simpelthen med at sætte mig ned og lave nogle tools, som simpelthen kunne gøre det her. Så en ting er, at jeg selv bruger dem, men jeg kunne også lære andre at bruge dem, sådan så jeg ikke blev flaskehals lige pludselig. Et tredje eksempel, inden vi går videre, det er, at jeg har lavet et værktøj til at generere tracking audits. Og det er et værktøj, der er lavet i Lovable. Så mellem jul og nytår, det tog mig rundt egnet lige så lang tid, som det tager os i Jurassic Park. Det har vi lavet en episode om tidligere, ikke Jurassic Park, men Arbejdkorte-værktøjer, der er lavet ved det her værktøj, der ligger på tracking.obsidianagency.com. Det er tilgængeligt til alle, hvis du har lyst til at prøve at bruge det på dit eget site. Og det er fordi, vi laver rigtig meget tracking i Obsidian. Vi hjælper vores kunder med at opsætte server-side tracking via Google Tag Manager og en masse andre spændende ting. Og der har jeg altid lavet et audit. Men det her audit, det har været noget med at få adgang, og så trække nogle helt manuelle ting og lave det igen og igen og igen. Og det har bare taget lang tid, men jeg ved jo præcis, hvad det er for et output, jeg gerne vil have. Så i stedet for, så definerede jeg over for Lopperworld, hvad mit slutoutput var, og hvilket input brugerne skal give, hvilket bar er deres website. Og så lavede jeg et værktøj, rundtregnet på tre timer, til at løse det her problem. Og siden jeg lavede det, så har mere end 4.000 personer lavet tracking audit indeni det. Jeg har lavet sådan et lille statistikmodul. Mere end 4.000. Jeg kunne fandme ikke have lavet 4.000 tracking audits på de fire måneder, der er gået siden vi lavede det her værktøj ud. Så ikke alene har jeg sparet helt vildt meget tid, det er også blevet et liggenererende værktøj, der faktisk har skabt omsætning for Obsidian. Og jeg synes, det er så fedt. Og så ved jeg, at der er nogen, der tænker sig nu, hvis jeg nu tager mit job, og jeg i virkeligheden begynder at automatisere det væk, det er da ikke særlig smart. Sæver jeg ikke min egen gren over? Hvad siger du til dem? Kan du automatisere dit eget job væk, og bliver du så fyret, hvis det sker? Nej, men jeg synes jo, at Jesper Weizel siger det kanon godt. Det handler om at få et fedt job, og kunne gøre de her automatiserede jobrådbrudsopgaver, gøre netop, at du kan komme længere op i helikopterne og være mere strategisk. Hvis vi tager tracking eksemplet, eller min analyse, som jeg lige nævnte før. Det tog så lang tid at lave dem her, at det var ligesom det, der var jobbet. Nu laver AI'en det for os. Ergo, vi kan sætte os ned og forholde os til de ting, vi får ud af det, og få nogle rigtig, rigtig gode snakke med vores kunder. Det er langt federe at møde indtil, end at skulle sidde og flytte et tal for at sætte det lidt på spidsen. Plus, hvis du lykkes med at automatisere det dejlige jobvæk, så har du lige positioneret dig som potentielt en af de mest spændende personer i hele virksomheden. Jeg kan love dig for, at hvis du slipper for de gamle opgaver, så får du nogle mere spændende opgaver, fordi du har lige vist et helt fantastisk initiativ og evne til at skabe værdi for virksomheden. Så det er virkelig det aller, aller, aller sidste, man skal være bange for. Lad os snakke lidt om, hvad AI ikke kan gøre for dig. Og også lidt om, hvor man skal positionere sig i fremtiden. Fordi der er nogle opgaver, som bare ikke kommer igen. Juniortekstforfatter, dead and gone, det kommer aldrig nogensinde til at give mening. Men hvis man skal sætte sådan lidt konceptuality, når vi bruger AI, hvad er det, AI kan gøre for os, og hvad er det måske AI ikke kan gøre for os? Og hvad fortæller det om, hvor man skal positionere sig i fremtiden? Jeg tror, det man skal forstå og huske, det er, at AI generelt er ekstremt dybtig og god til at arbejde inden for en ramme. Det vil sige, du tegner en fodboldbane op, og så skal AI spille inden for den her bane her. Og der er den fantastisk, men den er rigtig dårlig til selv at definere den her ramme, man skal sætte for den. Så det er dig som person, der skal være eksperten og ligesom sætte retningen. Og så skal vi også huske på, at AI, selvom man nærmest kan, man næsten skulle tro det, så har AI ikke følelser. Den kan ikke læse rummet. Og det er noget af det, som halvten af jer bliver snakket en del om i marketing, på de forrige episoder. Ja, for det kan vi heller ikke. Ja, det kan vi heller ikke. Men det kan du kære lytter forhåbentlig. Men AI kender for eksempel ikke dynamikken mellem dig, og det kunne være din kunde, eller din chef, eller hvem der skal bruge det output, du laver. Altså, der er noget taste, der er noget retning, du bliver nødt til at sætte. Men hvis du bliver dygtig til at sætte den, nøj, en super power AI pludselig bliver for dig. Men vi bliver nødt til at huske på, det kan AI ikke gøre af sig selv, og det er der, du skal være dygtig. Lad mig komme med et konkret eksempel. Facebook har lavet deres egen AI i Ads Manager. Og jeg var faktisk inde og prøve den, fordi jeg tænkte, det er da også super spændende, hvilke tips giver den? Og jeg gik ind på en konso, som vi er begyndt at arbejde på for nylig. Det er en virksomhed, som har brugt et andet bureau tidligere, og det bureau har sat en masse kampagneopdater op, som er efter klik. Og det skal man lade være med. Det spiller penge. Så det vil jeg selvfølgelig lave om. Men jeg gik lige ind på den her konso, og så sagde jeg til Mesa, hvordan kan vi forbedre resultatet? Og det, den sagde, det var, hvis jeg kigger på din kampagne, så kan jeg se, at dem, der er over 65, de klikker meget mere end dem, der er under 18, eller hvad hedder det, under 25. Så måske skulle du lave nogle kreativer, som i højere grad taler til unge mennesker, så du kan få flere klik fra dem. Det er jo ikke teknisk forkert, men det er strategisk helt reserveret input. Hvis du har klikkampagne, så er det første, du skal gøre, det er at optimere dem efter kommentering og sætte tracking op. Det er sgu da ikke at få flere klik. Og det var et godt eksempel på det der med, hvis jeg bare spurgte dem, hvordan får jeg bedre resultater? Så jeg kiggede på de kampagner, du havde i forvejen, uden at tage stilling til, om det her overhovedet var det rigtige til at starte med, og sagde bare, hvordan får du mere af det, du i forvejen optimerer efter? Så det blev en eller anden måde, hvis du kører i den gale retning, hvordan kan jeg køre endnu hurtigere i den gale retning? Og det er det der udfordring med AI, det er, at du får nogle gange det, du beder om, og hvis du ikke forstår selv at afkode det output, du får, og ser, om det er korrekt, så kan du komme til at køre meget stærkt i den helt forkerte retning. Og så oplever jeg, at jo dårligere du er til at prompte, og jo dårligere du forstår det, du beder om, jo større er risikoen for, at du kommer til at løbe stærkt i den gale retning. Så for eksempel, hvis jeg skulle lave regnskab, lad os sige mit selskabs årsregnskab via AI, jeg kunne have den bedste large range model til rådighed hele verden, og jeg er ret sikker på, at jeg ville lave fejl alligevel. Fordi jeg forstår det ikke, jeg forstår ikke de udstryk der, jeg kan ikke få et regnskab opstillet, og så se, om det her det er korrekt, er det både for et rigtigt eller et forkert, I don't know, så hvis AI'en siger, at det er rigtigt, så stoler jeg på det. Men hvad hvis det er en AI, lidt ligesom den i Mesa, der siger, at hvis du vil have flere klik, så skal du gøre sådan her, og så siger jeg sådan, okay, og så får jeg bare flere klik eller hvad. Så jeg kan bruge de bedste redskaber, og hvis ikke jeg fatter det output, der kommer, så er det stadig ikke værdifuldt. Og det betyder jo, hvis du ved noget om emnet, kan AI være et eminent redskab til at gøre det bedre og hurtigere, og få meget mere værdi ud af det, du laver i forvejen. Hvis du ikke ved noget om emnet, så tror jeg faktisk ikke, at AI kan hjælpe dig, så skal du simpelthen lære noget om emnet. Det er jo den gode og den dårlige nyhed på én og samme tid. Så synes jeg også, at der er et vigtigt punkt omkring det her med at have originale idéer, og være, hvad skal man sige, komme på ting, der er nyskabende. Dem, der bryder kategorien, skaber en eller anden ny adfærd, overrasker markedet. Altså noget af det, som jo rent faktisk er ret vigtigt for os marketingfolk, det kommer jo typisk fra mennesker, der har oplevet noget, levet noget, set noget derude, fået noget inspiration, og det tror jeg, man skal huske på. Og det er også vigtigt at huske på, fordi man kan hurtigt se AI som den her overmenneske. Men lad os lige huske på, at det er en sofistikeret remixmaskine. Altså den kombinerer og rekombinerer det, som den er trænet på. Så det gør også, at den automatisk, medmindre man er meget eksplicit omkring det, trækker mod midten. Det vil sige, at du får et gennemsnitligt svar. Det er det her, alle andre gør og siger, og det er best practice, und so weiter. Og det kan være rigtig godt inden for nogle områder, men jeg tror bare, man skal være opmærksom på, at er du ekstremt kreativ, tør du komme med de her originale idéer, og så bruge AI dernæst til at sætte foot under dem, så er du altså stadigvæk enorm, enorm værdifuld. Og det er noget, AI ikke kan gøre for dig, så kom med de her originale idéer, fordi den er jo bare trænet på data derude. Jeg synes, et fedt eksempel på det her, det er faktisk chefen for Rockstar, som laver bl.a. Grand Theft Auto GCA-spillene. Han var i et interview for nylig, Strauss Selnick hedder han, hvor han sagde, vi kan godt bruge AI til at øge hastigheden på noget af vores spiludvikling, men vi kan grundlæggende ikke bruge AI til at lave spillet. Fordi han siger, at lave et fedt spil, det handler om god smag, om taste, om originalitet og om timing. Og AI siger han, det er bagudskuende. Det kigger på, hvad du har gjort. Vi er nødt til at være fremaderskuende og se på, hvad folk gerne vil have. Det er jo lidt det her gode gamle Henry Ford citat, hvis jeg havde spurgt folk, hvad de gerne ville have haft, så havde de sagt en rådgjort hest. Og det er der jo noget rigtigt om, at de opgaver, hvor du ved, hvad det er for et output du gerne vil have, der er AI rigtig, rigtig god til at give det. Men er det den bedste til at lave en fuldstændig unik marketingstrategi og ramme markedet på en måde, som ingen af konkurrenterne har gjort før? Det ved jeg ikke. Det kan måske være et hjælperedskab til at gøre det. Og det sælger jo ind i, rollen man har i fremtiden, den er orchestrerende, den er faciliterende. Det at arbejde sammen med en hær af AI-agenter om at løse et område, det er ikke at være den, der rent faktisk udfører arbejdet. Den bedste programmer kommer ikke til at skrive kode selv, den bedste tekstforfatter kommer ikke til at skrive teksterne selv, den bedste grafik kommer ikke til at trække linjerne i hverken Canva, Figma eller Photoshop. De kommer til at bruge redskaberne til at gøre det her i stedet for. Og det er jo det, der er nøglen. Så det man skal uddanne sig til, det man skal oplære sig selv til i fremtiden, er ikke at være den bedste og hurtigste til faktisk at udføre arbejdet. Det er at forstå, hvad der gør arbejdet værdifuldt, og så prompte en AI-agent til at gøre det efterfølgende. Og så tror jeg, at man står i et meget bedre jobmarked, end der nogensinde har eksisteret før, fordi de personer, der lykkes med det, hold kæft, de kan lave nogle fede ting med de redskaber, der kommer frem i øjeblikket. Halsten, hvis man nu har siddet og lyttet med her de sidste, ja, nogle år 40 minutter, og man sidder og tænker, alt det vi lige har sagt, mere eller mindre, det giver rigtig god mening, men jeg har ligesom brug for det ekstra skub, det sidste skub, hvad skal jeg gøre fra i morgen af? Skal vi så ikke lige prøve at rige op, hvad vi vil anbefale i step 1, 2, 3, 4, 5, eller hvor mange steps vi nu engang har? Hvad man lige så godt kan gå i gang med at gøre fra i morgen af, indtil på mandag, hvor vi kommer med næste episode. Til første, mindsetskiftede, sig, du er nu personen, der gerne vil AI. Om du er god eller dårlig, bare se til dig selv. Jeg er nu personen, der gerne vil bruge AI. Det er min nummer et. Dernæst, så find et par kilder, måske tre til inspiration og ny viden om AI. Marketingbåt skulle forhåbentlig gerne være den første, men find et par stykker andre, hvor du får noget af den her viden, og du følger dig opdateret omkring emnet. Jeg vil anbefale at købe et abonnement til din foretrukne LLM. Hvis du er i syv, så vil jeg tage Manus, den er skidegod. Gemini er også kanon. Klort virker. GPC 5.5, alt er godt. Bare tag en af dem. Hvis du sidder og siger, Microsoft Copilot er den eneste, vi bruger i virksomheden. Fuck it. Køb et privat abonnement. Lad dig ikke hindre af, at Microsoft Copilot sutter røv. Køb et privat abonnement for dine egen penge, i stedet for hvis du ikke får lov til det i virksomheden. Lad være med at sige det til nogen, og så går det nok alligevel. Vælg en, og så gør den til din startside. Hver side, når du åbner en ny fan, det er large ringe smål, fordi så tvinger du dig selv til at bruge den mere. Og det er faktisk lige præcis næste step. Start slow. Begynd at bruge den som din lille, mini personlige assistent, og igen, cliffhanger til næste mand, at vi skal nok komme ind på, hvordan du kan gøre det her i skala. Men start med at bede den om at lave nogle udkast på svar til nogle mails, du sidder med. Der skal du måske sidde og kopiere mailen, og sætte over eller lave et screenshot og sige, kan du ikke lige komme med et udkast her på? Det kan vi godt blive enige om, at det ikke er det smarteste måde at gøre det på den dag i dag. Men det giver så meget viden. Brug den til sparring omkring tanker og idéer. Brug den i privaten. Måske at du skal finde ud af et eller andet med en opskrift. Whatever. Begynd at lære, hvordan den tænker og agerer. Det giver dig ekstremt meget. Jeg vil anbefale at sige til, det kan være dine kollegaer, det kan være chef, det kan være ansat, det kan være hvem det nu engang skal være. Det afhænger af din position i virksomheden. Meld ud. Jeg vil gerne være den person, der bruger AI mere. Hvis I har et projekt, hvor I gerne vil have løst det, tænk mig ind. Her er de ting, jeg selv har tænkt mig at gøre. Der er det der med, hvis du har en træningsmakker, som du skal mødes med om morgenen til træning, så er du mere tilbøjelig til at møde op. Fordi nu har du sagt det. Nu har du publikt dedikeret dig til det. Du vil ikke lade de andre i stikken. Det er lidt det samme med AI. Hvis du siger til alle andre, jeg vil gerne være personen. Hvis I har noget, lad mig løse det. Ellers prøver jeg at finde nogle ting, hvor jeg kan gøre det. Så bliver du også personen. Jeg vil melde ud og sige til folk, det vil jeg gerne det her. Nogle gange opstår der muligheder og vil bare sige, all you gotta do is ask sometimes. Måske der rent faktisk ligger et AI-projekt, hvor de tænker, giv dig bare nogle af vores medarbejdere, der vil tage initiativ til at lave noget ekstra. Du kan være den person, der tager lidt initiativ. Det er en kongegren inden for adfærdsdesign, det der. Sig det højt. Gå i gang med det. Vælg et projekt. Noget af det, du selv sidder med til dagligt. Og så kom i mål med det. Og det er nok noget af det vigtigste. Du kommer til at løbe hand mod muren. Ikke bare en gang, ikke bare to gange, men en masse gange. Jeg har gjort det rødt gang i dag. Præcis. Det er derfor det er vigtigt at have det ene projekt, når man starter ud. For ellers kan man hurtigt komme til at sige, jeg går lige over til det næste projekt. Og så sidder du med tre projekter, hvor du er 10% færdig. Det er bare så synd. Kom i mål med det ene projekt. Jeg kan næsten garantere for, at det kommer til at være den største succesfølelse, at have brugt AI til at komme i mål med det her. Shit, det bliver sejt. Og det aller sidste tip, det er at sørge for at abonnere på Marketingpot på YouTube. Abonner på Spotify. Giv dem syv dage, og så kommer den næste episode. Sådan gør du AI til din personlige assistent. Tusind tak, fordi du lød med til dagens episode.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Hej og velkommen til en ny episode af Marketingpod."
+    },
+    {
+      "start": 2.0,
+      "end": 7.0,
+      "text": " Christian Sinju, du har valgt, at i hele juni, der skal vi kun snakke om tracking i digital marketing."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": " Hvorfor har vi valgt det her emne?"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": " Ej, okay, der løftede jeg simpelthen mine hænder for tidligt."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": " Jeg troede faktisk, at du skulle til at sige AI, som jo er det, som juni skal handle om."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": " Det skal edderhugment ikke handle om, tracking."
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": " Ej, det skal handle om AI."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": " Jeg håbede lige, at jeg kunne få dig til at forklare Consent Mode V2, fordi det gik så godt sidste gang, vi forsøgte."
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "text": " Men det er rigtigt."
+    },
+    {
+      "start": 26.0,
+      "end": 30.0,
+      "text": " Der var ikke stemning, hverken fra Christian Sinju eller fra folk, der i det hele taget lyttede med til det her podcast."
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": " Jeg har lagt mærke til, at tracking-episoderne, de får ikke særlig mange listens."
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "text": " Hvad får det til gengæld listens?"
+    },
+    {
+      "start": 34.0,
+      "end": 41.0,
+      "text": " Folk vil gerne høre noget om AI, og det er heldigt, fordi vi synes faktisk også, at AI er det mest spændende emne, der er lige nu."
+    },
+    {
+      "start": 41.0,
+      "end": 42.0,
+      "text": " Det er der, hvor der sker mest."
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": " Det er der, hvor du har det største potentiale for virkelig at komme frem ad i bussen."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": " Så hvad er det, vi kommer til at gøre her i juni?"
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "text": " Vi kommer til at tage udgangspunkt i fire forskellige emner. Store emner, tør jeg godt sige."
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "text": " Hvor vi virkelig forsøger at komme i dybden."
+    },
+    {
+      "start": 57.0,
+      "end": 61.0,
+      "text": " Dagens emne er jo nok et af de mest omdiskuterede emner, der er ude den dag i dag."
+    },
+    {
+      "start": 61.0,
+      "end": 68.0,
+      "text": " For der går vi faktisk lidt ekstra op i helikopteren, hvor vi i nogle af de næste tre episoder går lidt mere specifikt til værks."
+    },
+    {
+      "start": 68.0,
+      "end": 73.0,
+      "text": " Men i første omgang skal vi snakke lidt om, hvordan man undgår, at AI går ind og tager ens job."
+    },
+    {
+      "start": 73.0,
+      "end": 74.0,
+      "text": " Fordi det er..."
+    },
+    {
+      "start": 74.0,
+      "end": 75.0,
+      "text": " Vi kan ikke komme udenom det."
+    },
+    {
+      "start": 75.0,
+      "end": 78.0,
+      "text": " Det er det, som der bare er rigtig, rigtig meget snak om derude."
+    },
+    {
+      "start": 78.0,
+      "end": 79.0,
+      "text": " Måske med god grund."
+    },
+    {
+      "start": 79.0,
+      "end": 81.0,
+      "text": " Måske er frygten uberettiget."
+    },
+    {
+      "start": 81.0,
+      "end": 84.0,
+      "text": " Og det er lidt det, vi skal forsøge at komme ind på i dag."
+    },
+    {
+      "start": 84.0,
+      "end": 90.0,
+      "text": " Når vi er færdige med dagens episode, så næste mandag kommer vi til at snakke om, hvordan du gør AI til din personlige assistent."
+    },
+    {
+      "start": 90.0,
+      "end": 95.0,
+      "text": " Der har vi en hel del eksempler på. Både værktøjer, prompts, metoder og ting, vi selv får hjælp til."
+    },
+    {
+      "start": 95.0,
+      "end": 98.0,
+      "text": " Hvordan du kan frigøre noget tid i hverdagen til endnu mere spændende opgaver."
+    },
+    {
+      "start": 98.0,
+      "end": 104.0,
+      "text": " Vi kommer derefter til at snakke om, hvordan du bruger AI til at lave kreativer på den gode måde, hvad vi selv gør i vores egen marketing."
+    },
+    {
+      "start": 104.0,
+      "end": 110.0,
+      "text": " Og så slutter vi af med en episode i slutningen af juni, der handler om de vigtigste tools, vi bruger lige nu på tværs af alle arbejdsområder."
+    },
+    {
+      "start": 110.0,
+      "end": 114.0,
+      "text": " Så det bliver sådan en meget praktisk arbejds- og værktøjs gennemgang."
+    },
+    {
+      "start": 114.0,
+      "end": 123.0,
+      "text": " Og vores målsætning med de her fire episoder, det er, at du får både inspiration, men også meget konkrete redskaber til, hvordan du bliver bedre til at bruge AI."
+    },
+    {
+      "start": 123.0,
+      "end": 127.0,
+      "text": " Så det her bliver ikke sådan en super overordnet sludder for en sladder."
+    },
+    {
+      "start": 127.0,
+      "end": 132.0,
+      "text": " Vi vil faktisk gerne gøre det meget konkret, hvordan du kan bruge AI til at levere et endnu bedre stykke arbejde."
+    },
+    {
+      "start": 132.0,
+      "end": 135.0,
+      "text": " Til at nå dine ting hurtigere, så du kan frigøre tid til andre ting."
+    },
+    {
+      "start": 135.0,
+      "end": 140.0,
+      "text": " Og til bare at være en af de personer, som får værdi ud af det, fordi der er så meget at hente."
+    },
+    {
+      "start": 140.0,
+      "end": 146.0,
+      "text": " Så det er sådan vores målsætning med de her fire dedikerede episoder, der udkommer de næste fire mandagen."
+    },
+    {
+      "start": 146.0,
+      "end": 152.0,
+      "text": " Og Christian, nu starter vi jo med sådan et lidt negativt lavet emne, fordi vi har kaldt den, Hvordan umgår du at AI tager dit job?"
+    },
+    {
+      "start": 152.0,
+      "end": 156.0,
+      "text": " Hvis vi lige skal lave en intro til det, hvorfor er det, at folk er bange for, at AI tager deres job?"
+    },
+    {
+      "start": 156.0,
+      "end": 159.0,
+      "text": " Jamen, jeg tror, det er en blanding af ting."
+    },
+    {
+      "start": 159.0,
+      "end": 165.0,
+      "text": " Og noget af det helt store er jo selvfølgelig, at mange af de store tech virksomheder derude, og virksomheder faktisk generelt,"
+    },
+    {
+      "start": 165.0,
+      "end": 170.0,
+      "text": " men især inden for tech-verdenen, er jo ude og melde stort og bredt ud og stolt af sig."
+    },
+    {
+      "start": 170.0,
+      "end": 172.0,
+      "text": " Og det er der nok også en grund til."
+    },
+    {
+      "start": 172.0,
+      "end": 179.0,
+      "text": " Altså ud at melde ud om, at nu fyrer man en masse mennesker, fordi at AI kan gå ind og overtage mange af deres jobs."
+    },
+    {
+      "start": 179.0,
+      "end": 187.0,
+      "text": " Og det er klart, når den retorik ligger og kører ude i medierne, og man på daglig basis bliver bekræftet i, at AI er lige med fyringer,"
+    },
+    {
+      "start": 187.0,
+      "end": 192.0,
+      "text": " jamen så kommer der bare sådan en negativ retorik omkring AI."
+    },
+    {
+      "start": 192.0,
+      "end": 196.0,
+      "text": " Og det er en af de områder, vi gerne lige vil prøve at dykke lidt ned i i dag."
+    },
+    {
+      "start": 196.0,
+      "end": 200.0,
+      "text": " Lige kort snakke om, hvorfor man måske skal, jeg vil ikke sige vende det blinde øje til,"
+    },
+    {
+      "start": 200.0,
+      "end": 207.0,
+      "text": " men jeg tror, man skal forstå, hvad der ligger til grund for de her fyringer i store dele af de cases her."
+    },
+    {
+      "start": 207.0,
+      "end": 212.0,
+      "text": " Det er jo for eksempel Meta, der lige nu er ude her i slutningen af maj måned 2026 og siger,"
+    },
+    {
+      "start": 212.0,
+      "end": 216.0,
+      "text": " vi skal opsige 8.000 medarbejdere, og det er på grund af AI."
+    },
+    {
+      "start": 216.0,
+      "end": 220.0,
+      "text": " Og det er jo sådan en stor fyringsrunde, det er omkring 10% af medarbejderne i Meta."
+    },
+    {
+      "start": 220.0,
+      "end": 223.0,
+      "text": " Vi har også haft Microsoft, der har været ude og fyre også omkring 10.000."
+    },
+    {
+      "start": 223.0,
+      "end": 228.0,
+      "text": " Cloudflare, Block, Square, der er så mange amerikanske selskaber, som går ud og laver de her fyringsrunder lige nu,"
+    },
+    {
+      "start": 228.0,
+      "end": 231.0,
+      "text": " og siger, det er fordi, vi er mere effektive på grund af AI."
+    },
+    {
+      "start": 231.0,
+      "end": 234.0,
+      "text": " Og som med så mange andre ting her i livet, så er der både noget, der er rigtigt og forkert."
+    },
+    {
+      "start": 234.0,
+      "end": 239.0,
+      "text": " Der er helt sikkert nogle virksomheder, som for nogle specifikke funktioner, bliver meget mere effektive via AI,"
+    },
+    {
+      "start": 239.0,
+      "end": 243.0,
+      "text": " og så er der nogle stillinger, de ikke længere har brug for, og nogle andre, de i stedet får brug for."
+    },
+    {
+      "start": 243.0,
+      "end": 247.0,
+      "text": " Det man også skal være opmærksom på, det er, forestil dig det her, du er en virksomhed,"
+    },
+    {
+      "start": 247.0,
+      "end": 251.0,
+      "text": " det går ikke godt nok, du når ikke dine mål, du er nødt til at gøre et eller andet."
+    },
+    {
+      "start": 251.0,
+      "end": 255.0,
+      "text": " Du har ikke nok omsætning, du har for mange omkostninger, der er noget, der ikke går op, du er nødt til at gøre et eller andet."
+    },
+    {
+      "start": 255.0,
+      "end": 257.0,
+      "text": " Hvad er den bedste historie at sende ud i markedet?"
+    },
+    {
+      "start": 257.0,
+      "end": 260.0,
+      "text": " Er det enten, det går ikke så godt, vi har hørt fra mange mennesker, vi sælger ikke godt nok,"
+    },
+    {
+      "start": 260.0,
+      "end": 263.0,
+      "text": " vi er faktisk ret presset af vores konkurrenter, de er ret dygtige,"
+    },
+    {
+      "start": 263.0,
+      "end": 267.0,
+      "text": " vi er så dygtige til at bruge AI, hvis vi ikke har brug for de her 5.000 personer herovre længere."
+    },
+    {
+      "start": 267.0,
+      "end": 270.0,
+      "text": " Ja, det er nok option B, ville jeg jo bare sige."
+    },
+    {
+      "start": 270.0,
+      "end": 274.0,
+      "text": " Det tror jeg også, det ene smadrer din aktiekurs, det andet, det hæver den."
+    },
+    {
+      "start": 274.0,
+      "end": 278.0,
+      "text": " Så man skal også lige huske, der er sådan noget AI-washing, der foregår lige nu,"
+    },
+    {
+      "start": 278.0,
+      "end": 281.0,
+      "text": " hvor man tager fyringsrunder, der alligevel skulle ske,"
+    },
+    {
+      "start": 281.0,
+      "end": 284.0,
+      "text": " fordi man skal lige huske, fyringsrunder sker hele tiden ved de her store selskaber,"
+    },
+    {
+      "start": 284.0,
+      "end": 289.0,
+      "text": " de kommer hele tiden til at høre fra mange personer, og der sker hele tiden ændringer i forhold til, hvad de har brug for."
+    },
+    {
+      "start": 289.0,
+      "end": 293.0,
+      "text": " Det er fuldstændig normalt, at der sker runder engang imellem, og de omorganiserer deres arbejdskraft."
+    },
+    {
+      "start": 293.0,
+      "end": 296.0,
+      "text": " Men hver eneste gang, det sker i øjeblikket, så siger man, det er på grund af AI."
+    },
+    {
+      "start": 296.0,
+      "end": 298.0,
+      "text": " Og det er jo fordi, det er en mega god historie."
+    },
+    {
+      "start": 298.0,
+      "end": 300.0,
+      "text": " Det er bare ikke altid sandt."
+    },
+    {
+      "start": 300.0,
+      "end": 303.0,
+      "text": " Du kender også det der ordsprog, der hedder, man skal aldrig lade en god krise gå til spil."
+    },
+    {
+      "start": 303.0,
+      "end": 308.0,
+      "text": " Det her er ikke en krise, men det er en eminent mulighed for at gøre det,"
+    },
+    {
+      "start": 308.0,
+      "end": 311.0,
+      "text": " du alligevel skulle have gjort som stor virksomhed, og så bare sige, det er på grund af AI."
+    },
+    {
+      "start": 311.0,
+      "end": 315.0,
+      "text": " Det er lidt ligesom, hvis man er en virksomhed, hvor alle ens konkurrenter har hævet priserne,"
+    },
+    {
+      "start": 315.0,
+      "end": 318.0,
+      "text": " så er det også nemt for en selv at hæve priserne med referencesæt, alle andre har gjort det."
+    },
+    {
+      "start": 318.0,
+      "end": 322.0,
+      "text": " Det er meget svært at være den første, det er meget nemt at være den sidste, der gør det."
+    },
+    {
+      "start": 322.0,
+      "end": 325.0,
+      "text": " Så jeg tror faktisk også, en del af årsagen er, at der sker noget AI-whitewashing."
+    },
+    {
+      "start": 325.0,
+      "end": 327.0,
+      "text": " Og jeg tror også, det sker i danske virksomheder."
+    },
+    {
+      "start": 327.0,
+      "end": 331.0,
+      "text": " Var det danske bank, der var ude og fyre 5.000 for nylig og sige, det er på grund af AI,"
+    },
+    {
+      "start": 331.0,
+      "end": 333.0,
+      "text": " eller 500 personer, og det er på grund af AI."
+    },
+    {
+      "start": 333.0,
+      "end": 337.0,
+      "text": " Altså, måske der også var andre, der tænkte bag, hvis man lige pressede dem et lille hul på maven."
+    },
+    {
+      "start": 337.0,
+      "end": 340.0,
+      "text": " Er den danske bank sex, så er den der er længst i hele verden med AI?"
+    },
+    {
+      "start": 341.0,
+      "end": 346.0,
+      "text": " Så man skal bare lige huske, de overskrifter, du læser, er ikke nødvendigvis korrekte."
+    },
+    {
+      "start": 346.0,
+      "end": 348.0,
+      "text": " Men det leder til et kæmpe problem."
+    },
+    {
+      "start": 348.0,
+      "end": 355.0,
+      "text": " Fordi jeg har en hypotese om, at AI måske har det dårligste brand siden atomkraft i 1980'erne."
+    },
+    {
+      "start": 355.0,
+      "end": 357.0,
+      "text": " Hvad siger du til den hypotese, Tini?"
+    },
+    {
+      "start": 357.0,
+      "end": 360.0,
+      "text": " Ja, om vi tager atomkraft, eller vi tager corona, jeg ved det ikke."
+    },
+    {
+      "start": 360.0,
+      "end": 362.0,
+      "text": " Men det er i hvert fald i samme kategori."
+    },
+    {
+      "start": 362.0,
+      "end": 364.0,
+      "text": " Fordelende har fået et dårligt brand."
+    },
+    {
+      "start": 364.0,
+      "end": 367.0,
+      "text": " Jeg så sådan en ret interessant undersøgelse her for nylig,"
+    },
+    {
+      "start": 367.0,
+      "end": 371.0,
+      "text": " som fortæller noget om, hvordan unge mennesker i forskellige lande ser på AI."
+    },
+    {
+      "start": 371.0,
+      "end": 376.0,
+      "text": " Og jeg har faktisk et billede af den her, så dem der ser med på YouTube eller Spotify med video."
+    },
+    {
+      "start": 376.0,
+      "end": 380.0,
+      "text": " Og her er der andelen af dem, der har svaret."
+    },
+    {
+      "start": 380.0,
+      "end": 383.0,
+      "text": " Og det er sådan relativt unge mennesker i starten af deres karriere,"
+    },
+    {
+      "start": 383.0,
+      "end": 389.0,
+      "text": " som siger, at de er enten mere excited, altså positivt stemte over for AI,"
+    },
+    {
+      "start": 389.0,
+      "end": 394.0,
+      "text": " end de er sådan bekymrede, kontra hvor mange, der er mere bekymrede i forhold til positivt."
+    },
+    {
+      "start": 394.0,
+      "end": 398.0,
+      "text": " Altså, i hvilken grad er du positiv eller bekymrede over AI?"
+    },
+    {
+      "start": 398.0,
+      "end": 401.0,
+      "text": " Og der kan man se i et land som for eksempel Sydkorea,"
+    },
+    {
+      "start": 401.0,
+      "end": 406.0,
+      "text": " der er det den store majoritet, som er super positive omkring AI."
+    },
+    {
+      "start": 406.0,
+      "end": 409.0,
+      "text": " Det er omkring 80%, de skal bare fremad."
+    },
+    {
+      "start": 409.0,
+      "end": 412.0,
+      "text": " De er enten lige bekymrede og spændte, men de er generelt meget mere spændte over,"
+    },
+    {
+      "start": 412.0,
+      "end": 413.0,
+      "text": " at de skal bare fremad."
+    },
+    {
+      "start": 413.0,
+      "end": 418.0,
+      "text": " I USA, i Canada, i mange andre lande, der er den i bedste fald lige,"
+    },
+    {
+      "start": 418.0,
+      "end": 422.0,
+      "text": " og i mange tilfælde er der faktisk flere unge, der er meget bekymrede over AI,"
+    },
+    {
+      "start": 422.0,
+      "end": 423.0,
+      "text": " end de er spændte."
+    },
+    {
+      "start": 423.0,
+      "end": 427.0,
+      "text": " I USA er det 50%, der siger, at jeg er mere bekymrede, end jeg er spændt,"
+    },
+    {
+      "start": 427.0,
+      "end": 429.0,
+      "text": " og det er kun 38%, der siger, at jeg er mere spændt, end jeg er bekymret."
+    },
+    {
+      "start": 429.0,
+      "end": 433.0,
+      "text": " Så der er faktisk flere unge i USA, der ser det her som en negativ ting,"
+    },
+    {
+      "start": 433.0,
+      "end": 435.0,
+      "text": " end de ser det som en positiv ting."
+    },
+    {
+      "start": 435.0,
+      "end": 438.0,
+      "text": " Jeg så en anden undersøgelse, der sagde, at 70% af amerikanere,"
+    },
+    {
+      "start": 438.0,
+      "end": 441.0,
+      "text": " de siger, at AI går for stærkt."
+    },
+    {
+      "start": 441.0,
+      "end": 444.0,
+      "text": " Vi kan slet ikke følge med, og det bliver en negativ ting i sig selv."
+    },
+    {
+      "start": 444.0,
+      "end": 447.0,
+      "text": " Og jeg synes jo, at det er sindssygt, fordi der er så mange positive ting"
+    },
+    {
+      "start": 447.0,
+      "end": 451.0,
+      "text": " ved den her teknologi, men vi har sådan en short term job destruction,"
+    },
+    {
+      "start": 451.0,
+      "end": 454.0,
+      "text": " hvor AI med det samme går ind og fjerner nogle ting, hvor vi tænkte,"
+    },
+    {
+      "start": 454.0,
+      "end": 457.0,
+      "text": " det her ville vi tidligere betale for, det vil vi ikke gøre længere."
+    },
+    {
+      "start": 457.0,
+      "end": 462.0,
+      "text": " Og jeg er sikker på, at der kommer en langsigtet vækst i jobs og muligheder,"
+    },
+    {
+      "start": 462.0,
+      "end": 464.0,
+      "text": " men vi mister bare nogle ting, før vi får dem,"
+    },
+    {
+      "start": 464.0,
+      "end": 468.0,
+      "text": " og det leder til det her enormt dårligt behandlede brand,"
+    },
+    {
+      "start": 468.0,
+      "end": 471.0,
+      "text": " hvor AI bliver en negativ ting, og det synes jeg faktisk er rigtig ærgerligt."
+    },
+    {
+      "start": 471.0,
+      "end": 474.0,
+      "text": " Og lige præcis det leder jeg så videre til det næste,"
+    },
+    {
+      "start": 474.0,
+      "end": 478.0,
+      "text": " fordi man kan sige, at en ting er, at der helt sikkert sker noget AI-washing derude,"
+    },
+    {
+      "start": 478.0,
+      "end": 482.0,
+      "text": " men vi kommer ikke udenom, at AI i dag allerede har været inde"
+    },
+    {
+      "start": 482.0,
+      "end": 487.0,
+      "text": " og skabt nogle fundamentale ændringer på, hvordan virksomheder de hyrer,"
+    },
+    {
+      "start": 487.0,
+      "end": 490.0,
+      "text": " hvad er det for en arbejdskraft, de skal bruge, og hvem er det, de fyrer,"
+    },
+    {
+      "start": 490.0,
+      "end": 492.0,
+      "text": " det kommer vi heller ikke udenom."
+    },
+    {
+      "start": 492.0,
+      "end": 496.0,
+      "text": " Og jeg synes, det er ret interessant med de her statistikker, du lige havde med,"
+    },
+    {
+      "start": 496.0,
+      "end": 500.0,
+      "text": " som jo netop var fra, det var uni-studerende, ikke?"
+    },
+    {
+      "start": 500.0,
+      "end": 502.0,
+      "text": " Det var det, og folk i starten af deres karriere."
+    },
+    {
+      "start": 502.0,
+      "end": 506.0,
+      "text": " Og lige præcis der, der kan vi måske lægge episoden ud, og så sige,"
+    },
+    {
+      "start": 506.0,
+      "end": 509.0,
+      "text": " jamen, går AI rent faktisk ind og tager dit job?"
+    },
+    {
+      "start": 509.0,
+      "end": 512.0,
+      "text": " Jamen, det handler først og fremmest om, hvad er det, dit job er i dag?"
+    },
+    {
+      "start": 512.0,
+      "end": 517.0,
+      "text": " Det vi jo kan se, det er, at de jobs, så mange af de her universitetsstuderende"
+    },
+    {
+      "start": 517.0,
+      "end": 523.0,
+      "text": " skal ud og have søgt, det er faktisk dem, der i høj grad står lidt for skud,"
+    },
+    {
+      "start": 523.0,
+      "end": 528.0,
+      "text": " lige nu i hvert fald den måde, det har været struktureret på tidligere."
+    },
+    {
+      "start": 528.0,
+      "end": 531.0,
+      "text": " Altså det her med, at man producerer stor volumen,"
+    },
+    {
+      "start": 531.0,
+      "end": 533.0,
+      "text": " men der er ikke særlig meget strategi bag, og hvad betyder det?"
+    },
+    {
+      "start": 533.0,
+      "end": 535.0,
+      "text": " Det kan være, man skulle sætte sig ned og skrive en masse tekster,"
+    },
+    {
+      "start": 535.0,
+      "end": 537.0,
+      "text": " lave en masse baner, lave mange rapporter, analyser,"
+    },
+    {
+      "start": 537.0,
+      "end": 539.0,
+      "text": " sådan en lavpraktisk grobrødsarbejde."
+    },
+    {
+      "start": 539.0,
+      "end": 541.0,
+      "text": " Sådan en entry level arbejde, hvor du er meget operationel,"
+    },
+    {
+      "start": 541.0,
+      "end": 545.0,
+      "text": " du er hen og fed at udføre de opgaver, som bliver udstukket af andre."
+    },
+    {
+      "start": 545.0,
+      "end": 547.0,
+      "text": " Og der må vi bare sige, hvis vi skal være ærlige,"
+    },
+    {
+      "start": 547.0,
+      "end": 549.0,
+      "text": " der er du sgu også bare mere udsat lige nu."
+    },
+    {
+      "start": 549.0,
+      "end": 554.0,
+      "text": " Ja, og vi ser det, altså vi ser det vidt og bredt,"
+    },
+    {
+      "start": 554.0,
+      "end": 556.0,
+      "text": " og vi oplever det jo faktisk også selv, Alstan."
+    },
+    {
+      "start": 556.0,
+      "end": 559.0,
+      "text": " Det gør vi, der er stillinger i Obsidian, som vi tidligere har ansat til,"
+    },
+    {
+      "start": 559.0,
+      "end": 561.0,
+      "text": " som vi bare ikke vil ansætte til længere,"
+    },
+    {
+      "start": 561.0,
+      "end": 563.0,
+      "text": " og det må vi også bare være ærlige og sige, der er nogle ting,"
+    },
+    {
+      "start": 563.0,
+      "end": 565.0,
+      "text": " hvor jeg godt kan se på den korte bane, der er det her en udfordring."
+    },
+    {
+      "start": 565.0,
+      "end": 569.0,
+      "text": " Altså hvis du, i 2011, der startede jeg min karriere i digital marketing,"
+    },
+    {
+      "start": 569.0,
+      "end": 571.0,
+      "text": " det gjorde jeg som billig tekstforfatter."
+    },
+    {
+      "start": 571.0,
+      "end": 573.0,
+      "text": " Det vil sige, at man kunne købe mine tekster til 20 ører pr. år,"
+    },
+    {
+      "start": 573.0,
+      "end": 575.0,
+      "text": " og så skrev jeg 500 år om, hvad end du havde brug for,"
+    },
+    {
+      "start": 575.0,
+      "end": 577.0,
+      "text": " og så kunne du bruge det til at lave nogle linkbuilding tekster"
+    },
+    {
+      "start": 577.0,
+      "end": 579.0,
+      "text": " og komme op i toppen af Google."
+    },
+    {
+      "start": 579.0,
+      "end": 581.0,
+      "text": " Det job, det eksisterer ikke længere."
+    },
+    {
+      "start": 581.0,
+      "end": 583.0,
+      "text": " ChatGPC er bedre og billigere og hurtigere på alle måder,"
+    },
+    {
+      "start": 583.0,
+      "end": 585.0,
+      "text": " end jeg var på det tidspunkt."
+    },
+    {
+      "start": 585.0,
+      "end": 587.0,
+      "text": " Så det her entry level job, der var dengang,"
+    },
+    {
+      "start": 587.0,
+      "end": 589.0,
+      "text": " i form af en billig tekstforfatter, det eksisterer ikke længere."
+    },
+    {
+      "start": 589.0,
+      "end": 591.0,
+      "text": " Hvad var dit første foray ind i digital marketing?"
+    },
+    {
+      "start": 591.0,
+      "end": 593.0,
+      "text": " Du er stadig ung, men da du var yngre?"
+    },
+    {
+      "start": 593.0,
+      "end": 595.0,
+      "text": " Jamen det var jo lige præcis det samme."
+    },
+    {
+      "start": 595.0,
+      "end": 597.0,
+      "text": " 15 år siden satte jeg mig ned og lærte omkring SEO."
+    },
+    {
+      "start": 597.0,
+      "end": 599.0,
+      "text": " Den nemmeste måde at komme i gang med SEO på dengang,"
+    },
+    {
+      "start": 599.0,
+      "end": 601.0,
+      "text": " det var at skrive tekster."
+    },
+    {
+      "start": 601.0,
+      "end": 603.0,
+      "text": " Og så hørte det sig også med til historien,"
+    },
+    {
+      "start": 603.0,
+      "end": 605.0,
+      "text": " som nogen måske også har hørt, at jeg lå og købte nogle af dine tekster,"
+    },
+    {
+      "start": 605.0,
+      "end": 607.0,
+      "text": " som du solgte til 20 øre,"
+    },
+    {
+      "start": 607.0,
+      "end": 609.0,
+      "text": " og så solgte jeg dem videre til 25 eller 30 øre pr. år."
+    },
+    {
+      "start": 609.0,
+      "end": 611.0,
+      "text": " Den kloge nær, den mindre kloge."
+    },
+    {
+      "start": 611.0,
+      "end": 613.0,
+      "text": " Nej, det vidste jeg ikke."
+    },
+    {
+      "start": 613.0,
+      "end": 615.0,
+      "text": " Jeg requestede dig på MobilePay, for at de får sådan en eller anden dag,"
+    },
+    {
+      "start": 615.0,
+      "end": 617.0,
+      "text": " din dumme svin."
+    },
+    {
+      "start": 617.0,
+      "end": 619.0,
+      "text": " Men den eksisterer jo bare ikke."
+    },
+    {
+      "start": 619.0,
+      "end": 621.0,
+      "text": " Og hvis man tager sådan nogle andre områder, junior designer,"
+    },
+    {
+      "start": 621.0,
+      "end": 623.0,
+      "text": " den tror jeg også er svær."
+    },
+    {
+      "start": 623.0,
+      "end": 625.0,
+      "text": " Jeg er jo der, hvor jeg laver rigtig mange udkast til forskellige ting,"
+    },
+    {
+      "start": 625.0,
+      "end": 627.0,
+      "text": " via AI direkte, eller lægger dem ind på annoncekontoen,"
+    },
+    {
+      "start": 627.0,
+      "end": 629.0,
+      "text": " og hvis de virker godt først,"
+    },
+    {
+      "start": 629.0,
+      "end": 631.0,
+      "text": " derefter sender jeg det videre til en menneskelig designer."
+    },
+    {
+      "start": 631.0,
+      "end": 633.0,
+      "text": " Men det betyder, at jeg sender færre opgaver afsted,"
+    },
+    {
+      "start": 633.0,
+      "end": 635.0,
+      "text": " end jeg måske ville have gjort før."
+    },
+    {
+      "start": 635.0,
+      "end": 637.0,
+      "text": " Jeg er så billig til at betale mere for at få dem løst ordentligt,"
+    },
+    {
+      "start": 637.0,
+      "end": 639.0,
+      "text": " fordi nu har jeg fået valideret,"
+    },
+    {
+      "start": 639.0,
+      "end": 641.0,
+      "text": " at det jeg har brug for, det rent faktisk virker,"
+    },
+    {
+      "start": 641.0,
+      "end": 643.0,
+      "text": " men stadig er det en anden måde at arbejde på."
+    },
+    {
+      "start": 645.0,
+      "end": 647.0,
+      "text": " Jeg laver praktiske opgaver med at oprette produkter,"
+    },
+    {
+      "start": 647.0,
+      "end": 649.0,
+      "text": " og skrive tekster,"
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " og manuelt arbejde, kopiering frem og tilbage,"
+    },
+    {
+      "start": 651.0,
+      "end": 653.0,
+      "text": " og sådan nogle ting."
+    },
+    {
+      "start": 653.0,
+      "end": 655.0,
+      "text": " Ja, der er også en udsat stilling."
+    },
+    {
+      "start": 655.0,
+      "end": 657.0,
+      "text": " Det er de der entry level stillinger,"
+    },
+    {
+      "start": 657.0,
+      "end": 659.0,
+      "text": " generelt i digital marketing, det er dem, der er udsatte."
+    },
+    {
+      "start": 659.0,
+      "end": 661.0,
+      "text": " Og det er folk, der er i starten af deres karriere,"
+    },
+    {
+      "start": 661.0,
+      "end": 663.0,
+      "text": " der er mest udsatte på et kort bane."
+    },
+    {
+      "start": 663.0,
+      "end": 665.0,
+      "text": " Det må vi også bare være ærlige omkring."
+    },
+    {
+      "start": 665.0,
+      "end": 667.0,
+      "text": " Med det sagt, hvis jeg lige skal komme med et lidt contrarian take på det her,"
+    },
+    {
+      "start": 667.0,
+      "end": 669.0,
+      "text": " så er der altså også nogle områder,"
+    },
+    {
+      "start": 669.0,
+      "end": 671.0,
+      "text": " der eksploderer i stillinger i øjeblikket,"
+    },
+    {
+      "start": 671.0,
+      "end": 673.0,
+      "text": " især hvis man kigger i USA,"
+    },
+    {
+      "start": 673.0,
+      "end": 675.0,
+      "text": " hvor vi har lidt mere data."
+    },
+    {
+      "start": 675.0,
+      "end": 677.0,
+      "text": " Jeg så det her opslag på Twitter fra A16Z,"
+    },
+    {
+      "start": 677.0,
+      "end": 679.0,
+      "text": " altså Andresen Horowitz."
+    },
+    {
+      "start": 679.0,
+      "end": 681.0,
+      "text": " Det er en af de mest kendte venturefonde i hele verden."
+    },
+    {
+      "start": 681.0,
+      "end": 683.0,
+      "text": " Stiftet af bl.a. Mark Andresen,"
+    },
+    {
+      "start": 683.0,
+      "end": 685.0,
+      "text": " som var ham, der lavede Netscape browseren,"
+    },
+    {
+      "start": 685.0,
+      "end": 687.0,
+      "text": " altså var med til nærmest at opfinde internettet."
+    },
+    {
+      "start": 687.0,
+      "end": 689.0,
+      "text": " Så det her er klart en af de mest kendte venturefonde i hele verden."
+    },
+    {
+      "start": 689.0,
+      "end": 691.0,
+      "text": " Og de lavede også en post for nylig,"
+    },
+    {
+      "start": 691.0,
+      "end": 693.0,
+      "text": " der hedder Narrative Violation."
+    },
+    {
+      "start": 693.0,
+      "end": 695.0,
+      "text": " Og jeg synes, det er en fed måde at beskrive det på."
+    },
+    {
+      "start": 695.0,
+      "end": 697.0,
+      "text": " Narrative Violation, det betyder lige nu,"
+    },
+    {
+      "start": 697.0,
+      "end": 699.0,
+      "text": " der har vi et narrative, en fortælling,"
+    },
+    {
+      "start": 699.0,
+      "end": 701.0,
+      "text": " som vi alle sammen er enige om, som hedder AI ødelægger jobs."
+    },
+    {
+      "start": 701.0,
+      "end": 703.0,
+      "text": " Det er fortællingen, og det synes vi i Danmark,"
+    },
+    {
+      "start": 703.0,
+      "end": 705.0,
+      "text": " det synes vi i England, det synes vi i USA."
+    },
+    {
+      "start": 705.0,
+      "end": 707.0,
+      "text": " Hele verden siger, at AI ødelægger jobs."
+    },
+    {
+      "start": 707.0,
+      "end": 709.0,
+      "text": " De lavede det her post, hvor de siger"
+    },
+    {
+      "start": 709.0,
+      "end": 711.0,
+      "text": " Narrative Violation about."
+    },
+    {
+      "start": 711.0,
+      "end": 713.0,
+      "text": " Det vil sige, at nu kommer vi og bryder med det narrative,"
+    },
+    {
+      "start": 713.0,
+      "end": 715.0,
+      "text": " eller den fortælling, der er."
+    },
+    {
+      "start": 715.0,
+      "end": 717.0,
+      "text": " Og så viser de nogle interessante grafer,"
+    },
+    {
+      "start": 717.0,
+      "end": 719.0,
+      "text": " som f.eks."
+    },
+    {
+      "start": 719.0,
+      "end": 721.0,
+      "text": " Efterspørgselen efter softwareingeniører"
+    },
+    {
+      "start": 721.0,
+      "end": 723.0,
+      "text": " stiger i USA lige nu,"
+    },
+    {
+      "start": 723.0,
+      "end": 725.0,
+      "text": " og har gjort det det sidste halve år."
+    },
+    {
+      "start": 725.0,
+      "end": 727.0,
+      "text": " Softwareudviklere stiger,"
+    },
+    {
+      "start": 727.0,
+      "end": 729.0,
+      "text": " og har gjort det det sidste halve år."
+    },
+    {
+      "start": 729.0,
+      "end": 731.0,
+      "text": " Systemdesign og AI-exposed industrier"
+    },
+    {
+      "start": 731.0,
+      "end": 733.0,
+      "text": " eksploderer fuldstændigt i øjeblikket."
+    },
+    {
+      "start": 733.0,
+      "end": 735.0,
+      "text": " Selv PM, Project Manager jobs,"
+    },
+    {
+      "start": 735.0,
+      "end": 737.0,
+      "text": " siden 2022, stiger."
+    },
+    {
+      "start": 737.0,
+      "end": 739.0,
+      "text": " Og det var måske ikke lige det,"
+    },
+    {
+      "start": 739.0,
+      "end": 741.0,
+      "text": " man rent faktisk skulle tro."
+    },
+    {
+      "start": 741.0,
+      "end": 743.0,
+      "text": " Så der er jo også tegn på, at du faktisk"
+    },
+    {
+      "start": 743.0,
+      "end": 745.0,
+      "text": " har flere stillinger inden for nogle af de her områder."
+    },
+    {
+      "start": 745.0,
+      "end": 747.0,
+      "text": " Og jeg har ikke ud på, hvorfor."
+    },
+    {
+      "start": 747.0,
+      "end": 749.0,
+      "text": " Og det relaterer sig til det,"
+    },
+    {
+      "start": 749.0,
+      "end": 751.0,
+      "text": " der hedder Jevons Paradox."
+    },
+    {
+      "start": 751.0,
+      "end": 753.0,
+      "text": " Og jeg tror faktisk, jeg har nævnt det for dig før,"
+    },
+    {
+      "start": 753.0,
+      "end": 755.0,
+      "text": " Tine, kan du huske, hvad Jevons Paradox går ud på?"
+    },
+    {
+      "start": 755.0,
+      "end": 757.0,
+      "text": " Nej, prøv at høre."
+    },
+    {
+      "start": 757.0,
+      "end": 759.0,
+      "text": " Når du begynder at fortælle mig noget,"
+    },
+    {
+      "start": 759.0,
+      "end": 761.0,
+      "text": " så nikker jeg på de rigtige tidspunkter."
+    },
+    {
+      "start": 761.0,
+      "end": 763.0,
+      "text": " Det har jeg trods alt lært."
+    },
+    {
+      "start": 763.0,
+      "end": 765.0,
+      "text": " Men du ryger ind af det ene, og ud af det andet."
+    },
+    {
+      "start": 765.0,
+      "end": 767.0,
+      "text": " Du surrer fuldstændig ud."
+    },
+    {
+      "start": 767.0,
+      "end": 769.0,
+      "text": " Jeg kan se, der kører en YouTube-video på den anden skærm."
+    },
+    {
+      "start": 769.0,
+      "end": 771.0,
+      "text": " Vi tager lige et øjeblik til at forklare Jevons Paradox."
+    },
+    {
+      "start": 771.0,
+      "end": 773.0,
+      "text": " Jevons Paradox, det er faktisk"
+    },
+    {
+      "start": 773.0,
+      "end": 775.0,
+      "text": " et 160 år gammelt økonomisk paradoks."
+    },
+    {
+      "start": 775.0,
+      "end": 777.0,
+      "text": " Og det beskriver,"
+    },
+    {
+      "start": 777.0,
+      "end": 779.0,
+      "text": " hvordan efterspørgselen stiger,"
+    },
+    {
+      "start": 779.0,
+      "end": 781.0,
+      "text": " når noget bliver billigere."
+    },
+    {
+      "start": 781.0,
+      "end": 783.0,
+      "text": " Og det kan være lidt sjovt at tænke,"
+    },
+    {
+      "start": 783.0,
+      "end": 785.0,
+      "text": " når noget bliver mere tilgængeligt,"
+    },
+    {
+      "start": 785.0,
+      "end": 787.0,
+      "text": " når der kommer mere af noget."
+    },
+    {
+      "start": 787.0,
+      "end": 789.0,
+      "text": " Et godt eksempel på det her,"
+    },
+    {
+      "start": 789.0,
+      "end": 791.0,
+      "text": " det er, hvis du har en tordsporet motorvej."
+    },
+    {
+      "start": 791.0,
+      "end": 793.0,
+      "text": " Tænk den fynske motorvej lige nu,"
+    },
+    {
+      "start": 793.0,
+      "end": 795.0,
+      "text": " som jeg har været under udvidelse i 400 år,"
+    },
+    {
+      "start": 795.0,
+      "end": 797.0,
+      "text": " og de bliver aldrig nogensinde færdige."
+    },
+    {
+      "start": 797.0,
+      "end": 799.0,
+      "text": " Den er tordsporet meget af strækningen."
+    },
+    {
+      "start": 799.0,
+      "end": 801.0,
+      "text": " Derfor har man besluttet sig for at lave"
+    },
+    {
+      "start": 801.0,
+      "end": 803.0,
+      "text": " et tredje spor i hver retning på den fynske motorvej."
+    },
+    {
+      "start": 803.0,
+      "end": 805.0,
+      "text": " Hvad tror du, der sker, når man laver et spor mere på motorvejen?"
+    },
+    {
+      "start": 805.0,
+      "end": 807.0,
+      "text": " Folk skulle jo gerne komme hurtigere frem,"
+    },
+    {
+      "start": 807.0,
+      "end": 809.0,
+      "text": " men jeg tror, du vil frem til,"
+    },
+    {
+      "start": 809.0,
+      "end": 811.0,
+      "text": " at der kommer flere biler."
+    },
+    {
+      "start": 811.0,
+      "end": 813.0,
+      "text": " Der kommer nemlig flere biler."
+    },
+    {
+      "start": 813.0,
+      "end": 815.0,
+      "text": " Man tænker, der er for mange biler,"
+    },
+    {
+      "start": 815.0,
+      "end": 817.0,
+      "text": " så nu laver vi nogle flere spor på motorvejen,"
+    },
+    {
+      "start": 817.0,
+      "end": 819.0,
+      "text": " og derfor kommer bilerne hurtigere frem."
+    },
+    {
+      "start": 819.0,
+      "end": 821.0,
+      "text": " Det, der sker i realiteten,"
+    },
+    {
+      "start": 821.0,
+      "end": 823.0,
+      "text": " når man bygger flere spor på motorvejen,"
+    },
+    {
+      "start": 823.0,
+      "end": 825.0,
+      "text": " det er, at så kommer der flere biler,"
+    },
+    {
+      "start": 825.0,
+      "end": 827.0,
+      "text": " og hvis du bare bliver ved med at gøre det,"
+    },
+    {
+      "start": 827.0,
+      "end": 829.0,
+      "text": " så ender du med Los Angeles,"
+    },
+    {
+      "start": 829.0,
+      "end": 831.0,
+      "text": " hvor du har måske syv spor på motorvejen,"
+    },
+    {
+      "start": 831.0,
+      "end": 833.0,
+      "text": " og der har aldrig været flere biler,"
+    },
+    {
+      "start": 833.0,
+      "end": 835.0,
+      "text": " og det har aldrig været sværere at komme frem,"
+    },
+    {
+      "start": 835.0,
+      "end": 837.0,
+      "text": " end det er lige nu."
+    },
+    {
+      "start": 837.0,
+      "end": 839.0,
+      "text": " Det er det, Jevons Paradox handler om."
+    },
+    {
+      "start": 839.0,
+      "end": 841.0,
+      "text": " Når noget bliver mere tilgængeligt eller billigere,"
+    },
+    {
+      "start": 841.0,
+      "end": 843.0,
+      "text": " når olieprisen stiger,"
+    },
+    {
+      "start": 843.0,
+      "end": 845.0,
+      "text": " så bruger vi mindre olie."
+    },
+    {
+      "start": 845.0,
+      "end": 847.0,
+      "text": " Flyselskaberne aflyser deres fly,"
+    },
+    {
+      "start": 847.0,
+      "end": 849.0,
+      "text": " fordi de mindre økonomisk vejrbåler,"
+    },
+    {
+      "start": 849.0,
+      "end": 851.0,
+      "text": " de bliver ikke længere profitabele at flyve,"
+    },
+    {
+      "start": 851.0,
+      "end": 853.0,
+      "text": " så vi får færre flyvninger, når olieprisen stiger."
+    },
+    {
+      "start": 853.0,
+      "end": 855.0,
+      "text": " Hvad sker, når olieprisen falder?"
+    },
+    {
+      "start": 855.0,
+      "end": 857.0,
+      "text": " Vi boller hele lortet af."
+    },
+    {
+      "start": 857.0,
+      "end": 859.0,
+      "text": " Flybilletterne falder i pris,"
+    },
+    {
+      "start": 859.0,
+      "end": 861.0,
+      "text": " der åbner nye ruter,"
+    },
+    {
+      "start": 861.0,
+      "end": 863.0,
+      "text": " vi giver dem bare gas, fordi nu olien billigere."
+    },
+    {
+      "start": 863.0,
+      "end": 865.0,
+      "text": " Når noget koster mere og er mindre tilgængeligt,"
+    },
+    {
+      "start": 865.0,
+      "end": 867.0,
+      "text": " bruger vi mindre af det."
+    },
+    {
+      "start": 867.0,
+      "end": 869.0,
+      "text": " Når det bliver billigere og mere tilgængeligt,"
+    },
+    {
+      "start": 869.0,
+      "end": 871.0,
+      "text": " så bruger vi mindre af det."
+    },
+    {
+      "start": 871.0,
+      "end": 873.0,
+      "text": " Det, der sker lige nu,"
+    },
+    {
+      "start": 873.0,
+      "end": 875.0,
+      "text": " det er, at vi har en eksplosion i large language models og innovation."
+    },
+    {
+      "start": 875.0,
+      "end": 877.0,
+      "text": " Anthropic kommer hele tiden med nye ting."
+    },
+    {
+      "start": 877.0,
+      "end": 879.0,
+      "text": " OpenAI kommer hele tiden med nye ting."
+    },
+    {
+      "start": 879.0,
+      "end": 881.0,
+      "text": " Google er lige kommet med 3,5."
+    },
+    {
+      "start": 881.0,
+      "end": 883.0,
+      "text": " I går aftes, som er den nye Omni-model,"
+    },
+    {
+      "start": 883.0,
+      "end": 885.0,
+      "text": " priserne på tokens falder og falder og falder."
+    },
+    {
+      "start": 885.0,
+      "end": 887.0,
+      "text": " priserne på tokens falder og falder og falder."
+    },
+    {
+      "start": 887.0,
+      "end": 889.0,
+      "text": " Vi havde et interessant øjeblik i starten af 2025."
+    },
+    {
+      "start": 889.0,
+      "end": 891.0,
+      "text": " Kan du huske, da DeepSeek kom ud fra Kina?"
+    },
+    {
+      "start": 891.0,
+      "end": 893.0,
+      "text": " Vi snakker om det her DeepSeek moment,"
+    },
+    {
+      "start": 893.0,
+      "end": 895.0,
+      "text": " fordi Nvidia's aktiekurs"
+    },
+    {
+      "start": 895.0,
+      "end": 897.0,
+      "text": " faldt faktisk rigtig meget,"
+    },
+    {
+      "start": 897.0,
+      "end": 899.0,
+      "text": " da DeepSeek kom ud."
+    },
+    {
+      "start": 899.0,
+      "end": 901.0,
+      "text": " Det var, fordi man tænkte, at her kommer der en kinesisk model,"
+    },
+    {
+      "start": 901.0,
+      "end": 903.0,
+      "text": " der faktisk er næsten lige så god som alle de andre,"
+    },
+    {
+      "start": 903.0,
+      "end": 905.0,
+      "text": " men den koster meget mindre."
+    },
+    {
+      "start": 905.0,
+      "end": 907.0,
+      "text": " Det er jo et kæmpe problem for Nvidia."
+    },
+    {
+      "start": 907.0,
+      "end": 909.0,
+      "text": " Det er jo et kæmpe problem for Nvidia."
+    },
+    {
+      "start": 909.0,
+      "end": 911.0,
+      "text": " Man kan faktisk se det på deres aktiekurs."
+    },
+    {
+      "start": 911.0,
+      "end": 913.0,
+      "text": " Man kan faktisk se det på deres aktiekurs."
+    },
+    {
+      "start": 913.0,
+      "end": 915.0,
+      "text": " Nu kommer der nogle grønne tal-tidninger."
+    },
+    {
+      "start": 915.0,
+      "end": 917.0,
+      "text": " Nu kommer der nogle grønne tal-tidninger."
+    },
+    {
+      "start": 917.0,
+      "end": 919.0,
+      "text": " Nu kommer der nogle grønne tal-tidninger."
+    },
+    {
+      "start": 919.0,
+      "end": 921.0,
+      "text": " Hvis man tager Nvidia's aktiekurs,"
+    },
+    {
+      "start": 921.0,
+      "end": 923.0,
+      "text": " det er her i starten af 2025,"
+    },
+    {
+      "start": 923.0,
+      "end": 925.0,
+      "text": " der knækker den,"
+    },
+    {
+      "start": 925.0,
+      "end": 927.0,
+      "text": " og den mister faktisk en fjerdedel af sin værdi."
+    },
+    {
+      "start": 927.0,
+      "end": 929.0,
+      "text": " Det var, da DeepSeek R2 kom ud,"
+    },
+    {
+      "start": 929.0,
+      "end": 931.0,
+      "text": " Det var, da DeepSeek R2 kom ud,"
+    },
+    {
+      "start": 931.0,
+      "end": 933.0,
+      "text": " og man tænkte, at nu er der en kinesisk model,"
+    },
+    {
+      "start": 933.0,
+      "end": 935.0,
+      "text": " der er meget billigere end alle de andre,"
+    },
+    {
+      "start": 935.0,
+      "end": 937.0,
+      "text": " så nu har folk slet ikke brug for at bruge lige så mange Nvidia-chips."
+    },
+    {
+      "start": 937.0,
+      "end": 939.0,
+      "text": " Så derfor kommer Nvidia's aktiekurs til at falde."
+    },
+    {
+      "start": 939.0,
+      "end": 941.0,
+      "text": " Tino, hvad er der sket, siden den faldt i starten af 2025?"
+    },
+    {
+      "start": 941.0,
+      "end": 943.0,
+      "text": " Tino, hvad er der sket, siden den faldt i starten af 2025?"
+    },
+    {
+      "start": 943.0,
+      "end": 945.0,
+      "text": " Jeg er sålt af mig, så er begyndt at stige."
+    },
+    {
+      "start": 945.0,
+      "end": 947.0,
+      "text": " Jeg er sålt af mig, så er begyndt at stige."
+    },
+    {
+      "start": 947.0,
+      "end": 949.0,
+      "text": " Jeg er sålt af mig, så er begyndt at stige."
+    },
+    {
+      "start": 949.0,
+      "end": 951.0,
+      "text": " Det er godt, hvad du siger, det her er en DeepSeek moment."
+    },
+    {
+      "start": 951.0,
+      "end": 953.0,
+      "text": " Jeg tænker mere, det er en Tino moment,"
+    },
+    {
+      "start": 953.0,
+      "end": 955.0,
+      "text": " for det passer sgu meget godt med, hvornår jeg har ad dem."
+    },
+    {
+      "start": 955.0,
+      "end": 957.0,
+      "text": " Den er fordoblet."
+    },
+    {
+      "start": 957.0,
+      "end": 959.0,
+      "text": " Og selvfølgelig er den det, fordi i det øjeblik,"
+    },
+    {
+      "start": 959.0,
+      "end": 961.0,
+      "text": " AI bliver bedre og billigere og mere tilgængelig,"
+    },
+    {
+      "start": 961.0,
+      "end": 963.0,
+      "text": " så bruger du det til flere ting."
+    },
+    {
+      "start": 963.0,
+      "end": 965.0,
+      "text": " Og jeg har faktisk et meget konkret indsendt eksempel i Obsidian."
+    },
+    {
+      "start": 965.0,
+      "end": 967.0,
+      "text": " Altså, vi overvejer."
+    },
+    {
+      "start": 967.0,
+      "end": 969.0,
+      "text": " Vi har aldrig bygget software til os selv."
+    },
+    {
+      "start": 969.0,
+      "end": 971.0,
+      "text": " Det gør vi lige nu. Vi er i gang med at bygge vores eget Obsidian OS,"
+    },
+    {
+      "start": 971.0,
+      "end": 973.0,
+      "text": " som laver standardiserede opgaver og hæver bundniveauet,"
+    },
+    {
+      "start": 973.0,
+      "end": 975.0,
+      "text": " og det er mega fedt at arbejde med,"
+    },
+    {
+      "start": 975.0,
+      "end": 977.0,
+      "text": " og det er måske den største prioritet i Obsidian lige nu."
+    },
+    {
+      "start": 977.0,
+      "end": 979.0,
+      "text": " Vi har overvejet for første gang nogensinde"
+    },
+    {
+      "start": 979.0,
+      "end": 981.0,
+      "text": " at ansætte en indsendt softwareudvikler,"
+    },
+    {
+      "start": 981.0,
+      "end": 983.0,
+      "text": " som kun skal arbejde på vores egen ting."
+    },
+    {
+      "start": 983.0,
+      "end": 985.0,
+      "text": " Vi har været i gang i 10 år. Det har vi aldrig gjort før."
+    },
+    {
+      "start": 985.0,
+      "end": 987.0,
+      "text": " Der har aldrig været mere AI, end der er lige nu,"
+    },
+    {
+      "start": 987.0,
+      "end": 989.0,
+      "text": " og det er nu, vi overvejer at gøre det for første gang."
+    },
+    {
+      "start": 989.0,
+      "end": 991.0,
+      "text": " Og det er, fordi AI er lige pludselig blevet så god, så tilgængelig,"
+    },
+    {
+      "start": 991.0,
+      "end": 993.0,
+      "text": " så billig, at nu giver det mening."
+    },
+    {
+      "start": 993.0,
+      "end": 995.0,
+      "text": " Og det er jo et Narrative Violation."
+    },
+    {
+      "start": 995.0,
+      "end": 997.0,
+      "text": " Vi er på vej til måske at ansætte vores første udvikler."
+    },
+    {
+      "start": 997.0,
+      "end": 999.0,
+      "text": " Det har vi aldrig gjort, hvis ikke det her, det var sket,"
+    },
+    {
+      "start": 999.0,
+      "end": 1001.0,
+      "text": " for nu er det nede i et prisleje, hvor det rent faktisk kan mene for os,"
+    },
+    {
+      "start": 1001.0,
+      "end": 1003.0,
+      "text": " at begynde at lave nogle ting."
+    },
+    {
+      "start": 1003.0,
+      "end": 1005.0,
+      "text": " Og det er den, jeg synes, folk oversætter nogle gange."
+    },
+    {
+      "start": 1005.0,
+      "end": 1007.0,
+      "text": " Må jeg prøve at komme med et eksempel,"
+    },
+    {
+      "start": 1007.0,
+      "end": 1009.0,
+      "text": " jeg lige kom i tanke om nu, mens du fortalte det her eksempel."
+    },
+    {
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": " Nu prøver vi bare lige, for jeg har ikke tænkt den til ende."
+    },
+    {
+      "start": 1011.0,
+      "end": 1013.0,
+      "text": " Men jeg ansætter mange Marketing Managers,"
+    },
+    {
+      "start": 1013.0,
+      "end": 1015.0,
+      "text": " Ecomanagers derude, for eksempel,"
+    },
+    {
+      "start": 1015.0,
+      "end": 1017.0,
+      "text": " der sidder og lytter med."
+    },
+    {
+      "start": 1017.0,
+      "end": 1019.0,
+      "text": " Og lad os bare lige lege med tanken om,"
+    },
+    {
+      "start": 1019.0,
+      "end": 1021.0,
+      "text": " at man har en forretning, man arbejder i."
+    },
+    {
+      "start": 1021.0,
+      "end": 1023.0,
+      "text": " Man er lige nu til stede i et land."
+    },
+    {
+      "start": 1023.0,
+      "end": 1025.0,
+      "text": " Det er Danmark."
+    },
+    {
+      "start": 1025.0,
+      "end": 1027.0,
+      "text": " Og man er lige nu to ansatte om at håndtere det her pågældende land."
+    },
+    {
+      "start": 1027.0,
+      "end": 1029.0,
+      "text": " Det vil sige,"
+    },
+    {
+      "start": 1029.0,
+      "end": 1031.0,
+      "text": " opdatere produktbeskrivelser, sørge for, at weapon den spiller,"
+    },
+    {
+      "start": 1031.0,
+      "end": 1033.0,
+      "text": " sørge for, at der kommer opslag på Facebook,"
+    },
+    {
+      "start": 1033.0,
+      "end": 1035.0,
+      "text": " osv. osv. osv."
+    },
+    {
+      "start": 1035.0,
+      "end": 1037.0,
+      "text": " Ja, på den korte bane,"
+    },
+    {
+      "start": 1037.0,
+      "end": 1039.0,
+      "text": " så vil man nok kun have brug for en."
+    },
+    {
+      "start": 1039.0,
+      "end": 1041.0,
+      "text": " Fordi alt det her, det kan gøres"
+    },
+    {
+      "start": 1041.0,
+      "end": 1043.0,
+      "text": " i høj grad ved hjælp af AI,"
+    },
+    {
+      "start": 1043.0,
+      "end": 1045.0,
+      "text": " hvor der er en, der sidder og orkestrerer det."
+    },
+    {
+      "start": 1045.0,
+      "end": 1047.0,
+      "text": " Men, hvis vi tager udgangspunkt i det, som Halvstanden lige har sagt,"
+    },
+    {
+      "start": 1047.0,
+      "end": 1049.0,
+      "text": " så kunne man jo godt forestille sig,"
+    },
+    {
+      "start": 1049.0,
+      "end": 1051.0,
+      "text": " at den her forretning, der tidligere kun var i ét marked,"
+    },
+    {
+      "start": 1051.0,
+      "end": 1053.0,
+      "text": " pludselig ser mulighed for,"
+    },
+    {
+      "start": 1053.0,
+      "end": 1055.0,
+      "text": " at komme ud på syv markeder på én gang."
+    },
+    {
+      "start": 1055.0,
+      "end": 1057.0,
+      "text": " Fordi tidligere, der kostede det altså rigtig mange penge."
+    },
+    {
+      "start": 1057.0,
+      "end": 1059.0,
+      "text": " Det var ressourcekrævende."
+    },
+    {
+      "start": 1059.0,
+      "end": 1061.0,
+      "text": " Du skulle til at have oversat hele Moldevilden, og det kostede mange penge."
+    },
+    {
+      "start": 1061.0,
+      "end": 1063.0,
+      "text": " Uh, nej, nej, nej."
+    },
+    {
+      "start": 1063.0,
+      "end": 1065.0,
+      "text": " Men i dag, der vil man jo rent faktisk ved hjælp af AI"
+    },
+    {
+      "start": 1065.0,
+      "end": 1067.0,
+      "text": " kunne orkestrere sig til at åbne op på tværs af nye markeder."
+    },
+    {
+      "start": 1067.0,
+      "end": 1069.0,
+      "text": " Og det er her, hvor den her ekstra medarbejder"
+    },
+    {
+      "start": 1069.0,
+      "end": 1071.0,
+      "text": " bliver guld værd."
+    },
+    {
+      "start": 1071.0,
+      "end": 1073.0,
+      "text": " Fordi det kræver noget orkestrering."
+    },
+    {
+      "start": 1073.0,
+      "end": 1075.0,
+      "text": " Der er også et limit på, hvor meget man kan orkestrere en mand."
+    },
+    {
+      "start": 1075.0,
+      "end": 1077.0,
+      "text": " Jeg tror, hvis man sådan kan perspektivere det lidt over til det,"
+    },
+    {
+      "start": 1077.0,
+      "end": 1079.0,
+      "text": " at ja, på kort sigt er der måske lidt her."
+    },
+    {
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " Men i og med, at virksomhederne finder ud af,"
+    },
+    {
+      "start": 1081.0,
+      "end": 1083.0,
+      "text": " at det output, de kan få, bliver markant billigere."
+    },
+    {
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": " For det gør det i sidste ende."
+    },
+    {
+      "start": 1085.0,
+      "end": 1087.0,
+      "text": " Og her tænker jeg ikke på lønningerne til den enkelte,"
+    },
+    {
+      "start": 1087.0,
+      "end": 1089.0,
+      "text": " men lønningerne i sin helhed."
+    },
+    {
+      "start": 1089.0,
+      "end": 1091.0,
+      "text": " For det output, man får, altså kommer ud i syv forskellige lande"
+    },
+    {
+      "start": 1091.0,
+      "end": 1093.0,
+      "text": " ved hjælp af to medarbejdere,"
+    },
+    {
+      "start": 1093.0,
+      "end": 1095.0,
+      "text": " som håndterede ét land tidligere."
+    },
+    {
+      "start": 1095.0,
+      "end": 1097.0,
+      "text": " Ved du hvad, den er sgu meget godt tilfreds med det eksempel."
+    },
+    {
+      "start": 1097.0,
+      "end": 1099.0,
+      "text": " Det gik sgu bedre, end jeg lige havde regnet med."
+    },
+    {
+      "start": 1099.0,
+      "end": 1101.0,
+      "text": " Folk skal jo vide, at nogle gange,"
+    },
+    {
+      "start": 1101.0,
+      "end": 1103.0,
+      "text": " så kommer det til et eller andet ramble,"
+    },
+    {
+      "start": 1103.0,
+      "end": 1105.0,
+      "text": " hvor vi godt kan se, at den ender ikke i et godt sted."
+    },
+    {
+      "start": 1105.0,
+      "end": 1107.0,
+      "text": " Og så stopper vi, og så klipper jeg det ud af podcastet,"
+    },
+    {
+      "start": 1107.0,
+      "end": 1109.0,
+      "text": " fordi det er jo ikke, fordi jeg prøver at få Christian Tineu"
+    },
+    {
+      "start": 1109.0,
+      "end": 1111.0,
+      "text": " til at se dårlig ud."
+    },
+    {
+      "start": 1111.0,
+      "end": 1113.0,
+      "text": " Det kunne jeg aldrig finde på."
+    },
+    {
+      "start": 1113.0,
+      "end": 1115.0,
+      "text": " Ja, det skulle det være første gang."
+    },
+    {
+      "start": 1115.0,
+      "end": 1117.0,
+      "text": " Ja, præcis."
+    },
+    {
+      "start": 1117.0,
+      "end": 1119.0,
+      "text": " Lad os hoppe videre til det næste emne."
+    },
+    {
+      "start": 1119.0,
+      "end": 1121.0,
+      "text": " Det hedder, okay, hvad fanden kan du så gøre ved det?"
+    },
+    {
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": " Og jeg har lavet en handy illustration,"
+    },
+    {
+      "start": 1123.0,
+      "end": 1125.0,
+      "text": " som jeg godt kunne tænke mig at vise."
+    },
+    {
+      "start": 1125.0,
+      "end": 1127.0,
+      "text": " Og jeg har lavet en VR-jagt."
+    },
+    {
+      "start": 1127.0,
+      "end": 1129.0,
+      "text": " Og det er en VR-jagt, som jeg har lavet,"
+    },
+    {
+      "start": 1129.0,
+      "end": 1131.0,
+      "text": " og det er en VR-jagt,"
+    },
+    {
+      "start": 1131.0,
+      "end": 1133.0,
+      "text": " og jeg har lavet en VR-jagt."
+    },
+    {
+      "start": 1133.0,
+      "end": 1135.0,
+      "text": " Jeg har lavet en matrise, der hedder,"
+    },
+    {
+      "start": 1135.0,
+      "end": 1137.0,
+      "text": " er AI godt eller skidt for dit job?"
+    },
+    {
+      "start": 1137.0,
+      "end": 1139.0,
+      "text": " Fordi det her, det er sådan, jeg ser verden,"
+    },
+    {
+      "start": 1139.0,
+      "end": 1141.0,
+      "text": " og det er også sådan, jeg har observeret tingene,"
+    },
+    {
+      "start": 1141.0,
+      "end": 1143.0,
+      "text": " der sker inde i Obsidian og hos vores kunder."
+    },
+    {
+      "start": 1143.0,
+      "end": 1145.0,
+      "text": " Der er to akser, du kan være på."
+    },
+    {
+      "start": 1145.0,
+      "end": 1147.0,
+      "text": " Den ene akse, det er, om du er god til at bruge AI,"
+    },
+    {
+      "start": 1147.0,
+      "end": 1149.0,
+      "text": " eller om du er dårlig til at bruge AI."
+    },
+    {
+      "start": 1149.0,
+      "end": 1151.0,
+      "text": " Så er den anden akse, det er,"
+    },
+    {
+      "start": 1151.0,
+      "end": 1153.0,
+      "text": " om du er glad for at bruge det, altså du opsøger det,"
+    },
+    {
+      "start": 1153.0,
+      "end": 1155.0,
+      "text": " og gerne vil. Og den anden akse,"
+    },
+    {
+      "start": 1155.0,
+      "end": 1157.0,
+      "text": " det er, okay, jeg nægter at bruge AI."
+    },
+    {
+      "start": 1157.0,
+      "end": 1159.0,
+      "text": " Og det giver fire forskellige udfaldsrum."
+    },
+    {
+      "start": 1159.0,
+      "end": 1161.0,
+      "text": " Vi tager det udfaldsrum, der hedder, du nægter at bruge AI,"
+    },
+    {
+      "start": 1161.0,
+      "end": 1163.0,
+      "text": " og du er dårlig til det. Jeg har dårlige nyheder, min ven,"
+    },
+    {
+      "start": 1163.0,
+      "end": 1165.0,
+      "text": " det bliver fandme svært. Du kommer sgu nok til at tage dit job."
+    },
+    {
+      "start": 1165.0,
+      "end": 1167.0,
+      "text": " Det kommer til at ske før eller senere."
+    },
+    {
+      "start": 1167.0,
+      "end": 1169.0,
+      "text": " Den største udfordring her, det er ikke, om du er god eller dårlig til det,"
+    },
+    {
+      "start": 1169.0,
+      "end": 1171.0,
+      "text": " det er, hvis du bare nægter konsekvent at bruge det,"
+    },
+    {
+      "start": 1171.0,
+      "end": 1173.0,
+      "text": " så har du en udfordring. Og det her, det ser jeg"
+    },
+    {
+      "start": 1173.0,
+      "end": 1175.0,
+      "text": " i rigtig mange brancher. Typisk folk,"
+    },
+    {
+      "start": 1175.0,
+      "end": 1177.0,
+      "text": " som er provokeret af,"
+    },
+    {
+      "start": 1177.0,
+      "end": 1179.0,
+      "text": " at AI gør noget næsten lige så godt,"
+    },
+    {
+      "start": 1179.0,
+      "end": 1181.0,
+      "text": " som de har gjort tidligere. Ja, vi har blandt andet"
+    },
+    {
+      "start": 1181.0,
+      "end": 1183.0,
+      "text": " set det her med sure tekstforfatter,"
+    },
+    {
+      "start": 1183.0,
+      "end": 1185.0,
+      "text": " designer, animator,"
+    },
+    {
+      "start": 1189.0,
+      "end": 1191.0,
+      "text": " nogen, der kunne finde på at lave det her med en AI,"
+    },
+    {
+      "start": 1191.0,
+      "end": 1193.0,
+      "text": " i stedet for at købe det ved dem, og så nægter det,"
+    },
+    {
+      "start": 1193.0,
+      "end": 1195.0,
+      "text": " sådan at bruge det. Det er den helt forkerte"
+    },
+    {
+      "start": 1195.0,
+      "end": 1197.0,
+      "text": " tilgang. Den er enormt kortsigtet. Jeg forstår godt"
+    },
+    {
+      "start": 1197.0,
+      "end": 1199.0,
+      "text": " frustrationen, men det er ikke en kamp, du kommer til"
+    },
+    {
+      "start": 1199.0,
+      "end": 1201.0,
+      "text": " at vinde det der. Altså, jeg tror helt ærligt,"
+    },
+    {
+      "start": 1201.0,
+      "end": 1203.0,
+      "text": " så tror jeg, at om nogle år, der kommer man til at kigge"
+    },
+    {
+      "start": 1203.0,
+      "end": 1205.0,
+      "text": " tilbage på det, og så sige, jamen, det svarer lidt"
+    },
+    {
+      "start": 1205.0,
+      "end": 1207.0,
+      "text": " til, at man for 20-30 år siden nægter at bruge en computer"
+    },
+    {
+      "start": 1207.0,
+      "end": 1209.0,
+      "text": " til sit arbejde."
+    },
+    {
+      "start": 1209.0,
+      "end": 1211.0,
+      "text": " Du arbejder med tal,"
+    },
+    {
+      "start": 1211.0,
+      "end": 1213.0,
+      "text": " og du nægter at bruge Excel. Jamen, så lykkes det lige så godt,"
+    },
+    {
+      "start": 1214.0,
+      "end": 1216.0,
+      "text": " Så er der en anden, der hedder nægter at bruge AI,"
+    },
+    {
+      "start": 1216.0,
+      "end": 1218.0,
+      "text": " men du er faktisk god til det. Jeg har lavet en emoji"
+    },
+    {
+      "start": 1218.0,
+      "end": 1220.0,
+      "text": " til det her scenario, Tino."
+    },
+    {
+      "start": 1220.0,
+      "end": 1222.0,
+      "text": " Kan du forklare, hvad er det,"
+    },
+    {
+      "start": 1222.0,
+      "end": 1224.0,
+      "text": " der sker, hvis du nægter at bruge det,"
+    },
+    {
+      "start": 1224.0,
+      "end": 1226.0,
+      "text": " selvom du er god til det? Ja, men det er en lidt"
+    },
+    {
+      "start": 1226.0,
+      "end": 1228.0,
+      "text": " krummrykket mand, der"
+    },
+    {
+      "start": 1228.0,
+      "end": 1230.0,
+      "text": " sådan rent filmisk går"
+    },
+    {
+      "start": 1230.0,
+      "end": 1232.0,
+      "text": " med en papkasse, og man skal sådan"
+    },
+    {
+      "start": 1232.0,
+      "end": 1234.0,
+      "text": " forestille sig, at de har amerikanske film, hvor"
+    },
+    {
+      "start": 1234.0,
+      "end": 1236.0,
+      "text": " når man bliver fyret, så skal man hen og hente alle sine ting"
+    },
+    {
+      "start": 1236.0,
+      "end": 1238.0,
+      "text": " i sådan en sørgelig papkasse, og så går man ud, mens alle"
+    },
+    {
+      "start": 1238.0,
+      "end": 1240.0,
+      "text": " kigger på en. Det er et super"
+    },
+    {
+      "start": 1240.0,
+      "end": 1242.0,
+      "text": " ydmygende ritual, det der, de har."
+    },
+    {
+      "start": 1242.0,
+      "end": 1244.0,
+      "text": " Men man kan jo godt forestille sig billedet, for du har sådan set"
+    },
+    {
+      "start": 1244.0,
+      "end": 1246.0,
+      "text": " det i filmen, den der papkasse, du går rundt med, og så ligger der"
+    },
+    {
+      "start": 1246.0,
+      "end": 1248.0,
+      "text": " billeder af dine børn inde i, og så skal du"
+    },
+    {
+      "start": 1248.0,
+      "end": 1250.0,
+      "text": " gå ud af bygningen med det. Jeg har aldrig forstået det der."
+    },
+    {
+      "start": 1250.0,
+      "end": 1252.0,
+      "text": " Nej. Men jeg bad AI"
+    },
+    {
+      "start": 1252.0,
+      "end": 1254.0,
+      "text": " om at generere en emoji med en person, der er ved at blive"
+    },
+    {
+      "start": 1254.0,
+      "end": 1256.0,
+      "text": " fyret, og det gjorde den."
+    },
+    {
+      "start": 1256.0,
+      "end": 1258.0,
+      "text": " Og min point er det her, det er, at"
+    },
+    {
+      "start": 1258.0,
+      "end": 1260.0,
+      "text": " om du er god til det, eller dårlig til det,"
+    },
+    {
+      "start": 1260.0,
+      "end": 1262.0,
+      "text": " hvis du nægter at bruge det, det er faktisk lige meget."
+    },
+    {
+      "start": 1262.0,
+      "end": 1264.0,
+      "text": " Du ender det samme sted. Hvis vi så"
+    },
+    {
+      "start": 1264.0,
+      "end": 1266.0,
+      "text": " tager den modsatte, du er glad for at bruge AI,"
+    },
+    {
+      "start": 1266.0,
+      "end": 1268.0,
+      "text": " men du er dårlig til det, den har jeg givet en"
+    },
+    {
+      "start": 1268.0,
+      "end": 1270.0,
+      "text": " og det er fordi, vi er alle sammen"
+    },
+    {
+      "start": 1270.0,
+      "end": 1272.0,
+      "text": " dårlige til at bruge AI lige nu. Fuck om du er"
+    },
+    {
+      "start": 1272.0,
+      "end": 1274.0,
+      "text": " god eller dårlig til det. Det er så"
+    },
+    {
+      "start": 1274.0,
+      "end": 1276.0,
+      "text": " tidligt. Vi er så dårlige alle sammen."
+    },
+    {
+      "start": 1276.0,
+      "end": 1278.0,
+      "text": " Om du vil det, er afgørende."
+    },
+    {
+      "start": 1278.0,
+      "end": 1280.0,
+      "text": " Om du kan det, det kan du fandme lære."
+    },
+    {
+      "start": 1280.0,
+      "end": 1282.0,
+      "text": " Jeg vil være den påstand, at hvis du sætter,"
+    },
+    {
+      "start": 1282.0,
+      "end": 1284.0,
+      "text": " hvis du vælger det her, det vil du."
+    },
+    {
+      "start": 1284.0,
+      "end": 1286.0,
+      "text": " Og jeg vil være god til det, og det skal være min ting."
+    },
+    {
+      "start": 1286.0,
+      "end": 1288.0,
+      "text": " Og du bare gør det."
+    },
+    {
+      "start": 1318.0,
+      "end": 1324.8,
+      "text": " I to uger intensivt, så er du bedre end næsten alle andre allerede, fordi det handler om at prioritere det."
+    },
+    {
+      "start": 1324.8,
+      "end": 1328.8,
+      "text": " Vi afholdte et webinar for to uger siden med 1500 deltagere."
+    },
+    {
+      "start": 1328.8,
+      "end": 1336.3,
+      "text": " Før det webinar, der sendte jeg en mail ud til samtlige deltagere, og så spurgte jeg, hvad er det, der lige nu holder dig fra at bruge AI mere?"
+    },
+    {
+      "start": 1336.3,
+      "end": 1341.8,
+      "text": " Fordi jeg tænkte, jeg kunne måske få nogle gode input eller tekniske problemstillinger eller et eller andet, som vi kunne tage med i webinaret."
+    },
+    {
+      "start": 1341.8,
+      "end": 1346.8,
+      "text": " Og der var især to ting, folk de sagde, der holdt dem fra at bruge AI mere, end de gør lige nu."
+    },
+    {
+      "start": 1346.8,
+      "end": 1352.1,
+      "text": " Den ene ting, det var alt omkring legal, og det er selvfølgelig en lidt ærgerlig undskyldning."
+    },
+    {
+      "start": 1352.1,
+      "end": 1358.8,
+      "text": " Altså alt omkring legal og må vi overhovedet det her, og datasikkerhed og alle de der ting, og det kommer det her podcast ikke til at handle om."
+    },
+    {
+      "start": 1358.8,
+      "end": 1365.8,
+      "text": " Den anden, det var tid, og selvfølgelig er det tid, fordi du er nødt til at prioritere det her, og det er jo det, der er så mega svært."
+    },
+    {
+      "start": 1365.8,
+      "end": 1371.8,
+      "text": " Så der var måske halvdelen af svaren, der siger, tid til at sætte mig ind i det, men vi har alle sammen de samme 24 timer til rådighed."
+    },
+    {
+      "start": 1371.8,
+      "end": 1377.8,
+      "text": " Og det må bare ikke være en undskyldning, fordi om du frigør tid til det eller ej, det er din egen beslutning, vi har de samme 24 timer."
+    },
+    {
+      "start": 1377.8,
+      "end": 1381.8,
+      "text": " Man er bare nødt til at gøre det. Man er nødt til at gøre det her til en prioritet."
+    },
+    {
+      "start": 1381.8,
+      "end": 1385.8,
+      "text": " Men det er også lidt sjovt halvdelen ikke, fordi man går igennem uddannelsessystemet."
+    },
+    {
+      "start": 1385.8,
+      "end": 1391.8,
+      "text": " Rigtig mange gør i hvert fald, for at komme ud og få et arbejde, så har man investeret sin egen tid, mens man er på SU,"
+    },
+    {
+      "start": 1391.8,
+      "end": 1397.8,
+      "text": " og måske har et studiejob, og har lidt svært ved at få tingene til at mødes, for så at investere den tid, i at man kan komme ud og få et arbejde."
+    },
+    {
+      "start": 1397.8,
+      "end": 1403.8,
+      "text": " Og så er det som om, at mange giver slip derefter, så er det ikke deres egen, hvad skal man sige,"
+    },
+    {
+      "start": 1403.8,
+      "end": 1408.8,
+      "text": " så er det ikke dem selv, der står for at skulle videreudvikle sine kompetencer, så det passer til jobmarkeden."
+    },
+    {
+      "start": 1408.8,
+      "end": 1411.8,
+      "text": " Ej, det må arbejdsgivere i øvrigt håbe, man sørger for."
+    },
+    {
+      "start": 1411.8,
+      "end": 1418.8,
+      "text": " Det er sådan lidt for skroet, jeg har ikke rigtig forstået den tankegang, og nu forstår jeg også godt, at du og jeg er jo vokset op som i gåseøjne i værks,"
+    },
+    {
+      "start": 1418.8,
+      "end": 1423.8,
+      "text": " eller hvis man skulle sætte en label på, men hvis man sådan lige prøver bare lige at ændre sit perspektiv lidt,"
+    },
+    {
+      "start": 1423.8,
+      "end": 1427.8,
+      "text": " at man ser sig selv, og når man kigger i spejlet, så siger man, okay, jeg er i en virksomhed,"
+    },
+    {
+      "start": 1427.8,
+      "end": 1433.8,
+      "text": " jeg ved godt, det er super, super firkantet og super mærkeligt, men du investerer jo i dig selv,"
+    },
+    {
+      "start": 1433.8,
+      "end": 1439.8,
+      "text": " ved at sætte dig ned og forsøge at sætte dig ind i AI, og så kan det godt være, at man ikke føler, at man har tiden til det,"
+    },
+    {
+      "start": 1439.8,
+      "end": 1442.8,
+      "text": " men man bliver nødt til at prioritere og finde tiden til det, for det bliver så vigtigt."
+    },
+    {
+      "start": 1442.8,
+      "end": 1447.8,
+      "text": " Og på en eller anden måde er det virksomhedens opgave at frigøre tiden til det, det ved jeg sgu ikke rigtigt,"
+    },
+    {
+      "start": 1447.8,
+      "end": 1451.8,
+      "text": " fordi hvis man ikke tager initiativ til det, og man ikke prioriterer det selv, det må du bare tage på dig selv."
+    },
+    {
+      "start": 1451.8,
+      "end": 1454.8,
+      "text": " Det er nu din opgave at sørge for, at det her, det kommer til at ske."
+    },
+    {
+      "start": 1454.8,
+      "end": 1458.8,
+      "text": " Og der var også nogle fede svar, da jeg sendte den her ud, jeg er nødt til lige at vise dig en kæmpe chef."
+    },
+    {
+      "start": 1458.8,
+      "end": 1461.8,
+      "text": " Kent Friis Pedersen fra Vestadministrationen AIS."
+    },
+    {
+      "start": 1461.8,
+      "end": 1465.8,
+      "text": " Jeg sendte en mail og spurgte, hvad holder dig tilbage for at bruge AI?"
+    },
+    {
+      "start": 1465.8,
+      "end": 1468.8,
+      "text": " Og Kent, han sendte det bedste svar af dem alle sammen."
+    },
+    {
+      "start": 1468.8,
+      "end": 1471.8,
+      "text": " Han skrev nemlig bare, ikke at holde os tilbage, vi bruger det rigtig meget."
+    },
+    {
+      "start": 1471.8,
+      "end": 1475.8,
+      "text": " Med venlig hilsen, Kent Friis Pedersen, direktør Vestadministrationen."
+    },
+    {
+      "start": 1475.8,
+      "end": 1478.8,
+      "text": " Hold F, et fedt svar, mand."
+    },
+    {
+      "start": 1478.8,
+      "end": 1481.8,
+      "text": " Kæmpe chef."
+    },
+    {
+      "start": 1481.8,
+      "end": 1484.8,
+      "text": " Det er sådan her, man er nødt til at tænke det. Tak for det svar, Kent."
+    },
+    {
+      "start": 1484.8,
+      "end": 1488.8,
+      "text": " Så har vi den sidste kvadrant. Du er glad for at bruge AI. Du er god til at bruge AI."
+    },
+    {
+      "start": 1488.8,
+      "end": 1490.8,
+      "text": " Det har jeg også skrevet en emoji til. Nu er vi ude i dig."
+    },
+    {
+      "start": 1490.8,
+      "end": 1497.8,
+      "text": " Jamen, du har brugt en vaske ægte dollar-emoji. Der er penge at hente."
+    },
+    {
+      "start": 1500.8,
+      "end": 1503.8,
+      "text": " Ej, det giver penge i kassen. Det må man jo bare erkende."
+    },
+    {
+      "start": 1503.8,
+      "end": 1507.8,
+      "text": " Men min primære pointe med det her, det handler faktisk ikke om, du er god til det eller dårlig til det."
+    },
+    {
+      "start": 1507.8,
+      "end": 1511.8,
+      "text": " Det er ikke den vigtige aksje at indskue det fra. Det er, om du er glad for at bruge det eller ikke."
+    },
+    {
+      "start": 1511.8,
+      "end": 1515.8,
+      "text": " Du kan være megagod, hvis ikke du gør det, fordi du i virkeligheden er bange for, at det kommer til at overtage et eller andet,"
+    },
+    {
+      "start": 1515.8,
+      "end": 1517.8,
+      "text": " eller du er sur på det eller et eller andet stil."
+    },
+    {
+      "start": 1517.8,
+      "end": 1519.8,
+      "text": " Så er du lige så meget værd som den person, der ikke bruger det."
+    },
+    {
+      "start": 1519.8,
+      "end": 1522.8,
+      "text": " Det handler ikke om institution. Det handler om at gøre det."
+    },
+    {
+      "start": 1522.8,
+      "end": 1525.8,
+      "text": " Og der er den gode nyhed, om du vil være en person, der gør det eller ej."
+    },
+    {
+      "start": 1525.8,
+      "end": 1528.8,
+      "text": " Det kan du bare bestemme dig for. Og så kommer kompetencerne."
+    },
+    {
+      "start": 1528.8,
+      "end": 1530.8,
+      "text": " Men du kan bare lave valget her nu. Jeg vil være den person, der gør det."
+    },
+    {
+      "start": 1531.8,
+      "end": 1534.8,
+      "text": " Så er beslutningen taget, og nu gør du det. Så kommer kompetencerne bagefter det."
+    },
+    {
+      "start": 1534.8,
+      "end": 1536.8,
+      "text": " Det er så god en nyhed ved det her, synes jeg."
+    },
+    {
+      "start": 1536.8,
+      "end": 1539.8,
+      "text": " I praksis er der to ting, du kan gøre, hvis du gerne vil være personen."
+    },
+    {
+      "start": 1539.8,
+      "end": 1544.8,
+      "text": " Den ene er at opsøge viden. Hvordan kan man opsøge viden omkring AI på en god måde og bruge det på ens arbejdsplads?"
+    },
+    {
+      "start": 1544.8,
+      "end": 1547.8,
+      "text": " Jeg tror, det man skal huske på i forhold til det her med at opsøge viden,"
+    },
+    {
+      "start": 1547.8,
+      "end": 1549.8,
+      "text": " du kan nærmest ikke gøre det et forkert sted."
+    },
+    {
+      "start": 1549.8,
+      "end": 1554.8,
+      "text": " Alle os, der sidder med AI til dagligt, vi har alle sammen monster meget FOMO."
+    },
+    {
+      "start": 1554.8,
+      "end": 1558.8,
+      "text": " Og det er ligegyldigt, om vi følger 15 forskellige nyhedsbrev og 3 forskellige YouTubers,"
+    },
+    {
+      "start": 1558.8,
+      "end": 1560.8,
+      "text": " og jeg ved ikke, hvor mange LinkedIn influencers,"
+    },
+    {
+      "start": 1560.8,
+      "end": 1567.8,
+      "text": " eller ej, lang historie kort er, at hvis du kan acceptere, at du ikke nødvendigvis får den nyeste viden på dagen,"
+    },
+    {
+      "start": 1567.8,
+      "end": 1571.8,
+      "text": " som måske er obsolit i morgen, så find 2-3 nyhedsbrev,"
+    },
+    {
+      "start": 1571.8,
+      "end": 1574.8,
+      "text": " eller nogle personer, du synes, der er interessante at følge."
+    },
+    {
+      "start": 1574.8,
+      "end": 1576.8,
+      "text": " Lyt til marketingpod."
+    },
+    {
+      "start": 1576.8,
+      "end": 1578.8,
+      "text": " Vi kommer altså med..."
+    },
+    {
+      "start": 1578.8,
+      "end": 1581.8,
+      "text": " Nå, det vil jeg faktisk sige, det er godt, at vi kommer med det på dagen,"
+    },
+    {
+      "start": 1581.8,
+      "end": 1586.8,
+      "text": " men efterhånden, som de her tools, AI, koncepter og alt det her,"
+    },
+    {
+      "start": 1586.8,
+      "end": 1589.8,
+      "text": " det begynder at udvikle sig, så skal vi nok tale om det."
+    },
+    {
+      "start": 1589.8,
+      "end": 1593.8,
+      "text": " Men find de her 2-3 kilder, som du bryder dig om."
+    },
+    {
+      "start": 1593.8,
+      "end": 1595.8,
+      "text": " Nogen kan lide podcast, andre kan lide nyhedsbrev,"
+    },
+    {
+      "start": 1595.8,
+      "end": 1598.8,
+      "text": " nogen kan sikkert bedre lide YouTube-videoer, hvor de kan se det specifikt,"
+    },
+    {
+      "start": 1598.8,
+      "end": 1602.8,
+      "text": " og følg dem og acceptér, at det er der, hvor du får din viden."
+    },
+    {
+      "start": 1602.8,
+      "end": 1604.8,
+      "text": " Min personlige, det er meget på Twitter."
+    },
+    {
+      "start": 1604.8,
+      "end": 1607.8,
+      "text": " Jeg følger mange relevante personer i det her space."
+    },
+    {
+      "start": 1607.8,
+      "end": 1610.8,
+      "text": " Det er sådan nogle André Karpathy, som var en af åben-AI-stifterne."
+    },
+    {
+      "start": 1610.8,
+      "end": 1613.8,
+      "text": " Det kan være Peter Levels, der laver en masse værktøjer selv."
+    },
+    {
+      "start": 1613.8,
+      "end": 1615.8,
+      "text": " Der er en masse AI-profiler, som er mega spændende at følge,"
+    },
+    {
+      "start": 1615.8,
+      "end": 1616.8,
+      "text": " og det er faktisk bare det, jeg gør."
+    },
+    {
+      "start": 1616.8,
+      "end": 1619.8,
+      "text": " Så ser jeg, hvad de skriver, hvad andre skriver, og det er min primære kilde."
+    },
+    {
+      "start": 1619.8,
+      "end": 1621.8,
+      "text": " Ved du TikTok og YouTube mere?"
+    },
+    {
+      "start": 1621.8,
+      "end": 1623.8,
+      "text": " Ja, især..."
+    },
+    {
+      "start": 1623.8,
+      "end": 1625.8,
+      "text": " Man kan sige, at TikTok kan godt være lidt svært,"
+    },
+    {
+      "start": 1625.8,
+      "end": 1629.8,
+      "text": " for du har ikke selv den fulde styring over algoritmen."
+    },
+    {
+      "start": 1629.8,
+      "end": 1632.8,
+      "text": " Du kan selvfølgelig søge dig frem til tingene, ligesom du kan på YouTube."
+    },
+    {
+      "start": 1632.8,
+      "end": 1637.8,
+      "text": " Men jeg har fundet ud af, at både TikTok og YouTube Shorts er fantastiske"
+    },
+    {
+      "start": 1637.8,
+      "end": 1638.8,
+      "text": " til at få forklaret nogle ting."
+    },
+    {
+      "start": 1638.8,
+      "end": 1640.8,
+      "text": " Lad os se nogle konkrete eksempler på, hvordan AI bliver brugt,"
+    },
+    {
+      "start": 1640.8,
+      "end": 1642.8,
+      "text": " når du ved, hvad du skal søge efter."
+    },
+    {
+      "start": 1642.8,
+      "end": 1643.8,
+      "text": " Jeg er meget enig."
+    },
+    {
+      "start": 1643.8,
+      "end": 1646.8,
+      "text": " Den anden ting, du kan gøre, det er allerede nu at begynde at identificere"
+    },
+    {
+      "start": 1646.8,
+      "end": 1648.8,
+      "text": " og automatisere opgaver, du laver igen og igen,"
+    },
+    {
+      "start": 1648.8,
+      "end": 1651.8,
+      "text": " fordi det er en fænomenal måde bare at begynde at bruge AI mere på."
+    },
+    {
+      "start": 1651.8,
+      "end": 1653.8,
+      "text": " Jeg har nogle konkrete eksempler."
+    },
+    {
+      "start": 1653.8,
+      "end": 1655.8,
+      "text": " Det her, det er sådan noget, som du kan gøre med for eksempel ChatGPT,"
+    },
+    {
+      "start": 1655.8,
+      "end": 1657.8,
+      "text": " hvor du laver custom-GPT'er."
+    },
+    {
+      "start": 1657.8,
+      "end": 1659.8,
+      "text": " Du kan lave gems med Gemini."
+    },
+    {
+      "start": 1659.8,
+      "end": 1661.8,
+      "text": " Du kan lave projekter i Manus."
+    },
+    {
+      "start": 1661.8,
+      "end": 1664.8,
+      "text": " Det er sådan områder, hvor du går ind og laver en eller anden form for system prompt."
+    },
+    {
+      "start": 1664.8,
+      "end": 1666.8,
+      "text": " Det er bare et pænt ord for nogle faste instrukser,"
+    },
+    {
+      "start": 1666.8,
+      "end": 1669.8,
+      "text": " som den læser hver eneste gang, den skal udføre en opgave."
+    },
+    {
+      "start": 1669.8,
+      "end": 1671.8,
+      "text": " Den kan måske lægge noget kontekst op, nogle ark, nogle billeder,"
+    },
+    {
+      "start": 1671.8,
+      "end": 1673.8,
+      "text": " eller et eller andet af den stil,"
+    },
+    {
+      "start": 1673.8,
+      "end": 1676.8,
+      "text": " og dermed kan løse opgaver, du sidder med igen og igen meget hurtigere."
+    },
+    {
+      "start": 1676.8,
+      "end": 1679.8,
+      "text": " AI er mega fedt, især til de ting, du laver igen og igen."
+    },
+    {
+      "start": 1679.8,
+      "end": 1681.8,
+      "text": " Hvis det er en opgave, du sidder og laver for første gang,"
+    },
+    {
+      "start": 1681.8,
+      "end": 1683.8,
+      "text": " en rapport, du laver for første gang, og du kun skal lave den en gang,"
+    },
+    {
+      "start": 1683.8,
+      "end": 1685.8,
+      "text": " så kan det faktisk godt være, at det nogle gange er nemmere bare at lave den selv."
+    },
+    {
+      "start": 1685.8,
+      "end": 1687.8,
+      "text": " Det kan godt være, du kan bruge AI,"
+    },
+    {
+      "start": 1687.8,
+      "end": 1689.8,
+      "text": " men det kan godt være, det er nemmere bare at lave den selv."
+    },
+    {
+      "start": 1689.8,
+      "end": 1692.8,
+      "text": " Hvor opgaver, du sidder og laver igen og igen, og vi har alle sammen opgaver,"
+    },
+    {
+      "start": 1692.8,
+      "end": 1694.8,
+      "text": " vi sidder og laver igen og igen og igen."
+    },
+    {
+      "start": 1694.8,
+      "end": 1697.8,
+      "text": " Det er her, du virkelig har mulighed for at frigøre noget tid."
+    },
+    {
+      "start": 1697.8,
+      "end": 1700.8,
+      "text": " Et par meget konkrete eksempler, som vi eller jeg har lavet,"
+    },
+    {
+      "start": 1700.8,
+      "end": 1702.8,
+      "text": " det kunne for eksempel være til marketing på et redigering."
+    },
+    {
+      "start": 1702.8,
+      "end": 1707.8,
+      "text": " Der har jeg et projekt inde i Manus, som er et redskab, som vi er glade for at bruge."
+    },
+    {
+      "start": 1707.8,
+      "end": 1709.8,
+      "text": " Manus er en general purpose AI-agent."
+    },
+    {
+      "start": 1709.8,
+      "end": 1712.8,
+      "text": " Det startede af Kineser, det rykkede til Singapore, og nu er det købt af Mesa."
+    },
+    {
+      "start": 1712.8,
+      "end": 1714.8,
+      "text": " Lad os se, om det får lov til at blive der for det kinesiske kommunisme at sige,"
+    },
+    {
+      "start": 1714.8,
+      "end": 1716.8,
+      "text": " men det er en anden snak."
+    },
+    {
+      "start": 1716.8,
+      "end": 1720.8,
+      "text": " Jeg har et projekt inde i Manus, der hedder marketing på et redigering."
+    },
+    {
+      "start": 1720.8,
+      "end": 1723.8,
+      "text": " Jeg laver de samme ting igen og igen og igen, når vi redigerer."
+    },
+    {
+      "start": 1723.8,
+      "end": 1725.8,
+      "text": " Herinde har jeg lagt en skid."
+    },
+    {
+      "start": 1725.8,
+      "end": 1730.8,
+      "text": " Den skid er marketing på et editor, og den har jeg defineret, hvordan vi redigerer podcastet."
+    },
+    {
+      "start": 1730.8,
+      "end": 1734.8,
+      "text": " Det vil sige, at vi transkriberer en episode, vi laver en introduktion,"
+    },
+    {
+      "start": 1734.8,
+      "end": 1738.8,
+      "text": " vi laver kapitler til YouTube, vi laver en dumbnail til vores LinkedIn-nyhedsbrev,"
+    },
+    {
+      "start": 1738.8,
+      "end": 1740.8,
+      "text": " og alle sådan nogle ting."
+    },
+    {
+      "start": 1740.8,
+      "end": 1742.8,
+      "text": " Det har jeg defineret i en skid."
+    },
+    {
+      "start": 1742.8,
+      "end": 1746.8,
+      "text": " Det betyder, at når jeg har en episode klar, så uploader jeg faktisk bare episodenavnet."
+    },
+    {
+      "start": 1746.8,
+      "end": 1748.8,
+      "text": " Her kan man se et eksempel."
+    },
+    {
+      "start": 1748.8,
+      "end": 1752.8,
+      "text": " Jeg har bare uploadet et episodenavn og sagt, at mandagsepisoden er klar her,"
+    },
+    {
+      "start": 1752.8,
+      "end": 1754.8,
+      "text": " og det er det eneste prompt, den får."
+    },
+    {
+      "start": 1754.8,
+      "end": 1757.8,
+      "text": " Så går den i gang med at læse skidfilen, og så venter jeg ti minutter,"
+    },
+    {
+      "start": 1757.8,
+      "end": 1760.8,
+      "text": " og så får jeg færdige thumbnails og en beskrivelse, jeg kan bruge,"
+    },
+    {
+      "start": 1760.8,
+      "end": 1762.8,
+      "text": " og YouTube-kapitlerne er allerede lavet,"
+    },
+    {
+      "start": 1762.8,
+      "end": 1767.8,
+      "text": " og de her ting, dem får jeg bare serveret, i stedet for at skulle prompte fra starten af."
+    },
+    {
+      "start": 1767.8,
+      "end": 1769.8,
+      "text": " Det er en opgave, jeg sidder og laver hver eneste uge,"
+    },
+    {
+      "start": 1769.8,
+      "end": 1773.8,
+      "text": " og derfor kan det faktisk bare have meget tid at få den løst på den her måde."
+    },
+    {
+      "start": 1773.8,
+      "end": 1775.8,
+      "text": " Hvad er nogle af de ting, du har fået løst på den her måde?"
+    },
+    {
+      "start": 1775.8,
+      "end": 1779.8,
+      "text": " Jeg vil lige skønne mig at sige, at skal vi ikke lave en lille kliphænger til næste uges episode"
+    },
+    {
+      "start": 1779.8,
+      "end": 1781.8,
+      "text": " omkring, hvordan man bruger AI som sin personlige assistent,"
+    },
+    {
+      "start": 1781.8,
+      "end": 1785.8,
+      "text": " hvor vi blandt andet gennemgår, hvordan du rent faktisk har lavet den her processer,"
+    },
+    {
+      "start": 1785.8,
+      "end": 1787.8,
+      "text": " for det er jo en fantastisk eksempel på det."
+    },
+    {
+      "start": 1787.8,
+      "end": 1788.8,
+      "text": " Ja, og sætter den op fra scratch."
+    },
+    {
+      "start": 1788.8,
+      "end": 1789.8,
+      "text": " Ja, lige præcis."
+    },
+    {
+      "start": 1789.8,
+      "end": 1791.8,
+      "text": " Det er sådan nogle ting her, vi kommer til at vise i den næste episode, det er helt rigtigt."
+    },
+    {
+      "start": 1791.8,
+      "end": 1795.8,
+      "text": " Hvad er nogle af de ting, du har automatiseret af opgaver, du laver igen og igen?"
+    },
+    {
+      "start": 1795.8,
+      "end": 1800.8,
+      "text": " Jamen, hvis vi lige bliver kort i marketing på verdenen, så har vi jo,"
+    },
+    {
+      "start": 1800.8,
+      "end": 1803.8,
+      "text": " om mandagen typisk, det har vi godt nok ikke i juni,"
+    },
+    {
+      "start": 1803.8,
+      "end": 1806.8,
+      "text": " men normalt har vi tre nyheder med fra branchen, som vi ligesom diskuterer."
+    },
+    {
+      "start": 1806.8,
+      "end": 1811.8,
+      "text": " Og det tog noget tid, da jeg selv skulle finde de her nyheder frem"
+    },
+    {
+      "start": 1811.8,
+      "end": 1813.8,
+      "text": " og dernæst lave et resume."
+    },
+    {
+      "start": 1813.8,
+      "end": 1815.8,
+      "text": " Det har jeg ikke klaret for mig nu."
+    },
+    {
+      "start": 1815.8,
+      "end": 1819.8,
+      "text": " Jeg skal bare indsætte en URL til den nyhed, jeg ønsker, at den laver et resume til,"
+    },
+    {
+      "start": 1819.8,
+      "end": 1825.8,
+      "text": " hvor det er skrevet i marketing på et sprog, så den er klar til mig,"
+    },
+    {
+      "start": 1825.8,
+      "end": 1828.8,
+      "text": " fordi jeg har netop lavet en custom GPT, der fortæller, hvordan jeg gerne vil have,"
+    },
+    {
+      "start": 1828.8,
+      "end": 1829.8,
+      "text": " at den skal lave det."
+    },
+    {
+      "start": 1829.8,
+      "end": 1831.8,
+      "text": " Eller, og det er noget af det nyeste, jeg har sat op,"
+    },
+    {
+      "start": 1831.8,
+      "end": 1835.8,
+      "text": " at den selv ligger dagligt og scraber efter nyheder, der er relevante."
+    },
+    {
+      "start": 1835.8,
+      "end": 1837.8,
+      "text": " Det er et lavpraktisk marketing på et eksempel."
+    },
+    {
+      "start": 1837.8,
+      "end": 1839.8,
+      "text": " Hvis vi så kommer med et lidt anderledes eksempel,"
+    },
+    {
+      "start": 1839.8,
+      "end": 1843.8,
+      "text": " så sidder vi jo i det daglige meget med SEO og Google Ads,"
+    },
+    {
+      "start": 1843.8,
+      "end": 1847.8,
+      "text": " og noget af det, der er rigtig svært derude, det er at bruge dataen på tværs."
+    },
+    {
+      "start": 1847.8,
+      "end": 1851.8,
+      "text": " Det er ikke som sådan svært, men det tager noget tid at bruge data på tværs af de her kanaler."
+    },
+    {
+      "start": 1851.8,
+      "end": 1854.8,
+      "text": " Jeg har nogle analyser, nogle go-to-analyser, jeg både laver på eksisterende kunder,"
+    },
+    {
+      "start": 1854.8,
+      "end": 1857.8,
+      "text": " og når vi er ude og pitch ind på nye kunder."
+    },
+    {
+      "start": 1857.8,
+      "end": 1860.8,
+      "text": " Og jeg blev simpelthen træt af at blive ved med at skulle lave det manuelt,"
+    },
+    {
+      "start": 1860.8,
+      "end": 1863.8,
+      "text": " som mange folk gik til, når det var, at de skulle have lavet den her analyse."
+    },
+    {
+      "start": 1863.8,
+      "end": 1867.8,
+      "text": " Så jeg endte simpelthen med at sætte mig ned og lave nogle tools, som simpelthen kunne gøre det her."
+    },
+    {
+      "start": 1867.8,
+      "end": 1870.8,
+      "text": " Så en ting er, at jeg selv bruger dem, men jeg kunne også lære andre at bruge dem,"
+    },
+    {
+      "start": 1870.8,
+      "end": 1873.8,
+      "text": " sådan så jeg ikke blev flaskehals lige pludselig."
+    },
+    {
+      "start": 1873.8,
+      "end": 1879.8,
+      "text": " Et tredje eksempel, inden vi går videre, det er, at jeg har lavet et værktøj til at generere tracking audits."
+    },
+    {
+      "start": 1879.8,
+      "end": 1881.8,
+      "text": " Og det er et værktøj, der er lavet i Lovable."
+    },
+    {
+      "start": 1881.8,
+      "end": 1885.8,
+      "text": " Så mellem jul og nytår, det tog mig rundt egnet lige så lang tid, som det tager os i Jurassic Park."
+    },
+    {
+      "start": 1885.8,
+      "end": 1889.8,
+      "text": " Det har vi lavet en episode om tidligere, ikke Jurassic Park, men Arbejdkorte-værktøjer,"
+    },
+    {
+      "start": 1889.8,
+      "end": 1892.8,
+      "text": " der er lavet ved det her værktøj, der ligger på tracking.obsidianagency.com."
+    },
+    {
+      "start": 1892.8,
+      "end": 1895.8,
+      "text": " Det er tilgængeligt til alle, hvis du har lyst til at prøve at bruge det på dit eget site."
+    },
+    {
+      "start": 1895.8,
+      "end": 1897.8,
+      "text": " Og det er fordi, vi laver rigtig meget tracking i Obsidian."
+    },
+    {
+      "start": 1897.8,
+      "end": 1901.8,
+      "text": " Vi hjælper vores kunder med at opsætte server-side tracking via Google Tag Manager og en masse andre spændende ting."
+    },
+    {
+      "start": 1901.8,
+      "end": 1903.8,
+      "text": " Og der har jeg altid lavet et audit."
+    },
+    {
+      "start": 1903.8,
+      "end": 1905.8,
+      "text": " Men det her audit, det har været noget med at få adgang,"
+    },
+    {
+      "start": 1905.8,
+      "end": 1908.8,
+      "text": " og så trække nogle helt manuelle ting og lave det igen og igen og igen."
+    },
+    {
+      "start": 1908.8,
+      "end": 1912.8,
+      "text": " Og det har bare taget lang tid, men jeg ved jo præcis, hvad det er for et output, jeg gerne vil have."
+    },
+    {
+      "start": 1912.8,
+      "end": 1916.8,
+      "text": " Så i stedet for, så definerede jeg over for Lopperworld, hvad mit slutoutput var,"
+    },
+    {
+      "start": 1916.8,
+      "end": 1919.8,
+      "text": " og hvilket input brugerne skal give, hvilket bar er deres website."
+    },
+    {
+      "start": 1919.8,
+      "end": 1923.8,
+      "text": " Og så lavede jeg et værktøj, rundtregnet på tre timer, til at løse det her problem."
+    },
+    {
+      "start": 1923.8,
+      "end": 1927.8,
+      "text": " Og siden jeg lavede det, så har mere end 4.000 personer lavet tracking audit indeni det."
+    },
+    {
+      "start": 1927.8,
+      "end": 1929.8,
+      "text": " Jeg har lavet sådan et lille statistikmodul."
+    },
+    {
+      "start": 1929.8,
+      "end": 1934.8,
+      "text": " Mere end 4.000. Jeg kunne fandme ikke have lavet 4.000 tracking audits på de fire måneder,"
+    },
+    {
+      "start": 1934.8,
+      "end": 1936.8,
+      "text": " der er gået siden vi lavede det her værktøj ud."
+    },
+    {
+      "start": 1936.8,
+      "end": 1939.8,
+      "text": " Så ikke alene har jeg sparet helt vildt meget tid, det er også blevet et liggenererende værktøj,"
+    },
+    {
+      "start": 1939.8,
+      "end": 1942.8,
+      "text": " der faktisk har skabt omsætning for Obsidian."
+    },
+    {
+      "start": 1942.8,
+      "end": 1944.8,
+      "text": " Og jeg synes, det er så fedt."
+    },
+    {
+      "start": 1944.8,
+      "end": 1946.8,
+      "text": " Og så ved jeg, at der er nogen, der tænker sig nu,"
+    },
+    {
+      "start": 1946.8,
+      "end": 1949.8,
+      "text": " hvis jeg nu tager mit job, og jeg i virkeligheden begynder at automatisere det væk,"
+    },
+    {
+      "start": 1949.8,
+      "end": 1950.8,
+      "text": " det er da ikke særlig smart."
+    },
+    {
+      "start": 1950.8,
+      "end": 1951.8,
+      "text": " Sæver jeg ikke min egen gren over?"
+    },
+    {
+      "start": 1951.8,
+      "end": 1952.8,
+      "text": " Hvad siger du til dem?"
+    },
+    {
+      "start": 1952.8,
+      "end": 1954.8,
+      "text": " Kan du automatisere dit eget job væk, og bliver du så fyret, hvis det sker?"
+    },
+    {
+      "start": 1954.8,
+      "end": 1958.8,
+      "text": " Nej, men jeg synes jo, at Jesper Weizel siger det kanon godt."
+    },
+    {
+      "start": 1958.8,
+      "end": 1963.8,
+      "text": " Det handler om at få et fedt job, og kunne gøre de her automatiserede jobrådbrudsopgaver,"
+    },
+    {
+      "start": 1963.8,
+      "end": 1966.8,
+      "text": " gøre netop, at du kan komme længere op i helikopterne og være mere strategisk."
+    },
+    {
+      "start": 1966.8,
+      "end": 1969.8,
+      "text": " Hvis vi tager tracking eksemplet, eller min analyse, som jeg lige nævnte før."
+    },
+    {
+      "start": 1969.8,
+      "end": 1972.8,
+      "text": " Det tog så lang tid at lave dem her, at det var ligesom det, der var jobbet."
+    },
+    {
+      "start": 1972.8,
+      "end": 1974.8,
+      "text": " Nu laver AI'en det for os."
+    },
+    {
+      "start": 1974.8,
+      "end": 1977.8,
+      "text": " Ergo, vi kan sætte os ned og forholde os til de ting, vi får ud af det,"
+    },
+    {
+      "start": 1977.8,
+      "end": 1979.8,
+      "text": " og få nogle rigtig, rigtig gode snakke med vores kunder."
+    },
+    {
+      "start": 1979.8,
+      "end": 1983.8,
+      "text": " Det er langt federe at møde indtil, end at skulle sidde og flytte et tal"
+    },
+    {
+      "start": 1984.8,
+      "end": 1985.8,
+      "text": " for at sætte det lidt på spidsen."
+    },
+    {
+      "start": 1985.8,
+      "end": 1987.8,
+      "text": " Plus, hvis du lykkes med at automatisere det dejlige jobvæk,"
+    },
+    {
+      "start": 1987.8,
+      "end": 1991.8,
+      "text": " så har du lige positioneret dig som potentielt en af de mest spændende personer i hele virksomheden."
+    },
+    {
+      "start": 1991.8,
+      "end": 1993.8,
+      "text": " Jeg kan love dig for, at hvis du slipper for de gamle opgaver,"
+    },
+    {
+      "start": 1993.8,
+      "end": 1997.8,
+      "text": " så får du nogle mere spændende opgaver, fordi du har lige vist et helt fantastisk initiativ"
+    },
+    {
+      "start": 1997.8,
+      "end": 1999.8,
+      "text": " og evne til at skabe værdi for virksomheden."
+    },
+    {
+      "start": 1999.8,
+      "end": 2002.8,
+      "text": " Så det er virkelig det aller, aller, aller sidste, man skal være bange for."
+    },
+    {
+      "start": 2002.8,
+      "end": 2005.8,
+      "text": " Lad os snakke lidt om, hvad AI ikke kan gøre for dig."
+    },
+    {
+      "start": 2005.8,
+      "end": 2008.8,
+      "text": " Og også lidt om, hvor man skal positionere sig i fremtiden."
+    },
+    {
+      "start": 2008.8,
+      "end": 2011.8,
+      "text": " Fordi der er nogle opgaver, som bare ikke kommer igen."
+    },
+    {
+      "start": 2011.8,
+      "end": 2014.8,
+      "text": " Juniortekstforfatter, dead and gone, det kommer aldrig nogensinde til at give mening."
+    },
+    {
+      "start": 2014.8,
+      "end": 2017.8,
+      "text": " Men hvis man skal sætte sådan lidt konceptuality, når vi bruger AI,"
+    },
+    {
+      "start": 2017.8,
+      "end": 2021.8,
+      "text": " hvad er det, AI kan gøre for os, og hvad er det måske AI ikke kan gøre for os?"
+    },
+    {
+      "start": 2021.8,
+      "end": 2023.8,
+      "text": " Og hvad fortæller det om, hvor man skal positionere sig i fremtiden?"
+    },
+    {
+      "start": 2023.8,
+      "end": 2031.8,
+      "text": " Jeg tror, det man skal forstå og huske, det er, at AI generelt er ekstremt dybtig og god til at arbejde inden for en ramme."
+    },
+    {
+      "start": 2031.8,
+      "end": 2036.8,
+      "text": " Det vil sige, du tegner en fodboldbane op, og så skal AI spille inden for den her bane her."
+    },
+    {
+      "start": 2036.8,
+      "end": 2042.8,
+      "text": " Og der er den fantastisk, men den er rigtig dårlig til selv at definere den her ramme, man skal sætte for den."
+    },
+    {
+      "start": 2042.8,
+      "end": 2047.8,
+      "text": " Så det er dig som person, der skal være eksperten og ligesom sætte retningen."
+    },
+    {
+      "start": 2047.8,
+      "end": 2054.8,
+      "text": " Og så skal vi også huske på, at AI, selvom man nærmest kan, man næsten skulle tro det, så har AI ikke følelser."
+    },
+    {
+      "start": 2054.8,
+      "end": 2056.8,
+      "text": " Den kan ikke læse rummet."
+    },
+    {
+      "start": 2056.8,
+      "end": 2060.8,
+      "text": " Og det er noget af det, som halvten af jer bliver snakket en del om i marketing, på de forrige episoder."
+    },
+    {
+      "start": 2060.8,
+      "end": 2061.8,
+      "text": " Ja, for det kan vi heller ikke."
+    },
+    {
+      "start": 2061.8,
+      "end": 2062.8,
+      "text": " Ja, det kan vi heller ikke."
+    },
+    {
+      "start": 2063.8,
+      "end": 2066.8,
+      "text": " Men det kan du kære lytter forhåbentlig."
+    },
+    {
+      "start": 2066.8,
+      "end": 2073.8,
+      "text": " Men AI kender for eksempel ikke dynamikken mellem dig, og det kunne være din kunde, eller din chef, eller hvem der skal bruge det output, du laver."
+    },
+    {
+      "start": 2073.8,
+      "end": 2077.8,
+      "text": " Altså, der er noget taste, der er noget retning, du bliver nødt til at sætte."
+    },
+    {
+      "start": 2077.8,
+      "end": 2081.8,
+      "text": " Men hvis du bliver dygtig til at sætte den, nøj, en super power AI pludselig bliver for dig."
+    },
+    {
+      "start": 2081.8,
+      "end": 2086.8,
+      "text": " Men vi bliver nødt til at huske på, det kan AI ikke gøre af sig selv, og det er der, du skal være dygtig."
+    },
+    {
+      "start": 2086.8,
+      "end": 2088.8,
+      "text": " Lad mig komme med et konkret eksempel."
+    },
+    {
+      "start": 2088.8,
+      "end": 2091.8,
+      "text": " Facebook har lavet deres egen AI i Ads Manager."
+    },
+    {
+      "start": 2091.8,
+      "end": 2096.8,
+      "text": " Og jeg var faktisk inde og prøve den, fordi jeg tænkte, det er da også super spændende, hvilke tips giver den?"
+    },
+    {
+      "start": 2096.8,
+      "end": 2099.8,
+      "text": " Og jeg gik ind på en konso, som vi er begyndt at arbejde på for nylig."
+    },
+    {
+      "start": 2099.8,
+      "end": 2105.8,
+      "text": " Det er en virksomhed, som har brugt et andet bureau tidligere, og det bureau har sat en masse kampagneopdater op, som er efter klik."
+    },
+    {
+      "start": 2105.8,
+      "end": 2107.8,
+      "text": " Og det skal man lade være med."
+    },
+    {
+      "start": 2107.8,
+      "end": 2109.8,
+      "text": " Det spiller penge."
+    },
+    {
+      "start": 2109.8,
+      "end": 2110.8,
+      "text": " Så det vil jeg selvfølgelig lave om."
+    },
+    {
+      "start": 2110.8,
+      "end": 2115.8,
+      "text": " Men jeg gik lige ind på den her konso, og så sagde jeg til Mesa, hvordan kan vi forbedre resultatet?"
+    },
+    {
+      "start": 2115.8,
+      "end": 2123.8,
+      "text": " Og det, den sagde, det var, hvis jeg kigger på din kampagne, så kan jeg se, at dem, der er over 65, de klikker meget mere end dem, der er under 18, eller hvad hedder det, under 25."
+    },
+    {
+      "start": 2123.8,
+      "end": 2129.8,
+      "text": " Så måske skulle du lave nogle kreativer, som i højere grad taler til unge mennesker, så du kan få flere klik fra dem."
+    },
+    {
+      "start": 2129.8,
+      "end": 2134.8,
+      "text": " Det er jo ikke teknisk forkert, men det er strategisk helt reserveret input."
+    },
+    {
+      "start": 2134.8,
+      "end": 2138.8,
+      "text": " Hvis du har klikkampagne, så er det første, du skal gøre, det er at optimere dem efter kommentering og sætte tracking op."
+    },
+    {
+      "start": 2138.8,
+      "end": 2140.8,
+      "text": " Det er sgu da ikke at få flere klik."
+    },
+    {
+      "start": 2140.8,
+      "end": 2144.8,
+      "text": " Og det var et godt eksempel på det der med, hvis jeg bare spurgte dem, hvordan får jeg bedre resultater?"
+    },
+    {
+      "start": 2144.8,
+      "end": 2149.8,
+      "text": " Så jeg kiggede på de kampagner, du havde i forvejen, uden at tage stilling til, om det her overhovedet var det rigtige til at starte med,"
+    },
+    {
+      "start": 2149.8,
+      "end": 2152.8,
+      "text": " og sagde bare, hvordan får du mere af det, du i forvejen optimerer efter?"
+    },
+    {
+      "start": 2152.8,
+      "end": 2157.8,
+      "text": " Så det blev en eller anden måde, hvis du kører i den gale retning, hvordan kan jeg køre endnu hurtigere i den gale retning?"
+    },
+    {
+      "start": 2157.8,
+      "end": 2163.8,
+      "text": " Og det er det der udfordring med AI, det er, at du får nogle gange det, du beder om, og hvis du ikke forstår selv at afkode det output, du får, og ser, om det er korrekt,"
+    },
+    {
+      "start": 2163.8,
+      "end": 2167.8,
+      "text": " så kan du komme til at køre meget stærkt i den helt forkerte retning."
+    },
+    {
+      "start": 2167.8,
+      "end": 2174.8,
+      "text": " Og så oplever jeg, at jo dårligere du er til at prompte, og jo dårligere du forstår det, du beder om, jo større er risikoen for, at du kommer til at løbe stærkt i den gale retning."
+    },
+    {
+      "start": 2174.8,
+      "end": 2179.8,
+      "text": " Så for eksempel, hvis jeg skulle lave regnskab, lad os sige mit selskabs årsregnskab via AI,"
+    },
+    {
+      "start": 2179.8,
+      "end": 2183.8,
+      "text": " jeg kunne have den bedste large range model til rådighed hele verden, og jeg er ret sikker på, at jeg ville lave fejl alligevel."
+    },
+    {
+      "start": 2183.8,
+      "end": 2189.8,
+      "text": " Fordi jeg forstår det ikke, jeg forstår ikke de udstryk der, jeg kan ikke få et regnskab opstillet, og så se, om det her det er korrekt,"
+    },
+    {
+      "start": 2189.8,
+      "end": 2194.8,
+      "text": " er det både for et rigtigt eller et forkert, I don't know, så hvis AI'en siger, at det er rigtigt, så stoler jeg på det."
+    },
+    {
+      "start": 2194.8,
+      "end": 2198.8,
+      "text": " Men hvad hvis det er en AI, lidt ligesom den i Mesa, der siger, at hvis du vil have flere klik, så skal du gøre sådan her,"
+    },
+    {
+      "start": 2198.8,
+      "end": 2201.8,
+      "text": " og så siger jeg sådan, okay, og så får jeg bare flere klik eller hvad."
+    },
+    {
+      "start": 2201.8,
+      "end": 2206.8,
+      "text": " Så jeg kan bruge de bedste redskaber, og hvis ikke jeg fatter det output, der kommer, så er det stadig ikke værdifuldt."
+    },
+    {
+      "start": 2206.8,
+      "end": 2213.8,
+      "text": " Og det betyder jo, hvis du ved noget om emnet, kan AI være et eminent redskab til at gøre det bedre og hurtigere,"
+    },
+    {
+      "start": 2213.8,
+      "end": 2215.8,
+      "text": " og få meget mere værdi ud af det, du laver i forvejen."
+    },
+    {
+      "start": 2215.8,
+      "end": 2220.8,
+      "text": " Hvis du ikke ved noget om emnet, så tror jeg faktisk ikke, at AI kan hjælpe dig, så skal du simpelthen lære noget om emnet."
+    },
+    {
+      "start": 2220.8,
+      "end": 2223.8,
+      "text": " Det er jo den gode og den dårlige nyhed på én og samme tid."
+    },
+    {
+      "start": 2223.8,
+      "end": 2226.8,
+      "text": " Så synes jeg også, at der er et vigtigt punkt omkring det her med at have originale idéer,"
+    },
+    {
+      "start": 2226.8,
+      "end": 2230.8,
+      "text": " og være, hvad skal man sige, komme på ting, der er nyskabende."
+    },
+    {
+      "start": 2230.8,
+      "end": 2235.8,
+      "text": " Dem, der bryder kategorien, skaber en eller anden ny adfærd, overrasker markedet."
+    },
+    {
+      "start": 2235.8,
+      "end": 2239.8,
+      "text": " Altså noget af det, som jo rent faktisk er ret vigtigt for os marketingfolk,"
+    },
+    {
+      "start": 2239.8,
+      "end": 2244.8,
+      "text": " det kommer jo typisk fra mennesker, der har oplevet noget, levet noget, set noget derude,"
+    },
+    {
+      "start": 2244.8,
+      "end": 2246.8,
+      "text": " fået noget inspiration, og det tror jeg, man skal huske på."
+    },
+    {
+      "start": 2246.8,
+      "end": 2251.8,
+      "text": " Og det er også vigtigt at huske på, fordi man kan hurtigt se AI som den her overmenneske."
+    },
+    {
+      "start": 2251.8,
+      "end": 2256.8,
+      "text": " Men lad os lige huske på, at det er en sofistikeret remixmaskine."
+    },
+    {
+      "start": 2256.8,
+      "end": 2259.8,
+      "text": " Altså den kombinerer og rekombinerer det, som den er trænet på."
+    },
+    {
+      "start": 2259.8,
+      "end": 2265.8,
+      "text": " Så det gør også, at den automatisk, medmindre man er meget eksplicit omkring det,"
+    },
+    {
+      "start": 2265.8,
+      "end": 2266.8,
+      "text": " trækker mod midten."
+    },
+    {
+      "start": 2266.8,
+      "end": 2268.8,
+      "text": " Det vil sige, at du får et gennemsnitligt svar."
+    },
+    {
+      "start": 2268.8,
+      "end": 2272.8,
+      "text": " Det er det her, alle andre gør og siger, og det er best practice, und so weiter."
+    },
+    {
+      "start": 2272.8,
+      "end": 2276.8,
+      "text": " Og det kan være rigtig godt inden for nogle områder, men jeg tror bare, man skal være opmærksom på,"
+    },
+    {
+      "start": 2276.8,
+      "end": 2280.8,
+      "text": " at er du ekstremt kreativ, tør du komme med de her originale idéer,"
+    },
+    {
+      "start": 2280.8,
+      "end": 2284.8,
+      "text": " og så bruge AI dernæst til at sætte foot under dem,"
+    },
+    {
+      "start": 2284.8,
+      "end": 2288.8,
+      "text": " så er du altså stadigvæk enorm, enorm værdifuld."
+    },
+    {
+      "start": 2288.8,
+      "end": 2290.8,
+      "text": " Og det er noget, AI ikke kan gøre for dig, så kom med de her originale idéer,"
+    },
+    {
+      "start": 2290.8,
+      "end": 2292.8,
+      "text": " fordi den er jo bare trænet på data derude."
+    },
+    {
+      "start": 2292.8,
+      "end": 2296.8,
+      "text": " Jeg synes, et fedt eksempel på det her, det er faktisk chefen for Rockstar,"
+    },
+    {
+      "start": 2296.8,
+      "end": 2299.8,
+      "text": " som laver bl.a. Grand Theft Auto GCA-spillene."
+    },
+    {
+      "start": 2299.8,
+      "end": 2303.8,
+      "text": " Han var i et interview for nylig, Strauss Selnick hedder han,"
+    },
+    {
+      "start": 2303.8,
+      "end": 2309.8,
+      "text": " hvor han sagde, vi kan godt bruge AI til at øge hastigheden på noget af vores spiludvikling,"
+    },
+    {
+      "start": 2309.8,
+      "end": 2311.8,
+      "text": " men vi kan grundlæggende ikke bruge AI til at lave spillet."
+    },
+    {
+      "start": 2311.8,
+      "end": 2315.8,
+      "text": " Fordi han siger, at lave et fedt spil, det handler om god smag,"
+    },
+    {
+      "start": 2315.8,
+      "end": 2318.8,
+      "text": " om taste, om originalitet og om timing."
+    },
+    {
+      "start": 2318.8,
+      "end": 2320.8,
+      "text": " Og AI siger han, det er bagudskuende."
+    },
+    {
+      "start": 2320.8,
+      "end": 2322.8,
+      "text": " Det kigger på, hvad du har gjort."
+    },
+    {
+      "start": 2322.8,
+      "end": 2326.8,
+      "text": " Vi er nødt til at være fremaderskuende og se på, hvad folk gerne vil have."
+    },
+    {
+      "start": 2326.8,
+      "end": 2328.8,
+      "text": " Det er jo lidt det her gode gamle Henry Ford citat,"
+    },
+    {
+      "start": 2328.8,
+      "end": 2330.8,
+      "text": " hvis jeg havde spurgt folk, hvad de gerne ville have haft,"
+    },
+    {
+      "start": 2330.8,
+      "end": 2332.8,
+      "text": " så havde de sagt en rådgjort hest."
+    },
+    {
+      "start": 2332.8,
+      "end": 2335.8,
+      "text": " Og det er der jo noget rigtigt om, at de opgaver, hvor du ved,"
+    },
+    {
+      "start": 2335.8,
+      "end": 2338.8,
+      "text": " hvad det er for et output du gerne vil have, der er AI rigtig, rigtig god til at give det."
+    },
+    {
+      "start": 2338.8,
+      "end": 2340.8,
+      "text": " Men er det den bedste til at lave en fuldstændig unik marketingstrategi"
+    },
+    {
+      "start": 2340.8,
+      "end": 2343.8,
+      "text": " og ramme markedet på en måde, som ingen af konkurrenterne har gjort før?"
+    },
+    {
+      "start": 2343.8,
+      "end": 2346.8,
+      "text": " Det ved jeg ikke. Det kan måske være et hjælperedskab til at gøre det."
+    },
+    {
+      "start": 2346.8,
+      "end": 2349.8,
+      "text": " Og det sælger jo ind i, rollen man har i fremtiden,"
+    },
+    {
+      "start": 2349.8,
+      "end": 2352.8,
+      "text": " den er orchestrerende, den er faciliterende."
+    },
+    {
+      "start": 2352.8,
+      "end": 2356.8,
+      "text": " Det at arbejde sammen med en hær af AI-agenter om at løse et område,"
+    },
+    {
+      "start": 2356.8,
+      "end": 2359.8,
+      "text": " det er ikke at være den, der rent faktisk udfører arbejdet."
+    },
+    {
+      "start": 2359.8,
+      "end": 2361.8,
+      "text": " Den bedste programmer kommer ikke til at skrive kode selv,"
+    },
+    {
+      "start": 2361.8,
+      "end": 2363.8,
+      "text": " den bedste tekstforfatter kommer ikke til at skrive teksterne selv,"
+    },
+    {
+      "start": 2363.8,
+      "end": 2366.8,
+      "text": " den bedste grafik kommer ikke til at trække linjerne i hverken Canva, Figma eller Photoshop."
+    },
+    {
+      "start": 2366.8,
+      "end": 2369.8,
+      "text": " De kommer til at bruge redskaberne til at gøre det her i stedet for."
+    },
+    {
+      "start": 2369.8,
+      "end": 2371.8,
+      "text": " Og det er jo det, der er nøglen."
+    },
+    {
+      "start": 2371.8,
+      "end": 2374.8,
+      "text": " Så det man skal uddanne sig til, det man skal oplære sig selv til i fremtiden,"
+    },
+    {
+      "start": 2374.8,
+      "end": 2377.8,
+      "text": " er ikke at være den bedste og hurtigste til faktisk at udføre arbejdet."
+    },
+    {
+      "start": 2377.8,
+      "end": 2379.8,
+      "text": " Det er at forstå, hvad der gør arbejdet værdifuldt,"
+    },
+    {
+      "start": 2379.8,
+      "end": 2382.8,
+      "text": " og så prompte en AI-agent til at gøre det efterfølgende."
+    },
+    {
+      "start": 2382.8,
+      "end": 2385.8,
+      "text": " Og så tror jeg, at man står i et meget bedre jobmarked,"
+    },
+    {
+      "start": 2385.8,
+      "end": 2388.8,
+      "text": " end der nogensinde har eksisteret før,"
+    },
+    {
+      "start": 2388.8,
+      "end": 2390.8,
+      "text": " fordi de personer, der lykkes med det, hold kæft,"
+    },
+    {
+      "start": 2390.8,
+      "end": 2393.8,
+      "text": " de kan lave nogle fede ting med de redskaber, der kommer frem i øjeblikket."
+    },
+    {
+      "start": 2393.8,
+      "end": 2397.8,
+      "text": " Halsten, hvis man nu har siddet og lyttet med her de sidste, ja, nogle år 40 minutter,"
+    },
+    {
+      "start": 2397.8,
+      "end": 2400.8,
+      "text": " og man sidder og tænker, alt det vi lige har sagt, mere eller mindre,"
+    },
+    {
+      "start": 2400.8,
+      "end": 2404.8,
+      "text": " det giver rigtig god mening, men jeg har ligesom brug for det ekstra skub,"
+    },
+    {
+      "start": 2404.8,
+      "end": 2406.8,
+      "text": " det sidste skub, hvad skal jeg gøre fra i morgen af?"
+    },
+    {
+      "start": 2406.8,
+      "end": 2410.8,
+      "text": " Skal vi så ikke lige prøve at rige op, hvad vi vil anbefale i step 1, 2, 3, 4, 5,"
+    },
+    {
+      "start": 2410.8,
+      "end": 2412.8,
+      "text": " eller hvor mange steps vi nu engang har?"
+    },
+    {
+      "start": 2412.8,
+      "end": 2414.8,
+      "text": " Hvad man lige så godt kan gå i gang med at gøre fra i morgen af,"
+    },
+    {
+      "start": 2414.8,
+      "end": 2417.8,
+      "text": " indtil på mandag, hvor vi kommer med næste episode."
+    },
+    {
+      "start": 2417.8,
+      "end": 2421.8,
+      "text": " Til første, mindsetskiftede, sig, du er nu personen, der gerne vil AI."
+    },
+    {
+      "start": 2421.8,
+      "end": 2424.8,
+      "text": " Om du er god eller dårlig, bare se til dig selv."
+    },
+    {
+      "start": 2424.8,
+      "end": 2428.8,
+      "text": " Jeg er nu personen, der gerne vil bruge AI. Det er min nummer et."
+    },
+    {
+      "start": 2428.8,
+      "end": 2432.8,
+      "text": " Dernæst, så find et par kilder, måske tre til inspiration og ny viden om AI."
+    },
+    {
+      "start": 2432.8,
+      "end": 2434.8,
+      "text": " Marketingbåt skulle forhåbentlig gerne være den første,"
+    },
+    {
+      "start": 2434.8,
+      "end": 2437.8,
+      "text": " men find et par stykker andre, hvor du får noget af den her viden,"
+    },
+    {
+      "start": 2437.8,
+      "end": 2439.8,
+      "text": " og du følger dig opdateret omkring emnet."
+    },
+    {
+      "start": 2439.8,
+      "end": 2442.8,
+      "text": " Jeg vil anbefale at købe et abonnement til din foretrukne LLM."
+    },
+    {
+      "start": 2442.8,
+      "end": 2445.8,
+      "text": " Hvis du er i syv, så vil jeg tage Manus, den er skidegod."
+    },
+    {
+      "start": 2445.8,
+      "end": 2447.8,
+      "text": " Gemini er også kanon. Klort virker."
+    },
+    {
+      "start": 2447.8,
+      "end": 2450.8,
+      "text": " GPC 5.5, alt er godt. Bare tag en af dem."
+    },
+    {
+      "start": 2450.8,
+      "end": 2453.8,
+      "text": " Hvis du sidder og siger, Microsoft Copilot er den eneste, vi bruger i virksomheden."
+    },
+    {
+      "start": 2453.8,
+      "end": 2455.8,
+      "text": " Fuck it. Køb et privat abonnement."
+    },
+    {
+      "start": 2455.8,
+      "end": 2457.8,
+      "text": " Lad dig ikke hindre af, at Microsoft Copilot sutter røv."
+    },
+    {
+      "start": 2457.8,
+      "end": 2459.8,
+      "text": " Køb et privat abonnement for dine egen penge,"
+    },
+    {
+      "start": 2459.8,
+      "end": 2460.8,
+      "text": " i stedet for hvis du ikke får lov til det i virksomheden."
+    },
+    {
+      "start": 2460.8,
+      "end": 2462.8,
+      "text": " Lad være med at sige det til nogen, og så går det nok alligevel."
+    },
+    {
+      "start": 2462.8,
+      "end": 2464.8,
+      "text": " Vælg en, og så gør den til din startside."
+    },
+    {
+      "start": 2464.8,
+      "end": 2466.8,
+      "text": " Hver side, når du åbner en ny fan, det er large ringe smål,"
+    },
+    {
+      "start": 2466.8,
+      "end": 2468.8,
+      "text": " fordi så tvinger du dig selv til at bruge den mere."
+    },
+    {
+      "start": 2468.8,
+      "end": 2471.8,
+      "text": " Og det er faktisk lige præcis næste step."
+    },
+    {
+      "start": 2471.8,
+      "end": 2473.8,
+      "text": " Start slow."
+    },
+    {
+      "start": 2473.8,
+      "end": 2476.8,
+      "text": " Begynd at bruge den som din lille, mini personlige assistent,"
+    },
+    {
+      "start": 2476.8,
+      "end": 2478.8,
+      "text": " og igen, cliffhanger til næste mand,"
+    },
+    {
+      "start": 2478.8,
+      "end": 2481.8,
+      "text": " at vi skal nok komme ind på, hvordan du kan gøre det her i skala."
+    },
+    {
+      "start": 2481.8,
+      "end": 2484.8,
+      "text": " Men start med at bede den om at lave nogle udkast på svar"
+    },
+    {
+      "start": 2484.8,
+      "end": 2486.8,
+      "text": " til nogle mails, du sidder med."
+    },
+    {
+      "start": 2486.8,
+      "end": 2488.8,
+      "text": " Der skal du måske sidde og kopiere mailen,"
+    },
+    {
+      "start": 2488.8,
+      "end": 2490.8,
+      "text": " og sætte over eller lave et screenshot og sige,"
+    },
+    {
+      "start": 2490.8,
+      "end": 2492.8,
+      "text": " kan du ikke lige komme med et udkast her på?"
+    },
+    {
+      "start": 2492.8,
+      "end": 2494.8,
+      "text": " Det kan vi godt blive enige om, at det ikke er det smarteste måde at gøre det på den dag i dag."
+    },
+    {
+      "start": 2494.8,
+      "end": 2496.8,
+      "text": " Men det giver så meget viden."
+    },
+    {
+      "start": 2496.8,
+      "end": 2498.8,
+      "text": " Brug den til sparring omkring tanker og idéer."
+    },
+    {
+      "start": 2498.8,
+      "end": 2500.8,
+      "text": " Brug den i privaten."
+    },
+    {
+      "start": 2500.8,
+      "end": 2502.8,
+      "text": " Måske at du skal finde ud af et eller andet med en opskrift."
+    },
+    {
+      "start": 2502.8,
+      "end": 2504.8,
+      "text": " Whatever."
+    },
+    {
+      "start": 2504.8,
+      "end": 2506.8,
+      "text": " Begynd at lære, hvordan den tænker og agerer."
+    },
+    {
+      "start": 2506.8,
+      "end": 2508.8,
+      "text": " Det giver dig ekstremt meget."
+    },
+    {
+      "start": 2508.8,
+      "end": 2510.8,
+      "text": " Jeg vil anbefale at sige til,"
+    },
+    {
+      "start": 2510.8,
+      "end": 2512.8,
+      "text": " det kan være dine kollegaer, det kan være chef,"
+    },
+    {
+      "start": 2512.8,
+      "end": 2514.8,
+      "text": " det kan være ansat, det kan være hvem det nu engang skal være."
+    },
+    {
+      "start": 2514.8,
+      "end": 2516.8,
+      "text": " Det afhænger af din position i virksomheden."
+    },
+    {
+      "start": 2516.8,
+      "end": 2518.8,
+      "text": " Meld ud. Jeg vil gerne være den person, der bruger AI mere."
+    },
+    {
+      "start": 2518.8,
+      "end": 2520.8,
+      "text": " Hvis I har et projekt, hvor I gerne vil have løst det,"
+    },
+    {
+      "start": 2520.8,
+      "end": 2522.8,
+      "text": " tænk mig ind. Her er de ting, jeg selv har tænkt mig at gøre."
+    },
+    {
+      "start": 2522.8,
+      "end": 2524.8,
+      "text": " Der er det der med,"
+    },
+    {
+      "start": 2524.8,
+      "end": 2526.8,
+      "text": " hvis du har en træningsmakker,"
+    },
+    {
+      "start": 2526.8,
+      "end": 2528.8,
+      "text": " som du skal mødes med om morgenen til træning, så er du mere tilbøjelig til at møde op."
+    },
+    {
+      "start": 2528.8,
+      "end": 2530.8,
+      "text": " Fordi nu har du sagt det."
+    },
+    {
+      "start": 2530.8,
+      "end": 2532.8,
+      "text": " Nu har du publikt dedikeret dig til det."
+    },
+    {
+      "start": 2532.8,
+      "end": 2534.8,
+      "text": " Du vil ikke lade de andre i stikken."
+    },
+    {
+      "start": 2534.8,
+      "end": 2536.8,
+      "text": " Det er lidt det samme med AI. Hvis du siger til alle andre,"
+    },
+    {
+      "start": 2536.8,
+      "end": 2538.8,
+      "text": " jeg vil gerne være personen. Hvis I har noget, lad mig løse det."
+    },
+    {
+      "start": 2538.8,
+      "end": 2540.8,
+      "text": " Ellers prøver jeg at finde nogle ting, hvor jeg kan gøre det."
+    },
+    {
+      "start": 2540.8,
+      "end": 2542.8,
+      "text": " Så bliver du også personen."
+    },
+    {
+      "start": 2542.8,
+      "end": 2544.8,
+      "text": " Jeg vil melde ud og sige til folk,"
+    },
+    {
+      "start": 2544.8,
+      "end": 2546.8,
+      "text": " det vil jeg gerne det her."
+    },
+    {
+      "start": 2546.8,
+      "end": 2548.8,
+      "text": " Nogle gange opstår der muligheder og vil bare sige,"
+    },
+    {
+      "start": 2548.8,
+      "end": 2550.8,
+      "text": " all you gotta do is ask sometimes."
+    },
+    {
+      "start": 2550.8,
+      "end": 2552.8,
+      "text": " Måske der rent faktisk ligger et AI-projekt, hvor de tænker,"
+    },
+    {
+      "start": 2552.8,
+      "end": 2554.8,
+      "text": " giv dig bare nogle af vores medarbejdere, der vil tage initiativ til at lave noget ekstra."
+    },
+    {
+      "start": 2554.8,
+      "end": 2556.8,
+      "text": " Du kan være den person, der tager lidt initiativ."
+    },
+    {
+      "start": 2556.8,
+      "end": 2558.8,
+      "text": " Det er en kongegren inden for adfærdsdesign, det der."
+    },
+    {
+      "start": 2558.8,
+      "end": 2560.8,
+      "text": " Sig det højt. Gå i gang med det."
+    },
+    {
+      "start": 2560.8,
+      "end": 2562.8,
+      "text": " Vælg et projekt. Noget af det, du selv sidder med til dagligt."
+    },
+    {
+      "start": 2562.8,
+      "end": 2564.8,
+      "text": " Og så kom i mål med det."
+    },
+    {
+      "start": 2564.8,
+      "end": 2566.8,
+      "text": " Og det er nok noget af det vigtigste."
+    },
+    {
+      "start": 2566.8,
+      "end": 2568.8,
+      "text": " Du kommer til at løbe hand mod muren."
+    },
+    {
+      "start": 2568.8,
+      "end": 2570.8,
+      "text": " Ikke bare en gang, ikke bare to gange, men en masse gange."
+    },
+    {
+      "start": 2570.8,
+      "end": 2572.8,
+      "text": " Jeg har gjort det rødt gang i dag."
+    },
+    {
+      "start": 2572.8,
+      "end": 2574.8,
+      "text": " Præcis."
+    },
+    {
+      "start": 2574.8,
+      "end": 2576.8,
+      "text": " Det er derfor det er vigtigt at have det ene projekt, når man starter ud."
+    },
+    {
+      "start": 2576.8,
+      "end": 2578.8,
+      "text": " For ellers kan man hurtigt komme til at sige,"
+    },
+    {
+      "start": 2578.8,
+      "end": 2580.8,
+      "text": " jeg går lige over til det næste projekt."
+    },
+    {
+      "start": 2580.8,
+      "end": 2582.8,
+      "text": " Og så sidder du med tre projekter, hvor du er 10% færdig."
+    },
+    {
+      "start": 2582.8,
+      "end": 2584.8,
+      "text": " Det er bare så synd. Kom i mål med det ene projekt."
+    },
+    {
+      "start": 2584.8,
+      "end": 2586.8,
+      "text": " Jeg kan næsten garantere for,"
+    },
+    {
+      "start": 2586.8,
+      "end": 2588.8,
+      "text": " at det kommer til at være den største succesfølelse,"
+    },
+    {
+      "start": 2588.8,
+      "end": 2590.8,
+      "text": " at have brugt AI til at komme i mål med det her."
+    },
+    {
+      "start": 2590.8,
+      "end": 2592.8,
+      "text": " Shit, det bliver sejt."
+    },
+    {
+      "start": 2592.8,
+      "end": 2594.8,
+      "text": " Og det aller sidste tip, det er at sørge for at abonnere på Marketingpot på YouTube."
+    },
+    {
+      "start": 2594.8,
+      "end": 2596.8,
+      "text": " Abonner på Spotify."
+    },
+    {
+      "start": 2596.8,
+      "end": 2598.8,
+      "text": " Giv dem syv dage, og så kommer den næste episode."
+    },
+    {
+      "start": 2598.8,
+      "end": 2600.8,
+      "text": " Sådan gør du AI til din personlige assistent."
+    },
+    {
+      "start": 2600.8,
+      "end": 2602.8,
+      "text": " Tusind tak, fordi du lød med til dagens episode."
+    }
+  ]
+}

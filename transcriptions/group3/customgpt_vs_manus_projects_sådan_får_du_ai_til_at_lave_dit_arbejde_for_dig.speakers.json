@@ -1,0 +1,1231 @@
+{
+  "title": "CustomGPT vs Manus Projects: Sådan får du AI til at lave dit arbejde for dig",
+  "url": "https://www.youtube.com/watch?v=FD3t6WUOR_Y",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 669.3,
+  "transcribed_at": "2026-07-29T13:36:05.010908+00:00",
+  "full_text": "Hej og velkommen til en ny episode af MarketingPod. I dag kommer vi til at vise, hvordan vi bruger Manus til fast at lave transkriptioner og billeder til MarketingPod hver eneste uge. Og det er et eksempel på, hvordan du tager en opgave, du laver igen og igen og igen, og får AI til at lave den. Fordi jeg har nedbrækket den tid, jeg skal bruge på at redigere og forberede materiale til podcastet ganske væsentligt ved bare at lave en lille skid og et projekt inde i Manus, som fungerer mega godt. Og jeg kan godt tænke mig at vise, hvordan du gør det samme til de opgaver, du sidder med igen og igen. For lige at forklare, hvad et projekt i Manus er, så kan jeg godt tænke mig at starte med, hvad en custom GPT er. Et chat-GPT, fordi det tror jeg, der er endnu flere, der har brugt. Det ved jeg, det har du også gjort, og det har jeg også gjort en del. Hvad er det nu custom-GPT er, og hvad er det for et problem, de skal løse lige til at starte med? En custom-GPT er en prædefineret instruks, som for eksempel i det her tilfælde chat-GPT, så arbejder ud fra. Og jeg bruger det i forbindelse med bl.a. de nyheder, vi har med i marketing på det. Så det, jeg har forklaret i den her custom-GPT, er for eksempel at læse URL'en, jeg sender. Så jeg sender bare en URL ind i den her custom-GPT. Jeg sender bare en URL, og så får jeg faktisk herefter de her 3-4 linjer, vi skal bruge til at kunne læse op af den her nyhed. Så det er et lille resume på dansk, og det lyder ret simpelt. Det kræver lige noget kontekst for den at forstå, men det er nogle prædefinerede instrukser. Jeg har givet den baseret på den kontekst, jeg nogle gange giver, og så lever den faktisk bare ind i den her lille kasse og gør det, den skal. Og det smarte ved det her, det er jo, så skal du ikke hver gang sidde og give den den samme kontekst. Og igen forklare, jeg er Christian Tziniu, jeg læser nyheder op en gang om ugen på marketing på, at det skal være cirka så og så langt her, det handler om digital marketing, vi har generelt den her vinkel osv. Fordi det er jo i virkeligheden den kontekst, den prompt, du skal give hver eneste gang, hvis det her skal fungere rigtig godt. Og så kommer det bare til at tage lang tid, det er pludselig. Og der løser Custom GPT et rigtig stort problem. Udfordringen med Custom GPT er jo, at det er et chat-GPT-redskab først og fremmest, og det er også lidt begrænset til tekst-output. Jeg mener ikke, du kan få Custom GPT'er til at generere billede-output, kan du det? Tror jeg ikke, så skal det i hvert fald være ret nyt, for det kunne man ikke for et par måneder siden, da jeg prøvede. Nej, lige præcis. Så det, man kan gøre i stedet for, det er, at man kan bruge Manus, som faktisk kan tage en større del af opgaven for dig. Manus er ikke en Large Language Model eller en LMM. Manus er et middellæger. Det ligger på manus.im, og vi har tidligere lavet episode om det. Manus tager de forskellige modeller, som for eksempel Claude fra Anthropic eller Quinn fra Alibaba. Så tager de Nanobanana fra Google, og de tager alle mulige andre ting og orkestrerer dem for dig. Det vil sige, at du fortæller Manus, hvad det er, du gerne vil opnå. Og så skal Manus nok finde ud af, hvad er de rigtige redskaber til at opnå det, og give dig slutproduktet. Så i stedet for, at du får noget tekst, så får du det færdige produkt af Manus. I det her tilfælde, der har jeg gerne ville lave et projekt i Manus. Og et projekt, det svarer lidt til at have en custom GPT. Så i et projekt inde i Manus, der har jeg mulighed for at lægge nogle predefinerede instrukser og filer og skillfiler og alle sådan nogle ting. Så hvis man har en Manus-konto og går ind i den, så vil man i venstre side, og nu kommer jeg også til at vise det på skærmen for dem, der er med på YouTube og på Spotify med video. I venstre side, der man kan vælge projekter. Og der kan I se, at jeg har et her, der hedder MarketingPod-redigering, som jeg har lavet. I det her projekt, der ligger der en enkelt skid hernede, der hedder MarketingPod-editor. Måden, jeg har lavet den her på, det er faktisk i en anden tråd end på Manus. Så jeg lavede et ordentligt prompt for et par måneder siden. Og måden, jeg lavede det her prompt på, det var faktisk en lang diktering. Så jeg tog WhisperFlow abonnementet og talte bare i, hvordan laver vi normalt MarketingPod. Og så bad jeg den om at lave en skill til podcast-redigering ud fra det her. Så du kan faktisk godt få Manus, eller Claude, hvis du bruger det. Du kan godt få Manus til at lave sine egne skills. Jeg tror, der er nogen, der hører, når de skal lave en skill. Det lyder som noget, du skal lave et andet sted og uploade det eller et eller andet. Altså jeg lavede bare en lang indtaling, og så sagde jeg, ud fra det her skal du nu lave en skill, så vi kan gøre det her igen og igen og igen. Og så gjorde den så. Den skill, den så har lavet, den ligger nu inde i mit projekt. Og man kan se, det er egentlig bare en lang instruksfil. Så det hedder .skill, men det er bare en lang instruks til lige præcis, hvordan vi laver MarketingPod. Hvordan vi transkriberer, hvad vores sprog er, hvordan vi genererer YouTube-thumbnail, hvad er vores farve, hvad er vores logo. Og så ligger alle mulige ting herinde. Der er et billede af dig, der er et billede af mig, der er et billede af logo. Alle de her ting, det ligger bare fast i en skill-fil. For det betyder, at du ikke skal komme op med det igen og igen og igen. Men min primære pointe med det her, det er faktisk, at du behøver ikke have den her fil fra starten. Du kan faktisk bare bede Manus om at lave, ved at fortælle, hvad det er, du gerne vil lave for en opgave. Jeg tror, der er mange, der overvurderer, hvor svært det er faktisk at lave skills. En af de fedeste måder at lave skills på, det er netop det. Altså have en lang chat en dag, hvor du kommer frem til et eller andet resultat. Når du tænker, at nu er den der. Efter 20 beskider frem og tilbage, hvor du har måttet rette den og gøre ting og sager. Til sidst så beder du om, det er det der, jeg gerne vil have. Lave det der om til en skill. Og det en skill er, det er jo bare sådan en markdown-fil, hvor der står en beskrivelse og nogle referencefiler med videre. Så man skal forestille sig nærmest sådan en lille mappe. En lille mappe, som indeholder de her instrukser og referencefiler med videre. Men du kan bare gøre det på bagkant. På bagkant er det, at du har nået et eller andet resultat i din enkeltstående chat. Og lave en skill ud fra det. Og det er genialt. Det er en lifesaver. Det er noget, jeg gerne vil redigere. Jeg redigerer den inde i Riverside, og så får jeg en mp3-fil. Den mp3-fil uploader jeg så til Manus. Det er jo et farligt at fortælle dig alt det her, Tine, fordi jeg skal på ferie om et par uger og er væk i en periode. Og du har troet med at udgive episode af MarketingPod selv, mens jeg er væk. Og jeg er i gang med at vise dig, hvordan man udgiver episode af MarketingPod, som det ellers kun er mig, der gør. Det havde jeg faktisk ikke lige overvejet. Det var fandme ikke særlig smart det her. Nå, men tak for dagens episode. Jeg har ikke mere at fortælle herfra. Og jeg vil også lige sige, at nu har lytterne, der har lyttet med på flere episoder, ved, hvordan halvten er. Vi har sådan lidt en intern kamp. Jeg kan godt lide at nedfælde processerne osv. Der er styr på det. Halvten blæser bare derudad. Så da jeg lige her, inden vi optog nu her, sagde til ham, at bare rolig, halvten. Jeg har den sammen med Bii. Og halvten siger, at du ved jo ikke, hvordan man redigerer dem bagefter og uploader dem osv. Så siger jeg, at jo, halvten, det ved jeg faktisk godt, fordi jeg har nedfældt hele processen. Der blev halvten altså blar i ansigtet. Der kunne jeg godt se, at det var ikke sjovt. Så endelig, endelig kom de processer med til går. Jeg er lidt bange for, hvad der kommer til at ske i de par uger. Jeg er væk og hvilke episoder, der kommer ud der. Men det finder vi ud af, fordi jeg er jo i gang med at fortælle dig præcis, hvordan du kan gøre det her. Det næste er, at jeg kommer til at dele den her skid eller projekt med dig, hvis du selv kan lægge file op. Nå, men jeg har den her skid. Og det I kan se her, jeg har faktisk bare lagt en mp3-file op. Og så har jeg sagt mandagsepisode. Det er det, prompten får. Det er en fil, og der står mandagsepisode. Det er det. Det er det. Og nu går den så i gang. Så det vil sige, den går nu i gang med at læse min skid. Det kan man se her. Sådan en loading skid, marketing på et editor. Så husker den lige noget knowledge. Og det er fordi, jeg har sådan nogle gange sagt, ej du har gjort det her, prøv lige at gøre det her sådan her en anden gang. Og så foreslår Manus selv, hov, skal jeg lige gemme det der som en instruks til næste gang? Og så har jeg sagt, ja tak, det ville da være dejligt, hvis du ville det. Så der er sådan seks forskellige instruks, som den lige har husket på. Så loader den skid. Så går den i gang med at transkribere podcasts. Og allerede her kan jeg sige, hvis jeg lægger en fil op i ChatGPT og beder den om at transkribere, det kan den ikke. Det gider den ikke. Så siger den bare, det må du selv finde ud af det der. Og allerede der, så bliver jeg jo langløg og tænker, fuck dig, ChatGPT, det gider jeg overhovedet ikke det her. Og der er Manus bare fed, fordi den siger aldrig, det må du selv finde ud af. Så finder den ud af, hvordan den løser det. Så Manus har kaldt en eller anden LLM, og går nu i gang med at transkribere filen. Når den så er færdig med at transkribere filen, så går den i gang med at lave podcastnoter på den måde, som jeg beder om den. Så vil jeg gerne have en intro til episoden med et eller andet hook. Så vil jeg gerne have de tre nyheder for ugen. Så vil jeg gerne have en længere beskrivelse af episoden. Og så har jeg kapitlerne med YouTube-kapitlerinddeling efterfølgende. Det er den struktur, vi bruger hver eneste gang. Så jeg har lagt tre eksempler op på, det er sådan her, jeg gerne vil have det skal være. De husker den nu, og så går den i gang med at lave det. Når den så har gjort det, så går den i gang med at generere thumbnails. Fordi det er en anden ting, vi gør hver eneste gang. Jeg genererer et thumbnail, som jeg bruger til vores LinkedIn-nyhedsbrev og YouTube. Jeg har en en-en version, jeg bruger til logoet i Transistor, som er vores publiceringssoftware. Så det laver den også med det samme. Så i det øjeblik, jeg uploader en episode, så går der ca. 10 minutter. Og så er den faktisk klar med det hele. Så det første, den kommer med, det er en færdig beskrivelse. Så kan jeg faktisk bare tage beskrivelsen ind i det her dokument og uploade den direkte ind i YouTube og LinkedIn osv. Der er nogle gange en lille smule formentering, så fikser jeg det. Så genererer den fem billeder. Jeg har bedt den om i promptet at generere fem billeder. Fordi så tænker jeg, så er der større sandsynlighed for, at den rammer rigtigt. Så jeg får altid fem billeder fra starten af. Du kan faktisk lige prøve at se. Jeg har ikke vist det, fordi jeg får altid fem. Også fordi så kan jeg vælge det billede, hvor jeg ser bedst ud. Eller det, hvor du ser dårligst ud. Og det her, det er impervæk et, hvor du ser dårlig ud, Tine. Du har fået briller. Og du er højere end mig, det giver jo ingen mening. Ja, det er et kanon. Det er et kanon billede. Jeg forstår faktisk ikke, hvorfor jeg ikke tog det her billede. Så har vi fået det her nede. Der er sådan, at vores arme går ind over hinanden. Det ser sådan lidt vildt ud. Så har vi fået det her, jeg rent faktisk endte med at bruge. Så der er jo sådan et billede af en trak på, den selv havde fundet på. Jeg synes egentlig, det så sådan meget cool ud, det her. Vi havde den her. Der så vi sådan lidt sure ud. Det synes jeg ikke var fedt. Den her, der er vi blevet glade igen. Det er rigtig godt. Men det gode er, at AI rammer jo forkert nogle gange. Og det er okay, fordi jeg beder den om at lave fem. Og så vælger jeg bare det bedste. Når jeg så har valgt det bedste, så går jeg bare ind og skriver, nu vil jeg gerne have det her i 1.1 også. Og så gør den det. Og jeg har faktisk også lavet en opkobling til, men der synes jeg stadig ikke, at den er lige så god til at vælge sjovklip, som du er. Så den får du altså lov til at lave manuelt til. Og jeg skulle lige til at sige, hvorfor Delen har du ikke fortalt mig det før? Fordi det er noget, der tager lang tid. Der er jeg trods alt glad for, at jeg stadig har en berettigelse i Post. Ikke Post Experience, Post Production. Ja, Post Production. Du er stadig sjovere end den er. Den vælger nogle lidt random klip nogle gange, hvor jeg tænker, det var der. Så det får du lov til at fortsætte med. Men alt det her, det kører faktisk bare ved, at jeg uploader den ene lydepisode og siger, at nu vil jeg gerne have en mandagsepisode. Og så kommer transkriptionen, der kommer beskrivelsen, der kommer fem billeder, de virker, og jeg kan få at billede det ene ind, og så kan jeg bare lægge det ind. Og det her, det gjorde jeg jo faktisk manuelt før. I stedet for, hvor jeg tog filen og lagde den op og transkriberede den, og så skrev jeg selv en beskrivelse til episoden, og så gik jeg selv ind og re-prompted et nyt thumbnail hver eneste gang. Det er derfor, at vores thumbnails i starten af, det er fuldstændig forskellige stilarter hver eneste uge. Fordi jeg har startet helt forfra, og har jeg følt mig kreativ, eller har jeg ikke lige følt mig kreativ i øjeblikket, hvor nu har vi en stilart, hvor logoet er altid med, baggrundsfarven er den samme, billederne er også to. Jeg kan godt lige lægge nogle flere billeder op, så ikke at det er altid det der. Men det er sgu bare blevet mere konsistent. Det er blevet nemmere, og jeg bruger mindre tid på det. Det er en pissefed AI-case. Og også indtil vi laver en kort episode om, hvor mange ting sidder man ikke og laver hver eneste uge, hvor det i virkeligheden godt bare kunne være, at man skulle opleve det. Rigtig mange, og jeg vil sige, hop ud i det, prøv det af første gang. For det er som om, at når man lykkes med at gøre det godt først, eller på et tidspunkt, når man knækker koden dertil, så åbner der sig en helt ny verden op. Så kan man pludselig se de der usecases, som man sidder med til dagligt, men som man måske har svært ved at se den dag i dag. Så spring ud i det, prøv det af. Det her er en, nu kaldte jeg det livesaver før, det edderhugge mig også en timesaver. Og det kan godt også være, at de to hænger sammen. Det gør det jo nok. Tusind tak, fordi du blev med til dagens episode.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 5.0,
+      "text": " Hej og velkommen til en ny episode af MarketingPod.",
+      "speaker": "A"
+    },
+    {
+      "start": 5.0,
+      "end": 13.0,
+      "text": " I dag kommer vi til at vise, hvordan vi bruger Manus til fast at lave transkriptioner og billeder til MarketingPod hver eneste uge.",
+      "speaker": "A"
+    },
+    {
+      "start": 13.0,
+      "end": 18.0,
+      "text": " Og det er et eksempel på, hvordan du tager en opgave, du laver igen og igen og igen, og får AI til at lave den.",
+      "speaker": "A"
+    },
+    {
+      "start": 18.0,
+      "end": 24.0,
+      "text": " Fordi jeg har nedbrækket den tid, jeg skal bruge på at redigere og forberede materiale til podcastet ganske væsentligt",
+      "speaker": "A"
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": " ved bare at lave en lille skid og et projekt inde i Manus, som fungerer mega godt.",
+      "speaker": "A"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": " Og jeg kan godt tænke mig at vise, hvordan du gør det samme til de opgaver, du sidder med igen og igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 32.0,
+      "end": 38.0,
+      "text": " For lige at forklare, hvad et projekt i Manus er, så kan jeg godt tænke mig at starte med, hvad en custom GPT er.",
+      "speaker": "A"
+    },
+    {
+      "start": 38.0,
+      "end": 43.0,
+      "text": " Et chat-GPT, fordi det tror jeg, der er endnu flere, der har brugt. Det ved jeg, det har du også gjort, og det har jeg også gjort en del.",
+      "speaker": "A"
+    },
+    {
+      "start": 43.0,
+      "end": 47.0,
+      "text": " Hvad er det nu custom-GPT er, og hvad er det for et problem, de skal løse lige til at starte med?",
+      "speaker": "A"
+    },
+    {
+      "start": 47.0,
+      "end": 54.0,
+      "text": " En custom-GPT er en prædefineret instruks, som for eksempel i det her tilfælde chat-GPT, så arbejder ud fra.",
+      "speaker": "B"
+    },
+    {
+      "start": 55.0,
+      "end": 59.0,
+      "text": " Og jeg bruger det i forbindelse med bl.a. de nyheder, vi har med i marketing på det.",
+      "speaker": "B"
+    },
+    {
+      "start": 59.0,
+      "end": 64.0,
+      "text": " Så det, jeg har forklaret i den her custom-GPT, er for eksempel at læse URL'en, jeg sender.",
+      "speaker": "B"
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": " Så jeg sender bare en URL ind i den her custom-GPT.",
+      "speaker": "B"
+    },
+    {
+      "start": 66.0,
+      "end": 72.0,
+      "text": " Jeg sender bare en URL, og så får jeg faktisk herefter de her 3-4 linjer, vi skal bruge til at kunne læse op af den her nyhed.",
+      "speaker": "B"
+    },
+    {
+      "start": 72.0,
+      "end": 75.0,
+      "text": " Så det er et lille resume på dansk, og det lyder ret simpelt.",
+      "speaker": "B"
+    },
+    {
+      "start": 75.0,
+      "end": 80.0,
+      "text": " Det kræver lige noget kontekst for den at forstå, men det er nogle prædefinerede instrukser.",
+      "speaker": "B"
+    },
+    {
+      "start": 80.0,
+      "end": 87.0,
+      "text": " Jeg har givet den baseret på den kontekst, jeg nogle gange giver, og så lever den faktisk bare ind i den her lille kasse og gør det, den skal.",
+      "speaker": "B"
+    },
+    {
+      "start": 87.0,
+      "end": 91.0,
+      "text": " Og det smarte ved det her, det er jo, så skal du ikke hver gang sidde og give den den samme kontekst.",
+      "speaker": "A"
+    },
+    {
+      "start": 91.0,
+      "end": 95.0,
+      "text": " Og igen forklare, jeg er Christian Tziniu, jeg læser nyheder op en gang om ugen på marketing på,",
+      "speaker": "A"
+    },
+    {
+      "start": 95.0,
+      "end": 99.0,
+      "text": " at det skal være cirka så og så langt her, det handler om digital marketing, vi har generelt den her vinkel osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 99.0,
+      "end": 106.0,
+      "text": " Fordi det er jo i virkeligheden den kontekst, den prompt, du skal give hver eneste gang, hvis det her skal fungere rigtig godt.",
+      "speaker": "A"
+    },
+    {
+      "start": 106.0,
+      "end": 109.0,
+      "text": " Og så kommer det bare til at tage lang tid, det er pludselig.",
+      "speaker": "A"
+    },
+    {
+      "start": 109.0,
+      "end": 112.0,
+      "text": " Og der løser Custom GPT et rigtig stort problem.",
+      "speaker": "A"
+    },
+    {
+      "start": 112.0,
+      "end": 118.0,
+      "text": " Udfordringen med Custom GPT er jo, at det er et chat-GPT-redskab først og fremmest, og det er også lidt begrænset til tekst-output.",
+      "speaker": "A"
+    },
+    {
+      "start": 118.0,
+      "end": 121.0,
+      "text": " Jeg mener ikke, du kan få Custom GPT'er til at generere billede-output, kan du det?",
+      "speaker": "A"
+    },
+    {
+      "start": 121.0,
+      "end": 125.0,
+      "text": " Tror jeg ikke, så skal det i hvert fald være ret nyt, for det kunne man ikke for et par måneder siden, da jeg prøvede.",
+      "speaker": "B"
+    },
+    {
+      "start": 125.0,
+      "end": 127.0,
+      "text": " Nej, lige præcis.",
+      "speaker": "A"
+    },
+    {
+      "start": 127.0,
+      "end": 133.0,
+      "text": " Så det, man kan gøre i stedet for, det er, at man kan bruge Manus, som faktisk kan tage en større del af opgaven for dig.",
+      "speaker": "A"
+    },
+    {
+      "start": 133.0,
+      "end": 137.0,
+      "text": " Manus er ikke en Large Language Model eller en LMM.",
+      "speaker": "A"
+    },
+    {
+      "start": 137.0,
+      "end": 139.0,
+      "text": " Manus er et middellæger.",
+      "speaker": "A"
+    },
+    {
+      "start": 139.0,
+      "end": 142.0,
+      "text": " Det ligger på manus.im, og vi har tidligere lavet episode om det.",
+      "speaker": "A"
+    },
+    {
+      "start": 142.0,
+      "end": 146.0,
+      "text": " Manus tager de forskellige modeller, som for eksempel Claude fra Anthropic eller Quinn fra Alibaba.",
+      "speaker": "A"
+    },
+    {
+      "start": 146.0,
+      "end": 151.0,
+      "text": " Så tager de Nanobanana fra Google, og de tager alle mulige andre ting og orkestrerer dem for dig.",
+      "speaker": "A"
+    },
+    {
+      "start": 151.0,
+      "end": 154.0,
+      "text": " Det vil sige, at du fortæller Manus, hvad det er, du gerne vil opnå.",
+      "speaker": "A"
+    },
+    {
+      "start": 154.0,
+      "end": 158.0,
+      "text": " Og så skal Manus nok finde ud af, hvad er de rigtige redskaber til at opnå det, og give dig slutproduktet.",
+      "speaker": "A"
+    },
+    {
+      "start": 158.0,
+      "end": 163.0,
+      "text": " Så i stedet for, at du får noget tekst, så får du det færdige produkt af Manus.",
+      "speaker": "A"
+    },
+    {
+      "start": 163.0,
+      "end": 166.0,
+      "text": " I det her tilfælde, der har jeg gerne ville lave et projekt i Manus.",
+      "speaker": "A"
+    },
+    {
+      "start": 166.0,
+      "end": 170.0,
+      "text": " Og et projekt, det svarer lidt til at have en custom GPT.",
+      "speaker": "A"
+    },
+    {
+      "start": 170.0,
+      "end": 177.0,
+      "text": " Så i et projekt inde i Manus, der har jeg mulighed for at lægge nogle predefinerede instrukser og filer og skillfiler og alle sådan nogle ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 177.0,
+      "end": 186.0,
+      "text": " Så hvis man har en Manus-konto og går ind i den, så vil man i venstre side, og nu kommer jeg også til at vise det på skærmen for dem, der er med på YouTube og på Spotify med video.",
+      "speaker": "A"
+    },
+    {
+      "start": 186.0,
+      "end": 188.0,
+      "text": " I venstre side, der man kan vælge projekter.",
+      "speaker": "A"
+    },
+    {
+      "start": 188.0,
+      "end": 192.0,
+      "text": " Og der kan I se, at jeg har et her, der hedder MarketingPod-redigering, som jeg har lavet.",
+      "speaker": "A"
+    },
+    {
+      "start": 192.0,
+      "end": 198.0,
+      "text": " I det her projekt, der ligger der en enkelt skid hernede, der hedder MarketingPod-editor.",
+      "speaker": "A"
+    },
+    {
+      "start": 198.0,
+      "end": 203.0,
+      "text": " Måden, jeg har lavet den her på, det er faktisk i en anden tråd end på Manus.",
+      "speaker": "A"
+    },
+    {
+      "start": 203.0,
+      "end": 207.0,
+      "text": " Så jeg lavede et ordentligt prompt for et par måneder siden.",
+      "speaker": "A"
+    },
+    {
+      "start": 207.0,
+      "end": 211.0,
+      "text": " Og måden, jeg lavede det her prompt på, det var faktisk en lang diktering.",
+      "speaker": "A"
+    },
+    {
+      "start": 211.0,
+      "end": 216.0,
+      "text": " Så jeg tog WhisperFlow abonnementet og talte bare i, hvordan laver vi normalt MarketingPod.",
+      "speaker": "A"
+    },
+    {
+      "start": 216.0,
+      "end": 221.0,
+      "text": " Og så bad jeg den om at lave en skill til podcast-redigering ud fra det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 221.0,
+      "end": 224.0,
+      "text": " Så du kan faktisk godt få Manus, eller Claude, hvis du bruger det.",
+      "speaker": "A"
+    },
+    {
+      "start": 224.0,
+      "end": 227.0,
+      "text": " Du kan godt få Manus til at lave sine egne skills.",
+      "speaker": "A"
+    },
+    {
+      "start": 227.0,
+      "end": 232.0,
+      "text": " Jeg tror, der er nogen, der hører, når de skal lave en skill. Det lyder som noget, du skal lave et andet sted og uploade det eller et eller andet.",
+      "speaker": "A"
+    },
+    {
+      "start": 232.0,
+      "end": 239.0,
+      "text": " Altså jeg lavede bare en lang indtaling, og så sagde jeg, ud fra det her skal du nu lave en skill, så vi kan gøre det her igen og igen og igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 239.0,
+      "end": 243.0,
+      "text": " Og så gjorde den så. Den skill, den så har lavet, den ligger nu inde i mit projekt.",
+      "speaker": "A"
+    },
+    {
+      "start": 243.0,
+      "end": 247.0,
+      "text": " Og man kan se, det er egentlig bare en lang instruksfil.",
+      "speaker": "A"
+    },
+    {
+      "start": 247.0,
+      "end": 253.0,
+      "text": " Så det hedder .skill, men det er bare en lang instruks til lige præcis, hvordan vi laver MarketingPod.",
+      "speaker": "A"
+    },
+    {
+      "start": 253.0,
+      "end": 258.0,
+      "text": " Hvordan vi transkriberer, hvad vores sprog er, hvordan vi genererer YouTube-thumbnail, hvad er vores farve, hvad er vores logo.",
+      "speaker": "A"
+    },
+    {
+      "start": 258.0,
+      "end": 263.0,
+      "text": " Og så ligger alle mulige ting herinde. Der er et billede af dig, der er et billede af mig, der er et billede af logo.",
+      "speaker": "A"
+    },
+    {
+      "start": 263.0,
+      "end": 269.0,
+      "text": " Alle de her ting, det ligger bare fast i en skill-fil. For det betyder, at du ikke skal komme op med det igen og igen og igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 269.0,
+      "end": 273.0,
+      "text": " Men min primære pointe med det her, det er faktisk, at du behøver ikke have den her fil fra starten.",
+      "speaker": "A"
+    },
+    {
+      "start": 273.0,
+      "end": 277.0,
+      "text": " Du kan faktisk bare bede Manus om at lave, ved at fortælle, hvad det er, du gerne vil lave for en opgave.",
+      "speaker": "A"
+    },
+    {
+      "start": 277.0,
+      "end": 280.0,
+      "text": " Jeg tror, der er mange, der overvurderer, hvor svært det er faktisk at lave skills.",
+      "speaker": "A"
+    },
+    {
+      "start": 280.0,
+      "end": 286.0,
+      "text": " En af de fedeste måder at lave skills på, det er netop det. Altså have en lang chat en dag, hvor du kommer frem til et eller andet resultat.",
+      "speaker": "B"
+    },
+    {
+      "start": 286.0,
+      "end": 291.0,
+      "text": " Når du tænker, at nu er den der. Efter 20 beskider frem og tilbage, hvor du har måttet rette den og gøre ting og sager.",
+      "speaker": "B"
+    },
+    {
+      "start": 291.0,
+      "end": 294.0,
+      "text": " Til sidst så beder du om, det er det der, jeg gerne vil have. Lave det der om til en skill.",
+      "speaker": "B"
+    },
+    {
+      "start": 294.0,
+      "end": 300.0,
+      "text": " Og det en skill er, det er jo bare sådan en markdown-fil, hvor der står en beskrivelse og nogle referencefiler med videre.",
+      "speaker": "B"
+    },
+    {
+      "start": 300.0,
+      "end": 306.0,
+      "text": " Så man skal forestille sig nærmest sådan en lille mappe. En lille mappe, som indeholder de her instrukser og referencefiler med videre.",
+      "speaker": "B"
+    },
+    {
+      "start": 306.0,
+      "end": 311.0,
+      "text": " Men du kan bare gøre det på bagkant. På bagkant er det, at du har nået et eller andet resultat i din enkeltstående chat.",
+      "speaker": "B"
+    },
+    {
+      "start": 311.0,
+      "end": 315.0,
+      "text": " Og lave en skill ud fra det. Og det er genialt. Det er en lifesaver.",
+      "speaker": "B"
+    },
+    {
+      "start": 316.0,
+      "end": 320.0,
+      "text": " Det er noget, jeg gerne vil redigere. Jeg redigerer den inde i Riverside, og så får jeg en mp3-fil.",
+      "speaker": "A"
+    },
+    {
+      "start": 320.0,
+      "end": 323.0,
+      "text": " Den mp3-fil uploader jeg så til Manus.",
+      "speaker": "A"
+    },
+    {
+      "start": 323.0,
+      "end": 328.0,
+      "text": " Det er jo et farligt at fortælle dig alt det her, Tine, fordi jeg skal på ferie om et par uger og er væk i en periode.",
+      "speaker": "A"
+    },
+    {
+      "start": 328.0,
+      "end": 331.0,
+      "text": " Og du har troet med at udgive episode af MarketingPod selv, mens jeg er væk.",
+      "speaker": "A"
+    },
+    {
+      "start": 331.0,
+      "end": 335.0,
+      "text": " Og jeg er i gang med at vise dig, hvordan man udgiver episode af MarketingPod, som det ellers kun er mig, der gør.",
+      "speaker": "A"
+    },
+    {
+      "start": 335.0,
+      "end": 337.0,
+      "text": " Det havde jeg faktisk ikke lige overvejet. Det var fandme ikke særlig smart det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 337.0,
+      "end": 340.0,
+      "text": " Nå, men tak for dagens episode. Jeg har ikke mere at fortælle herfra.",
+      "speaker": "A"
+    },
+    {
+      "start": 340.0,
+      "end": 345.0,
+      "text": " Og jeg vil også lige sige, at nu har lytterne, der har lyttet med på flere episoder, ved, hvordan halvten er.",
+      "speaker": "B"
+    },
+    {
+      "start": 345.0,
+      "end": 348.0,
+      "text": " Vi har sådan lidt en intern kamp. Jeg kan godt lide at nedfælde processerne osv.",
+      "speaker": "B"
+    },
+    {
+      "start": 348.0,
+      "end": 350.0,
+      "text": " Der er styr på det. Halvten blæser bare derudad.",
+      "speaker": "B"
+    },
+    {
+      "start": 350.0,
+      "end": 355.0,
+      "text": " Så da jeg lige her, inden vi optog nu her, sagde til ham, at bare rolig, halvten. Jeg har den sammen med Bii.",
+      "speaker": "B"
+    },
+    {
+      "start": 355.0,
+      "end": 359.0,
+      "text": " Og halvten siger, at du ved jo ikke, hvordan man redigerer dem bagefter og uploader dem osv.",
+      "speaker": "B"
+    },
+    {
+      "start": 359.0,
+      "end": 362.0,
+      "text": " Så siger jeg, at jo, halvten, det ved jeg faktisk godt, fordi jeg har nedfældt hele processen.",
+      "speaker": "B"
+    },
+    {
+      "start": 362.0,
+      "end": 365.0,
+      "text": " Der blev halvten altså blar i ansigtet. Der kunne jeg godt se, at det var ikke sjovt.",
+      "speaker": "B"
+    },
+    {
+      "start": 365.0,
+      "end": 368.0,
+      "text": " Så endelig, endelig kom de processer med til går.",
+      "speaker": "B"
+    },
+    {
+      "start": 368.0,
+      "end": 371.0,
+      "text": " Jeg er lidt bange for, hvad der kommer til at ske i de par uger.",
+      "speaker": "A"
+    },
+    {
+      "start": 371.0,
+      "end": 374.0,
+      "text": " Jeg er væk og hvilke episoder, der kommer ud der.",
+      "speaker": "A"
+    },
+    {
+      "start": 374.0,
+      "end": 377.0,
+      "text": " Men det finder vi ud af, fordi jeg er jo i gang med at fortælle dig præcis, hvordan du kan gøre det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 377.0,
+      "end": 382.0,
+      "text": " Det næste er, at jeg kommer til at dele den her skid eller projekt med dig, hvis du selv kan lægge file op.",
+      "speaker": "A"
+    },
+    {
+      "start": 382.0,
+      "end": 384.0,
+      "text": " Nå, men jeg har den her skid.",
+      "speaker": "A"
+    },
+    {
+      "start": 384.0,
+      "end": 387.0,
+      "text": " Og det I kan se her, jeg har faktisk bare lagt en mp3-file op.",
+      "speaker": "A"
+    },
+    {
+      "start": 387.0,
+      "end": 389.0,
+      "text": " Og så har jeg sagt mandagsepisode.",
+      "speaker": "A"
+    },
+    {
+      "start": 389.0,
+      "end": 392.0,
+      "text": " Det er det, prompten får. Det er en fil, og der står mandagsepisode.",
+      "speaker": "A"
+    },
+    {
+      "start": 392.0,
+      "end": 394.0,
+      "text": " Det er det. Det er det.",
+      "speaker": "A"
+    },
+    {
+      "start": 394.0,
+      "end": 396.0,
+      "text": " Og nu går den så i gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 396.0,
+      "end": 398.0,
+      "text": " Så det vil sige, den går nu i gang med at læse min skid.",
+      "speaker": "A"
+    },
+    {
+      "start": 398.0,
+      "end": 401.0,
+      "text": " Det kan man se her. Sådan en loading skid, marketing på et editor.",
+      "speaker": "A"
+    },
+    {
+      "start": 401.0,
+      "end": 403.0,
+      "text": " Så husker den lige noget knowledge.",
+      "speaker": "A"
+    },
+    {
+      "start": 403.0,
+      "end": 407.0,
+      "text": " Og det er fordi, jeg har sådan nogle gange sagt, ej du har gjort det her, prøv lige at gøre det her sådan her en anden gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 407.0,
+      "end": 410.0,
+      "text": " Og så foreslår Manus selv, hov, skal jeg lige gemme det der som en instruks til næste gang?",
+      "speaker": "A"
+    },
+    {
+      "start": 410.0,
+      "end": 412.0,
+      "text": " Og så har jeg sagt, ja tak, det ville da være dejligt, hvis du ville det.",
+      "speaker": "A"
+    },
+    {
+      "start": 412.0,
+      "end": 415.0,
+      "text": " Så der er sådan seks forskellige instruks, som den lige har husket på.",
+      "speaker": "A"
+    },
+    {
+      "start": 415.0,
+      "end": 417.0,
+      "text": " Så loader den skid.",
+      "speaker": "A"
+    },
+    {
+      "start": 417.0,
+      "end": 419.0,
+      "text": " Så går den i gang med at transkribere podcasts.",
+      "speaker": "A"
+    },
+    {
+      "start": 419.0,
+      "end": 423.0,
+      "text": " Og allerede her kan jeg sige, hvis jeg lægger en fil op i ChatGPT og beder den om at transkribere, det kan den ikke.",
+      "speaker": "A"
+    },
+    {
+      "start": 423.0,
+      "end": 425.0,
+      "text": " Det gider den ikke. Så siger den bare, det må du selv finde ud af det der.",
+      "speaker": "A"
+    },
+    {
+      "start": 425.0,
+      "end": 429.0,
+      "text": " Og allerede der, så bliver jeg jo langløg og tænker, fuck dig, ChatGPT, det gider jeg overhovedet ikke det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 429.0,
+      "end": 432.0,
+      "text": " Og der er Manus bare fed, fordi den siger aldrig, det må du selv finde ud af.",
+      "speaker": "A"
+    },
+    {
+      "start": 432.0,
+      "end": 434.0,
+      "text": " Så finder den ud af, hvordan den løser det.",
+      "speaker": "A"
+    },
+    {
+      "start": 434.0,
+      "end": 438.0,
+      "text": " Så Manus har kaldt en eller anden LLM, og går nu i gang med at transkribere filen.",
+      "speaker": "A"
+    },
+    {
+      "start": 438.0,
+      "end": 445.0,
+      "text": " Når den så er færdig med at transkribere filen, så går den i gang med at lave podcastnoter på den måde, som jeg beder om den.",
+      "speaker": "A"
+    },
+    {
+      "start": 445.0,
+      "end": 447.0,
+      "text": " Så vil jeg gerne have en intro til episoden med et eller andet hook.",
+      "speaker": "A"
+    },
+    {
+      "start": 447.0,
+      "end": 450.0,
+      "text": " Så vil jeg gerne have de tre nyheder for ugen.",
+      "speaker": "A"
+    },
+    {
+      "start": 450.0,
+      "end": 452.0,
+      "text": " Så vil jeg gerne have en længere beskrivelse af episoden.",
+      "speaker": "A"
+    },
+    {
+      "start": 452.0,
+      "end": 455.0,
+      "text": " Og så har jeg kapitlerne med YouTube-kapitlerinddeling efterfølgende.",
+      "speaker": "A"
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": " Det er den struktur, vi bruger hver eneste gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 457.0,
+      "end": 460.0,
+      "text": " Så jeg har lagt tre eksempler op på, det er sådan her, jeg gerne vil have det skal være.",
+      "speaker": "A"
+    },
+    {
+      "start": 460.0,
+      "end": 462.0,
+      "text": " De husker den nu, og så går den i gang med at lave det.",
+      "speaker": "A"
+    },
+    {
+      "start": 462.0,
+      "end": 465.0,
+      "text": " Når den så har gjort det, så går den i gang med at generere thumbnails.",
+      "speaker": "A"
+    },
+    {
+      "start": 465.0,
+      "end": 467.0,
+      "text": " Fordi det er en anden ting, vi gør hver eneste gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 467.0,
+      "end": 471.0,
+      "text": " Jeg genererer et thumbnail, som jeg bruger til vores LinkedIn-nyhedsbrev og YouTube.",
+      "speaker": "A"
+    },
+    {
+      "start": 471.0,
+      "end": 475.0,
+      "text": " Jeg har en en-en version, jeg bruger til logoet i Transistor, som er vores publiceringssoftware.",
+      "speaker": "A"
+    },
+    {
+      "start": 475.0,
+      "end": 477.0,
+      "text": " Så det laver den også med det samme.",
+      "speaker": "A"
+    },
+    {
+      "start": 477.0,
+      "end": 480.0,
+      "text": " Så i det øjeblik, jeg uploader en episode, så går der ca. 10 minutter.",
+      "speaker": "A"
+    },
+    {
+      "start": 480.0,
+      "end": 482.0,
+      "text": " Og så er den faktisk klar med det hele.",
+      "speaker": "A"
+    },
+    {
+      "start": 482.0,
+      "end": 486.0,
+      "text": " Så det første, den kommer med, det er en færdig beskrivelse.",
+      "speaker": "A"
+    },
+    {
+      "start": 486.0,
+      "end": 492.0,
+      "text": " Så kan jeg faktisk bare tage beskrivelsen ind i det her dokument og uploade den direkte ind i YouTube og LinkedIn osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 492.0,
+      "end": 494.0,
+      "text": " Der er nogle gange en lille smule formentering, så fikser jeg det.",
+      "speaker": "A"
+    },
+    {
+      "start": 494.0,
+      "end": 496.0,
+      "text": " Så genererer den fem billeder.",
+      "speaker": "A"
+    },
+    {
+      "start": 496.0,
+      "end": 498.0,
+      "text": " Jeg har bedt den om i promptet at generere fem billeder.",
+      "speaker": "A"
+    },
+    {
+      "start": 498.0,
+      "end": 500.0,
+      "text": " Fordi så tænker jeg, så er der større sandsynlighed for, at den rammer rigtigt.",
+      "speaker": "A"
+    },
+    {
+      "start": 501.0,
+      "end": 503.0,
+      "text": " Så jeg får altid fem billeder fra starten af.",
+      "speaker": "A"
+    },
+    {
+      "start": 503.0,
+      "end": 505.0,
+      "text": " Du kan faktisk lige prøve at se.",
+      "speaker": "A"
+    },
+    {
+      "start": 505.0,
+      "end": 507.0,
+      "text": " Jeg har ikke vist det, fordi jeg får altid fem.",
+      "speaker": "A"
+    },
+    {
+      "start": 507.0,
+      "end": 509.0,
+      "text": " Også fordi så kan jeg vælge det billede, hvor jeg ser bedst ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 509.0,
+      "end": 511.0,
+      "text": " Eller det, hvor du ser dårligst ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 511.0,
+      "end": 513.0,
+      "text": " Og det her, det er impervæk et, hvor du ser dårlig ud, Tine.",
+      "speaker": "A"
+    },
+    {
+      "start": 513.0,
+      "end": 515.0,
+      "text": " Du har fået briller.",
+      "speaker": "A"
+    },
+    {
+      "start": 515.0,
+      "end": 517.0,
+      "text": " Og du er højere end mig, det giver jo ingen mening.",
+      "speaker": "B"
+    },
+    {
+      "start": 517.0,
+      "end": 519.0,
+      "text": " Ja, det er et kanon.",
+      "speaker": "A"
+    },
+    {
+      "start": 519.0,
+      "end": 521.0,
+      "text": " Det er et kanon billede.",
+      "speaker": "A"
+    },
+    {
+      "start": 521.0,
+      "end": 523.0,
+      "text": " Jeg forstår faktisk ikke, hvorfor jeg ikke tog det her billede.",
+      "speaker": "A"
+    },
+    {
+      "start": 523.0,
+      "end": 525.0,
+      "text": " Så har vi fået det her nede.",
+      "speaker": "A"
+    },
+    {
+      "start": 525.0,
+      "end": 527.0,
+      "text": " Der er sådan, at vores arme går ind over hinanden.",
+      "speaker": "A"
+    },
+    {
+      "start": 527.0,
+      "end": 529.0,
+      "text": " Det ser sådan lidt vildt ud.",
+      "speaker": "A"
+    },
+    {
+      "start": 529.0,
+      "end": 533.0,
+      "text": " Så har vi fået det her, jeg rent faktisk endte med at bruge.",
+      "speaker": "A"
+    },
+    {
+      "start": 533.0,
+      "end": 535.0,
+      "text": " Så der er jo sådan et billede af en trak på, den selv havde fundet på.",
+      "speaker": "A"
+    },
+    {
+      "start": 535.0,
+      "end": 537.0,
+      "text": " Jeg synes egentlig, det så sådan meget cool ud, det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 537.0,
+      "end": 539.0,
+      "text": " Vi havde den her.",
+      "speaker": "A"
+    },
+    {
+      "start": 539.0,
+      "end": 541.0,
+      "text": " Der så vi sådan lidt sure ud. Det synes jeg ikke var fedt.",
+      "speaker": "A"
+    },
+    {
+      "start": 541.0,
+      "end": 543.0,
+      "text": " Den her, der er vi blevet glade igen. Det er rigtig godt.",
+      "speaker": "A"
+    },
+    {
+      "start": 543.0,
+      "end": 545.0,
+      "text": " Men det gode er, at AI rammer jo forkert nogle gange.",
+      "speaker": "A"
+    },
+    {
+      "start": 545.0,
+      "end": 547.0,
+      "text": " Og det er okay, fordi jeg beder den om at lave fem.",
+      "speaker": "A"
+    },
+    {
+      "start": 547.0,
+      "end": 549.0,
+      "text": " Og så vælger jeg bare det bedste.",
+      "speaker": "A"
+    },
+    {
+      "start": 549.0,
+      "end": 551.0,
+      "text": " Når jeg så har valgt det bedste, så går jeg bare ind og skriver,",
+      "speaker": "A"
+    },
+    {
+      "start": 551.0,
+      "end": 553.0,
+      "text": " nu vil jeg gerne have det her i 1.1 også. Og så gør den det.",
+      "speaker": "A"
+    },
+    {
+      "start": 553.0,
+      "end": 555.0,
+      "text": " Og jeg har faktisk også lavet en opkobling til,",
+      "speaker": "A"
+    },
+    {
+      "start": 559.0,
+      "end": 563.0,
+      "text": " men der synes jeg stadig ikke, at den er lige så god til at vælge sjovklip, som du er.",
+      "speaker": "A"
+    },
+    {
+      "start": 563.0,
+      "end": 565.0,
+      "text": " Så den får du altså lov til at lave manuelt til.",
+      "speaker": "A"
+    },
+    {
+      "start": 565.0,
+      "end": 567.0,
+      "text": " Og jeg skulle lige til at sige, hvorfor Delen har du ikke fortalt mig det før?",
+      "speaker": "B"
+    },
+    {
+      "start": 567.0,
+      "end": 569.0,
+      "text": " Fordi det er noget, der tager lang tid.",
+      "speaker": "B"
+    },
+    {
+      "start": 569.0,
+      "end": 573.0,
+      "text": " Der er jeg trods alt glad for, at jeg stadig har en berettigelse i Post.",
+      "speaker": "B"
+    },
+    {
+      "start": 573.0,
+      "end": 575.0,
+      "text": " Ikke Post Experience, Post Production.",
+      "speaker": "B"
+    },
+    {
+      "start": 575.0,
+      "end": 577.0,
+      "text": " Ja, Post Production.",
+      "speaker": "A"
+    },
+    {
+      "start": 577.0,
+      "end": 579.0,
+      "text": " Du er stadig sjovere end den er.",
+      "speaker": "A"
+    },
+    {
+      "start": 579.0,
+      "end": 583.0,
+      "text": " Den vælger nogle lidt random klip nogle gange, hvor jeg tænker, det var der.",
+      "speaker": "A"
+    },
+    {
+      "start": 583.0,
+      "end": 585.0,
+      "text": " Så det får du lov til at fortsætte med.",
+      "speaker": "A"
+    },
+    {
+      "start": 585.0,
+      "end": 591.0,
+      "text": " Men alt det her, det kører faktisk bare ved, at jeg uploader den ene lydepisode og siger,",
+      "speaker": "A"
+    },
+    {
+      "start": 591.0,
+      "end": 593.0,
+      "text": " at nu vil jeg gerne have en mandagsepisode.",
+      "speaker": "A"
+    },
+    {
+      "start": 593.0,
+      "end": 595.0,
+      "text": " Og så kommer transkriptionen, der kommer beskrivelsen,",
+      "speaker": "A"
+    },
+    {
+      "start": 595.0,
+      "end": 597.0,
+      "text": " der kommer fem billeder, de virker,",
+      "speaker": "A"
+    },
+    {
+      "start": 597.0,
+      "end": 599.0,
+      "text": " og jeg kan få at billede det ene ind, og så kan jeg bare lægge det ind.",
+      "speaker": "A"
+    },
+    {
+      "start": 599.0,
+      "end": 601.0,
+      "text": " Og det her, det gjorde jeg jo faktisk manuelt før.",
+      "speaker": "A"
+    },
+    {
+      "start": 601.0,
+      "end": 604.0,
+      "text": " I stedet for, hvor jeg tog filen og lagde den op og transkriberede den,",
+      "speaker": "A"
+    },
+    {
+      "start": 604.0,
+      "end": 606.0,
+      "text": " og så skrev jeg selv en beskrivelse til episoden,",
+      "speaker": "A"
+    },
+    {
+      "start": 606.0,
+      "end": 609.0,
+      "text": " og så gik jeg selv ind og re-prompted et nyt thumbnail hver eneste gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 609.0,
+      "end": 611.0,
+      "text": " Det er derfor, at vores thumbnails i starten af,",
+      "speaker": "A"
+    },
+    {
+      "start": 611.0,
+      "end": 613.0,
+      "text": " det er fuldstændig forskellige stilarter hver eneste uge.",
+      "speaker": "A"
+    },
+    {
+      "start": 613.0,
+      "end": 617.0,
+      "text": " Fordi jeg har startet helt forfra, og har jeg følt mig kreativ,",
+      "speaker": "A"
+    },
+    {
+      "start": 617.0,
+      "end": 619.0,
+      "text": " eller har jeg ikke lige følt mig kreativ i øjeblikket,",
+      "speaker": "A"
+    },
+    {
+      "start": 619.0,
+      "end": 622.0,
+      "text": " hvor nu har vi en stilart, hvor logoet er altid med,",
+      "speaker": "A"
+    },
+    {
+      "start": 622.0,
+      "end": 624.0,
+      "text": " baggrundsfarven er den samme, billederne er også to.",
+      "speaker": "A"
+    },
+    {
+      "start": 624.0,
+      "end": 626.0,
+      "text": " Jeg kan godt lige lægge nogle flere billeder op, så ikke at det er altid det der.",
+      "speaker": "A"
+    },
+    {
+      "start": 626.0,
+      "end": 629.0,
+      "text": " Men det er sgu bare blevet mere konsistent.",
+      "speaker": "A"
+    },
+    {
+      "start": 629.0,
+      "end": 631.0,
+      "text": " Det er blevet nemmere, og jeg bruger mindre tid på det.",
+      "speaker": "A"
+    },
+    {
+      "start": 631.0,
+      "end": 633.0,
+      "text": " Det er en pissefed AI-case.",
+      "speaker": "A"
+    },
+    {
+      "start": 633.0,
+      "end": 635.0,
+      "text": " Og også indtil vi laver en kort episode om,",
+      "speaker": "A"
+    },
+    {
+      "start": 635.0,
+      "end": 637.0,
+      "text": " hvor mange ting sidder man ikke og laver hver eneste uge,",
+      "speaker": "A"
+    },
+    {
+      "start": 637.0,
+      "end": 639.0,
+      "text": " hvor det i virkeligheden godt bare kunne være,",
+      "speaker": "A"
+    },
+    {
+      "start": 639.0,
+      "end": 641.0,
+      "text": " at man skulle opleve det.",
+      "speaker": "A"
+    },
+    {
+      "start": 641.0,
+      "end": 643.0,
+      "text": " Rigtig mange, og jeg vil sige,",
+      "speaker": "B"
+    },
+    {
+      "start": 643.0,
+      "end": 645.0,
+      "text": " hop ud i det, prøv det af første gang.",
+      "speaker": "B"
+    },
+    {
+      "start": 645.0,
+      "end": 647.0,
+      "text": " For det er som om, at når man lykkes med at gøre det godt først,",
+      "speaker": "B"
+    },
+    {
+      "start": 647.0,
+      "end": 649.0,
+      "text": " eller på et tidspunkt,",
+      "speaker": "B"
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": " når man knækker koden dertil,",
+      "speaker": "B"
+    },
+    {
+      "start": 651.0,
+      "end": 653.0,
+      "text": " så åbner der sig en helt ny verden op.",
+      "speaker": "B"
+    },
+    {
+      "start": 653.0,
+      "end": 655.0,
+      "text": " Så kan man pludselig se de der usecases, som man sidder med til dagligt,",
+      "speaker": "B"
+    },
+    {
+      "start": 655.0,
+      "end": 657.0,
+      "text": " men som man måske har svært ved at se den dag i dag.",
+      "speaker": "B"
+    },
+    {
+      "start": 657.0,
+      "end": 659.0,
+      "text": " Så spring ud i det, prøv det af.",
+      "speaker": "B"
+    },
+    {
+      "start": 659.0,
+      "end": 661.0,
+      "text": " Det her er en, nu kaldte jeg det livesaver før,",
+      "speaker": "B"
+    },
+    {
+      "start": 661.0,
+      "end": 663.0,
+      "text": " det edderhugge mig også en timesaver.",
+      "speaker": "B"
+    },
+    {
+      "start": 663.0,
+      "end": 665.0,
+      "text": " Og det kan godt også være, at de to hænger sammen.",
+      "speaker": "B"
+    },
+    {
+      "start": 665.0,
+      "end": 667.0,
+      "text": " Det gør det jo nok.",
+      "speaker": "A"
+    },
+    {
+      "start": 667.0,
+      "end": 669.0,
+      "text": " Tusind tak, fordi du blev med til dagens episode.",
+      "speaker": "A"
+    }
+  ]
+}
