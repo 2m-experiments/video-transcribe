@@ -1,0 +1,77 @@
+{
+  "_comment": "Registry of source channels behind each video group. 'source_type' = how the group's video list is defined: 'channel_scrape' (yt-dlp scrape, cached under channel_cache/), 'curated' (hand-picked subset of a channel, hardcoded in transcribe.py VIDEO_GROUPS), or 'fixed' (standalone video/webinar, no parent channel). 'status' fields were last verified on 'last_checked'; regenerate with the check-new-videos flow.",
+  "last_checked": "2026-07-29",
+  "channels": [
+    {
+      "group": "group1",
+      "name": "Alexander – Fuldt Booket",
+      "source_type": "curated",
+      "channel_url": "https://www.youtube.com/@AlexanderFuldtBooket",
+      "handle": "@AlexanderFuldtBooket",
+      "cache_file": null,
+      "notes": "Solo monologues – diarization intentionally skipped (single speaker). Curated subset of the channel; ~18 older testimonial/case clips are deliberately excluded.",
+      "status": {
+        "tracked_videos": 19,
+        "channel_total_live": 37,
+        "transcribed": 19,
+        "diarized": 0,
+        "new_since_last": 0,
+        "older_uncurated": 18
+      }
+    },
+    {
+      "group": "group2",
+      "name": "Workshops (Vimeo)",
+      "source_type": "fixed",
+      "channel_url": null,
+      "handle": null,
+      "cache_file": null,
+      "notes": "Two standalone Vimeo workshop recordings. No parent channel to track.",
+      "status": {
+        "tracked_videos": 2,
+        "channel_total_live": null,
+        "transcribed": 2,
+        "diarized": 2,
+        "new_since_last": 0,
+        "older_uncurated": 0
+      }
+    },
+    {
+      "group": "group3",
+      "name": "Marketingpod med Halfdan Timm og Kristian Tinho",
+      "source_type": "channel_scrape",
+      "channel_url": "https://www.youtube.com/@marketingpod",
+      "handle": "@marketingpod",
+      "cache_file": "channel_cache/group3.json",
+      "cached_at": "2026-07-29T12:21:45Z",
+      "notes": "Full-channel scrape cached under channel_cache/. All listed episodes transcribed. Diarization/speaker-naming done for the original 288 (237 named, rest letter-labeled); the 34 newest transcripts are not yet diarized.",
+      "status": {
+        "tracked_videos": 321,
+        "channel_total_live": 321,
+        "transcribed": 322,
+        "diarized": 288,
+        "named": 237,
+        "new_since_last": 0,
+        "older_uncurated": 0
+      }
+    },
+    {
+      "group": "group4",
+      "name": "Obsidian Content Masterclass (webinar)",
+      "source_type": "fixed",
+      "channel_url": "https://webinar.obsidian.dk/content-masterclass-sadan-far-du-1",
+      "handle": null,
+      "cache_file": null,
+      "notes": "Single Obsidian webinar. Diarized + named (Olivia, Kasper, Morten, Andreas).",
+      "status": {
+        "tracked_videos": 1,
+        "channel_total_live": null,
+        "transcribed": 1,
+        "diarized": 1,
+        "named": 1,
+        "new_since_last": 0,
+        "older_uncurated": 0
+      }
+    }
+  ]
+}
