@@ -1,0 +1,1903 @@
+{
+  "title": "Hvad har vi lært af 3.489 tracking audits?",
+  "url": "https://www.youtube.com/watch?v=ccFNHL6TxlM",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 692.6,
+  "transcribed_at": "2026-07-29T13:46:52.287690+00:00",
+  "full_text": "Hej og velkommen til en ny episode af MarketingPod. I dag bliver det en relativt kort episode, hvor vi taler om, hvor godt din konkurrenter's tracking er baseret på 3489 audits. Og Christian Signut, du har insisteret på at få en ny episode om tracking. Hvorfor er det, at vi skal tale om det igen i dag? Jeg skulle lige tage og spørge dig, hvorfor fanden skal vi snakke om tracking igen nu? Vi kan da ikke blive ved med at chasse grund i det. Ej, det skal vi selvfølgelig, fordi det er knaldhammerende vigtigt, at der er styr på det. Og det viser sig bare, at der generelt set ikke er særlig godt styr på det. Hvor mange episoder har vi ikke lavet om tracking, og alligevel har folk ikke sat det op endnu? Altså, det er simpelthen utroligt. Det er nok godt, de gider jo ikke få dem, jo. Vi bliver ved indtil, at sætte det op. Det er simpelthen sådan, at... Ej, det er lidt nye. Det er, vi lavede for nogle måneder siden, vores værktøj tracking.obcdnagency.com. Vi omtale det for nylig en episode om, hvordan vi har vibecoded et værktøj, som har skabt noget omsætning til obcdn efterfølgende. Som et godt eksempel på det der med at vibecode noget, der rent faktisk er brugt til noget. Og det her tracking-audit er blevet brugt ret meget. Vi kører Facebook-ads til det, bruger 100 kroner om dagen. Jeg har delt det et par gange på LinkedIn. Og det betyder, at der er 3.489 personer, der er gået ind på tracking.obcdnagency.com, indtastet deres website-url, og fået et øjeblikeligt audit, uden at indtaste deres e-mail, eller telefon, eller alt muligt pjat på, hvor god deres tracking er. Jeg har altså taget alle de her audits, og grupperet dem, og lavet statistik på, hvor gode er folk faktisk. Og der kan vi lige tage de vigtigste takeaways, om hvor gode folk er til at få sat tracking op, og så lige hurtigt gennemgå, hvad er det nu rent faktisk, man skal have sat op, sådan her i 2026. Så jeg har udvalgt fem forskellige statistikker, som vi nu skal igennem. Den første, siger jeg nu, det er, at når vi kigger på, hvor mange har server-side tagging implementeret, er vi på mellem 27 og 34 procent, lidt afhængig af, hvordan du opgår det. 27 procent har server-side tracking sat op via Google Tag Manager, hvis du inkluderer sådan noget som Profit Metrics, Reaktion, Triple Whale og selsvarende værktøjer, kommer vi op på 34 procent. Det vil sige, at 66 procent af de websites, der er blevet testet via vores tracking-tool, har ikke opsat den med længder vigtigste, billigste, mest effektive måde, hvorpå de kan forbedre deres tracking-setup. Og jeg giver dig skylden for det, Siniu. Ej, det er da det, jeg er chokeret over. Vi har simpelthen ikke lavet nok episoder om tracking. Ja, det har vi så åbenbart ikke. Ja, det føler jeg jo ellers, at vi har. Jeg føler, at vi har lavet langt flere, end vi burde. Men det, du har ret i, det er, at det sætter dig en tyk, fed streg under, at vi burde lave noget mere. Ej, det her, det chokerer mig faktisk. Jeg skulle faktisk lige tage og spørge dig, om det er fordi, at folk så kører det igennem, for eksempel Reaktion, Triple Whale eller Profit Metrics. Men det tal har du så også, og vi er ikke engang der over halvdelen. Vi er langt fra, faktisk. Vi er temmelig langt fra. Altså, den eneste forklaring, jeg kan se, det er, at to tredjedelige testede websites, der er blevet skrevet ind på værktøjet, de simpelthen ikke kører digital marketing. De bruger ikke nogen penge på Spend. Fordi, hvis du ikke bruger nogen penge på Spend, okay, så har du måske ikke brug for conversions-API sat op, fordi så har du ikke rigtig noget at forbedre på, kan man sige. Men, hvis du bruger penge på digital marketing, og ikke har sat server-site tracking op, og ikke har conversions-API på Mesa, og ikke har alting, det edder mig med kriminelt. Det er fandme kriminelt ikke at have det i 2026. En statistik, der er værd at nævne i den forbindelse, det er, at hvor det kun er 34%, der har server-site tracking sat op, er det faktisk 60%, der kører conversions-API på Mesa specifikt. Og det hænger sammen på den måde, at der er mange platforme, der kommer med conversions-API indbygget, hvis du slår nogle apps til, notably Shopify. Og der er rigtig mange, der sætter deres Shopify-tracking via værktøjet. Og du kan godt have Mesa conversions-API via Metas standard-app, uden i øvrigt at have server-site Google Tag Manager, eller Reaktion, eller Profit Metric sat op. Det vil betyde, at du har et ret godt sat op til Meta-apps, men ikke til Google-apps, som ikke kommer som default, ikke til Klaviyo, som har nogle begrænsninger, og ikke til f.eks. Google Analytics 4, hvis der er nogen, der jo et sted bruger det. En anden statistik, vi har kigget på, det er, hvor mange, der har implementeret consent mode, enten v1 eller v2, og det er faktisk 61%, der har det. Der er endnu flere, der har et cookie-consent sat op. Det er, at jeg har opgivet statistikken på sværs om forskellige lande. Til ingen overraskelse, så er den højeste andel af cookie-consent selvfølgelig i Tyskland, men også Danmark er ret højt med, og 61% har alligevel sat consent mode op. Det synes jeg egentlig er ret ok, fordi det er også noget, du skal slå en lille smule aktivt til i forbindelse med de cookie-consent, men det ærger mig, at 61% har sat cookie-consent op, og kun 60% har conversions API slået til, og kun 34% har server-site i øvrigt slået til. Så folk er faktisk bedre til at lave et setup, der er compliant end et, der giver dem god data, selvom server-site jo også er lovligt. Det løser kun de tekniske problemer. Det er min toltning i hvert fald, at folk er mere opmærksomme på, om de sætter deres cookies rigtigt, end når de får noget af deres digitale markedsindspil. Tror du, cookie-delen ikke korrelerer med telefonsælgere, der forsøger at... Ej, det er too soon! Too soon! Too soon! Det er, fordi Group Online har ringet rundt og sagt, at du har fået cookies, og du får en bøde på 4% af omsætningen, hvis du ikke indstiller... Ej... Det er selvfølgelig også en mulighed, og Taxigroup Onlines aggressive salgskar, for at sørge for, at folk virkelig har fået sat content mode op, så ikke erhvervsstyrelsen kommer til at smække de små lokale virksomheder med 4% af deres omsætning, anytime, soon, som de selvfølgelig ellers ville have gjort. Vi har TikToks Pixel og LinkedIns Insights Tag. Det synes jeg også var lidt sjovt. 12% af de testede sites har TikToks Pixel sæt op. 4% har LinkedIns Insights Tag sæt op. Så indikerer det for mig, at der er tre gange så mange af de sites, der er blevet testet, der bruger penge på TikTok Ads, som de bruger penge på LinkedIn Ads. Det lyder faktisk ikke helt forkert, når man lige tænker over det på den måde, gør det? Nej, ikke hvis du sætter det sådan der op. Jeg tror mere, jeg er chokeret over, at der er så få, der fx har sat TikTok Pixel op, og ikke bare har sat det op. Altså, bare for at samle dataen ind, hvis man bare går overvejer og begynder at annoncere på TikTok, altså så får der noget data ind. Men ja, hvordan skal... Det er faktisk heller ikke en ting, jeg sætter op i de tracking setups, som jeg har med ind over, sådan som standard. Nej, okay. Det skal være, hvis virksomheden virkelig er i gang med TikTok-annoncering i forvejen, eller prøver ting at gøre det. Det er ikke sådan en kanal, hvor jeg tænker, det burde vi gøre, fordi hvad nu hvis? Hvor Mesa ville jeg altid sætte op. Google Ads altid. GF4, hvis de bruger det, altid. Da TikTok er ikke i min værtskabskasse over ting, hvor jeg tænker, det her får vi nok brug for på et eller andet tidspunkt. Nej, men jeg tænker... Jeg tror også, det er blevet misstået. Jeg tænker mere, hvis du bare ligger og bruger en lille bitte smule penge på TikTok, for det antager jeg jo, at folk gør uden at have Pixlen installeret. Det kan jeg bare ikke forstå. Det tror jeg faktisk... Jeg ved ikke, om der er så mange, der i virkeligheden gør det. Altså, det har jo sådan lidt for mig en rolle, hvor du siger, hvis du på en eller anden måde har maxet, hvad du kan få ud af Mesa, så rykker du måske videre. Eller hvis der ikke er mere incremental reach at hente på Mesa, så rykker du videre på en eller anden måde. Det er jo sådan lidt en tord. Eller måske en træafhængig, når man lige opgør det. Det er måske bare, fordi jeg sidder mere med Ecom. Jeg tror, det er mere din Ecom-ting, så. Jeg er lidt mere på B2B-delen også, selvom vi jo begge to har begge ting. Jeg tror... Plus, du har TikTok. Jeg har ikke TikTok. Jeg er for gammel til det der, Pia. Det er en god pointe, ja. Det er en god pointe. Sandheden er jo, at jeg så ikke installerer det, fordi jeg kan se, at den gennemsnitlige bruger i Danmark bruger tre timer inden på TikTok med Insta. Og hvis jeg skal tage tre timer at bruge på TikTok, så bliver det for noget, som simpelthen er tid bedre brugt på. Ja, så du vælger så at bruge den ringermod... Altså, du vælger jo stadigvæk at være på YouTube Shorts, så du vælger den dårligere metode til så bare... Det, du skal huske, det er, at YouTube Shorts er ikke godt nok til at bruge tre timer om dagen derinde. Det er ikke godt nok. Det er maks. 10 minutter om dagen eller sådan noget. Og så Twitter er lidt bedre, der bruger man så 20 minutter. Det er meget mere noteret. Det er meget mere noteret. Hvis du så mit telefon, så er det slag af den app, jeg bruger mest tid i. Og den er virkelig ikke underholdende. Jeg tør slet ikke få TikTok på. Det tør jeg virkelig ikke. Ej. Lad os afslutte episoden med at sige, nu har vi snakket om et par forskellige statistikker. Jeg er overrasket over, hvorfor der virkelig bruger service Christian, sig nu, hvis man skal gøre fire vigtige ting omkring inter-tracking i 2026. Fire ting, du bør have styr på. Hvad er det så? Nummer et. Server-side tagging. Conversion API. Alle kanaler, du arbejder med, sørg for, at det er sat op. Det burde være en relativt simpel øvelse, ellers så får nogen til at hjælpe dig med det. Og det er absurd ikke at gøre det, når du alligevel ligger og bruger penge på de enkelte. Det er absolut et must. Og det er det, du skal gøre. Tummelfingeren regler, at hvis du bruger mere end 10.000 kroner om måneden på for eksempel Google Ads eller Mesa, så skal du absolut have det her, og så er det en god forretning at gøre det. Få det på så mange platformer som overhovedet muligt. Om du så har Profitmetrix eller Reaktion eller bare tager den billige løsning via Stape. Alt er fint. De virker alle sammen rigtig godt. Du øver ikke at have flere til at køre på samme tid. Den billigste løsning er sandsynligvis at opsætte det via server-side Google Tag Manager og Stape og bare tage nogle af deres tags og få det til at virke. Hvis du har brug for mere rapportering eller mulighed for at lave ProRes bidding eller sådan noget, er for eksempel Profitmetrix et kanon redskab. Nummer to vil jeg sige cookie consent med optimeret opt-in rates og consent mode v2. Og consent mode v2, det er jo bare Googles teknik for at få lidt mere data igennem for folk, der siger nej, hvor du kan få sådan nogle pseudonymiserede informationer, som ikke identificerer, hvem det er, men alligevel giver dig en lille smule statistik. Det skal du sætte op. Optimeret opt-in rates er vigtigere. Og det handler om at lade være med at tage i det standard layout, men i stedet for prøve at se, om du kan customise dit cookie layout, så det bliver lidt mere appellerende. Og tryk på. Måske har du nogle sjove ikoner. Måske har du en god historie. Måske forklarer du, hvorfor folk skal trykke på dine cookies. Men det kan altså gøre en meget større forskel end teknikken. Et eksempel jeg altid fremhæver her, fordi jeg synes, de er så fede, det er Lacor.dk eller KOR. Hvis du vil prøve at se, det er sejt. Dansk Shopify-shop, super lækkert tøj. De har sådan lavet en cookie box via cookie information, hvor de har en af deres tegnede, jeg ved ikke, er det en åder det her, eller hvad er det? Ja, det tror jeg. Ja, det er sådan en åder. En åder, der ligger med en kop kaffe og siger, må vi byde på en cookie? Og så en lidt mere passionaliseret tekst. Men bare den lille detalje kan gøre underværker for din opt-in-rate. Og lige forklare folk, hvorfor du egentlig skal godkende det her. Så optimeret opt-in-rate kommer fra, at du tager noget andet end standard layoutet og lige forklarer dine brugere, hvorfor vi egentlig gerne vil placere dem her. Måske så vi kan give dig en bedre oplevelse. Og så kan det faktisk gøre en større forskel end det rigtig meget teknisk kan. Nummer tre handler om, at du ikke... Altså nu snakker vi rigtig meget om forskellige former for tracking, og du har sikkert en masse kanaler, du er aktiv på, du gerne vil tracke fra. Det kan hurtigt blive lidt tungt på et website, og det må endelig ikke gå ud over performance på dit setup. Det vil sige at øge load-timing for dine besøgende, fordi så er vi jo nærmest lige vidt, hvis de besøgende lander på en side, der er rigtig langsomt på grund af de her tracking-scripts med videre. Så for at konsolidere de her scripts, brug et hastighedsoptimeret setup via for eksempel Google Tag Manager. Det er altså at foretrække ind og skulle plastre dit site til med en helvedes masse scripts, der bare tager load-timing i den forkerte retning. Den sidste, det er at implementere det, som Google kalder offline conversions, eller Facebook kalder post-conversion events, men det handler om at sende information tilbage, når der sker noget efter en word-klikket. Så forestil dig fx en bruger, der kommer ind på dit site, udfylder kontaktformularet, du måler kontaktformularen, men du måler jo ikke, om det bliver til en kunden efterfølgende, eller en person, der ansøger om et lån. Du måler ansøgningen, men du måler ikke udbetalingen. Der kan du bruge offline events, eller post-conversion events, eller sådan webhook-baserede hendelser til at sende information fra fx dit CRM-system tilbage til Google, og tilbage til Meet, og tilbage til LinkedIn, når der sker en konversering, og dermed give algoritmerne information om, hvilke leads bliver til kunder, så du hen ad vejen kan optimere efter kunder, i stedet for leads. Det er lidt mere avanceret, men det kan gøre en verdensforskel på effekten på din betalte annoncering. Tusind tak, fordi du lyttede med til dagens episode. Hvis du er blandt de 66%, der ikke har installeret server-site, og du bruger mere end 10.000 på digital marketing, så laver vi lige en aftale om, at det har du selvfølgelig fikset. Så næste gang, vi laver en tracking-episode, altså sikkert næste uge, tusind tak, fordi du lyttede med til dagens episode. Jeg skal nok købe jer noget tid, venner.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Hej og velkommen til en ny episode af MarketingPod.",
+      "speaker": "A"
+    },
+    {
+      "start": 2.0,
+      "end": 4.76,
+      "text": " I dag bliver det en relativt kort episode, hvor vi taler om,",
+      "speaker": "A"
+    },
+    {
+      "start": 4.76,
+      "end": 9.56,
+      "text": " hvor godt din konkurrenter's tracking er baseret på 3489 audits.",
+      "speaker": "A"
+    },
+    {
+      "start": 9.56,
+      "end": 12.44,
+      "text": " Og Christian Signut, du har insisteret på at få en ny episode om tracking.",
+      "speaker": "A"
+    },
+    {
+      "start": 12.44,
+      "end": 14.44,
+      "text": " Hvorfor er det, at vi skal tale om det igen i dag?",
+      "speaker": "A"
+    },
+    {
+      "start": 14.44,
+      "end": 17.68,
+      "text": " Jeg skulle lige tage og spørge dig, hvorfor fanden skal vi snakke om tracking igen nu?",
+      "speaker": "B"
+    },
+    {
+      "start": 19.96,
+      "end": 21.84,
+      "text": " Vi kan da ikke blive ved med at chasse grund i det.",
+      "speaker": "B"
+    },
+    {
+      "start": 21.84,
+      "end": 26.4,
+      "text": " Ej, det skal vi selvfølgelig, fordi det er knaldhammerende vigtigt, at der er styr på det.",
+      "speaker": "B"
+    },
+    {
+      "start": 26.4,
+      "end": 30.28,
+      "text": " Og det viser sig bare, at der generelt set ikke er særlig godt styr på det.",
+      "speaker": "B"
+    },
+    {
+      "start": 32.4,
+      "end": 35.4,
+      "text": " Hvor mange episoder har vi ikke lavet om tracking, og alligevel har folk ikke sat det op endnu?",
+      "speaker": "A"
+    },
+    {
+      "start": 35.4,
+      "end": 37.4,
+      "text": " Altså, det er simpelthen utroligt.",
+      "speaker": "A"
+    },
+    {
+      "start": 37.4,
+      "end": 39.88,
+      "text": " Det er nok godt, de gider jo ikke få dem, jo.",
+      "speaker": "B"
+    },
+    {
+      "start": 41.2,
+      "end": 42.48,
+      "text": " Vi bliver ved indtil, at sætte det op.",
+      "speaker": "A"
+    },
+    {
+      "start": 42.48,
+      "end": 43.76,
+      "text": " Det er simpelthen sådan, at...",
+      "speaker": "A"
+    },
+    {
+      "start": 43.76,
+      "end": 44.92,
+      "text": " Ej, det er lidt nye.",
+      "speaker": "A"
+    },
+    {
+      "start": 44.92,
+      "end": 49.48,
+      "text": " Det er, vi lavede for nogle måneder siden, vores værktøj tracking.obcdnagency.com.",
+      "speaker": "A"
+    },
+    {
+      "start": 49.48,
+      "end": 52.44,
+      "text": " Vi omtale det for nylig en episode om, hvordan vi har vibecoded et værktøj,",
+      "speaker": "A"
+    },
+    {
+      "start": 52.44,
+      "end": 55.04,
+      "text": " som har skabt noget omsætning til obcdn efterfølgende.",
+      "speaker": "A"
+    },
+    {
+      "start": 55.04,
+      "end": 58.64,
+      "text": " Som et godt eksempel på det der med at vibecode noget, der rent faktisk er brugt til noget.",
+      "speaker": "A"
+    },
+    {
+      "start": 58.64,
+      "end": 61.04,
+      "text": " Og det her tracking-audit er blevet brugt ret meget.",
+      "speaker": "A"
+    },
+    {
+      "start": 61.04,
+      "end": 63.24,
+      "text": " Vi kører Facebook-ads til det, bruger 100 kroner om dagen.",
+      "speaker": "A"
+    },
+    {
+      "start": 63.24,
+      "end": 64.68,
+      "text": " Jeg har delt det et par gange på LinkedIn.",
+      "speaker": "A"
+    },
+    {
+      "start": 64.68,
+      "end": 72.64,
+      "text": " Og det betyder, at der er 3.489 personer, der er gået ind på tracking.obcdnagency.com,",
+      "speaker": "A"
+    },
+    {
+      "start": 72.64,
+      "end": 75.56,
+      "text": " indtastet deres website-url, og fået et øjeblikeligt audit,",
+      "speaker": "A"
+    },
+    {
+      "start": 75.56,
+      "end": 79.8,
+      "text": " uden at indtaste deres e-mail, eller telefon, eller alt muligt pjat på, hvor god deres tracking er.",
+      "speaker": "A"
+    },
+    {
+      "start": 79.8,
+      "end": 82.36,
+      "text": " Jeg har altså taget alle de her audits, og grupperet dem,",
+      "speaker": "A"
+    },
+    {
+      "start": 82.36,
+      "end": 85.52,
+      "text": " og lavet statistik på, hvor gode er folk faktisk.",
+      "speaker": "A"
+    },
+    {
+      "start": 85.52,
+      "end": 89.2,
+      "text": " Og der kan vi lige tage de vigtigste takeaways, om hvor gode folk er til at få sat tracking op,",
+      "speaker": "A"
+    },
+    {
+      "start": 89.2,
+      "end": 93.24,
+      "text": " og så lige hurtigt gennemgå, hvad er det nu rent faktisk, man skal have sat op,",
+      "speaker": "A"
+    },
+    {
+      "start": 93.24,
+      "end": 95.04,
+      "text": " sådan her i 2026.",
+      "speaker": "A"
+    },
+    {
+      "start": 95.04,
+      "end": 99.56,
+      "text": " Så jeg har udvalgt fem forskellige statistikker, som vi nu skal igennem.",
+      "speaker": "A"
+    },
+    {
+      "start": 99.56,
+      "end": 102.92,
+      "text": " Den første, siger jeg nu, det er, at når vi kigger på,",
+      "speaker": "A"
+    },
+    {
+      "start": 102.92,
+      "end": 106.68,
+      "text": " hvor mange har server-side tagging implementeret,",
+      "speaker": "A"
+    },
+    {
+      "start": 106.68,
+      "end": 110.4,
+      "text": " er vi på mellem 27 og 34 procent, lidt afhængig af, hvordan du opgår det.",
+      "speaker": "A"
+    },
+    {
+      "start": 110.4,
+      "end": 113.32,
+      "text": " 27 procent har server-side tracking sat op via Google Tag Manager,",
+      "speaker": "A"
+    },
+    {
+      "start": 113.32,
+      "end": 117.6,
+      "text": " hvis du inkluderer sådan noget som Profit Metrics, Reaktion, Triple Whale og selsvarende værktøjer,",
+      "speaker": "A"
+    },
+    {
+      "start": 117.6,
+      "end": 119.92,
+      "text": " kommer vi op på 34 procent.",
+      "speaker": "A"
+    },
+    {
+      "start": 119.92,
+      "end": 124.0,
+      "text": " Det vil sige, at 66 procent af de websites, der er blevet testet via vores tracking-tool,",
+      "speaker": "A"
+    },
+    {
+      "start": 124.0,
+      "end": 128.84,
+      "text": " har ikke opsat den med længder vigtigste, billigste, mest effektive måde,",
+      "speaker": "A"
+    },
+    {
+      "start": 128.84,
+      "end": 131.12,
+      "text": " hvorpå de kan forbedre deres tracking-setup.",
+      "speaker": "A"
+    },
+    {
+      "start": 131.12,
+      "end": 132.52,
+      "text": " Og jeg giver dig skylden for det, Siniu.",
+      "speaker": "A"
+    },
+    {
+      "start": 135.6,
+      "end": 137.36,
+      "text": " Ej, det er da det, jeg er chokeret over.",
+      "speaker": "A"
+    },
+    {
+      "start": 137.36,
+      "end": 139.92,
+      "text": " Vi har simpelthen ikke lavet nok episoder om tracking.",
+      "speaker": "A"
+    },
+    {
+      "start": 140.64,
+      "end": 141.92,
+      "text": " Ja, det har vi så åbenbart ikke.",
+      "speaker": "B"
+    },
+    {
+      "start": 141.92,
+      "end": 143.28,
+      "text": " Ja, det føler jeg jo ellers, at vi har.",
+      "speaker": "B"
+    },
+    {
+      "start": 143.28,
+      "end": 145.32,
+      "text": " Jeg føler, at vi har lavet langt flere, end vi burde.",
+      "speaker": "B"
+    },
+    {
+      "start": 145.32,
+      "end": 150.04,
+      "text": " Men det, du har ret i, det er, at det sætter dig en tyk, fed streg under,",
+      "speaker": "B"
+    },
+    {
+      "start": 150.04,
+      "end": 150.88,
+      "text": " at vi burde lave noget mere.",
+      "speaker": "B"
+    },
+    {
+      "start": 150.88,
+      "end": 152.28,
+      "text": " Ej, det her, det chokerer mig faktisk.",
+      "speaker": "B"
+    },
+    {
+      "start": 152.28,
+      "end": 154.68,
+      "text": " Jeg skulle faktisk lige tage og spørge dig, om det er fordi,",
+      "speaker": "B"
+    },
+    {
+      "start": 154.68,
+      "end": 158.48,
+      "text": " at folk så kører det igennem, for eksempel Reaktion, Triple Whale eller Profit Metrics.",
+      "speaker": "B"
+    },
+    {
+      "start": 158.48,
+      "end": 161.96,
+      "text": " Men det tal har du så også, og vi er ikke engang der over halvdelen.",
+      "speaker": "B"
+    },
+    {
+      "start": 161.96,
+      "end": 163.52,
+      "text": " Vi er langt fra, faktisk.",
+      "speaker": "B"
+    },
+    {
+      "start": 163.52,
+      "end": 164.68,
+      "text": " Vi er temmelig langt fra.",
+      "speaker": "A"
+    },
+    {
+      "start": 164.72,
+      "end": 168.04,
+      "text": " Altså, den eneste forklaring, jeg kan se, det er, at to tredjedelige testede websites,",
+      "speaker": "A"
+    },
+    {
+      "start": 168.04,
+      "end": 171.24,
+      "text": " der er blevet skrevet ind på værktøjet, de simpelthen ikke kører digital marketing.",
+      "speaker": "A"
+    },
+    {
+      "start": 171.24,
+      "end": 172.84,
+      "text": " De bruger ikke nogen penge på Spend.",
+      "speaker": "A"
+    },
+    {
+      "start": 172.84,
+      "end": 174.04,
+      "text": " Fordi, hvis du ikke bruger nogen penge på Spend,",
+      "speaker": "A"
+    },
+    {
+      "start": 174.04,
+      "end": 176.44,
+      "text": " okay, så har du måske ikke brug for conversions-API sat op,",
+      "speaker": "A"
+    },
+    {
+      "start": 176.44,
+      "end": 179.24,
+      "text": " fordi så har du ikke rigtig noget at forbedre på, kan man sige.",
+      "speaker": "A"
+    },
+    {
+      "start": 179.24,
+      "end": 182.28,
+      "text": " Men, hvis du bruger penge på digital marketing,",
+      "speaker": "A"
+    },
+    {
+      "start": 182.28,
+      "end": 183.92,
+      "text": " og ikke har sat server-site tracking op,",
+      "speaker": "A"
+    },
+    {
+      "start": 183.92,
+      "end": 186.68,
+      "text": " og ikke har conversions-API på Mesa, og ikke har alting,",
+      "speaker": "A"
+    },
+    {
+      "start": 186.68,
+      "end": 188.2,
+      "text": " det edder mig med kriminelt.",
+      "speaker": "A"
+    },
+    {
+      "start": 188.2,
+      "end": 190.72,
+      "text": " Det er fandme kriminelt ikke at have det i 2026.",
+      "speaker": "A"
+    },
+    {
+      "start": 190.72,
+      "end": 193.08,
+      "text": " En statistik, der er værd at nævne i den forbindelse, det er,",
+      "speaker": "A"
+    },
+    {
+      "start": 193.08,
+      "end": 195.76,
+      "text": " at hvor det kun er 34%, der har server-site tracking sat op,",
+      "speaker": "A"
+    },
+    {
+      "start": 195.76,
+      "end": 199.4,
+      "text": " er det faktisk 60%, der kører conversions-API på Mesa specifikt.",
+      "speaker": "A"
+    },
+    {
+      "start": 199.4,
+      "end": 202.12,
+      "text": " Og det hænger sammen på den måde, at der er mange platforme,",
+      "speaker": "A"
+    },
+    {
+      "start": 202.12,
+      "end": 205.04,
+      "text": " der kommer med conversions-API indbygget,",
+      "speaker": "A"
+    },
+    {
+      "start": 205.04,
+      "end": 207.8,
+      "text": " hvis du slår nogle apps til, notably Shopify.",
+      "speaker": "A"
+    },
+    {
+      "start": 207.8,
+      "end": 210.6,
+      "text": " Og der er rigtig mange, der sætter deres Shopify-tracking via værktøjet.",
+      "speaker": "A"
+    },
+    {
+      "start": 210.6,
+      "end": 214.88,
+      "text": " Og du kan godt have Mesa conversions-API via Metas standard-app,",
+      "speaker": "A"
+    },
+    {
+      "start": 214.88,
+      "end": 217.76,
+      "text": " uden i øvrigt at have server-site Google Tag Manager,",
+      "speaker": "A"
+    },
+    {
+      "start": 217.76,
+      "end": 219.64,
+      "text": " eller Reaktion, eller Profit Metric sat op.",
+      "speaker": "A"
+    },
+    {
+      "start": 219.64,
+      "end": 222.64,
+      "text": " Det vil betyde, at du har et ret godt sat op til Meta-apps,",
+      "speaker": "A"
+    },
+    {
+      "start": 222.64,
+      "end": 225.52,
+      "text": " men ikke til Google-apps, som ikke kommer som default,",
+      "speaker": "A"
+    },
+    {
+      "start": 225.52,
+      "end": 227.24,
+      "text": " ikke til Klaviyo, som har nogle begrænsninger,",
+      "speaker": "A"
+    },
+    {
+      "start": 227.24,
+      "end": 229.52,
+      "text": " og ikke til f.eks. Google Analytics 4,",
+      "speaker": "A"
+    },
+    {
+      "start": 229.52,
+      "end": 231.4,
+      "text": " hvis der er nogen, der jo et sted bruger det.",
+      "speaker": "A"
+    },
+    {
+      "start": 231.4,
+      "end": 232.76,
+      "text": " En anden statistik, vi har kigget på, det er,",
+      "speaker": "A"
+    },
+    {
+      "start": 232.76,
+      "end": 234.32,
+      "text": " hvor mange, der har implementeret consent mode,",
+      "speaker": "A"
+    },
+    {
+      "start": 234.32,
+      "end": 238.08,
+      "text": " enten v1 eller v2, og det er faktisk 61%, der har det.",
+      "speaker": "A"
+    },
+    {
+      "start": 238.08,
+      "end": 240.24,
+      "text": " Der er endnu flere, der har et cookie-consent sat op.",
+      "speaker": "A"
+    },
+    {
+      "start": 240.24,
+      "end": 243.68,
+      "text": " Det er, at jeg har opgivet statistikken på sværs om forskellige lande.",
+      "speaker": "A"
+    },
+    {
+      "start": 243.68,
+      "end": 247.36,
+      "text": " Til ingen overraskelse, så er den højeste andel af cookie-consent selvfølgelig i Tyskland,",
+      "speaker": "A"
+    },
+    {
+      "start": 247.36,
+      "end": 249.0,
+      "text": " men også Danmark er ret højt med,",
+      "speaker": "A"
+    },
+    {
+      "start": 249.0,
+      "end": 251.36,
+      "text": " og 61% har alligevel sat consent mode op.",
+      "speaker": "A"
+    },
+    {
+      "start": 251.36,
+      "end": 252.8,
+      "text": " Det synes jeg egentlig er ret ok,",
+      "speaker": "A"
+    },
+    {
+      "start": 252.8,
+      "end": 256.24,
+      "text": " fordi det er også noget, du skal slå en lille smule aktivt til",
+      "speaker": "A"
+    },
+    {
+      "start": 256.24,
+      "end": 257.68,
+      "text": " i forbindelse med de cookie-consent,",
+      "speaker": "A"
+    },
+    {
+      "start": 257.68,
+      "end": 260.76,
+      "text": " men det ærger mig, at 61% har sat cookie-consent op,",
+      "speaker": "A"
+    },
+    {
+      "start": 260.76,
+      "end": 262.96,
+      "text": " og kun 60% har conversions API slået til,",
+      "speaker": "A"
+    },
+    {
+      "start": 262.96,
+      "end": 266.16,
+      "text": " og kun 34% har server-site i øvrigt slået til.",
+      "speaker": "A"
+    },
+    {
+      "start": 266.16,
+      "end": 268.2,
+      "text": " Så folk er faktisk bedre til at lave et setup,",
+      "speaker": "A"
+    },
+    {
+      "start": 268.2,
+      "end": 270.96,
+      "text": " der er compliant end et, der giver dem god data,",
+      "speaker": "A"
+    },
+    {
+      "start": 270.96,
+      "end": 272.76,
+      "text": " selvom server-site jo også er lovligt.",
+      "speaker": "A"
+    },
+    {
+      "start": 272.76,
+      "end": 275.16,
+      "text": " Det løser kun de tekniske problemer.",
+      "speaker": "A"
+    },
+    {
+      "start": 276.16,
+      "end": 277.8,
+      "text": " Det er min toltning i hvert fald,",
+      "speaker": "A"
+    },
+    {
+      "start": 277.8,
+      "end": 279.64,
+      "text": " at folk er mere opmærksomme på,",
+      "speaker": "A"
+    },
+    {
+      "start": 279.64,
+      "end": 280.76,
+      "text": " om de sætter deres cookies rigtigt,",
+      "speaker": "A"
+    },
+    {
+      "start": 280.76,
+      "end": 282.64,
+      "text": " end når de får noget af deres digitale markedsindspil.",
+      "speaker": "A"
+    },
+    {
+      "start": 282.64,
+      "end": 284.68,
+      "text": " Tror du, cookie-delen ikke korrelerer med telefonsælgere,",
+      "speaker": "B"
+    },
+    {
+      "start": 284.68,
+      "end": 285.28,
+      "text": " der forsøger at...",
+      "speaker": "B"
+    },
+    {
+      "start": 285.28,
+      "end": 286.88,
+      "text": " Ej, det er too soon!",
+      "speaker": "B"
+    },
+    {
+      "start": 286.88,
+      "end": 287.88,
+      "text": " Too soon!",
+      "speaker": "B"
+    },
+    {
+      "start": 289.72,
+      "end": 291.12,
+      "text": " Too soon!",
+      "speaker": "A"
+    },
+    {
+      "start": 291.12,
+      "end": 292.68,
+      "text": " Det er, fordi Group Online har ringet rundt og sagt,",
+      "speaker": "A"
+    },
+    {
+      "start": 292.68,
+      "end": 293.4,
+      "text": " at du har fået cookies,",
+      "speaker": "A"
+    },
+    {
+      "start": 293.4,
+      "end": 295.16,
+      "text": " og du får en bøde på 4% af omsætningen,",
+      "speaker": "A"
+    },
+    {
+      "start": 295.16,
+      "end": 295.88,
+      "text": " hvis du ikke indstiller...",
+      "speaker": "A"
+    },
+    {
+      "start": 295.88,
+      "end": 296.88,
+      "text": " Ej...",
+      "speaker": "A"
+    },
+    {
+      "start": 299.88,
+      "end": 301.12,
+      "text": " Det er selvfølgelig også en mulighed,",
+      "speaker": "A"
+    },
+    {
+      "start": 301.12,
+      "end": 302.96,
+      "text": " og Taxigroup Onlines aggressive salgskar,",
+      "speaker": "A"
+    },
+    {
+      "start": 302.96,
+      "end": 305.12,
+      "text": " for at sørge for, at folk virkelig har fået sat content mode op,",
+      "speaker": "A"
+    },
+    {
+      "start": 305.12,
+      "end": 307.0,
+      "text": " så ikke erhvervsstyrelsen kommer til at smække",
+      "speaker": "A"
+    },
+    {
+      "start": 307.0,
+      "end": 309.36,
+      "text": " de små lokale virksomheder med 4% af deres omsætning,",
+      "speaker": "A"
+    },
+    {
+      "start": 309.36,
+      "end": 310.64,
+      "text": " anytime, soon,",
+      "speaker": "A"
+    },
+    {
+      "start": 310.64,
+      "end": 312.28,
+      "text": " som de selvfølgelig ellers ville have gjort.",
+      "speaker": "A"
+    },
+    {
+      "start": 312.28,
+      "end": 315.12,
+      "text": " Vi har TikToks Pixel og LinkedIns Insights Tag.",
+      "speaker": "A"
+    },
+    {
+      "start": 315.12,
+      "end": 316.12,
+      "text": " Det synes jeg også var lidt sjovt.",
+      "speaker": "A"
+    },
+    {
+      "start": 316.12,
+      "end": 319.2,
+      "text": " 12% af de testede sites har TikToks Pixel sæt op.",
+      "speaker": "A"
+    },
+    {
+      "start": 319.2,
+      "end": 322.12,
+      "text": " 4% har LinkedIns Insights Tag sæt op.",
+      "speaker": "A"
+    },
+    {
+      "start": 322.12,
+      "end": 323.16,
+      "text": " Så indikerer det for mig,",
+      "speaker": "A"
+    },
+    {
+      "start": 323.16,
+      "end": 324.6,
+      "text": " at der er tre gange så mange af de sites,",
+      "speaker": "A"
+    },
+    {
+      "start": 324.6,
+      "end": 325.24,
+      "text": " der er blevet testet,",
+      "speaker": "A"
+    },
+    {
+      "start": 325.24,
+      "end": 326.64,
+      "text": " der bruger penge på TikTok Ads,",
+      "speaker": "A"
+    },
+    {
+      "start": 326.64,
+      "end": 328.68,
+      "text": " som de bruger penge på LinkedIn Ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 328.68,
+      "end": 330.16,
+      "text": " Det lyder faktisk ikke helt forkert,",
+      "speaker": "A"
+    },
+    {
+      "start": 330.2,
+      "end": 331.44,
+      "text": " når man lige tænker over det på den måde, gør det?",
+      "speaker": "A"
+    },
+    {
+      "start": 331.44,
+      "end": 333.04,
+      "text": " Nej, ikke hvis du sætter det sådan der op.",
+      "speaker": "B"
+    },
+    {
+      "start": 333.04,
+      "end": 334.72,
+      "text": " Jeg tror mere, jeg er chokeret over,",
+      "speaker": "B"
+    },
+    {
+      "start": 334.72,
+      "end": 336.96,
+      "text": " at der er så få, der fx har sat TikTok Pixel op,",
+      "speaker": "B"
+    },
+    {
+      "start": 336.96,
+      "end": 338.04,
+      "text": " og ikke bare har sat det op.",
+      "speaker": "B"
+    },
+    {
+      "start": 338.04,
+      "end": 340.44,
+      "text": " Altså, bare for at samle dataen ind,",
+      "speaker": "B"
+    },
+    {
+      "start": 340.44,
+      "end": 342.72,
+      "text": " hvis man bare går overvejer",
+      "speaker": "B"
+    },
+    {
+      "start": 342.72,
+      "end": 343.92,
+      "text": " og begynder at annoncere på TikTok,",
+      "speaker": "B"
+    },
+    {
+      "start": 343.92,
+      "end": 345.84,
+      "text": " altså så får der noget data ind.",
+      "speaker": "A"
+    },
+    {
+      "start": 345.84,
+      "end": 347.2,
+      "text": " Men ja, hvordan skal...",
+      "speaker": "A"
+    },
+    {
+      "start": 347.2,
+      "end": 348.48,
+      "text": " Det er faktisk heller ikke en ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 348.48,
+      "end": 349.64,
+      "text": " jeg sætter op i de tracking setups,",
+      "speaker": "A"
+    },
+    {
+      "start": 349.64,
+      "end": 351.32,
+      "text": " som jeg har med ind over, sådan som standard.",
+      "speaker": "A"
+    },
+    {
+      "start": 351.32,
+      "end": 351.68,
+      "text": " Nej, okay.",
+      "speaker": "A"
+    },
+    {
+      "start": 351.68,
+      "end": 353.6,
+      "text": " Det skal være, hvis virksomheden virkelig er i gang",
+      "speaker": "A"
+    },
+    {
+      "start": 353.6,
+      "end": 354.92,
+      "text": " med TikTok-annoncering i forvejen,",
+      "speaker": "A"
+    },
+    {
+      "start": 354.92,
+      "end": 356.16,
+      "text": " eller prøver ting at gøre det.",
+      "speaker": "A"
+    },
+    {
+      "start": 356.16,
+      "end": 357.32,
+      "text": " Det er ikke sådan en kanal, hvor jeg tænker,",
+      "speaker": "A"
+    },
+    {
+      "start": 357.32,
+      "end": 359.0,
+      "text": " det burde vi gøre, fordi hvad nu hvis?",
+      "speaker": "A"
+    },
+    {
+      "start": 359.0,
+      "end": 360.48,
+      "text": " Hvor Mesa ville jeg altid sætte op.",
+      "speaker": "A"
+    },
+    {
+      "start": 360.48,
+      "end": 361.48,
+      "text": " Google Ads altid.",
+      "speaker": "A"
+    },
+    {
+      "start": 361.48,
+      "end": 363.28,
+      "text": " GF4, hvis de bruger det, altid.",
+      "speaker": "A"
+    },
+    {
+      "start": 363.28,
+      "end": 366.2,
+      "text": " Da TikTok er ikke i min værtskabskasse over ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 366.2,
+      "end": 367.6,
+      "text": " hvor jeg tænker, det her får vi nok brug for",
+      "speaker": "A"
+    },
+    {
+      "start": 367.6,
+      "end": 368.76,
+      "text": " på et eller andet tidspunkt.",
+      "speaker": "A"
+    },
+    {
+      "start": 368.76,
+      "end": 370.6,
+      "text": " Nej, men jeg tænker...",
+      "speaker": "B"
+    },
+    {
+      "start": 370.6,
+      "end": 371.48,
+      "text": " Jeg tror også, det er blevet misstået.",
+      "speaker": "B"
+    },
+    {
+      "start": 371.48,
+      "end": 373.32,
+      "text": " Jeg tænker mere, hvis du bare ligger og bruger",
+      "speaker": "B"
+    },
+    {
+      "start": 373.32,
+      "end": 374.68,
+      "text": " en lille bitte smule penge på TikTok,",
+      "speaker": "B"
+    },
+    {
+      "start": 374.68,
+      "end": 375.52,
+      "text": " for det antager jeg jo,",
+      "speaker": "B"
+    },
+    {
+      "start": 375.52,
+      "end": 377.72,
+      "text": " at folk gør uden at have Pixlen installeret.",
+      "speaker": "B"
+    },
+    {
+      "start": 377.72,
+      "end": 378.72,
+      "text": " Det kan jeg bare ikke forstå.",
+      "speaker": "B"
+    },
+    {
+      "start": 378.72,
+      "end": 379.4,
+      "text": " Det tror jeg faktisk...",
+      "speaker": "B"
+    },
+    {
+      "start": 379.44,
+      "end": 381.72,
+      "text": " Jeg ved ikke, om der er så mange, der i virkeligheden gør det.",
+      "speaker": "A"
+    },
+    {
+      "start": 381.72,
+      "end": 383.08,
+      "text": " Altså, det har jo sådan lidt for mig en rolle,",
+      "speaker": "A"
+    },
+    {
+      "start": 383.08,
+      "end": 384.8,
+      "text": " hvor du siger, hvis du på en eller anden måde",
+      "speaker": "A"
+    },
+    {
+      "start": 384.8,
+      "end": 386.48,
+      "text": " har maxet, hvad du kan få ud af Mesa,",
+      "speaker": "A"
+    },
+    {
+      "start": 386.48,
+      "end": 387.56,
+      "text": " så rykker du måske videre.",
+      "speaker": "A"
+    },
+    {
+      "start": 387.56,
+      "end": 389.88,
+      "text": " Eller hvis der ikke er mere incremental reach",
+      "speaker": "A"
+    },
+    {
+      "start": 389.88,
+      "end": 391.8,
+      "text": " at hente på Mesa, så rykker du videre på en eller anden måde.",
+      "speaker": "A"
+    },
+    {
+      "start": 391.8,
+      "end": 393.32,
+      "text": " Det er jo sådan lidt en tord.",
+      "speaker": "A"
+    },
+    {
+      "start": 393.32,
+      "end": 394.36,
+      "text": " Eller måske en træafhængig,",
+      "speaker": "A"
+    },
+    {
+      "start": 394.36,
+      "end": 395.36,
+      "text": " når man lige opgør det.",
+      "speaker": "A"
+    },
+    {
+      "start": 395.36,
+      "end": 396.36,
+      "text": " Det er måske bare, fordi jeg sidder mere med Ecom.",
+      "speaker": "B"
+    },
+    {
+      "start": 396.36,
+      "end": 399.08,
+      "text": " Jeg tror, det er mere din Ecom-ting, så.",
+      "speaker": "B"
+    },
+    {
+      "start": 399.08,
+      "end": 400.52,
+      "text": " Jeg er lidt mere på B2B-delen også,",
+      "speaker": "A"
+    },
+    {
+      "start": 400.52,
+      "end": 402.76,
+      "text": " selvom vi jo begge to har begge ting.",
+      "speaker": "A"
+    },
+    {
+      "start": 402.76,
+      "end": 403.48,
+      "text": " Jeg tror...",
+      "speaker": "A"
+    },
+    {
+      "start": 403.48,
+      "end": 404.68,
+      "text": " Plus, du har TikTok.",
+      "speaker": "A"
+    },
+    {
+      "start": 404.68,
+      "end": 406.56,
+      "text": " Jeg har ikke TikTok.",
+      "speaker": "A"
+    },
+    {
+      "start": 406.56,
+      "end": 407.88,
+      "text": " Jeg er for gammel til det der, Pia.",
+      "speaker": "A"
+    },
+    {
+      "start": 407.88,
+      "end": 409.6,
+      "text": " Det er en god pointe, ja.",
+      "speaker": "B"
+    },
+    {
+      "start": 409.6,
+      "end": 411.6,
+      "text": " Det er en god pointe.",
+      "speaker": "B"
+    },
+    {
+      "start": 411.6,
+      "end": 412.92,
+      "text": " Sandheden er jo, at jeg så ikke installerer det,",
+      "speaker": "A"
+    },
+    {
+      "start": 412.92,
+      "end": 414.64,
+      "text": " fordi jeg kan se, at den gennemsnitlige bruger i Danmark",
+      "speaker": "A"
+    },
+    {
+      "start": 414.64,
+      "end": 416.92,
+      "text": " bruger tre timer inden på TikTok med Insta.",
+      "speaker": "A"
+    },
+    {
+      "start": 416.92,
+      "end": 419.36,
+      "text": " Og hvis jeg skal tage tre timer at bruge på TikTok,",
+      "speaker": "A"
+    },
+    {
+      "start": 419.36,
+      "end": 424.04,
+      "text": " så bliver det for noget, som simpelthen er tid bedre brugt på.",
+      "speaker": "A"
+    },
+    {
+      "start": 424.04,
+      "end": 426.16,
+      "text": " Ja, så du vælger så at bruge den ringermod...",
+      "speaker": "B"
+    },
+    {
+      "start": 426.16,
+      "end": 428.52,
+      "text": " Altså, du vælger jo stadigvæk at være på YouTube Shorts,",
+      "speaker": "B"
+    },
+    {
+      "start": 428.52,
+      "end": 430.6,
+      "text": " så du vælger den dårligere metode til så bare...",
+      "speaker": "B"
+    },
+    {
+      "start": 430.6,
+      "end": 432.64,
+      "text": " Det, du skal huske, det er, at YouTube Shorts",
+      "speaker": "A"
+    },
+    {
+      "start": 432.64,
+      "end": 434.88,
+      "text": " er ikke godt nok til at bruge tre timer om dagen derinde.",
+      "speaker": "A"
+    },
+    {
+      "start": 434.88,
+      "end": 436.52,
+      "text": " Det er ikke godt nok.",
+      "speaker": "A"
+    },
+    {
+      "start": 436.52,
+      "end": 438.92,
+      "text": " Det er maks. 10 minutter om dagen eller sådan noget.",
+      "speaker": "A"
+    },
+    {
+      "start": 438.92,
+      "end": 440.04,
+      "text": " Og så Twitter er lidt bedre, der bruger man så 20 minutter.",
+      "speaker": "A"
+    },
+    {
+      "start": 440.04,
+      "end": 441.36,
+      "text": " Det er meget mere noteret.",
+      "speaker": "B"
+    },
+    {
+      "start": 441.36,
+      "end": 444.88,
+      "text": " Det er meget mere noteret.",
+      "speaker": "A"
+    },
+    {
+      "start": 444.88,
+      "end": 447.56,
+      "text": " Hvis du så mit telefon, så er det slag af den app,",
+      "speaker": "A"
+    },
+    {
+      "start": 447.56,
+      "end": 448.76,
+      "text": " jeg bruger mest tid i.",
+      "speaker": "A"
+    },
+    {
+      "start": 448.76,
+      "end": 451.96,
+      "text": " Og den er virkelig ikke underholdende.",
+      "speaker": "A"
+    },
+    {
+      "start": 451.96,
+      "end": 453.96,
+      "text": " Jeg tør slet ikke få TikTok på.",
+      "speaker": "A"
+    },
+    {
+      "start": 453.96,
+      "end": 456.12,
+      "text": " Det tør jeg virkelig ikke.",
+      "speaker": "A"
+    },
+    {
+      "start": 456.12,
+      "end": 456.68,
+      "text": " Ej.",
+      "speaker": "A"
+    },
+    {
+      "start": 456.68,
+      "end": 458.16,
+      "text": " Lad os afslutte episoden med at sige,",
+      "speaker": "A"
+    },
+    {
+      "start": 458.16,
+      "end": 459.76,
+      "text": " nu har vi snakket om et par forskellige statistikker.",
+      "speaker": "A"
+    },
+    {
+      "start": 459.76,
+      "end": 461.48,
+      "text": " Jeg er overrasket over, hvorfor der virkelig bruger service",
+      "speaker": "A"
+    },
+    {
+      "start": 462.48,
+      "end": 464.8,
+      "text": " Christian, sig nu, hvis man skal gøre fire vigtige ting",
+      "speaker": "A"
+    },
+    {
+      "start": 464.8,
+      "end": 466.2,
+      "text": " omkring inter-tracking i 2026.",
+      "speaker": "A"
+    },
+    {
+      "start": 466.2,
+      "end": 467.72,
+      "text": " Fire ting, du bør have styr på.",
+      "speaker": "A"
+    },
+    {
+      "start": 467.72,
+      "end": 468.36,
+      "text": " Hvad er det så?",
+      "speaker": "A"
+    },
+    {
+      "start": 468.36,
+      "end": 469.2,
+      "text": " Nummer et.",
+      "speaker": "B"
+    },
+    {
+      "start": 469.2,
+      "end": 470.04,
+      "text": " Server-side tagging.",
+      "speaker": "B"
+    },
+    {
+      "start": 470.04,
+      "end": 471.0,
+      "text": " Conversion API.",
+      "speaker": "B"
+    },
+    {
+      "start": 471.0,
+      "end": 473.8,
+      "text": " Alle kanaler, du arbejder med, sørg for, at det er sat op.",
+      "speaker": "B"
+    },
+    {
+      "start": 473.8,
+      "end": 476.52,
+      "text": " Det burde være en relativt simpel øvelse,",
+      "speaker": "B"
+    },
+    {
+      "start": 476.52,
+      "end": 477.72,
+      "text": " ellers så får nogen til at hjælpe dig med det.",
+      "speaker": "B"
+    },
+    {
+      "start": 477.72,
+      "end": 481.0,
+      "text": " Og det er absurd ikke at gøre det,",
+      "speaker": "B"
+    },
+    {
+      "start": 481.0,
+      "end": 483.04,
+      "text": " når du alligevel ligger og bruger penge på de enkelte.",
+      "speaker": "B"
+    },
+    {
+      "start": 483.04,
+      "end": 484.84,
+      "text": " Det er absolut et must.",
+      "speaker": "A"
+    },
+    {
+      "start": 484.84,
+      "end": 486.76,
+      "text": " Og det er det, du skal gøre.",
+      "speaker": "A"
+    },
+    {
+      "start": 486.76,
+      "end": 488.84,
+      "text": " Tummelfingeren regler, at hvis du bruger mere end 10.000 kroner",
+      "speaker": "A"
+    },
+    {
+      "start": 488.88,
+      "end": 490.68,
+      "text": " om måneden på for eksempel Google Ads eller Mesa,",
+      "speaker": "A"
+    },
+    {
+      "start": 490.68,
+      "end": 491.88,
+      "text": " så skal du absolut have det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 491.88,
+      "end": 493.48,
+      "text": " og så er det en god forretning at gøre det.",
+      "speaker": "A"
+    },
+    {
+      "start": 493.48,
+      "end": 496.08,
+      "text": " Få det på så mange platformer som overhovedet muligt.",
+      "speaker": "A"
+    },
+    {
+      "start": 496.08,
+      "end": 498.08,
+      "text": " Om du så har Profitmetrix eller Reaktion",
+      "speaker": "A"
+    },
+    {
+      "start": 498.08,
+      "end": 500.2,
+      "text": " eller bare tager den billige løsning via Stape.",
+      "speaker": "A"
+    },
+    {
+      "start": 500.2,
+      "end": 500.84,
+      "text": " Alt er fint.",
+      "speaker": "A"
+    },
+    {
+      "start": 500.84,
+      "end": 502.4,
+      "text": " De virker alle sammen rigtig godt.",
+      "speaker": "A"
+    },
+    {
+      "start": 502.4,
+      "end": 504.28,
+      "text": " Du øver ikke at have flere til at køre på samme tid.",
+      "speaker": "A"
+    },
+    {
+      "start": 504.28,
+      "end": 506.36,
+      "text": " Den billigste løsning er sandsynligvis at opsætte det via",
+      "speaker": "A"
+    },
+    {
+      "start": 506.36,
+      "end": 508.28,
+      "text": " server-side Google Tag Manager og Stape",
+      "speaker": "A"
+    },
+    {
+      "start": 508.28,
+      "end": 510.6,
+      "text": " og bare tage nogle af deres tags og få det til at virke.",
+      "speaker": "A"
+    },
+    {
+      "start": 510.6,
+      "end": 512.16,
+      "text": " Hvis du har brug for mere rapportering",
+      "speaker": "A"
+    },
+    {
+      "start": 512.16,
+      "end": 514.2,
+      "text": " eller mulighed for at lave ProRes bidding eller sådan noget,",
+      "speaker": "A"
+    },
+    {
+      "start": 514.2,
+      "end": 516.96,
+      "text": " er for eksempel Profitmetrix et kanon redskab.",
+      "speaker": "A"
+    },
+    {
+      "start": 516.96,
+      "end": 518.44,
+      "text": " Nummer to vil jeg sige cookie consent",
+      "speaker": "A"
+    },
+    {
+      "start": 518.44,
+      "end": 521.8,
+      "text": " med optimeret opt-in rates og consent mode v2.",
+      "speaker": "A"
+    },
+    {
+      "start": 521.8,
+      "end": 524.0,
+      "text": " Og consent mode v2, det er jo bare Googles teknik",
+      "speaker": "A"
+    },
+    {
+      "start": 524.0,
+      "end": 525.96,
+      "text": " for at få lidt mere data igennem for folk, der siger",
+      "speaker": "A"
+    },
+    {
+      "start": 525.96,
+      "end": 528.64,
+      "text": " nej, hvor du kan få sådan nogle pseudonymiserede informationer,",
+      "speaker": "A"
+    },
+    {
+      "start": 528.64,
+      "end": 530.0,
+      "text": " som ikke identificerer, hvem det er,",
+      "speaker": "A"
+    },
+    {
+      "start": 530.0,
+      "end": 531.64,
+      "text": " men alligevel giver dig en lille smule statistik.",
+      "speaker": "A"
+    },
+    {
+      "start": 531.64,
+      "end": 532.8,
+      "text": " Det skal du sætte op.",
+      "speaker": "A"
+    },
+    {
+      "start": 532.8,
+      "end": 535.04,
+      "text": " Optimeret opt-in rates er vigtigere.",
+      "speaker": "A"
+    },
+    {
+      "start": 535.04,
+      "end": 537.76,
+      "text": " Og det handler om at lade være med at tage i det standard layout,",
+      "speaker": "A"
+    },
+    {
+      "start": 537.76,
+      "end": 541.32,
+      "text": " men i stedet for prøve at se, om du kan customise dit cookie layout,",
+      "speaker": "A"
+    },
+    {
+      "start": 541.32,
+      "end": 543.08,
+      "text": " så det bliver lidt mere appellerende.",
+      "speaker": "A"
+    },
+    {
+      "start": 543.08,
+      "end": 544.0,
+      "text": " Og tryk på.",
+      "speaker": "A"
+    },
+    {
+      "start": 544.0,
+      "end": 545.96,
+      "text": " Måske har du nogle sjove ikoner.",
+      "speaker": "A"
+    },
+    {
+      "start": 545.96,
+      "end": 547.2,
+      "text": " Måske har du en god historie.",
+      "speaker": "A"
+    },
+    {
+      "start": 547.2,
+      "end": 550.2,
+      "text": " Måske forklarer du, hvorfor folk skal trykke på dine cookies.",
+      "speaker": "A"
+    },
+    {
+      "start": 550.2,
+      "end": 552.36,
+      "text": " Men det kan altså gøre en meget større forskel end teknikken.",
+      "speaker": "A"
+    },
+    {
+      "start": 552.36,
+      "end": 554.84,
+      "text": " Et eksempel jeg altid fremhæver her, fordi jeg synes, de er så fede,",
+      "speaker": "A"
+    },
+    {
+      "start": 554.84,
+      "end": 557.4,
+      "text": " det er Lacor.dk eller KOR.",
+      "speaker": "A"
+    },
+    {
+      "start": 557.4,
+      "end": 558.76,
+      "text": " Hvis du vil prøve at se, det er sejt.",
+      "speaker": "A"
+    },
+    {
+      "start": 558.76,
+      "end": 561.16,
+      "text": " Dansk Shopify-shop, super lækkert tøj.",
+      "speaker": "A"
+    },
+    {
+      "start": 561.16,
+      "end": 564.32,
+      "text": " De har sådan lavet en cookie box via cookie information,",
+      "speaker": "A"
+    },
+    {
+      "start": 564.32,
+      "end": 566.16,
+      "text": " hvor de har en af deres tegnede,",
+      "speaker": "A"
+    },
+    {
+      "start": 566.16,
+      "end": 568.28,
+      "text": " jeg ved ikke, er det en åder det her, eller hvad er det?",
+      "speaker": "A"
+    },
+    {
+      "start": 568.28,
+      "end": 569.28,
+      "text": " Ja, det tror jeg.",
+      "speaker": "A"
+    },
+    {
+      "start": 569.28,
+      "end": 569.96,
+      "text": " Ja, det er sådan en åder.",
+      "speaker": "A"
+    },
+    {
+      "start": 570.48,
+      "end": 571.96,
+      "text": " En åder, der ligger med en kop kaffe og siger,",
+      "speaker": "A"
+    },
+    {
+      "start": 571.96,
+      "end": 573.16,
+      "text": " må vi byde på en cookie?",
+      "speaker": "A"
+    },
+    {
+      "start": 573.16,
+      "end": 575.2,
+      "text": " Og så en lidt mere passionaliseret tekst.",
+      "speaker": "A"
+    },
+    {
+      "start": 575.2,
+      "end": 579.32,
+      "text": " Men bare den lille detalje kan gøre underværker for din opt-in-rate.",
+      "speaker": "A"
+    },
+    {
+      "start": 579.32,
+      "end": 582.12,
+      "text": " Og lige forklare folk, hvorfor du egentlig skal godkende det her.",
+      "speaker": "A"
+    },
+    {
+      "start": 582.12,
+      "end": 585.0,
+      "text": " Så optimeret opt-in-rate kommer fra, at du tager noget andet",
+      "speaker": "A"
+    },
+    {
+      "start": 585.0,
+      "end": 587.4,
+      "text": " end standard layoutet og lige forklarer dine brugere,",
+      "speaker": "A"
+    },
+    {
+      "start": 587.4,
+      "end": 588.88,
+      "text": " hvorfor vi egentlig gerne vil placere dem her.",
+      "speaker": "A"
+    },
+    {
+      "start": 588.88,
+      "end": 590.44,
+      "text": " Måske så vi kan give dig en bedre oplevelse.",
+      "speaker": "A"
+    },
+    {
+      "start": 590.44,
+      "end": 591.76,
+      "text": " Og så kan det faktisk gøre en større forskel",
+      "speaker": "A"
+    },
+    {
+      "start": 591.76,
+      "end": 592.8,
+      "text": " end det rigtig meget teknisk kan.",
+      "speaker": "A"
+    },
+    {
+      "start": 592.8,
+      "end": 595.2,
+      "text": " Nummer tre handler om, at du ikke...",
+      "speaker": "B"
+    },
+    {
+      "start": 595.2,
+      "end": 598.08,
+      "text": " Altså nu snakker vi rigtig meget om forskellige former for tracking,",
+      "speaker": "B"
+    },
+    {
+      "start": 598.08,
+      "end": 599.92,
+      "text": " og du har sikkert en masse kanaler, du er aktiv på,",
+      "speaker": "B"
+    },
+    {
+      "start": 599.92,
+      "end": 601.0,
+      "text": " du gerne vil tracke fra.",
+      "speaker": "B"
+    },
+    {
+      "start": 601.0,
+      "end": 602.76,
+      "text": " Det kan hurtigt blive lidt tungt på et website,",
+      "speaker": "B"
+    },
+    {
+      "start": 602.76,
+      "end": 605.48,
+      "text": " og det må endelig ikke gå ud over performance på dit setup.",
+      "speaker": "B"
+    },
+    {
+      "start": 605.48,
+      "end": 608.28,
+      "text": " Det vil sige at øge load-timing for dine besøgende,",
+      "speaker": "B"
+    },
+    {
+      "start": 608.28,
+      "end": 610.32,
+      "text": " fordi så er vi jo nærmest lige vidt,",
+      "speaker": "B"
+    },
+    {
+      "start": 610.32,
+      "end": 613.08,
+      "text": " hvis de besøgende lander på en side, der er rigtig langsomt",
+      "speaker": "B"
+    },
+    {
+      "start": 613.08,
+      "end": 615.56,
+      "text": " på grund af de her tracking-scripts med videre.",
+      "speaker": "B"
+    },
+    {
+      "start": 615.56,
+      "end": 617.04,
+      "text": " Så for at konsolidere de her scripts,",
+      "speaker": "B"
+    },
+    {
+      "start": 617.04,
+      "end": 620.2,
+      "text": " brug et hastighedsoptimeret setup via for eksempel Google Tag Manager.",
+      "speaker": "B"
+    },
+    {
+      "start": 620.2,
+      "end": 623.24,
+      "text": " Det er altså at foretrække ind og skulle plastre dit site til",
+      "speaker": "B"
+    },
+    {
+      "start": 623.24,
+      "end": 626.48,
+      "text": " med en helvedes masse scripts, der bare tager load-timing",
+      "speaker": "B"
+    },
+    {
+      "start": 626.48,
+      "end": 627.36,
+      "text": " i den forkerte retning.",
+      "speaker": "B"
+    },
+    {
+      "start": 627.4,
+      "end": 630.36,
+      "text": " Den sidste, det er at implementere det, som Google kalder",
+      "speaker": "A"
+    },
+    {
+      "start": 630.36,
+      "end": 633.6,
+      "text": " offline conversions, eller Facebook kalder post-conversion events,",
+      "speaker": "A"
+    },
+    {
+      "start": 633.6,
+      "end": 636.04,
+      "text": " men det handler om at sende information tilbage,",
+      "speaker": "A"
+    },
+    {
+      "start": 636.04,
+      "end": 637.8,
+      "text": " når der sker noget efter en word-klikket.",
+      "speaker": "A"
+    },
+    {
+      "start": 637.8,
+      "end": 640.64,
+      "text": " Så forestil dig fx en bruger, der kommer ind på dit site,",
+      "speaker": "A"
+    },
+    {
+      "start": 640.64,
+      "end": 643.44,
+      "text": " udfylder kontaktformularet, du måler kontaktformularen,",
+      "speaker": "A"
+    },
+    {
+      "start": 643.44,
+      "end": 645.8,
+      "text": " men du måler jo ikke, om det bliver til en kunden efterfølgende,",
+      "speaker": "A"
+    },
+    {
+      "start": 645.8,
+      "end": 647.12,
+      "text": " eller en person, der ansøger om et lån.",
+      "speaker": "A"
+    },
+    {
+      "start": 647.12,
+      "end": 649.84,
+      "text": " Du måler ansøgningen, men du måler ikke udbetalingen.",
+      "speaker": "A"
+    },
+    {
+      "start": 649.84,
+      "end": 652.6,
+      "text": " Der kan du bruge offline events, eller post-conversion events,",
+      "speaker": "A"
+    },
+    {
+      "start": 652.6,
+      "end": 655.56,
+      "text": " eller sådan webhook-baserede hendelser til at sende information",
+      "speaker": "A"
+    },
+    {
+      "start": 655.56,
+      "end": 659.6,
+      "text": " fra fx dit CRM-system tilbage til Google, og tilbage til Meet,",
+      "speaker": "A"
+    },
+    {
+      "start": 659.6,
+      "end": 662.28,
+      "text": " og tilbage til LinkedIn, når der sker en konversering,",
+      "speaker": "A"
+    },
+    {
+      "start": 662.28,
+      "end": 665.44,
+      "text": " og dermed give algoritmerne information om,",
+      "speaker": "A"
+    },
+    {
+      "start": 665.44,
+      "end": 667.8,
+      "text": " hvilke leads bliver til kunder, så du hen ad vejen",
+      "speaker": "A"
+    },
+    {
+      "start": 667.8,
+      "end": 670.08,
+      "text": " kan optimere efter kunder, i stedet for leads.",
+      "speaker": "A"
+    },
+    {
+      "start": 670.08,
+      "end": 672.92,
+      "text": " Det er lidt mere avanceret, men det kan gøre en verdensforskel",
+      "speaker": "A"
+    },
+    {
+      "start": 672.92,
+      "end": 674.76,
+      "text": " på effekten på din betalte annoncering.",
+      "speaker": "A"
+    },
+    {
+      "start": 674.76,
+      "end": 676.72,
+      "text": " Tusind tak, fordi du lyttede med til dagens episode.",
+      "speaker": "A"
+    },
+    {
+      "start": 676.72,
+      "end": 679.32,
+      "text": " Hvis du er blandt de 66%, der ikke har installeret server-site,",
+      "speaker": "A"
+    },
+    {
+      "start": 679.32,
+      "end": 682.0,
+      "text": " og du bruger mere end 10.000 på digital marketing,",
+      "speaker": "A"
+    },
+    {
+      "start": 682.0,
+      "end": 683.76,
+      "text": " så laver vi lige en aftale om, at det har du selvfølgelig fikset.",
+      "speaker": "A"
+    },
+    {
+      "start": 683.8,
+      "end": 685.6,
+      "text": " Så næste gang, vi laver en tracking-episode,",
+      "speaker": "A"
+    },
+    {
+      "start": 685.6,
+      "end": 686.92,
+      "text": " altså sikkert næste uge,",
+      "speaker": "A"
+    },
+    {
+      "start": 686.92,
+      "end": 689.0,
+      "text": " tusind tak, fordi du lyttede med til dagens episode.",
+      "speaker": "B"
+    },
+    {
+      "start": 689.0,
+      "end": 690.6,
+      "text": " Jeg skal nok købe jer noget tid, venner.",
+      "speaker": "B"
+    }
+  ]
+}

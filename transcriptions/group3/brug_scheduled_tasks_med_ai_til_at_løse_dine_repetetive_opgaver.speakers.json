@@ -1,0 +1,1159 @@
+{
+  "title": "Brug \"Scheduled Tasks\" med AI til at løse dine repetetive opgaver",
+  "url": "https://www.youtube.com/watch?v=QWolQ-9UWgw",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 697.2,
+  "transcribed_at": "2026-09-07T11:58:08.000434+00:00",
+  "full_text": "Hej og velkommen til en ny episode af MarketingPod. Christian Tinjo, hvad skal vi snakke om i dag? Vi skal snakke om den hurtigste vej til at automatisere dine dag-til-dag opgaver. Og det lyder jo vanvittigt fedt. Jeg vil sige, grunden til at vi tager den her episode i dag, og vi har jo haft en episode omkring det her med at automatisere sine opgaver med AI for noget tid siden. Og jeg tror mange oplevede, at det var noget af en mundfuld og skulle til at lave nogle lange, lange flows, hvor du skulle kende til processen fra A til Z osv. Og jeg synes bare, det er så vigtigt, at vi også husker at opdatere, når der kommer en nemmere løsning til de her ting her. Og det må man altså erkende. I dag er der altså blevet noget nemmere, hvis man kan acceptere en lidt mere light løsning på at få automatiseret sine dag-til-dag opgaver. Så det er egentlig det, vi skal snakke om i dag. Og det, det kommer til at handle om, det er jo scheduled tasks. Og før vi kommer alt for dybt ind i det, Halvdan, er det noget, du gør brug af den dag i dag? Altså de her scheduled tasks, afhængig af, hvad de hedder på de forskellige? Altså Claude har sin egen, og T.J. har sin egen, og Gemini med. Ja, og jeg gør faktisk brug af det to steder. Det ene, det er i Manus, hvor man også har mulighed for at oprette projects med scheduled tasks. Der har jeg nogle scheduled tasks, der løber. Jeg bruger det i, jeg har udviklet nogle dashboards til nogle af de projekter, jeg arbejder sammen med, hvor vi har lavet sådan nogle scheduled tasks via AI-integrationer og Slack. Så f.eks. hver mandag morgen sender jeg en opdatering på, her er, hvad vi har brugt penge på de sidste syv dage, og her er nogle AI-baserede anbefalinger til budgetområkeringer, der bare ligger og kører helt fast. Og så har vi jo vores eget udviklet Obsidian OS, hvor vi opretter en hel masse forskellige opgaver, som kan bidrage til, at vi kan levere endnu mere værdi til vores kunder. Hvor der også er mulighed for at oprette scheduled tasks på f.eks. at lave en fast analyse en gang om ugen, eller en gang om måneden, og implementere eller anbefale ændringer ud fra det. Så det er faktisk ret hurtigt, fordi det er inden for de sidste 36 måneder, vil jeg sige, at det her er blevet en del af det, jeg laver på tværs af forskellige platforme. Men det er også fordi, jeg synes, at alle har jo opgaver, de laver igen og igen og igen. Så bare lige husk på, hvad det er, og så er det her en fænomenal madgreb derinde på. Ja, lige præcis. Det kunne være rapportering, det kunne være mails, du sender hver uge, det er ting, du tjekker op på, altså alt det, der går igen. Og det er jo her, hvor de her scheduled tasks jo er den her, hvis man skal tage den del, altså på en meget, meget lavpraktisk måde. Det er en funktion, hvor du ligesom giver egentlig en opgave i naturligt sprog, og så får du den til at køre automatisk. Og det, der er fantastisk den dag i dag, det er, at du behøver ikke nødvendigvis at fortælle dem, hvordan du sådan gør det fra A til Z. Du kan godt bare stille målet op for AI'en og så sige, mit mål det er, at du skal lave en rapport, der ser nogenlunde sådan her ud, for eksempel. Og så vil den selv finde frem til løsninger. Den vil selv spørge dig efter de adgange, som den eventuelt måtte mangle, for at kunne lave i det her tilfælde en rapport. Jeg synes faktisk rapporter, rapportering generelt, er et fremragende eksempel, fordi det er to ting på en gang. For det første, så er det noget, du gør igen og igen og igen. Du rapporterer typisk hver uge, hver måned, hver kampagne, eller hvad det nu skal være. For det andet, så lever det op til, at jeres bevejelsesdefinition er dumt arbejde, fordi du sidder og tager tal fra et system, og så tester du dem ind i et andet system. Det er fandme ikke særlig værdiskabende. Så jeg synes faktisk, det er et rigtig godt sted at kigge på Scheduled Tasks og automatisering. Jeg tror, at Scheduled Tasks kan være vejen ind til massen til at lave de her automatiseringer, fordi vi har jo tidligere snakket om N8n og make.com. Det er en stor udfordring der, og jeg kender den selv. Selvom jeg har siddet meget i de her tools her, så føles det som en stor barriere at skulle i gang med, fordi det er sgu lidt mere sådan et lille udviklerjob. Altså, du skal selv bygge de her triggers og logikker, og du skal forbinde de her noder osv. Så barrieren, der kan man så snakke om, det er dogenskab eller hvad det er, men det er i hvert fald sværere at komme både i gang og i mål, synes jeg. Hvor at i dag, med de her Scheduled Tasks, hvor du kan sætte agenter og sub-agenter i gang, der ligesom kører i en eller anden frekvens, det gør det bare 10 gange lettere. Så jeg tror, at det er det her, der kommer til at gøre, at folk virkelig kommer i gang med det her. Ja, og også fordi, som du siger, make og N8n har en vis teknisk indgangsbarriere, men med de nye redskaber, der findes, og jeg ved, at du kommer til at bruge Cloud Core Work som eksempel her. Manus Projects kunne det også sagtens være, at du kan i virkeligheden lave det her i et lovable app, hvis du laver det der. De har tilfælles, at du ikke skal udvikle noget, du kan skrive i naturlig sprog, hvad det er, du gerne vil opnå, og så kan der opbygges en Scheduled Task rundt omkring det. Så på en eller anden måde, så har du fjernet den tekniske indgangsbarriere, der måske tidligere var, i forhold til at tage de ting, du laver igen og igen, og sætte det på en Scheduled Task. Lige præcis. Hvis jeg skal give et lavpraktisk eksempel på, hvordan vi bruger det i MarketingPod, så har vi jo nyheder med i vores mandagsepisoder, og helt automatisk, der er jeg klart ude at finde de mest relevante nyheder til MarketingPod en gang om ugen. Det er en Scheduled Task, det er noget, jeg gjorde uge efter uge, og som jeg satte den til. Og helt lavpraktisk, så har jeg faktisk bare givet den hele listen over de tidligere kilder, vi har haft til de her nyheder. Det vil sige, vi har kigget på de forrige 200 episode, og har sagt, det er de her medier, vi typisk henter indfra. Her er deres RSS-feeds. Hvis ikke du kan tilgå RSS-feeted, så gå lige ind via min browser, altså hvor den tager styring over min browser. Gå lige ind og kig på, hvad er de seneste nyheder, og hvad er relevant ud fra nogle kriterier, jeg har sat. Det gør den en gang om ugen. Og det har jo sparet mig ocean af tid, fordi du ved også, at nogle gange er der gurketid, så kan det godt være lidt svært at finde nogle nyheder, der rent faktisk er relevante her. Og igen, det er et lavpraktisk eksempel, men det er jo noget, som jeg tidligere brugte tid på. Nu behøver jeg faktisk ikke bruge tid på. Nu skal jeg egentlig bare quality check det. Ja, lige præcis. Og lad os prøve at tage af, hvordan du rent faktisk opretter dem i nogle af de mere populære redskaber. Så hvis vi nu starter med Manus, som jo er det, jeg selv bruger primært, eller i hvert fald har mange ting kørende i, ved siden af vores eget udviklet, så ligger der mulighed for over i venstre side, bare at lave en scheduled task. Så det hedder simpelthen bare scheduled. Og når man trykker på den, så har man mulighed for at prompte og egentlig lave ens opgave, ligesom man normalt vil. Så det her, man har mulighed for at skrive, hvad er det rent faktisk, du gerne vil have, der skal ske. Så du har en, altså du har et prompt, du har en schedule, hvor du kan sige daily eller weekly eller monthly. Så jeg kan sige weekly hver mandag kl. 0800. Så vil jeg gerne have rapport på metakonto, eller hvad det nu skal være, indtast i idéet, fordi den er allerede integreret. Så kan man slå skip confirmations til. Det plejer jeg at gøre, fordi så laver den bare opgaven i stedet for at vente på begræfelser. Det vil jeg ikke gøre, hvis nu bruger den til fx at budgetjustere. Det kan du teknisk ikke godt sætte den til. Brug flere penge på de kampagner, der fungerer godt. Det er ikke altid en god idé at gøre det. Der skal lige mennesker ind over, synes jeg. Så brug den her kundbestemmelsen, primært til analyse eller rapport basis. Og så har du nogle avancerede muligheder, som er, hvilken agent skal den bruge, hvor mange tokens skal den bruge, er der eventuelt nogle ekstra connectors, den skal slå til? Men det er virkelig ret nemt at oprette den her scheduled task. Så i det omfang, du har en opgave, du laver igen og igen, så kan du bare oprette den derinde, i stedet for manuelt at sætte den i gang. Og som en ekstra bonus, så gælder det her også projekter, som jo er noget, jeg bruger rigtig meget i Manus. Jeg har fx et projekt, der hedder mødegeneratorer. Og det er fordi, så kan jeg tage lydoptagelsen af et møde, oplove det ind i Manus, hvor der ligger nogle eksempler på, hvordan jeg laver mødereferater og arbejdsfordeling normalt. Så skal jeg faktisk bare upload optagelsen uden yderligere kontekst, bare upload den og sige, her er et møde, og så laver den selv referatet, sådan som jeg gerne vil have det. Hvis man har et projekt, så kan man godt sætte det til at køre igen og igen automatisk også. Det vil ikke give så meget mening med et mødereferat, fordi det skal helst afholde et møde. Men lad os sige, hvis du har et projekt, hvor du får lavet tre nye annoncer hver eneste uge, så kan du godt lave det i et projekt, hvor der ligger noget predefineret kontekst, nogle skills og nogle eksempler, og så sætte den til bare at køre fast inde i dit projekt. Så det kan man altså også gøre. Hvad med ChatGPT og eventuelt CloudCode? Hvad ved du arbejder med? Jamen, det følger nogenlunde det samme som det, du lige har vist der. Altså Scheduled Tasks bliver oprettet på nogenlunde samme måde. Der er en menupunkt, du klikker derind på, og så vælger du de nogenlunde samme ting, som du lige har vist her. Forskellen er måske, at ChatGPT har... Du kan godt lave Scheduled Prompts. Det er måske meget kaldt Scheduled Tasks, fordi den kan jo ikke løse opgaver i samme omfang, som CloudCode kan eller Manus kan. Eller kan den det i virkeligheden i den nye Codex-app? Det er jeg faktisk ikke engang sikker på selv. Ja, det mener jeg i hvert fald selv med den her nye ChatGPT WorkAgent-agtig funktion, der kom ud her i juli i den måned her, som ligger lidt tættere op ad det, vi kender fra CloudCode. Men jeg har ikke selv testet det, så det skal jeg ikke kunne sige, om det fungerer lige så godt. Hvad med Gemini? Den ved jeg da også, at nogen, der sidder i alle, der bruger Google Workspace, har jo adgangen til Gemini. De har jo noget, der hedder Scheduled Actions, men kan ikke helt det samme, kan den? Nej, nu igen, jeg har ikke selv brugt det, men hvad jeg kunne læse mig frem til, så kan du kun have x antal gang i gang af gangen. Jeg tror, det er en 10 stykker. Og det er sådan meget simple ting, hvorimod det fede ved Cloud og Manus, det er jo, at det er den her meget, meget dygtige agent, der går ind og løser opgaven for dig. Så du stiller den opgaven, og så løser den det ligesom. Hvad jeg kan læse mig til i Gemini, der handler det mere om at tage nogle relativt simple ting og automatisere med de her Scheduled Actions, som det hedder derinde. Hvis vi skal prøve at kigge på nogle af de her Use Cases, vi ser til dagligt, så har jeg blandt andet nogle Cases, der ligger og laver noget konkurrent-check eller overvågning blandt andet af konkurrenters Trust Pilot, så det vil sige, at de har en Scheduled Task til hver mandag eller tirsdag. Der skal i det her tilfælde Cloud hoppe ind på konkurrents Trust Pilot og se, hvad er det egentlig folk de skriver, og så tager de noget læring ud af det. Det kunne også godt være i forbindelse med priser. Hvordan er det, at konkurrenternes priser egentlig udvikler sig? Der kører en Scheduled Task til en gang om ugen og sender en opdatering herpå. Det kunne også godt være, at det har en anden Case, der gør med søgtermsovervågning, hvor man gerne en gang om måneden, fordi det er en gang om måneden, vi får søgtermsdata ud af Google, typisk mellem den 10. og 15. i den næstkommende måned, for at finde ud af, hvordan er det egentlig markedet? Det udvikler sig, at vi er på vej ind i en sæson og følger sæsonerne, det som vi har set fra de forrige år, eller starter den tidligere. Der kan jo bl.a. være hver, der går ind og gør noget. Det kan også godt være store begivenheder, f.eks. VM har kunnet rykke på nogle ting. Så på den måde har de sat en Scheduled Task op, og det er igen noget, som man tidligere skulle sidde og gøre manuelt, men lige snart man ser, hvad man kan gøre med AI, og jeg tror også, at det var Weissel, der sagde det i den episode, hvor vi havde ham med, hvor han siger, at når først man har fået øjnene op for, hvad AI kan hjælpe med, så åbner der sig en helt ny verden op. Jeg har tidligere kunne se det med de Cases, jeg sidder med, hvor vi har siddet og snakket om Scheduled Tasks, som jo er den her lavt indgangsbarriere måde at få automatiserede sine opgaver på. Pludselig så begynder der altså at køre en masse Scheduled Tasks uge efter uge, fordi det er jo de opgaver, man alligevel sad og lavede til dagligt. Det er jo der, hvor du virkelig kan frigøre noget tid. Det er, hvis du tager de opgaver, du laver igen og igen, særligt hvis det har lidt karakter og dumt arbejde, og så rent faktisk for at starte dem. Mine yndlingsexempler, det vil være næsten alle typer af rapportering, synes jeg er et fantastisk godt eksempel. Oplettering af Sheriff Search Analyzer, også ud fra, at du nævner, at vi har den her Google-dase, der opletteres typisk den 10.15. i måneden for måneden bagud. Så der kan du lave en ny og opletteret version af din Sheriff Search Analyzer, lige for den tilsendt. Incremental Reach Analyzer på meta er noget, jeg laver ret meget med Scheduled Tasks, fordi den kan du også lave én gang om måneden, hvor du så ser, har jeg en hensigtsmæssig, strategisk korrekt sammenhæng mellem, hvor mange eksisterende personer vi rammer kontra hvor mange nye personer. Altså jeg vil godt have sådan en lille notifikation, der siger, hov, er du klar over, at det kun er 5% af dem, du rammer med dine Facebook-annoncer, der ser din virkelighed for første gang? Det var måske ikke lige meningen. Dem kan du sætte op til at køre Scheduled. Jeg glæder mig masser af muligheder. Det er sådan lidt det der spørgsmål med at sætte sig ned og definere, hvad fanden laver jeg egentlig? Slice ens opgaver og finde ud af, hvilke af de her ting, behøver strengt taget ikke være mig, der laver, så du kan blive frigjort til at lave andre og mere værdiskabende ting, eller i hvert fald sjovere ting, så kan AE få lov til at lave noget af det kedelige arbejde.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Hej og velkommen til en ny episode af MarketingPod.",
+      "speaker": "A"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Christian Tinjo, hvad skal vi snakke om i dag?",
+      "speaker": "A"
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": " Vi skal snakke om den hurtigste vej til at automatisere dine dag-til-dag opgaver.",
+      "speaker": "B"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": " Og det lyder jo vanvittigt fedt.",
+      "speaker": "B"
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": " Jeg vil sige, grunden til at vi tager den her episode i dag,",
+      "speaker": "B"
+    },
+    {
+      "start": 14.0,
+      "end": 20.0,
+      "text": " og vi har jo haft en episode omkring det her med at automatisere sine opgaver med AI for noget tid siden.",
+      "speaker": "B"
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "text": " Og jeg tror mange oplevede, at det var noget af en mundfuld og skulle til at lave nogle lange, lange flows,",
+      "speaker": "B"
+    },
+    {
+      "start": 26.0,
+      "end": 29.0,
+      "text": " hvor du skulle kende til processen fra A til Z osv.",
+      "speaker": "B"
+    },
+    {
+      "start": 29.0,
+      "end": 34.0,
+      "text": " Og jeg synes bare, det er så vigtigt, at vi også husker at opdatere, når der kommer en nemmere løsning til de her ting her.",
+      "speaker": "B"
+    },
+    {
+      "start": 34.0,
+      "end": 37.0,
+      "text": " Og det må man altså erkende. I dag er der altså blevet noget nemmere,",
+      "speaker": "B"
+    },
+    {
+      "start": 37.0,
+      "end": 43.0,
+      "text": " hvis man kan acceptere en lidt mere light løsning på at få automatiseret sine dag-til-dag opgaver.",
+      "speaker": "B"
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": " Så det er egentlig det, vi skal snakke om i dag.",
+      "speaker": "B"
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": " Og det, det kommer til at handle om, det er jo scheduled tasks.",
+      "speaker": "B"
+    },
+    {
+      "start": 47.0,
+      "end": 51.0,
+      "text": " Og før vi kommer alt for dybt ind i det, Halvdan, er det noget, du gør brug af den dag i dag?",
+      "speaker": "B"
+    },
+    {
+      "start": 51.0,
+      "end": 54.0,
+      "text": " Altså de her scheduled tasks, afhængig af, hvad de hedder på de forskellige?",
+      "speaker": "B"
+    },
+    {
+      "start": 54.0,
+      "end": 57.0,
+      "text": " Altså Claude har sin egen, og T.J. har sin egen, og Gemini med.",
+      "speaker": "B"
+    },
+    {
+      "start": 57.0,
+      "end": 59.0,
+      "text": " Ja, og jeg gør faktisk brug af det to steder.",
+      "speaker": "A"
+    },
+    {
+      "start": 59.0,
+      "end": 64.0,
+      "text": " Det ene, det er i Manus, hvor man også har mulighed for at oprette projects med scheduled tasks.",
+      "speaker": "A"
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "text": " Der har jeg nogle scheduled tasks, der løber.",
+      "speaker": "A"
+    },
+    {
+      "start": 66.0,
+      "end": 70.0,
+      "text": " Jeg bruger det i, jeg har udviklet nogle dashboards til nogle af de projekter, jeg arbejder sammen med,",
+      "speaker": "A"
+    },
+    {
+      "start": 70.0,
+      "end": 74.0,
+      "text": " hvor vi har lavet sådan nogle scheduled tasks via AI-integrationer og Slack.",
+      "speaker": "A"
+    },
+    {
+      "start": 74.0,
+      "end": 79.0,
+      "text": " Så f.eks. hver mandag morgen sender jeg en opdatering på, her er, hvad vi har brugt penge på de sidste syv dage,",
+      "speaker": "A"
+    },
+    {
+      "start": 79.0,
+      "end": 84.0,
+      "text": " og her er nogle AI-baserede anbefalinger til budgetområkeringer, der bare ligger og kører helt fast.",
+      "speaker": "A"
+    },
+    {
+      "start": 84.0,
+      "end": 90.0,
+      "text": " Og så har vi jo vores eget udviklet Obsidian OS, hvor vi opretter en hel masse forskellige opgaver,",
+      "speaker": "A"
+    },
+    {
+      "start": 90.0,
+      "end": 93.0,
+      "text": " som kan bidrage til, at vi kan levere endnu mere værdi til vores kunder.",
+      "speaker": "A"
+    },
+    {
+      "start": 93.0,
+      "end": 98.0,
+      "text": " Hvor der også er mulighed for at oprette scheduled tasks på f.eks. at lave en fast analyse en gang om ugen,",
+      "speaker": "A"
+    },
+    {
+      "start": 98.0,
+      "end": 101.0,
+      "text": " eller en gang om måneden, og implementere eller anbefale ændringer ud fra det.",
+      "speaker": "A"
+    },
+    {
+      "start": 101.0,
+      "end": 105.0,
+      "text": " Så det er faktisk ret hurtigt, fordi det er inden for de sidste 36 måneder, vil jeg sige,",
+      "speaker": "A"
+    },
+    {
+      "start": 105.0,
+      "end": 108.0,
+      "text": " at det her er blevet en del af det, jeg laver på tværs af forskellige platforme.",
+      "speaker": "A"
+    },
+    {
+      "start": 108.0,
+      "end": 111.0,
+      "text": " Men det er også fordi, jeg synes, at alle har jo opgaver, de laver igen og igen og igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 111.0,
+      "end": 114.0,
+      "text": " Så bare lige husk på, hvad det er, og så er det her en fænomenal madgreb derinde på.",
+      "speaker": "A"
+    },
+    {
+      "start": 114.0,
+      "end": 118.0,
+      "text": " Ja, lige præcis. Det kunne være rapportering, det kunne være mails, du sender hver uge,",
+      "speaker": "B"
+    },
+    {
+      "start": 118.0,
+      "end": 121.0,
+      "text": " det er ting, du tjekker op på, altså alt det, der går igen.",
+      "speaker": "B"
+    },
+    {
+      "start": 121.0,
+      "end": 125.0,
+      "text": " Og det er jo her, hvor de her scheduled tasks jo er den her, hvis man skal tage den del,",
+      "speaker": "B"
+    },
+    {
+      "start": 125.0,
+      "end": 128.0,
+      "text": " altså på en meget, meget lavpraktisk måde.",
+      "speaker": "B"
+    },
+    {
+      "start": 128.0,
+      "end": 133.0,
+      "text": " Det er en funktion, hvor du ligesom giver egentlig en opgave i naturligt sprog,",
+      "speaker": "B"
+    },
+    {
+      "start": 133.0,
+      "end": 135.0,
+      "text": " og så får du den til at køre automatisk.",
+      "speaker": "B"
+    },
+    {
+      "start": 135.0,
+      "end": 138.0,
+      "text": " Og det, der er fantastisk den dag i dag, det er, at du behøver ikke nødvendigvis at fortælle dem,",
+      "speaker": "B"
+    },
+    {
+      "start": 138.0,
+      "end": 140.0,
+      "text": " hvordan du sådan gør det fra A til Z.",
+      "speaker": "B"
+    },
+    {
+      "start": 140.0,
+      "end": 143.0,
+      "text": " Du kan godt bare stille målet op for AI'en og så sige,",
+      "speaker": "B"
+    },
+    {
+      "start": 143.0,
+      "end": 147.0,
+      "text": " mit mål det er, at du skal lave en rapport, der ser nogenlunde sådan her ud, for eksempel.",
+      "speaker": "B"
+    },
+    {
+      "start": 147.0,
+      "end": 149.0,
+      "text": " Og så vil den selv finde frem til løsninger.",
+      "speaker": "B"
+    },
+    {
+      "start": 149.0,
+      "end": 153.0,
+      "text": " Den vil selv spørge dig efter de adgange, som den eventuelt måtte mangle,",
+      "speaker": "B"
+    },
+    {
+      "start": 153.0,
+      "end": 158.0,
+      "text": " for at kunne lave i det her tilfælde en rapport.",
+      "speaker": "B"
+    },
+    {
+      "start": 158.0,
+      "end": 161.0,
+      "text": " Jeg synes faktisk rapporter, rapportering generelt, er et fremragende eksempel,",
+      "speaker": "A"
+    },
+    {
+      "start": 161.0,
+      "end": 163.0,
+      "text": " fordi det er to ting på en gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 163.0,
+      "end": 165.0,
+      "text": " For det første, så er det noget, du gør igen og igen og igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 165.0,
+      "end": 168.0,
+      "text": " Du rapporterer typisk hver uge, hver måned, hver kampagne, eller hvad det nu skal være.",
+      "speaker": "A"
+    },
+    {
+      "start": 168.0,
+      "end": 172.0,
+      "text": " For det andet, så lever det op til, at jeres bevejelsesdefinition er dumt arbejde,",
+      "speaker": "A"
+    },
+    {
+      "start": 172.0,
+      "end": 175.0,
+      "text": " fordi du sidder og tager tal fra et system, og så tester du dem ind i et andet system.",
+      "speaker": "A"
+    },
+    {
+      "start": 175.0,
+      "end": 177.0,
+      "text": " Det er fandme ikke særlig værdiskabende.",
+      "speaker": "A"
+    },
+    {
+      "start": 177.0,
+      "end": 180.0,
+      "text": " Så jeg synes faktisk, det er et rigtig godt sted at kigge på Scheduled Tasks og automatisering.",
+      "speaker": "A"
+    },
+    {
+      "start": 180.0,
+      "end": 185.0,
+      "text": " Jeg tror, at Scheduled Tasks kan være vejen ind til massen til at lave de her automatiseringer,",
+      "speaker": "B"
+    },
+    {
+      "start": 185.0,
+      "end": 189.0,
+      "text": " fordi vi har jo tidligere snakket om N8n og make.com.",
+      "speaker": "B"
+    },
+    {
+      "start": 189.0,
+      "end": 192.0,
+      "text": " Det er en stor udfordring der, og jeg kender den selv.",
+      "speaker": "B"
+    },
+    {
+      "start": 192.0,
+      "end": 198.0,
+      "text": " Selvom jeg har siddet meget i de her tools her, så føles det som en stor barriere at skulle i gang med,",
+      "speaker": "B"
+    },
+    {
+      "start": 198.0,
+      "end": 202.0,
+      "text": " fordi det er sgu lidt mere sådan et lille udviklerjob.",
+      "speaker": "B"
+    },
+    {
+      "start": 202.0,
+      "end": 207.0,
+      "text": " Altså, du skal selv bygge de her triggers og logikker, og du skal forbinde de her noder osv.",
+      "speaker": "B"
+    },
+    {
+      "start": 207.0,
+      "end": 210.0,
+      "text": " Så barrieren, der kan man så snakke om, det er dogenskab eller hvad det er,",
+      "speaker": "B"
+    },
+    {
+      "start": 210.0,
+      "end": 214.0,
+      "text": " men det er i hvert fald sværere at komme både i gang og i mål, synes jeg.",
+      "speaker": "B"
+    },
+    {
+      "start": 214.0,
+      "end": 220.0,
+      "text": " Hvor at i dag, med de her Scheduled Tasks, hvor du kan sætte agenter og sub-agenter i gang,",
+      "speaker": "B"
+    },
+    {
+      "start": 220.0,
+      "end": 223.0,
+      "text": " der ligesom kører i en eller anden frekvens, det gør det bare 10 gange lettere.",
+      "speaker": "B"
+    },
+    {
+      "start": 223.0,
+      "end": 228.0,
+      "text": " Så jeg tror, at det er det her, der kommer til at gøre, at folk virkelig kommer i gang med det her.",
+      "speaker": "B"
+    },
+    {
+      "start": 228.0,
+      "end": 232.0,
+      "text": " Ja, og også fordi, som du siger, make og N8n har en vis teknisk indgangsbarriere,",
+      "speaker": "A"
+    },
+    {
+      "start": 232.0,
+      "end": 237.0,
+      "text": " men med de nye redskaber, der findes, og jeg ved, at du kommer til at bruge Cloud Core Work som eksempel her.",
+      "speaker": "A"
+    },
+    {
+      "start": 237.0,
+      "end": 242.0,
+      "text": " Manus Projects kunne det også sagtens være, at du kan i virkeligheden lave det her i et lovable app, hvis du laver det der.",
+      "speaker": "A"
+    },
+    {
+      "start": 242.0,
+      "end": 246.0,
+      "text": " De har tilfælles, at du ikke skal udvikle noget, du kan skrive i naturlig sprog,",
+      "speaker": "A"
+    },
+    {
+      "start": 246.0,
+      "end": 250.0,
+      "text": " hvad det er, du gerne vil opnå, og så kan der opbygges en Scheduled Task rundt omkring det.",
+      "speaker": "A"
+    },
+    {
+      "start": 250.0,
+      "end": 254.0,
+      "text": " Så på en eller anden måde, så har du fjernet den tekniske indgangsbarriere, der måske tidligere var,",
+      "speaker": "A"
+    },
+    {
+      "start": 254.0,
+      "end": 258.0,
+      "text": " i forhold til at tage de ting, du laver igen og igen, og sætte det på en Scheduled Task.",
+      "speaker": "A"
+    },
+    {
+      "start": 258.0,
+      "end": 262.0,
+      "text": " Lige præcis. Hvis jeg skal give et lavpraktisk eksempel på, hvordan vi bruger det i MarketingPod,",
+      "speaker": "B"
+    },
+    {
+      "start": 262.0,
+      "end": 266.0,
+      "text": " så har vi jo nyheder med i vores mandagsepisoder, og helt automatisk,",
+      "speaker": "B"
+    },
+    {
+      "start": 266.0,
+      "end": 271.0,
+      "text": " der er jeg klart ude at finde de mest relevante nyheder til MarketingPod en gang om ugen.",
+      "speaker": "B"
+    },
+    {
+      "start": 271.0,
+      "end": 275.0,
+      "text": " Det er en Scheduled Task, det er noget, jeg gjorde uge efter uge, og som jeg satte den til.",
+      "speaker": "B"
+    },
+    {
+      "start": 275.0,
+      "end": 279.0,
+      "text": " Og helt lavpraktisk, så har jeg faktisk bare givet den hele listen over de tidligere kilder,",
+      "speaker": "B"
+    },
+    {
+      "start": 279.0,
+      "end": 283.0,
+      "text": " vi har haft til de her nyheder. Det vil sige, vi har kigget på de forrige 200 episode,",
+      "speaker": "B"
+    },
+    {
+      "start": 283.0,
+      "end": 288.0,
+      "text": " og har sagt, det er de her medier, vi typisk henter indfra. Her er deres RSS-feeds.",
+      "speaker": "B"
+    },
+    {
+      "start": 288.0,
+      "end": 292.0,
+      "text": " Hvis ikke du kan tilgå RSS-feeted, så gå lige ind via min browser,",
+      "speaker": "B"
+    },
+    {
+      "start": 292.0,
+      "end": 296.0,
+      "text": " altså hvor den tager styring over min browser. Gå lige ind og kig på, hvad er de seneste nyheder,",
+      "speaker": "B"
+    },
+    {
+      "start": 296.0,
+      "end": 301.0,
+      "text": " og hvad er relevant ud fra nogle kriterier, jeg har sat. Det gør den en gang om ugen.",
+      "speaker": "B"
+    },
+    {
+      "start": 301.0,
+      "end": 305.0,
+      "text": " Og det har jo sparet mig ocean af tid, fordi du ved også, at nogle gange er der gurketid,",
+      "speaker": "B"
+    },
+    {
+      "start": 305.0,
+      "end": 308.0,
+      "text": " så kan det godt være lidt svært at finde nogle nyheder, der rent faktisk er relevante her.",
+      "speaker": "B"
+    },
+    {
+      "start": 308.0,
+      "end": 312.0,
+      "text": " Og igen, det er et lavpraktisk eksempel, men det er jo noget, som jeg tidligere brugte tid på.",
+      "speaker": "B"
+    },
+    {
+      "start": 312.0,
+      "end": 315.0,
+      "text": " Nu behøver jeg faktisk ikke bruge tid på. Nu skal jeg egentlig bare quality check det.",
+      "speaker": "B"
+    },
+    {
+      "start": 315.0,
+      "end": 319.0,
+      "text": " Ja, lige præcis. Og lad os prøve at tage af, hvordan du rent faktisk opretter dem",
+      "speaker": "A"
+    },
+    {
+      "start": 319.0,
+      "end": 324.0,
+      "text": " i nogle af de mere populære redskaber. Så hvis vi nu starter med Manus,",
+      "speaker": "A"
+    },
+    {
+      "start": 324.0,
+      "end": 328.0,
+      "text": " som jo er det, jeg selv bruger primært, eller i hvert fald har mange ting kørende i,",
+      "speaker": "A"
+    },
+    {
+      "start": 328.0,
+      "end": 333.0,
+      "text": " ved siden af vores eget udviklet, så ligger der mulighed for over i venstre side,",
+      "speaker": "A"
+    },
+    {
+      "start": 333.0,
+      "end": 337.0,
+      "text": " bare at lave en scheduled task. Så det hedder simpelthen bare scheduled.",
+      "speaker": "A"
+    },
+    {
+      "start": 337.0,
+      "end": 341.0,
+      "text": " Og når man trykker på den, så har man mulighed for at prompte og egentlig lave ens opgave,",
+      "speaker": "A"
+    },
+    {
+      "start": 341.0,
+      "end": 345.0,
+      "text": " ligesom man normalt vil. Så det her, man har mulighed for at skrive, hvad er det rent faktisk,",
+      "speaker": "A"
+    },
+    {
+      "start": 345.0,
+      "end": 349.0,
+      "text": " du gerne vil have, der skal ske. Så du har en, altså du har et prompt, du har en schedule,",
+      "speaker": "A"
+    },
+    {
+      "start": 349.0,
+      "end": 356.0,
+      "text": " hvor du kan sige daily eller weekly eller monthly. Så jeg kan sige weekly hver mandag kl. 0800.",
+      "speaker": "A"
+    },
+    {
+      "start": 356.0,
+      "end": 360.0,
+      "text": " Så vil jeg gerne have rapport på metakonto, eller hvad det nu skal være,",
+      "speaker": "A"
+    },
+    {
+      "start": 360.0,
+      "end": 365.0,
+      "text": " indtast i idéet, fordi den er allerede integreret. Så kan man slå skip confirmations til.",
+      "speaker": "A"
+    },
+    {
+      "start": 365.0,
+      "end": 368.0,
+      "text": " Det plejer jeg at gøre, fordi så laver den bare opgaven i stedet for at vente på begræfelser.",
+      "speaker": "A"
+    },
+    {
+      "start": 368.0,
+      "end": 371.0,
+      "text": " Det vil jeg ikke gøre, hvis nu bruger den til fx at budgetjustere.",
+      "speaker": "A"
+    },
+    {
+      "start": 371.0,
+      "end": 375.0,
+      "text": " Det kan du teknisk ikke godt sætte den til. Brug flere penge på de kampagner, der fungerer godt.",
+      "speaker": "A"
+    },
+    {
+      "start": 375.0,
+      "end": 378.0,
+      "text": " Det er ikke altid en god idé at gøre det. Der skal lige mennesker ind over, synes jeg.",
+      "speaker": "A"
+    },
+    {
+      "start": 378.0,
+      "end": 381.0,
+      "text": " Så brug den her kundbestemmelsen, primært til analyse eller rapport basis.",
+      "speaker": "A"
+    },
+    {
+      "start": 381.0,
+      "end": 385.0,
+      "text": " Og så har du nogle avancerede muligheder, som er, hvilken agent skal den bruge,",
+      "speaker": "A"
+    },
+    {
+      "start": 385.0,
+      "end": 389.0,
+      "text": " hvor mange tokens skal den bruge, er der eventuelt nogle ekstra connectors, den skal slå til?",
+      "speaker": "A"
+    },
+    {
+      "start": 389.0,
+      "end": 392.0,
+      "text": " Men det er virkelig ret nemt at oprette den her scheduled task.",
+      "speaker": "A"
+    },
+    {
+      "start": 392.0,
+      "end": 397.0,
+      "text": " Så i det omfang, du har en opgave, du laver igen og igen, så kan du bare oprette den derinde,",
+      "speaker": "A"
+    },
+    {
+      "start": 397.0,
+      "end": 399.0,
+      "text": " i stedet for manuelt at sætte den i gang.",
+      "speaker": "A"
+    },
+    {
+      "start": 399.0,
+      "end": 404.0,
+      "text": " Og som en ekstra bonus, så gælder det her også projekter, som jo er noget, jeg bruger rigtig meget i Manus.",
+      "speaker": "A"
+    },
+    {
+      "start": 404.0,
+      "end": 407.0,
+      "text": " Jeg har fx et projekt, der hedder mødegeneratorer.",
+      "speaker": "A"
+    },
+    {
+      "start": 407.0,
+      "end": 412.0,
+      "text": " Og det er fordi, så kan jeg tage lydoptagelsen af et møde, oplove det ind i Manus,",
+      "speaker": "A"
+    },
+    {
+      "start": 412.0,
+      "end": 416.0,
+      "text": " hvor der ligger nogle eksempler på, hvordan jeg laver mødereferater og arbejdsfordeling normalt.",
+      "speaker": "A"
+    },
+    {
+      "start": 416.0,
+      "end": 420.0,
+      "text": " Så skal jeg faktisk bare upload optagelsen uden yderligere kontekst, bare upload den og sige, her er et møde,",
+      "speaker": "A"
+    },
+    {
+      "start": 420.0,
+      "end": 423.0,
+      "text": " og så laver den selv referatet, sådan som jeg gerne vil have det.",
+      "speaker": "A"
+    },
+    {
+      "start": 423.0,
+      "end": 428.0,
+      "text": " Hvis man har et projekt, så kan man godt sætte det til at køre igen og igen automatisk også.",
+      "speaker": "A"
+    },
+    {
+      "start": 428.0,
+      "end": 431.0,
+      "text": " Det vil ikke give så meget mening med et mødereferat, fordi det skal helst afholde et møde.",
+      "speaker": "A"
+    },
+    {
+      "start": 431.0,
+      "end": 434.0,
+      "text": " Men lad os sige, hvis du har et projekt, hvor du får lavet tre nye annoncer hver eneste uge,",
+      "speaker": "A"
+    },
+    {
+      "start": 434.0,
+      "end": 437.0,
+      "text": " så kan du godt lave det i et projekt, hvor der ligger noget predefineret kontekst,",
+      "speaker": "A"
+    },
+    {
+      "start": 437.0,
+      "end": 442.0,
+      "text": " nogle skills og nogle eksempler, og så sætte den til bare at køre fast inde i dit projekt.",
+      "speaker": "A"
+    },
+    {
+      "start": 442.0,
+      "end": 444.0,
+      "text": " Så det kan man altså også gøre.",
+      "speaker": "A"
+    },
+    {
+      "start": 444.0,
+      "end": 449.0,
+      "text": " Hvad med ChatGPT og eventuelt CloudCode? Hvad ved du arbejder med?",
+      "speaker": "A"
+    },
+    {
+      "start": 449.0,
+      "end": 453.0,
+      "text": " Jamen, det følger nogenlunde det samme som det, du lige har vist der.",
+      "speaker": "B"
+    },
+    {
+      "start": 453.0,
+      "end": 456.0,
+      "text": " Altså Scheduled Tasks bliver oprettet på nogenlunde samme måde.",
+      "speaker": "B"
+    },
+    {
+      "start": 456.0,
+      "end": 462.0,
+      "text": " Der er en menupunkt, du klikker derind på, og så vælger du de nogenlunde samme ting, som du lige har vist her.",
+      "speaker": "B"
+    },
+    {
+      "start": 462.0,
+      "end": 466.0,
+      "text": " Forskellen er måske, at ChatGPT har...",
+      "speaker": "A"
+    },
+    {
+      "start": 466.0,
+      "end": 470.0,
+      "text": " Du kan godt lave Scheduled Prompts. Det er måske meget kaldt Scheduled Tasks,",
+      "speaker": "A"
+    },
+    {
+      "start": 470.0,
+      "end": 476.0,
+      "text": " fordi den kan jo ikke løse opgaver i samme omfang, som CloudCode kan eller Manus kan.",
+      "speaker": "A"
+    },
+    {
+      "start": 476.0,
+      "end": 479.0,
+      "text": " Eller kan den det i virkeligheden i den nye Codex-app? Det er jeg faktisk ikke engang sikker på selv.",
+      "speaker": "A"
+    },
+    {
+      "start": 479.0,
+      "end": 484.0,
+      "text": " Ja, det mener jeg i hvert fald selv med den her nye ChatGPT WorkAgent-agtig funktion,",
+      "speaker": "B"
+    },
+    {
+      "start": 484.0,
+      "end": 490.0,
+      "text": " der kom ud her i juli i den måned her, som ligger lidt tættere op ad det, vi kender fra CloudCode.",
+      "speaker": "B"
+    },
+    {
+      "start": 490.0,
+      "end": 496.0,
+      "text": " Men jeg har ikke selv testet det, så det skal jeg ikke kunne sige, om det fungerer lige så godt.",
+      "speaker": "B"
+    },
+    {
+      "start": 496.0,
+      "end": 499.0,
+      "text": " Hvad med Gemini? Den ved jeg da også, at nogen, der sidder i alle, der bruger Google Workspace,",
+      "speaker": "A"
+    },
+    {
+      "start": 499.0,
+      "end": 503.0,
+      "text": " har jo adgangen til Gemini. De har jo noget, der hedder Scheduled Actions,",
+      "speaker": "A"
+    },
+    {
+      "start": 503.0,
+      "end": 506.0,
+      "text": " men kan ikke helt det samme, kan den?",
+      "speaker": "A"
+    },
+    {
+      "start": 506.0,
+      "end": 510.0,
+      "text": " Nej, nu igen, jeg har ikke selv brugt det, men hvad jeg kunne læse mig frem til,",
+      "speaker": "B"
+    },
+    {
+      "start": 510.0,
+      "end": 515.0,
+      "text": " så kan du kun have x antal gang i gang af gangen. Jeg tror, det er en 10 stykker.",
+      "speaker": "B"
+    },
+    {
+      "start": 515.0,
+      "end": 519.0,
+      "text": " Og det er sådan meget simple ting, hvorimod det fede ved Cloud og Manus,",
+      "speaker": "B"
+    },
+    {
+      "start": 519.0,
+      "end": 525.0,
+      "text": " det er jo, at det er den her meget, meget dygtige agent, der går ind og løser opgaven for dig.",
+      "speaker": "B"
+    },
+    {
+      "start": 525.0,
+      "end": 528.0,
+      "text": " Så du stiller den opgaven, og så løser den det ligesom.",
+      "speaker": "B"
+    },
+    {
+      "start": 528.0,
+      "end": 534.0,
+      "text": " Hvad jeg kan læse mig til i Gemini, der handler det mere om at tage nogle relativt simple ting",
+      "speaker": "B"
+    },
+    {
+      "start": 534.0,
+      "end": 537.0,
+      "text": " og automatisere med de her Scheduled Actions, som det hedder derinde.",
+      "speaker": "B"
+    },
+    {
+      "start": 537.0,
+      "end": 540.0,
+      "text": " Hvis vi skal prøve at kigge på nogle af de her Use Cases, vi ser til dagligt,",
+      "speaker": "B"
+    },
+    {
+      "start": 540.0,
+      "end": 545.0,
+      "text": " så har jeg blandt andet nogle Cases, der ligger og laver noget konkurrent-check eller overvågning",
+      "speaker": "B"
+    },
+    {
+      "start": 545.0,
+      "end": 550.0,
+      "text": " blandt andet af konkurrenters Trust Pilot, så det vil sige, at de har en Scheduled Task til hver mandag eller tirsdag.",
+      "speaker": "B"
+    },
+    {
+      "start": 550.0,
+      "end": 554.0,
+      "text": " Der skal i det her tilfælde Cloud hoppe ind på konkurrents Trust Pilot og se,",
+      "speaker": "B"
+    },
+    {
+      "start": 554.0,
+      "end": 558.0,
+      "text": " hvad er det egentlig folk de skriver, og så tager de noget læring ud af det.",
+      "speaker": "B"
+    },
+    {
+      "start": 558.0,
+      "end": 561.0,
+      "text": " Det kunne også godt være i forbindelse med priser.",
+      "speaker": "B"
+    },
+    {
+      "start": 561.0,
+      "end": 565.0,
+      "text": " Hvordan er det, at konkurrenternes priser egentlig udvikler sig?",
+      "speaker": "B"
+    },
+    {
+      "start": 565.0,
+      "end": 570.0,
+      "text": " Der kører en Scheduled Task til en gang om ugen og sender en opdatering herpå.",
+      "speaker": "B"
+    },
+    {
+      "start": 570.0,
+      "end": 573.0,
+      "text": " Det kunne også godt være, at det har en anden Case, der gør med søgtermsovervågning,",
+      "speaker": "B"
+    },
+    {
+      "start": 573.0,
+      "end": 577.0,
+      "text": " hvor man gerne en gang om måneden, fordi det er en gang om måneden, vi får søgtermsdata ud af Google,",
+      "speaker": "B"
+    },
+    {
+      "start": 577.0,
+      "end": 581.0,
+      "text": " typisk mellem den 10. og 15. i den næstkommende måned,",
+      "speaker": "B"
+    },
+    {
+      "start": 581.0,
+      "end": 583.0,
+      "text": " for at finde ud af, hvordan er det egentlig markedet?",
+      "speaker": "B"
+    },
+    {
+      "start": 583.0,
+      "end": 587.0,
+      "text": " Det udvikler sig, at vi er på vej ind i en sæson og følger sæsonerne,",
+      "speaker": "B"
+    },
+    {
+      "start": 587.0,
+      "end": 591.0,
+      "text": " det som vi har set fra de forrige år, eller starter den tidligere.",
+      "speaker": "B"
+    },
+    {
+      "start": 591.0,
+      "end": 593.0,
+      "text": " Der kan jo bl.a. være hver, der går ind og gør noget.",
+      "speaker": "B"
+    },
+    {
+      "start": 593.0,
+      "end": 597.0,
+      "text": " Det kan også godt være store begivenheder, f.eks. VM har kunnet rykke på nogle ting.",
+      "speaker": "B"
+    },
+    {
+      "start": 597.0,
+      "end": 599.0,
+      "text": " Så på den måde har de sat en Scheduled Task op,",
+      "speaker": "B"
+    },
+    {
+      "start": 599.0,
+      "end": 602.0,
+      "text": " og det er igen noget, som man tidligere skulle sidde og gøre manuelt,",
+      "speaker": "B"
+    },
+    {
+      "start": 602.0,
+      "end": 605.0,
+      "text": " men lige snart man ser, hvad man kan gøre med AI,",
+      "speaker": "B"
+    },
+    {
+      "start": 605.0,
+      "end": 609.0,
+      "text": " og jeg tror også, at det var Weissel, der sagde det i den episode, hvor vi havde ham med,",
+      "speaker": "B"
+    },
+    {
+      "start": 609.0,
+      "end": 613.0,
+      "text": " hvor han siger, at når først man har fået øjnene op for, hvad AI kan hjælpe med,",
+      "speaker": "B"
+    },
+    {
+      "start": 613.0,
+      "end": 616.0,
+      "text": " så åbner der sig en helt ny verden op.",
+      "speaker": "B"
+    },
+    {
+      "start": 616.0,
+      "end": 620.0,
+      "text": " Jeg har tidligere kunne se det med de Cases, jeg sidder med, hvor vi har siddet og snakket om Scheduled Tasks,",
+      "speaker": "B"
+    },
+    {
+      "start": 620.0,
+      "end": 625.0,
+      "text": " som jo er den her lavt indgangsbarriere måde at få automatiserede sine opgaver på.",
+      "speaker": "B"
+    },
+    {
+      "start": 625.0,
+      "end": 629.0,
+      "text": " Pludselig så begynder der altså at køre en masse Scheduled Tasks uge efter uge,",
+      "speaker": "B"
+    },
+    {
+      "start": 629.0,
+      "end": 632.0,
+      "text": " fordi det er jo de opgaver, man alligevel sad og lavede til dagligt.",
+      "speaker": "B"
+    },
+    {
+      "start": 632.0,
+      "end": 634.0,
+      "text": " Det er jo der, hvor du virkelig kan frigøre noget tid.",
+      "speaker": "A"
+    },
+    {
+      "start": 634.0,
+      "end": 636.0,
+      "text": " Det er, hvis du tager de opgaver, du laver igen og igen,",
+      "speaker": "A"
+    },
+    {
+      "start": 636.0,
+      "end": 640.0,
+      "text": " særligt hvis det har lidt karakter og dumt arbejde, og så rent faktisk for at starte dem.",
+      "speaker": "A"
+    },
+    {
+      "start": 640.0,
+      "end": 643.0,
+      "text": " Mine yndlingsexempler, det vil være næsten alle typer af rapportering,",
+      "speaker": "A"
+    },
+    {
+      "start": 643.0,
+      "end": 644.0,
+      "text": " synes jeg er et fantastisk godt eksempel.",
+      "speaker": "A"
+    },
+    {
+      "start": 644.0,
+      "end": 646.0,
+      "text": " Oplettering af Sheriff Search Analyzer,",
+      "speaker": "A"
+    },
+    {
+      "start": 646.0,
+      "end": 648.0,
+      "text": " også ud fra, at du nævner, at vi har den her Google-dase,",
+      "speaker": "A"
+    },
+    {
+      "start": 648.0,
+      "end": 652.0,
+      "text": " der opletteres typisk den 10.15. i måneden for måneden bagud.",
+      "speaker": "A"
+    },
+    {
+      "start": 652.0,
+      "end": 655.0,
+      "text": " Så der kan du lave en ny og opletteret version af din Sheriff Search Analyzer,",
+      "speaker": "A"
+    },
+    {
+      "start": 655.0,
+      "end": 656.0,
+      "text": " lige for den tilsendt.",
+      "speaker": "A"
+    },
+    {
+      "start": 656.0,
+      "end": 660.0,
+      "text": " Incremental Reach Analyzer på meta er noget, jeg laver ret meget med Scheduled Tasks,",
+      "speaker": "A"
+    },
+    {
+      "start": 660.0,
+      "end": 662.0,
+      "text": " fordi den kan du også lave én gang om måneden, hvor du så ser,",
+      "speaker": "A"
+    },
+    {
+      "start": 662.0,
+      "end": 667.0,
+      "text": " har jeg en hensigtsmæssig, strategisk korrekt sammenhæng mellem,",
+      "speaker": "A"
+    },
+    {
+      "start": 667.0,
+      "end": 670.0,
+      "text": " hvor mange eksisterende personer vi rammer kontra hvor mange nye personer.",
+      "speaker": "A"
+    },
+    {
+      "start": 670.0,
+      "end": 672.0,
+      "text": " Altså jeg vil godt have sådan en lille notifikation, der siger,",
+      "speaker": "A"
+    },
+    {
+      "start": 672.0,
+      "end": 675.0,
+      "text": " hov, er du klar over, at det kun er 5% af dem, du rammer med dine Facebook-annoncer,",
+      "speaker": "A"
+    },
+    {
+      "start": 675.0,
+      "end": 677.0,
+      "text": " der ser din virkelighed for første gang?",
+      "speaker": "A"
+    },
+    {
+      "start": 677.0,
+      "end": 678.0,
+      "text": " Det var måske ikke lige meningen.",
+      "speaker": "A"
+    },
+    {
+      "start": 678.0,
+      "end": 680.0,
+      "text": " Dem kan du sætte op til at køre Scheduled.",
+      "speaker": "A"
+    },
+    {
+      "start": 680.0,
+      "end": 681.0,
+      "text": " Jeg glæder mig masser af muligheder.",
+      "speaker": "A"
+    },
+    {
+      "start": 681.0,
+      "end": 684.0,
+      "text": " Det er sådan lidt det der spørgsmål med at sætte sig ned og definere,",
+      "speaker": "A"
+    },
+    {
+      "start": 684.0,
+      "end": 685.0,
+      "text": " hvad fanden laver jeg egentlig?",
+      "speaker": "A"
+    },
+    {
+      "start": 685.0,
+      "end": 689.0,
+      "text": " Slice ens opgaver og finde ud af, hvilke af de her ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 689.0,
+      "end": 691.0,
+      "text": " behøver strengt taget ikke være mig, der laver,",
+      "speaker": "A"
+    },
+    {
+      "start": 691.0,
+      "end": 694.0,
+      "text": " så du kan blive frigjort til at lave andre og mere værdiskabende ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 694.0,
+      "end": 697.0,
+      "text": " eller i hvert fald sjovere ting, så kan AE få lov til at lave noget af det kedelige arbejde.",
+      "speaker": "A"
+    }
+  ]
+}

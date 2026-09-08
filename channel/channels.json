@@ -1,6 +1,6 @@
 {
   "_comment": "Registry of source channels behind each video group. 'source_type' = how the group's video list is defined: 'channel_scrape' (yt-dlp scrape, cached under channel_cache/), 'curated' (hand-picked subset of a channel, hardcoded in transcribe.py VIDEO_GROUPS), or 'fixed' (standalone video/webinar, no parent channel). 'status' fields were last verified on 'last_checked'; regenerate with the check-new-videos flow.",
-  "last_checked": "2026-07-29",
+  "last_checked": "2026-09-07",
   "channels": [
     {
       "group": "group1",
@@ -9,12 +9,12 @@
       "channel_url": "https://www.youtube.com/@AlexanderFuldtBooket",
       "handle": "@AlexanderFuldtBooket",
       "cache_file": null,
-      "notes": "Solo monologues – diarization intentionally skipped (single speaker). Curated subset of the channel; ~18 older testimonial/case clips are deliberately excluded.",
+      "notes": "Curated subset of the channel; ~18 older testimonial/case clips are deliberately excluded. Solo monologues: the 13 pre-2026-07-29 videos are intentionally not diarized; everything transcribed since then is.",
       "status": {
-        "tracked_videos": 19,
-        "channel_total_live": 37,
-        "transcribed": 19,
-        "diarized": 0,
+        "tracked_videos": 25,
+        "channel_total_live": 43,
+        "transcribed": 25,
+        "diarized": 12,
         "new_since_last": 0,
         "older_uncurated": 18
       }
@@ -43,14 +43,14 @@
       "channel_url": "https://www.youtube.com/@marketingpod",
       "handle": "@marketingpod",
       "cache_file": "channel_cache/group3.json",
-      "cached_at": "2026-07-29T12:21:45Z",
-      "notes": "Full-channel scrape cached under channel_cache/. All listed episodes transcribed. Diarization/speaker-naming done for the original 288 (237 named, rest letter-labeled); the 34 newest transcripts are not yet diarized.",
+      "cached_at": "2026-09-07T11:14:24Z",
+      "notes": "Full-channel scrape cached under channel_cache/. Complete: every tracked video is transcribed and diarized; 233 of 334 have real speaker names, the rest are letter-labeled. The channel listing also carries 1 Short, which the scraper filters out (335 listed -> 334 tracked).",
       "status": {
-        "tracked_videos": 321,
-        "channel_total_live": 321,
-        "transcribed": 322,
-        "diarized": 288,
-        "named": 237,
+        "tracked_videos": 334,
+        "channel_total_live": 334,
+        "transcribed": 334,
+        "diarized": 334,
+        "named": 233,
         "new_since_last": 0,
         "older_uncurated": 0
       }
