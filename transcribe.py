@@ -73,6 +73,12 @@ VIDEO_GROUPS = {
         {"url": "https://www.youtube.com/watch?v=uWRAW_-l5fo", "title": "Hvis du vil firedoble dine bookinger, så se denne video"},
         {"url": "https://www.youtube.com/watch?v=Z4fgkaq-T68", "title": "Jeg hjalp en behandler med at blive den, hele byen går til"},
         {"url": "https://www.youtube.com/watch?v=sCpHlU0csj0", "title": "Sådan booster du din kliniks omsætning med 9 enkle ting"},
+        {"url": "https://www.youtube.com/watch?v=JUuqczZ6hD8", "title": "Sådan bygger du en klinik der omsætter 100.000 kr hver måned"},
+        {"url": "https://www.youtube.com/watch?v=hj-TtGGKKD8", "title": "Fra 0 Til Fuldt Booket Klinik"},
+        {"url": "https://www.youtube.com/watch?v=5SdSrYmdLf0", "title": "Jeg hjalp en behandler med at hæve sine priser uden at miste en eneste kunde"},
+        {"url": "https://www.youtube.com/watch?v=mmpbnjby6Zo", "title": "Sådan får du et stabilt kundeflow i din klinik"},
+        {"url": "https://www.youtube.com/watch?v=7Q4b6bjiFtc", "title": "Reglen Der Fordobler Din Kliniks Omsætning"},
+        {"url": "https://www.youtube.com/watch?v=kxYGAippk18", "title": "Hvis din kliniks omsætning svinger hver måned, så se den her"},
     ],
     "group2": [
         {"url": "https://player.vimeo.com/video/1097517089", "title": "100 bookinger workshop"},
@@ -402,7 +408,9 @@ def save_transcript(base_path: Path, video: dict, group: str, text: str, segment
     ensure_dirs(base_path.parent)
 
     # Plain text
-    txt_path = base_path.with_suffix(".txt")
+    # Dot-safe: titles may contain dots (e.g. "...100.000 kr..."), and base_path has
+    # no extension, so .with_suffix() would eat the trailing ".000_kr_..." segment.
+    txt_path = Path(str(base_path) + ".txt")
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write(f"{video['title']}\n")
         f.write(f"[Source: {video['url']}]\n")
@@ -412,7 +420,7 @@ def save_transcript(base_path: Path, video: dict, group: str, text: str, segment
     print(f"    Saved: {txt_path.relative_to(SCRIPT_DIR)}")
 
     # JSON with metadata and segments
-    json_path = base_path.with_suffix(".json")
+    json_path = Path(str(base_path) + ".json")
     data = {
         "title": video["title"],
         "url": video["url"],
@@ -436,7 +444,7 @@ def process_video(video: dict, group: str, client: OpenAI, args, language: str =
     transcript_base = get_transcript_base(group, video)
 
     # Skip if already transcribed (unless --force)
-    if not args.force and transcript_base.with_suffix(".txt").exists() and transcript_base.with_suffix(".json").exists():
+    if not args.force and Path(str(transcript_base) + ".txt").exists() and Path(str(transcript_base) + ".json").exists():
         print(f"  SKIP (already done): {video['title']}")
         return True
 

@@ -101,6 +101,19 @@ Channel URLs live in `channel/channels.json` (the scrape cache does **not** stor
 3. For a **curated** group (e.g. group1) add the new entries to `VIDEO_GROUPS` first;
    for a **scraped** group refresh the cache. Then run §1 → §2 on the new videos.
 
+**`--channel` does NOT refresh the cache.** `transcribe.py` reads
+`channel_cache/<group>.json` and only re-scrapes when `--force` is passed — but `--force`
+also disables the transcript skip-check and re-transcribes the entire channel. There is no
+flag that does one without the other. To refresh the cache alone, call the module's own
+functions:
+
+```bash
+python -c "import transcribe as t; v=t.scrape_channel_videos('<url>',None,None); t.save_channel_cache('<group>',v)"
+```
+
+Then run §1 normally. Skipping this step silently processes the stale list, and the run
+reports success while transcribing nothing new.
+
 ---
 
 ## Invariants — do not violate
@@ -108,7 +121,12 @@ Channel URLs live in `channel/channels.json` (the scrape cache does **not** stor
 - **Filenames may contain dots** (`...5_mio._kr.json`, `...3.489...`). Never build sibling
   names with `Path.with_suffix(".speakers.json")` — it truncates at the last dot. Strip
   the trailing `.json` by string slice: `name[:-len(".json")] + ".speakers.json"`.
-  `diarize.py` already does this; keep it that way.
+  `diarize.py` and `transcribe.py` both do this now; keep it that way. This bit hard once:
+  `transcribe.py` built transcript paths with `with_suffix()` on an **extensionless** base,
+  so `Mr. Beasts …` and `Mr. Beast har …` both wrote to `mr.json` and overwrote each other
+  (3 group3 videos were lost this way). The bug was self-consistent — the skip-check
+  truncated identically — so **fixing it renames files**: migrate existing truncated names
+  with a rename rather than letting the skip-check miss them and re-transcribe at cost.
 - **Identity is the YouTube video id, not the filename.** A video's upstream title can
   change, which changes its slug; the name-based skip check then misses it and it gets
   re-transcribed under a new name. Detect duplicates by id, and match a diarization to a

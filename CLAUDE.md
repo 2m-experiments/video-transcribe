@@ -31,7 +31,9 @@ python diarize.py transcriptions/<g>/<name>.json   # for each newly-transcribed 
 - **Dotted filenames**: several transcript names contain dots (e.g. `...5_mio._kr.json`,
   `...3.489...`). Never derive sibling names with `Path.with_suffix(".speakers.json")` —
   it truncates at the last dot. Strip the trailing `.json` by string slice instead
-  (`name[:-len(".json")] + ".speakers.json"`). `diarize.py` was fixed to do this; keep it.
+  (`name[:-len(".json")] + ".speakers.json"`). `diarize.py` and `transcribe.py` were both
+  fixed to do this; keep it. In `transcribe.py` the bug collapsed every dotted title to a
+  truncated name (`Mr. Beasts …` → `mr.json`), so such videos silently overwrote each other.
 - **Title drift → duplicates**: the skip-check keys off the slugified title, so if a
   video's title changes upstream, a re-run re-transcribes it under a new filename. Dedup
   by YouTube video id (`?v=…`), not by filename. Match a diarization to its transcript by
