@@ -98,6 +98,11 @@ def _yt_dlp_base_opts(cookies: str | None = None, proxy: str | None = None) -> d
         "nocheckcertificate": True,
         "no_warnings": True,
         "quiet": True,
+        # YouTube needs a JS runtime to derive signatures for some formats; without
+        # one yt-dlp falls back to clients that don't (visionos/android vr) and calls
+        # that path deprecated. Only "deno" is enabled by default, so name node too —
+        # yt-dlp picks the highest-priority runtime that is actually installed.
+        "js_runtimes": {"deno": {}, "node": {}},
     }
     if cookies:
         opts["cookiefile"] = cookies
