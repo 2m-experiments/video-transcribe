@@ -72,6 +72,24 @@
         "new_since_last": 0,
         "older_uncurated": 0
       }
+    },
+    {
+      "group": "group5",
+      "name": "2Marketing customer statements",
+      "source_type": "fixed",
+      "channel_url": null,
+      "handle": null,
+      "cache_file": null,
+      "notes": "Four customer testimonial videos hosted as direct MP4s on 2marketing.nu (wp-content/uploads), pulled in by yt-dlp's generic extractor rather than a site extractor. No parent channel, so there is nothing to re-scrape: new statements must be added to VIDEO_GROUPS by hand. Each is a ~1 min solo piece to camera, so diarization returns a single speaker A; the speaker's first name is in the title for three of the four.",
+      "status": {
+        "tracked_videos": 4,
+        "channel_total_live": null,
+        "transcribed": 4,
+        "diarized": 4,
+        "named": 0,
+        "new_since_last": 0,
+        "older_uncurated": 0
+      }
     }
   ]
 }

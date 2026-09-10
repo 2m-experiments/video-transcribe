@@ -88,6 +88,14 @@ VIDEO_GROUPS = {
     "group4": [
         {"url": "https://webinar.obsidian.dk/content-masterclass-sadan-far-du-1", "title": "Content Masterclass: Sådan får du kreativ succes på sociale medier i 2026"},
     ],
+    # 2Marketing customer statements — direct MP4s hosted on 2marketing.nu, handled by
+    # yt-dlp's generic extractor. No parent channel to track.
+    "group5": [
+        {"url": "https://2marketing.nu/wp-content/uploads/2026/08/Terapeut-Rolf-V2.mp4", "title": "Psykoterapeut Rolf"},
+        {"url": "https://2marketing.nu/wp-content/uploads/2026/08/Kiropraktor-Jonas-V3-1.mp4", "title": "Kiropraktor Jonas"},
+        {"url": "https://2marketing.nu/wp-content/uploads/2026/08/Diaetist_Ruth-V2.mp4", "title": "Diætist Ruth"},
+        {"url": "https://2marketing.nu/wp-content/uploads/2026/04/2ai_Clinic360_2_V3_low.mp4", "title": "Skønhedsklinik Clinic360"},
+    ],
 }
 
 
