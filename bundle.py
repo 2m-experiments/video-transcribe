@@ -36,9 +36,9 @@ CHANNELS_PATH = SCRIPT_DIR / "channel" / "channels.json"
 BUNDLE_DIR = SCRIPT_DIR / "bundle"
 
 CHUNK_CHARS = 1_000_000          # target size per chunk file (chars, ~300k tokens)
-# A Claude Project rejected uploads once ~7.4M chars were in; keep full transcripts under
+# A Claude Project showed 108% capacity at 6.65M chars (cap ~6.1M); keep full transcripts under
 # this budget (newest first) and ship the rest as summary-only "digest" entries.
-FULL_TEXT_BUDGET = 6_000_000
+FULL_TEXT_BUDGET = 4_900_000
 # Short file-name labels per group; groups sharing a label are bundled together.
 LABELS = {"group1": "fuldt-booket", "group2": "workshops", "group3": "marketingpod", "group4": "workshops"}
 SOURCE_KIND = {"group1": "YouTube", "group2": "Vimeo", "group3": "YouTube", "group4": "Webinar"}
