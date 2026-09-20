@@ -1,0 +1,3890 @@
+{
+  "title": "Performance Max er døende - men hvad gør Google nu?",
+  "url": "https://www.youtube.com/watch?v=AqzbeUR3Ajk",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 1123.7,
+  "transcribed_at": "2026-09-20T09:47:03.761777+00:00",
+  "full_text": "Hej og velkommen til en ny episode af MarketingPod. Jeg så en spændende nyhed om Google Ads her for nylig, og i stedet for at sende den til Tinju, der laver, som om han ved noget om Google Ads, så sendte jeg den til Emil Norddal, der faktisk ved noget om Google Ads. Emil, tak fordi du vil være med i dagens episode af MarketingPod og snakke om Performance Max. Tak, jeg er glad for, at jeg kan være med. Det er sådan en ære at få lov til at snakke med jer omkring det emne her. Det er jo meget sjovt, også når det er PMAX. Og det er jo faktisk et emne, som du har skrevet til os om tidligere, og du har i det hele taget været en lille smule kritisk for os, for at være lidt meta-centriske i vores marketing-dækning på MarketingPod, hvilket er færdigt. Det er ikke kun Emil, skal jeg så lige hilse til at sige her i aften. Jeg tror, det er nok det aller... Hvis du kigger i min indbakke igennem, så er det i hvert fald det, der bliver nævnt allermest, det er, hvornår får vi noget mere PPC eller Google Ads. Og hermed, Emil... Og de næste fire minutter. Ej, resten af episoden, der skal vi snakke om det, fordi der sker rigtig meget på Google Ads lige nu, især i forhold til Performance Max. Det, jeg lægger mærke til, det er, at det virker som om, at Google startede med at sige, vi skal gøre det hele, og du har ingen kontrol. Og så er vi gradvist ved at få mere og mere kontrol tilbage, og jeg kunne godt tænke mig at forstå, hvorfor det sker, og hvad der kommer til at ske i fremtiden. Emil, kan du ikke lige starte med at fortælle os, Performance Max, da det blev introduceret for, det ved jeg ikke, tre-fire år siden, hvad var tanken med det dengang, og hvordan fungerede det oprindeligt, da det blev lanceret? Ja, det er jo godt. Hvis du spørger Google nu, hvad tanken var, så vil de også afvige fra det, de sagde dengang, hvilket er lidt sjovt, fordi dengang det kom ud, og P-Markets blev sådan lidt skudt af sted, som en form for full-funnel, complete ad-inventory-coverage-marketing-kanal, der bare dækkede alle platforme på Googles netværk, og så kunne de bruge nogle penge på display, og nogle penge i gmail, og nogle penge i retargeting, og alle de her forskellige steder, der er. Og det var lidt en black box, der ikke var så meget styring på. Og det var sådan, det startede helt i begyndelsen, hvor det ret hurtigt skiftede det lidt retning fra at kalde det full-funnel, der er jeg sikker på, jeg har haft nogle Google-reps, der har sagt til mig, så kan de altid sige, hvad de vil, men så skiftede det lidt, og nu er det sådan bottom-funnel, hvor argumentet er, at nu er det bare bottom-funnel-trafik, der bliver konverteret derinde, hvilket jo i begyndelsen var rigtig meget brand, som jo fyldte ekstremt meget for alle, der arbejdede med PPC, hvilket var lidt sjovt, fordi det var da ikke nogen, der stillede os hver eneste gang, at vi er i smart-shopping, som var sådan foregængeren for det, derfor at man PMAX kunne bare sables for at tage det der brandsøgninger. Og jeg kan huske, lige da Performance Max udkom, der var mange ting, vi ikke kunne se, vi kunne faktisk ikke se, hvilke platforme vores penge blev brugt på, er det her search, eller display, eller YouTube, eller Gmail, det ved vi faktisk ikke, vi kunne ikke se, hvor meget der var brand, og hvor meget der var non-brand, altså vi havde virkelig begrænset kendskab til det, til at starte med. Hvorfor gik Google ud med et produkt, der var så intransparent? Var det en bog, eller var det i virkeligheden meningen, tror du? Jeg tror måske, de havde håbet på, at den ville blive taget lidt bedre imod. Hvorfor vi jo også lidt ser den her, igen, jeg vil ikke kalde det, at de ruller det tilbage, men folk gik jo amok over, at der ikke var kontrol over det, og så ville de nødt til at finde en anden løsning, eller noget, som så annoncørerne tog imod det. Det er jo trods alt vigtigt, hvis de gerne vil have folk bruge nogle penge på deres platform, så skal folk også tro det på. Jeg tror egentlig, det var meningen, at de gerne ville have, at det skulle være intransparent. Men man havde måske håbet på, at det havde blivet taget lidt bedre imod, at vi brugte 50% af vores kroner på display-netværket, men vidste det ikke. Jeg synes jo, Emil, det er sådan lidt sjovt, fordi hvis man følger historien fra PMAG, så går det fra, hvad den her black box, og der er det imod ikke stadigvæk, men vi har da trods alt fået åbnet op for nogle indsigter, for eksempel, hvad er det for nogle søgetermer, vi ligger og byder på via PMAG? Hvad er det for nogle kanaler, vi bliver vist på osv.? Det er ikke det fulde billede, vi får. Det er det trods alt ikke. Men når man kigger på hele den her rejse her, så har der jo også været en måde, hvorpå de fleste annoncører, nu skal jeg passe på, at jeg ikke tager alle over i en kamp, men de fleste annoncører har brugt PMAG på sådan en lidt sjov måde, sådan en lidt hækket måde. Jeg tror, de fleste, der har siddet med PMAG, kan ligge genkendende til en feed-only PMAG-kampagne. Vil du ikke prøve at sætte lidt ord på den her? Fordi shoppingdelen er jo så vigtig i PMAG, hvis vi sådan snakker Ecom-mæssigt, fordi vi har noget standard shopping og noget smart shopping, så bliver det PMAG, så kører man feed-only osv. Helt den her seance, som jo er sådan lidt tragekomisk på en eller anden måde, vil du ikke prøve at sætte nogle ord på det? Jo, det er jo virkelig sjovt. Altså, det var jo et kæmpe hæk, jo. Altså, i forhold til de der ting, man ikke kunne se osnoget, der gik jo ikke mange måneder, så var der jo scripts og alt muligt, altså, hvor vi kunne trække, hvilke platformer, der fik spændt ind, og hvilke kanaler, der ligesom fik spændt. Og da vi fandt ud af, at okay, det er shopping, så begyndte man lidt at hække den der kampagnetype, sådan at bare ved at give et feed og ikke nogen assets, så kunne man køre feed-only. Og så var argumentet lidt på det tidspunkt, var, så har vi egentlig en smart shopping. Så har vi en kampagne, der bruger det bedste for en rytme, og i øvrigt også afdækket retargetæg-netværket jo, som jo var en fordel for mange annoncer, der ikke havde et dedikeret retargetæg-setup. Superhækkede måde at gøre det på, og Google havde det. Nøj, så var meget. Så var der den ene og den anden udmeldning med, at nu trækker vi det tilbage. Nu kan man ikke mere. Det var ikke sådan, det var meningen, der skulle bruges. Og fast forward, altså, det hele kulminerer jo også, så vi kommer måske ind på det igen, men det hele kulminerer jo også med, at vi ligesom siger, PMAX har ikke uber-rank-prioritet, som de jo havde før, over standard shopping. Nu er det AdRank, der afgør det mellem standard shopping og PMAX, hvilket jo var ekstremt sjovt, fordi så kunne man jo tydeligt se, hvilken kampagnetype, der vandt de der auktioner. Og så skete der noget andet interessant her for nylig, og det var det tweet, jeg oprindelig sendte til dig, Emil, der startede den her episode, som var, at Google nu går ind i PMAX og opdeler det mellem kanaler, så du nu rent faktisk i PMAX kan i en eller anden grad vælge, om du vil have Discopper og Gmail og Display og Search og Search Partners og Maps og YouTube. Så det vil sige, du kan faktisk nu lave en PMAX-kampagne og vælge alle de dårlige placeringer fra. Og min konspirationsteori er jo, at de lavede PMAX til at starte med, fordi de havde en del af deres forretning, notably Search, som var enormt godt monetized, den bedste forretningsmodel på internettet, måske i verdenshistorien. Højt monetized, højt CPM, højt CPC, enormt profitabel. Så havde de rigtig mange dårlige placeringer, som folk ikke gad købe. Vi kan sige, i flæng, generally speaking, der var ikke nogen, der gad købe Display, der var ikke nogen, der gad købe Gmail, der var ikke nogen, der gad købe Maps. Så hvordan får vi annoncererne til at bruge nogle flere penge på vores dårligst monetized platform? Det gør vi ved at fjerne transparensen og sige, nu er det en samlet pulje, fordi hvis du har en del af dit budget, der er meget mere profitabel, end du i virkeligheden har behov for, og en anden del, der er meget mindre profitabel, så kan det være, at vi kan udjevne de to, så du er samlet set tilfreds, men nu får vi monetized vores dårlige platform bedre. Og Mesa er jo også skyldig i det her, de kalder det Advantage Plus, og det er årsagen til, at vores annoncer ligger i right hand side på threads, på alle mulige placeringer, hvor vi ikke har lyst til at have dem, hvor vi også har mulighed for at vælge dem fra, men den mulighed forsvinder så rent faktisk snart, hvis vi gør det med value rules. Så det er både Mesa og Google, der gør det her, skal jeg jo lige sige. Jamen det er jo fuld funnel halvstand. Det er fuld funnel halvstand. Det er fuld funnel halvstand. Det er fuld funnel halvstand. Hold kæft, hver gang man har hørt, at det er en god uddannelse. Det er the great part of the funnel, and the shitty part of the funnel. Nu får du det hele. Det er ikke lower og upper, det er bare god og dårligt, der er blandet sammen. Hvad siger du til den, Emil? Er det ikke sådan lidt dødstød til PMAX, at du nu faktisk bare kan vælge alle de dårlige placeringer fra? Er det ikke bare standard shopping igen nu? Det bliver... Nej, men det er jo bare sådan en... Og det sjove er jo, at folk har jo skrædt efter kontrol. Altså i så mange år har man... Altså folk er gået helt nok... Jeg vil bare gerne gå og sætte targets på asset groups. Jeg er ligeglad med det der. Altså det er bare sådan... Vi kunne starte med det. Altså det ved jeg ikke, men... Men det sjove er jo, at folk har skrædt på kontrol, og nu har vi så fået det. Og hvad kommer der til at ske? Der kommer til at ske det, at der er nogen, der kommer til at tænke, okay, så skruer vi ned for Gmail og Discover, og så kører vi bare... Det er det første, jeg gør. Det er det første, jeg gør, det der. Præcis. Og det er jo sådan lidt... Hvorfor... Hvorfor... Hvorfor har vi... Hvorfor så kører en PMAX? Også fordi Google mister jo... Google mister jo så deres benefit af, at det er det der. Og by the way, det er jo lower funnel. PMAX er jo ikke food funnel, forhåbentlig. Men... Men... Men altså... Så... Men... Men de mister jo så de penge, du ville bruge på Gmail eller Discover, men halvstandet... Google er jo way ahead. Fordi de har jo allerede lavet et produkt, der jo så bare kommer til at gøre det, som PMAX gjorde. De har jo rullet... Hvad er det? Demandian kommer jo til at overtage display-netværket. Og Demandian er jo bare den nye... Altså Demandian er jo ligesom PMAX genfødsel. Jeg tror, det er sådan lidt... Jeg tror, de har siddet i et lokal, de der Google-folk, og har tænkt, okay, folk, slup det kild, den der PMAX. Nu har vi prøvet at overtale dem i et par år. Nu prøver vi lige igen... Jeg tror, de er klar nu. Nu har vi sagt AI som headliner i alle vores ting i to år. Så nu er de klar. Altså genialt. Og det er genialt jo, fordi nu kommer folk til... Folk skal nok bruge penge. Google er jo ikke den første virksomhed, der tager en forretningsmodel, der ikke har fungeret, putter AI foran, og så prøver igen. Og nok kommer til at lykkes med den. Og jeg kan faktisk godt lide den framing. Fordi jeg kan godt mærke, PMAX, det snakker vi ikke så meget om. Også de ting, jeg hører fra Google, og de ting, jeg ser fra Google, når vi er på at møde os sammen med vores kunder osv. De snakker om to ting for mig lige nu. Det ene det er YouTube. Jeg kan mærke, de vil rigtig gerne sælge noget YouTube. Jeg vil helst ikke købe det, på de vilkår, men de vil rigtig gerne sælge det. Den anden ting, det er demantien, som der bliver snakket rigtig meget om. Og jeg havde faktisk spekuleret på, altså når I snakker om demantien, er det konceptuelt? Eller er det sådan, fordi vi skal spørge lidt af demantien. Det er det, vi er her for. Eller er det funktionen demantien, vi snakker om, eller hvad? Og nu forstår jeg, det er så aftageren til PMAX, vi snakker om. Ja, det tror jeg lidt. Du må ikke quote mig for den. Jeg tror lidt, der er lidt sådan en. Du må ikke quote mig for den, sagde han på podcastet, der blev løbet til 3.000-4.000 gange hver uge. Jeg føler lidt, at de prøvede med PMAX, og nu har de givet folk noget kontrol, og der er nogen, der bruger det. Det er jo heller ikke, fordi alt det der, jeg hater ikke. PMAX er bare sådan, det er fint, men det er bare sådan, den der fundamentale ting, det skulle have været, som var intentionen, det bliver det bare ikke. Det bliver det aldrig. Og det skal det heller ikke. Der er meget bedre. Hvis du gerne vil køre, som jeg også skrev, hvis du gerne vil køre, hvis du har lavet en fed YouTube-video, og du har brugt 100.000 på at producere den, med creators, og optager, og shoots, og hvad ved jeg, så lav en video-kampagne. Altså, så lav en kampagne for den video, så man ved, at den bliver brugt penge på den. Det her med, at Google, de går ind og forsøger, at fylde noget af deres, lad os sige, dårlige inventory, den køber jeg. Men hvis vi skal prøve, at tage en anden hat på, og det her, det er sådan en lille tese, jeg har haft, i løbet af de seneste, det er efterhånden mange år nu, fordi spørgsmålet er egentlig, er vi som annoncører på Google Ads, også for dårlige til at tilpasse os, den nye måde? Altså, hvis man sådan kigger, sådan meget, meget, sådan sat lidt på spidsen, lidt firkantet set, så Google Ads folk, har historisk set, været datafolk, de elsker at nørde ned i tallene, og så videre. De har ikke været, de kreative folk, som man kender derovre fra meta, hvor man er vant til at arbejde med, ad creatives, med videre. Og det tror jeg altså ikke, jeg træder nogen år til, er jeg ved at sige, fordi jeg kommer selv fra, Google Ads delen af. Men når du kigger på, PMAX kampagner, nu Emil, vi har imod væk set, mange PMAX kampagner. De kan jo tælles på en hånd, hvor mange af dem, der rent faktisk er sat, i gåsøjne rigtigt op, hvor man rent faktisk, har uploadet x antal videoer. Her tænker jeg på, de her aktiver, og billeder osv., som man rent faktisk, får, Google vil jo nok sige, fuld udbytte, af den her kampagne for dem. Men det er jo en helt udstilling, af tankegangen for, Google Ads folk, at skulle sidde og tænke, i de her, kreative baner. Ikke fordi Google Ads folk, ikke er kreative, men creatives. Det er jo en eksplosion, af ting man pludselig, skal forholde sig til. Hvor man tidligere, måske kiggede meget på, og data, hardcore data, med videre. Jeg kan ikke lade mig sidde, og tænke på om, der er jo ikke nogen tvivl om, hvilken vej, hvilken retning, det her det går i. Men om der måske også er, sådan en langsom transformation, i det at være, Google Ads mand. Altså at det simpelthen, får en anden betydning, fordi vi også skal tænke, video, billeder, altså alle de her, asset groups, vi nu engang uploader. Men det kan også være, det er helt ved siden af. Nej, det tror jeg slet ikke, er ved siden af. Det er sådan en, naturlig udvikling. Jeg tror, man er også nødt til, at omfavne det. Altså jeg køber heller ikke, den der med, at man bare afviser, alt nyt, der kommer ud. Google Ads var også nyt, på et tidspunkt jo. Altså det er sådan, så det også. Så man er nødt til, at have det lidt kritiske, men også lidt selvindsigt, og finde ud af, hvad skal man gøre, med de nye ting, de laver. Og jeg tror, du har ret i, at det der med, også med at købe server, det tror jeg ikke måske, vi gør om 10 år. Der køber man nok en intent. Det bliver nok på, det bliver en anden slags, Det betyder ikke, at det der med, at holde øje med klikpriser, og sådan noget, og efterspørge, at det forsvinder. Det er sådan fundamentet af, at forstå, hvordan hele den her, annonceplatform fungerer. Men det bliver meget mere sådan, jeg vil ikke sige, at acceptere ting, der sker, men stole lidt på, at hvis du har en intent, så er det godt, at den er også god nok, til at holde en intent. Det tror jeg, folk ender med, at blive nødt til at gøre, om 10 år. Så tror jeg ikke, man har noget valg. Men lad os se. Hvad er det, der kommer til at afgøre, en Google Ads kampagnes effektivitet, i fremtiden, hvis du kigger på den person, der skal sætte den op? Og vi har allerede været lidt inde på det, men et gennemgående tema, vi også taler meget om, det er, hvordan AI ændrer, hvordan vi arbejder med, de forskellige marketingkanaler, og ændrer, hvilke kompetencer, det er, man selv skal have, kontra hvad man kan udlicitere, til en maskine, som gør det bedre end en selv. Det helt oplagte eksempel, vil være, hvis man kunne trække alle dages ud, og lade AI analysere den, i forhold til at finde mønstre i, hvad der fungerer godt og skidt, ville den nok gøre bedre, end et menneske ville gøre. Omvendt at forstå intentionen, bag et søgeord, kan være sværere for en AI, fordi et ord kan besyde flere ting, afhængig af, hvilken kontekst, det rent faktisk står i. Så Emil, når du ser lidt fremad ud i tiden, med de algoritmeændringer, der er, og Google, der kommer med nye tiltag, og fjerner dem igen, hvad er det så for nogle kompetencer, der afgør, om man i virkeligheden, Den første, altså den ene, der ikke kommer til at ændre sig, det er sådan noget med, sådan data forståelse. Det tror jeg altid, kommer til at være en kompetence, man skal have, som Google Ads specialist. En anden ting, jeg tror man kommer til at skulle have, er, også nu, men sådan noget med, at være omstillingsparat, og kunne omstille sig, de nye ting, og især om 10-20 år. Det bliver en vigtig evne at have. Så er det måske svært, at komme med sådan en one-liner, på hvad kompetencen hedder, men det her med at arbejde med AI, i et større forstand, det bliver en ekstremt vigtig kompetence, overhovedsæt, hos en Google Ads specialist. Og måske også lære at forstå, nu siger du det der med, jamen den kan måske analysere data, en hurtigere. Så bliver der så spørgsmålet om, hvordan analyserer vi den, så man får mest udbytte af det, også over for kunden, og den der skal sidde og arbejde med det, det bliver vigtigt for alle. Og så tror jeg også, altså i takt med, at der er mange manuelle processer, der går hen og bliver lidt hurtigere, altså smart det er det ikke, nu har det været en ting i lang tid, men det kommer nok at udvikle sig yderligere. Og derfor, så er man jo også nødt til at indstille sig på, at man skal trække nogle andre kaniner op af hatten, altså du er nødt til, udover at være dygtig til at forstå tal, så bliver du også i stigende grad nødt til, at kunne forstå andre platform. F.eks. forstå den der, Advantage Plus annonce i højre side, altså du er nødt til at forstå, hvor det kommer fra, forstå annoncerlændskabet på en anden måde, for at forstå, hvordan de forskellige kanaler spiller sammen. Det bliver en stor del af at være paid specialist generelt tror jeg, at man kan forstå de andre platforme. Og det, det er jo godt, tænker jeg jo, fordi det betyder jo også, man ender med nogle specialister, der hvis man vil det bedste, har en lidt bedre forretningsforståelse. Og det er jo nice, tænker jeg for de fleste annoncerer. Jeg er på falderabet, Emil. Jeg har et sidste spørgsmål. Hvis man som lytter sidder og lytter med, og man kigger på sin egen Google Ads konto, og er lidt træt af de PMAX kampagner, der kører, men man har fået tulet ørerne døde af Google Reps, om at man skal køre dem. Hvad er dit bedste råd her? Jeg ved godt, det er svært, når det er alt andet lige, og der er masser af ting, der ligesom kan gå ind og påvirke det svar. Men overordnet set, og du lavede lige et tegn, fordi jeg bare lytter med og ikke ser med, så lavede Emil lige den klassiske med, at køre hånden hen over halsen. Hvad vil dit råd her være? Fordi jeg ved, der sidder mange derude, som er træt af deres egen PMAX. Men det er også bare, jeg tror, at vi er modsvar. Altså jeg vil sige sådan, okay, men hvorfor? Altså vi tror, man skal starte med at spørge sig selv om, hvorfor er du træt af den PMAX kampagne? Hvad er det? Også fordi, det er også bare nemt. Jeg synes, det er rigtig nemt at se sig sur på en platform, der er blackbox, bare fordi den er black. Og igen, der er så meget indsigt i den kampagne, så det er ret nemt at svare på det spørgsmål, hvorfor man er træt af den. Start med at kigge på den. Hvad er det, du gør dig træt af den? Er det, fordi der er nogle kategorier, du kan få ud af den? Er det, fordi der er et overlap med dine andre kampagner? Jamen, så slæb den. Eller køre en AB-test på det, eller et eller andet. Og hvis det er, fordi man har et ønske om at opholde lidt liv i nogle af sine kreativer i et andet format, så prøv også faktisk at bruge den. Altså lad være med at game den. Prøv bare at bygge den rigtigt. Og hvis du så har, og så kører et dedikeret, rigtigt shopping setup. Men start med lige at spørge sig selv, hvorfor er det, man er træt af det? Og så brug den data. Den ligger faktisk derinde. Det er ret nemt. Prøv at huske det. Tusind tak, fordi du havde lyst til at være med i dagens episode, Emil. Jeg synes, det er nogle rigtig gode takeaways. Spørg lige, hvorfor det er, at du er træt af det. Til at starte med at bygge det ordentligt, og nogle gode refleksioner, om hvad det er, der kræver at være dygtigst til Google Ads i fremtiden. Tak, fordi du lyttede med til dagens episode. På genhør på mandag kl. 06.",
+  "diarization": {
+    "provider": "assemblyai",
+    "speakers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "language_code": "da"
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Hej og velkommen til en ny episode af MarketingPod.",
+      "speaker": "A"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": " Jeg så en spændende nyhed om Google Ads her for nylig,",
+      "speaker": "A"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": " og i stedet for at sende den til Tinju, der laver, som om han ved noget om Google Ads,",
+      "speaker": "A"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": " så sendte jeg den til Emil Norddal, der faktisk ved noget om Google Ads.",
+      "speaker": "A"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": " Emil, tak fordi du vil være med i dagens episode af MarketingPod og snakke om Performance Max.",
+      "speaker": "A"
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": " Tak, jeg er glad for, at jeg kan være med. Det er sådan en ære at få lov til at snakke med jer omkring det emne her.",
+      "speaker": "B"
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": " Det er jo meget sjovt, også når det er PMAX.",
+      "speaker": "B"
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": " Og det er jo faktisk et emne, som du har skrevet til os om tidligere,",
+      "speaker": "A"
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": " og du har i det hele taget været en lille smule kritisk for os,",
+      "speaker": "A"
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "text": " for at være lidt meta-centriske i vores marketing-dækning på MarketingPod, hvilket er færdigt.",
+      "speaker": "A"
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": " Det er ikke kun Emil, skal jeg så lige hilse til at sige her i aften.",
+      "speaker": "C"
+    },
+    {
+      "start": 37.0,
+      "end": 39.0,
+      "text": " Jeg tror, det er nok det aller...",
+      "speaker": "C"
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": " Hvis du kigger i min indbakke igennem, så er det i hvert fald det, der bliver nævnt allermest,",
+      "speaker": "C"
+    },
+    {
+      "start": 42.0,
+      "end": 45.0,
+      "text": " det er, hvornår får vi noget mere PPC eller Google Ads.",
+      "speaker": "C"
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": " Og hermed, Emil...",
+      "speaker": "C"
+    },
+    {
+      "start": 48.0,
+      "end": 52.0,
+      "text": " Og de næste fire minutter. Ej, resten af episoden, der skal vi snakke om det,",
+      "speaker": "A"
+    },
+    {
+      "start": 52.0,
+      "end": 56.0,
+      "text": " fordi der sker rigtig meget på Google Ads lige nu, især i forhold til Performance Max.",
+      "speaker": "A"
+    },
+    {
+      "start": 56.0,
+      "end": 60.0,
+      "text": " Det, jeg lægger mærke til, det er, at det virker som om, at Google startede med at sige,",
+      "speaker": "A"
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": " vi skal gøre det hele, og du har ingen kontrol.",
+      "speaker": "A"
+    },
+    {
+      "start": 62.0,
+      "end": 66.0,
+      "text": " Og så er vi gradvist ved at få mere og mere kontrol tilbage,",
+      "speaker": "A"
+    },
+    {
+      "start": 66.0,
+      "end": 70.0,
+      "text": " og jeg kunne godt tænke mig at forstå, hvorfor det sker, og hvad der kommer til at ske i fremtiden.",
+      "speaker": "A"
+    },
+    {
+      "start": 70.0,
+      "end": 73.0,
+      "text": " Emil, kan du ikke lige starte med at fortælle os, Performance Max,",
+      "speaker": "A"
+    },
+    {
+      "start": 73.0,
+      "end": 76.0,
+      "text": " da det blev introduceret for, det ved jeg ikke, tre-fire år siden,",
+      "speaker": "A"
+    },
+    {
+      "start": 76.0,
+      "end": 80.0,
+      "text": " hvad var tanken med det dengang, og hvordan fungerede det oprindeligt, da det blev lanceret?",
+      "speaker": "A"
+    },
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "text": " Ja, det er jo godt. Hvis du spørger Google nu, hvad tanken var,",
+      "speaker": "B"
+    },
+    {
+      "start": 84.0,
+      "end": 88.0,
+      "text": " så vil de også afvige fra det, de sagde dengang, hvilket er lidt sjovt,",
+      "speaker": "B"
+    },
+    {
+      "start": 88.0,
+      "end": 91.0,
+      "text": " fordi dengang det kom ud, og P-Markets blev sådan lidt skudt af sted,",
+      "speaker": "B"
+    },
+    {
+      "start": 91.0,
+      "end": 100.0,
+      "text": " som en form for full-funnel, complete ad-inventory-coverage-marketing-kanal,",
+      "speaker": "B"
+    },
+    {
+      "start": 100.0,
+      "end": 105.0,
+      "text": " der bare dækkede alle platforme på Googles netværk,",
+      "speaker": "B"
+    },
+    {
+      "start": 105.0,
+      "end": 108.0,
+      "text": " og så kunne de bruge nogle penge på display, og nogle penge i gmail,",
+      "speaker": "B"
+    },
+    {
+      "start": 108.0,
+      "end": 113.0,
+      "text": " og nogle penge i retargeting, og alle de her forskellige steder, der er.",
+      "speaker": "B"
+    },
+    {
+      "start": 113.0,
+      "end": 117.0,
+      "text": " Og det var lidt en black box, der ikke var så meget styring på.",
+      "speaker": "B"
+    },
+    {
+      "start": 120.0,
+      "end": 124.0,
+      "text": " Og det var sådan, det startede helt i begyndelsen,",
+      "speaker": "B"
+    },
+    {
+      "start": 124.0,
+      "end": 130.0,
+      "text": " hvor det ret hurtigt skiftede det lidt retning fra at kalde det full-funnel,",
+      "speaker": "B"
+    },
+    {
+      "start": 130.0,
+      "end": 133.0,
+      "text": " der er jeg sikker på, jeg har haft nogle Google-reps, der har sagt til mig,",
+      "speaker": "B"
+    },
+    {
+      "start": 133.0,
+      "end": 135.0,
+      "text": " så kan de altid sige, hvad de vil, men så skiftede det lidt,",
+      "speaker": "B"
+    },
+    {
+      "start": 135.0,
+      "end": 138.0,
+      "text": " og nu er det sådan bottom-funnel, hvor argumentet er,",
+      "speaker": "B"
+    },
+    {
+      "start": 138.0,
+      "end": 142.0,
+      "text": " at nu er det bare bottom-funnel-trafik, der bliver konverteret derinde,",
+      "speaker": "B"
+    },
+    {
+      "start": 142.0,
+      "end": 144.0,
+      "text": " hvilket jo i begyndelsen var rigtig meget brand,",
+      "speaker": "B"
+    },
+    {
+      "start": 144.0,
+      "end": 149.0,
+      "text": " som jo fyldte ekstremt meget for alle, der arbejdede med PPC,",
+      "speaker": "B"
+    },
+    {
+      "start": 151.0,
+      "end": 155.0,
+      "text": " hvilket var lidt sjovt, fordi det var da ikke nogen, der stillede os hver eneste gang,",
+      "speaker": "B"
+    },
+    {
+      "start": 155.0,
+      "end": 158.0,
+      "text": " at vi er i smart-shopping, som var sådan foregængeren for det,",
+      "speaker": "B"
+    },
+    {
+      "start": 158.0,
+      "end": 163.0,
+      "text": " derfor at man PMAX kunne bare sables for at tage det der brandsøgninger.",
+      "speaker": "B"
+    },
+    {
+      "start": 163.0,
+      "end": 168.0,
+      "text": " Og jeg kan huske, lige da Performance Max udkom, der var mange ting, vi ikke kunne se,",
+      "speaker": "A"
+    },
+    {
+      "start": 168.0,
+      "end": 171.0,
+      "text": " vi kunne faktisk ikke se, hvilke platforme vores penge blev brugt på,",
+      "speaker": "A"
+    },
+    {
+      "start": 171.0,
+      "end": 175.0,
+      "text": " er det her search, eller display, eller YouTube, eller Gmail, det ved vi faktisk ikke,",
+      "speaker": "A"
+    },
+    {
+      "start": 175.0,
+      "end": 178.0,
+      "text": " vi kunne ikke se, hvor meget der var brand, og hvor meget der var non-brand,",
+      "speaker": "A"
+    },
+    {
+      "start": 178.0,
+      "end": 182.0,
+      "text": " altså vi havde virkelig begrænset kendskab til det, til at starte med.",
+      "speaker": "A"
+    },
+    {
+      "start": 182.0,
+      "end": 187.0,
+      "text": " Hvorfor gik Google ud med et produkt, der var så intransparent?",
+      "speaker": "A"
+    },
+    {
+      "start": 187.0,
+      "end": 190.0,
+      "text": " Var det en bog, eller var det i virkeligheden meningen, tror du?",
+      "speaker": "A"
+    },
+    {
+      "start": 190.0,
+      "end": 195.0,
+      "text": " Jeg tror måske, de havde håbet på, at den ville blive taget lidt bedre imod.",
+      "speaker": "B"
+    },
+    {
+      "start": 195.0,
+      "end": 198.0,
+      "text": " Hvorfor vi jo også lidt ser den her,",
+      "speaker": "B"
+    },
+    {
+      "start": 198.0,
+      "end": 201.0,
+      "text": " igen, jeg vil ikke kalde det, at de ruller det tilbage,",
+      "speaker": "B"
+    },
+    {
+      "start": 201.0,
+      "end": 204.0,
+      "text": " men folk gik jo amok over, at der ikke var kontrol over det,",
+      "speaker": "B"
+    },
+    {
+      "start": 204.0,
+      "end": 206.0,
+      "text": " og så ville de nødt til at finde en anden løsning,",
+      "speaker": "B"
+    },
+    {
+      "start": 206.0,
+      "end": 210.0,
+      "text": " eller noget, som så annoncørerne tog imod det.",
+      "speaker": "B"
+    },
+    {
+      "start": 210.0,
+      "end": 214.0,
+      "text": " Det er jo trods alt vigtigt, hvis de gerne vil have folk bruge nogle penge på deres platform,",
+      "speaker": "B"
+    },
+    {
+      "start": 214.0,
+      "end": 216.0,
+      "text": " så skal folk også tro det på.",
+      "speaker": "B"
+    },
+    {
+      "start": 216.0,
+      "end": 218.0,
+      "text": " Jeg tror egentlig, det var meningen,",
+      "speaker": "B"
+    },
+    {
+      "start": 218.0,
+      "end": 222.0,
+      "text": " at de gerne ville have, at det skulle være intransparent.",
+      "speaker": "B"
+    },
+    {
+      "start": 222.0,
+      "end": 227.0,
+      "text": " Men man havde måske håbet på, at det havde blivet taget lidt bedre imod,",
+      "speaker": "B"
+    },
+    {
+      "start": 227.0,
+      "end": 232.0,
+      "text": " at vi brugte 50% af vores kroner på display-netværket, men vidste det ikke.",
+      "speaker": "B"
+    },
+    {
+      "start": 232.0,
+      "end": 234.0,
+      "text": " Jeg synes jo, Emil, det er sådan lidt sjovt,",
+      "speaker": "C"
+    },
+    {
+      "start": 234.0,
+      "end": 236.0,
+      "text": " fordi hvis man følger historien fra PMAG,",
+      "speaker": "C"
+    },
+    {
+      "start": 236.0,
+      "end": 238.0,
+      "text": " så går det fra, hvad den her black box,",
+      "speaker": "C"
+    },
+    {
+      "start": 238.0,
+      "end": 240.0,
+      "text": " og der er det imod ikke stadigvæk,",
+      "speaker": "C"
+    },
+    {
+      "start": 240.0,
+      "end": 244.0,
+      "text": " men vi har da trods alt fået åbnet op for nogle indsigter,",
+      "speaker": "C"
+    },
+    {
+      "start": 244.0,
+      "end": 248.0,
+      "text": " for eksempel, hvad er det for nogle søgetermer, vi ligger og byder på via PMAG?",
+      "speaker": "C"
+    },
+    {
+      "start": 248.0,
+      "end": 251.0,
+      "text": " Hvad er det for nogle kanaler, vi bliver vist på osv.?",
+      "speaker": "C"
+    },
+    {
+      "start": 251.0,
+      "end": 253.0,
+      "text": " Det er ikke det fulde billede, vi får.",
+      "speaker": "C"
+    },
+    {
+      "start": 253.0,
+      "end": 255.0,
+      "text": " Det er det trods alt ikke.",
+      "speaker": "C"
+    },
+    {
+      "start": 255.0,
+      "end": 258.0,
+      "text": " Men når man kigger på hele den her rejse her,",
+      "speaker": "C"
+    },
+    {
+      "start": 258.0,
+      "end": 261.0,
+      "text": " så har der jo også været en måde, hvorpå de fleste annoncører,",
+      "speaker": "C"
+    },
+    {
+      "start": 261.0,
+      "end": 263.0,
+      "text": " nu skal jeg passe på, at jeg ikke tager alle over i en kamp,",
+      "speaker": "C"
+    },
+    {
+      "start": 263.0,
+      "end": 265.0,
+      "text": " men de fleste annoncører har brugt PMAG på sådan en lidt sjov måde,",
+      "speaker": "C"
+    },
+    {
+      "start": 265.0,
+      "end": 267.0,
+      "text": " sådan en lidt hækket måde.",
+      "speaker": "C"
+    },
+    {
+      "start": 267.0,
+      "end": 269.0,
+      "text": " Jeg tror, de fleste, der har siddet med PMAG,",
+      "speaker": "C"
+    },
+    {
+      "start": 269.0,
+      "end": 272.0,
+      "text": " kan ligge genkendende til en feed-only PMAG-kampagne.",
+      "speaker": "C"
+    },
+    {
+      "start": 272.0,
+      "end": 274.0,
+      "text": " Vil du ikke prøve at sætte lidt ord på den her?",
+      "speaker": "C"
+    },
+    {
+      "start": 274.0,
+      "end": 278.0,
+      "text": " Fordi shoppingdelen er jo så vigtig i PMAG, hvis vi sådan snakker Ecom-mæssigt,",
+      "speaker": "C"
+    },
+    {
+      "start": 278.0,
+      "end": 280.0,
+      "text": " fordi vi har noget standard shopping og noget smart shopping,",
+      "speaker": "C"
+    },
+    {
+      "start": 280.0,
+      "end": 283.0,
+      "text": " så bliver det PMAG, så kører man feed-only osv.",
+      "speaker": "C"
+    },
+    {
+      "start": 283.0,
+      "end": 286.0,
+      "text": " Helt den her seance, som jo er sådan lidt tragekomisk på en eller anden måde,",
+      "speaker": "C"
+    },
+    {
+      "start": 286.0,
+      "end": 288.0,
+      "text": " vil du ikke prøve at sætte nogle ord på det?",
+      "speaker": "C"
+    },
+    {
+      "start": 288.0,
+      "end": 290.0,
+      "text": " Jo, det er jo virkelig sjovt.",
+      "speaker": "B"
+    },
+    {
+      "start": 290.0,
+      "end": 292.0,
+      "text": " Altså, det var jo et kæmpe hæk, jo.",
+      "speaker": "B"
+    },
+    {
+      "start": 292.0,
+      "end": 294.0,
+      "text": " Altså, i forhold til de der ting, man ikke kunne se osnoget,",
+      "speaker": "B"
+    },
+    {
+      "start": 294.0,
+      "end": 296.0,
+      "text": " der gik jo ikke mange måneder,",
+      "speaker": "B"
+    },
+    {
+      "start": 296.0,
+      "end": 298.0,
+      "text": " så var der jo scripts og alt muligt,",
+      "speaker": "B"
+    },
+    {
+      "start": 298.0,
+      "end": 302.0,
+      "text": " altså, hvor vi kunne trække, hvilke platformer, der fik spændt ind,",
+      "speaker": "B"
+    },
+    {
+      "start": 302.0,
+      "end": 305.0,
+      "text": " og hvilke kanaler, der ligesom fik spændt.",
+      "speaker": "B"
+    },
+    {
+      "start": 305.0,
+      "end": 307.0,
+      "text": " Og da vi fandt ud af, at okay, det er shopping,",
+      "speaker": "B"
+    },
+    {
+      "start": 307.0,
+      "end": 310.0,
+      "text": " så begyndte man lidt at hække den der kampagnetype,",
+      "speaker": "B"
+    },
+    {
+      "start": 310.0,
+      "end": 314.0,
+      "text": " sådan at bare ved at give et feed og ikke nogen assets,",
+      "speaker": "B"
+    },
+    {
+      "start": 314.0,
+      "end": 315.0,
+      "text": " så kunne man køre feed-only.",
+      "speaker": "B"
+    },
+    {
+      "start": 315.0,
+      "end": 317.0,
+      "text": " Og så var argumentet lidt på det tidspunkt,",
+      "speaker": "B"
+    },
+    {
+      "start": 317.0,
+      "end": 319.0,
+      "text": " var, så har vi egentlig en smart shopping.",
+      "speaker": "B"
+    },
+    {
+      "start": 319.0,
+      "end": 322.0,
+      "text": " Så har vi en kampagne, der bruger det bedste for en rytme,",
+      "speaker": "B"
+    },
+    {
+      "start": 322.0,
+      "end": 326.0,
+      "text": " og i øvrigt også afdækket retargetæg-netværket jo,",
+      "speaker": "B"
+    },
+    {
+      "start": 326.0,
+      "end": 328.0,
+      "text": " som jo var en fordel for mange annoncer,",
+      "speaker": "B"
+    },
+    {
+      "start": 328.0,
+      "end": 330.0,
+      "text": " der ikke havde et dedikeret retargetæg-setup.",
+      "speaker": "B"
+    },
+    {
+      "start": 330.0,
+      "end": 334.0,
+      "text": " Superhækkede måde at gøre det på, og Google havde det.",
+      "speaker": "B"
+    },
+    {
+      "start": 334.0,
+      "end": 335.0,
+      "text": " Nøj, så var meget.",
+      "speaker": "B"
+    },
+    {
+      "start": 335.0,
+      "end": 339.0,
+      "text": " Så var der den ene og den anden udmeldning med,",
+      "speaker": "B"
+    },
+    {
+      "start": 339.0,
+      "end": 341.0,
+      "text": " at nu trækker vi det tilbage.",
+      "speaker": "B"
+    },
+    {
+      "start": 341.0,
+      "end": 342.0,
+      "text": " Nu kan man ikke mere.",
+      "speaker": "B"
+    },
+    {
+      "start": 342.0,
+      "end": 344.0,
+      "text": " Det var ikke sådan, det var meningen, der skulle bruges.",
+      "speaker": "B"
+    },
+    {
+      "start": 346.0,
+      "end": 351.0,
+      "text": " Og fast forward, altså, det hele kulminerer jo også,",
+      "speaker": "B"
+    },
+    {
+      "start": 351.0,
+      "end": 353.0,
+      "text": " så vi kommer måske ind på det igen,",
+      "speaker": "B"
+    },
+    {
+      "start": 353.0,
+      "end": 357.0,
+      "text": " men det hele kulminerer jo også med, at vi ligesom siger,",
+      "speaker": "B"
+    },
+    {
+      "start": 357.0,
+      "end": 362.0,
+      "text": " PMAX har ikke uber-rank-prioritet, som de jo havde før,",
+      "speaker": "B"
+    },
+    {
+      "start": 362.0,
+      "end": 363.0,
+      "text": " over standard shopping.",
+      "speaker": "B"
+    },
+    {
+      "start": 363.0,
+      "end": 369.0,
+      "text": " Nu er det AdRank, der afgør det mellem standard shopping og PMAX,",
+      "speaker": "B"
+    },
+    {
+      "start": 369.0,
+      "end": 372.0,
+      "text": " hvilket jo var ekstremt sjovt,",
+      "speaker": "B"
+    },
+    {
+      "start": 372.0,
+      "end": 375.0,
+      "text": " fordi så kunne man jo tydeligt se,",
+      "speaker": "B"
+    },
+    {
+      "start": 375.0,
+      "end": 378.0,
+      "text": " hvilken kampagnetype, der vandt de der auktioner.",
+      "speaker": "B"
+    },
+    {
+      "start": 379.0,
+      "end": 381.0,
+      "text": " Og så skete der noget andet interessant her for nylig,",
+      "speaker": "A"
+    },
+    {
+      "start": 381.0,
+      "end": 383.0,
+      "text": " og det var det tweet, jeg oprindelig sendte til dig, Emil,",
+      "speaker": "A"
+    },
+    {
+      "start": 383.0,
+      "end": 385.0,
+      "text": " der startede den her episode,",
+      "speaker": "A"
+    },
+    {
+      "start": 385.0,
+      "end": 389.0,
+      "text": " som var, at Google nu går ind i PMAX og opdeler det mellem kanaler,",
+      "speaker": "A"
+    },
+    {
+      "start": 389.0,
+      "end": 393.0,
+      "text": " så du nu rent faktisk i PMAX kan i en eller anden grad vælge,",
+      "speaker": "A"
+    },
+    {
+      "start": 393.0,
+      "end": 396.0,
+      "text": " om du vil have Discopper og Gmail og Display og Search",
+      "speaker": "A"
+    },
+    {
+      "start": 396.0,
+      "end": 398.0,
+      "text": " og Search Partners og Maps og YouTube.",
+      "speaker": "A"
+    },
+    {
+      "start": 398.0,
+      "end": 401.0,
+      "text": " Så det vil sige, du kan faktisk nu lave en PMAX-kampagne",
+      "speaker": "A"
+    },
+    {
+      "start": 401.0,
+      "end": 403.0,
+      "text": " og vælge alle de dårlige placeringer fra.",
+      "speaker": "A"
+    },
+    {
+      "start": 403.0,
+      "end": 408.0,
+      "text": " Og min konspirationsteori er jo, at de lavede PMAX til at starte med,",
+      "speaker": "A"
+    },
+    {
+      "start": 408.0,
+      "end": 410.0,
+      "text": " fordi de havde en del af deres forretning,",
+      "speaker": "A"
+    },
+    {
+      "start": 410.0,
+      "end": 413.0,
+      "text": " notably Search, som var enormt godt monetized,",
+      "speaker": "A"
+    },
+    {
+      "start": 413.0,
+      "end": 415.0,
+      "text": " den bedste forretningsmodel på internettet,",
+      "speaker": "A"
+    },
+    {
+      "start": 415.0,
+      "end": 416.0,
+      "text": " måske i verdenshistorien.",
+      "speaker": "A"
+    },
+    {
+      "start": 416.0,
+      "end": 420.0,
+      "text": " Højt monetized, højt CPM, højt CPC, enormt profitabel.",
+      "speaker": "A"
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "text": " Så havde de rigtig mange dårlige placeringer,",
+      "speaker": "A"
+    },
+    {
+      "start": 422.0,
+      "end": 423.0,
+      "text": " som folk ikke gad købe.",
+      "speaker": "A"
+    },
+    {
+      "start": 423.0,
+      "end": 425.0,
+      "text": " Vi kan sige, i flæng, generally speaking,",
+      "speaker": "A"
+    },
+    {
+      "start": 425.0,
+      "end": 426.0,
+      "text": " der var ikke nogen, der gad købe Display,",
+      "speaker": "A"
+    },
+    {
+      "start": 426.0,
+      "end": 427.0,
+      "text": " der var ikke nogen, der gad købe Gmail,",
+      "speaker": "A"
+    },
+    {
+      "start": 427.0,
+      "end": 429.0,
+      "text": " der var ikke nogen, der gad købe Maps.",
+      "speaker": "A"
+    },
+    {
+      "start": 429.0,
+      "end": 431.0,
+      "text": " Så hvordan får vi annoncererne til at bruge nogle flere penge",
+      "speaker": "A"
+    },
+    {
+      "start": 431.0,
+      "end": 433.0,
+      "text": " på vores dårligst monetized platform?",
+      "speaker": "A"
+    },
+    {
+      "start": 433.0,
+      "end": 435.0,
+      "text": " Det gør vi ved at fjerne transparensen",
+      "speaker": "A"
+    },
+    {
+      "start": 435.0,
+      "end": 436.0,
+      "text": " og sige, nu er det en samlet pulje,",
+      "speaker": "A"
+    },
+    {
+      "start": 436.0,
+      "end": 438.0,
+      "text": " fordi hvis du har en del af dit budget,",
+      "speaker": "A"
+    },
+    {
+      "start": 438.0,
+      "end": 439.0,
+      "text": " der er meget mere profitabel,",
+      "speaker": "A"
+    },
+    {
+      "start": 439.0,
+      "end": 441.0,
+      "text": " end du i virkeligheden har behov for,",
+      "speaker": "A"
+    },
+    {
+      "start": 441.0,
+      "end": 443.0,
+      "text": " og en anden del, der er meget mindre profitabel,",
+      "speaker": "A"
+    },
+    {
+      "start": 443.0,
+      "end": 445.0,
+      "text": " så kan det være, at vi kan udjevne de to,",
+      "speaker": "A"
+    },
+    {
+      "start": 445.0,
+      "end": 446.0,
+      "text": " så du er samlet set tilfreds,",
+      "speaker": "A"
+    },
+    {
+      "start": 446.0,
+      "end": 449.0,
+      "text": " men nu får vi monetized vores dårlige platform bedre.",
+      "speaker": "A"
+    },
+    {
+      "start": 449.0,
+      "end": 451.0,
+      "text": " Og Mesa er jo også skyldig i det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 451.0,
+      "end": 453.0,
+      "text": " de kalder det Advantage Plus,",
+      "speaker": "A"
+    },
+    {
+      "start": 453.0,
+      "end": 454.0,
+      "text": " og det er årsagen til, at vores annoncer",
+      "speaker": "A"
+    },
+    {
+      "start": 454.0,
+      "end": 456.0,
+      "text": " ligger i right hand side på threads,",
+      "speaker": "A"
+    },
+    {
+      "start": 456.0,
+      "end": 458.0,
+      "text": " på alle mulige placeringer,",
+      "speaker": "A"
+    },
+    {
+      "start": 458.0,
+      "end": 459.0,
+      "text": " hvor vi ikke har lyst til at have dem,",
+      "speaker": "A"
+    },
+    {
+      "start": 459.0,
+      "end": 461.0,
+      "text": " hvor vi også har mulighed for at vælge dem fra,",
+      "speaker": "A"
+    },
+    {
+      "start": 461.0,
+      "end": 463.0,
+      "text": " men den mulighed forsvinder så rent faktisk snart,",
+      "speaker": "A"
+    },
+    {
+      "start": 463.0,
+      "end": 464.0,
+      "text": " hvis vi gør det med value rules.",
+      "speaker": "A"
+    },
+    {
+      "start": 464.0,
+      "end": 466.0,
+      "text": " Så det er både Mesa og Google, der gør det her,",
+      "speaker": "A"
+    },
+    {
+      "start": 466.0,
+      "end": 467.0,
+      "text": " skal jeg jo lige sige.",
+      "speaker": "A"
+    },
+    {
+      "start": 467.0,
+      "end": 468.0,
+      "text": " Jamen det er jo fuld funnel halvstand.",
+      "speaker": "C"
+    },
+    {
+      "start": 468.0,
+      "end": 469.0,
+      "text": " Det er fuld funnel halvstand.",
+      "speaker": "C"
+    },
+    {
+      "start": 469.0,
+      "end": 470.0,
+      "text": " Det er fuld funnel halvstand.",
+      "speaker": "C"
+    },
+    {
+      "start": 470.0,
+      "end": 471.0,
+      "text": " Det er fuld funnel halvstand.",
+      "speaker": "C"
+    },
+    {
+      "start": 471.0,
+      "end": 472.0,
+      "text": " Hold kæft, hver gang man har hørt,",
+      "speaker": "C"
+    },
+    {
+      "start": 472.0,
+      "end": 473.0,
+      "text": " at det er en god uddannelse.",
+      "speaker": "A"
+    },
+    {
+      "start": 473.0,
+      "end": 474.0,
+      "text": " Det er the great part of the funnel,",
+      "speaker": "A"
+    },
+    {
+      "start": 474.0,
+      "end": 475.0,
+      "text": " and the shitty part of the funnel.",
+      "speaker": "A"
+    },
+    {
+      "start": 475.0,
+      "end": 476.0,
+      "text": " Nu får du det hele.",
+      "speaker": "A"
+    },
+    {
+      "start": 476.0,
+      "end": 477.0,
+      "text": " Det er ikke lower og upper,",
+      "speaker": "A"
+    },
+    {
+      "start": 477.0,
+      "end": 479.0,
+      "text": " det er bare god og dårligt, der er blandet sammen.",
+      "speaker": "A"
+    },
+    {
+      "start": 479.0,
+      "end": 481.0,
+      "text": " Hvad siger du til den, Emil?",
+      "speaker": "A"
+    },
+    {
+      "start": 481.0,
+      "end": 483.0,
+      "text": " Er det ikke sådan lidt dødstød til PMAX,",
+      "speaker": "A"
+    },
+    {
+      "start": 483.0,
+      "end": 484.0,
+      "text": " at du nu faktisk bare kan vælge",
+      "speaker": "A"
+    },
+    {
+      "start": 484.0,
+      "end": 485.0,
+      "text": " alle de dårlige placeringer fra?",
+      "speaker": "A"
+    },
+    {
+      "start": 485.0,
+      "end": 487.0,
+      "text": " Er det ikke bare standard shopping igen nu?",
+      "speaker": "A"
+    },
+    {
+      "start": 487.0,
+      "end": 488.0,
+      "text": " Det bliver...",
+      "speaker": "B"
+    },
+    {
+      "start": 488.0,
+      "end": 490.0,
+      "text": " Nej, men det er jo bare sådan en...",
+      "speaker": "B"
+    },
+    {
+      "start": 490.0,
+      "end": 491.0,
+      "text": " Og det sjove er jo,",
+      "speaker": "B"
+    },
+    {
+      "start": 491.0,
+      "end": 493.0,
+      "text": " at folk har jo skrædt efter kontrol.",
+      "speaker": "B"
+    },
+    {
+      "start": 493.0,
+      "end": 495.0,
+      "text": " Altså i så mange år har man...",
+      "speaker": "B"
+    },
+    {
+      "start": 495.0,
+      "end": 496.0,
+      "text": " Altså folk er gået helt nok...",
+      "speaker": "B"
+    },
+    {
+      "start": 496.0,
+      "end": 499.0,
+      "text": " Jeg vil bare gerne gå og sætte targets på asset groups.",
+      "speaker": "B"
+    },
+    {
+      "start": 499.0,
+      "end": 500.0,
+      "text": " Jeg er ligeglad med det der.",
+      "speaker": "B"
+    },
+    {
+      "start": 500.0,
+      "end": 501.0,
+      "text": " Altså det er bare sådan...",
+      "speaker": "B"
+    },
+    {
+      "start": 501.0,
+      "end": 502.0,
+      "text": " Vi kunne starte med det.",
+      "speaker": "B"
+    },
+    {
+      "start": 502.0,
+      "end": 504.0,
+      "text": " Altså det ved jeg ikke, men...",
+      "speaker": "B"
+    },
+    {
+      "start": 504.0,
+      "end": 505.0,
+      "text": " Men det sjove er jo,",
+      "speaker": "B"
+    },
+    {
+      "start": 505.0,
+      "end": 507.0,
+      "text": " at folk har skrædt på kontrol,",
+      "speaker": "B"
+    },
+    {
+      "start": 507.0,
+      "end": 508.0,
+      "text": " og nu har vi så fået det.",
+      "speaker": "B"
+    },
+    {
+      "start": 508.0,
+      "end": 510.0,
+      "text": " Og hvad kommer der til at ske?",
+      "speaker": "B"
+    },
+    {
+      "start": 510.0,
+      "end": 511.0,
+      "text": " Der kommer til at ske det,",
+      "speaker": "B"
+    },
+    {
+      "start": 511.0,
+      "end": 512.0,
+      "text": " at der er nogen, der kommer til at tænke,",
+      "speaker": "B"
+    },
+    {
+      "start": 512.0,
+      "end": 514.0,
+      "text": " okay, så skruer vi ned for Gmail og Discover,",
+      "speaker": "B"
+    },
+    {
+      "start": 514.0,
+      "end": 516.0,
+      "text": " og så kører vi bare...",
+      "speaker": "B"
+    },
+    {
+      "start": 516.0,
+      "end": 517.0,
+      "text": " Det er det første, jeg gør.",
+      "speaker": "A"
+    },
+    {
+      "start": 517.0,
+      "end": 518.0,
+      "text": " Det er det første, jeg gør, det der.",
+      "speaker": "B"
+    },
+    {
+      "start": 518.0,
+      "end": 519.0,
+      "text": " Præcis.",
+      "speaker": "B"
+    },
+    {
+      "start": 519.0,
+      "end": 520.0,
+      "text": " Og det er jo sådan lidt...",
+      "speaker": "B"
+    },
+    {
+      "start": 520.0,
+      "end": 521.0,
+      "text": " Hvorfor...",
+      "speaker": "B"
+    },
+    {
+      "start": 521.0,
+      "end": 522.0,
+      "text": " Hvorfor...",
+      "speaker": "B"
+    },
+    {
+      "start": 522.0,
+      "end": 523.0,
+      "text": " Hvorfor har vi...",
+      "speaker": "B"
+    },
+    {
+      "start": 523.0,
+      "end": 524.0,
+      "text": " Hvorfor så kører en PMAX?",
+      "speaker": "B"
+    },
+    {
+      "start": 524.0,
+      "end": 526.0,
+      "text": " Også fordi Google mister jo...",
+      "speaker": "B"
+    },
+    {
+      "start": 526.0,
+      "end": 528.0,
+      "text": " Google mister jo så deres benefit af,",
+      "speaker": "B"
+    },
+    {
+      "start": 528.0,
+      "end": 529.0,
+      "text": " at det er det der.",
+      "speaker": "B"
+    },
+    {
+      "start": 529.0,
+      "end": 530.0,
+      "text": " Og by the way,",
+      "speaker": "B"
+    },
+    {
+      "start": 530.0,
+      "end": 531.0,
+      "text": " det er jo lower funnel.",
+      "speaker": "B"
+    },
+    {
+      "start": 531.0,
+      "end": 532.0,
+      "text": " PMAX er jo ikke food funnel,",
+      "speaker": "B"
+    },
+    {
+      "start": 532.0,
+      "end": 533.0,
+      "text": " forhåbentlig.",
+      "speaker": "B"
+    },
+    {
+      "start": 533.0,
+      "end": 534.0,
+      "text": " Men...",
+      "speaker": "B"
+    },
+    {
+      "start": 534.0,
+      "end": 535.0,
+      "text": " Men...",
+      "speaker": "B"
+    },
+    {
+      "start": 535.0,
+      "end": 536.0,
+      "text": " Men altså...",
+      "speaker": "B"
+    },
+    {
+      "start": 536.0,
+      "end": 537.0,
+      "text": " Så...",
+      "speaker": "B"
+    },
+    {
+      "start": 537.0,
+      "end": 538.0,
+      "text": " Men...",
+      "speaker": "B"
+    },
+    {
+      "start": 538.0,
+      "end": 539.0,
+      "text": " Men de mister jo så",
+      "speaker": "B"
+    },
+    {
+      "start": 539.0,
+      "end": 541.0,
+      "text": " de penge, du ville bruge på Gmail eller Discover,",
+      "speaker": "B"
+    },
+    {
+      "start": 541.0,
+      "end": 543.0,
+      "text": " men halvstandet...",
+      "speaker": "B"
+    },
+    {
+      "start": 543.0,
+      "end": 545.0,
+      "text": " Google er jo way ahead.",
+      "speaker": "B"
+    },
+    {
+      "start": 545.0,
+      "end": 547.0,
+      "text": " Fordi de har jo allerede lavet et produkt,",
+      "speaker": "B"
+    },
+    {
+      "start": 547.0,
+      "end": 549.0,
+      "text": " der jo så bare kommer til at gøre det,",
+      "speaker": "B"
+    },
+    {
+      "start": 549.0,
+      "end": 551.0,
+      "text": " som PMAX gjorde.",
+      "speaker": "B"
+    },
+    {
+      "start": 551.0,
+      "end": 552.0,
+      "text": " De har jo rullet...",
+      "speaker": "B"
+    },
+    {
+      "start": 552.0,
+      "end": 553.0,
+      "text": " Hvad er det?",
+      "speaker": "B"
+    },
+    {
+      "start": 553.0,
+      "end": 555.0,
+      "text": " Demandian kommer jo til at overtage",
+      "speaker": "B"
+    },
+    {
+      "start": 555.0,
+      "end": 556.0,
+      "text": " display-netværket.",
+      "speaker": "B"
+    },
+    {
+      "start": 556.0,
+      "end": 558.0,
+      "text": " Og Demandian er jo bare den nye...",
+      "speaker": "B"
+    },
+    {
+      "start": 558.0,
+      "end": 560.0,
+      "text": " Altså Demandian er jo ligesom",
+      "speaker": "B"
+    },
+    {
+      "start": 560.0,
+      "end": 562.0,
+      "text": " PMAX genfødsel.",
+      "speaker": "B"
+    },
+    {
+      "start": 562.0,
+      "end": 563.0,
+      "text": " Jeg tror, det er sådan lidt...",
+      "speaker": "B"
+    },
+    {
+      "start": 563.0,
+      "end": 564.0,
+      "text": " Jeg tror, de har siddet i et lokal,",
+      "speaker": "B"
+    },
+    {
+      "start": 564.0,
+      "end": 565.0,
+      "text": " de der Google-folk,",
+      "speaker": "B"
+    },
+    {
+      "start": 565.0,
+      "end": 566.0,
+      "text": " og har tænkt,",
+      "speaker": "B"
+    },
+    {
+      "start": 566.0,
+      "end": 567.0,
+      "text": " okay, folk, slup det kild,",
+      "speaker": "B"
+    },
+    {
+      "start": 567.0,
+      "end": 568.0,
+      "text": " den der PMAX.",
+      "speaker": "B"
+    },
+    {
+      "start": 568.0,
+      "end": 570.0,
+      "text": " Nu har vi prøvet at overtale dem i et par år.",
+      "speaker": "B"
+    },
+    {
+      "start": 570.0,
+      "end": 572.0,
+      "text": " Nu prøver vi lige igen...",
+      "speaker": "B"
+    },
+    {
+      "start": 572.0,
+      "end": 573.0,
+      "text": " Jeg tror, de er klar nu.",
+      "speaker": "B"
+    },
+    {
+      "start": 573.0,
+      "end": 575.0,
+      "text": " Nu har vi sagt AI som headliner",
+      "speaker": "B"
+    },
+    {
+      "start": 575.0,
+      "end": 577.0,
+      "text": " i alle vores ting i to år.",
+      "speaker": "B"
+    },
+    {
+      "start": 577.0,
+      "end": 578.0,
+      "text": " Så nu er de klar.",
+      "speaker": "B"
+    },
+    {
+      "start": 578.0,
+      "end": 579.0,
+      "text": " Altså genialt.",
+      "speaker": "B"
+    },
+    {
+      "start": 579.0,
+      "end": 581.0,
+      "text": " Og det er genialt jo,",
+      "speaker": "B"
+    },
+    {
+      "start": 581.0,
+      "end": 582.0,
+      "text": " fordi nu kommer folk til...",
+      "speaker": "B"
+    },
+    {
+      "start": 582.0,
+      "end": 583.0,
+      "text": " Folk skal nok bruge penge.",
+      "speaker": "B"
+    },
+    {
+      "start": 583.0,
+      "end": 585.0,
+      "text": " Google er jo ikke den første virksomhed,",
+      "speaker": "A"
+    },
+    {
+      "start": 585.0,
+      "end": 586.0,
+      "text": " der tager en forretningsmodel,",
+      "speaker": "A"
+    },
+    {
+      "start": 586.0,
+      "end": 587.0,
+      "text": " der ikke har fungeret,",
+      "speaker": "A"
+    },
+    {
+      "start": 587.0,
+      "end": 588.0,
+      "text": " putter AI foran,",
+      "speaker": "A"
+    },
+    {
+      "start": 588.0,
+      "end": 589.0,
+      "text": " og så prøver igen.",
+      "speaker": "A"
+    },
+    {
+      "start": 589.0,
+      "end": 590.0,
+      "text": " Og nok kommer til at lykkes med den.",
+      "speaker": "A"
+    },
+    {
+      "start": 590.0,
+      "end": 592.0,
+      "text": " Og jeg kan faktisk godt lide den framing.",
+      "speaker": "A"
+    },
+    {
+      "start": 592.0,
+      "end": 593.0,
+      "text": " Fordi jeg kan godt mærke,",
+      "speaker": "A"
+    },
+    {
+      "start": 593.0,
+      "end": 594.0,
+      "text": " PMAX, det snakker vi ikke så meget om.",
+      "speaker": "A"
+    },
+    {
+      "start": 594.0,
+      "end": 595.0,
+      "text": " Også de ting, jeg hører fra Google,",
+      "speaker": "A"
+    },
+    {
+      "start": 595.0,
+      "end": 596.0,
+      "text": " og de ting, jeg ser fra Google,",
+      "speaker": "A"
+    },
+    {
+      "start": 596.0,
+      "end": 597.0,
+      "text": " når vi er på at møde os sammen",
+      "speaker": "A"
+    },
+    {
+      "start": 597.0,
+      "end": 598.0,
+      "text": " med vores kunder osv.",
+      "speaker": "A"
+    },
+    {
+      "start": 598.0,
+      "end": 599.0,
+      "text": " De snakker om to ting for mig lige nu.",
+      "speaker": "A"
+    },
+    {
+      "start": 599.0,
+      "end": 600.0,
+      "text": " Det ene det er YouTube.",
+      "speaker": "A"
+    },
+    {
+      "start": 600.0,
+      "end": 601.0,
+      "text": " Jeg kan mærke,",
+      "speaker": "A"
+    },
+    {
+      "start": 601.0,
+      "end": 603.0,
+      "text": " de vil rigtig gerne sælge noget YouTube.",
+      "speaker": "A"
+    },
+    {
+      "start": 603.0,
+      "end": 604.0,
+      "text": " Jeg vil helst ikke købe det,",
+      "speaker": "A"
+    },
+    {
+      "start": 604.0,
+      "end": 605.0,
+      "text": " på de vilkår,",
+      "speaker": "A"
+    },
+    {
+      "start": 605.0,
+      "end": 606.0,
+      "text": " men de vil rigtig gerne sælge det.",
+      "speaker": "A"
+    },
+    {
+      "start": 606.0,
+      "end": 607.0,
+      "text": " Den anden ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 607.0,
+      "end": 608.0,
+      "text": " det er demantien,",
+      "speaker": "A"
+    },
+    {
+      "start": 608.0,
+      "end": 609.0,
+      "text": " som der bliver snakket rigtig meget om.",
+      "speaker": "A"
+    },
+    {
+      "start": 609.0,
+      "end": 610.0,
+      "text": " Og jeg havde faktisk spekuleret på,",
+      "speaker": "A"
+    },
+    {
+      "start": 610.0,
+      "end": 612.0,
+      "text": " altså når I snakker om demantien,",
+      "speaker": "A"
+    },
+    {
+      "start": 612.0,
+      "end": 614.0,
+      "text": " er det konceptuelt?",
+      "speaker": "A"
+    },
+    {
+      "start": 614.0,
+      "end": 615.0,
+      "text": " Eller er det sådan,",
+      "speaker": "A"
+    },
+    {
+      "start": 615.0,
+      "end": 616.0,
+      "text": " fordi vi skal spørge lidt af demantien.",
+      "speaker": "A"
+    },
+    {
+      "start": 616.0,
+      "end": 618.0,
+      "text": " Det er det, vi er her for.",
+      "speaker": "A"
+    },
+    {
+      "start": 618.0,
+      "end": 621.0,
+      "text": " Eller er det funktionen demantien,",
+      "speaker": "A"
+    },
+    {
+      "start": 621.0,
+      "end": 622.0,
+      "text": " vi snakker om, eller hvad?",
+      "speaker": "A"
+    },
+    {
+      "start": 622.0,
+      "end": 623.0,
+      "text": " Og nu forstår jeg,",
+      "speaker": "A"
+    },
+    {
+      "start": 623.0,
+      "end": 625.0,
+      "text": " det er så aftageren til PMAX,",
+      "speaker": "A"
+    },
+    {
+      "start": 625.0,
+      "end": 626.0,
+      "text": " vi snakker om.",
+      "speaker": "A"
+    },
+    {
+      "start": 626.0,
+      "end": 627.0,
+      "text": " Ja, det tror jeg lidt.",
+      "speaker": "A"
+    },
+    {
+      "start": 627.0,
+      "end": 629.0,
+      "text": " Du må ikke quote mig for den.",
+      "speaker": "B"
+    },
+    {
+      "start": 629.0,
+      "end": 630.0,
+      "text": " Jeg tror lidt,",
+      "speaker": "B"
+    },
+    {
+      "start": 630.0,
+      "end": 631.0,
+      "text": " der er lidt sådan en.",
+      "speaker": "B"
+    },
+    {
+      "start": 631.0,
+      "end": 632.0,
+      "text": " Du må ikke quote mig for den,",
+      "speaker": "A"
+    },
+    {
+      "start": 632.0,
+      "end": 633.0,
+      "text": " sagde han på podcastet,",
+      "speaker": "A"
+    },
+    {
+      "start": 633.0,
+      "end": 635.0,
+      "text": " der blev løbet til 3.000-4.000 gange hver uge.",
+      "speaker": "A"
+    },
+    {
+      "start": 640.0,
+      "end": 641.0,
+      "text": " Jeg føler lidt,",
+      "speaker": "B"
+    },
+    {
+      "start": 641.0,
+      "end": 642.0,
+      "text": " at de prøvede med PMAX,",
+      "speaker": "B"
+    },
+    {
+      "start": 642.0,
+      "end": 644.0,
+      "text": " og nu har de givet folk noget kontrol,",
+      "speaker": "B"
+    },
+    {
+      "start": 644.0,
+      "end": 645.0,
+      "text": " og der er nogen, der bruger det.",
+      "speaker": "B"
+    },
+    {
+      "start": 645.0,
+      "end": 646.0,
+      "text": " Det er jo heller ikke,",
+      "speaker": "B"
+    },
+    {
+      "start": 646.0,
+      "end": 647.0,
+      "text": " fordi alt det der,",
+      "speaker": "B"
+    },
+    {
+      "start": 647.0,
+      "end": 648.0,
+      "text": " jeg hater ikke.",
+      "speaker": "B"
+    },
+    {
+      "start": 648.0,
+      "end": 649.0,
+      "text": " PMAX er bare sådan,",
+      "speaker": "B"
+    },
+    {
+      "start": 649.0,
+      "end": 650.0,
+      "text": " det er fint,",
+      "speaker": "B"
+    },
+    {
+      "start": 650.0,
+      "end": 651.0,
+      "text": " men det er bare sådan,",
+      "speaker": "B"
+    },
+    {
+      "start": 651.0,
+      "end": 653.0,
+      "text": " den der fundamentale ting,",
+      "speaker": "B"
+    },
+    {
+      "start": 653.0,
+      "end": 654.0,
+      "text": " det skulle have været,",
+      "speaker": "B"
+    },
+    {
+      "start": 654.0,
+      "end": 656.0,
+      "text": " som var intentionen,",
+      "speaker": "B"
+    },
+    {
+      "start": 656.0,
+      "end": 657.0,
+      "text": " det bliver det bare ikke.",
+      "speaker": "B"
+    },
+    {
+      "start": 657.0,
+      "end": 658.0,
+      "text": " Det bliver det aldrig.",
+      "speaker": "B"
+    },
+    {
+      "start": 658.0,
+      "end": 660.0,
+      "text": " Og det skal det heller ikke.",
+      "speaker": "B"
+    },
+    {
+      "start": 660.0,
+      "end": 661.0,
+      "text": " Der er meget bedre.",
+      "speaker": "B"
+    },
+    {
+      "start": 661.0,
+      "end": 662.0,
+      "text": " Hvis du gerne vil køre,",
+      "speaker": "B"
+    },
+    {
+      "start": 662.0,
+      "end": 663.0,
+      "text": " som jeg også skrev,",
+      "speaker": "B"
+    },
+    {
+      "start": 663.0,
+      "end": 664.0,
+      "text": " hvis du gerne vil køre,",
+      "speaker": "B"
+    },
+    {
+      "start": 664.0,
+      "end": 666.0,
+      "text": " hvis du har lavet en fed YouTube-video,",
+      "speaker": "B"
+    },
+    {
+      "start": 666.0,
+      "end": 668.0,
+      "text": " og du har brugt 100.000 på at producere den,",
+      "speaker": "B"
+    },
+    {
+      "start": 668.0,
+      "end": 669.0,
+      "text": " med creators,",
+      "speaker": "B"
+    },
+    {
+      "start": 669.0,
+      "end": 670.0,
+      "text": " og optager,",
+      "speaker": "B"
+    },
+    {
+      "start": 670.0,
+      "end": 671.0,
+      "text": " og shoots,",
+      "speaker": "B"
+    },
+    {
+      "start": 671.0,
+      "end": 672.0,
+      "text": " og hvad ved jeg,",
+      "speaker": "B"
+    },
+    {
+      "start": 672.0,
+      "end": 674.0,
+      "text": " så lav en video-kampagne.",
+      "speaker": "B"
+    },
+    {
+      "start": 674.0,
+      "end": 675.0,
+      "text": " Altså,",
+      "speaker": "B"
+    },
+    {
+      "start": 675.0,
+      "end": 678.0,
+      "text": " så lav en kampagne for den video,",
+      "speaker": "B"
+    },
+    {
+      "start": 678.0,
+      "end": 679.0,
+      "text": " så man ved,",
+      "speaker": "B"
+    },
+    {
+      "start": 679.0,
+      "end": 680.0,
+      "text": " at den bliver brugt penge på den.",
+      "speaker": "B"
+    },
+    {
+      "start": 680.0,
+      "end": 681.0,
+      "text": " Det her med,",
+      "speaker": "C"
+    },
+    {
+      "start": 681.0,
+      "end": 682.0,
+      "text": " at Google,",
+      "speaker": "C"
+    },
+    {
+      "start": 682.0,
+      "end": 683.0,
+      "text": " de går ind og forsøger,",
+      "speaker": "C"
+    },
+    {
+      "start": 683.0,
+      "end": 684.0,
+      "text": " at fylde noget af deres,",
+      "speaker": "C"
+    },
+    {
+      "start": 684.0,
+      "end": 685.0,
+      "text": " lad os sige,",
+      "speaker": "C"
+    },
+    {
+      "start": 685.0,
+      "end": 686.0,
+      "text": " dårlige inventory,",
+      "speaker": "C"
+    },
+    {
+      "start": 686.0,
+      "end": 687.0,
+      "text": " den køber jeg.",
+      "speaker": "C"
+    },
+    {
+      "start": 687.0,
+      "end": 688.0,
+      "text": " Men hvis vi skal prøve,",
+      "speaker": "C"
+    },
+    {
+      "start": 688.0,
+      "end": 689.0,
+      "text": " at tage en anden hat på,",
+      "speaker": "C"
+    },
+    {
+      "start": 689.0,
+      "end": 690.0,
+      "text": " og det her,",
+      "speaker": "C"
+    },
+    {
+      "start": 690.0,
+      "end": 691.0,
+      "text": " det er sådan en lille tese,",
+      "speaker": "C"
+    },
+    {
+      "start": 691.0,
+      "end": 692.0,
+      "text": " jeg har haft,",
+      "speaker": "C"
+    },
+    {
+      "start": 692.0,
+      "end": 693.0,
+      "text": " i løbet af de seneste,",
+      "speaker": "C"
+    },
+    {
+      "start": 693.0,
+      "end": 694.0,
+      "text": " det er efterhånden mange år nu,",
+      "speaker": "C"
+    },
+    {
+      "start": 694.0,
+      "end": 696.0,
+      "text": " fordi spørgsmålet er egentlig,",
+      "speaker": "C"
+    },
+    {
+      "start": 696.0,
+      "end": 698.0,
+      "text": " er vi som annoncører på Google Ads,",
+      "speaker": "C"
+    },
+    {
+      "start": 698.0,
+      "end": 700.0,
+      "text": " også for dårlige til at tilpasse os,",
+      "speaker": "C"
+    },
+    {
+      "start": 700.0,
+      "end": 701.0,
+      "text": " den nye måde?",
+      "speaker": "C"
+    },
+    {
+      "start": 701.0,
+      "end": 702.0,
+      "text": " Altså, hvis man sådan kigger,",
+      "speaker": "C"
+    },
+    {
+      "start": 702.0,
+      "end": 703.0,
+      "text": " sådan meget, meget,",
+      "speaker": "C"
+    },
+    {
+      "start": 703.0,
+      "end": 704.0,
+      "text": " sådan sat lidt på spidsen,",
+      "speaker": "C"
+    },
+    {
+      "start": 704.0,
+      "end": 705.0,
+      "text": " lidt firkantet set,",
+      "speaker": "C"
+    },
+    {
+      "start": 705.0,
+      "end": 706.0,
+      "text": " så Google Ads folk,",
+      "speaker": "C"
+    },
+    {
+      "start": 706.0,
+      "end": 707.0,
+      "text": " har historisk set,",
+      "speaker": "C"
+    },
+    {
+      "start": 707.0,
+      "end": 708.0,
+      "text": " været datafolk,",
+      "speaker": "C"
+    },
+    {
+      "start": 708.0,
+      "end": 709.0,
+      "text": " de elsker at nørde ned i tallene,",
+      "speaker": "C"
+    },
+    {
+      "start": 709.0,
+      "end": 710.0,
+      "text": " og så videre.",
+      "speaker": "C"
+    },
+    {
+      "start": 710.0,
+      "end": 711.0,
+      "text": " De har ikke været,",
+      "speaker": "C"
+    },
+    {
+      "start": 711.0,
+      "end": 712.0,
+      "text": " de kreative folk,",
+      "speaker": "C"
+    },
+    {
+      "start": 712.0,
+      "end": 713.0,
+      "text": " som man kender derovre fra meta,",
+      "speaker": "C"
+    },
+    {
+      "start": 713.0,
+      "end": 714.0,
+      "text": " hvor man er vant til at arbejde med,",
+      "speaker": "C"
+    },
+    {
+      "start": 714.0,
+      "end": 715.0,
+      "text": " ad creatives,",
+      "speaker": "C"
+    },
+    {
+      "start": 715.0,
+      "end": 716.0,
+      "text": " med videre.",
+      "speaker": "C"
+    },
+    {
+      "start": 716.0,
+      "end": 717.0,
+      "text": " Og det tror jeg altså ikke,",
+      "speaker": "C"
+    },
+    {
+      "start": 717.0,
+      "end": 718.0,
+      "text": " jeg træder nogen år til,",
+      "speaker": "C"
+    },
+    {
+      "start": 718.0,
+      "end": 719.0,
+      "text": " er jeg ved at sige,",
+      "speaker": "C"
+    },
+    {
+      "start": 719.0,
+      "end": 720.0,
+      "text": " fordi jeg kommer selv fra,",
+      "speaker": "C"
+    },
+    {
+      "start": 720.0,
+      "end": 721.0,
+      "text": " Google Ads delen af.",
+      "speaker": "C"
+    },
+    {
+      "start": 721.0,
+      "end": 722.0,
+      "text": " Men når du kigger på,",
+      "speaker": "C"
+    },
+    {
+      "start": 722.0,
+      "end": 723.0,
+      "text": " PMAX kampagner,",
+      "speaker": "C"
+    },
+    {
+      "start": 723.0,
+      "end": 724.0,
+      "text": " nu Emil,",
+      "speaker": "C"
+    },
+    {
+      "start": 724.0,
+      "end": 725.0,
+      "text": " vi har imod væk set,",
+      "speaker": "C"
+    },
+    {
+      "start": 725.0,
+      "end": 726.0,
+      "text": " mange PMAX kampagner.",
+      "speaker": "C"
+    },
+    {
+      "start": 726.0,
+      "end": 727.0,
+      "text": " De kan jo tælles på en hånd,",
+      "speaker": "C"
+    },
+    {
+      "start": 727.0,
+      "end": 728.0,
+      "text": " hvor mange af dem,",
+      "speaker": "C"
+    },
+    {
+      "start": 728.0,
+      "end": 729.0,
+      "text": " der rent faktisk er sat,",
+      "speaker": "C"
+    },
+    {
+      "start": 729.0,
+      "end": 730.0,
+      "text": " i gåsøjne rigtigt op,",
+      "speaker": "C"
+    },
+    {
+      "start": 730.0,
+      "end": 731.0,
+      "text": " hvor man rent faktisk,",
+      "speaker": "C"
+    },
+    {
+      "start": 731.0,
+      "end": 732.0,
+      "text": " har uploadet x antal videoer.",
+      "speaker": "C"
+    },
+    {
+      "start": 732.0,
+      "end": 733.0,
+      "text": " Her tænker jeg på,",
+      "speaker": "C"
+    },
+    {
+      "start": 733.0,
+      "end": 734.0,
+      "text": " de her aktiver,",
+      "speaker": "C"
+    },
+    {
+      "start": 734.0,
+      "end": 735.0,
+      "text": " og billeder osv.,",
+      "speaker": "C"
+    },
+    {
+      "start": 735.0,
+      "end": 736.0,
+      "text": " som man rent faktisk,",
+      "speaker": "C"
+    },
+    {
+      "start": 736.0,
+      "end": 737.0,
+      "text": " får,",
+      "speaker": "C"
+    },
+    {
+      "start": 737.0,
+      "end": 738.0,
+      "text": " Google vil jo nok sige,",
+      "speaker": "C"
+    },
+    {
+      "start": 738.0,
+      "end": 739.0,
+      "text": " fuld udbytte,",
+      "speaker": "C"
+    },
+    {
+      "start": 739.0,
+      "end": 740.0,
+      "text": " af den her kampagne for dem.",
+      "speaker": "C"
+    },
+    {
+      "start": 740.0,
+      "end": 741.0,
+      "text": " Men det er jo en helt udstilling,",
+      "speaker": "C"
+    },
+    {
+      "start": 741.0,
+      "end": 742.0,
+      "text": " af tankegangen for,",
+      "speaker": "C"
+    },
+    {
+      "start": 742.0,
+      "end": 743.0,
+      "text": " Google Ads folk,",
+      "speaker": "C"
+    },
+    {
+      "start": 743.0,
+      "end": 744.0,
+      "text": " at skulle sidde og tænke,",
+      "speaker": "C"
+    },
+    {
+      "start": 744.0,
+      "end": 745.0,
+      "text": " i de her,",
+      "speaker": "C"
+    },
+    {
+      "start": 745.0,
+      "end": 746.0,
+      "text": " kreative baner.",
+      "speaker": "C"
+    },
+    {
+      "start": 746.0,
+      "end": 747.0,
+      "text": " Ikke fordi Google Ads folk,",
+      "speaker": "C"
+    },
+    {
+      "start": 747.0,
+      "end": 748.0,
+      "text": " ikke er kreative,",
+      "speaker": "C"
+    },
+    {
+      "start": 748.0,
+      "end": 749.0,
+      "text": " men creatives.",
+      "speaker": "C"
+    },
+    {
+      "start": 749.0,
+      "end": 750.0,
+      "text": " Det er jo en eksplosion,",
+      "speaker": "C"
+    },
+    {
+      "start": 750.0,
+      "end": 751.0,
+      "text": " af ting man pludselig,",
+      "speaker": "C"
+    },
+    {
+      "start": 751.0,
+      "end": 752.0,
+      "text": " skal forholde sig til.",
+      "speaker": "C"
+    },
+    {
+      "start": 752.0,
+      "end": 753.0,
+      "text": " Hvor man tidligere,",
+      "speaker": "C"
+    },
+    {
+      "start": 753.0,
+      "end": 754.0,
+      "text": " måske kiggede meget på,",
+      "speaker": "C"
+    },
+    {
+      "start": 754.0,
+      "end": 755.0,
+      "text": " og data,",
+      "speaker": "C"
+    },
+    {
+      "start": 755.0,
+      "end": 756.0,
+      "text": " hardcore data,",
+      "speaker": "C"
+    },
+    {
+      "start": 756.0,
+      "end": 757.0,
+      "text": " med videre.",
+      "speaker": "C"
+    },
+    {
+      "start": 757.0,
+      "end": 758.0,
+      "text": " Jeg kan ikke lade mig sidde,",
+      "speaker": "C"
+    },
+    {
+      "start": 758.0,
+      "end": 759.0,
+      "text": " og tænke på om,",
+      "speaker": "C"
+    },
+    {
+      "start": 759.0,
+      "end": 760.0,
+      "text": " der er jo ikke nogen tvivl om,",
+      "speaker": "C"
+    },
+    {
+      "start": 760.0,
+      "end": 761.0,
+      "text": " hvilken vej,",
+      "speaker": "C"
+    },
+    {
+      "start": 761.0,
+      "end": 762.0,
+      "text": " hvilken retning,",
+      "speaker": "C"
+    },
+    {
+      "start": 762.0,
+      "end": 763.0,
+      "text": " det her det går i.",
+      "speaker": "C"
+    },
+    {
+      "start": 763.0,
+      "end": 764.0,
+      "text": " Men om der måske også er,",
+      "speaker": "C"
+    },
+    {
+      "start": 764.0,
+      "end": 765.0,
+      "text": " sådan en langsom transformation,",
+      "speaker": "C"
+    },
+    {
+      "start": 765.0,
+      "end": 766.0,
+      "text": " i det at være,",
+      "speaker": "C"
+    },
+    {
+      "start": 766.0,
+      "end": 767.0,
+      "text": " Google Ads mand.",
+      "speaker": "C"
+    },
+    {
+      "start": 767.0,
+      "end": 768.0,
+      "text": " Altså at det simpelthen,",
+      "speaker": "C"
+    },
+    {
+      "start": 768.0,
+      "end": 769.0,
+      "text": " får en anden betydning,",
+      "speaker": "C"
+    },
+    {
+      "start": 769.0,
+      "end": 770.0,
+      "text": " fordi vi også skal tænke,",
+      "speaker": "C"
+    },
+    {
+      "start": 770.0,
+      "end": 771.0,
+      "text": " video, billeder,",
+      "speaker": "C"
+    },
+    {
+      "start": 771.0,
+      "end": 772.0,
+      "text": " altså alle de her,",
+      "speaker": "C"
+    },
+    {
+      "start": 772.0,
+      "end": 773.0,
+      "text": " asset groups,",
+      "speaker": "C"
+    },
+    {
+      "start": 773.0,
+      "end": 774.0,
+      "text": " vi nu engang uploader.",
+      "speaker": "C"
+    },
+    {
+      "start": 774.0,
+      "end": 775.0,
+      "text": " Men det kan også være,",
+      "speaker": "C"
+    },
+    {
+      "start": 775.0,
+      "end": 776.0,
+      "text": " det er helt ved siden af.",
+      "speaker": "C"
+    },
+    {
+      "start": 776.0,
+      "end": 777.0,
+      "text": " Nej, det tror jeg slet ikke,",
+      "speaker": "B"
+    },
+    {
+      "start": 777.0,
+      "end": 778.0,
+      "text": " er ved siden af.",
+      "speaker": "B"
+    },
+    {
+      "start": 778.0,
+      "end": 779.0,
+      "text": " Det er sådan en,",
+      "speaker": "B"
+    },
+    {
+      "start": 779.0,
+      "end": 780.0,
+      "text": " naturlig udvikling.",
+      "speaker": "B"
+    },
+    {
+      "start": 781.0,
+      "end": 782.0,
+      "text": " Jeg tror, man er også nødt til,",
+      "speaker": "B"
+    },
+    {
+      "start": 782.0,
+      "end": 783.0,
+      "text": " at omfavne det.",
+      "speaker": "B"
+    },
+    {
+      "start": 783.0,
+      "end": 784.0,
+      "text": " Altså jeg køber heller ikke,",
+      "speaker": "B"
+    },
+    {
+      "start": 784.0,
+      "end": 785.0,
+      "text": " den der med,",
+      "speaker": "B"
+    },
+    {
+      "start": 785.0,
+      "end": 786.0,
+      "text": " at man bare afviser,",
+      "speaker": "B"
+    },
+    {
+      "start": 786.0,
+      "end": 787.0,
+      "text": " alt nyt, der kommer ud.",
+      "speaker": "B"
+    },
+    {
+      "start": 787.0,
+      "end": 788.0,
+      "text": " Google Ads var også nyt,",
+      "speaker": "B"
+    },
+    {
+      "start": 788.0,
+      "end": 789.0,
+      "text": " på et tidspunkt jo.",
+      "speaker": "B"
+    },
+    {
+      "start": 789.0,
+      "end": 790.0,
+      "text": " Altså det er sådan,",
+      "speaker": "B"
+    },
+    {
+      "start": 790.0,
+      "end": 791.0,
+      "text": " så det også.",
+      "speaker": "B"
+    },
+    {
+      "start": 791.0,
+      "end": 792.0,
+      "text": " Så man er nødt til,",
+      "speaker": "B"
+    },
+    {
+      "start": 792.0,
+      "end": 793.0,
+      "text": " at have det lidt kritiske,",
+      "speaker": "B"
+    },
+    {
+      "start": 793.0,
+      "end": 794.0,
+      "text": " men også lidt selvindsigt,",
+      "speaker": "B"
+    },
+    {
+      "start": 794.0,
+      "end": 795.0,
+      "text": " og finde ud af,",
+      "speaker": "B"
+    },
+    {
+      "start": 795.0,
+      "end": 796.0,
+      "text": " hvad skal man gøre,",
+      "speaker": "B"
+    },
+    {
+      "start": 796.0,
+      "end": 797.0,
+      "text": " med de nye ting, de laver.",
+      "speaker": "B"
+    },
+    {
+      "start": 797.0,
+      "end": 798.0,
+      "text": " Og jeg tror, du har ret i,",
+      "speaker": "B"
+    },
+    {
+      "start": 798.0,
+      "end": 799.0,
+      "text": " at det der med,",
+      "speaker": "B"
+    },
+    {
+      "start": 799.0,
+      "end": 800.0,
+      "text": " også med at købe server,",
+      "speaker": "B"
+    },
+    {
+      "start": 800.0,
+      "end": 801.0,
+      "text": " det tror jeg ikke måske,",
+      "speaker": "B"
+    },
+    {
+      "start": 801.0,
+      "end": 802.0,
+      "text": " vi gør om 10 år.",
+      "speaker": "B"
+    },
+    {
+      "start": 802.0,
+      "end": 803.0,
+      "text": " Der køber man nok en intent.",
+      "speaker": "B"
+    },
+    {
+      "start": 803.0,
+      "end": 804.0,
+      "text": " Det bliver nok på,",
+      "speaker": "B"
+    },
+    {
+      "start": 804.0,
+      "end": 805.0,
+      "text": " det bliver en anden slags,",
+      "speaker": "B"
+    },
+    {
+      "start": 810.0,
+      "end": 811.0,
+      "text": " Det betyder ikke,",
+      "speaker": "B"
+    },
+    {
+      "start": 811.0,
+      "end": 812.0,
+      "text": " at det der med,",
+      "speaker": "B"
+    },
+    {
+      "start": 812.0,
+      "end": 813.0,
+      "text": " at holde øje med klikpriser,",
+      "speaker": "B"
+    },
+    {
+      "start": 813.0,
+      "end": 814.0,
+      "text": " og sådan noget,",
+      "speaker": "B"
+    },
+    {
+      "start": 814.0,
+      "end": 815.0,
+      "text": " og efterspørge,",
+      "speaker": "B"
+    },
+    {
+      "start": 815.0,
+      "end": 816.0,
+      "text": " at det forsvinder.",
+      "speaker": "B"
+    },
+    {
+      "start": 816.0,
+      "end": 817.0,
+      "text": " Det er sådan fundamentet af,",
+      "speaker": "B"
+    },
+    {
+      "start": 817.0,
+      "end": 818.0,
+      "text": " at forstå,",
+      "speaker": "B"
+    },
+    {
+      "start": 818.0,
+      "end": 819.0,
+      "text": " hvordan hele den her,",
+      "speaker": "B"
+    },
+    {
+      "start": 819.0,
+      "end": 820.0,
+      "text": " annonceplatform fungerer.",
+      "speaker": "B"
+    },
+    {
+      "start": 820.0,
+      "end": 823.0,
+      "text": " Men det bliver meget mere sådan,",
+      "speaker": "B"
+    },
+    {
+      "start": 823.0,
+      "end": 825.0,
+      "text": " jeg vil ikke sige,",
+      "speaker": "B"
+    },
+    {
+      "start": 825.0,
+      "end": 827.0,
+      "text": " at acceptere ting, der sker,",
+      "speaker": "B"
+    },
+    {
+      "start": 827.0,
+      "end": 829.0,
+      "text": " men stole lidt på,",
+      "speaker": "B"
+    },
+    {
+      "start": 829.0,
+      "end": 830.0,
+      "text": " at hvis du har en intent,",
+      "speaker": "B"
+    },
+    {
+      "start": 830.0,
+      "end": 831.0,
+      "text": " så er det godt,",
+      "speaker": "B"
+    },
+    {
+      "start": 831.0,
+      "end": 832.0,
+      "text": " at den er også god nok,",
+      "speaker": "B"
+    },
+    {
+      "start": 832.0,
+      "end": 833.0,
+      "text": " til at holde en intent.",
+      "speaker": "B"
+    },
+    {
+      "start": 833.0,
+      "end": 834.0,
+      "text": " Det tror jeg, folk ender med,",
+      "speaker": "B"
+    },
+    {
+      "start": 834.0,
+      "end": 835.0,
+      "text": " at blive nødt til at gøre,",
+      "speaker": "B"
+    },
+    {
+      "start": 835.0,
+      "end": 836.0,
+      "text": " om 10 år.",
+      "speaker": "B"
+    },
+    {
+      "start": 836.0,
+      "end": 837.0,
+      "text": " Så tror jeg ikke,",
+      "speaker": "B"
+    },
+    {
+      "start": 837.0,
+      "end": 838.0,
+      "text": " man har noget valg.",
+      "speaker": "B"
+    },
+    {
+      "start": 838.0,
+      "end": 839.0,
+      "text": " Men lad os se.",
+      "speaker": "A"
+    },
+    {
+      "start": 839.0,
+      "end": 840.0,
+      "text": " Hvad er det,",
+      "speaker": "A"
+    },
+    {
+      "start": 840.0,
+      "end": 841.0,
+      "text": " der kommer til at afgøre,",
+      "speaker": "A"
+    },
+    {
+      "start": 841.0,
+      "end": 843.0,
+      "text": " en Google Ads kampagnes effektivitet,",
+      "speaker": "A"
+    },
+    {
+      "start": 843.0,
+      "end": 844.0,
+      "text": " i fremtiden,",
+      "speaker": "A"
+    },
+    {
+      "start": 844.0,
+      "end": 845.0,
+      "text": " hvis du kigger på den person,",
+      "speaker": "A"
+    },
+    {
+      "start": 845.0,
+      "end": 846.0,
+      "text": " der skal sætte den op?",
+      "speaker": "A"
+    },
+    {
+      "start": 846.0,
+      "end": 847.0,
+      "text": " Og vi har allerede været lidt inde på det,",
+      "speaker": "A"
+    },
+    {
+      "start": 847.0,
+      "end": 848.0,
+      "text": " men et gennemgående tema,",
+      "speaker": "A"
+    },
+    {
+      "start": 848.0,
+      "end": 849.0,
+      "text": " vi også taler meget om,",
+      "speaker": "A"
+    },
+    {
+      "start": 849.0,
+      "end": 850.0,
+      "text": " det er, hvordan AI ændrer,",
+      "speaker": "A"
+    },
+    {
+      "start": 850.0,
+      "end": 851.0,
+      "text": " hvordan vi arbejder med,",
+      "speaker": "A"
+    },
+    {
+      "start": 851.0,
+      "end": 852.0,
+      "text": " de forskellige marketingkanaler,",
+      "speaker": "A"
+    },
+    {
+      "start": 852.0,
+      "end": 853.0,
+      "text": " og ændrer,",
+      "speaker": "A"
+    },
+    {
+      "start": 853.0,
+      "end": 854.0,
+      "text": " hvilke kompetencer,",
+      "speaker": "A"
+    },
+    {
+      "start": 854.0,
+      "end": 855.0,
+      "text": " det er,",
+      "speaker": "A"
+    },
+    {
+      "start": 855.0,
+      "end": 856.0,
+      "text": " man selv skal have,",
+      "speaker": "A"
+    },
+    {
+      "start": 856.0,
+      "end": 857.0,
+      "text": " kontra hvad man kan udlicitere,",
+      "speaker": "A"
+    },
+    {
+      "start": 857.0,
+      "end": 858.0,
+      "text": " til en maskine,",
+      "speaker": "A"
+    },
+    {
+      "start": 858.0,
+      "end": 859.0,
+      "text": " som gør det bedre end en selv.",
+      "speaker": "A"
+    },
+    {
+      "start": 859.0,
+      "end": 860.0,
+      "text": " Det helt oplagte eksempel,",
+      "speaker": "A"
+    },
+    {
+      "start": 860.0,
+      "end": 861.0,
+      "text": " vil være,",
+      "speaker": "A"
+    },
+    {
+      "start": 861.0,
+      "end": 862.0,
+      "text": " hvis man kunne trække alle dages ud,",
+      "speaker": "A"
+    },
+    {
+      "start": 862.0,
+      "end": 863.0,
+      "text": " og lade AI analysere den,",
+      "speaker": "A"
+    },
+    {
+      "start": 863.0,
+      "end": 864.0,
+      "text": " i forhold til at finde mønstre i,",
+      "speaker": "A"
+    },
+    {
+      "start": 864.0,
+      "end": 865.0,
+      "text": " hvad der fungerer godt og skidt,",
+      "speaker": "A"
+    },
+    {
+      "start": 865.0,
+      "end": 866.0,
+      "text": " ville den nok gøre bedre,",
+      "speaker": "A"
+    },
+    {
+      "start": 866.0,
+      "end": 867.0,
+      "text": " end et menneske ville gøre.",
+      "speaker": "A"
+    },
+    {
+      "start": 867.0,
+      "end": 868.0,
+      "text": " Omvendt at forstå intentionen,",
+      "speaker": "A"
+    },
+    {
+      "start": 868.0,
+      "end": 869.0,
+      "text": " bag et søgeord,",
+      "speaker": "A"
+    },
+    {
+      "start": 869.0,
+      "end": 871.0,
+      "text": " kan være sværere for en AI,",
+      "speaker": "A"
+    },
+    {
+      "start": 871.0,
+      "end": 873.0,
+      "text": " fordi et ord kan besyde flere ting,",
+      "speaker": "A"
+    },
+    {
+      "start": 873.0,
+      "end": 874.0,
+      "text": " afhængig af,",
+      "speaker": "A"
+    },
+    {
+      "start": 874.0,
+      "end": 875.0,
+      "text": " hvilken kontekst,",
+      "speaker": "A"
+    },
+    {
+      "start": 875.0,
+      "end": 876.0,
+      "text": " det rent faktisk står i.",
+      "speaker": "A"
+    },
+    {
+      "start": 876.0,
+      "end": 877.0,
+      "text": " Så Emil,",
+      "speaker": "A"
+    },
+    {
+      "start": 877.0,
+      "end": 878.0,
+      "text": " når du ser lidt fremad ud i tiden,",
+      "speaker": "A"
+    },
+    {
+      "start": 878.0,
+      "end": 879.0,
+      "text": " med de algoritmeændringer,",
+      "speaker": "A"
+    },
+    {
+      "start": 879.0,
+      "end": 880.0,
+      "text": " der er,",
+      "speaker": "A"
+    },
+    {
+      "start": 880.0,
+      "end": 881.0,
+      "text": " og Google,",
+      "speaker": "A"
+    },
+    {
+      "start": 881.0,
+      "end": 882.0,
+      "text": " der kommer med nye tiltag,",
+      "speaker": "A"
+    },
+    {
+      "start": 882.0,
+      "end": 883.0,
+      "text": " og fjerner dem igen,",
+      "speaker": "A"
+    },
+    {
+      "start": 883.0,
+      "end": 884.0,
+      "text": " hvad er det så for nogle kompetencer,",
+      "speaker": "A"
+    },
+    {
+      "start": 884.0,
+      "end": 885.0,
+      "text": " der afgør,",
+      "speaker": "A"
+    },
+    {
+      "start": 885.0,
+      "end": 886.0,
+      "text": " om man i virkeligheden,",
+      "speaker": "A"
+    },
+    {
+      "start": 887.0,
+      "end": 888.0,
+      "text": " Den første,",
+      "speaker": "A"
+    },
+    {
+      "start": 888.0,
+      "end": 889.0,
+      "text": " altså den ene,",
+      "speaker": "B"
+    },
+    {
+      "start": 889.0,
+      "end": 890.0,
+      "text": " der ikke kommer til at ændre sig,",
+      "speaker": "B"
+    },
+    {
+      "start": 890.0,
+      "end": 891.0,
+      "text": " det er sådan noget med,",
+      "speaker": "B"
+    },
+    {
+      "start": 891.0,
+      "end": 892.0,
+      "text": " sådan data forståelse.",
+      "speaker": "B"
+    },
+    {
+      "start": 892.0,
+      "end": 893.0,
+      "text": " Det tror jeg altid,",
+      "speaker": "B"
+    },
+    {
+      "start": 893.0,
+      "end": 894.0,
+      "text": " kommer til at være en kompetence,",
+      "speaker": "B"
+    },
+    {
+      "start": 894.0,
+      "end": 895.0,
+      "text": " man skal have,",
+      "speaker": "B"
+    },
+    {
+      "start": 895.0,
+      "end": 896.0,
+      "text": " som Google Ads specialist.",
+      "speaker": "B"
+    },
+    {
+      "start": 896.0,
+      "end": 897.0,
+      "text": " En anden ting,",
+      "speaker": "B"
+    },
+    {
+      "start": 897.0,
+      "end": 898.0,
+      "text": " jeg tror man kommer til at skulle have,",
+      "speaker": "B"
+    },
+    {
+      "start": 898.0,
+      "end": 899.0,
+      "text": " er,",
+      "speaker": "B"
+    },
+    {
+      "start": 899.0,
+      "end": 900.0,
+      "text": " også nu,",
+      "speaker": "B"
+    },
+    {
+      "start": 900.0,
+      "end": 901.0,
+      "text": " men sådan noget med,",
+      "speaker": "B"
+    },
+    {
+      "start": 901.0,
+      "end": 902.0,
+      "text": " at være omstillingsparat,",
+      "speaker": "B"
+    },
+    {
+      "start": 902.0,
+      "end": 904.0,
+      "text": " og kunne omstille sig,",
+      "speaker": "B"
+    },
+    {
+      "start": 904.0,
+      "end": 905.0,
+      "text": " de nye ting,",
+      "speaker": "B"
+    },
+    {
+      "start": 905.0,
+      "end": 906.0,
+      "text": " og især om 10-20 år.",
+      "speaker": "B"
+    },
+    {
+      "start": 906.0,
+      "end": 909.0,
+      "text": " Det bliver en vigtig evne at have.",
+      "speaker": "B"
+    },
+    {
+      "start": 909.0,
+      "end": 911.0,
+      "text": " Så er det måske svært,",
+      "speaker": "B"
+    },
+    {
+      "start": 911.0,
+      "end": 913.0,
+      "text": " at komme med sådan en one-liner,",
+      "speaker": "B"
+    },
+    {
+      "start": 913.0,
+      "end": 914.0,
+      "text": " på hvad kompetencen hedder,",
+      "speaker": "B"
+    },
+    {
+      "start": 914.0,
+      "end": 915.0,
+      "text": " men det her med at arbejde med AI,",
+      "speaker": "B"
+    },
+    {
+      "start": 916.0,
+      "end": 917.0,
+      "text": " i et større forstand,",
+      "speaker": "B"
+    },
+    {
+      "start": 917.0,
+      "end": 919.0,
+      "text": " det bliver en ekstremt vigtig kompetence,",
+      "speaker": "B"
+    },
+    {
+      "start": 919.0,
+      "end": 920.0,
+      "text": " overhovedsæt,",
+      "speaker": "B"
+    },
+    {
+      "start": 920.0,
+      "end": 921.0,
+      "text": " hos en Google Ads specialist.",
+      "speaker": "B"
+    },
+    {
+      "start": 923.0,
+      "end": 925.0,
+      "text": " Og måske også lære at forstå,",
+      "speaker": "B"
+    },
+    {
+      "start": 925.0,
+      "end": 926.0,
+      "text": " nu siger du det der med,",
+      "speaker": "B"
+    },
+    {
+      "start": 926.0,
+      "end": 928.0,
+      "text": " jamen den kan måske analysere data,",
+      "speaker": "B"
+    },
+    {
+      "start": 928.0,
+      "end": 929.0,
+      "text": " en hurtigere.",
+      "speaker": "B"
+    },
+    {
+      "start": 929.0,
+      "end": 930.0,
+      "text": " Så bliver der så spørgsmålet om,",
+      "speaker": "B"
+    },
+    {
+      "start": 930.0,
+      "end": 931.0,
+      "text": " hvordan analyserer vi den,",
+      "speaker": "B"
+    },
+    {
+      "start": 931.0,
+      "end": 933.0,
+      "text": " så man får mest udbytte af det,",
+      "speaker": "B"
+    },
+    {
+      "start": 933.0,
+      "end": 934.0,
+      "text": " også over for kunden,",
+      "speaker": "B"
+    },
+    {
+      "start": 934.0,
+      "end": 936.0,
+      "text": " og den der skal sidde og arbejde med det,",
+      "speaker": "B"
+    },
+    {
+      "start": 936.0,
+      "end": 938.0,
+      "text": " det bliver vigtigt for alle.",
+      "speaker": "B"
+    },
+    {
+      "start": 939.0,
+      "end": 940.0,
+      "text": " Og så tror jeg også,",
+      "speaker": "B"
+    },
+    {
+      "start": 940.0,
+      "end": 941.0,
+      "text": " altså i takt med,",
+      "speaker": "B"
+    },
+    {
+      "start": 941.0,
+      "end": 943.0,
+      "text": " at der er mange manuelle processer,",
+      "speaker": "B"
+    },
+    {
+      "start": 943.0,
+      "end": 945.0,
+      "text": " der går hen og bliver lidt hurtigere,",
+      "speaker": "B"
+    },
+    {
+      "start": 945.0,
+      "end": 946.0,
+      "text": " altså smart det er det ikke,",
+      "speaker": "B"
+    },
+    {
+      "start": 946.0,
+      "end": 947.0,
+      "text": " nu har det været en ting i lang tid,",
+      "speaker": "B"
+    },
+    {
+      "start": 947.0,
+      "end": 950.0,
+      "text": " men det kommer nok at udvikle sig yderligere.",
+      "speaker": "B"
+    },
+    {
+      "start": 952.0,
+      "end": 953.0,
+      "text": " Og derfor,",
+      "speaker": "B"
+    },
+    {
+      "start": 953.0,
+      "end": 955.0,
+      "text": " så er man jo også nødt til at indstille sig på,",
+      "speaker": "B"
+    },
+    {
+      "start": 955.0,
+      "end": 958.0,
+      "text": " at man skal trække nogle andre kaniner op af hatten,",
+      "speaker": "B"
+    },
+    {
+      "start": 958.0,
+      "end": 959.0,
+      "text": " altså du er nødt til,",
+      "speaker": "B"
+    },
+    {
+      "start": 959.0,
+      "end": 960.0,
+      "text": " udover at være dygtig til at forstå tal,",
+      "speaker": "B"
+    },
+    {
+      "start": 960.0,
+      "end": 962.0,
+      "text": " så bliver du også i stigende grad nødt til,",
+      "speaker": "B"
+    },
+    {
+      "start": 962.0,
+      "end": 964.0,
+      "text": " at kunne forstå andre platform.",
+      "speaker": "B"
+    },
+    {
+      "start": 964.0,
+      "end": 966.0,
+      "text": " F.eks. forstå den der,",
+      "speaker": "B"
+    },
+    {
+      "start": 966.0,
+      "end": 969.0,
+      "text": " Advantage Plus annonce i højre side,",
+      "speaker": "B"
+    },
+    {
+      "start": 969.0,
+      "end": 971.0,
+      "text": " altså du er nødt til at forstå,",
+      "speaker": "B"
+    },
+    {
+      "start": 971.0,
+      "end": 972.0,
+      "text": " hvor det kommer fra,",
+      "speaker": "B"
+    },
+    {
+      "start": 972.0,
+      "end": 974.0,
+      "text": " forstå annoncerlændskabet på en anden måde,",
+      "speaker": "B"
+    },
+    {
+      "start": 974.0,
+      "end": 975.0,
+      "text": " for at forstå,",
+      "speaker": "B"
+    },
+    {
+      "start": 975.0,
+      "end": 977.0,
+      "text": " hvordan de forskellige kanaler spiller sammen.",
+      "speaker": "B"
+    },
+    {
+      "start": 977.0,
+      "end": 979.0,
+      "text": " Det bliver en stor del af at være",
+      "speaker": "B"
+    },
+    {
+      "start": 979.0,
+      "end": 981.0,
+      "text": " paid specialist generelt tror jeg,",
+      "speaker": "B"
+    },
+    {
+      "start": 981.0,
+      "end": 983.0,
+      "text": " at man kan forstå de andre platforme.",
+      "speaker": "B"
+    },
+    {
+      "start": 984.0,
+      "end": 986.0,
+      "text": " Og det,",
+      "speaker": "B"
+    },
+    {
+      "start": 986.0,
+      "end": 987.0,
+      "text": " det er jo godt,",
+      "speaker": "B"
+    },
+    {
+      "start": 987.0,
+      "end": 988.0,
+      "text": " tænker jeg jo,",
+      "speaker": "B"
+    },
+    {
+      "start": 988.0,
+      "end": 989.0,
+      "text": " fordi det betyder jo også,",
+      "speaker": "B"
+    },
+    {
+      "start": 989.0,
+      "end": 991.0,
+      "text": " man ender med nogle specialister,",
+      "speaker": "B"
+    },
+    {
+      "start": 991.0,
+      "end": 993.0,
+      "text": " der hvis man vil det bedste,",
+      "speaker": "B"
+    },
+    {
+      "start": 993.0,
+      "end": 995.0,
+      "text": " har en lidt bedre forretningsforståelse.",
+      "speaker": "B"
+    },
+    {
+      "start": 996.0,
+      "end": 999.0,
+      "text": " Og det er jo nice,",
+      "speaker": "B"
+    },
+    {
+      "start": 999.0,
+      "end": 1001.0,
+      "text": " tænker jeg for de fleste annoncerer.",
+      "speaker": "B"
+    },
+    {
+      "start": 1002.0,
+      "end": 1004.0,
+      "text": " Jeg er på falderabet, Emil.",
+      "speaker": "C"
+    },
+    {
+      "start": 1004.0,
+      "end": 1005.0,
+      "text": " Jeg har et sidste spørgsmål.",
+      "speaker": "C"
+    },
+    {
+      "start": 1005.0,
+      "end": 1007.0,
+      "text": " Hvis man som lytter sidder og lytter med,",
+      "speaker": "C"
+    },
+    {
+      "start": 1007.0,
+      "end": 1009.0,
+      "text": " og man kigger på sin egen Google Ads konto,",
+      "speaker": "C"
+    },
+    {
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": " og er lidt træt af de PMAX kampagner,",
+      "speaker": "C"
+    },
+    {
+      "start": 1011.0,
+      "end": 1012.0,
+      "text": " der kører,",
+      "speaker": "C"
+    },
+    {
+      "start": 1012.0,
+      "end": 1015.0,
+      "text": " men man har fået tulet ørerne døde af Google Reps,",
+      "speaker": "C"
+    },
+    {
+      "start": 1015.0,
+      "end": 1017.0,
+      "text": " om at man skal køre dem.",
+      "speaker": "C"
+    },
+    {
+      "start": 1017.0,
+      "end": 1019.0,
+      "text": " Hvad er dit bedste råd her?",
+      "speaker": "C"
+    },
+    {
+      "start": 1019.0,
+      "end": 1020.0,
+      "text": " Jeg ved godt, det er svært,",
+      "speaker": "C"
+    },
+    {
+      "start": 1020.0,
+      "end": 1021.0,
+      "text": " når det er alt andet lige,",
+      "speaker": "C"
+    },
+    {
+      "start": 1021.0,
+      "end": 1022.0,
+      "text": " og der er masser af ting,",
+      "speaker": "C"
+    },
+    {
+      "start": 1022.0,
+      "end": 1025.0,
+      "text": " der ligesom kan gå ind og påvirke det svar.",
+      "speaker": "C"
+    },
+    {
+      "start": 1025.0,
+      "end": 1026.0,
+      "text": " Men overordnet set,",
+      "speaker": "C"
+    },
+    {
+      "start": 1026.0,
+      "end": 1029.0,
+      "text": " og du lavede lige et tegn,",
+      "speaker": "C"
+    },
+    {
+      "start": 1029.0,
+      "end": 1031.0,
+      "text": " fordi jeg bare lytter med og ikke ser med,",
+      "speaker": "C"
+    },
+    {
+      "start": 1031.0,
+      "end": 1033.0,
+      "text": " så lavede Emil lige den klassiske med,",
+      "speaker": "C"
+    },
+    {
+      "start": 1033.0,
+      "end": 1035.0,
+      "text": " at køre hånden hen over halsen.",
+      "speaker": "C"
+    },
+    {
+      "start": 1035.0,
+      "end": 1036.0,
+      "text": " Hvad vil dit råd her være?",
+      "speaker": "C"
+    },
+    {
+      "start": 1036.0,
+      "end": 1038.0,
+      "text": " Fordi jeg ved, der sidder mange derude,",
+      "speaker": "C"
+    },
+    {
+      "start": 1038.0,
+      "end": 1040.0,
+      "text": " som er træt af deres egen PMAX.",
+      "speaker": "C"
+    },
+    {
+      "start": 1040.0,
+      "end": 1041.0,
+      "text": " Men det er også bare,",
+      "speaker": "B"
+    },
+    {
+      "start": 1041.0,
+      "end": 1042.0,
+      "text": " jeg tror, at vi er modsvar.",
+      "speaker": "B"
+    },
+    {
+      "start": 1042.0,
+      "end": 1043.0,
+      "text": " Altså jeg vil sige sådan,",
+      "speaker": "B"
+    },
+    {
+      "start": 1043.0,
+      "end": 1044.0,
+      "text": " okay, men hvorfor?",
+      "speaker": "B"
+    },
+    {
+      "start": 1044.0,
+      "end": 1046.0,
+      "text": " Altså vi tror, man skal starte med at spørge sig selv om,",
+      "speaker": "B"
+    },
+    {
+      "start": 1046.0,
+      "end": 1048.0,
+      "text": " hvorfor er du træt af den PMAX kampagne?",
+      "speaker": "B"
+    },
+    {
+      "start": 1048.0,
+      "end": 1049.0,
+      "text": " Hvad er det?",
+      "speaker": "B"
+    },
+    {
+      "start": 1049.0,
+      "end": 1052.0,
+      "text": " Også fordi, det er også bare nemt.",
+      "speaker": "B"
+    },
+    {
+      "start": 1052.0,
+      "end": 1053.0,
+      "text": " Jeg synes, det er rigtig nemt",
+      "speaker": "B"
+    },
+    {
+      "start": 1053.0,
+      "end": 1054.0,
+      "text": " at se sig sur på en platform,",
+      "speaker": "B"
+    },
+    {
+      "start": 1054.0,
+      "end": 1055.0,
+      "text": " der er blackbox,",
+      "speaker": "B"
+    },
+    {
+      "start": 1055.0,
+      "end": 1056.0,
+      "text": " bare fordi den er black.",
+      "speaker": "B"
+    },
+    {
+      "start": 1057.0,
+      "end": 1060.0,
+      "text": " Og igen, der er så meget indsigt i den kampagne,",
+      "speaker": "B"
+    },
+    {
+      "start": 1060.0,
+      "end": 1062.0,
+      "text": " så det er ret nemt at svare på det spørgsmål,",
+      "speaker": "B"
+    },
+    {
+      "start": 1062.0,
+      "end": 1063.0,
+      "text": " hvorfor man er træt af den.",
+      "speaker": "B"
+    },
+    {
+      "start": 1063.0,
+      "end": 1064.0,
+      "text": " Start med at kigge på den.",
+      "speaker": "B"
+    },
+    {
+      "start": 1064.0,
+      "end": 1065.0,
+      "text": " Hvad er det, du gør dig træt af den?",
+      "speaker": "B"
+    },
+    {
+      "start": 1065.0,
+      "end": 1067.0,
+      "text": " Er det, fordi der er nogle kategorier,",
+      "speaker": "B"
+    },
+    {
+      "start": 1067.0,
+      "end": 1068.0,
+      "text": " du kan få ud af den?",
+      "speaker": "B"
+    },
+    {
+      "start": 1068.0,
+      "end": 1069.0,
+      "text": " Er det, fordi der er et overlap",
+      "speaker": "B"
+    },
+    {
+      "start": 1069.0,
+      "end": 1070.0,
+      "text": " med dine andre kampagner?",
+      "speaker": "B"
+    },
+    {
+      "start": 1070.0,
+      "end": 1072.0,
+      "text": " Jamen, så slæb den.",
+      "speaker": "B"
+    },
+    {
+      "start": 1072.0,
+      "end": 1074.0,
+      "text": " Eller køre en AB-test på det,",
+      "speaker": "B"
+    },
+    {
+      "start": 1074.0,
+      "end": 1075.0,
+      "text": " eller et eller andet.",
+      "speaker": "B"
+    },
+    {
+      "start": 1077.0,
+      "end": 1079.0,
+      "text": " Og hvis det er, fordi man har et ønske",
+      "speaker": "B"
+    },
+    {
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " om at opholde lidt liv",
+      "speaker": "B"
+    },
+    {
+      "start": 1081.0,
+      "end": 1083.0,
+      "text": " i nogle af sine kreativer i et andet format,",
+      "speaker": "B"
+    },
+    {
+      "start": 1083.0,
+      "end": 1085.0,
+      "text": " så prøv også faktisk at bruge den.",
+      "speaker": "B"
+    },
+    {
+      "start": 1085.0,
+      "end": 1087.0,
+      "text": " Altså lad være med at game den.",
+      "speaker": "B"
+    },
+    {
+      "start": 1087.0,
+      "end": 1089.0,
+      "text": " Prøv bare at bygge den rigtigt.",
+      "speaker": "B"
+    },
+    {
+      "start": 1089.0,
+      "end": 1090.0,
+      "text": " Og hvis du så har,",
+      "speaker": "B"
+    },
+    {
+      "start": 1090.0,
+      "end": 1094.0,
+      "text": " og så kører et dedikeret, rigtigt shopping setup.",
+      "speaker": "B"
+    },
+    {
+      "start": 1094.0,
+      "end": 1096.0,
+      "text": " Men start med lige at spørge sig selv,",
+      "speaker": "B"
+    },
+    {
+      "start": 1096.0,
+      "end": 1098.0,
+      "text": " hvorfor er det, man er træt af det?",
+      "speaker": "B"
+    },
+    {
+      "start": 1098.0,
+      "end": 1100.0,
+      "text": " Og så brug den data.",
+      "speaker": "B"
+    },
+    {
+      "start": 1100.0,
+      "end": 1102.0,
+      "text": " Den ligger faktisk derinde.",
+      "speaker": "B"
+    },
+    {
+      "start": 1102.0,
+      "end": 1104.0,
+      "text": " Det er ret nemt.",
+      "speaker": "B"
+    },
+    {
+      "start": 1104.0,
+      "end": 1105.0,
+      "text": " Prøv at huske det.",
+      "speaker": "B"
+    },
+    {
+      "start": 1105.0,
+      "end": 1106.0,
+      "text": " Tusind tak, fordi du havde lyst",
+      "speaker": "A"
+    },
+    {
+      "start": 1106.0,
+      "end": 1107.0,
+      "text": " til at være med i dagens episode, Emil.",
+      "speaker": "A"
+    },
+    {
+      "start": 1107.0,
+      "end": 1110.0,
+      "text": " Jeg synes, det er nogle rigtig gode takeaways.",
+      "speaker": "A"
+    },
+    {
+      "start": 1110.0,
+      "end": 1111.0,
+      "text": " Spørg lige, hvorfor det er,",
+      "speaker": "A"
+    },
+    {
+      "start": 1111.0,
+      "end": 1112.0,
+      "text": " at du er træt af det.",
+      "speaker": "A"
+    },
+    {
+      "start": 1112.0,
+      "end": 1114.0,
+      "text": " Til at starte med at bygge det ordentligt,",
+      "speaker": "A"
+    },
+    {
+      "start": 1114.0,
+      "end": 1115.0,
+      "text": " og nogle gode refleksioner,",
+      "speaker": "A"
+    },
+    {
+      "start": 1115.0,
+      "end": 1116.0,
+      "text": " om hvad det er, der kræver",
+      "speaker": "A"
+    },
+    {
+      "start": 1116.0,
+      "end": 1118.0,
+      "text": " at være dygtigst til Google Ads i fremtiden.",
+      "speaker": "A"
+    },
+    {
+      "start": 1118.0,
+      "end": 1121.0,
+      "text": " Tak, fordi du lyttede med til dagens episode.",
+      "speaker": "A"
+    },
+    {
+      "start": 1121.0,
+      "end": 1123.0,
+      "text": " På genhør på mandag kl. 06.",
+      "speaker": "A"
+    }
+  ]
+}

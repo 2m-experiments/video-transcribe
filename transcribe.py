@@ -79,6 +79,7 @@ VIDEO_GROUPS = {
         {"url": "https://www.youtube.com/watch?v=mmpbnjby6Zo", "title": "Sådan får du et stabilt kundeflow i din klinik"},
         {"url": "https://www.youtube.com/watch?v=7Q4b6bjiFtc", "title": "Reglen Der Fordobler Din Kliniks Omsætning"},
         {"url": "https://www.youtube.com/watch?v=kxYGAippk18", "title": "Hvis din kliniks omsætning svinger hver måned, så se den her"},
+        {"url": "https://www.youtube.com/watch?v=3KGvqLOQ8nw", "title": "De 3 ting, der tog en behandler fra 0 til 3 klinikker"},
     ],
     "group2": [
         {"url": "https://player.vimeo.com/video/1097517089", "title": "100 bookinger workshop"},
@@ -204,6 +205,40 @@ def get_audio_path(group: str, video: dict) -> Path:
 
 def get_transcript_base(group: str, video: dict) -> Path:
     return TRANSCRIPTIONS_DIR / group / sanitize_filename(video['title'])
+
+
+_VIDEO_ID_RE = re.compile(r"[?&]v=([\w-]{11})")
+
+
+def video_id(url: str) -> str | None:
+    """YouTube video id from a watch URL, or None for non-YouTube sources."""
+    m = _VIDEO_ID_RE.search(url or "")
+    return m.group(1) if m else None
+
+
+def load_known_video_ids(group: str) -> dict[str, Path]:
+    """Map YouTube video id -> existing transcript .json for a group.
+
+    Identity is the video id, not the filename: an upstream title change alters the
+    slug, so a name-only skip check would re-transcribe the same video under a new
+    name (this happened with a retitled group3 episode). Scan once per group.
+    """
+    known: dict[str, Path] = {}
+    group_dir = TRANSCRIPTIONS_DIR / group
+    if not group_dir.exists():
+        return known
+    for jf in group_dir.glob("*.json"):
+        if jf.name.endswith(".speakers.json"):
+            continue
+        try:
+            with open(jf, "r", encoding="utf-8") as f:
+                url = json.load(f).get("url", "")
+        except (OSError, ValueError):
+            continue
+        vid = video_id(url)
+        if vid:
+            known[vid] = jf
+    return known
 
 
 def ensure_dirs(*dirs: Path):
@@ -551,6 +586,7 @@ def main():
         print(f"{'=' * 60}")
 
         batch_start = time.time()
+        known_ids = {} if args.force else load_known_video_ids(group_name)
 
         for i, video in enumerate(videos, 1):
             # ETA estimate for channel batches
@@ -563,6 +599,14 @@ def main():
             else:
                 print(f"\n[{i}/{len(videos)}] {video['title']}")
 
+            tb = str(get_transcript_base(group_name, video))
+            already_done = (not args.force and Path(tb + ".txt").exists() and Path(tb + ".json").exists())
+            existing = known_ids.get(video_id(video["url"]) or "")
+            if existing is not None and not already_done:
+                # Same video id, different slug: the title changed upstream.
+                print(f"  SKIP (already done as {existing.name}): {video['title']}")
+                results["success"].append(video["title"])
+                continue
             try:
                 ok = process_video(video, group_name, client, args, args.language, args.cookies, args.proxy)
                 if ok:
@@ -573,8 +617,10 @@ def main():
                 print(f"  ERROR: {e}")
                 results["failed"].append(video["title"])
 
-            # Anti-blocking delay between downloads for channel scrapes
-            if is_channel_group and i < len(videos):
+            # Anti-blocking delay between downloads for channel scrapes.
+            # Only after real work: sleeping after every SKIP made a no-op re-run
+            # of a 337-video channel idle for ~1 hour.
+            if is_channel_group and i < len(videos) and not already_done:
                 delay = random.uniform(DOWNLOAD_DELAY_MIN, DOWNLOAD_DELAY_MAX)
                 print(f"  (waiting {delay:.0f}s before next video)")
                 time.sleep(delay)

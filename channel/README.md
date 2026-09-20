@@ -12,21 +12,21 @@ otherwise not stored in the code (`transcribe.py` only holds the video lists).
 
 | Group | Source | Channel | Tracked | Transcribed | Diarized | New available |
 |-------|--------|---------|--------:|------------:|---------:|--------------:|
-| group1 | curated | [@AlexanderFuldtBooket](https://www.youtube.com/@AlexanderFuldtBooket) | 25 | 25 | 12¹ | 0 |
+| group1 | curated | [@AlexanderFuldtBooket](https://www.youtube.com/@AlexanderFuldtBooket) | 26 | 26 | 13¹ | 0 |
 | group2 | fixed | — (2 Vimeo workshops) | 2 | 2 | 2 | 0 |
-| group3 | channel scrape | [@marketingpod](https://www.youtube.com/@marketingpod) | 334 | 334 | 334² | 0 |
+| group3 | channel scrape | [@marketingpod](https://www.youtube.com/@marketingpod) | 337 | 337 | 337² | 0 |
 | group4 | fixed | 1 Obsidian webinar | 1 | 1 | 1 | 0 |
 
-*Status last updated: 2026-09-07 (6 new group1 + 13 new group3 videos, plus 3 group3 clips recovered from the filename collision).*
+*Status last updated: 2026-09-20 (1 new group1 + 3 new group3 videos, all transcribed and diarized).*
 
-¹ group1's 13 pre-2026-07-29 monologues are intentionally not diarized; the 6 newer ones are.
-² group3 is complete — all 334 transcribed and diarized; 233 have real speaker names, 101 are
+¹ group1's 13 pre-2026-07-29 monologues are intentionally not diarized; the 13 newer ones are.
+² group3 is complete — all 337 transcribed and diarized; 233 have real speaker names, 104 are
 letter-labeled. Three "Mr. Beast" clips were missing until 2026-09-07: every dotted title used
 to collapse to a truncated filename (`Mr. Beasts …` → `mr.json`), so four videos overwrote each
 other and only one survived. Fixed in `transcribe.py` and re-transcribed.
-³ ~18 older testimonial/case clips on the group1 channel are deliberately left out of the
+³ 17 older testimonial/case clips on the group1 channel are deliberately left out of the
 curated set (not counted as "new"). The channel listing also carries 1 group3 Short, which the
-scraper filters out (335 listed → 334 tracked).
+scraper filters out (338 listed → 337 tracked).
 
 ## Source types
 

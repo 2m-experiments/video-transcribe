@@ -18,6 +18,14 @@ local toolchain, and set up handover/session-log files for working across machin
   Installed `requirements.txt` into both Python 3.12 installs (Store `python` and
   python.org `py -3.12`) because the runbook uses bare `python`.
 - Created `HANDOVER.md`, `sessionlog/README.md`, this file; linked them from `CLAUDE.md`.
+- **Ran the update** after the user added `.env`: added `3KGvqLOQ8nw` to `VIDEO_GROUPS["group1"]`,
+  `transcribe.py --group group1` (1 new, 16 min), `transcribe.py --channel @marketingpod` (3 new,
+  ~94 min, one needed 2 Whisper chunks), then `diarize.py` on all 4. Speakers found: group1 video
+  1 (A); group3: Only Halfdan 1 (A), Masterclass 3 (A,B,C), Performance Max 3 (A,B,C).
+  Verify snippet passes: group1 26/13, group3 337/337, no orphans.
+- Fixed `transcribe.py` twice, both tested with no-op re-runs (337 + 26 skipped, 0 failed, ~1 s):
+  delay-after-skip idle bug, and an id-aware skip check (see gotchas).
+- Updated `channel/channels.json` + `channel/README.md` status to 2026-09-20.
 
 **Decisions / gotchas:**
 - Did **not** download or transcribe anything; the diff was wanted first.
@@ -28,7 +36,21 @@ local toolchain, and set up handover/session-log files for working across machin
 - `channel/channel_cache/` did not exist after the pull (git-ignored); expected on a
   fresh machine, the scrape recreates it.
 
-**Left for next time:** the 6-step "Next actions" list in `HANDOVER.md` (add group1 video
-to `VIDEO_GROUPS`, transcribe 4 videos, diarize, verify, update channel status, commit).
+- The group3 channel run kept running ~15 min after the last transcript was saved: the
+  anti-blocking sleep (5–15 s) ran after every *skipped* video too, i.e. ~334 × 10 s of idling.
+  Killed it (all outputs were already written and verified) and fixed the loop.
+- **Title drift hit for real**: video 19 in the channel list, `TVexnIlT-ps`, was transcribed
+  2026-07-29 as "HVEJSEL ER TILBAGE…" and has been retitled upstream. The name-based skip
+  check missed it and the run tried to re-transcribe it (it failed only because that shell had
+  no ffmpeg on PATH; the earlier killed run may have burned one partial Whisper call on it).
+  `transcribe.py` now scans the group's transcripts once for `url` → video id and skips by id.
+- The Bash tool's shell predates the ffmpeg install; runs there need the winget bin dir
+  prepended to `PATH`. New terminals are fine.
+- `python -` heredocs that `print()` non-cp1252 characters crash on this Windows console
+  (`UnicodeEncodeError`); the file writes before the print still land. Use `git diff` to check.
 
-**Commits:** docs-only commit adding HANDOVER.md + sessionlog/ + CLAUDE.md pointer.
+**Left for next time:** nothing pending; see `HANDOVER.md` "Next actions" (diff for new
+uploads after 2026-09-17, optional speaker naming, optional index rebuild).
+
+**Commits:** `c6fd6e1` handover docs, `1b41650`/`c01d5da`/`5e4c7e2` handover updates, then one
+commit with the 4 new videos + transcribe.py fixes + status/handover updates (see git log).

@@ -129,8 +129,10 @@ reports success while transcribing nothing new.
   with a rename rather than letting the skip-check miss them and re-transcribe at cost.
 - **Identity is the YouTube video id, not the filename.** A video's upstream title can
   change, which changes its slug; the name-based skip check then misses it and it gets
-  re-transcribed under a new name. Detect duplicates by id, and match a diarization to a
-  transcript by `(url, segment-count)` — never by filename alone.
+  re-transcribed under a new name. `transcribe.py` now also skips by video id (it scans the
+  group's transcript `url`s once per run; this caught group3 `TVexnIlT-ps` on 2026-09-20).
+  Keep that check; match a diarization to a transcript by `(url, segment-count)` — never by
+  filename alone.
 - **Never `--force`** to fetch new videos (see §1).
 - **Keys are never committed.** Supply via env/`.env` only.
 - **Atomic writes**: `diarize.py` writes `.speakers.*` atomically (temp + `os.replace`) so
