@@ -9,3882 +9,3887 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B",
-      "C"
+      "Halfdan",
+      "Emil",
+      "Kristian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Emil",
+      "C": "Kristian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
       "text": " Hej og velkommen til en ny episode af MarketingPod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2.0,
       "end": 5.0,
       "text": " Jeg så en spændende nyhed om Google Ads her for nylig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 5.0,
       "end": 8.0,
       "text": " og i stedet for at sende den til Tinju, der laver, som om han ved noget om Google Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 8.0,
       "end": 12.0,
       "text": " så sendte jeg den til Emil Norddal, der faktisk ved noget om Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 16.0,
       "text": " Emil, tak fordi du vil være med i dagens episode af MarketingPod og snakke om Performance Max.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 16.0,
       "end": 21.0,
       "text": " Tak, jeg er glad for, at jeg kan være med. Det er sådan en ære at få lov til at snakke med jer omkring det emne her.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 21.0,
       "end": 24.0,
       "text": " Det er jo meget sjovt, også når det er PMAX.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 24.0,
       "end": 27.0,
       "text": " Og det er jo faktisk et emne, som du har skrevet til os om tidligere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 27.0,
       "end": 30.0,
       "text": " og du har i det hele taget været en lille smule kritisk for os,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 30.0,
       "end": 35.0,
       "text": " for at være lidt meta-centriske i vores marketing-dækning på MarketingPod, hvilket er færdigt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 35.0,
       "end": 37.0,
       "text": " Det er ikke kun Emil, skal jeg så lige hilse til at sige her i aften.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 37.0,
       "end": 39.0,
       "text": " Jeg tror, det er nok det aller...",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 39.0,
       "end": 42.0,
       "text": " Hvis du kigger i min indbakke igennem, så er det i hvert fald det, der bliver nævnt allermest,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 42.0,
       "end": 45.0,
       "text": " det er, hvornår får vi noget mere PPC eller Google Ads.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 45.0,
       "end": 48.0,
       "text": " Og hermed, Emil...",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 48.0,
       "end": 52.0,
       "text": " Og de næste fire minutter. Ej, resten af episoden, der skal vi snakke om det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 52.0,
       "end": 56.0,
       "text": " fordi der sker rigtig meget på Google Ads lige nu, især i forhold til Performance Max.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 56.0,
       "end": 60.0,
       "text": " Det, jeg lægger mærke til, det er, at det virker som om, at Google startede med at sige,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 60.0,
       "end": 62.0,
       "text": " vi skal gøre det hele, og du har ingen kontrol.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 62.0,
       "end": 66.0,
       "text": " Og så er vi gradvist ved at få mere og mere kontrol tilbage,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 66.0,
       "end": 70.0,
       "text": " og jeg kunne godt tænke mig at forstå, hvorfor det sker, og hvad der kommer til at ske i fremtiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 70.0,
       "end": 73.0,
       "text": " Emil, kan du ikke lige starte med at fortælle os, Performance Max,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 73.0,
       "end": 76.0,
       "text": " da det blev introduceret for, det ved jeg ikke, tre-fire år siden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 76.0,
       "end": 80.0,
       "text": " hvad var tanken med det dengang, og hvordan fungerede det oprindeligt, da det blev lanceret?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 84.0,
       "text": " Ja, det er jo godt. Hvis du spørger Google nu, hvad tanken var,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 84.0,
       "end": 88.0,
       "text": " så vil de også afvige fra det, de sagde dengang, hvilket er lidt sjovt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 88.0,
       "end": 91.0,
       "text": " fordi dengang det kom ud, og P-Markets blev sådan lidt skudt af sted,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 91.0,
       "end": 100.0,
       "text": " som en form for full-funnel, complete ad-inventory-coverage-marketing-kanal,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 100.0,
       "end": 105.0,
       "text": " der bare dækkede alle platforme på Googles netværk,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 105.0,
       "end": 108.0,
       "text": " og så kunne de bruge nogle penge på display, og nogle penge i gmail,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 108.0,
       "end": 113.0,
       "text": " og nogle penge i retargeting, og alle de her forskellige steder, der er.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 113.0,
       "end": 117.0,
       "text": " Og det var lidt en black box, der ikke var så meget styring på.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 120.0,
       "end": 124.0,
       "text": " Og det var sådan, det startede helt i begyndelsen,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 124.0,
       "end": 130.0,
       "text": " hvor det ret hurtigt skiftede det lidt retning fra at kalde det full-funnel,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 130.0,
       "end": 133.0,
       "text": " der er jeg sikker på, jeg har haft nogle Google-reps, der har sagt til mig,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 133.0,
       "end": 135.0,
       "text": " så kan de altid sige, hvad de vil, men så skiftede det lidt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 135.0,
       "end": 138.0,
       "text": " og nu er det sådan bottom-funnel, hvor argumentet er,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 138.0,
       "end": 142.0,
       "text": " at nu er det bare bottom-funnel-trafik, der bliver konverteret derinde,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 142.0,
       "end": 144.0,
       "text": " hvilket jo i begyndelsen var rigtig meget brand,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 144.0,
       "end": 149.0,
       "text": " som jo fyldte ekstremt meget for alle, der arbejdede med PPC,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 151.0,
       "end": 155.0,
       "text": " hvilket var lidt sjovt, fordi det var da ikke nogen, der stillede os hver eneste gang,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 155.0,
       "end": 158.0,
       "text": " at vi er i smart-shopping, som var sådan foregængeren for det,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 158.0,
       "end": 163.0,
       "text": " derfor at man PMAX kunne bare sables for at tage det der brandsøgninger.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 163.0,
       "end": 168.0,
       "text": " Og jeg kan huske, lige da Performance Max udkom, der var mange ting, vi ikke kunne se,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 168.0,
       "end": 171.0,
       "text": " vi kunne faktisk ikke se, hvilke platforme vores penge blev brugt på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 171.0,
       "end": 175.0,
       "text": " er det her search, eller display, eller YouTube, eller Gmail, det ved vi faktisk ikke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 175.0,
       "end": 178.0,
       "text": " vi kunne ikke se, hvor meget der var brand, og hvor meget der var non-brand,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.0,
       "end": 182.0,
       "text": " altså vi havde virkelig begrænset kendskab til det, til at starte med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 182.0,
       "end": 187.0,
       "text": " Hvorfor gik Google ud med et produkt, der var så intransparent?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.0,
       "end": 190.0,
       "text": " Var det en bog, eller var det i virkeligheden meningen, tror du?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 190.0,
       "end": 195.0,
       "text": " Jeg tror måske, de havde håbet på, at den ville blive taget lidt bedre imod.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 195.0,
       "end": 198.0,
       "text": " Hvorfor vi jo også lidt ser den her,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 198.0,
       "end": 201.0,
       "text": " igen, jeg vil ikke kalde det, at de ruller det tilbage,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 201.0,
       "end": 204.0,
       "text": " men folk gik jo amok over, at der ikke var kontrol over det,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 204.0,
       "end": 206.0,
       "text": " og så ville de nødt til at finde en anden løsning,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 206.0,
       "end": 210.0,
       "text": " eller noget, som så annoncørerne tog imod det.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 210.0,
       "end": 214.0,
       "text": " Det er jo trods alt vigtigt, hvis de gerne vil have folk bruge nogle penge på deres platform,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 214.0,
       "end": 216.0,
       "text": " så skal folk også tro det på.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 216.0,
       "end": 218.0,
       "text": " Jeg tror egentlig, det var meningen,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 218.0,
       "end": 222.0,
       "text": " at de gerne ville have, at det skulle være intransparent.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 222.0,
       "end": 227.0,
       "text": " Men man havde måske håbet på, at det havde blivet taget lidt bedre imod,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 227.0,
       "end": 232.0,
       "text": " at vi brugte 50% af vores kroner på display-netværket, men vidste det ikke.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 232.0,
       "end": 234.0,
       "text": " Jeg synes jo, Emil, det er sådan lidt sjovt,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 234.0,
       "end": 236.0,
       "text": " fordi hvis man følger historien fra PMAG,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 236.0,
       "end": 238.0,
       "text": " så går det fra, hvad den her black box,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 238.0,
       "end": 240.0,
       "text": " og der er det imod ikke stadigvæk,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 240.0,
       "end": 244.0,
       "text": " men vi har da trods alt fået åbnet op for nogle indsigter,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 244.0,
       "end": 248.0,
       "text": " for eksempel, hvad er det for nogle søgetermer, vi ligger og byder på via PMAG?",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 248.0,
       "end": 251.0,
       "text": " Hvad er det for nogle kanaler, vi bliver vist på osv.?",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 251.0,
       "end": 253.0,
       "text": " Det er ikke det fulde billede, vi får.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 253.0,
       "end": 255.0,
       "text": " Det er det trods alt ikke.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 255.0,
       "end": 258.0,
       "text": " Men når man kigger på hele den her rejse her,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 258.0,
       "end": 261.0,
       "text": " så har der jo også været en måde, hvorpå de fleste annoncører,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 261.0,
       "end": 263.0,
       "text": " nu skal jeg passe på, at jeg ikke tager alle over i en kamp,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 263.0,
       "end": 265.0,
       "text": " men de fleste annoncører har brugt PMAG på sådan en lidt sjov måde,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 265.0,
       "end": 267.0,
       "text": " sådan en lidt hækket måde.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 267.0,
       "end": 269.0,
       "text": " Jeg tror, de fleste, der har siddet med PMAG,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 269.0,
       "end": 272.0,
       "text": " kan ligge genkendende til en feed-only PMAG-kampagne.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 272.0,
       "end": 274.0,
       "text": " Vil du ikke prøve at sætte lidt ord på den her?",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 274.0,
       "end": 278.0,
       "text": " Fordi shoppingdelen er jo så vigtig i PMAG, hvis vi sådan snakker Ecom-mæssigt,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 278.0,
       "end": 280.0,
       "text": " fordi vi har noget standard shopping og noget smart shopping,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 280.0,
       "end": 283.0,
       "text": " så bliver det PMAG, så kører man feed-only osv.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 283.0,
       "end": 286.0,
       "text": " Helt den her seance, som jo er sådan lidt tragekomisk på en eller anden måde,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 286.0,
       "end": 288.0,
       "text": " vil du ikke prøve at sætte nogle ord på det?",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 288.0,
       "end": 290.0,
       "text": " Jo, det er jo virkelig sjovt.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 290.0,
       "end": 292.0,
       "text": " Altså, det var jo et kæmpe hæk, jo.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 292.0,
       "end": 294.0,
       "text": " Altså, i forhold til de der ting, man ikke kunne se osnoget,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 294.0,
       "end": 296.0,
       "text": " der gik jo ikke mange måneder,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 296.0,
       "end": 298.0,
       "text": " så var der jo scripts og alt muligt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 298.0,
       "end": 302.0,
       "text": " altså, hvor vi kunne trække, hvilke platformer, der fik spændt ind,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 302.0,
       "end": 305.0,
       "text": " og hvilke kanaler, der ligesom fik spændt.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 305.0,
       "end": 307.0,
       "text": " Og da vi fandt ud af, at okay, det er shopping,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 307.0,
       "end": 310.0,
       "text": " så begyndte man lidt at hække den der kampagnetype,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 310.0,
       "end": 314.0,
       "text": " sådan at bare ved at give et feed og ikke nogen assets,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 314.0,
       "end": 315.0,
       "text": " så kunne man køre feed-only.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 315.0,
       "end": 317.0,
       "text": " Og så var argumentet lidt på det tidspunkt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 317.0,
       "end": 319.0,
       "text": " var, så har vi egentlig en smart shopping.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 319.0,
       "end": 322.0,
       "text": " Så har vi en kampagne, der bruger det bedste for en rytme,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 322.0,
       "end": 326.0,
       "text": " og i øvrigt også afdækket retargetæg-netværket jo,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 326.0,
       "end": 328.0,
       "text": " som jo var en fordel for mange annoncer,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 328.0,
       "end": 330.0,
       "text": " der ikke havde et dedikeret retargetæg-setup.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 330.0,
       "end": 334.0,
       "text": " Superhækkede måde at gøre det på, og Google havde det.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 334.0,
       "end": 335.0,
       "text": " Nøj, så var meget.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 335.0,
       "end": 339.0,
       "text": " Så var der den ene og den anden udmeldning med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 339.0,
       "end": 341.0,
       "text": " at nu trækker vi det tilbage.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 341.0,
       "end": 342.0,
       "text": " Nu kan man ikke mere.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 342.0,
       "end": 344.0,
       "text": " Det var ikke sådan, det var meningen, der skulle bruges.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 346.0,
       "end": 351.0,
       "text": " Og fast forward, altså, det hele kulminerer jo også,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 351.0,
       "end": 353.0,
       "text": " så vi kommer måske ind på det igen,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 353.0,
       "end": 357.0,
       "text": " men det hele kulminerer jo også med, at vi ligesom siger,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 357.0,
       "end": 362.0,
       "text": " PMAX har ikke uber-rank-prioritet, som de jo havde før,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 362.0,
       "end": 363.0,
       "text": " over standard shopping.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 363.0,
       "end": 369.0,
       "text": " Nu er det AdRank, der afgør det mellem standard shopping og PMAX,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 369.0,
       "end": 372.0,
       "text": " hvilket jo var ekstremt sjovt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 372.0,
       "end": 375.0,
       "text": " fordi så kunne man jo tydeligt se,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 375.0,
       "end": 378.0,
       "text": " hvilken kampagnetype, der vandt de der auktioner.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 379.0,
       "end": 381.0,
       "text": " Og så skete der noget andet interessant her for nylig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 383.0,
       "text": " og det var det tweet, jeg oprindelig sendte til dig, Emil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 383.0,
       "end": 385.0,
       "text": " der startede den her episode,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 385.0,
       "end": 389.0,
       "text": " som var, at Google nu går ind i PMAX og opdeler det mellem kanaler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 389.0,
       "end": 393.0,
       "text": " så du nu rent faktisk i PMAX kan i en eller anden grad vælge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 393.0,
       "end": 396.0,
       "text": " om du vil have Discopper og Gmail og Display og Search",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 396.0,
       "end": 398.0,
       "text": " og Search Partners og Maps og YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 401.0,
       "text": " Så det vil sige, du kan faktisk nu lave en PMAX-kampagne",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 401.0,
       "end": 403.0,
       "text": " og vælge alle de dårlige placeringer fra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 403.0,
       "end": 408.0,
       "text": " Og min konspirationsteori er jo, at de lavede PMAX til at starte med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 408.0,
       "end": 410.0,
       "text": " fordi de havde en del af deres forretning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 410.0,
       "end": 413.0,
       "text": " notably Search, som var enormt godt monetized,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 413.0,
       "end": 415.0,
       "text": " den bedste forretningsmodel på internettet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 415.0,
       "end": 416.0,
       "text": " måske i verdenshistorien.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 416.0,
       "end": 420.0,
       "text": " Højt monetized, højt CPM, højt CPC, enormt profitabel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 420.0,
       "end": 422.0,
       "text": " Så havde de rigtig mange dårlige placeringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 423.0,
       "text": " som folk ikke gad købe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 423.0,
       "end": 425.0,
       "text": " Vi kan sige, i flæng, generally speaking,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 425.0,
       "end": 426.0,
       "text": " der var ikke nogen, der gad købe Display,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 427.0,
       "text": " der var ikke nogen, der gad købe Gmail,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 427.0,
       "end": 429.0,
       "text": " der var ikke nogen, der gad købe Maps.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 431.0,
       "text": " Så hvordan får vi annoncererne til at bruge nogle flere penge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 431.0,
       "end": 433.0,
       "text": " på vores dårligst monetized platform?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 433.0,
       "end": 435.0,
       "text": " Det gør vi ved at fjerne transparensen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 436.0,
       "text": " og sige, nu er det en samlet pulje,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 436.0,
       "end": 438.0,
       "text": " fordi hvis du har en del af dit budget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 439.0,
       "text": " der er meget mere profitabel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " end du i virkeligheden har behov for,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " og en anden del, der er meget mindre profitabel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " så kan det være, at vi kan udjevne de to,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 445.0,
       "end": 446.0,
       "text": " så du er samlet set tilfreds,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 446.0,
       "end": 449.0,
       "text": " men nu får vi monetized vores dårlige platform bedre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 449.0,
       "end": 451.0,
       "text": " Og Mesa er jo også skyldig i det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " de kalder det Advantage Plus,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 454.0,
       "text": " og det er årsagen til, at vores annoncer",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 454.0,
       "end": 456.0,
       "text": " ligger i right hand side på threads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " på alle mulige placeringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 459.0,
       "text": " hvor vi ikke har lyst til at have dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 459.0,
       "end": 461.0,
       "text": " hvor vi også har mulighed for at vælge dem fra,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 461.0,
       "end": 463.0,
       "text": " men den mulighed forsvinder så rent faktisk snart,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 463.0,
       "end": 464.0,
       "text": " hvis vi gør det med value rules.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 464.0,
       "end": 466.0,
       "text": " Så det er både Mesa og Google, der gør det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 466.0,
       "end": 467.0,
       "text": " skal jeg jo lige sige.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 467.0,
       "end": 468.0,
       "text": " Jamen det er jo fuld funnel halvstand.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 468.0,
       "end": 469.0,
       "text": " Det er fuld funnel halvstand.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 469.0,
       "end": 470.0,
       "text": " Det er fuld funnel halvstand.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 470.0,
       "end": 471.0,
       "text": " Det er fuld funnel halvstand.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 471.0,
       "end": 472.0,
       "text": " Hold kæft, hver gang man har hørt,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 472.0,
       "end": 473.0,
       "text": " at det er en god uddannelse.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 473.0,
       "end": 474.0,
       "text": " Det er the great part of the funnel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 474.0,
       "end": 475.0,
       "text": " and the shitty part of the funnel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 475.0,
       "end": 476.0,
       "text": " Nu får du det hele.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 476.0,
       "end": 477.0,
       "text": " Det er ikke lower og upper,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 477.0,
       "end": 479.0,
       "text": " det er bare god og dårligt, der er blandet sammen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 479.0,
       "end": 481.0,
       "text": " Hvad siger du til den, Emil?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " Er det ikke sådan lidt dødstød til PMAX,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 483.0,
       "end": 484.0,
       "text": " at du nu faktisk bare kan vælge",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 484.0,
       "end": 485.0,
       "text": " alle de dårlige placeringer fra?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 485.0,
       "end": 487.0,
       "text": " Er det ikke bare standard shopping igen nu?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 487.0,
       "end": 488.0,
       "text": " Det bliver...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 488.0,
       "end": 490.0,
       "text": " Nej, men det er jo bare sådan en...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 490.0,
       "end": 491.0,
       "text": " Og det sjove er jo,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 491.0,
       "end": 493.0,
       "text": " at folk har jo skrædt efter kontrol.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 493.0,
       "end": 495.0,
       "text": " Altså i så mange år har man...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 495.0,
       "end": 496.0,
       "text": " Altså folk er gået helt nok...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 496.0,
       "end": 499.0,
       "text": " Jeg vil bare gerne gå og sætte targets på asset groups.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 499.0,
       "end": 500.0,
       "text": " Jeg er ligeglad med det der.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 500.0,
       "end": 501.0,
       "text": " Altså det er bare sådan...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 501.0,
       "end": 502.0,
       "text": " Vi kunne starte med det.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 502.0,
       "end": 504.0,
       "text": " Altså det ved jeg ikke, men...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 504.0,
       "end": 505.0,
       "text": " Men det sjove er jo,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 505.0,
       "end": 507.0,
       "text": " at folk har skrædt på kontrol,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 507.0,
       "end": 508.0,
       "text": " og nu har vi så fået det.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 508.0,
       "end": 510.0,
       "text": " Og hvad kommer der til at ske?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 510.0,
       "end": 511.0,
       "text": " Der kommer til at ske det,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 511.0,
       "end": 512.0,
       "text": " at der er nogen, der kommer til at tænke,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 512.0,
       "end": 514.0,
       "text": " okay, så skruer vi ned for Gmail og Discover,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 514.0,
       "end": 516.0,
       "text": " og så kører vi bare...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 516.0,
       "end": 517.0,
       "text": " Det er det første, jeg gør.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 517.0,
       "end": 518.0,
       "text": " Det er det første, jeg gør, det der.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 518.0,
       "end": 519.0,
       "text": " Præcis.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 519.0,
       "end": 520.0,
       "text": " Og det er jo sådan lidt...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 520.0,
       "end": 521.0,
       "text": " Hvorfor...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 521.0,
       "end": 522.0,
       "text": " Hvorfor...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 522.0,
       "end": 523.0,
       "text": " Hvorfor har vi...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 523.0,
       "end": 524.0,
       "text": " Hvorfor så kører en PMAX?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 524.0,
       "end": 526.0,
       "text": " Også fordi Google mister jo...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 526.0,
       "end": 528.0,
       "text": " Google mister jo så deres benefit af,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 528.0,
       "end": 529.0,
       "text": " at det er det der.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 529.0,
       "end": 530.0,
       "text": " Og by the way,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 530.0,
       "end": 531.0,
       "text": " det er jo lower funnel.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 531.0,
       "end": 532.0,
       "text": " PMAX er jo ikke food funnel,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 532.0,
       "end": 533.0,
       "text": " forhåbentlig.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 533.0,
       "end": 534.0,
       "text": " Men...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 534.0,
       "end": 535.0,
       "text": " Men...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 535.0,
       "end": 536.0,
       "text": " Men altså...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 536.0,
       "end": 537.0,
       "text": " Så...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 537.0,
       "end": 538.0,
       "text": " Men...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 538.0,
       "end": 539.0,
       "text": " Men de mister jo så",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 539.0,
       "end": 541.0,
       "text": " de penge, du ville bruge på Gmail eller Discover,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 541.0,
       "end": 543.0,
       "text": " men halvstandet...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 543.0,
       "end": 545.0,
       "text": " Google er jo way ahead.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 545.0,
       "end": 547.0,
       "text": " Fordi de har jo allerede lavet et produkt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 547.0,
       "end": 549.0,
       "text": " der jo så bare kommer til at gøre det,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 549.0,
       "end": 551.0,
       "text": " som PMAX gjorde.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 551.0,
       "end": 552.0,
       "text": " De har jo rullet...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 552.0,
       "end": 553.0,
       "text": " Hvad er det?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 553.0,
       "end": 555.0,
       "text": " Demandian kommer jo til at overtage",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 555.0,
       "end": 556.0,
       "text": " display-netværket.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 556.0,
       "end": 558.0,
       "text": " Og Demandian er jo bare den nye...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 558.0,
       "end": 560.0,
       "text": " Altså Demandian er jo ligesom",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 560.0,
       "end": 562.0,
       "text": " PMAX genfødsel.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 562.0,
       "end": 563.0,
       "text": " Jeg tror, det er sådan lidt...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 563.0,
       "end": 564.0,
       "text": " Jeg tror, de har siddet i et lokal,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 564.0,
       "end": 565.0,
       "text": " de der Google-folk,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 565.0,
       "end": 566.0,
       "text": " og har tænkt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 566.0,
       "end": 567.0,
       "text": " okay, folk, slup det kild,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 567.0,
       "end": 568.0,
       "text": " den der PMAX.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 568.0,
       "end": 570.0,
       "text": " Nu har vi prøvet at overtale dem i et par år.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 570.0,
       "end": 572.0,
       "text": " Nu prøver vi lige igen...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 572.0,
       "end": 573.0,
       "text": " Jeg tror, de er klar nu.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 573.0,
       "end": 575.0,
       "text": " Nu har vi sagt AI som headliner",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 575.0,
       "end": 577.0,
       "text": " i alle vores ting i to år.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 577.0,
       "end": 578.0,
       "text": " Så nu er de klar.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 578.0,
       "end": 579.0,
       "text": " Altså genialt.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 579.0,
       "end": 581.0,
       "text": " Og det er genialt jo,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 581.0,
       "end": 582.0,
       "text": " fordi nu kommer folk til...",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 582.0,
       "end": 583.0,
       "text": " Folk skal nok bruge penge.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 583.0,
       "end": 585.0,
       "text": " Google er jo ikke den første virksomhed,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 585.0,
       "end": 586.0,
       "text": " der tager en forretningsmodel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 586.0,
       "end": 587.0,
       "text": " der ikke har fungeret,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 588.0,
       "text": " putter AI foran,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 588.0,
       "end": 589.0,
       "text": " og så prøver igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 590.0,
       "text": " Og nok kommer til at lykkes med den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 590.0,
       "end": 592.0,
       "text": " Og jeg kan faktisk godt lide den framing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 593.0,
       "text": " Fordi jeg kan godt mærke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 593.0,
       "end": 594.0,
       "text": " PMAX, det snakker vi ikke så meget om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 595.0,
       "text": " Også de ting, jeg hører fra Google,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 596.0,
       "text": " og de ting, jeg ser fra Google,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 596.0,
       "end": 597.0,
       "text": " når vi er på at møde os sammen",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 597.0,
       "end": 598.0,
       "text": " med vores kunder osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 598.0,
       "end": 599.0,
       "text": " De snakker om to ting for mig lige nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 599.0,
       "end": 600.0,
       "text": " Det ene det er YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 600.0,
       "end": 601.0,
       "text": " Jeg kan mærke,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 601.0,
       "end": 603.0,
       "text": " de vil rigtig gerne sælge noget YouTube.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 603.0,
       "end": 604.0,
       "text": " Jeg vil helst ikke købe det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 604.0,
       "end": 605.0,
       "text": " på de vilkår,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 605.0,
       "end": 606.0,
       "text": " men de vil rigtig gerne sælge det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 606.0,
       "end": 607.0,
       "text": " Den anden ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 607.0,
       "end": 608.0,
       "text": " det er demantien,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 608.0,
       "end": 609.0,
       "text": " som der bliver snakket rigtig meget om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 609.0,
       "end": 610.0,
       "text": " Og jeg havde faktisk spekuleret på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 610.0,
       "end": 612.0,
       "text": " altså når I snakker om demantien,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 612.0,
       "end": 614.0,
       "text": " er det konceptuelt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 615.0,
       "text": " Eller er det sådan,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 615.0,
       "end": 616.0,
       "text": " fordi vi skal spørge lidt af demantien.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 616.0,
       "end": 618.0,
       "text": " Det er det, vi er her for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 621.0,
       "text": " Eller er det funktionen demantien,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 621.0,
       "end": 622.0,
       "text": " vi snakker om, eller hvad?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 622.0,
       "end": 623.0,
       "text": " Og nu forstår jeg,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 623.0,
       "end": 625.0,
       "text": " det er så aftageren til PMAX,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 625.0,
       "end": 626.0,
       "text": " vi snakker om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 626.0,
       "end": 627.0,
       "text": " Ja, det tror jeg lidt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 627.0,
       "end": 629.0,
       "text": " Du må ikke quote mig for den.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 629.0,
       "end": 630.0,
       "text": " Jeg tror lidt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 630.0,
       "end": 631.0,
       "text": " der er lidt sådan en.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 631.0,
       "end": 632.0,
       "text": " Du må ikke quote mig for den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 632.0,
       "end": 633.0,
       "text": " sagde han på podcastet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 633.0,
       "end": 635.0,
       "text": " der blev løbet til 3.000-4.000 gange hver uge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 640.0,
       "end": 641.0,
       "text": " Jeg føler lidt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 641.0,
       "end": 642.0,
       "text": " at de prøvede med PMAX,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 642.0,
       "end": 644.0,
       "text": " og nu har de givet folk noget kontrol,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 644.0,
       "end": 645.0,
       "text": " og der er nogen, der bruger det.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 645.0,
       "end": 646.0,
       "text": " Det er jo heller ikke,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 646.0,
       "end": 647.0,
       "text": " fordi alt det der,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 647.0,
       "end": 648.0,
       "text": " jeg hater ikke.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 648.0,
       "end": 649.0,
       "text": " PMAX er bare sådan,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 649.0,
       "end": 650.0,
       "text": " det er fint,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 650.0,
       "end": 651.0,
       "text": " men det er bare sådan,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 651.0,
       "end": 653.0,
       "text": " den der fundamentale ting,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 653.0,
       "end": 654.0,
       "text": " det skulle have været,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 654.0,
       "end": 656.0,
       "text": " som var intentionen,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 656.0,
       "end": 657.0,
       "text": " det bliver det bare ikke.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 657.0,
       "end": 658.0,
       "text": " Det bliver det aldrig.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 658.0,
       "end": 660.0,
       "text": " Og det skal det heller ikke.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 660.0,
       "end": 661.0,
       "text": " Der er meget bedre.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 661.0,
       "end": 662.0,
       "text": " Hvis du gerne vil køre,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 662.0,
       "end": 663.0,
       "text": " som jeg også skrev,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 663.0,
       "end": 664.0,
       "text": " hvis du gerne vil køre,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 664.0,
       "end": 666.0,
       "text": " hvis du har lavet en fed YouTube-video,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 666.0,
       "end": 668.0,
       "text": " og du har brugt 100.000 på at producere den,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 668.0,
       "end": 669.0,
       "text": " med creators,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 669.0,
       "end": 670.0,
       "text": " og optager,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 670.0,
       "end": 671.0,
       "text": " og shoots,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 671.0,
       "end": 672.0,
       "text": " og hvad ved jeg,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 672.0,
       "end": 674.0,
       "text": " så lav en video-kampagne.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 674.0,
       "end": 675.0,
       "text": " Altså,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 675.0,
       "end": 678.0,
       "text": " så lav en kampagne for den video,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 678.0,
       "end": 679.0,
       "text": " så man ved,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 679.0,
       "end": 680.0,
       "text": " at den bliver brugt penge på den.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 680.0,
       "end": 681.0,
       "text": " Det her med,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 681.0,
       "end": 682.0,
       "text": " at Google,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 682.0,
       "end": 683.0,
       "text": " de går ind og forsøger,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 683.0,
       "end": 684.0,
       "text": " at fylde noget af deres,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 684.0,
       "end": 685.0,
       "text": " lad os sige,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 685.0,
       "end": 686.0,
       "text": " dårlige inventory,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 686.0,
       "end": 687.0,
       "text": " den køber jeg.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 687.0,
       "end": 688.0,
       "text": " Men hvis vi skal prøve,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 688.0,
       "end": 689.0,
       "text": " at tage en anden hat på,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 689.0,
       "end": 690.0,
       "text": " og det her,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 690.0,
       "end": 691.0,
       "text": " det er sådan en lille tese,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 691.0,
       "end": 692.0,
       "text": " jeg har haft,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 692.0,
       "end": 693.0,
       "text": " i løbet af de seneste,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 693.0,
       "end": 694.0,
       "text": " det er efterhånden mange år nu,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 694.0,
       "end": 696.0,
       "text": " fordi spørgsmålet er egentlig,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 696.0,
       "end": 698.0,
       "text": " er vi som annoncører på Google Ads,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 698.0,
       "end": 700.0,
       "text": " også for dårlige til at tilpasse os,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 700.0,
       "end": 701.0,
       "text": " den nye måde?",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 701.0,
       "end": 702.0,
       "text": " Altså, hvis man sådan kigger,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 702.0,
       "end": 703.0,
       "text": " sådan meget, meget,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 703.0,
       "end": 704.0,
       "text": " sådan sat lidt på spidsen,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 704.0,
       "end": 705.0,
       "text": " lidt firkantet set,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 705.0,
       "end": 706.0,
       "text": " så Google Ads folk,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 706.0,
       "end": 707.0,
       "text": " har historisk set,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 707.0,
       "end": 708.0,
       "text": " været datafolk,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 708.0,
       "end": 709.0,
       "text": " de elsker at nørde ned i tallene,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 709.0,
       "end": 710.0,
       "text": " og så videre.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 710.0,
       "end": 711.0,
       "text": " De har ikke været,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 711.0,
       "end": 712.0,
       "text": " de kreative folk,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 712.0,
       "end": 713.0,
       "text": " som man kender derovre fra meta,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 713.0,
       "end": 714.0,
       "text": " hvor man er vant til at arbejde med,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 714.0,
       "end": 715.0,
       "text": " ad creatives,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 715.0,
       "end": 716.0,
       "text": " med videre.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 716.0,
       "end": 717.0,
       "text": " Og det tror jeg altså ikke,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 717.0,
       "end": 718.0,
       "text": " jeg træder nogen år til,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 718.0,
       "end": 719.0,
       "text": " er jeg ved at sige,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 719.0,
       "end": 720.0,
       "text": " fordi jeg kommer selv fra,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 720.0,
       "end": 721.0,
       "text": " Google Ads delen af.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 721.0,
       "end": 722.0,
       "text": " Men når du kigger på,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 722.0,
       "end": 723.0,
       "text": " PMAX kampagner,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 723.0,
       "end": 724.0,
       "text": " nu Emil,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 724.0,
       "end": 725.0,
       "text": " vi har imod væk set,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 725.0,
       "end": 726.0,
       "text": " mange PMAX kampagner.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 726.0,
       "end": 727.0,
       "text": " De kan jo tælles på en hånd,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 727.0,
       "end": 728.0,
       "text": " hvor mange af dem,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 728.0,
       "end": 729.0,
       "text": " der rent faktisk er sat,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 729.0,
       "end": 730.0,
       "text": " i gåsøjne rigtigt op,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 730.0,
       "end": 731.0,
       "text": " hvor man rent faktisk,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 731.0,
       "end": 732.0,
       "text": " har uploadet x antal videoer.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 732.0,
       "end": 733.0,
       "text": " Her tænker jeg på,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 733.0,
       "end": 734.0,
       "text": " de her aktiver,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 734.0,
       "end": 735.0,
       "text": " og billeder osv.,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 735.0,
       "end": 736.0,
       "text": " som man rent faktisk,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 736.0,
       "end": 737.0,
       "text": " får,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 737.0,
       "end": 738.0,
       "text": " Google vil jo nok sige,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 738.0,
       "end": 739.0,
       "text": " fuld udbytte,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 739.0,
       "end": 740.0,
       "text": " af den her kampagne for dem.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 740.0,
       "end": 741.0,
       "text": " Men det er jo en helt udstilling,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 741.0,
       "end": 742.0,
       "text": " af tankegangen for,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 742.0,
       "end": 743.0,
       "text": " Google Ads folk,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 743.0,
       "end": 744.0,
       "text": " at skulle sidde og tænke,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 744.0,
       "end": 745.0,
       "text": " i de her,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 745.0,
       "end": 746.0,
       "text": " kreative baner.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 746.0,
       "end": 747.0,
       "text": " Ikke fordi Google Ads folk,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 747.0,
       "end": 748.0,
       "text": " ikke er kreative,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 748.0,
       "end": 749.0,
       "text": " men creatives.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 749.0,
       "end": 750.0,
       "text": " Det er jo en eksplosion,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 750.0,
       "end": 751.0,
       "text": " af ting man pludselig,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 751.0,
       "end": 752.0,
       "text": " skal forholde sig til.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 752.0,
       "end": 753.0,
       "text": " Hvor man tidligere,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 753.0,
       "end": 754.0,
       "text": " måske kiggede meget på,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 754.0,
       "end": 755.0,
       "text": " og data,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 755.0,
       "end": 756.0,
       "text": " hardcore data,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 756.0,
       "end": 757.0,
       "text": " med videre.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 757.0,
       "end": 758.0,
       "text": " Jeg kan ikke lade mig sidde,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 758.0,
       "end": 759.0,
       "text": " og tænke på om,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 759.0,
       "end": 760.0,
       "text": " der er jo ikke nogen tvivl om,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 760.0,
       "end": 761.0,
       "text": " hvilken vej,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 761.0,
       "end": 762.0,
       "text": " hvilken retning,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 762.0,
       "end": 763.0,
       "text": " det her det går i.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 763.0,
       "end": 764.0,
       "text": " Men om der måske også er,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 764.0,
       "end": 765.0,
       "text": " sådan en langsom transformation,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 765.0,
       "end": 766.0,
       "text": " i det at være,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 766.0,
       "end": 767.0,
       "text": " Google Ads mand.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 767.0,
       "end": 768.0,
       "text": " Altså at det simpelthen,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 768.0,
       "end": 769.0,
       "text": " får en anden betydning,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 769.0,
       "end": 770.0,
       "text": " fordi vi også skal tænke,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 770.0,
       "end": 771.0,
       "text": " video, billeder,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 771.0,
       "end": 772.0,
       "text": " altså alle de her,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 772.0,
       "end": 773.0,
       "text": " asset groups,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 773.0,
       "end": 774.0,
       "text": " vi nu engang uploader.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 774.0,
       "end": 775.0,
       "text": " Men det kan også være,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 775.0,
       "end": 776.0,
       "text": " det er helt ved siden af.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 776.0,
       "end": 777.0,
       "text": " Nej, det tror jeg slet ikke,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 777.0,
       "end": 778.0,
       "text": " er ved siden af.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 778.0,
       "end": 779.0,
       "text": " Det er sådan en,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 779.0,
       "end": 780.0,
       "text": " naturlig udvikling.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 781.0,
       "end": 782.0,
       "text": " Jeg tror, man er også nødt til,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 782.0,
       "end": 783.0,
       "text": " at omfavne det.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 783.0,
       "end": 784.0,
       "text": " Altså jeg køber heller ikke,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 784.0,
       "end": 785.0,
       "text": " den der med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 785.0,
       "end": 786.0,
       "text": " at man bare afviser,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 786.0,
       "end": 787.0,
       "text": " alt nyt, der kommer ud.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 787.0,
       "end": 788.0,
       "text": " Google Ads var også nyt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 788.0,
       "end": 789.0,
       "text": " på et tidspunkt jo.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 789.0,
       "end": 790.0,
       "text": " Altså det er sådan,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 790.0,
       "end": 791.0,
       "text": " så det også.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 791.0,
       "end": 792.0,
       "text": " Så man er nødt til,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 792.0,
       "end": 793.0,
       "text": " at have det lidt kritiske,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 793.0,
       "end": 794.0,
       "text": " men også lidt selvindsigt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 794.0,
       "end": 795.0,
       "text": " og finde ud af,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 795.0,
       "end": 796.0,
       "text": " hvad skal man gøre,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 796.0,
       "end": 797.0,
       "text": " med de nye ting, de laver.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 797.0,
       "end": 798.0,
       "text": " Og jeg tror, du har ret i,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 798.0,
       "end": 799.0,
       "text": " at det der med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 799.0,
       "end": 800.0,
       "text": " også med at købe server,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 800.0,
       "end": 801.0,
       "text": " det tror jeg ikke måske,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 801.0,
       "end": 802.0,
       "text": " vi gør om 10 år.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 802.0,
       "end": 803.0,
       "text": " Der køber man nok en intent.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 803.0,
       "end": 804.0,
       "text": " Det bliver nok på,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 804.0,
       "end": 805.0,
       "text": " det bliver en anden slags,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 810.0,
       "end": 811.0,
       "text": " Det betyder ikke,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 811.0,
       "end": 812.0,
       "text": " at det der med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 812.0,
       "end": 813.0,
       "text": " at holde øje med klikpriser,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 813.0,
       "end": 814.0,
       "text": " og sådan noget,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 814.0,
       "end": 815.0,
       "text": " og efterspørge,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 815.0,
       "end": 816.0,
       "text": " at det forsvinder.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 816.0,
       "end": 817.0,
       "text": " Det er sådan fundamentet af,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 817.0,
       "end": 818.0,
       "text": " at forstå,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 818.0,
       "end": 819.0,
       "text": " hvordan hele den her,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 819.0,
       "end": 820.0,
       "text": " annonceplatform fungerer.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 820.0,
       "end": 823.0,
       "text": " Men det bliver meget mere sådan,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 823.0,
       "end": 825.0,
       "text": " jeg vil ikke sige,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 825.0,
       "end": 827.0,
       "text": " at acceptere ting, der sker,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 827.0,
       "end": 829.0,
       "text": " men stole lidt på,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 829.0,
       "end": 830.0,
       "text": " at hvis du har en intent,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 830.0,
       "end": 831.0,
       "text": " så er det godt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 831.0,
       "end": 832.0,
       "text": " at den er også god nok,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 832.0,
       "end": 833.0,
       "text": " til at holde en intent.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 833.0,
       "end": 834.0,
       "text": " Det tror jeg, folk ender med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 834.0,
       "end": 835.0,
       "text": " at blive nødt til at gøre,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 835.0,
       "end": 836.0,
       "text": " om 10 år.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 836.0,
       "end": 837.0,
       "text": " Så tror jeg ikke,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 837.0,
       "end": 838.0,
       "text": " man har noget valg.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 838.0,
       "end": 839.0,
       "text": " Men lad os se.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 839.0,
       "end": 840.0,
       "text": " Hvad er det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 840.0,
       "end": 841.0,
       "text": " der kommer til at afgøre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 841.0,
       "end": 843.0,
       "text": " en Google Ads kampagnes effektivitet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 843.0,
       "end": 844.0,
       "text": " i fremtiden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 844.0,
       "end": 845.0,
       "text": " hvis du kigger på den person,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 845.0,
       "end": 846.0,
       "text": " der skal sætte den op?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 846.0,
       "end": 847.0,
       "text": " Og vi har allerede været lidt inde på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 847.0,
       "end": 848.0,
       "text": " men et gennemgående tema,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 848.0,
       "end": 849.0,
       "text": " vi også taler meget om,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 849.0,
       "end": 850.0,
       "text": " det er, hvordan AI ændrer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 850.0,
       "end": 851.0,
       "text": " hvordan vi arbejder med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 851.0,
       "end": 852.0,
       "text": " de forskellige marketingkanaler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 852.0,
       "end": 853.0,
       "text": " og ændrer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 853.0,
       "end": 854.0,
       "text": " hvilke kompetencer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 854.0,
       "end": 855.0,
       "text": " det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 855.0,
       "end": 856.0,
       "text": " man selv skal have,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 856.0,
       "end": 857.0,
       "text": " kontra hvad man kan udlicitere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 857.0,
       "end": 858.0,
       "text": " til en maskine,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 858.0,
       "end": 859.0,
       "text": " som gør det bedre end en selv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 859.0,
       "end": 860.0,
       "text": " Det helt oplagte eksempel,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 860.0,
       "end": 861.0,
       "text": " vil være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 861.0,
       "end": 862.0,
       "text": " hvis man kunne trække alle dages ud,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 862.0,
       "end": 863.0,
       "text": " og lade AI analysere den,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 863.0,
       "end": 864.0,
       "text": " i forhold til at finde mønstre i,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 864.0,
       "end": 865.0,
       "text": " hvad der fungerer godt og skidt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 865.0,
       "end": 866.0,
       "text": " ville den nok gøre bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 866.0,
       "end": 867.0,
       "text": " end et menneske ville gøre.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 867.0,
       "end": 868.0,
       "text": " Omvendt at forstå intentionen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 868.0,
       "end": 869.0,
       "text": " bag et søgeord,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 869.0,
       "end": 871.0,
       "text": " kan være sværere for en AI,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 871.0,
       "end": 873.0,
       "text": " fordi et ord kan besyde flere ting,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 873.0,
       "end": 874.0,
       "text": " afhængig af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 874.0,
       "end": 875.0,
       "text": " hvilken kontekst,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 875.0,
       "end": 876.0,
       "text": " det rent faktisk står i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 876.0,
       "end": 877.0,
       "text": " Så Emil,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 877.0,
       "end": 878.0,
       "text": " når du ser lidt fremad ud i tiden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 878.0,
       "end": 879.0,
       "text": " med de algoritmeændringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 879.0,
       "end": 880.0,
       "text": " der er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 880.0,
       "end": 881.0,
       "text": " og Google,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 881.0,
       "end": 882.0,
       "text": " der kommer med nye tiltag,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 882.0,
       "end": 883.0,
       "text": " og fjerner dem igen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 883.0,
       "end": 884.0,
       "text": " hvad er det så for nogle kompetencer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 884.0,
       "end": 885.0,
       "text": " der afgør,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 885.0,
       "end": 886.0,
       "text": " om man i virkeligheden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 887.0,
       "end": 888.0,
       "text": " Den første,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 888.0,
       "end": 889.0,
       "text": " altså den ene,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 889.0,
       "end": 890.0,
       "text": " der ikke kommer til at ændre sig,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 890.0,
       "end": 891.0,
       "text": " det er sådan noget med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 891.0,
       "end": 892.0,
       "text": " sådan data forståelse.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 892.0,
       "end": 893.0,
       "text": " Det tror jeg altid,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 893.0,
       "end": 894.0,
       "text": " kommer til at være en kompetence,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 894.0,
       "end": 895.0,
       "text": " man skal have,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 895.0,
       "end": 896.0,
       "text": " som Google Ads specialist.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 896.0,
       "end": 897.0,
       "text": " En anden ting,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 897.0,
       "end": 898.0,
       "text": " jeg tror man kommer til at skulle have,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 898.0,
       "end": 899.0,
       "text": " er,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 899.0,
       "end": 900.0,
       "text": " også nu,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 900.0,
       "end": 901.0,
       "text": " men sådan noget med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 901.0,
       "end": 902.0,
       "text": " at være omstillingsparat,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 902.0,
       "end": 904.0,
       "text": " og kunne omstille sig,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 904.0,
       "end": 905.0,
       "text": " de nye ting,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 905.0,
       "end": 906.0,
       "text": " og især om 10-20 år.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 906.0,
       "end": 909.0,
       "text": " Det bliver en vigtig evne at have.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 909.0,
       "end": 911.0,
       "text": " Så er det måske svært,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 911.0,
       "end": 913.0,
       "text": " at komme med sådan en one-liner,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 913.0,
       "end": 914.0,
       "text": " på hvad kompetencen hedder,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 914.0,
       "end": 915.0,
       "text": " men det her med at arbejde med AI,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 916.0,
       "end": 917.0,
       "text": " i et større forstand,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 917.0,
       "end": 919.0,
       "text": " det bliver en ekstremt vigtig kompetence,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 919.0,
       "end": 920.0,
       "text": " overhovedsæt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 920.0,
       "end": 921.0,
       "text": " hos en Google Ads specialist.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 923.0,
       "end": 925.0,
       "text": " Og måske også lære at forstå,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 925.0,
       "end": 926.0,
       "text": " nu siger du det der med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 926.0,
       "end": 928.0,
       "text": " jamen den kan måske analysere data,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 928.0,
       "end": 929.0,
       "text": " en hurtigere.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 929.0,
       "end": 930.0,
       "text": " Så bliver der så spørgsmålet om,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 930.0,
       "end": 931.0,
       "text": " hvordan analyserer vi den,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 931.0,
       "end": 933.0,
       "text": " så man får mest udbytte af det,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 933.0,
       "end": 934.0,
       "text": " også over for kunden,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 934.0,
       "end": 936.0,
       "text": " og den der skal sidde og arbejde med det,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 936.0,
       "end": 938.0,
       "text": " det bliver vigtigt for alle.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 939.0,
       "end": 940.0,
       "text": " Og så tror jeg også,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 940.0,
       "end": 941.0,
       "text": " altså i takt med,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 941.0,
       "end": 943.0,
       "text": " at der er mange manuelle processer,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 943.0,
       "end": 945.0,
       "text": " der går hen og bliver lidt hurtigere,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 945.0,
       "end": 946.0,
       "text": " altså smart det er det ikke,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 946.0,
       "end": 947.0,
       "text": " nu har det været en ting i lang tid,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 947.0,
       "end": 950.0,
       "text": " men det kommer nok at udvikle sig yderligere.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 952.0,
       "end": 953.0,
       "text": " Og derfor,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 953.0,
       "end": 955.0,
       "text": " så er man jo også nødt til at indstille sig på,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 955.0,
       "end": 958.0,
       "text": " at man skal trække nogle andre kaniner op af hatten,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 958.0,
       "end": 959.0,
       "text": " altså du er nødt til,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 959.0,
       "end": 960.0,
       "text": " udover at være dygtig til at forstå tal,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 960.0,
       "end": 962.0,
       "text": " så bliver du også i stigende grad nødt til,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 962.0,
       "end": 964.0,
       "text": " at kunne forstå andre platform.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 964.0,
       "end": 966.0,
       "text": " F.eks. forstå den der,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 966.0,
       "end": 969.0,
       "text": " Advantage Plus annonce i højre side,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 969.0,
       "end": 971.0,
       "text": " altså du er nødt til at forstå,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 971.0,
       "end": 972.0,
       "text": " hvor det kommer fra,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 972.0,
       "end": 974.0,
       "text": " forstå annoncerlændskabet på en anden måde,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 974.0,
       "end": 975.0,
       "text": " for at forstå,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 975.0,
       "end": 977.0,
       "text": " hvordan de forskellige kanaler spiller sammen.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 977.0,
       "end": 979.0,
       "text": " Det bliver en stor del af at være",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 979.0,
       "end": 981.0,
       "text": " paid specialist generelt tror jeg,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 981.0,
       "end": 983.0,
       "text": " at man kan forstå de andre platforme.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 984.0,
       "end": 986.0,
       "text": " Og det,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 986.0,
       "end": 987.0,
       "text": " det er jo godt,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 987.0,
       "end": 988.0,
       "text": " tænker jeg jo,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 988.0,
       "end": 989.0,
       "text": " fordi det betyder jo også,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 989.0,
       "end": 991.0,
       "text": " man ender med nogle specialister,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 991.0,
       "end": 993.0,
       "text": " der hvis man vil det bedste,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 993.0,
       "end": 995.0,
       "text": " har en lidt bedre forretningsforståelse.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 996.0,
       "end": 999.0,
       "text": " Og det er jo nice,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 999.0,
       "end": 1001.0,
       "text": " tænker jeg for de fleste annoncerer.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1002.0,
       "end": 1004.0,
       "text": " Jeg er på falderabet, Emil.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1004.0,
       "end": 1005.0,
       "text": " Jeg har et sidste spørgsmål.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1005.0,
       "end": 1007.0,
       "text": " Hvis man som lytter sidder og lytter med,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1007.0,
       "end": 1009.0,
       "text": " og man kigger på sin egen Google Ads konto,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1009.0,
       "end": 1011.0,
       "text": " og er lidt træt af de PMAX kampagner,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1011.0,
       "end": 1012.0,
       "text": " der kører,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1012.0,
       "end": 1015.0,
       "text": " men man har fået tulet ørerne døde af Google Reps,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1015.0,
       "end": 1017.0,
       "text": " om at man skal køre dem.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1017.0,
       "end": 1019.0,
       "text": " Hvad er dit bedste råd her?",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1019.0,
       "end": 1020.0,
       "text": " Jeg ved godt, det er svært,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1020.0,
       "end": 1021.0,
       "text": " når det er alt andet lige,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1021.0,
       "end": 1022.0,
       "text": " og der er masser af ting,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1022.0,
       "end": 1025.0,
       "text": " der ligesom kan gå ind og påvirke det svar.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1025.0,
       "end": 1026.0,
       "text": " Men overordnet set,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1026.0,
       "end": 1029.0,
       "text": " og du lavede lige et tegn,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1029.0,
       "end": 1031.0,
       "text": " fordi jeg bare lytter med og ikke ser med,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1031.0,
       "end": 1033.0,
       "text": " så lavede Emil lige den klassiske med,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1033.0,
       "end": 1035.0,
       "text": " at køre hånden hen over halsen.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1035.0,
       "end": 1036.0,
       "text": " Hvad vil dit råd her være?",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1036.0,
       "end": 1038.0,
       "text": " Fordi jeg ved, der sidder mange derude,",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1038.0,
       "end": 1040.0,
       "text": " som er træt af deres egen PMAX.",
-      "speaker": "C"
+      "speaker": "Kristian"
     },
     {
       "start": 1040.0,
       "end": 1041.0,
       "text": " Men det er også bare,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1041.0,
       "end": 1042.0,
       "text": " jeg tror, at vi er modsvar.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1042.0,
       "end": 1043.0,
       "text": " Altså jeg vil sige sådan,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1043.0,
       "end": 1044.0,
       "text": " okay, men hvorfor?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1044.0,
       "end": 1046.0,
       "text": " Altså vi tror, man skal starte med at spørge sig selv om,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1046.0,
       "end": 1048.0,
       "text": " hvorfor er du træt af den PMAX kampagne?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1048.0,
       "end": 1049.0,
       "text": " Hvad er det?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1049.0,
       "end": 1052.0,
       "text": " Også fordi, det er også bare nemt.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1052.0,
       "end": 1053.0,
       "text": " Jeg synes, det er rigtig nemt",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1053.0,
       "end": 1054.0,
       "text": " at se sig sur på en platform,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1054.0,
       "end": 1055.0,
       "text": " der er blackbox,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1055.0,
       "end": 1056.0,
       "text": " bare fordi den er black.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1057.0,
       "end": 1060.0,
       "text": " Og igen, der er så meget indsigt i den kampagne,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1060.0,
       "end": 1062.0,
       "text": " så det er ret nemt at svare på det spørgsmål,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1062.0,
       "end": 1063.0,
       "text": " hvorfor man er træt af den.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1063.0,
       "end": 1064.0,
       "text": " Start med at kigge på den.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1064.0,
       "end": 1065.0,
       "text": " Hvad er det, du gør dig træt af den?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1065.0,
       "end": 1067.0,
       "text": " Er det, fordi der er nogle kategorier,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1067.0,
       "end": 1068.0,
       "text": " du kan få ud af den?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1068.0,
       "end": 1069.0,
       "text": " Er det, fordi der er et overlap",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1069.0,
       "end": 1070.0,
       "text": " med dine andre kampagner?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1070.0,
       "end": 1072.0,
       "text": " Jamen, så slæb den.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1072.0,
       "end": 1074.0,
       "text": " Eller køre en AB-test på det,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1074.0,
       "end": 1075.0,
       "text": " eller et eller andet.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1077.0,
       "end": 1079.0,
       "text": " Og hvis det er, fordi man har et ønske",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1079.0,
       "end": 1081.0,
       "text": " om at opholde lidt liv",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1081.0,
       "end": 1083.0,
       "text": " i nogle af sine kreativer i et andet format,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1083.0,
       "end": 1085.0,
       "text": " så prøv også faktisk at bruge den.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1085.0,
       "end": 1087.0,
       "text": " Altså lad være med at game den.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1087.0,
       "end": 1089.0,
       "text": " Prøv bare at bygge den rigtigt.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1089.0,
       "end": 1090.0,
       "text": " Og hvis du så har,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1090.0,
       "end": 1094.0,
       "text": " og så kører et dedikeret, rigtigt shopping setup.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1094.0,
       "end": 1096.0,
       "text": " Men start med lige at spørge sig selv,",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1096.0,
       "end": 1098.0,
       "text": " hvorfor er det, man er træt af det?",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1098.0,
       "end": 1100.0,
       "text": " Og så brug den data.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1100.0,
       "end": 1102.0,
       "text": " Den ligger faktisk derinde.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1102.0,
       "end": 1104.0,
       "text": " Det er ret nemt.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1104.0,
       "end": 1105.0,
       "text": " Prøv at huske det.",
-      "speaker": "B"
+      "speaker": "Emil"
     },
     {
       "start": 1105.0,
       "end": 1106.0,
       "text": " Tusind tak, fordi du havde lyst",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1106.0,
       "end": 1107.0,
       "text": " til at være med i dagens episode, Emil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1107.0,
       "end": 1110.0,
       "text": " Jeg synes, det er nogle rigtig gode takeaways.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1110.0,
       "end": 1111.0,
       "text": " Spørg lige, hvorfor det er,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1111.0,
       "end": 1112.0,
       "text": " at du er træt af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1112.0,
       "end": 1114.0,
       "text": " Til at starte med at bygge det ordentligt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1114.0,
       "end": 1115.0,
       "text": " og nogle gode refleksioner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1115.0,
       "end": 1116.0,
       "text": " om hvad det er, der kræver",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1116.0,
       "end": 1118.0,
       "text": " at være dygtigst til Google Ads i fremtiden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1118.0,
       "end": 1121.0,
       "text": " Tak, fordi du lyttede med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 1121.0,
       "end": 1123.0,
       "text": " På genhør på mandag kl. 06.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

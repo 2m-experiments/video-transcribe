@@ -77,6 +77,16 @@ local toolchain, and set up handover/session-log files for working across machin
     summary in the bundle.
   - Docs: AGENTS.md §2b (dates → index → bundle after every batch), CLAUDE.md flow, README.
 
+- **Speaker naming (same day):** renamed "Christian" → "Kristian" in all 217 named group3
+  files (offline relabel; `diarize.py --relabel` now composes with an earlier name map so the
+  letter → name audit trail survives). Named the newest 30 unnamed episodes: built a
+  per-episode evidence packet (opening turns + every turn with a name cue), had gpt-4o
+  propose letter → name maps, then **verified every map** against who-addresses-whom cue
+  counts and by reading the cue turns. gpt-4o labelled all 30 "high" but had the two hosts
+  swapped in 6 (self-introductions like "jeg er Christian Tinho" and guests talking *about*
+  Christian fooled it). 29 applied, 1 left unnamed (2026-06-29 solo, no clue). group3 now
+  262/337 named. Bundle rebuilt.
+
 **Left for next time:** nothing pending; see `HANDOVER.md` "Next actions" (diff for new
 uploads after 2026-09-17, optional speaker naming, optional index rebuild).
 

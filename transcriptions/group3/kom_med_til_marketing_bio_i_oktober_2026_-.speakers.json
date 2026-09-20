@@ -9,695 +9,699 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Kristian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Kristian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 2.36,
       "text": " Hej og velkommen til en snyde episode af MarketingPodHov.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2.36,
       "end": 4.96,
       "text": " Den er ikke udgivet end på et sædvanligt dag. Hvorfor er den ikke det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.96,
       "end": 5.88,
       "text": " Værsgo, Christian Tiniu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 5.88,
       "end": 11.12,
       "text": " Hvad siger du til at bruge en formiddag sammen med Halvdan, Morten B.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 11.12,
       "end": 15.2,
       "text": " Jakob Holtzmauritsen, Mathilde og Emil fra Summer Studios",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 15.2,
       "end": 17.76,
       "text": " og undertegnet ubegrænset popcorn...",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 17.76,
       "end": 20.0,
       "text": " Ej, det ved jeg ikke, om I må sige, men der er i hvert fald popcorn.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 20.0,
       "end": 26.4,
       "text": " Der er sodavand, der er kage, der er netværk, det er i biografen,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 26.4,
       "end": 33.44,
       "text": " og det er en undskyldning for at komme væk fra kontorstolen og ind og side i det bløde stol i biograferne rundt omkring i landet.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 33.44,
       "end": 34.56,
       "text": " Ej, men det er altså...",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 34.56,
       "end": 36.36,
       "text": " Du pitches som en fremtidning, jo. Du pitches som en fremtidning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 36.36,
       "end": 38.16,
       "text": " Ja tak. Ja tak.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 38.16,
       "end": 39.6,
       "text": " Det er simpelthen fremragende, det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 39.6,
       "end": 44.0,
       "text": " Du skal vide, da jeg trykkede på Airhorn-knappen, det passede godt, da jeg trykkede, så gik der tre sekunder,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 44.0,
       "end": 45.28,
       "text": " og så var det gået i gang med en sætning mere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 45.28,
       "end": 48.4,
       "text": " Jeg synes, det var et voldsomt tidspunkt at trykke på den på, men fair nok.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 48.4,
       "end": 50.92,
       "text": " Jeg vidste heller ikke lige, at jeg skulle pitche den, men jeg synes faktisk, den sad i skabet.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 50.96,
       "end": 52.48,
       "text": " Den her, den behøver vi ikke at tage om.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 52.48,
       "end": 54.64,
       "text": " Det bliver jeg ikke bedre end det er.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.64,
       "end": 58.32,
       "text": " Marketing-BIO er tilbage 6. til 9. oktober.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 58.32,
       "end": 63.08,
       "text": " Og Marketing-BIO, hvis det er dig, der kender det, jeg tror, det er 8. eller 9. gang, vi laver det nu.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 63.08,
       "end": 67.44,
       "text": " Vi startede i 2018, tror jeg, eller 2019.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 67.44,
       "end": 69.6,
       "text": " Dengang hed det jo Marketing Brief-BIO.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 69.6,
       "end": 73.88,
       "text": " Det var et andet podcast med min ex-kone, hvor vi lavede et arrangement med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 73.88,
       "end": 77.2,
       "text": " Så ville han ikke være med mere, og så overtog obsiderende og bare kaldte det Marketing-BIO,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 77.2,
       "end": 78.44,
       "text": " og nu laver vi det to gange om året.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 78.44,
       "end": 82.56,
       "text": " Og det er jo det tætteste, vi kommer på at være rockstjerner til nu, og stadig helt vildt langt fra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 82.56,
       "end": 84.52,
       "text": " Helt vildt langt fra.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 84.52,
       "end": 87.12,
       "text": " Men der er en turbus, vi spiser på Sunset hver dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 87.12,
       "end": 89.44,
       "text": " Der er nogen, der klapper af os, af høflighed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.44,
       "end": 91.4,
       "text": " Det er så tæt på, som vi overhovedet kommer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 91.4,
       "end": 94.08,
       "text": " Vi burde være sponsoreret af Sunset.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.08,
       "end": 96.04,
       "text": " Men 6. til 9. oktober, det der sker.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 96.04,
       "end": 98.6,
       "text": " 6. oktober, det er i Aalborg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 98.6,
       "end": 99.8,
       "text": " Det er en tirsdag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 99.8,
       "end": 102.64,
       "text": " 9. til 12. næste dag, onsdag den 7. oktober.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 102.64,
       "end": 103.64,
       "text": " 9. til 12. i Aarhus.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.64,
       "end": 106.04,
       "text": " Næste dag, torsdag den 8. oktober.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 106.04,
       "end": 107.68,
       "text": " 9. til 12. i Odense.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 107.68,
       "end": 111.92,
       "text": " Og sidste dag, fredag den 9. oktober, i MPAL i København,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 111.92,
       "end": 114.32,
       "text": " hvor vi var 650 personer sidste gang,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 114.32,
       "end": 118.04,
       "text": " og vi har selvfølgelig tænkt os også at se, om vi ikke kan slå den rekord igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 118.04,
       "end": 119.28,
       "text": " Det bliver megafedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 119.28,
       "end": 121.88,
       "text": " Og Christian, du er med som anden gang, som oplægsholder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 121.88,
       "end": 124.76,
       "text": " Det er jo svært, når du får sådan, hvad, 8,8 ud af 10 i snit eller et eller andet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 124.76,
       "end": 126.0,
       "text": " så ikke at invitere dig med igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.0,
       "end": 127.72,
       "text": " Jeg prøvede virkelig, men de andre indisterede.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 127.72,
       "end": 129.72,
       "text": " Så altså, tillykke med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.72,
       "end": 133.2,
       "text": " Jeg har godt hørt rygter om, at jeg var nummer 7 på den liste, der i spurgte.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 133.2,
       "end": 135.16,
       "text": " But I'll take it.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 135.16,
       "end": 140.32,
       "text": " Ej, men helt ærligt, jeg tror, det er det klart hyggeligste marketingarrangement,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 140.32,
       "end": 143.72,
       "text": " jeg har deltaget i, fordi jeg har jo også deltaget en del gange for Odense sidste gang,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 143.72,
       "end": 146.6,
       "text": " hvor jeg var så heldig at blive oplægsholder.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 146.6,
       "end": 149.72,
       "text": " Vi går ekstremt meget op i vores oplæg.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 149.72,
       "end": 154.72,
       "text": " Altså, der bliver brugt utaldelige timer, selvom det i Gråsøen kun er 25 minutter per oplæg.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 154.72,
       "end": 157.2,
       "text": " Der bliver simpelthen brugt så lang tid på det.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 157.2,
       "end": 159.48,
       "text": " Og så koster det 199 kroner at deltage.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 159.48,
       "end": 162.96,
       "text": " Altså, det er alt taler for, at hvis man arbejder med marketing,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 162.96,
       "end": 166.16,
       "text": " og man er i og omkring de byer, så kom ind og deltage.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 166.16,
       "end": 167.76,
       "text": " Tag hele timen med ud.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 167.76,
       "end": 172.0,
       "text": " Hvis dørene åbner kl. 8, der er en morgenkage, den er sponsoreret af Scannet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.0,
       "end": 173.84,
       "text": " Super, mega fedt, tak til dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 173.84,
       "end": 176.8,
       "text": " De får en regning på 15.000-20.000 kroner for Kringle, når ugen er overstået.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 176.8,
       "end": 178.08,
       "text": " Det er virkelig sødt af dem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 178.08,
       "end": 180.0,
       "text": " Så er der to oplæg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 180.0,
       "end": 182.24,
       "text": " Der er popcorn og sodavand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 182.24,
       "end": 184.4,
       "text": " Masser af kaffe, selvfølgelig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 184.4,
       "end": 185.96,
       "text": " Aalborg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.96,
       "end": 187.76,
       "text": " For satan, de drikker meget kaffe deroppe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.76,
       "end": 191.0,
       "text": " Altså, det er helt vildt, hver gang vi afholder det i Aalborg, de drikker bare rubberstump deroppe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 191.0,
       "end": 194.76,
       "text": " Vi har været nødt til at give dem ekstra instruktioner, om det er voksne mennesker, der kommer til det her arrangement.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 194.76,
       "end": 196.36,
       "text": " De er ikke 17 år alle sammen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 196.36,
       "end": 200.52,
       "text": " Jeg har lyst til at lave nogle jokes med Aalborg og Nærøje, og så kommer de og drikker Aalborgs kaffe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.52,
       "end": 203.2,
       "text": " De er så søde, og de giver så høje ratings.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 203.2,
       "end": 205.68,
       "text": " Jeg tror bare, du drikker mere kaffe opnået på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 205.68,
       "end": 209.88,
       "text": " men vi regnede ud, at det var en halv liter per kaffe sidste gang, de drak i Aalborg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 209.88,
       "end": 210.68,
       "text": " Ja, per mand.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 210.68,
       "end": 211.56,
       "text": " Eller per person, ja.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 211.56,
       "end": 213.24,
       "text": " Ja, en halv liter kaffe per person.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 213.24,
       "end": 214.2,
       "text": " Hvem gør det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 214.2,
       "end": 215.24,
       "text": " Hvem gør sådan noget?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 215.24,
       "end": 216.96,
       "text": " Det er helt sindssygt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 216.96,
       "end": 218.44,
       "text": " Men der er et pause.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 218.44,
       "end": 220.48,
       "text": " Kaffe rigtig meget i Aalborg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 220.48,
       "end": 224.16,
       "text": " Popcorn, sorte vand, nogle flere oplæg, og vi kører en quiz til sidst med 10 spørgsmål fra dagen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.16,
       "end": 226.56,
       "text": " hvor man kan vinde nogle præmier fra nogle af Obsidians søde kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 226.56,
       "end": 227.96,
       "text": " Det er i virkeligheden konceptet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.96,
       "end": 230.2,
       "text": " Hvorfor er det så billigt? Det er fordi, vi ikke tjener penge på det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 230.2,
       "end": 232.64,
       "text": " En enkelt p-bød tipper regnskabet ind i minus.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 232.64,
       "end": 233.68,
       "text": " Men vi synes...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 233.68,
       "end": 235.08,
       "text": " Jeg har det seriøst gjort.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.08,
       "end": 235.68,
       "text": " Men vi synes...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 235.68,
       "end": 237.24,
       "text": " Og så fik jeg faldet ud af, at du ikke kunne fredrage den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 237.24,
       "end": 239.08,
       "text": " Det blev den bændte i finance nægtet af dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 239.08,
       "end": 240.12,
       "text": " Hun sagde, nu må jeg selv betale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 240.12,
       "end": 241.12,
       "text": " Fanden, mand.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 241.16,
       "end": 244.52,
       "text": " Men vi synes, det er så hyggeligt, og det er så fedt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.52,
       "end": 247.2,
       "text": " og vi kommer rundt og møder så mange, og folk er så søde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 247.2,
       "end": 249.56,
       "text": " så det er bare en mega fed uge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 249.56,
       "end": 254.4,
       "text": " 6. til 9. oktober, 199 kroner per billet, 5 oplæg.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 254.4,
       "end": 256.52,
       "text": " Christian og jeg, vi kommer jo rundt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 256.52,
       "end": 257.4,
       "text": " Morten V.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 257.4,
       "end": 258.8,
       "text": " Jakob Holst-Morvidsen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 258.8,
       "end": 260.24,
       "text": " Mathilde og Emil fra Sommer Studios.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 260.24,
       "end": 261.8,
       "text": " Det bliver mega fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 261.8,
       "end": 264.4,
       "text": " Hvor køber man ens billet til nu, som man selvfølgelig skal gøre?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 264.4,
       "end": 268.72,
       "text": " marketingbio.dk",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 268.72,
       "end": 271.04,
       "text": " Så kan du vælge, hvilken by du gerne vil deltage i,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 271.04,
       "end": 273.08,
       "text": " og så tager det ene bare det andet derfra.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 273.08,
       "end": 275.28,
       "text": " Det er super dejligt, simpelt og nemt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 275.28,
       "end": 276.88,
       "text": " Det bliver pissefedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 276.88,
       "end": 278.92,
       "text": " Tusind tak, fordi I lyttede med til vores pitch",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.92,
       "end": 281.6,
       "text": " på genhør til en normal Marketingpodcast-episode næste gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 281.6,
       "end": 282.6,
       "text": " Vi ses i biografen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

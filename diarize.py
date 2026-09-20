@@ -365,6 +365,11 @@ def relabel_transcript(speakers_json_path: Path,
     letters = prior.get("speakers") or sorted({s.get("speaker") for s in segments})
     labeled = apply_names(segments, name_map)
     speakers = [name_map.get(s, s) for s in letters]
+    # Re-labelling an already-named file (e.g. "Christian=Kristian"): keep the audit
+    # trail letter -> final name instead of overwriting it with name -> name.
+    prior_names = prior.get("speaker_names") or {}
+    if prior_names:
+        name_map = {letter: name_map.get(old, old) for letter, old in prior_names.items()}
 
     txt_out = speakers_json_path.with_name(
         speakers_json_path.name[:-len(".json")] + ".txt")

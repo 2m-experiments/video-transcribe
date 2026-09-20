@@ -27,6 +27,11 @@ Last updated: **2026-09-20** on **blackbox-silent** (stationary).
   Claude Project on the phone** — steps and project instructions are in `bundle/README.md`.
   After each new batch run `video_meta.py`, `index.py build`, `bundle.py` and re-upload
   only the files `bundle.py` lists as changed (normally the catalog + the newest chunk).
+- Speaker names: 262 of 337 Marketingpod episodes are named, including every episode from
+  2026-06-11 onward except the 2026-06-29 solo "Guide: Sådan mangedobler du effekten…" (no
+  clue who speaks). Host labels are **Halfdan** and **Kristian** (Kristian Tinho; the older
+  files said "Christian" and were relabelled 2026-09-20). Guests use the first name from
+  the title. Naming is offline (`diarize.py --relabel`) and the bundle picks it up on rebuild.
 - `indexes/` rebuilt 2026-09-20 for all four groups (group1 26, group2 2, group3 337, group4 1). `index.py` now ignores
   `*.speakers.json` siblings (they would otherwise have been indexed as separate videos).
   Rebuild after every batch: `python index.py build --group <g>` is incremental and cheap.
@@ -43,8 +48,8 @@ Last updated: **2026-09-20** on **blackbox-silent** (stationary).
    If retrieval is weak, the fallback plan is a small remote MCP server over the index.
 2. Next time: run the channel diff (see `AGENTS.md` §4, or the flow in
    `sessionlog/2026-09-20-blackbox-silent.md`) to look for uploads after 2026-09-17.
-3. Optional: name the speakers (A/B/C) in the two new multi-speaker group3 episodes if the
-   named coverage matters; 104 group3 episodes are still letter-labeled.
+3. Optional: name the remaining 75 letter-labelled group3 episodes (all older than
+   2026-06-11). Per-episode evidence check is required; see the session log for the pitfalls.
 
 ---|---|---|---|---|
   | group3 | `AqzbeUR3Ajk` | 2026-09-10 | 19 min | Performance Max er døende - men hvad gør Google nu? |

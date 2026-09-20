@@ -44,13 +44,13 @@
       "handle": "@marketingpod",
       "cache_file": "channel_cache/group3.json",
       "cached_at": "2026-09-20T09:20:00Z",
-      "notes": "Full-channel scrape cached under channel_cache/. Complete: every tracked video is transcribed and diarized; 233 of 337 have real speaker names, the rest are letter-labeled. The channel listing also carries 1 Short, which the scraper filters out (338 listed -> 337 tracked). One episode (TVexnIlT-ps) was retitled upstream after transcription; transcribe.py now dedups by video id so it is not redone.",
+      "notes": "Full-channel scrape cached under channel_cache/. Complete: every tracked video is transcribed and diarized; 262 of 337 have real speaker names (hosts are labelled Halfdan / Kristian; Kristian Tinho was spelled \"Christian\" until 2026-09-20), the rest are letter-labeled. The channel listing also carries 1 Short, which the scraper filters out (338 listed -> 337 tracked). One episode (TVexnIlT-ps) was retitled upstream after transcription; transcribe.py now dedups by video id so it is not redone.",
       "status": {
         "tracked_videos": 337,
         "channel_total_live": 337,
         "transcribed": 337,
         "diarized": 337,
-        "named": 233,
+        "named": 262,
         "new_since_last": 0,
         "older_uncurated": 0
       }

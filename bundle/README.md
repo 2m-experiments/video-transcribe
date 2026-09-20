@@ -28,17 +28,17 @@ brugeren beder om andet. Gæt ikke; sig hvis arkivet ikke dækker spørgsmålet.
 
 | File | Episodes | Size (chars) |
 |---|---:|---:|
-| `00_catalog.md` | 366 | 234,388 |
+| `00_catalog.md` | 366 | 234,578 |
 | `fuldt-booket_part01_of01_2025-09-06_2026-09-15.md` | 26 | 825,930 |
-| `marketingpod_part01_of11_2024-05-09_2024-08-02.md` | 40 | 1,024,310 |
-| `marketingpod_part02_of11_2024-08-05_2024-10-10.md` | 62 | 1,002,693 |
-| `marketingpod_part03_of11_2024-10-14_2024-12-26.md` | 32 | 1,028,408 |
-| `marketingpod_part04_of11_2024-12-30_2025-03-17.md` | 28 | 993,218 |
-| `marketingpod_part05_of11_2025-03-17_2025-06-06.md` | 26 | 998,017 |
-| `marketingpod_part06_of11_2025-06-10_2025-08-21.md` | 23 | 981,861 |
-| `marketingpod_part07_of11_2025-08-25_2025-11-10.md` | 30 | 1,017,198 |
-| `marketingpod_part08_of11_2025-11-13_2026-02-05.md` | 31 | 1,028,195 |
-| `marketingpod_part09_of11_2026-02-09_2026-04-30.md` | 24 | 982,354 |
-| `marketingpod_part10_of11_2026-05-04_2026-07-16.md` | 22 | 948,055 |
-| `marketingpod_part11_of11_2026-07-20_2026-09-17.md` | 19 | 754,210 |
+| `marketingpod_part01_of11_2024-05-09_2024-08-02.md` | 40 | 1,023,831 |
+| `marketingpod_part02_of11_2024-08-05_2024-10-10.md` | 62 | 1,002,133 |
+| `marketingpod_part03_of11_2024-10-14_2024-12-26.md` | 32 | 1,027,739 |
+| `marketingpod_part04_of11_2024-12-30_2025-03-17.md` | 28 | 992,656 |
+| `marketingpod_part05_of11_2025-03-17_2025-06-06.md` | 26 | 997,427 |
+| `marketingpod_part06_of11_2025-06-10_2025-08-21.md` | 23 | 981,334 |
+| `marketingpod_part07_of11_2025-08-25_2025-11-13.md` | 31 | 1,038,152 |
+| `marketingpod_part08_of11_2025-11-17_2026-02-05.md` | 30 | 1,006,139 |
+| `marketingpod_part09_of11_2026-02-09_2026-04-30.md` | 24 | 982,044 |
+| `marketingpod_part10_of11_2026-05-04_2026-07-16.md` | 22 | 947,371 |
+| `marketingpod_part11_of11_2026-07-20_2026-09-17.md` | 19 | 753,150 |
 | `workshops_part01_of01_2025-09-01_2025-09-01.md` | 3 | 381,594 |
