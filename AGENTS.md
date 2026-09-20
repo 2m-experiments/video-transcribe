@@ -4,8 +4,8 @@ Instructions for an AI agent (with access to this repo) to transcribe videos and
 speaker labels. Follow these steps exactly; the invariants at the bottom prevent the
 mistakes that have actually happened here.
 
-Pipeline: **download audio → Whisper transcript → AssemblyAI diarization → (optional)
-name speakers → index**. Whisper produces the text; AssemblyAI is used *only* for "who
+Pipeline: **download audio → Whisper transcript → AssemblyAI diarization → publish dates →
+index → bundle** (speaker naming is optional and manual). Whisper produces the text; AssemblyAI is used *only* for "who
 spoke when" (its own transcript is discarded).
 
 ---
@@ -76,6 +76,22 @@ retry each file up to ~3× on transient errors. Skip anything already diarized.
 
 Solo-speaker videos (e.g. group1 monologues) are fine — they simply come back as one
 speaker. Diarize them anyway rather than special-casing.
+
+## 2b. After every batch: dates, index, bundle — ALWAYS
+
+Three derived artefacts must be refreshed whenever new transcripts land, in this order:
+
+```bash
+python video_meta.py                 # publish dates + live titles -> channel/video_meta.json
+python index.py build --group <g>    # summaries/topics -> indexes/<g>.json (incremental)
+python bundle.py                     # retrieval bundle -> bundle/*.md (+ manifest.json)
+```
+
+`video_meta.py` only fetches videos missing from the registry. If YouTube answers "Sign in
+to confirm you're not a bot" it falls back to the android player client automatically;
+do not add workers or remove the pause, that is what triggered the block. `bundle.py`
+prints which files changed since the last build; those are the only files that need
+re-uploading to the phone project (see `bundle/README.md`).
 
 ## 3. (Optional) Name speakers — only when asked
 

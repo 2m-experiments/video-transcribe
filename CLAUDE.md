@@ -28,7 +28,13 @@ Standard flow for new videos:
 ```bash
 python transcribe.py --group <g>            # or --channel <url> --channel-name <g>
 python diarize.py transcriptions/<g>/<name>.json   # for each newly-transcribed file
+python video_meta.py                        # publish dates for the new videos
+python index.py build --group <g>           # incremental summaries
+python bundle.py                            # regenerate bundle/ for the phone project
 ```
+
+The last three are part of "done" too: `bundle/` is what the user queries from the phone
+(ChatGPT/Claude Project), and it is only as fresh as the last `bundle.py` run.
 
 ## Gotchas
 

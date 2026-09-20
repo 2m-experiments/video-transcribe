@@ -54,8 +54,28 @@ local toolchain, and set up handover/session-log files for working across machin
   `transcribe.py` now scans the group's transcripts once for `url` → video id and skips by id.
 - The Bash tool's shell predates the ffmpeg install; runs there need the winget bin dir
   prepended to `PATH`. New terminals are fine.
+- **YouTube bot check**: fetching per-video metadata with 4 threads tripped "Sign in to
+  confirm you're not a bot" after ~230 videos (IP-level, persisted for the rest of the
+  session). Fix in `video_meta.py`: 1 worker, 2 s pause, and a fallback to the android
+  player client with `player_skip=webpage` + `ignore_no_formats_error`, which still returns
+  `upload_date` while blocked (cross-checked against a known date). Group2 (Vimeo player
+  URLs) and group4 (webinar page) give no upload_date; bundle falls back to transcription date.
 - `python -` heredocs that `print()` non-cp1252 characters crash on this Windows console
   (`UnicodeEncodeError`); the file writes before the print still land. Use `git diff` to check.
+
+- **Retrieval bundle (same day, after the user asked how to query from a phone by voice):**
+  - `video_meta.py` (new): keeps `channel/video_meta.json`, publish date + live title per
+    transcript, keyed by YouTube id. Needed because transcripts only carry `transcribed_at`
+    and "seneste episoder" questions need publish dates. Incremental.
+  - `bundle.py` (new): writes `bundle/` = `00_catalog.md` (all episodes newest-first with
+    date/speakers/summary/topics/URL + which file holds the transcript) and ~1 MB
+    chronological chunk files per source, each episode section = metadata + full
+    speaker-labelled transcript. `manifest.json` (sha256) shows which files changed so only
+    those need re-uploading to the ChatGPT/Claude Project. `bundle/README.md` has phone
+    steps + suggested project instructions.
+  - Created the missing `indexes/group2.json` + `group4.json` (3 files) so every episode has a
+    summary in the bundle.
+  - Docs: AGENTS.md §2b (dates → index → bundle after every batch), CLAUDE.md flow, README.
 
 **Left for next time:** nothing pending; see `HANDOVER.md` "Next actions" (diff for new
 uploads after 2026-09-17, optional speaker naming, optional index rebuild).
