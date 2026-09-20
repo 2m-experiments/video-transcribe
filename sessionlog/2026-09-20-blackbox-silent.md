@@ -87,6 +87,12 @@ local toolchain, and set up handover/session-log files for working across machin
   Christian fooled it). 29 applied, 1 left unnamed (2026-06-29 solo, no clue). group3 now
   262/337 named. Bundle rebuilt.
 
+- **Claude Project upload:** the full 12 MB bundle was rejected; 11 files (6.65M chars) showed
+  108% capacity, so the cap is ~6.1M chars. `bundle.py` got a `--budget` (default 4.9M chars of
+  full text, strict newest-first date cutoff) + summary-only digest for the rest. Final upload:
+  8 files, 5.56M chars, 91%. Project instructions in `bundle/README.md` (no forced title+date
+  citing, per user).
+
 **Left for next time:** nothing pending; see `HANDOVER.md` "Next actions" (diff for new
 uploads after 2026-09-17, optional speaker naming, optional index rebuild).
 
