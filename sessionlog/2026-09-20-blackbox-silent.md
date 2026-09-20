@@ -23,8 +23,8 @@ local toolchain, and set up handover/session-log files for working across machin
 - Did **not** download or transcribe anything; the diff was wanted first.
 - The 17 extra untracked group1 videos in the scrape are the known excluded testimonial
   clips, not new content. One (`flMsd1NCtyA`) now returns "This video is not available".
-- No `.env` on this machine, so transcription/diarization cannot run here until the two
-  API keys are supplied.
+- `.env` was missing at first; the user added it later in the session. Both keys validated
+  with cheap GETs (AssemblyAI 200, OpenAI 200). `.env` confirmed git-ignored.
 - `channel/channel_cache/` did not exist after the pull (git-ignored); expected on a
   fresh machine, the scrape recreates it.
 
