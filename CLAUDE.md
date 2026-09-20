@@ -7,6 +7,10 @@ status live in [`channel/`](channel/README.md); derived answers in [`queries/`](
 **Step-by-step how-to for transcribing + diarizing is in [`AGENTS.md`](AGENTS.md)** — read
 it before running the pipeline. The rule and gotchas below are the essentials.
 
+**Cross-machine handover:** read [`HANDOVER.md`](HANDOVER.md) first (current state, next
+actions, per-machine setup). At the end of every session write a [`sessionlog/`](sessionlog/README.md)
+entry, update `HANDOVER.md`, then commit + push so the other machine can continue.
+
 ## STANDING RULE: always diarize newly-transcribed videos
 
 Whenever new videos are transcribed, **always run `diarize.py` (AssemblyAI) on them as
