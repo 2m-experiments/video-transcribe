@@ -1,7 +1,7 @@
 {
   "group": "group3",
-  "indexed_at": "2026-04-20T13:34:31.882706+00:00",
-  "file_count": 288,
+  "indexed_at": "2026-09-20T10:07:26.151948+00:00",
+  "file_count": 337,
   "files": [
     {
       "file": "11x_ai-content_værktøjer_til_digital_marketing_gpt4o_netflix_ads_google_sge",
@@ -191,6 +191,34 @@
       ]
     },
     {
+      "file": "3x_tricks_til_højere_lead-kvalitet_med_lead_ads_på_facebook_instagram",
+      "title": "3X tricks til højere lead-kvalitet med Lead Ads på Facebook & Instagram",
+      "url": "https://www.youtube.com/watch?v=1nY_C0DGjT4",
+      "duration_seconds": 661.5,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres, hvordan man kan forbedre kvaliteten af leads genereret gennem Facebook og Instagram Lead Ads. Værterne præsenterer tre effektive metoder, herunder brugen af værdiregler, betinget logik og konverterings-leads, for at sikre, at de leads, man modtager, er mere relevante og værdifulde for virksomheden.",
+      "topics": [
+        "Lead Ads",
+        "Facebook Ads",
+        "Leadgenerering",
+        "Værdiregler",
+        "Betinget logik",
+        "Konverterings-leads"
+      ],
+      "people": [
+        "Tini",
+        "Morten B.",
+        "Christian Tino",
+        "Sinju"
+      ],
+      "key_points": [
+        "Det er vigtigt at fokusere på kvaliteten af leads frem for blot at generere mange leads.",
+        "Værdiregler kan hjælpe med at optimere budgivning baseret på demografiske faktorer.",
+        "Betinget logik kan bruges til at filtrere irrelevante leads og forbedre leadkvaliteten.",
+        "Konverterings-leads muliggør sporing af lead-aktiviteter og optimering af kampagner baseret på faktiske handlinger."
+      ]
+    },
+    {
       "file": "5_af_de_store_seo-myter_meta_lukker_for_politisk_annoncering",
       "title": "5 af de store SEO-myter & Meta lukker for politisk annoncering",
       "url": "https://www.youtube.com/watch?v=ePT52bzKMLA",
@@ -331,19 +359,19 @@
       ]
     },
     {
-      "file": "6x_tips_opnå_synergier_i_google_ads_seo_google_vs",
+      "file": "6x_tips_opnå_synergier_i_google_ads_seo_google_vs._seo_klaviyo_prisstigning_snap_angriber",
       "title": "6x tips: Opnå synergier i Google Ads & SEO + Google vs. SEO + Klaviyo Prisstigning + Snap angriber",
       "url": "https://www.youtube.com/watch?v=zRpQZNQJKdc",
       "duration_seconds": 2267.8,
       "language": "da",
-      "summary": "I denne episode diskuteres synergier mellem Google Ads og SEO, samt de seneste ændringer i Klaviyo's prissystem og Snapchats markedsføringskampagne. Værterne analyserer også Googles krav om aktivering af JavaScript og dets potentielle indvirkning på tredjeparts værktøjer.",
+      "summary": "I denne episode diskuteres synergier mellem Google Ads og SEO samt de seneste ændringer i Klaviyo's prissystem og Snapchats markedsføringsstrategi. Værterne deler deres tanker om Googles krav om JavaScript og de potentielle konsekvenser for tredjeparts værktøjer.",
       "topics": [
         "Google Ads",
         "SEO",
         "Klaviyo",
         "Snapchat",
-        "JavaScript",
-        "e-mail marketing"
+        "prisstigning",
+        "JavaScript"
       ],
       "people": [
         "Christian",
@@ -351,10 +379,38 @@
       ],
       "key_points": [
         "Google kræver nu JavaScript for at forbedre brugeroplevelsen og bekæmpe bots.",
-        "Klaviyo vil automatisk opgradere brugere til højere prisplaner, hvilket kan påvirke e-handelsvirksomheder.",
-        "Snapchat lancerer en kampagne for at tiltrække brugere fra TikTok amid sikkerhedsproblemer.",
-        "Der er bekymringer om, hvordan Googles ændringer vil påvirke rank-tracking værktøjer.",
-        "Klaviyo's ændringer kan føre til, at mange brugere søger alternativer til platformen."
+        "Klaviyo vil automatisk opgradere brugere til højere prisplaner, hvilket kan ramme e-handelsvirksomheder hårdt.",
+        "Snapchat lancerer en kampagne for at tiltrække brugere fra TikTok i lyset af TikToks usikkerhed.",
+        "Der er bekymringer om, hvordan Klaviyos pristigning vil påvirke deres kundebase og om der findes alternativer.",
+        "Værterne diskuterer muligheden for at bruge Amazon Mechanical Turk til at overvinde Googles nye begrænsninger."
+      ]
+    },
+    {
+      "file": "7_ai-værktøjer_til_marketing_vi_lige_nu_bruger_på_under_10_minutter",
+      "title": "7 AI-værktøjer til marketing vi lige nu bruger på under 10 minutter",
+      "url": "https://www.youtube.com/watch?v=uqDB_0xH7hs",
+      "duration_seconds": 570.2,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuterer Christian Tino og hans gæst, værktøjer til marketing, der kan bruges på under 10 minutter. De præsenterer syv AI-værktøjer, herunder Claude, Grok, WhisperFlow, Manus, Memelord og SubMagic, og deler deres erfaringer med, hvordan disse værktøjer kan effektivisere marketingprocesser.",
+      "topics": [
+        "AI-værktøjer",
+        "marketing",
+        "transkribering",
+        "annoncering",
+        "præsentationer",
+        "memes",
+        "effektivisering"
+      ],
+      "people": [
+        "Christian Tino"
+      ],
+      "key_points": [
+        "Claude bruges til at generere tekst baseret på transkriptioner af YouTube-videoer.",
+        "Grok er blevet populær for sin evne til at udføre opgaver uden at give moralske vurderinger.",
+        "WhisperFlow kan transkribere møder i realtid og opsummere dem hurtigt.",
+        "Manus hjælper med at lave interaktive præsentationer og visualiseringer.",
+        "Memelord.com er effektivt til at skabe kreative memes til annoncering.",
+        "SubMagic er godt til automatisk at tilføje undertekster og repurpose videoindhold."
       ]
     },
     {
@@ -457,19 +513,19 @@
       ]
     },
     {
-      "file": "ai_case_lead_enrichment_til_b2b_med_make",
+      "file": "ai_case_lead_enrichment_til_b2b_med_make.com-flow",
       "title": "AI Case: Lead enrichment til B2B med Make.com-flow",
       "url": "https://www.youtube.com/watch?v=gp0xE5MdXy4",
       "duration_seconds": 676.5,
       "language": "da",
-      "summary": "I denne episode af Marketingpod gennemgås et konkret make.com flow til lead enrichment for B2B-virksomheder. Værterne diskuterer, hvordan AI kan automatisere processen med at indsamle information om leads og optimere marketingindsatsen.",
+      "summary": "I denne episode af Marketingpod gennemgås et konkret make.com flow til lead enrichment for B2B-virksomheder. Værterne diskuterer, hvordan AI kan automatisere processen med at indsamle og berige informationer om leads, hvilket kan forbedre marketingindsatsen og effektiviteten ved arrangementer som AI Marketing Conference.",
       "topics": [
-        "Lead Enrichment",
-        "B2B Marketing",
-        "AI Automation",
-        "Make.com",
-        "Webinar Tilmeldinger",
-        "CRM Integration"
+        "lead enrichment",
+        "B2B marketing",
+        "AI",
+        "make.com",
+        "automatisering",
+        "CRM"
       ],
       "people": [
         "Tino",
@@ -477,11 +533,9 @@
         "Tony"
       ],
       "key_points": [
-        "Lead enrichment kan automatiseres ved hjælp af AI og værktøjer som make.com.",
-        "Det er vigtigt at differentiere billetpriser for virksomheder og byrugere ved events.",
-        "Perplexity AI bruges til at indsamle information om virksomheder hurtigt.",
-        "Automatisering sparer tid og reducerer manuel kontrol af leads.",
-        "Segmentering af marketingmateriale forbedres gennem indsamlet data om leads."
+        "Make.com flow kan automatisere lead enrichment ved at indsamle information om virksomheder.",
+        "AI-værktøjer som Perplexity og ChatGPT bruges til at forbedre research og segmentering af leads.",
+        "Effektiv lead enrichment kan spare tid og forbedre kvaliteten af marketingmateriale."
       ]
     },
     {
@@ -512,18 +566,18 @@
       ]
     },
     {
-      "file": "ai_case_seo-workflow_i_make",
+      "file": "ai_case_seo-workflow_i_make.com_der_udfører_arbejde_for_67_timer",
       "title": "AI Case: SEO-workflow i Make.com, der udfører arbejde for 67 timer",
       "url": "https://www.youtube.com/watch?v=jIhgw1y7DE8",
       "duration_seconds": 892.8,
       "language": "da",
-      "summary": "I denne episode diskuteres, hvordan AI kan optimere SEO-workflows ved at automatisere oprettelsen af produkttekster til webshops. Gæsterne gennemgår et konkret eksempel med Reset Store, hvor de viser, hvordan Make.com kan integreres med Shopify for at effektivisere processen.",
+      "summary": "Episoden diskuterer, hvordan AI kan optimere SEO-workflows ved at automatisere oprettelsen af produkttekster til webshops. Gennem et konkret eksempel fra Reset Store demonstreres, hvordan Make.com kan bruges til at effektivisere processen og spare tid og omkostninger.",
       "topics": [
         "AI",
         "SEO",
         "produkttekster",
         "Make.com",
-        "Shopify",
+        "webshops",
         "automatisering"
       ],
       "people": [
@@ -531,11 +585,36 @@
         "Tine"
       ],
       "key_points": [
-        "AI kan reducere tiden til at skrive produkttekster fra 67 timer til omkring 30 sekunder.",
-        "Det er vigtigt at undgå duplicate content for at forbedre SEO.",
-        "Make.com tilbyder en brugervenlig platform til at automatisere produkttekstskrivning.",
-        "Perplexity-integration forbedrer kvaliteten af de genererede tekster ved at sikre korrekt information.",
-        "At opdele processen i flere trin hjælper med at undgå fejl og hallucinationer fra AI-modeller."
+        "Oprettelse af produkttekster kan tage meget tid, især ved store mængder produkter.",
+        "AI kan effektivisere skriveprocessen og sikre unikke tekster, der overholder brand guidelines.",
+        "Make.com tilbyder en brugervenlig platform til at automatisere SEO-workflows.",
+        "Brugen af Perplexity til research sikrer, at informationerne i produktteksterne er korrekte.",
+        "Automatisering kan reducere omkostningerne til tekstforfatning betydeligt."
+      ]
+    },
+    {
+      "file": "ai_dræber_din_timepris_gør_dette_i_stedet_case_10_mio._kr",
+      "title": "AI dræber din timepris: Gør dette i stedet (Case: +10 mio. kr.)",
+      "url": "https://www.youtube.com/watch?v=CuKBkpfbQ0s",
+      "duration_seconds": 2525.1,
+      "language": "da",
+      "summary": "I denne episode af Markets Import diskuteres konceptet 'Productized Services', hvor serviceydelser pakkes og prissættes som produkter for at forbedre både salg og leverance. Værterne deler deres erfaringer og perspektiver på, hvordan man kan strukturere og effektivisere sine ydelser i en kommerciel kontekst.",
+      "topics": [
+        "Productized Services",
+        "timepriser",
+        "effektivisering",
+        "kommerciel strategi",
+        "AI"
+      ],
+      "people": [
+        "Ressentino",
+        "Helften",
+        "Christian"
+      ],
+      "key_points": [
+        "Productized Services kan øge omsætningen og effektiviteten.",
+        "Fast pris og standardiserede processer gør det lettere for kunder at forstå tilbuddet.",
+        "AI kan spille en rolle i at optimere leverancer af Productized Services."
       ]
     },
     {
@@ -563,6 +642,31 @@
         "Det er vigtigt at fokusere på at fjerne 'dumt arbejde' for at øge medarbejdernes tilfredshed.",
         "Effektivitet kan opnås gennem grundig analyse af processer og implementering af teknologi.",
         "AI er ikke en løsning i sig selv, men et værktøj til at orkestrere intelligens og forbedre arbejdsprocesser."
+      ]
+    },
+    {
+      "file": "ai_tager_ikke_dit_marketing-job_hvis_du_lytter_til_den_her_episode",
+      "title": "AI tager ikke dit marketing-job, hvis du lytter til den her episode",
+      "url": "https://www.youtube.com/watch?v=HyyVO0IAQSY",
+      "duration_seconds": 2573.8,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuteres AI's indflydelse på arbejdsmarkedet, især i marketingsektoren. Værterne undersøger frygten for, at AI vil erstatte jobs, og hvordan man kan udnytte AI som et værktøj til at forbedre arbejdsprocesser og frigøre tid til mere kreative opgaver.",
+      "topics": [
+        "AI",
+        "digital marketing",
+        "jobmarked",
+        "tracking",
+        "værktøjer"
+      ],
+      "people": [
+        "Christian Sinju",
+        "Tini"
+      ],
+      "key_points": [
+        "Folk er bekymrede for, at AI vil tage deres jobs, især i tech-sektoren.",
+        "Der er en tendens til AI-washing, hvor fyringer præsenteres som et resultat af AI, selvom det ikke altid er sandt.",
+        "AI kan skabe både jobtab og nye muligheder, men der er en kortsigtet frygt for jobtab.",
+        "Det er vigtigt at forstå, hvordan man kan bruge AI som et værktøj til at forbedre arbejdet og frigøre tid."
       ]
     },
     {
@@ -650,12 +754,12 @@
       ]
     },
     {
-      "file": "andreas_sendte_128",
+      "file": "andreas_sendte_128.000_mails_ved_en_fejl_men_i_det_mindste_fik_han_den_her_podcast-episode",
       "title": "Andreas sendte 128.000 mails ved en fejl, men i det mindste fik han den her podcast-episode",
       "url": "https://www.youtube.com/watch?v=jiBdtRqBj0M",
       "duration_seconds": 836.3,
       "language": "da",
-      "summary": "I denne episode af Marketingpod fortæller Andreas Nielsen om en fejl, hvor han ved et uheld sendte 128.000 e-mails på kort tid. Gennem samtalen diskuteres effekten af denne hændelse på unsubscribe-rater, åbningsrater og den generelle respons fra modtagerne.",
+      "summary": "I denne episode af Marketingpod diskuterer værterne en bemærkelsesværdig hændelse, hvor Andreas Nielsen ved en fejl sendte 128.000 e-mails til 9.000 modtagere på kort tid. De analyserer konsekvenserne af denne fejl, herunder unsubscribe-rater og åbningsrater, samt hvad man kan lære af situationen.",
       "topics": [
         "e-mail-marketing",
         "split-test",
@@ -668,11 +772,11 @@
         "Christian Tiniu"
       ],
       "key_points": [
-        "Andreas sendte 128.000 e-mails til 9.000 modtagere ved en fejl.",
-        "Unsubscribe-raten var 0,46 % per mail, hvilket var bedre end forventet.",
-        "Åbningsraten var 16 %, hvilket er lavere end normalt, men stadig acceptabelt.",
-        "Der blev ikke registreret mange spam-rapporter, hvilket overraskede Andreas.",
-        "Det anbefales ikke at sende så mange e-mails på én gang, men det gav nogle interessante indsigter."
+        "Andreas sendte 128.000 e-mails ved en fejl, hvilket resulterede i en unsubscribe-rate på 0,46 % per mail.",
+        "Åbningsraten for de sendte mails var 16 %, hvilket er lavere end normalt.",
+        "Trods fejlen oplevede de en stigning i engagement og leads efter udsendelsen.",
+        "Det er vigtigt at pace e-mail-udsendelser for bedre resultater.",
+        "Situationen viste, at en stor udsendelse ikke nødvendigvis fører til katastrofale konsekvenser."
       ]
     },
     {
@@ -724,12 +828,12 @@
       ]
     },
     {
-      "file": "bliv_top_0",
+      "file": "bliv_top_0.6_linkedin-creator_amazon_elsker_temu_morgan_stanley_elsker_ai_usa_elsker_tiktok",
       "title": "Bliv top 0.6% LinkedIn-creator + Amazon elsker Temu + Morgan Stanley elsker AI + USA elsker TikTok",
       "url": "https://www.youtube.com/watch?v=CZ_q6Tks8Rk",
       "duration_seconds": 3424.4,
       "language": "da",
-      "summary": "I denne episode diskuteres de seneste nyheder om TikToks nye juli-udsalg som konkurrence til Amazon, Morgan Stanleys brug af AI-assistenter og Amazons planer om at tilbyde billige produkter fra Kina. Derudover dykker værterne ned i, hvordan man kan blive en top LinkedIn-creator og de krav, der følger med.",
+      "summary": "I denne episode diskuteres de seneste nyheder om TikToks lancering af et juli-udsalg som svar på Amazons Prime Day, samt Morgan Stanleys implementering af AI-assistenter. Derudover dykker værterne ned i, hvordan man kan blive en af de mest succesfulde content creators på LinkedIn.",
       "topics": [
         "TikTok",
         "Amazon",
@@ -744,38 +848,64 @@
         "Simen"
       ],
       "key_points": [
-        "TikTok lancerer et juli-udsalg for at konkurrere med Amazons Prime Day.",
-        "Morgan Stanley implementerer AI-assistenter for at optimere rådgivningsarbejde.",
+        "TikTok lancerer et juli-udsalg for at konkurrere med Amazon Prime Days.",
+        "Morgan Stanley implementerer AI-assistenter for at effektivisere rådgivning.",
         "Amazon planlægger at tilbyde billige produkter fra Kina for at konkurrere med Teemo.",
-        "Der er muligheder for danske shops at udnytte TikTok-shop til deres fordel.",
-        "At blive en top LinkedIn-creator kræver betydelig indsats og engagement."
+        "Der er muligheder for danske shops at udnytte TikTok-shop til at øge salget.",
+        "At blive en top content creator på LinkedIn kræver dedikation og strategisk indhold."
       ]
     },
     {
-      "file": "breakdown_fra_0_til_5_mio._kr",
+      "file": "breakdown_fra_0_til_5_mio._kr._årlig_omsætning_på_14_måneder",
       "title": "Breakdown: Fra 0 til 5 mio. kr. årlig omsætning på 14 måneder",
       "url": "https://www.youtube.com/watch?v=vu6vbNxGF7w",
       "duration_seconds": 3294.7,
       "language": "da",
-      "summary": "I denne episode af MarketingPod diskuteres, hvordan Obsidian har opnået en årlig omsætning på 5 millioner kroner på blot 14 måneder. Derudover gennemgås aktuelle nyheder inden for marketing og teknologi, herunder OpenAI's nye annoncemodul og en sjov historie om en advokat, der blev indklaget for at referere til ikke-eksisterende domme.",
+      "summary": "I denne episode af MarketingPod diskuteres, hvordan Obsidian har formået at øge deres omsætning fra 0 til 5 millioner kroner årligt på blot 14 måneder gennem strategisk marketing og salg. Derudover berøres aktuelle nyheder om OpenAI's annonceringsstrategi og en sjov sag om en advokat, der blev indklaget for at referere til ikke-eksisterende domme.",
       "topics": [
         "forretningsstrategi",
         "marketing",
         "OpenAI",
         "annoncering",
-        "advokatetik",
-        "AI-teknologi"
+        "advokatetik"
       ],
       "people": [
         "Christian",
         "Tino"
       ],
       "key_points": [
-        "Obsidian har transformeret en ny tjeneste fra 0 til 5 millioner kroner i omsætning på 14 måneder.",
+        "Obsidian har transformeret en ny tjeneste til en succesfuld forretning på 14 måneder.",
         "OpenAI kræver et minimumsbudget på 200.000 dollars for annoncering i ChatGPT, hvilket kan begrænse adgangen for mindre annoncører.",
-        "En advokat blev indklaget for at referere til ikke-eksisterende domme, hvilket førte til en bøde fra advokatnævnet.",
-        "Det er vigtigt at have faktatjek og research i brugen af AI-værktøjer for at undgå fejl og misforståelser.",
-        "Gemini 3 har udfordret ChatGPT's førerposition på markedet for AI-sprogmodeller."
+        "En advokat blev indklaget for at referere til ikke-eksisterende domme, hvilket førte til en bøde.",
+        "Det er vigtigt at have procedurer for at sikre korrektheden af indhold genereret af AI-modeller.",
+        "Perplexity anbefales som et værktøj til at fact-checke information fra LLM'er."
+      ]
+    },
+    {
+      "file": "brug_scheduled_tasks_med_ai_til_at_løse_dine_repetetive_opgaver",
+      "title": "Brug \"Scheduled Tasks\" med AI til at løse dine repetetive opgaver",
+      "url": "https://www.youtube.com/watch?v=QWolQ-9UWgw",
+      "duration_seconds": 697.2,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuterer værterne, hvordan man kan automatisere repetitive opgaver ved hjælp af 'Scheduled Tasks' og AI. De fremhæver, hvordan disse værktøjer kan gøre det lettere at håndtere daglige opgaver og spare tid i arbejdsprocesser.",
+      "topics": [
+        "automatisering",
+        "AI",
+        "Scheduled Tasks",
+        "dag-til-dag opgaver",
+        "effektivitet",
+        "rapportering"
+      ],
+      "people": [
+        "Christian Tinjo",
+        "Halvdan"
+      ],
+      "key_points": [
+        "Scheduled Tasks gør det muligt at automatisere gentagne opgaver med minimal teknisk viden.",
+        "Automatisering kan spare tid og reducere unødvendigt arbejde, som f.eks. manuel rapportering.",
+        "Der findes forskellige platforme som Manus og CloudCode, der understøtter Scheduled Tasks.",
+        "Brug af naturligt sprog til at definere opgaver gør det lettere at implementere automatisering.",
+        "Automatisering kan anvendes til både simple opgaver og mere komplekse projekter."
       ]
     },
     {
@@ -830,6 +960,59 @@
       ]
     },
     {
+      "file": "chatgpt_anbefaler_din_virksomhed_når_du_har_hørt_den_her_episode_geo",
+      "title": "ChatGPT anbefaler din virksomhed, når du har hørt den her episode (GEO)",
+      "url": "https://www.youtube.com/watch?v=92S1YFFpmF0",
+      "duration_seconds": 2746.8,
+      "language": "da",
+      "summary": "I denne episode af MarkedSimpot diskuteres, hvordan virksomheder kan få AI, som ChatGPT, til at anbefale deres produkter og services. Værterne udforsker begrebet Geo Generative Engine Optimization og hvordan det adskiller sig fra traditionel SEO.",
+      "topics": [
+        "AI",
+        "ChatGPT",
+        "Geo Generative Engine Optimization",
+        "SEO",
+        "digital marketing"
+      ],
+      "people": [
+        "Tinju",
+        "Christian",
+        "Halsten"
+      ],
+      "key_points": [
+        "Geo Generative Engine Optimization handler om at optimere synligheden i AI-modeller som ChatGPT.",
+        "Traditionel SEO fokuserer på money-keywords, mens AI-søgninger kræver mere kontekst og komplekse prompts.",
+        "Der er en stigende interesse for, hvordan AI kan generere leads, men kvaliteten af disse leads er ofte lav.",
+        "Mange virksomheder forbereder sig på fremtidens AI-udviklinger, men tracking af resultater er udfordrende."
+      ]
+    },
+    {
+      "file": "chatgpt_annoncer_er_her_-_sådan_kommer_du_igang_på_15_minutter",
+      "title": "ChatGPT annoncer er her - sådan kommer du igang på 15 minutter",
+      "url": "https://www.youtube.com/watch?v=U0E4cRY7RYQ",
+      "duration_seconds": 959.4,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuterer værterne den nye annonceplatform fra ChatGPT, som nu er tilgængelig i Danmark. De deler deres erfaringer med opsætning af annoncer, tracking og målretning, samt hvordan platformen sammenlignes med eksisterende annonceværktøjer som META og Google Ads.",
+      "topics": [
+        "ChatGPT annoncer",
+        "digital marketing",
+        "tracking",
+        "målretning",
+        "annoncering"
+      ],
+      "people": [
+        "Christian",
+        "Emil",
+        "Schaefer"
+      ],
+      "key_points": [
+        "ChatGPT's annonceplatform er nu tilgængelig i Danmark med selvbetjening.",
+        "Opsætning af annoncer minder meget om META's system, hvilket gør det lettere for brugerne.",
+        "Det anbefales at opsætte en pixel tidligt for at indsamle data til retargeting.",
+        "Minimum dagligt budget for annoncering er 65 euro, hvilket kan være en barriere for nogle virksomheder.",
+        "Målretning på ChatGPT er anderledes, da det primært baseres på kontekst frem for demografiske data."
+      ]
+    },
+    {
       "file": "cmo_ens_guide_til_at_blive_en_ai-first_marketing-afdeling",
       "title": "CMO'ens guide til at blive en AI-first marketing-afdeling",
       "url": "https://www.youtube.com/watch?v=xLUOd5e5SSQ",
@@ -855,6 +1038,33 @@
         "OpenAI planlægger at introducere annoncer i ChatGPT for at skabe en bæredygtig forretningsmodel.",
         "Amazon er ikke involveret i udviklingen af Universal Commerce Protocol, hvilket kan påvirke fremtidens e-handel.",
         "Der er en stigende bekymring for kreativt ejerskab i relation til AI og deepfakes."
+      ]
+    },
+    {
+      "file": "customgpt_vs_manus_projects_sådan_får_du_ai_til_at_lave_dit_arbejde_for_dig",
+      "title": "CustomGPT vs Manus Projects: Sådan får du AI til at lave dit arbejde for dig",
+      "url": "https://www.youtube.com/watch?v=FD3t6WUOR_Y",
+      "duration_seconds": 669.3,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres brugen af AI-værktøjer som Manus og Custom GPT til at effektivisere arbejdsprocesser, især inden for podcastproduktion. Værterne deler deres erfaringer med at automatisere opgaver som transkription og billedgenerering, hvilket sparer tid og forbedrer workflowet.",
+      "topics": [
+        "AI",
+        "podcastproduktion",
+        "transkription",
+        "Custom GPT",
+        "Manus",
+        "digital marketing"
+      ],
+      "people": [
+        "Christian Tziniu",
+        "Tine"
+      ],
+      "key_points": [
+        "AI kan bruges til at automatisere gentagne opgaver i podcastproduktion.",
+        "Custom GPT er nyttigt til at generere tekstbaseret output, men har begrænsninger med billedgenerering.",
+        "Manus kan orkestrere forskellige AI-modeller for at levere færdige produkter.",
+        "Det er muligt at lave predefinerede instrukser i Manus for at effektivisere arbejdsprocessen.",
+        "Brug af AI kan reducere den tid, der bruges på redigering og forberedelse af indhold."
       ]
     },
     {
@@ -885,18 +1095,20 @@
       ]
     },
     {
-      "file": "de_10x_største_meta-nyheder_i_2025_snyder_google_frankrig_vs",
+      "file": "de_10x_største_meta-nyheder_i_2025_snyder_google_frankrig_vs._apple_pinterest_ai_slop",
       "title": "De 10x største Meta-nyheder i 2025 + Snyder Google? + Frankrig vs. Apple + Pinterest AI slop",
       "url": "https://www.youtube.com/watch?v=TDMTguZWP2E",
       "duration_seconds": 2962.9,
       "language": "da",
-      "summary": "I denne episode diskuteres de seneste Meta-nyheder, herunder Googles automatiserede rabatter, som har påvirket norske virksomheder som Blivakker.no. Derudover berøres Apples potentielle bøde i Frankrig for misbrug af markedsposition samt Pinterest's udfordringer med AI-genereret indhold.",
+      "summary": "I denne episode diskuterer værterne de seneste nyheder fra Meta, Google, Apple og Pinterest, herunder bekymringer om Googles dynamiske prissætning og Apples mulige bøde i Frankrig. Derudover berøres emner som AI-genereret indhold på Pinterest og dets indvirkning på platformens autenticitet.",
       "topics": [
-        "Meta-nyheder",
-        "Google Automated Discounts",
-        "App Tracking Transparency",
+        "Meta",
+        "Google",
         "Apple",
-        "Pinterest AI"
+        "Pinterest",
+        "dynamisk prissætning",
+        "AI",
+        "markedsføringsregler"
       ],
       "people": [
         "Christian Tinho",
@@ -904,10 +1116,11 @@
         "Aina Brandstadl"
       ],
       "key_points": [
-        "Blivakker.no har oplevet omsætningstab på grund af Googles dynamiske prissætning.",
-        "Der er bekymringer om lovligheden af Googles automatiserede rabatter.",
-        "Apple står over for en mulig bøde i Frankrig for sin App Tracking Transparency-funktion.",
-        "Pinterest kæmper med AI-genereret indhold, der kan skade platformens autenticitet."
+        "Blivakker.no har oplevet betydelige omsætningstab på grund af Googles automatiske rabatter.",
+        "Apple står over for en potentiel bøde i Frankrig for misbrug af sin markedsposition.",
+        "AI-genereret indhold på Pinterest skaber bekymringer om platformens autenticitet.",
+        "Der er usikkerhed omkring lovligheden af Googles dynamiske prissætning.",
+        "Værterne diskuterer vigtigheden af at holde ferie og balancere arbejde og fritid."
       ]
     },
     {
@@ -993,51 +1206,50 @@
       ]
     },
     {
-      "file": "definitionen_hvad_er_lagging_vs",
+      "file": "definitionen_hvad_er_lagging_vs._leading_indicators_i_b2b_marketingpod",
       "title": "Definitionen: Hvad er Lagging vs. Leading Indicators i B2B? #marketingpod",
       "url": "https://www.youtube.com/watch?v=zSADqZKN0CQ",
       "duration_seconds": 85.3,
       "language": "da",
-      "summary": "Episoden fokuserer på forskellen mellem lagging og leading indicators i B2B-markedsføring. Værtens erfaringer med lagging indicators som salg, livsidsværdi og churn bliver diskuteret, og hvordan disse indikatorer kan være forsinkede i forhold til den faktiske indsats.",
+      "summary": "Episoden diskuterer forskellen mellem lagging og leading indicators i B2B-markedsføring, med fokus på hvordan virksomheder kan bruge disse indikatorer til at vurdere deres præstationer. Der gives konkrete eksempler fra Obsidiens erfaringer med salg, livsidsværdi og churn.",
       "topics": [
         "Lagging Indicators",
         "Leading Indicators",
         "B2B Marketing",
         "Salg",
-        "Churn",
-        "Livsidsværdi"
+        "Livsidsværdi",
+        "Churn"
       ],
       "people": [
         "Obsidian"
       ],
       "key_points": [
-        "Lagging indicators er ofte mere business crucial og reflekterer tidligere resultater.",
-        "Salg og omsætning er eksempler på lagging indicators, der kan tage tid at realisere.",
-        "Livsidsværdi og churn er også lagging indicators, der kræver tid for at vise deres fulde effekt."
+        "Lagging indicators er ofte mere business crucial og reflekterer tidligere præstationer.",
+        "Salg og omsætning er eksempler på lagging indicators, der kan have en forsinkelse på op til 90 dage.",
+        "Livsidsværdi udvikler sig over tid og er også en lagging indicator.",
+        "Churn er en vigtig lagging indicator, der viser kundetilfredshed over tid."
       ]
     },
     {
-      "file": "den_bedste_attributionsmodel_spørg_dine_kunder..",
+      "file": "den_bedste_attributionsmodel_spørg_dine_kunder..._marketingpod",
       "title": "Den bedste attributionsmodel: Spørg dine kunder... #marketingpod",
       "url": "https://www.youtube.com/watch?v=anDZtqasWcU",
       "duration_seconds": 68.8,
       "language": "da",
-      "summary": "Episoden diskuterer vigtigheden af at forstå kunderejsen og hvordan traditionelle attributionsmodeller kan være utilstrækkelige. Gennem eksempler, herunder en dansk fashion shop, fremhæves betydningen af kvalitative data fra kundernes feedback for at få et mere nuanceret billede af, hvad der driver salg.",
+      "summary": "Episoden diskuterer vigtigheden af at spørge kunderne om deres købsbeslutninger for at forstå attribution bedre. Det fremhæves, hvordan traditionelle attributionsmodeller kan være utilstrækkelige, da de kun viser klik, men ikke nødvendigvis hvad der påvirkede købsbeslutningen.",
       "topics": [
         "attributionsmodel",
         "kunderejse",
-        "marketing",
-        "YouTube",
-        "post-purchase survey"
+        "YouTube annoncering",
+        "post-purchase survey",
+        "marketingstrategi"
       ],
-      "people": [
-        "kollegaer",
-        "dansk fashion shop"
-      ],
+      "people": [],
       "key_points": [
         "Traditionelle attributionsmodeller viser kun klik, ikke hvad der overbeviser kunderne.",
-        "Kundefeedback kan give indsigt i, hvilke kanaler der faktisk driver salg.",
-        "YouTube kan have en stor indflydelse på salg, selvom der ikke nødvendigvis er klik på annoncerne."
+        "YouTube kan være en vanskelig kanal at måle salg på.",
+        "Post-purchase surveys kan give indsigt i, hvad der reelt påvirker købsbeslutninger.",
+        "En kvalitativ tilgang til attribution kan være mere værdifuld end en kvantitativ."
       ]
     },
     {
@@ -1239,6 +1451,33 @@
         "Shortform-videoer er blevet populære på andre platforme som TikTok og Meta.",
         "LinkedIn mangler det rette indhold til at gøre shortform-videoer interessante.",
         "Der er en udfordring i at repurpose indhold fra andre platforme til LinkedIn."
+      ]
+    },
+    {
+      "file": "derfor_propper_meta_deres_ai_ned_i_halsen_på_annoncører_-_også_selvom_du_hader_det",
+      "title": "Derfor propper Meta deres AI ned i halsen på annoncører - også selvom du hader det",
+      "url": "https://www.youtube.com/watch?v=gtTZuuOh08c",
+      "duration_seconds": 3011.8,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuteres Metas AI-tilgang og hvordan den påvirker annoncører negativt. Derudover præsenteres ugens nyheder inden for digital marketing, herunder en kontrovers omkring æregenereret indhold og Meta's nye kampagne for AI.",
+      "topics": [
+        "Meta Ads",
+        "AI",
+        "digital marketing",
+        "ophavsret",
+        "kreativt indhold"
+      ],
+      "people": [
+        "Christian",
+        "Lise",
+        "Mark Zuckerberg",
+        "Julius Bolin"
+      ],
+      "key_points": [
+        "Meta lancerer en kampagne for at fremme AI som en hjælp til menneskelig udvikling.",
+        "Der er voksende bekymringer om ophavsret i forbindelse med æregenereret indhold.",
+        "Kvalitetskontrol af AI-genereret indhold bliver stadig vigtigere.",
+        "Annoncører skal være opmærksomme på grænserne for at kopiere kreative ideer."
       ]
     },
     {
@@ -1586,28 +1825,29 @@
       ]
     },
     {
-      "file": "e-com_sommer_rabatkoder_ødelægger_dit_brand_hvad_gør_du_så_feat",
+      "file": "e-com_sommer_rabatkoder_ødelægger_dit_brand_hvad_gør_du_så_feat._mark_jonassen",
       "title": "E-com sommer: Rabatkoder ødelægger dit brand, hvad gør du så? feat. Mark Jonassen",
       "url": "https://www.youtube.com/watch?v=LXBrhff_BEs",
       "duration_seconds": 1888.9,
       "language": "da",
-      "summary": "Episoden diskuterer udfordringerne ved brug af rabatkoder i e-commerce, især inden for fashion-branchen, og hvordan de kan devaluere et brand. Gæsten Mark Jonassen deler sine erfaringer og anbefalinger til, hvordan man kan anvende rabatter strategisk uden at skade brandet.",
+      "summary": "I denne episode diskuterer Christian og Mark Jonasen, hvordan rabatkoder kan påvirke webshops og brandværdi. De udforsker forskellige strategier for at anvende rabatter uden at devaluere brandet, og hvordan man kan navigere i den nuværende e-commerce situation i 2024.",
       "topics": [
         "rabatkoder",
         "branddevaluering",
         "e-commerce",
         "fashion",
-        "marketingstrategi"
+        "marketingstrategier"
       ],
       "people": [
         "Christian",
-        "Mark Jonassen"
+        "Mark Jonasen"
       ],
       "key_points": [
-        "Rabatkoder kan effektivt øge salget, men de kan også skade brandets værdi.",
-        "Det er vigtigt at finde en balance mellem at bruge rabatter og bevare brandets integritet.",
-        "Moderne rabatmetoder inkluderer push- og pull-strategier, som kan anvendes for at minimere negativ indflydelse på brandet.",
-        "Kampagner som '3 for 2' kan være mere fordelagtige end direkte rabatkoder, da de ikke kommunikerer en procentsats."
+        "Rabatkoder kan være effektive, men de kan også skade brandets værdi.",
+        "Det er vigtigt at finde den rette balance mellem at tilbyde rabatter og bevare brandets integritet.",
+        "Moderne rabatstrategier inkluderer push- og pull-metoder, som kan anvendes for at maksimere salget uden at skade brandet.",
+        "Virksomheder bør overveje alternative rabatformer som 3 for 2-kampagner for at undgå direkte rabatkommunikation.",
+        "Det er vigtigt at have kontrol over rabatkodesider for at undgå falske rabatter og beskytte brandet."
       ]
     },
     {
@@ -1664,31 +1904,31 @@
       ]
     },
     {
-      "file": "elon_sagsøger_ørsted_usa_vs",
+      "file": "elon_sagsøger_ørsted_usa_vs._google_ios18_e-commerce_ekspansion_til_udlandet",
       "title": "Elon sagsøger Ørsted + USA vs. Google + iOS18 + E-commerce ekspansion til udlandet",
       "url": "https://www.youtube.com/watch?v=s0qI9F43_JY",
       "duration_seconds": 2691.7,
       "language": "da",
-      "summary": "I denne episode diskuteres tre aktuelle nyheder: Elon Musk sagsøger Ørsted og andre virksomheder for et formodet annonceboykot, USA's justitsministerium anklager Google for monopolistisk adfærd, og Apple introducerer en ny funktion i iOS 18, der gør det muligt at skjule annoncer. Værterne reflekterer over konsekvenserne af disse begivenheder for marketing og tech-industrien.",
+      "summary": "I denne episode diskuteres tre væsentlige nyheder: Elon Musk sagsøger Ørsted og andre virksomheder for et formodet annonceboykot, USA's justitsministerium anklager Google for monopolistisk adfærd, og Apples nye iOS 18 giver brugere mulighed for at skjule annoncer. Diskussionen berører også konsekvenserne af disse sager for marketingbranchen og tech-industrien.",
       "topics": [
         "Elon Musk",
         "Ørsted",
         "Google",
         "monopol",
         "iOS 18",
-        "annoncering",
-        "e-handel"
+        "annoncer",
+        "e-commerce"
       ],
       "people": [
         "Elon Musk",
         "Bob Iger"
       ],
       "key_points": [
-        "Elon Musk sagsøger Ørsted og andre for et formodet annonceboykot på X.",
+        "Elon Musk sagsøger Ørsted og andre for et annonceboykot på Twitter.",
         "USA's justitsministerium anklager Google for at have monopol på onlinesøgninger.",
-        "Apple's nye iOS 18 giver brugere mulighed for at skjule annoncer, hvilket kan påvirke marketingbranchen.",
-        "Google betaler Apple 20 milliarder dollars årligt for at være standard søgemaskine på iOS-enheder.",
-        "Diskussion om balancen mellem gratis indhold og annoncefinansiering på internettet."
+        "Apples iOS 18 giver brugerne mulighed for at skjule annoncer, hvilket kan påvirke marketingbranchen.",
+        "Diskussion om balancen mellem gratis indhold og annoncefinansiering på internettet.",
+        "Google betaler Apple 20 milliarder dollars om året for at være standard søgemaskine på iPhones."
       ]
     },
     {
@@ -1722,16 +1962,45 @@
       ]
     },
     {
-      "file": "en_seo-historie_hvorfor_geeksforgeeks_tabte_70_mio",
+      "file": "en_masterclass_i_læringsfasen_på_meta_ads",
+      "title": "En masterclass i læringsfasen på Meta Ads",
+      "url": "https://www.youtube.com/watch?v=hh4qigIbFms",
+      "duration_seconds": 2597.8,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuterer værterne læringsfasen i Meta Ads og hvordan algoritmen fungerer i forhold til optimering af kampagner. De besvarer et spørgsmål fra en lytter om, hvornår man skal skifte fokus fra landing page views til salg, og hvordan man bedst kan navigere i læringsfasen for at maksimere resultaterne.",
+      "topics": [
+        "Meta Ads",
+        "læringsfase",
+        "algoritme",
+        "e-commerce",
+        "optimering",
+        "best practices"
+      ],
+      "people": [
+        "Morten Meta",
+        "Halvdan",
+        "Alex"
+      ],
+      "key_points": [
+        "Læringsfasen er central for, hvordan Meta Ads optimerer kampagner.",
+        "Det er vigtigt at være tålmodig og ikke ændre i kampagner, mens de er i læringsfasen.",
+        "At tilføje for mange annoncer kan udvande budgettet og hæmme læringen.",
+        "Algoritmen arbejder eksplorativt for at finde den bedste målgruppe og placering.",
+        "Best practices for Meta Ads inkluderer at respektere læringsfasen og undgå unødvendige ændringer."
+      ]
+    },
+    {
+      "file": "en_seo-historie_hvorfor_geeksforgeeks_tabte_70_mio._besøgende",
       "title": "En SEO-historie: Hvorfor GeeksForGeeks tabte 70 mio. besøgende (!)",
       "url": "https://www.youtube.com/watch?v=hDfKelIdjVE",
       "duration_seconds": 875.1,
       "language": "da",
-      "summary": "Episoden diskuterer den dramatiske nedgang i besøgende på websitet GeeksForGeeks, der har mistet op til 70 millioner månedlige besøgende. Værterne analyserer årsagerne til denne deindeksering og advarer om farerne ved at overskride emnegrænser i SEO-strategier.",
+      "summary": "Episoden diskuterer, hvordan GeeksForGeeks, en populær læringsplatform, mistede op til 70 millioner månedlige besøgende efter at være blevet deindekseret af Google. Værterne analyserer årsagerne bag dette fald, herunder problematisk SEO-praksis og manglende topical authority.",
       "topics": [
         "SEO",
         "deindeksering",
         "topical authority",
+        "Google algoritmer",
         "organisk trafik",
         "linkbuilding"
       ],
@@ -1739,11 +2008,11 @@
         "Christian Halvstand"
       ],
       "key_points": [
-        "GeeksForGeeks har oplevet en drastisk nedgang i organisk trafik på grund af ukorrekt SEO-praksis.",
-        "Overskridelse af emnegrænser kan føre til, at Google straffer en hjemmeside med deindeksering.",
-        "Topical authority er vigtigt for at vise Google, hvad en hjemmeside er ekspert i.",
-        "En hjemmeside skal fokusere på relevante emner for at undgå at miste trafik.",
-        "Aggressiv linkbuilding og irrelevant indhold kan resultere i manual penalties fra Google."
+        "GeeksForGeeks mistede op til 70 millioner besøgende på grund af problematiske SEO-strategier.",
+        "Topical authority er vigtigt for at undgå deindeksering fra Google.",
+        "Sitet lavede indhold, der var irrelevant for deres niche, hvilket førte til forvirring hos Googles algoritmer.",
+        "En stor del af deres backlinks blev tabt, hvilket sender dårlige signaler til Google.",
+        "Det er vigtigt at holde sig inden for relevante emner for at bevare organisk trafik."
       ]
     },
     {
@@ -1774,6 +2043,35 @@
       ]
     },
     {
+      "file": "er_det_her_fremtidens_marketing-afdeling_én_person_7_mio._kr._i_løn_fuld_ai",
+      "title": "Er det her fremtidens marketing-afdeling? Én person, 7 mio. kr. i løn & fuld AI",
+      "url": "https://www.youtube.com/watch?v=Nkx5804uoLE",
+      "duration_seconds": 3052.9,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres ClickUps beslutning om at ansætte en CMO til 6 millioner kroner om året, som også skal fungere som hele marketingafdelingen med hjælp fra AI. Derudover gennemgås nyheder om OpenAI's ChatGPT-ads og LinkedIn's nye funktion til at markere AI-genererede opslag.",
+      "topics": [
+        "AI i marketing",
+        "ClickUp",
+        "ChatGPT-ads",
+        "LinkedIn",
+        "digital marketing",
+        "automatisering",
+        "annoncering"
+      ],
+      "people": [
+        "FCK",
+        "OpenAI",
+        "LinkedIn"
+      ],
+      "key_points": [
+        "ClickUp tilbyder 6 millioner kroner til deres kommende CMO, som også skal lede marketingafdelingen med AI.",
+        "OpenAI lancerer ChatGPT-ads i 31 europæiske lande, herunder Danmark.",
+        "LinkedIn introducerer en funktion til at markere opslag som AI-genererede, hvilket påvirker synligheden af sådanne opslag.",
+        "Meta fjerner muligheden for manuelt at vælge annonceplaceringer, hvilket øger AI's rolle i annoncering.",
+        "Der er bekymringer om, hvorvidt ChatGPT-ads vil ramme de rigtige målgrupper."
+      ]
+    },
+    {
       "file": "er_display_på_google_ads_stadig_en_skod-placering",
       "title": "Er Display på Google Ads stadig en skod-placering?",
       "url": "https://www.youtube.com/watch?v=7V5Wr4wEDww",
@@ -1800,26 +2098,26 @@
       ]
     },
     {
-      "file": "er_facebook_annoncering..",
+      "file": "er_facebook_annoncering..._billigt",
       "title": "Er Facebook annoncering... billigt?",
       "url": "https://www.youtube.com/watch?v=kccOvqmlOus",
       "duration_seconds": 99.4,
       "language": "da",
-      "summary": "Episoden diskuterer, hvordan Facebook- og Instagram-annoncering ikke nødvendigvis er blevet dyrere, men snarere mere tilgængelig for flere virksomheder. Derudover belyses, hvordan forbedringer i Meta's annoncemuligheder har gjort det lettere at oprette effektive kampagner.",
+      "summary": "Episoden diskuterer Facebook og Instagram annoncering, og hvordan det ikke nødvendigvis er blevet dyrere, men snarere mere tilgængeligt for annoncører. Derudover undersøges udviklingen af CPM-priser og forbedringer i kampagneopsætning via Meta's algoritmer.",
       "topics": [
         "Facebook annoncering",
         "Instagram annoncering",
-        "Meta Ads",
         "CPM-priser",
+        "Meta Ads",
         "kampagneopsætning"
       ],
       "people": [],
       "key_points": [
-        "Facebook-annoncering er ikke dyrere end før, men mere tilgængelig.",
-        "CPM-priserne har ikke generelt været stigende over de sidste 5-6 år.",
-        "Flere virksomheder bruger Meta-ads, hvilket skaber større konkurrence.",
-        "Advantage Plus har gjort det nemmere at oprette kampagner.",
-        "Dårlige annoncører kan nu få bedre resultater på grund af forbedrede værktøjer."
+        "Facebook-annoncering er ikke dyrere end før",
+        "Barrieren for at komme i gang med Meta-ads er blevet lavere",
+        "Advantage Plus gør kampagneopsætning nemmere",
+        "Flere virksomheder bruger Meta-ads",
+        "Dårlige annoncører får bedre resultater pga. forbedrede redskaber"
       ]
     },
     {
@@ -1903,17 +2201,18 @@
       ]
     },
     {
-      "file": "er_vibe_marketing_med_ai_det_nye_20",
+      "file": "er_vibe_marketing_med_ai_det_nye_20.000_usd_ai_agent_tiktok_shop_meta_ads",
       "title": "Er Vibe Marketing (med AI) det nye? + 20.000 USD AI agent + TikTok Shop + Meta Ads",
       "url": "https://www.youtube.com/watch?v=odp5tmL9Fds",
       "duration_seconds": 3256.6,
       "language": "da",
-      "summary": "I denne episode diskuteres de seneste nyheder inden for AI og digital marketing, herunder OpenAI's planer om at lancere dyre specialiserede AI-agenter, TikTok Shops udvidelse i Europa og Meta Ads' nye annonceplacering. Værterne reflekterer over, hvordan disse ændringer kan påvirke virksomheder og marketingstrategier.",
+      "summary": "I denne episode diskuteres de nyeste trends inden for Vibe Marketing og AI, herunder OpenAI's planer om at lancere specialiserede AI-agenter til virksomheder. Derudover tages der et kig på TikTok Shops udvidelse i Europa og Meta Ads' nye annonceplacering i Facebook-notifikationer.",
       "topics": [
         "Vibe Marketing",
         "AI-agenter",
         "TikTok Shop",
         "Meta Ads",
+        "e-handel",
         "digital marketing"
       ],
       "people": [
@@ -1921,26 +2220,24 @@
         "ChatGPT"
       ],
       "key_points": [
-        "OpenAI planlægger at lancere specialiserede AI-agenter til 20.000 USD om måneden.",
-        "TikTok Shop udvider til Frankrig, Tyskland og Italien, hvilket kan øge konverteringsrater for virksomheder.",
-        "Meta tester nye annonceplaceringer i Facebook-notifikationer for at øge synligheden af annoncer.",
-        "AI kan potentielt erstatte mange arbejdsfunktioner, hvilket kan føre til store besparelser for virksomheder.",
-        "Der er en stigende interesse for at købe service som et resultat, snarere end blot software."
+        "OpenAI planlægger at lancere AI-agenter med abonnementspriser op til 20.000 USD om måneden.",
+        "TikTok Shop udvider til Frankrig, Tyskland og Italien, hvilket gør e-handel mere gnidningsfri for forbrugerne.",
+        "Meta tester nye annonceplaceringer i Facebook-notifikationer for at øge synligheden af annoncer."
       ]
     },
     {
-      "file": "er_view-attribuerede_konverteringer_noget_som_helst_værd_vi_har_testet.",
+      "file": "er_view-attribuerede_konverteringer_noget_som_helst_værd_vi_har_testet",
       "title": "Er View-attribuerede konverteringer noget som helst værd? Vi har testet..",
       "url": "https://www.youtube.com/watch?v=M5fodS-m7EY",
       "duration_seconds": 720.4,
       "language": "da",
-      "summary": "I denne episode af Marketingpod diskuteres forskellen mellem view- og klik-attribueringer i online annoncering, især på platforme som Meta, Snapchat og Google Ads. Værterne undersøger, om view-attribuerede konverteringer har reel værdi, og hvordan den nye inkrementelle attribueringsmetode fra Meta kan hjælpe med at forstå konverteringer bedre.",
+      "summary": "I denne episode af Marketingpod diskuteres forskellen mellem view- og klik-attribueringer i online annoncering, især på platforme som Meta, Snapchat og Google Ads. Værterne undersøger værdien af view-konverteringer og introducerer begrebet inkrementel attribuering, som giver indsigt i, hvor mange konverteringer der faktisk kan tilskrives annoncerne.",
       "topics": [
         "view-attribuering",
         "klik-attribuering",
-        "Meta Ads",
         "inkrementel attribuering",
         "online annoncering",
+        "Meta Ads",
         "konverteringer"
       ],
       "people": [
@@ -1949,10 +2246,10 @@
       ],
       "key_points": [
         "Klik-konverteringer er mere målbare end view-konverteringer.",
-        "View-konverteringer kan være svære at stole på, da det er uklart, om de reelt er forårsaget af annoncen.",
-        "Meta's inkrementelle attribuering giver en bedre forståelse af, hvilke konverteringer der faktisk skyldes annoncerne.",
-        "Der er en tendens til, at yngre brugere interagerer med annoncer på alternative måder, som ikke nødvendigvis involverer klik.",
-        "Værterne er skeptiske over for værdien af view-konverteringer, men anerkender, at de kan bidrage til algoritmens effektivitet."
+        "View-konverteringer kan være svære at stole på, da de ikke altid kan tilskrives annoncerne.",
+        "Inkrementel attribuering giver en bedre forståelse af, hvilke konverteringer der reelt er skabt af annoncerne.",
+        "Der er en tendens til, at yngre brugere ikke klikker på annoncer, men stadig kan have værdi fra dem.",
+        "Meta's inkrementelle attribueringsværktøj ændrer synet på værdien af view-konverteringer."
       ]
     },
     {
@@ -2059,29 +2356,30 @@
       ]
     },
     {
-      "file": "fra_roas_til_poas_til_.",
+      "file": "fra_roas_til_poas_til_.._incrementality_on_ad_spend",
       "title": "Fra ROAS til POAS til .. Incrementality On Ad Spend?",
       "url": "https://www.youtube.com/watch?v=wcbGyqAmY0U",
       "duration_seconds": 162.8,
       "language": "da",
-      "summary": "Episoden introducerer begrebet I.O.A.S. (Incrementality on Ad Spend) som en ny måde at måle marketingeffektivitet på, i stedet for de traditionelle metoder som ROAS og POAS. Der diskuteres også vigtigheden af at have et samlet dashboard til at overvåge marketingomkostninger og omsætning.",
+      "summary": "Episoden diskuterer konceptet Incrementality on Ad Spend (I.O.A.S.) som en ny tilgang til at måle effektiviteten af marketingbudgetter. Værterne deler deres tanker om, hvordan man kan forbedre målingen af marketingresultater ved at fokusere på incrementality fremfor traditionelle metoder som ROAS og POAS.",
       "topics": [
         "Incrementality",
         "Marketingbudget",
-        "Dashboard",
+        "ROAS",
+        "POAS",
         "E-commerce",
+        "Dashboard",
         "Dataanalyse"
       ],
       "people": [
-        "Mention Building",
-        "AskLayer",
-        "SleekNote"
+        "alfden"
       ],
       "key_points": [
-        "I.O.A.S. er et nyt begreb for at måle marketingeffektivitet.",
-        "Det er vigtigt at have et samlet sted til at måle marketingomkostninger og omsætning.",
-        "Brug af værktøjer som Google Look Studio kan hjælpe med at skabe et 'single source of truth' dashboard.",
-        "Traditionelle metoder som ROAS og POAS kan være misvisende."
+        "I.O.A.S. er en ny målemetode for marketingeffektivitet.",
+        "Det er vigtigt at have et samlet dashboard for at måle marketingomkostninger og omsætning.",
+        "Traditionelle metoder som ROAS og POAS kan være misvisende.",
+        "Værktøjer som AskLayer og Google Look Studio kan hjælpe med at optimere dataindsamling.",
+        "Budgetjustering bør baseres på en samlet oversigt fremfor individuelle platforme."
       ]
     },
     {
@@ -2112,6 +2410,33 @@
       ]
     },
     {
+      "file": "få_391_flere_kunder_-_uden_at_generere_flere_leads",
+      "title": "Få 391% flere kunder - uden at generere flere leads",
+      "url": "https://www.youtube.com/watch?v=TaGbI23BNBU",
+      "duration_seconds": 778.0,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres vigtigheden af hurtig opfølgning på leads for at øge konverteringsraten. Ved at ringe til leads inden for et minut kan virksomheder opnå en lukkerate, der er 391% højere end ved opfølgning efter 24 timer.",
+      "topics": [
+        "leadgenerering",
+        "konverteringsrate",
+        "B2B",
+        "B2C",
+        "opfølgning",
+        "marketingstrategi"
+      ],
+      "people": [
+        "Christian",
+        "Halvsten"
+      ],
+      "key_points": [
+        "Hurtig opfølgning på leads er afgørende for at øge lukkeraten.",
+        "At ringe til leads er mere effektivt end at sende e-mails.",
+        "Motivationen hos leads falder hurtigt, hvis der ikke følges op straks.",
+        "Virksomheder bør indrette sig for at sikre hurtig kontakt til nye leads.",
+        "Timing af marketingaktiviteter kan optimere leadopfølgning."
+      ]
+    },
+    {
       "file": "få_chatgpt_til_at_anbefale_din_virksomhed_kamala_harris_valg-budget_perplexity_ads_openai_deal",
       "title": "Få ChatGPT til at anbefale din virksomhed + Kamala Harris valg-budget + Perplexity Ads + OpenAI Deal",
       "url": "https://www.youtube.com/watch?v=HLoSw5iYmcA",
@@ -2138,17 +2463,17 @@
       ]
     },
     {
-      "file": "få_chatgpt_til_at_blive_tekstforfatter_shopify_chatgpt_ai",
+      "file": "få_chatgpt_til_at_blive_tekstforfatter_shopify_chatgpt_ai.com_til_salg_24_frygter_for_job",
       "title": "Få ChatGPT til at blive tekstforfatter + Shopify & ChatGPT + AI.com til salg + 24% frygter for job",
       "url": "https://www.youtube.com/watch?v=5_NX5eRUG0c",
       "duration_seconds": 3286.9,
       "language": "da",
-      "summary": "I denne episode diskuteres brugen af AI, især ChatGPT, i tekstforfatning og marketing. Værterne udforsker, hvordan AI kan forbedre indholdsskrivning og de muligheder, det giver tekstforfattere, samt de bekymringer, der eksisterer omkring jobusikkerhed i branchen.",
+      "summary": "I denne episode diskuteres brugen af AI, især ChatGPT, i tekstforfatning og e-handel. Værterne udforsker, hvordan AI kan forbedre indholdsskrivning og skabe nye muligheder for tekstforfattere, samtidig med at de adresserer bekymringer om jobusikkerhed i marketingbranchen.",
       "topics": [
         "AI",
-        "ChatGPT",
         "tekstforfatning",
-        "marketing",
+        "ChatGPT",
+        "e-handel",
         "jobusikkerhed",
         "Shopify"
       ],
@@ -2158,11 +2483,35 @@
         "Tinju"
       ],
       "key_points": [
-        "AI kan skabe både dårligt og godt indhold, men det kræver korrekt brug.",
-        "Tekstforfattere kan få 'superpowers' ved at bruge AI effektivt.",
-        "24% af marketingansatte frygter at miste deres job på grund af AI og digitalisering.",
-        "OpenAI introducerer nye shopping-funktioner i ChatGPT, der integreres med Shopify.",
-        "Der er en stigende interesse for at bruge ChatGPT til produktanbefalinger og købsbeslutninger."
+        "AI kan skabe både dårligt og godt indhold, afhængigt af hvordan det bruges.",
+        "Tekstforfattere skal lære at bruge AI for at forblive relevante i fremtiden.",
+        "Der er stigende frygt for jobtab blandt marketingansatte på grund af AI og digitalisering.",
+        "OpenAI introducerer nye shopping-funktioner i ChatGPT, der kan ændre måden, vi handler online.",
+        "Der er potentiale for AI at give tekstforfattere 'superkræfter', hvis de bruger værktøjerne korrekt."
+      ]
+    },
+    {
+      "file": "få_den_ultimative_personlige_ai-assistent_med_de_her_4_trin",
+      "title": "Få den ultimative personlige AI-assistent med de her 4 trin",
+      "url": "https://www.youtube.com/watch?v=rok8pxuetL8",
+      "duration_seconds": 2683.2,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres, hvordan man kan gøre AI til sin personlige assistent gennem fire trin. Værterne udforsker, hvilke opgaver en personlig assistent typisk har, og hvordan AI kan anvendes til at håndtere disse opgaver mere effektivt.",
+      "topics": [
+        "AI-assistenter",
+        "personlig assistent",
+        "kalenderstyring",
+        "e-mailhåndtering",
+        "administrativ support"
+      ],
+      "people": [
+        "Christian"
+      ],
+      "key_points": [
+        "AI kan frigive tid ved at håndtere rutineopgaver.",
+        "Det er vigtigt at give AI kontekst for at få bedre resultater.",
+        "De fleste bruger AI som en praktikant i stedet for en chefassistent.",
+        "Der er fire niveauer af AI-brug, der gradvist bliver mere komplekse og effektive."
       ]
     },
     {
@@ -2189,6 +2538,30 @@
         "AI kan analysere eksisterende kampagner og foreslå nye kreative løsninger, hvilket sparer tid og ressourcer.",
         "Kvaliteten af de prompts, man giver til AI, har stor indflydelse på det endelige resultat.",
         "Vibe Marketing kan gøre marketingarbejdet mere tilgængeligt for enkeltpersoner i marketingafdelinger."
+      ]
+    },
+    {
+      "file": "genvejen_til_at_miste_dit_job_pga._ai_i_marketing",
+      "title": "Genvejen til at miste dit job pga. AI i marketing",
+      "url": "https://www.youtube.com/watch?v=iwPFsHFfgcc",
+      "duration_seconds": 2441.5,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuteres de seneste nyheder inden for digital marketing, herunder Metas forlig med amerikanske delstater og OpenAIs nye annoncepersonalisering i ChatGPT. Derudover introduceres begrebet 'Meetproxy', som Christian Signue forklarer nærmere.",
+      "topics": [
+        "Meta Ads",
+        "OpenAI",
+        "digital marketing",
+        "annoncepersonalisering",
+        "sociale medier",
+        "retssager"
+      ],
+      "people": [
+        "Christian Signue"
+      ],
+      "key_points": [
+        "Meta har indgået et forlig på op mod 18 milliarder dollar med amerikanske delstater.",
+        "OpenAI vil gøre annoncer i ChatGPT mere personlige ved at bruge kontekst fra brugernes samtaler.",
+        "Meta har en interesse i, at TikTok og YouTube ikke indfører lignende restriktioner som dem, de selv er blevet pålagt."
       ]
     },
     {
@@ -2300,6 +2673,29 @@
       ]
     },
     {
+      "file": "google_ads_ændrer_sig_17._august_sådan_påvirker_det_dine_kampagner",
+      "title": "Google Ads ændrer sig 17. august – sådan påvirker det dine kampagner!",
+      "url": "https://www.youtube.com/watch?v=9OaBqts-FHY",
+      "duration_seconds": 552.0,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres en vigtig opdatering fra Google Ads, der træder i kraft den 17. august. Opdateringen vil påvirke targetbaserede budstrategier og kan føre til uventede fald i kampagneperformance, hvis man ikke er opmærksom på ændringerne.",
+      "topics": [
+        "Google Ads",
+        "budstrategier",
+        "ROAS",
+        "performance",
+        "marketing"
+      ],
+      "people": [
+        "Jenny Marvin"
+      ],
+      "key_points": [
+        "Google Ads opdatering vil fokusere mere på at nå de satte targets for CPA og ROAS.",
+        "Kampagner, der er begrænset af budget og overperformer, kan opleve fald i performance efter opdateringen.",
+        "Det er vigtigt at gennemgå kampagner og justere targets før opdateringen træder i kraft."
+      ]
+    },
+    {
       "file": "google_ai_programmatic_seo_fremtidens_søgeresultater",
       "title": "Google AI, Programmatic SEO & Fremtidens søgeresultater",
       "url": "https://www.youtube.com/watch?v=aiYf7CGA0d4",
@@ -2392,6 +2788,87 @@
         "Google Search Console anonymiserer data, hvilket kan føre til misforståelser i rapporteringen.",
         "Mange kliks, især non-branded, kan være anonymiseret, hvilket gør det svært at vurdere SEO-effektivitet.",
         "Det er vigtigt at være opmærksom på, at Search Console ikke altid giver et klart billede af, hvilke søgninger der driver trafik."
+      ]
+    },
+    {
+      "file": "grimme_annoncer_tjener_mange_penge_-_her_er_de_9_bedste_fra_morten_kristian_halfdan",
+      "title": "Grimme annoncer tjener mange penge - her er de 9 bedste fra Morten, Kristian & Halfdan",
+      "url": "https://www.youtube.com/watch?v=hlo0u8JYVms",
+      "duration_seconds": 3372.0,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuterer værterne Morten, Kristian og Halfdan, hvordan grimme annoncer kan være mere effektive end polerede reklamer. De præsenterer forskellige typer af grimme annoncer, herunder memes, og argumenterer for, at disse kan skabe bedre engagement og konverteringer.",
+      "topics": [
+        "grimme annoncer",
+        "memes",
+        "digital marketing",
+        "brand guidelines",
+        "performance marketing"
+      ],
+      "people": [
+        "Morten B.",
+        "Christian Tiniu",
+        "Halfdan"
+      ],
+      "key_points": [
+        "Grimme annoncer kan skabe bedre performance end polerede reklamer.",
+        "Det er vigtigt at balancere mellem grimme og pæne annoncer for at opnå optimale resultater.",
+        "Memes kan være en effektiv måde at kommunikere budskaber på i marketing.",
+        "Humor i annoncering kan skabe en positiv følelse og engagement hos modtagerne.",
+        "Det er vigtigt at reagere hurtigt på trends for at udnytte memes effektivt."
+      ]
+    },
+    {
+      "file": "guide_sådan_mangedobler_du_effekten_af_din_annoncering_-_fra_a_til_z",
+      "title": "Guide: Sådan mangedobler du effekten af din annoncering - fra A til Z",
+      "url": "https://www.youtube.com/watch?v=ZJnp8ckrvkc",
+      "duration_seconds": 2255.9,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod præsenteres en guide til, hvordan man kan mangedoble effekten af sin annoncering ved at bryde igennem det imaginære glasloft, mange virksomheder oplever. Der gives konkrete eksempler og metoder til at identificere og segmentere målgrupper for at optimere annoncering og post-click experiences.",
+      "topics": [
+        "annoncering",
+        "målgrupper",
+        "segmentering",
+        "post-click experience",
+        "B2C",
+        "B2B",
+        "AI i marketing"
+      ],
+      "people": [
+        "Morten B."
+      ],
+      "key_points": [
+        "Det er vigtigt at forstå og segmentere sine kunder for at optimere annoncering.",
+        "Mange virksomheder overser vigtigheden af at granulere deres målgrupper.",
+        "AI kan være en nyttig ressource til at identificere købsituationer og segmenter.",
+        "At arbejde med forskellige segmenter kan åbne op for nye markeder og kunder.",
+        "Historisk set har mange virksomheder ikke ændret deres opfattelse af kunderne, hvilket kan hindre vækst."
+      ]
+    },
+    {
+      "file": "gør_de_her_3_ting_for_at_lave_meget_bedre_content_med_ai",
+      "title": "Gør de her 3 ting for at lave meget bedre content med AI",
+      "url": "https://www.youtube.com/watch?v=2PfZxvUoqBo",
+      "duration_seconds": 2987.1,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres tre trin til at skabe bedre indhold ved hjælp af AI, med fokus på anvendelse i søgemaskineoptimering, nyhedsbreve og annoncering. Derudover berøres aktuelle nyheder fra digital marketing, herunder Apples privatlivsproblemer og OpenAIs nye annoncemuligheder.",
+      "topics": [
+        "AI indhold",
+        "søgemaskineoptimering",
+        "digital marketing",
+        "annoncering",
+        "privatliv",
+        "OpenAI"
+      ],
+      "people": [
+        "Christian Sinju",
+        "Laura"
+      ],
+      "key_points": [
+        "Tre trin til at lave bedre indhold med AI præsenteres.",
+        "Apple har indgået et forlig vedrørende privatlivsproblemer med Siri.",
+        "OpenAI åbner for self-service annoncering via ChatGPT.",
+        "Google advarer mod nye regler, der kan påvirke indholdsdistribution.",
+        "Debatten om kontrol over synlighed på digitale platforme er central."
       ]
     },
     {
@@ -2526,12 +3003,12 @@
       ]
     },
     {
-      "file": "halfdan_udstiller_tinho_på_4",
+      "file": "halfdan_udstiller_tinho_på_4.5_sekunder_hvad_er_consent_mode_v2_marketingpod",
       "title": "Halfdan udstiller Tinho på 4.5 sekunder (\"Hvad er Consent Mode V2?\") #marketingpod",
       "url": "https://www.youtube.com/watch?v=cdYmei8NlX4",
       "duration_seconds": 69.6,
       "language": "da",
-      "summary": "I denne episode diskuterer Christian og Halfdan vigtigheden af Consent Mode V2 og dets betydning for tracking og Google Ads. De påpeger, at mange danske websites ikke har implementeret denne funktion, hvilket kan påvirke deres annonceafkast.",
+      "summary": "I denne episode diskuterer værterne Consent Mode V2 og dets betydning for tracking og Google Ads. De fremhæver, hvordan mange danske websites stadig ikke har implementeret denne funktion, hvilket kan påvirke deres annonceafkast.",
       "topics": [
         "Consent Mode V2",
         "tracking",
@@ -2540,13 +3017,12 @@
       ],
       "people": [
         "Christian",
-        "Halfdan",
         "Tinho"
       ],
       "key_points": [
         "Consent Mode V2 er vigtigt for at maksimere afkastet i Google Ads.",
         "Mange danske websites har ikke implementeret Consent Mode V2.",
-        "Tracking er en kompleks verden, som mange har svært ved at navigere i."
+        "Tracking er et komplekst emne, som mange stadig har svært ved at forstå."
       ]
     },
     {
@@ -2684,6 +3160,33 @@
       ]
     },
     {
+      "file": "hook_rate_afgør_din_meta_performance_-_lær_den_at_kende_på_15_minutter_her",
+      "title": "Hook rate afgør din Meta Performance - lær den at kende på 15 minutter her",
+      "url": "https://www.youtube.com/watch?v=6R56KHxCfS0",
+      "duration_seconds": 876.4,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres begrebet 'hook rate', som er afgørende for, hvordan annoncer præsterer på Meta-platformen. Værterne forklarer, hvad hook rate er, hvordan man måler det, og deler forskellige strategier til at optimere det for at fange seernes opmærksomhed i de første sekunder af en video.",
+      "topics": [
+        "hook rate",
+        "Meta Ads",
+        "videoannoncering",
+        "marketingstrategi",
+        "kundeadfærd"
+      ],
+      "people": [
+        "Morten Bie",
+        "Christian Signor",
+        "Bige"
+      ],
+      "key_points": [
+        "Hook rate måler, hvor mange der ser de første tre sekunder af en video.",
+        "Det er vigtigt at fange seernes opmærksomhed hurtigt for at forbedre annonceperformance.",
+        "Der findes forskellige typer hooks, herunder uventede hooks og negativity hooks, som kan bruges til at engagere seerne.",
+        "En god hook skal være relevant og ikke bare clickbait for at undgå høj afvisningsrate.",
+        "Visuelle, auditive og tekstuelle elementer kan alle bidrage til en effektiv hook."
+      ]
+    },
+    {
       "file": "hvad_er_archive_sales_og_er_de_effektive_til_at_øge_salget_marketingpod",
       "title": "Hvad er Archive Sales og er de effektive til at øge salget? #marketingpod",
       "url": "https://www.youtube.com/watch?v=mQdwnIUyTac",
@@ -2775,29 +3278,30 @@
       ]
     },
     {
-      "file": "hvad_er_llms",
+      "file": "hvad_er_llms.txt_og_kan_den_hjælpe_dig_med_at_ranke_bedre_i_chatgpt",
       "title": "Hvad er LLMs.txt, og kan den hjælpe dig med at ranke bedre i ChatGPT?",
       "url": "https://www.youtube.com/watch?v=4trCk2D-6w0",
       "duration_seconds": 460.3,
       "language": "da",
-      "summary": "I denne episode af MarketingPod diskuteres LLM.txt-filen og dens betydning for hjemmesiders synlighed i søgemaskiner som ChatGPT. Værterne forklarer, hvordan LLM.txt kan implementeres og dele erfaringer fra kunder, der har set en stigning i trafik efter implementeringen.",
+      "summary": "I denne episode af MarketingPod diskuteres betydningen af LLM.txt-filer og deres potentiale for at forbedre rangeringen af hjemmesider i søgemaskiner som ChatGPT. Værterne forklarer, hvordan LLM.txt-filer fungerer, deres lighed med robots.txt-filer, og hvordan implementeringen af disse filer kan føre til en markant stigning i webtrafik.",
       "topics": [
         "LLM.txt",
         "robots.txt",
-        "SEO",
-        "ChatGPT",
-        "trafikoptimering"
+        "søgemaskineoptimering",
+        "webtrafik",
+        "digital marketing"
       ],
       "people": [
         "Signeo",
-        "Tino"
+        "Tino",
+        "Obsidian Digital"
       ],
       "key_points": [
-        "LLM.txt-filen kan hjælpe med at forbedre synligheden af hjemmesider i søgemaskiner.",
-        "Implementeringen af LLM.txt kan føre til en markant stigning i trafik fra AI-modeller som ChatGPT.",
-        "Både Anthropic og Perplexity understøtter LLM.txt, mens Google er mere tilbageholdende.",
-        "Det er en hurtig og nem opgave at oprette og uploade en LLM.txt-fil.",
-        "Der er allerede eksempler på succesfuld implementering af LLM.txt, som har givet øget trafik."
+        "LLM.txt-filer kan hjælpe søgemaskiner med at forstå indholdet af et website.",
+        "Implementering af LLM.txt kan føre til en næsten 3-dobling af webtrafik fra LLM'er.",
+        "Store virksomheder som Anthropic og Perplexity understøtter LLM.txt-standarden.",
+        "Google har ikke officielt anerkendt LLM.txt, men der er tegn på, at de måske bruger den.",
+        "Det er en hurtig og nem opgave at oprette og uploade en LLM.txt-fil til et website."
       ]
     },
     {
@@ -2978,19 +3482,20 @@
       ]
     },
     {
-      "file": "hvad_gør_du_når_google_dræber_seo_frankrig_vs._apple_h_m_vs",
+      "file": "hvad_gør_du_når_google_dræber_seo_frankrig_vs._apple_h_m_vs._modeller_facebook_venner-feed",
       "title": "Hvad gør du, når Google dræber SEO? + Frankrig vs. Apple + H&M vs. Modeller + Facebook Venner-feed",
       "url": "https://www.youtube.com/watch?v=pLH8_7MHylo",
       "duration_seconds": 2941.2,
       "language": "da",
-      "summary": "I denne episode diskuteres de økonomiske udfordringer, som værterne står overfor, samt de seneste nyheder om Apple, H&M og Facebook. Derudover analyseres konsekvenserne af Apples App Tracking Transparency og hvordan det påvirker digitale marketingstrategier.",
+      "summary": "I denne episode diskuterer værterne udfordringerne ved investeringer og aktiemarkedet, herunder personlige tab og strategier. De dykker også ned i aktuelle nyheder om Apple, H&M's brug af AI i modebranchen, samt Facebooks nye funktioner, der fokuserer på brugerens venner.",
       "topics": [
-        "SEO",
+        "aktier",
+        "investering",
         "Apple",
         "H&M",
+        "AI",
         "Facebook",
-        "digital marketing",
-        "aktier"
+        "digital marketing"
       ],
       "people": [
         "Christian",
@@ -2998,10 +3503,35 @@
         "Niklas"
       ],
       "key_points": [
-        "Apple får bøde for monopolmisbrug i forbindelse med App Tracking Transparency.",
-        "H&M bruger AI til at skabe digitale tvillinger af modeller.",
-        "Facebook introducerer en ny funktion til at vise indhold fra venner.",
-        "Værterne diskuterer deres økonomiske tab og aktiemarkedets situation."
+        "Aktiemarkedet er i hårde tider, og værterne diskuterer deres personlige tab.",
+        "Apple er blevet idømt en bøde for monopolmisbrug i forbindelse med App Tracking Transparency.",
+        "H&M bruger AI til at skabe digitale tvillinger af modeller til reklamer.",
+        "Facebook introducerer en ny funktion, der fokuserer på indhold fra venner."
+      ]
+    },
+    {
+      "file": "hvad_har_vi_lært_af_3.489_tracking_audits",
+      "title": "Hvad har vi lært af 3.489 tracking audits?",
+      "url": "https://www.youtube.com/watch?v=ccFNHL6TxlM",
+      "duration_seconds": 692.6,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres resultaterne fra 3.489 tracking audits, som viser, at mange virksomheder ikke har styr på deres tracking-setup. Værterne gennemgår vigtige statistikker og pointerer, hvad der skal gøres for at forbedre tracking i 2026.",
+      "topics": [
+        "tracking",
+        "server-side tagging",
+        "conversion API",
+        "cookie consent",
+        "digital marketing"
+      ],
+      "people": [
+        "Christian Signut"
+      ],
+      "key_points": [
+        "66% af websites har ikke server-side tracking opsat.",
+        "60% bruger conversions-API, men kun 34% har server-side tagging.",
+        "61% har implementeret cookie consent mode.",
+        "Virksomheder bør optimere deres cookie consent for bedre opt-in rates.",
+        "Det er essentielt at have tracking opsat, hvis man bruger penge på digital marketing."
       ]
     },
     {
@@ -3033,31 +3563,30 @@
       ]
     },
     {
-      "file": "hvad_kan_ai_gøre_for_dig_de_næste_par_år_feat",
+      "file": "hvad_kan_ai_gøre_for_dig_de_næste_par_år_feat._lars_tvede",
       "title": "Hvad kan AI gøre for dig de næste par år? feat. Lars Tvede",
       "url": "https://www.youtube.com/watch?v=GRAxu57ZUsc",
       "duration_seconds": 2701.4,
       "language": "da",
-      "summary": "I denne episode diskuterer Christian og Lars Tvede, hvordan kunstig intelligens (AI) vil påvirke fremtiden og økonomien. Lars deler sine indsigter om den eksponentielle udvikling af teknologi og hvordan AI vil revolutionere arbejdsmarkedet og samfundet generelt.",
+      "summary": "I denne episode diskuterer Christian og Lars Tvede, hvordan kunstig intelligens (AI) vil påvirke fremtiden og økonomien. Lars deler sine erfaringer med AI's hurtige udvikling og dens potentiale til at revolutionere arbejdsmarkedet og teknologiske processer.",
       "topics": [
         "Kunstig intelligens",
         "Fremtidsteknologi",
         "Økonomi",
-        "Robotter",
-        "Supertrends"
+        "Supertrends",
+        "Selvkørende biler",
+        "Innovation"
       ],
       "people": [
-        "Christian",
         "Lars Tvede",
-        "Jacob Bok Axelsen",
-        "Daniel Kæfer"
+        "Christian"
       ],
       "key_points": [
         "AI udvikler sig hurtigere end tidligere teknologiske spring som PC'en og internettet.",
-        "Fysisk AI, såsom selvkørende biler, forventes at bryde igennem inden for de næste år.",
-        "Maskiner vil sandsynligvis udføre det mest økonomisk produktive arbejde i fremtiden.",
-        "AI kan effektivt hjælpe med at skrive og redigere bøger, inklusive at finde kilder.",
-        "Supertrends overvåger og analyserer videnskab og teknologi for at forudsige fremtidige gennembrud."
+        "Kunstig intelligens vil i fremtiden udføre en stor del af det økonomisk produktive arbejde.",
+        "Implementeringen af AI er lettere og hurtigere end tidligere teknologiske innovationer.",
+        "Fysiske AI-løsninger som selvkørende biler forventes at bryde igennem inden for de næste år.",
+        "AI kan effektivt hjælpe med at skrive og redigere bøger samt finde relevante kilder."
       ]
     },
     {
@@ -3166,6 +3695,57 @@
       ]
     },
     {
+      "file": "hvad_vi_har_lært_af_at_bruge_155.000_kr._på_facebook_ads_til_design_as_a_service",
+      "title": "Hvad vi har lært af at bruge 155.000 kr. på Facebook Ads til Design as a Service",
+      "url": "https://www.youtube.com/watch?v=rMjLDF0-RxE",
+      "duration_seconds": 3392.9,
+      "language": "da",
+      "summary": "I denne episode af MarkedsImport diskuteres erfaringer fra brugen af 155.000 kr. på Facebook Ads til Design as a Service. Værterne gennemgår, hvad der har virket og ikke virket i deres kampagner, samt hvordan denne investering har bidraget til en betydelig omsætningsvækst.",
+      "topics": [
+        "Facebook Ads",
+        "Design as a Service",
+        "digital marketing",
+        "annoncering",
+        "Meta",
+        "Google Ads"
+      ],
+      "people": [
+        "Christian",
+        "Signe"
+      ],
+      "key_points": [
+        "155.000 kr. investering i Facebook Ads har øget omsætningen til en halv million kr. om måneden.",
+        "Meta overhaler Google i digitale annonceindtægter.",
+        "Effektiviteten af annoncer varierer mellem Google og Meta, hvor Meta tilbyder bedre profitabilitet for annoncører."
+      ]
+    },
+    {
+      "file": "hvejsel_er_tilbage_hvordan_din_virksomhed_bliver_ai-first_i_2027",
+      "title": "HVEJSEL ER TILBAGE: Hvordan din virksomhed bliver AI-first i 2027",
+      "url": "https://www.youtube.com/watch?v=TVexnIlT-ps",
+      "duration_seconds": 4497.8,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod er Jesper Weizel tilbage for at diskutere, hvordan virksomheder kan blive AI-first inden 2027. Han deler indsigt om, hvordan AI kan anvendes til at optimere forretningsprocesser og skabe vækst, samt hvordan Fjærsdal Web har tilpasset sig den nye teknologi.",
+      "topics": [
+        "AI",
+        "virksomhedsstrategi",
+        "vækst",
+        "automatisering",
+        "dataanalyse"
+      ],
+      "people": [
+        "Jesper Weizel",
+        "Christian"
+      ],
+      "key_points": [
+        "Virksomheder bør fokusere på at bruge AI til at skabe vækst frem for kun at optimere processer.",
+        "AI kan hjælpe med at forbedre kundeoplevelsen ved at tilbyde intelligente alternativer i checkout-processen.",
+        "Det er vigtigt at give medarbejdere adgang til data, så de kan bygge egne løsninger og innovationer.",
+        "Overgangen fra abonnementer til API-baserede omkostninger kan reducere udgifterne betydeligt.",
+        "Sikkerhed er en central udfordring, når man arbejder med AI og data."
+      ]
+    },
+    {
       "file": "hvilke_11_ai-værktøjer_bruger_vi_lige_nu_round_2_-_2026-edition",
       "title": "Hvilke 11 AI-værktøjer bruger vi lige nu? Round 2 - 2026-edition!",
       "url": "https://www.youtube.com/watch?v=5qETFdErgZE",
@@ -3220,28 +3800,80 @@
       ]
     },
     {
-      "file": "hvor_får_folk_på_wall_street_deres_bonus_fra_svaret_er_kristian_tinho",
+      "file": "hvis_du_arbejder_med_meta_ads_skal_du_kende_the_breakdown_effect",
+      "title": "Hvis du arbejder med Meta Ads, SKAL du kende The Breakdown Effect",
+      "url": "https://www.youtube.com/watch?v=N_n3v0Irwq4",
+      "duration_seconds": 990.9,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuteres The Breakdown Effect, et vigtigt fænomen for dem, der arbejder med Meta Ads. Værterne Morten og værten dykker ned i, hvordan Meta's algoritmer fungerer, og hvorfor det er essentielt at forstå aktionsdynamikken bag annoncering på platformen.",
+      "topics": [
+        "Meta Ads",
+        "The Breakdown Effect",
+        "annoncering",
+        "algoritmer",
+        "marketingstrategi"
+      ],
+      "people": [
+        "Morten B.",
+        "Halvdan"
+      ],
+      "key_points": [
+        "The Breakdown Effect er en aktionsdynamik, der påvirker, hvordan budgetter fordeles mellem annoncer.",
+        "Meta's algoritme optimerer for at finde de billigste konverteringer, hvilket kan føre til, at en annonce bruger mere budget end forventet.",
+        "Det er vigtigt at stole på Meta's algoritme og ikke forsøge at overstyre den med manuelle justeringer.",
+        "Budgettering og kampagnestruktur skal være korrekt for at maksimere resultaterne fra Meta Ads."
+      ]
+    },
+    {
+      "file": "hvis_du_overvejer_et_nyt_job_efter_sommerferien_så_se_med_her_-",
+      "title": "Hvis du overvejer et nyt job efter sommerferien, så se med her :-)",
+      "url": "https://www.youtube.com/watch?v=o8QEe2Xwfb4",
+      "duration_seconds": 1061.8,
+      "language": "da",
+      "summary": "I denne episode af Marketingpodd diskuterer Christian Tinho og Frederik Nyland, at Obsidian søger nye kollegaer og venner. De præsenterer forskellige stillinger og opfordrer lytterne til at overveje at ansøge, selv hvis de ikke passer perfekt til de nævnte roller.",
+      "topics": [
+        "jobmuligheder",
+        "digital marketing",
+        "AI",
+        "Social Media Ads",
+        "Google Ads",
+        "Marketing Automation"
+      ],
+      "people": [
+        "Christian Tinho",
+        "Frederik Nyland"
+      ],
+      "key_points": [
+        "Obsidian søger nye medarbejdere til flere forskellige stillinger.",
+        "Lytterne opfordres til at ansøge, selv hvis de ikke passer perfekt til de nævnte stillinger.",
+        "Obsidian tilbyder rådgivning og eksekvering inden for digital marketing.",
+        "AI er en central del af Obsidian's strategi og tjenester.",
+        "Der er fokus på både Social Media Ads og Google Ads i virksomhedens tilbud."
+      ]
+    },
+    {
+      "file": "hvor_får_folk_på_wall_street_deres_bonus_fra_svaret_er_kristian_tinho._marketingpod",
       "title": "Hvor får folk på Wall Street deres bonus fra? Svaret er Kristian Tinho. #marketingpod",
       "url": "https://www.youtube.com/watch?v=dFQZxouLrfY",
       "duration_seconds": 147.2,
       "language": "da",
-      "summary": "I denne episode diskuteres investeringer på aktiemarkedet, hvor værten driller sin gæst, Kristian Tinho, om hans uheldige aktiehandler. De taler om forskellen mellem at investere i ETF'er og individuelle aktier, samt de udfordringer og erfaringer, man kan have som investor.",
+      "summary": "Episoden diskuterer investeringer på aktiemarkedet, hvor værten og gæsten Kristian Tinho deler deres erfaringer og strategier. Der bliver også talt om udfordringerne ved at investere og de personlige konsekvenser af dårlige investeringer.",
       "topics": [
-        "aktiemarkedet",
+        "aktier",
         "investering",
         "ETF'er",
-        "privatøkonomi",
-        "Wall Street"
+        "Wall Street",
+        "privatøkonomi"
       ],
       "people": [
         "Kristian Tinho"
       ],
       "key_points": [
-        "Investeringer i aktier kan være risikable, og mange oplever tab.",
-        "ETF'er udgør en stor del af porteføljen for mange investorer.",
-        "Det er vigtigt at lære af sine investeringer, uanset om de er heldige eller uheldige.",
-        "Der er en stor forskel mellem at investere privat og gennem virksomheder.",
-        "Aktiemarkedet kan sammenlignes med et spil, hvor held spiller en rolle."
+        "Investeringer kan være risikable, og mange oplever tab.",
+        "ETF'er udgør en stor del af porteføljerne for mange investorer.",
+        "Der er en balance mellem held og strategi i aktiemarkedet.",
+        "Personlige investeringer kan påvirke ens økonomiske situation betydeligt.",
+        "Der er en humoristisk tilgang til de udfordringer, der følger med investering."
       ]
     },
     {
@@ -3350,12 +3982,12 @@
       ]
     },
     {
-      "file": "hvordan_bruger_du_10.000_kr",
+      "file": "hvordan_bruger_du_10.000_kr._i_marketing-budget_bedst",
       "title": "Hvordan bruger du 10.000 kr. i marketing-budget bedst?",
       "url": "https://www.youtube.com/watch?v=_y3oDAU48lc",
       "duration_seconds": 918.5,
       "language": "da",
-      "summary": "I denne episode diskuteres, hvordan man bedst anvender et marketingbudget på 10.000 kroner om måneden. Værterne overvejer forskellige kanaler som Google Ads, Facebook og LinkedIn, og hvordan man vælger den mest effektive strategi baseret på virksomhedens mål og efterspørgsel.",
+      "summary": "I denne episode diskuteres, hvordan man bedst anvender et marketingbudget på 10.000 kroner om måneden. Værterne overvejer forskellige kanaler som Google Ads, Facebook og LinkedIn, og hvordan man skal prioritere dem afhængigt af virksomhedens mål og den specifikke branche.",
       "topics": [
         "marketingbudget",
         "Google Ads",
@@ -3370,10 +4002,9 @@
       ],
       "key_points": [
         "Det anbefales at starte med Google Ads for at ramme aktive søgere efter serviceydelser.",
-        "Det er vigtigt at overveje, om man skal bruge hele budgettet på én kanal eller diversificere.",
-        "Kvaliteten af leads kan variere afhængigt af den kanal, man bruger.",
-        "Søgeintentionen bag søgeord er afgørende for at vurdere, om de er værd at annoncere på.",
-        "En kombination af kanaler kan være nødvendig, hvis der ikke er tilstrækkelig søgning på Google."
+        "Det er ikke nødvendigvis effektivt at bruge hele budgettet på én kanal; det afhænger af søgevolumen og konkurrence.",
+        "Kvaliteten af leads kan variere afhængigt af, hvilken kanal der anvendes til markedsføring.",
+        "Det er vigtigt at overveje både kort- og langsigtede tilbagebetalingstider for marketingaktiviteter."
       ]
     },
     {
@@ -3709,30 +4340,28 @@
       ]
     },
     {
-      "file": "hvordan_mr",
+      "file": "hvordan_mr._beast_har_succes_med_brand_deals_og_undgår_reklame-viben",
       "title": "Hvordan Mr. Beast har succes med 'brand deals' og undgår \"reklame-viben\"",
       "url": "https://www.youtube.com/watch?v=Z005r-jJymI",
       "duration_seconds": 290.6,
       "language": "da",
-      "summary": "Episoden diskuterer, hvordan Mr. Beast effektivt integrerer brand deals i sine videoer uden at skabe en reklame-vibe. Gennem konkrete eksempler forklares, hvordan en god integration kan fastholde seernes opmærksomhed og øge værdien for sponsorer.",
+      "summary": "Episoden handler om, hvordan Mr. Beast effektivt integrerer brand deals i sine videoer uden at det føles som traditionelle reklamer. Gennem konkrete eksempler diskuteres vigtigheden af at gøre reklamer til en naturlig del af indholdet for at undgå, at seerne hopper fra.",
       "topics": [
         "brand deals",
         "YouTube",
         "reklameintegration",
         "Mr. Beast",
-        "seertælling",
-        "sponsorerede videoer"
+        "sponsorerede indhold"
       ],
       "people": [
         "Mr. Beast",
         "Tino"
       ],
       "key_points": [
-        "Mr. Beast undgår klassiske reklame-formater ved at integrere brand deals i videoens indhold.",
-        "Dårligt integrerede reklamer får seerne til at hoppe fra, hvilket påvirker sponsorernes værdi.",
-        "Gode eksempler på integration kan øge seernes engagement og fastholdelse.",
-        "Statistikker viser, hvornår seere typisk hopper ud af videoer, hvilket kan guide bedre integration.",
-        "Mr. Beast's tilgang er essentiel for hans forretningsmodel og sponsorers tilfredshed."
+        "Mr. Beast undgår klassiske reklame-formater ved at integrere brand deals i indholdet.",
+        "God integration af reklamer kan reducere antallet af seere, der hopper fra videoen.",
+        "Eksempler på både succesfuld og dårlig reklameintegration blev præsenteret.",
+        "Det er essentielt for YouTubere at skabe værdi for både seere og sponsorer gennem effektive brand deals."
       ]
     },
     {
@@ -4215,6 +4844,32 @@
       ]
     },
     {
+      "file": "kina_blokerer_for_meta_og_manus_chatgpt_5.5_og_hvordan_du_fordobler_din_konverteringsrate",
+      "title": "Kina blokerer for Meta og Manus, ChatGPT 5.5 og Hvordan du fordobler din konverteringsrate",
+      "url": "https://www.youtube.com/watch?v=oGojZ2KqUVk",
+      "duration_seconds": 2565.7,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuteres de seneste nyheder om Kinas blokering af Metas opkøb af AI-startuppen Manus samt OpenAIs lancering af CPC-annoncer i ChatGPT. Derudover gives der indsigt i, hvordan virksomheder kan fordoble deres konverteringsrate ved at optimere deres landingssider.",
+      "topics": [
+        "Meta",
+        "Kina",
+        "AI",
+        "CPC-annoncer",
+        "ChatGPT",
+        "konverteringsrate",
+        "landingssider"
+      ],
+      "people": [
+        "Ritinho",
+        "Greg Brockman"
+      ],
+      "key_points": [
+        "Kina blokerer Metas opkøb af Manus af hensyn til national sikkerhed.",
+        "OpenAI introducerer CPC-annoncer i ChatGPT, hvilket kan ændre annoncemarkedet.",
+        "Virksomheder kan fordoble deres konverteringsrate ved at optimere deres landingssider."
+      ]
+    },
+    {
       "file": "klaviyo_kommer_med_sms_i_danmark_-_men_det_er_virkeligt_dyrt",
       "title": "Klaviyo kommer med SMS i Danmark - men det er virkeligt dyrt",
       "url": "https://www.youtube.com/watch?v=idfh5ncDhPo",
@@ -4259,6 +4914,63 @@
         "Dette kan føre til en overestimering af omsætningen fra e-mail-marketing.",
         "Det anbefales at justere attributionsvinduet til kortere perioder for mere præcise målinger.",
         "Klaviyo er stadig et effektivt værktøj for Shopify-virksomheder trods denne udfordring."
+      ]
+    },
+    {
+      "file": "kom_med_til_marketing_bio_i_oktober_2026_-",
+      "title": "Kom med til Marketing Bio i oktober 2026! :-)",
+      "url": "https://www.youtube.com/watch?v=9r2kUCrle_s",
+      "duration_seconds": 282.4,
+      "language": "da",
+      "summary": "Episoden handler om det kommende Marketing-BIO arrangement, der finder sted fra 6. til 9. oktober 2026 i flere danske byer. Værterne diskuterer detaljerne omkring arrangementet, herunder oplægsholdere, priser og aktiviteter, samt den hyggelige atmosfære, der præger eventet.",
+      "topics": [
+        "Marketing-BIO",
+        "netværk",
+        "oplægsholdere",
+        "biografarrangement",
+        "popcorn",
+        "kaffe"
+      ],
+      "people": [
+        "Christian Tiniu",
+        "Halvdan",
+        "Morten B. Jakob Holtzmauritsen",
+        "Mathilde",
+        "Emil fra Summer Studios"
+      ],
+      "key_points": [
+        "Marketing-BIO finder sted fra 6. til 9. oktober 2026 i Aalborg, Aarhus, Odense og København.",
+        "Arrangementet inkluderer oplæg, netværk, popcorn og sodavand.",
+        "Deltagelse koster 199 kroner, og der forventes høj deltagelse og engagement.",
+        "Der vil være quizzer og præmier til deltagerne.",
+        "Formålet med arrangementet er at skabe en hyggelig og lærerig oplevelse for marketingfolk."
+      ]
+    },
+    {
+      "file": "konverteringsoptimering_for_webshops_med_nicki_der_har_solgt_for_250_mio._kr._med_shopify",
+      "title": "Konverteringsoptimering for webshops med Nicki, der har solgt for +250 mio. kr. med Shopify",
+      "url": "https://www.youtube.com/watch?v=U6jeWdSYbho",
+      "duration_seconds": 1960.5,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuterer værterne konverteringsoptimering for webshops med Niki Duo Rasmussen, der har stor erfaring inden for e-commerce. De deler indsigt om, hvordan man effektivt kan forbedre konverteringsrater og optimere webshopoplevelsen for at øge salget.",
+      "topics": [
+        "konverteringsoptimering",
+        "e-commerce",
+        "Shopify",
+        "webshop",
+        "dataanalyse",
+        "mobiloplevelse"
+      ],
+      "people": [
+        "Niki Duo Rasmussen",
+        "Crescentino"
+      ],
+      "key_points": [
+        "Konverteringsoptimering er afgørende for at maksimere salget uden ekstra marketingomkostninger.",
+        "Det er vigtigt at starte med at analysere data for at identificere, hvor der er behov for forbedringer.",
+        "Mobiloplevelsen er ofte overset, men kritisk for at konvertere besøgende til kunder.",
+        "AB-test er ikke altid den bedste tilgang; nogle ændringer bør implementeres baseret på best practices.",
+        "Visuel kommunikation og klar information om produkter er essentielle for at forbedre konverteringsraten."
       ]
     },
     {
@@ -4339,40 +5051,40 @@
       ]
     },
     {
-      "file": "lagging_vs",
+      "file": "lagging_vs._leading_indicators_-_hvordan_vi_bruger_det_i_obsidian_marketingpod",
       "title": "Lagging vs. Leading Indicators - Hvordan vi bruger det i Obsidian #marketingpod",
       "url": "https://www.youtube.com/watch?v=fwDyU4D2S7w",
       "duration_seconds": 232.3,
       "language": "da",
-      "summary": "Episoden diskuterer forskellen mellem lagging og leading indicators i salgs- og marketingstrategier. Værterne deler deres tilgang til at måle og styre salgsaktiviteter for at sikre, at de når deres mål ved at fokusere på tidlige indikatorer for at kunne handle proaktivt.",
+      "summary": "I denne episode diskuteres forskellen mellem lagging og leading indicators i salgs- og marketingarbejde. Værterne deler deres erfaringer med at bruge disse indikatorer til at optimere kapacitetsstyring og sikre, at de når deres mål for deals og leads.",
       "topics": [
         "Lagging Indicators",
         "Leading Indicators",
+        "Kapacitetsstyring",
         "Salgsstrategi",
-        "Marketingaktiviteter",
-        "Kapacitetsstyring"
+        "Marketingaktiviteter"
       ],
       "people": [],
       "key_points": [
-        "Fokus på leading indicators gør det muligt at handle proaktivt i salgsprocessen.",
-        "Det er vigtigt at oprette deals nu for at sikre fremtidig omsætning.",
-        "Kapacitetsstyring er afgørende for at fordele arbejdsbyrden blandt teammedlemmer.",
-        "Inbound aktiviteter bør stå for en stor del af leadgenereringen.",
-        "Mål for antal deals skal være realistiske og baseret på tidligere data."
+        "Det er vigtigt at fokusere på leading indicators for at kunne handle proaktivt.",
+        "Kapacitetsstyring er afgørende for at fordele arbejdsbyrden korrekt blandt teammedlemmer.",
+        "At have klare mål for antallet af deals og leads hjælper med at styre salgsarbejdet effektivt.",
+        "Inbound marketing skal stå for en stor del af leadgenereringen.",
+        "Det kræver en balanceret tilgang mellem inbound aktiviteter og proaktive tiltag for at nå mål."
       ]
     },
     {
-      "file": "landingsside_til_1.000_kr._pr._lead_vs._landingsside_til_110_kr._pr",
+      "file": "landingsside_til_1.000_kr._pr._lead_vs._landingsside_til_110_kr._pr._lead_marketingpod",
       "title": "Landingsside til 1.000 kr. pr. lead vs. landingsside til 110 kr. pr. lead #marketingpod",
       "url": "https://www.youtube.com/watch?v=aeXT_BIehq0",
       "duration_seconds": 397.3,
       "language": "da",
-      "summary": "I denne episode diskuteres vigtigheden af landingssider i Facebook-annoncering, og hvordan forskellige design kan påvirke konverteringsraterne markant. Gennem konkrete eksempler vises forskellen mellem en effektiv og en ineffektiv landingsside, samt hvordan man kan optimere dem for bedre resultater.",
+      "summary": "I denne episode diskuteres vigtigheden af landingssider i Facebook-annoncering og hvordan de kan påvirke konverteringsraterne. Der præsenteres konkrete eksempler på to forskellige landingssider, der har haft markant forskellig effekt på leadpriserne.",
       "topics": [
-        "Facebook-annoncering",
         "landingssider",
+        "Facebook-annoncering",
         "konverteringsoptimering",
-        "AB split-test",
+        "A/B split-test",
         "forbrugerspsykologi"
       ],
       "people": [
@@ -4380,11 +5092,10 @@
         "Obsidian"
       ],
       "key_points": [
-        "Landingssiden spiller en afgørende rolle for konverteringer i annoncering.",
-        "Der er stor forskel på konverteringspriser afhængigt af landingssidens design.",
+        "Landingssiden spiller en afgørende rolle for konverteringer, men undervurderes ofte.",
+        "Der er stor forskel på leadpriser afhængigt af landingssidens design og indhold.",
         "AB split-test og værktøjer som Microsoft Clarity kan hjælpe med at optimere landingssider.",
-        "Det er vigtigt at fokusere på brugeroplevelsen og hvordan besøgende interagerer med siden.",
-        "Selv små designændringer kan have stor indflydelse på effektiviteten af en landingsside."
+        "Det er vigtigt at fokusere på brugeroplevelsen og hvordan besøgende interagerer med siden."
       ]
     },
     {
@@ -4547,19 +5258,20 @@
       ]
     },
     {
-      "file": "marketing-idéer_til_0_kr",
+      "file": "marketing-idéer_til_0_kr._forvirrede_influencers_linkedin_seo_ai",
       "title": "Marketing-idéer til 0 kr. + Forvirrede influencers + LinkedIn + SEO AI",
       "url": "https://www.youtube.com/watch?v=T00vCn8Rn88",
       "duration_seconds": 3490.9,
       "language": "da",
-      "summary": "I denne episode diskuteres de seneste opdateringer fra Google, LinkedIn og retningslinjerne for influencers i Danmark. Derudover berøres emner som AI i søgninger og udfordringerne ved at finde relevante leads på LinkedIn.",
+      "summary": "Episoden diskuterer de seneste nyheder inden for marketing, herunder Googles AI-opdatering til Google Shopping, LinkedIns vækst af freelancere og forvirringen blandt influencers omkring nye markedsføringsretningslinjer. Værterne reflekterer over, hvordan disse ændringer påvirker både forbrugere og virksomheder.",
       "topics": [
         "Google Shopping",
-        "LinkedIn",
-        "influencers",
         "AI",
-        "markedsføring",
-        "freelancers"
+        "LinkedIn",
+        "freelancere",
+        "influencer marketing",
+        "markedsføringslov",
+        "SEO"
       ],
       "people": [
         "Christian Halvstand",
@@ -4568,10 +5280,8 @@
       ],
       "key_points": [
         "Google har lanceret en AI-drevet opdatering af Google Shopping med nye funktioner.",
-        "LinkedIn har nu 10 millioner freelancers tilmeldt deres marketplace, men det er ikke altid effektivt.",
-        "Influencers i Danmark er forvirrede over nye retningslinjer fra forbrugerombudsmanden, der klassificerer alle opslag som reklame.",
-        "Der er en stigende konkurrence fra Amazon i forhold til Googles produktsøgninger.",
-        "Der er behov for bedre distribution og synlighed af LinkedIns freelancer-funktion."
+        "LinkedIn har nu 10 millioner freelancere tilmeldt, men mange oplever udfordringer med leads.",
+        "Influencers er forvirrede over nye retningslinjer fra forbrugerombudsmanden, der betragter alle opslag som reklame."
       ]
     },
     {
@@ -4790,30 +5500,104 @@
       ]
     },
     {
-      "file": "mr",
+      "file": "mr._beast_har_fået_lækket_sin_playbook_til_youtube-_og_forretnings-succes",
+      "title": "Mr. Beast har fået lækket sin playbook til YouTube- og forretnings-succes",
+      "url": "https://www.youtube.com/watch?v=cUAtIqHXrdk",
+      "duration_seconds": 87.8,
+      "language": "da",
+      "summary": "Episoden handler om MrBeast, en af de mest populære YouTubere, og hvordan hans playbook til succes er blevet lækket. Der diskuteres hans arbejdsdisciplin og metoder til at skabe indhold og drive forretning på YouTube.",
+      "topics": [
+        "YouTube",
+        "MrBeast",
+        "arbejdsdisciplin",
+        "videoindhold",
+        "forretning"
+      ],
+      "people": [
+        "MrBeast",
+        "Jimmy Donaldson"
+      ],
+      "key_points": [
+        "MrBeast har 316 millioner subscribers på YouTube.",
+        "Hans seneste videoer har fået 151 millioner visninger i gennemsnit.",
+        "Dokumentet om hans metoder er blevet lækket af medarbejdere."
+      ]
+    },
+    {
+      "file": "mr._beasts_3_metrikker_til_succesfulde_youtube-videoer",
+      "title": "Mr. Beasts 3 metrikker til succesfulde YouTube-videoer",
+      "url": "https://www.youtube.com/watch?v=CNo-cQfm-MU",
+      "duration_seconds": 184.7,
+      "language": "da",
+      "summary": "Episoden diskuterer tre vigtige metrikker for succes på YouTube, som Mr. Beast fremhæver: click-through-rate, Average View Duration og Average View Percentage. Derudover tales der om betydningen af wow-faktor i indholdet og hvordan spektakulære stunts kan tiltrække seere.",
+      "topics": [
+        "YouTube",
+        "click-through-rate",
+        "Average View Duration",
+        "Average View Percentage",
+        "wow-faktor",
+        "video marketing"
+      ],
+      "people": [
+        "Mr. Beast"
+      ],
+      "key_points": [
+        "Tre vigtige metrikker for YouTube-succes: click-through-rate, Average View Duration og Average View Percentage.",
+        "Høj click-through-rate er afgørende for at få seere til at klikke på videoen.",
+        "Wow-faktor og spektakulære stunts kan øge seerengagementet.",
+        "Thumbnail og titel skal være iøjnefaldende for at forbedre click-through-rate.",
+        "Det er vigtigt at analysere og optimere videoindhold for bedre performance."
+      ]
+    },
+    {
+      "file": "mr._beasts_3_youtube_kpi_er_til_succesfulde_videoer",
+      "title": "Mr. Beasts 3 YouTube KPI'er til succesfulde videoer",
+      "url": "https://www.youtube.com/watch?v=-KKxDjumZiA",
+      "duration_seconds": 105.8,
+      "language": "da",
+      "summary": "Episoden fokuserer på MrBeasts tilgang til videoproduktion og de KPI'er, der er afgørende for succes på YouTube. Der lægges vægt på vigtigheden af at skabe indhold specifikt til platformen og tre centrale metrics: click-through-rate, average view duration og average view percentage.",
+      "topics": [
+        "YouTube",
+        "videoproduktion",
+        "KPI'er",
+        "MrBeast",
+        "click-through-rate",
+        "retention metrics"
+      ],
+      "people": [
+        "MrBeast"
+      ],
+      "key_points": [
+        "MrBeast fokuserer på at lave de bedste YouTube-videoer, ikke bare generelt gode videoer.",
+        "Indhold skal tilpasses den specifikke platform for at opnå succes.",
+        "Tre vigtige metrics for YouTube-succes er click-through-rate, average view duration og average view percentage."
+      ]
+    },
+    {
+      "file": "mr._beasts_youtube-playbook_afsløret_margrethe_vestagers_arrogance_rip_tupperware_rente-fest",
       "title": "Mr. Beasts YouTube-playbook afsløret + Margrethe Vestagers arrogance + RIP Tupperware + Rente-fest",
       "url": "https://www.youtube.com/watch?v=mheENcwXqmI",
       "duration_seconds": 3001.2,
       "language": "da",
-      "summary": "Episoden diskuterer forskellige emner, herunder Mr. Beasts YouTube-strategier, Margrethe Vestagers indflydelse som EU's konkurrencekommissar, og de økonomiske konsekvenser af rentenedsættelser i USA. Derudover berøres Tupperware's udfordringer og den ændrede tilgang til affiliate-marketing.",
+      "summary": "Episoden diskuterer forskellige emner, herunder Mr. Beasts YouTube-strategier, Margrethe Vestagers indflydelse som EU-konkurrencekommissær, og de økonomiske konsekvenser af rentenedsættelser fra USA's centralbank. Derudover berøres Tupperwares udfordringer og den nostalgiske affiliate-salgmodel kendt som Top of the World Parties.",
       "topics": [
         "YouTube-strategier",
         "Margrethe Vestager",
         "rentenedsættelser",
-        "Tupperware",
-        "affiliate-marketing"
+        "økonomi",
+        "affiliate marketing",
+        "Tupperware"
       ],
       "people": [
-        "Christian",
-        "Tino",
+        "Mr. Beast",
         "Margrethe Vestager"
       ],
       "key_points": [
-        "Mr. Beasts YouTube-strategier afsløres som innovative og effektive.",
-        "Margrethe Vestager har haft stor indflydelse på EU's regulering af digitale virksomheder.",
-        "USA's centralbank har sænket renten for første gang i fire år, hvilket kan stimulere økonomien.",
-        "Tupperware står over for udfordringer i den digitale tidsalder og ændrede forbrugerpræferencer.",
-        "Der er en stigende interesse for mund-til-mund-markedsføring og affiliate-modeller."
+        "Mr. Beasts YouTube-strategier afsløres",
+        "Margrethe Vestager afslutter sin tid som EU-konkurrencekommissær",
+        "USA's centralbank sænker renten for første gang i fire år",
+        "Top of the World Parties som en nyfortolkning af affiliate marketing",
+        "Tupperware står over for økonomiske udfordringer"
       ]
     },
     {
@@ -4866,6 +5650,32 @@
       ]
     },
     {
+      "file": "nicolaj_har_investeret_i_52_virksomheder_og_fortæller_hvem_der_vinder_i_2027_angelmaxxing",
+      "title": "Nicolaj har investeret i 52 virksomheder og fortæller hvem der vinder i 2027 (Angelmaxxing)",
+      "url": "https://www.youtube.com/watch?v=-pnRrxHX78g",
+      "duration_seconds": 2629.1,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod taler værterne med Nikolaj, en erfaren angel-investor, der har investeret i 52 virksomheder. Nikolaj deler sin indsigt om forskellen mellem at investere på fuld tid versus som hobby, samt hvad der kendetegner gode og dårlige investeringer.",
+      "topics": [
+        "angel-investeringer",
+        "startup",
+        "investering",
+        "netværk",
+        "risikostyring"
+      ],
+      "people": [
+        "Nikolaj Højer",
+        "Tine"
+      ],
+      "key_points": [
+        "Nikolaj har investeret i 52 virksomheder og stræber efter at nå 100 investeringer.",
+        "Forskellen mellem hobbyinvestorer og professionelle investorer ligger i tid og netværk.",
+        "Det er vigtigt at have mange investeringer for at reducere risikoen for tab.",
+        "Red flags i investeringer inkluderer manglende kontakt med kunder og svag teamdynamik.",
+        "Nikolaj bor i Andorra og arbejder med startups i Norden og Spanien."
+      ]
+    },
+    {
       "file": "nu_kan_du_få_ai_ugc_med_produkter_i_hænderne_-_men_virker_det_heygen_v4_test",
       "title": "Nu kan du få AI UGC med produkter i hænderne - men virker det? Heygen V4 Test",
       "url": "https://www.youtube.com/watch?v=sJEy-lPtaMw",
@@ -4888,6 +5698,57 @@
         "Værktøjet gør det muligt at skabe videoer hurtigt og effektivt med minimal indsats.",
         "Kvaliteten af de genererede videoer er tilstrækkelig til brug i Facebook-annoncering.",
         "Det er muligt at lave flere videoer på kort tid for at teste forskellige marketingvinkler."
+      ]
+    },
+    {
+      "file": "ny_eu-lov_om_mærkning_af_ai_-_advokaten_nicholas_forklarer_hvad_det_faktisk_betyder_på_32_minutter",
+      "title": "Ny EU-lov om mærkning af AI - advokaten Nicholas forklarer hvad det faktisk betyder på 32 minutter",
+      "url": "https://www.youtube.com/watch?v=HhHteCx_WFo",
+      "duration_seconds": 1962.3,
+      "language": "da",
+      "summary": "I denne episode diskuterer advokat Nicolás Ørum Keller den nye EU-lovgivning om mærkning af AI-genereret indhold. Loven kræver, at virksomheder tydeligt angiver, når deres indhold er skabt eller manipuleret med AI, for at beskytte forbrugerne mod misinformation.",
+      "topics": [
+        "EU-lovgivning",
+        "AI-mærkning",
+        "forbrugersikkerhed",
+        "digital markedsføring",
+        "erhvervsret"
+      ],
+      "people": [
+        "Nicolás Ørum Keller"
+      ],
+      "key_points": [
+        "EU's AI-forordning kræver mærkning af AI-genereret indhold.",
+        "Mærkningsforpligtelsen gælder for alle erhvervsdrivende, der bruger AI kommercielt.",
+        "Formålet med lovgivningen er at beskytte forbrugerne mod misinformation.",
+        "Mærkningen skal ske ved første interaktion eller eksponering af indholdet.",
+        "Der er ingen nedergrænse for, hvornår AI-mærkning er nødvendig, så længe indholdet fejlagtigt fremstår ægte."
+      ]
+    },
+    {
+      "file": "når_mere_marketing_salg_ikke_skaber_vækst_en_episode_om_at_ramme_vækst-loftet_lokale_maksimum",
+      "title": "Når mere marketing + salg ikke skaber vækst: En episode om at ramme vækst-loftet (lokale maksimum)",
+      "url": "https://www.youtube.com/watch?v=7vYaP_bH_BE",
+      "duration_seconds": 2840.8,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuteres teorien om lokale maksimum og hvordan virksomheder kan ramme vækstloftet, hvor de mister flere kunder, end de tiltrækker. Værterne deler deres erfaringer fra deres tjeneste, Design as a Service, og hvordan de har håndteret disse udfordringer for at fortsætte væksten.",
+      "topics": [
+        "lokale maksimum",
+        "vækststrategier",
+        "Design as a Service",
+        "kapacitetsstyring",
+        "kundetilfredshed"
+      ],
+      "people": [
+        "Christoffer Sandhav",
+        "Alfred"
+      ],
+      "key_points": [
+        "Virksomheder kan ramme et lokalt maksimum, hvor de ikke kan tiltrække flere kunder uden at ændre deres leveranceapparat.",
+        "Det er vigtigt at identificere og adressere interne strukturelle problemer, når væksten stopper.",
+        "Radikal innovation kan være nødvendig for at bryde igennem vækstloftet.",
+        "Kapacitetsstyring er afgørende for at undgå at miste kunder på grund af overbelastning.",
+        "Samarbejde og læring fra andre virksomheder kan hjælpe med at overvinde vækstudfordringer."
       ]
     },
     {
@@ -4967,54 +5828,103 @@
       ]
     },
     {
-      "file": "om_morten_münster_vs",
+      "file": "om_morten_münster_vs._forbrugerombudsmanden_er_alt_en_influencer_laver_reklame",
       "title": "Om Morten Münster vs. Forbrugerombudsmanden: Er alt, en influencer laver, reklame?",
       "url": "https://www.youtube.com/watch?v=97bns_krajI",
       "duration_seconds": 366.1,
       "language": "da",
-      "summary": "Episoden diskuterer Morten Münsters situation med Forbrugerombudsmanden, der mener, at alt, hvad influenceren laver, skal betragtes som reklame, uanset om der er betalt for det eller ej. Der argumenteres for, at denne definition kan føre til en devaluering af, hvad der reelt er reklame.",
+      "summary": "Episoden diskuterer Morten Münsters sag med Forbrugerombudsmanden, der mener, at alt, hvad en influencer laver, skal betragtes som reklame, uanset om der er betalt for det eller ej. Der argumenteres for, at denne definition kan føre til, at reklamebegrebet mister sin betydning.",
       "topics": [
         "influencer marketing",
         "skjulreklame",
         "Forbrugerombudsmanden",
         "Morten Münster",
-        "reklameetik"
+        "reklamebegreb"
       ],
       "people": [
         "Morten Münster"
       ],
       "key_points": [
-        "Forbrugerombudsmanden anser alt, hvad influencere laver, som reklame.",
-        "Morten Münster har ikke modtaget betaling fra Normal, men hans videoer betragtes stadig som reklame.",
-        "Hvis alt er reklame, mister begrebet sin betydning.",
-        "Der er paralleller til cookie-lovgivningen, hvor lovgivning kan føre til ineffektivitet.",
-        "Det er vigtigt at kunne skelne mellem betalt samarbejde og ærlige anbefalinger."
+        "Forbrugerombudsmanden mener, at alt en influencer laver, er reklame.",
+        "Morten Münster har ikke modtaget betaling fra Normal, men alligevel er hans indhold blevet vurderet som reklame.",
+        "Hvis alt er reklame, mister begrebet sin betydning og effekt.",
+        "Der er paralleller til cookie-lovgivningen, hvor reglerne ikke nødvendigvis forbedrer situationen."
       ]
     },
     {
-      "file": "opskriften_på_1",
+      "file": "only_halfdan_metas_læringsfase_forklaret_på_12_minutter",
+      "title": "Only Halfdan: Metas læringsfase forklaret på 12 minutter",
+      "url": "https://www.youtube.com/watch?v=-LjhtfdBj-k",
+      "duration_seconds": 625.1,
+      "language": "da",
+      "summary": "I denne episode forklares læringsfasen i Meta-annoncering, som ofte misforstås af annoncører. Der gives indsigt i, hvordan læringsfasen fungerer, og hvordan man kan optimere sine kampagner for at minimere tiden i denne fase og opnå bedre resultater.",
+      "topics": [
+        "Meta Ads",
+        "læringsfase",
+        "annoncering",
+        "kampagnestruktur",
+        "tracking"
+      ],
+      "people": [],
+      "key_points": [
+        "Læringsfasen ligger i annonce setet, ikke i kampagnerne eller annoncerne.",
+        "For at komme ud af læringsfasen kræves 50 signaler over en 7-dages periode.",
+        "Bedre tracking kan øge mængden af signaler og dermed forbedre resultaterne.",
+        "En optimal kampagnestruktur kan reducere omkostningerne ved at komme ud af læringsfasen.",
+        "Ændringer i kampagner resetter læringsfasen, så det er bedre at samle ændringer."
+      ]
+    },
+    {
+      "file": "opskriften_på_1.924_b2b-deals_på_12_måneder_med_inbound_marketing",
       "title": "Opskriften på 1.924 B2B-deals på 12 måneder med inbound marketing",
       "url": "https://www.youtube.com/watch?v=1UPyPFxCUHI",
       "duration_seconds": 3820.5,
       "language": "da",
-      "summary": "I denne episode af MarketingPod diskuterer værterne Tino og hans medvært, hvordan Obsidian har genereret næsten 2.000 B2B-deals på et år gennem inbound marketing. De berører også aktuelle trends inden for AI-genereret indhold og de udfordringer, som sociale medieplatforme står overfor i forhold til lavkvalitetsindhold.",
+      "summary": "I denne episode af MarketingPod diskuterer værterne Tino og en medvært, hvordan Obsidian har genereret næsten 2.000 B2B-deals på et år gennem inbound marketing. De dykker også ned i aktuelle marketingnyheder, herunder udfordringerne ved AI-genereret indhold og dets indflydelse på sociale medier.",
       "topics": [
-        "B2B marketing",
-        "inbound marketing",
+        "Inbound marketing",
+        "B2B-deals",
         "AI-indhold",
         "YouTube Shorts",
         "Meta",
-        "sociale medier"
+        "Manus"
       ],
       "people": [
         "Tino",
         "Boz Ratken"
       ],
       "key_points": [
-        "Obsidian har genereret 1.987 B2B-deals gennem inbound marketing.",
-        "AI-genereret indhold, kaldet 'AI-slop', vinder frem, men skaber også udfordringer for platforme som YouTube og TikTok.",
-        "Brugerne foretrækker ægte menneskeligt indhold frem for poleret AI-indhold.",
-        "Manus, en AI-agent, er blevet solgt til Meta for 2 milliarder dollars og kan udføre opgaver, som mennesker normalt gør."
+        "Obsidian har genereret 1.987 B2B-deals på 12 måneder gennem inbound marketing.",
+        "AI-genereret indhold, betegnet som 'AI-slop', vinder frem, men brugerne bliver trætte af det.",
+        "YouTube og TikTok står over for udfordringer med lavkvalitetsindhold genereret af AI.",
+        "Manus, en AI-agent, er blevet solgt til Meta for 2 milliarder dollars og kan udføre opgaver uden menneskelig indblanding."
+      ]
+    },
+    {
+      "file": "opskriften_på_11.003_webinar-tilmeldinger_på_6_måneder_i_obsidian_inkl._meta_ads",
+      "title": "Opskriften på 11.003 webinar-tilmeldinger på 6 måneder i Obsidian (inkl. Meta Ads)",
+      "url": "https://www.youtube.com/watch?v=2IA_vGzNBXw",
+      "duration_seconds": 3344.9,
+      "language": "da",
+      "summary": "I denne episode af Markedsingpot diskuteres, hvordan Obsidian har opnået 11.003 webinar-tilmeldinger på seks måneder ved hjælp af forskellige annonceplatforme, herunder Meta Ads. Derudover berøres emner som AI-genererede influencers og de etiske overvejelser omkring deres brug i marketing.",
+      "topics": [
+        "webinar-tilmeldinger",
+        "Meta Ads",
+        "AI-influencers",
+        "digital marketing",
+        "etiske overvejelser"
+      ],
+      "people": [
+        "Christian",
+        "Tino",
+        "Dario"
+      ],
+      "key_points": [
+        "Obsidian har fået 11.003 webinar-tilmeldinger på seks måneder.",
+        "Brugen af AI-genererede influencers rejser spørgsmål om gennemsigtighed og ansvar.",
+        "Omkostningerne ved at producere AI-indhold er faldet, hvilket muliggør en eksplosion i antallet af AI-influencers.",
+        "Der er en stigende bekymring for, hvordan AI-genererede profiler påvirker forbrugernes opfattelse af reklame.",
+        "Anthropic har relanceret Fable 5 med begrænsninger for at imødekomme sikkerhedskrav."
       ]
     },
     {
@@ -5046,6 +5956,32 @@
       ]
     },
     {
+      "file": "performance-branding_masterclass_med_jacob_holst_mouritzen",
+      "title": "Performance-branding Masterclass med Jacob Holst Mouritzen",
+      "url": "https://www.youtube.com/watch?v=xTsPejw87uo",
+      "duration_seconds": 3919.1,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuterer værterne performance branding med Jakob Holst Mouritzen. De udforsker, hvordan virksomheder kan arbejde med branding effektivt uden at have store marketingbudgetter, samt hvordan man kan kombinere performance marketing med brandingstrategier.",
+      "topics": [
+        "performance branding",
+        "digital marketing",
+        "brandingstrategier",
+        "marketingbudgetter",
+        "kunderejse"
+      ],
+      "people": [
+        "Jakob Holst Mouritzen",
+        "Christian"
+      ],
+      "key_points": [
+        "Performance branding er en tilgang, der fokuserer på langsigtet branding i kombination med kortsigtede resultater.",
+        "Virksomheder har i dag en tendens til at være 'performance first', hvilket gør branding nødvendig for at skille sig ud.",
+        "Det er vigtigt at måle effekten af branding-initiativer for at kunne dokumentere deres værdi.",
+        "Der er et skifte i, hvordan marketingchefer skal argumentere for deres budgetter og strategier over for CFO'er.",
+        "Performance branding kan implementeres med mindre budgetter, hvilket gør det tilgængeligt for flere virksomheder."
+      ]
+    },
+    {
       "file": "performance_branding_for_dummies_20_af_jobopslag_er_falske_amazon_tiktok-creators_flygter",
       "title": "Performance Branding for Dummies + 20% af jobopslag er falske + Amazon + TikTok-creators flygter",
       "url": "https://www.youtube.com/watch?v=ML2wbwU_rmg",
@@ -5066,6 +6002,34 @@
         "TikTok-creators flytter deres følgere til Instagram og YouTube på grund af muligheden for et forbud mod TikTok i USA.",
         "Én ud af fem jobopslag i USA er falske, kendt som 'ghost jobs', som ikke har til hensigt at føre til ansættelse.",
         "Amazon lancerer nye annonceværktøjer, der giver detaljhandlere mulighed for at bruge deres avancerede annoncemålretning på egne hjemmesider."
+      ]
+    },
+    {
+      "file": "performance_max_er_døende_-_men_hvad_gør_google_nu",
+      "title": "Performance Max er døende - men hvad gør Google nu?",
+      "url": "https://www.youtube.com/watch?v=AqzbeUR3Ajk",
+      "duration_seconds": 1123.7,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres Performance Max, Googles annoncemodel, der har gennemgået betydelige ændringer siden sin lancering. Emil Norddal forklarer, hvordan annoncører har reageret på manglende kontrol og transparens, og hvordan Google nu tilpasser modellen for at imødekomme annoncørernes behov.",
+      "topics": [
+        "Performance Max",
+        "Google Ads",
+        "annoncering",
+        "PPC",
+        "transparens",
+        "e-handel",
+        "marketingstrategi"
+      ],
+      "people": [
+        "Emil Norddal",
+        "Tinju"
+      ],
+      "key_points": [
+        "Performance Max startede som en intransparent model, men der er nu kommet mere kontrol til annoncørerne.",
+        "Annoncører har fundet kreative måder at bruge Performance Max på, herunder feed-only kampagner.",
+        "Google tilpasser Performance Max ved at give annoncører mulighed for at vælge kanaler fra, hvilket kan ændre dynamikken i annoncemodellen.",
+        "Der er en bekymring for, at Performance Max kan miste sin effektivitet, når annoncører får mere kontrol over placeringerne.",
+        "Google arbejder på nye løsninger som Demandian, der kan erstatte Performance Max."
       ]
     },
     {
@@ -5120,35 +6084,110 @@
       ]
     },
     {
-      "file": "searchgpt_vs._google_elon_musk_smadrer_twitter_reddit_lead_ads_329.000_kr",
+      "file": "programmatic_seo_vandt_hvordan_du_lykkes_med_ai_til_seo",
+      "title": "Programmatic SEO vandt & Hvordan du lykkes med AI til SEO",
+      "url": "https://www.youtube.com/watch?v=CLvc3YVt26U",
+      "duration_seconds": 3143.2,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuterer værterne Christian Tiniu og hans gæst investeringer og aktiemarkedets udvikling, samt hvordan AI påvirker marketingbranchen og arbejdsmarkedet. De analyserer også de seneste trends inden for programmatisk SEO og de ændringer, som AI medfører i efterspørgslen efter marketingkompetencer.",
+      "topics": [
+        "Programmatisk SEO",
+        "AI i marketing",
+        "Aktiemarked",
+        "Digital marketing",
+        "Arbejdsmarked",
+        "Kompetencekrav"
+      ],
+      "people": [
+        "Christian Tiniu"
+      ],
+      "key_points": [
+        "AI ændrer kravene til kompetencer i marketingbranchen.",
+        "Der er en stigende ledighed blandt marketingmedarbejdere på grund af AI's indflydelse.",
+        "Programmatisk SEO og AI-henvisninger til webshops vokser markant.",
+        "Der er en omstilling i arbejdsmarkedet, hvor traditionelle marketingroller udfordres af AI.",
+        "Fremtidige stillinger vil kræve nye færdigheder og strategisk tænkning."
+      ]
+    },
+    {
+      "file": "rage_clicks_scroll_rate_hvordan_du_måler_effekten_af_dine_nye_landingssider",
+      "title": "Rage clicks & Scroll rate: Hvordan du måler effekten af dine nye landingssider",
+      "url": "https://www.youtube.com/watch?v=Y8Te8Pz75d4",
+      "duration_seconds": 543.8,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuterer værterne, hvordan man måler effekten af nye landingssider og post-click experience. De gennemgår både kvantitative og kvalitative metoder til at vurdere, hvordan besøgende interagerer med landingssider, herunder metrics som scroll rate og rage clicks.",
+      "topics": [
+        "landingssider",
+        "post-click experience",
+        "scroll rate",
+        "rage clicks",
+        "konverteringsrate",
+        "kvalitative metrics"
+      ],
+      "people": [
+        "Etinjo",
+        "Måns Møller"
+      ],
+      "key_points": [
+        "Det er vigtigt at måle effekten af landingssider for at optimere konverteringer.",
+        "Kvantitative metrics som CPA og konverteringsrate er nødvendige, men ikke tilstrækkelige.",
+        "Kvalitative metrics som scroll rate og time spent on site giver indsigt i brugerinteraktion.",
+        "Rage clicks indikerer problemer med brugeroplevelsen og skal adresseres.",
+        "Brug værktøjer som Microsoft Clarity og Mouseflow til at analysere brugeradfærd."
+      ]
+    },
+    {
+      "file": "se_med_hvis_du_mistænker_at_du_bruger_for_mange_penge_på_google_eller_meta_ads",
+      "title": "Se med, hvis du mistænker, at du bruger for mange penge på Google eller Meta Ads",
+      "url": "https://www.youtube.com/watch?v=9csfBH0GIlk",
+      "duration_seconds": 881.5,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuteres, hvordan man kan vurdere effekten af Google Ads ved hjælp af en statistisk korrelationsanalyse. Værterne deler deres erfaringer med, hvordan virksomheder kan bruge data til at afgøre, om deres investeringer i Google Ads faktisk fører til øget omsætning eller kunder.",
+      "topics": [
+        "Google Ads",
+        "Meta Ads",
+        "korrelationsanalyse",
+        "marketingstrategi",
+        "annoncering"
+      ],
+      "people": [
+        "Christian",
+        "Halfteren"
+      ],
+      "key_points": [
+        "Der er risiko for at bruge mange penge på Google Ads uden at opnå ønskede resultater.",
+        "En korrelationsanalyse kan hjælpe med at forstå sammenhængen mellem annonceudgifter og kundetilgang.",
+        "Det er vigtigt at være opmærksom på indstillinger og budgetter i Google Ads for at undgå høje klikpriser.",
+        "Korrekt dataindsamling er afgørende for at lave en meningsfuld analyse af annonceeffektivitet.",
+        "Negative korrelationer kan indikere ineffektiv brug af annoncebudgetter."
+      ]
+    },
+    {
+      "file": "searchgpt_vs._google_elon_musk_smadrer_twitter_reddit_lead_ads_329.000_kr._i_b2b_ad_spend",
       "title": "SearchGPT vs. Google + Elon Musk smadrer Twitter + Reddit Lead Ads + 329.000 kr. i B2B ad spend",
       "url": "https://www.youtube.com/watch?v=iB9ys-H_6-4",
       "duration_seconds": 3024.3,
       "language": "da",
-      "summary": "Episoden diskuterer de seneste nyheder inden for digital marketing, herunder OpenAI's lancering af SearchGPT som en potentiel konkurrent til Google, samt de økonomiske udfordringer Twitter står overfor under Elon Musks ledelse. Derudover præsenteres Reddit's nye lead generation ads som en interessant udvikling i annonceverdenen.",
+      "summary": "Episoden diskuterer de seneste nyheder inden for digital markedsføring, herunder OpenAI's lancering af SearchGPT, faldet i Twitters annonceomsætning under Elon Musk, og Reddit's nye lead generation ads. Værterne analyserer konsekvenserne af disse ændringer for annoncører og platformene selv.",
       "topics": [
         "SearchGPT",
-        "Google",
         "Twitter",
-        "Elon Musk",
         "Reddit",
-        "B2B annoncering",
-        "digital marketing"
+        "digital markedsføring",
+        "annoncering",
+        "Elon Musk"
       ],
       "people": [
         "Christian",
         "Halvdan",
-        "Elon Musk",
-        "Mark Zuckerberg",
-        "Sajay Brindel",
-        "Larry Page"
+        "Elon Musk"
       ],
       "key_points": [
-        "OpenAI har lanceret SearchGPT, som kan udfordre Google.",
-        "Twitter's omsætning er faldet med 83% under Elon Musks ledelse.",
-        "Reddit introducerer lead generation ads i samarbejde med Zabbia.",
-        "Annoncører på Twitter er mere tilbøjelige til at skifte platform, hvis de ikke ser resultater.",
-        "SearchGPT kan supplere, men ikke erstatte Google-søgninger."
+        "OpenAI har lanceret SearchGPT, som kan påvirke Google og søgemaskinemarkedet.",
+        "Twitters annonceomsætning er faldet med 83%, hvilket indikerer, at annoncører er utilfredse med platformens retning.",
+        "Reddit introducerer lead generation ads, der kan tiltrække flere direct-response annoncører.",
+        "Elon Musk har reduceret omkostningerne på Twitter, men omsætningen falder stadig drastisk.",
+        "SearchGPT forventes ikke at erstatte Google-søgninger, men kan supplere dem."
       ]
     },
     {
@@ -5179,12 +6218,12 @@
       ]
     },
     {
-      "file": "shein_vs",
+      "file": "shein_vs._temu_shopify_og_youtube_hjemmarbejde_rekord_incrementality_optimization_i_meta",
       "title": "Shein vs. Temu + Shopify og YouTube + Hjemmarbejde rekord + Incrementality Optimization i Meta",
       "url": "https://www.youtube.com/watch?v=ppLfu6J-S-4",
       "duration_seconds": 3058.9,
       "language": "da",
-      "summary": "Episoden diskuterer konflikten mellem de kinesiske e-commerce-virksomheder Shein og Temu, hvor Shein sagsøger Temu for ophavsretskrænkelse. Derudover tales der om den nye integration mellem Shopify og YouTube, samt den stigende tendens til hjemmearbejde i Danmark og dens konsekvenser.",
+      "summary": "Episoden diskuterer de seneste nyheder om e-commerce aktørerne Shein og Temu, herunder en retssag om ophavsret. Derudover tales der om YouTube og Shopify's nye affiliate program samt den stigende tendens til hjemmearbejde i Danmark og dets konsekvenser.",
       "topics": [
         "Shein",
         "Temu",
@@ -5192,17 +6231,18 @@
         "YouTube",
         "Shopify",
         "hjemmearbejde",
-        "arbejdsliv"
+        "affiliate marketing"
       ],
       "people": [
         "Christian",
         "Tinju"
       ],
       "key_points": [
-        "Shein sagsøger Temu for krænkelse af ophavsrettigheder.",
-        "YouTube og Shopify lancerer en ny shopping affiliate program integration.",
-        "Hjemmearbejde er steget til sit højeste niveau siden corona, med 4 ud af 10 beskæftigede, der arbejder hjemmefra.",
-        "Hjemmearbejde kan have både positive og negative konsekvenser for medarbejdere, især for unge, der træder ind på arbejdsmarkedet."
+        "Shein sagsøger Temu for ophavsret",
+        "YouTube og Shopify lancerer affiliate program",
+        "Hjemmearbejde er på sit højeste siden corona",
+        "Debat om hjemmearbejde har både positive og negative konsekvenser",
+        "YouTube har nu 10% markedshare på TV i USA"
       ]
     },
     {
@@ -5498,28 +6538,28 @@
       ]
     },
     {
-      "file": "shorts_hvad_er_less_personalized_ads_eu_vs",
+      "file": "shorts_hvad_er_less_personalized_ads_eu_vs._meta",
       "title": "Shorts: Hvad er Less Personalized Ads? EU vs. Meta",
       "url": "https://www.youtube.com/watch?v=iUJYqnY1QTs",
       "duration_seconds": 1010.7,
       "language": "da",
-      "summary": "Episoden diskuterer Metas nye abonnementsmodel for annoncer i EU, hvor brugere kan betale for at undgå personlige annoncer. Derudover introduceres konceptet 'Less Personalized Ads', som giver brugerne mulighed for at vælge mindre målrettede annoncer, men medfører udfordringer for både annoncører og Meta.",
+      "summary": "Episoden diskuterer Metas nye abonnement for at undgå annoncer i EU og introduktionen af 'Less Personalized Ads'. Værterne analyserer, hvordan EU's regulering påvirker Meta og annoncørers muligheder for målretning af annoncer.",
       "topics": [
         "Meta Ads",
         "EU-regulering",
         "annoncering",
-        "personalisering",
-        "abonnementsmodeller"
+        "personlige annoncer",
+        "abonnementstjenester"
       ],
       "people": [
         "Christian"
       ],
       "key_points": [
         "Meta tilbyder et abonnement i EU for at undgå personlige annoncer.",
-        "EU's regulering kræver, at Meta skal give brugerne et alternativ til personaliserede annoncer.",
-        "Konceptet 'Less Personalized Ads' vil begrænse data, der kan bruges til målretning af annoncer.",
-        "Annoncører vil opleve højere omkostninger og mindre effektiv annoncering.",
-        "Brugere, der vælger mindre personaliserede annoncer, vil modtage mindre relevante reklamer."
+        "EU har indført strenge regler for store tech-virksomheder som Meta.",
+        "Introduktionen af 'Less Personalized Ads' vil begrænse annoncørers muligheder for målretning.",
+        "Brugere, der vælger 'Less Personalized Ads', vil modtage mindre relevante annoncer.",
+        "Der er tre tabere i denne situation: annoncører, Meta og brugerne."
       ]
     },
     {
@@ -6076,6 +7116,33 @@
       ]
     },
     {
+      "file": "shorts_vækst_via_fysiske_arrangementer_hvad_koster_aalborg",
+      "title": "Shorts: Vækst via fysiske arrangementer (hvad koster Aalborg?)",
+      "url": "https://www.youtube.com/watch?v=piXx75m_RNw",
+      "duration_seconds": 1065.1,
+      "language": "da",
+      "summary": "I denne episode diskuteres vigtigheden af fysiske arrangementer som en del af marketingstrategien, med fokus på I.C.E. Digital's erfaringer i Aalborg. Værterne fremhæver fordelene ved at mødes ansigt til ansigt med deltagere frem for at bruge digitale annoncer.",
+      "topics": [
+        "fysiske arrangementer",
+        "marketingstrategi",
+        "netværk",
+        "Aalborg",
+        "I.C.E. Digital"
+      ],
+      "people": [
+        "Christian",
+        "Søren",
+        "Niklas"
+      ],
+      "key_points": [
+        "Fysiske arrangementer giver en mere personlig kontakt og bedre dialog med deltagerne.",
+        "Arrangementerne i Aalborg har været en succes med god respons fra deltagerne.",
+        "Omkostningerne ved at leje lokaler i Aalborg er lavere end i større byer som København.",
+        "Organisk markedsføring via LinkedIn har været effektiv til at tiltrække deltagere.",
+        "Det er vigtigt at finde en balance mellem at tilbyde værdi og undgå at være for sælgende i opfølgningen."
+      ]
+    },
+    {
       "file": "skal_du_byde_på_konkurrenters_navn_i_google_ads",
       "title": "Skal du byde på konkurrenters navn i Google Ads?",
       "url": "https://www.youtube.com/watch?v=RjMYbmuWT7o",
@@ -6102,17 +7169,17 @@
       ]
     },
     {
-      "file": "skal_du_skrive_en_bog_chat.com_købt_til_100_mio._kr",
+      "file": "skal_du_skrive_en_bog_chat.com_købt_til_100_mio._kr._ai_skriver_25_af_kode_google_shopping",
       "title": "Skal du skrive en bog? + Chat.com købt til 100 mio. kr. + AI skriver 25% af kode + Google Shopping",
       "url": "https://www.youtube.com/watch?v=LgKp6wr4IIg",
       "duration_seconds": 2960.4,
       "language": "da",
-      "summary": "I denne episode diskuteres de seneste nyheder inden for teknologi og marketing, herunder Googles nye videoannonceformat, OpenAI's køb af domænet chat.com, og hvordan AI genererer en betydelig del af koden hos Google. Derudover tales der om værdien af domæner og personlige erfaringer med køb af domæner.",
+      "summary": "Episoden diskuterer tre aktuelle nyheder: Googles test af videoformater i shopping-annoncer, OpenAI's køb af domænet chat.com for 100 millioner kroner, og at AI nu genererer 25% af Googles kode. Derudover tales der om værdien af domæner og personlige erfaringer med køb af domæner.",
       "topics": [
-        "Google Shopping",
+        "Google Ads",
         "AI",
         "domæner",
-        "videoannoncer",
+        "shopping-annoncer",
         "OpenAI"
       ],
       "people": [
@@ -6121,11 +7188,40 @@
         "Damesh Shah"
       ],
       "key_points": [
-        "Google tester videoannoncer i shoppingresultater for at øge engagementet.",
-        "OpenAI har købt domænet chat.com for 100 mio. kr.",
-        "25% af al ny kode hos Google genereres af AI.",
-        "Tidlige annoncører kan opleve højere konverteringsrater med videoannoncer.",
-        "Værdien af domæner kan stige hurtigt, som set med chat.com."
+        "Google tester videoformater i shopping-annoncer for at øge engagementet.",
+        "OpenAI har købt domænet chat.com for 100 millioner kroner.",
+        "AI genererer nu 25% af al ny kode hos Google, hvilket øger effektiviteten.",
+        "Værdien af domæner kan stige hurtigt, som set med chat.com.",
+        "Annoncører kan opnå højere konverteringsrater med videoannoncer."
+      ]
+    },
+    {
+      "file": "skal_du_vandmærke_dine_ai-tekster_fra_nu_af_anthropic_ai_watermarketing_mm",
+      "title": "Skal du vandmærke dine AI-tekster fra nu af? (Anthropic AI watermarketing mm.)",
+      "url": "https://www.youtube.com/watch?v=QP5EHOjmDXk",
+      "duration_seconds": 948.8,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres EU's AI-lovgivning og betydningen af vandmærkning af AI-genererede tekster. Værterne gennemgår, hvordan vandmærkning fungerer, især i forhold til Anthropic's tilgang, og hvilke krav der stilles til virksomheder, der bruger AI i deres indhold.",
+      "topics": [
+        "EU-lovgivning",
+        "AI-vandmærkning",
+        "Anthropic",
+        "generativ AI",
+        "digital markedsføring"
+      ],
+      "people": [
+        "Sinu",
+        "Nikolaj Sørum Keller",
+        "Christian Tine",
+        "Søren Skriver",
+        "Niklas Bruglen"
+      ],
+      "key_points": [
+        "EU's AI-lovgivning kræver, at AI-genereret indhold skal vandmærkes.",
+        "Anthropic har udviklet en metode til vandmærkning af tekster baseret på sandsynlighedsteori.",
+        "Virksomheder skal være opmærksomme på, hvornår de skal deklarere brugen af AI i deres indhold.",
+        "Der er forskel på kravene til udbydere af AI og dem, der bruger AI til at generere indhold.",
+        "Google vil sandsynligvis prioritere det bedste indhold, uanset om det er skrevet af mennesker eller AI."
       ]
     },
     {
@@ -6158,30 +7254,27 @@
       ]
     },
     {
-      "file": "sover_du_på_billige_og_effektive_youtube_ads_google_læk_temu_vs",
+      "file": "sover_du_på_billige_og_effektive_youtube_ads_google_læk_temu_vs._eu_paypal_ads",
       "title": "Sover du på (billige og effektive) YouTube Ads? + Google Læk + Temu vs. EU + PayPal Ads",
       "url": "https://www.youtube.com/watch?v=0KSFHEgepIM",
       "duration_seconds": 2368.2,
       "language": "da",
-      "summary": "Episoden diskuterer de seneste nyheder inden for digital marketing, herunder Temus klassificering som en VLOB af EU, en stor lækage af Googles algoritme og PayPals planer om at lancere et annoncenetværk. Derudover tages der en dybere snak om potentialet i YouTube Ads som en undervurderet marketingkanal.",
+      "summary": "Episoden diskuterer de seneste nyheder inden for digital marketing, herunder Temus klassificering som en VLOB af EU, en stor lækage af Googles algoritmedokumenter, og PayPals planer om at lancere et annoncenetværk. Derudover fokuseres der på undervurderede muligheder med YouTube Ads i 2024.",
       "topics": [
         "Temu",
         "Google algoritme",
         "PayPal Ads",
         "YouTube Ads",
-        "Digital Services Act",
-        "e-commerce"
+        "Digital Services Act"
       ],
       "people": [
-        "Christian Halvstand",
-        "Eric Schmidt"
+        "Christian Halvstand"
       ],
       "key_points": [
-        "Temu er nu klassificeret som en VLOB og skal overholde strengere EU-lovgivning.",
-        "Den nylige Google algoritme lækage afslører, at nye domæner straffes i rangeringen.",
-        "PayPal planlægger at lancere et annoncenetværk baseret på brugerdata.",
-        "YouTube Ads betragtes som en undervurderet kanal i digital marketing.",
-        "Regulering fra EU kan påvirke, hvordan store platforme som Temu opererer."
+        "Temu er blevet klassificeret som en VLOB og skal overholde strengere EU-regler.",
+        "Den største lækage af Googles algoritme har afsløret, at nye domæner straffes i rankings.",
+        "PayPal planlægger at lancere et annoncenetværk baseret på brugernes købsdata.",
+        "YouTube Ads betragtes som en undervurderet kanal for annoncering i 2024."
       ]
     },
     {
@@ -6208,6 +7301,33 @@
         "Reddit overvejer at implementere Search Ads for at monetisere deres søgninger.",
         "Performance Max samler forskellige kampagnetyper i én løsning fra Google.",
         "Obsidian Digital har valgt at skifte væk fra Performance Max på grund af udfordringer med kampagneeffektivitet."
+      ]
+    },
+    {
+      "file": "sådan_bruger_ph_import_300.000_kr._på_meta_ads_hver_måned",
+      "title": "Sådan bruger PH Import +300.000 kr. på Meta Ads hver måned",
+      "url": "https://www.youtube.com/watch?v=1imMXS-OGzs",
+      "duration_seconds": 2724.8,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuterer værterne Morten og Benjamin fra PH Import, hvordan virksomheden bruger over 300.000 kr. om måneden på Meta Ads. De deler indsigter om deres markedsføringsstrategi, der fokuserer på ægte og upoleret indhold, samt hvordan de har opnået succes med deres rengøringsprodukter.",
+      "topics": [
+        "Meta Ads",
+        "e-handel",
+        "content marketing",
+        "rengøringsprodukter",
+        "B2B",
+        "B2C"
+      ],
+      "people": [
+        "Morten",
+        "Benjamin"
+      ],
+      "key_points": [
+        "PH Import bruger 300.000 kr. om måneden på annoncering.",
+        "Virksomheden fokuserer på ægte og upoleret indhold i deres markedsføring.",
+        "De har haft succes med at skifte fra B2B til B2C salg.",
+        "Markedsføringsstrategien er enkel og effektiv, med fokus på Meta, Google og e-mail.",
+        "Content produktionen er primært outsourcet, hvilket giver bredere dækning af forskellige rengøringsproblemer."
       ]
     },
     {
@@ -6333,6 +7453,32 @@
         "Omkostningerne ved AI-UGC er betydeligt lavere end ved traditionelt UGC.",
         "Selvom AI-UGC ikke er helt så effektivt som ægte UGC, kan det stadig skabe salg.",
         "Prisen for at lave AI-UGC kan være så lav som 50 kr. per video."
+      ]
+    },
+    {
+      "file": "sådan_laver_du_bedre_billeder_videoer_med_ai_til_digital_marketing",
+      "title": "Sådan laver du bedre billeder & videoer med AI til digital marketing",
+      "url": "https://www.youtube.com/watch?v=xj1MHpFmnS4",
+      "duration_seconds": 3416.2,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuterer værterne, hvordan AI kan bruges til at skabe bedre billeder og videoer til digital marketing. De fokuserer på, hvordan AI kan hjælpe marketingfolk med at overvinde udfordringerne ved at producere kreativer og tilpasse dem til sociale medier.",
+      "topics": [
+        "AI i marketing",
+        "kreativer",
+        "digital annoncering",
+        "Facebook Ads",
+        "Instagram",
+        "Meta Andromeda"
+      ],
+      "people": [
+        "Christian Signue"
+      ],
+      "key_points": [
+        "AI er blevet dygtigere til at lave kreativer, hvilket er vigtigt for marketingfolk.",
+        "Der er et øget behov for flere og bedre kreativer på sociale medier på grund af algoritmeopdateringer.",
+        "Effektiv prompting er afgørende for at få gode resultater fra AI-værktøjer.",
+        "AI kan hjælpe med at reducere tidsforbruget og ressourcerne til at skabe kreativer.",
+        "Kreative variants er blevet et nøglebegreb for at optimere annoncering på sociale medier."
       ]
     },
     {
@@ -6493,19 +7639,19 @@
       ]
     },
     {
-      "file": "sådan_solgte_alex_hormozi_bøger_for_700_mio._kr",
+      "file": "sådan_solgte_alex_hormozi_bøger_for_700_mio._kr._på_72_timer",
       "title": "Sådan solgte Alex Hormozi bøger for 700 mio. kr. på 72 timer",
       "url": "https://www.youtube.com/watch?v=baPmVRBLehw",
       "duration_seconds": 2751.6,
       "language": "da",
-      "summary": "I denne episode diskuteres de seneste trends inden for jobmarkedet for marketing og kommunikation, hvor der er set store fald i jobopslag for traditionelle roller som tekstforfattere og grafikere, mens efterspørgslen efter AI-relaterede stillinger stiger. Værterne reflekterer også over, hvordan AI påvirker marketingbranchen og fremtidige jobmuligheder.",
+      "summary": "I denne episode diskuteres de seneste tendenser inden for jobmarkedet, især inden for marketing og kommunikation, hvor der er set drastiske fald i jobopslag. Derudover berøres effekten af AI på arbejdsmarkedet og investeringer, samt hvordan virksomheder tilpasser sig disse ændringer.",
       "topics": [
         "jobmarked",
-        "marketing",
         "AI",
+        "marketing",
         "jobopslag",
-        "digital marketing",
-        "SEO"
+        "investeringer",
+        "digital marketing"
       ],
       "people": [
         "Alex Hormozi",
@@ -6514,11 +7660,39 @@
         "Christian Tineau"
       ],
       "key_points": [
-        "Der er set drastiske fald i jobopslag inden for marketing og kommunikation.",
-        "Efterspørgslen efter AI- og dataanalyse-stillinger stiger markant.",
-        "Traditionelle roller som tekstforfattere og grafikere forventes ikke at komme tilbage.",
-        "Behovet for erfarne marketingfolk, der kan styre AI, vil stige.",
-        "AI kan erstatte juniorstillinger, hvilket gør det sværere for nye indtrædere i branchen."
+        "Der er 31% færre jobopslag inden for SEO og 62% færre inden for tekstforfatning.",
+        "AI og dataanalyse jobopslag er steget med 142% og 25% henholdsvis.",
+        "Der er bekymringer om, at mange virksomheder ikke får afkast af deres AI-investeringer.",
+        "Fremtiden for job i marketing kan kræve mere erfarne profiler, der kan styre AI.",
+        "Det bliver sværere for nye personer at komme ind i marketingbranchen."
+      ]
+    },
+    {
+      "file": "sådan_tager_du_dine_største_trustpilot-_og_reddit-haters_og_tjener_penge_på_dem",
+      "title": "Sådan tager du dine største Trustpilot- og Reddit-haters og tjener penge på dem :)",
+      "url": "https://www.youtube.com/watch?v=Sx-3zdJN0_0",
+      "duration_seconds": 959.7,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuteres, hvordan man kan bruge negative kommentarer fra Trustpilot og Reddit som en del af sin markedsføringsstrategi. Værterne deler erfaringer med at lave annoncer, der svarer på kritik, og hvordan dette har genereret positive resultater for deres virksomhed.",
+      "topics": [
+        "Trustpilot",
+        "Reddit",
+        "markedsføring",
+        "negative anmeldelser",
+        "annoncering",
+        "Webshop-skolen"
+      ],
+      "people": [
+        "Christian",
+        "Morten Gie",
+        "Morten Graversen"
+      ],
+      "key_points": [
+        "Negative kommentarer kan vendes til en fordel i markedsføringen.",
+        "Ærlige og oprigtige svar på kritik kan tiltrække flere kunder.",
+        "Det er vigtigt at adressere kritik direkte for at opbygge tillid.",
+        "Videoformater, der svarer på negative kommentarer, kan have høj engagement.",
+        "At fremhæve kritik i annoncer kan gøre dem mere interessante for potentielle kunder."
       ]
     },
     {
@@ -6578,29 +7752,27 @@
       ]
     },
     {
-      "file": "søgeordsanalyser_til_e-commerce_ekspansion_og_1",
+      "file": "søgeordsanalyser_til_e-commerce_ekspansion_og_1.700_søgninger_på_donut_hundeseng",
       "title": "Søgeordsanalyser til e-commerce ekspansion (og 1.700 søgninger på \"donut hundeseng\")",
       "url": "https://www.youtube.com/watch?v=haFy8nR9p18",
       "duration_seconds": 91.8,
       "language": "da",
-      "summary": "Episoden fokuserer på søgeordsanalyser i forbindelse med e-commerce ekspansion, med særligt fokus på søgninger relateret til 'Donut Hundeseng' og 'Autopatisches Hundebæt'. Der diskuteres klikpriser og søgevolumen i Danmark og Tyskland, samt tendenser i markedet for disse produkter.",
+      "summary": "Episoden fokuserer på søgeordsanalyser i forbindelse med e-commerce ekspansion, med særligt fokus på 'Donut Hundeseng' og 'Autopatisches Hundebæt'. Der diskuteres søgevolumen, klikpriser og markedstendenser i Danmark og Tyskland.",
       "topics": [
         "søgeordsanalyse",
         "e-commerce",
         "klikpriser",
-        "søgninger",
-        "hundesenge",
+        "Google Ads",
         "markedstendenser"
       ],
       "people": [
         "Tino"
       ],
       "key_points": [
-        "Der er 1700 søgninger på 'Donut Hundeseng' i Danmark, men søgevolumen er faldende.",
-        "I Tyskland er der 7200 søgninger på 'Autopatisches Hundebæt', som har stigende søgevolumen.",
-        "Klikprisen for 'Donut Hundeseng' er 5 kroner i Danmark, mens den er 3,5 kroner i Tyskland.",
-        "Det er vigtigt at vurdere, om man træder ind i et faldende eller stigende marked.",
-        "Søgevolumen kan give indsigt i produktets fremtidige potentiale."
+        "Der er 1700 søgninger på Donut Hundeseng i Danmark, men søgevolumen er faldende.",
+        "I Tyskland er der 7200 søgninger på Autopatisches Hundebæt, som er stigende.",
+        "Klikprisen for Donut Hundeseng er 5 kroner, mens den er 3,5 kroner i Tyskland.",
+        "Det er vigtigt at vurdere, om man bevæger sig ind i et faldende eller voksende marked."
       ]
     },
     {
@@ -6858,6 +8030,33 @@
       ]
     },
     {
+      "file": "top_of_mind_sådan_bliver_du_kundernes_førstevalg_mental_availability",
+      "title": "Top of Mind: Sådan bliver du kundernes førstevalg (Mental Availability)",
+      "url": "https://www.youtube.com/watch?v=wi8u0pnRKro",
+      "duration_seconds": 2730.6,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod diskuterer værterne Morten B. og Christian betydningen af at være 'Top of Mind' i markedsføring. De udforsker, hvordan mental tilgængelighed påvirker forbrugerens valg af brand og hvordan dette koncept kan integreres i performance marketing.",
+      "topics": [
+        "Top of Mind",
+        "mental availability",
+        "branding",
+        "performance marketing",
+        "forbrugeradfærd"
+      ],
+      "people": [
+        "Morten B.",
+        "Christian",
+        "Halvstand"
+      ],
+      "key_points": [
+        "Top of Mind refererer til det brand, der først kommer i tankerne hos forbrugeren i en given situation.",
+        "Mental availability handler om, hvor nemt det er for forbrugeren at huske et brand i købsøjeblikket.",
+        "At være Top of Mind kan føre til højere konverteringer og bedre performance i marketing.",
+        "Der er en stigende erkendelse af vigtigheden af branding i forhold til performance marketing.",
+        "Category entry points er afgørende for at forstå, hvornår og hvorfor forbrugere tænker på et bestemt brand."
+      ]
+    },
+    {
       "file": "tracking-special_1_hvad_er_serverside_tagging",
       "title": "Tracking-special #1: Hvad er serverside tagging?",
       "url": "https://www.youtube.com/watch?v=MS-B2PSY6eg",
@@ -7062,30 +8261,29 @@
       ]
     },
     {
-      "file": "tricks_til_avanceret_facebook_annoncering_linkedin_accelerate_meta_vs",
+      "file": "tricks_til_avanceret_facebook_annoncering_linkedin_accelerate_meta_vs._sydamerika_amazon_ads",
       "title": "Tricks til avanceret Facebook annoncering + LinkedIn Accelerate + Meta vs. Sydamerika + Amazon Ads",
       "url": "https://www.youtube.com/watch?v=HzO8Drg9suc",
       "duration_seconds": 3713.9,
       "language": "da",
-      "summary": "Episoden diskuterer de seneste nyheder inden for digital annoncering, herunder LinkedIns nye AI-drevne kampagneværktøj, Amazon Ads' nye lead generation format og Metas brug af offentlige Instagram-opslag til AI-træning. Derudover tages der fat på udfordringerne ved de nuværende annonceværktøjer og behovet for bedre kontrol for annoncører.",
+      "summary": "Episoden diskuterer de seneste opdateringer inden for digital annoncering, herunder LinkedIns nye AI-drevne kampagneværktøj, Amazon Ads' nye lead generation mulighed og Metas brug af offentlige Instagram-opslag til AI-træning. Der er også en kritisk vurdering af, hvordan disse værktøjer påvirker annoncørernes kontrol og effektivitet.",
       "topics": [
         "Facebook annoncering",
         "LinkedIn Accelerate",
         "Meta",
         "Amazon Ads",
-        "AI i annoncering",
-        "databeskyttelse",
-        "e-commerce"
+        "digital marketing",
+        "AI i annoncering"
       ],
       "people": [
         "Christian Halvstand"
       ],
       "key_points": [
         "LinkedIn lancerer et AI-drevet kampagneværktøj kaldet Accelerate.",
-        "Meta bruger offentlige Instagram-opslag til AI-træning, hvilket vækker bekymring i Latinamerika.",
-        "Amazon åbner for lead generation annoncering for annoncører uden produkter på platformen.",
-        "Der er behov for bedre kontrol og resultater frem for blot hurtigere kampagneoprettelse.",
-        "Nuværende annonceværktøjer kan være problematiske og ineffektive for annoncører."
+        "Meta bruger offentlige Instagram-opslag til træning af deres AI, hvilket skaber problemer for brugere i Latinamerika.",
+        "Amazon åbner for lead generation annoncering for annoncører uden egne produkter på platformen.",
+        "Der er bekymringer om, at nye kampagneværktøjer kan gøre det nemmere at oprette kampagner, men ikke nødvendigvis bedre.",
+        "Annoncører ønsker mere kontrol over deres kampagner frem for blot at gøre oprettelsen hurtigere."
       ]
     },
     {
@@ -7212,6 +8410,32 @@
       ]
     },
     {
+      "file": "vi_prøvede_linkedin_message_ads_og_det_virkede",
+      "title": "Vi prøvede LinkedIn Message Ads — og det virkede?!",
+      "url": "https://www.youtube.com/watch?v=1_ionVIBSmE",
+      "duration_seconds": 765.9,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres LinkedIn Message Ads, et annoncemedie som tidligere har været kontroversielt i Danmark. Værterne deler deres erfaringer med formatet, herunder hvordan det fungerer, lovgivningen omkring det, og hvordan man kan optimere omkostningerne ved brug af manuel budgivning.",
+      "topics": [
+        "LinkedIn Ads",
+        "Message Ads",
+        "Annonceoptimering",
+        "Digital marketing",
+        "Lovgivning",
+        "Leadgenerering"
+      ],
+      "people": [
+        "Margrethe Vestager",
+        "Christoffer"
+      ],
+      "key_points": [
+        "LinkedIn Message Ads er nu lovligt i Danmark og tilgængeligt siden 2024.",
+        "Formatet tillader direkte beskeder til målgruppen, hvilket kan øge åbningsraterne.",
+        "Manuel budgivning kan resultere i betydeligt lavere omkostninger pr. sendt og åben besked.",
+        "Det er vigtigt at definere målgruppen præcist for at maksimere effektiviteten af kampagner."
+      ]
+    },
+    {
       "file": "vi_tester_verdens_første_ai-browser_og_det_er_genialt",
       "title": "Vi tester verdens første AI-browser, og det er GENIALT",
       "url": "https://www.youtube.com/watch?v=1xW-e-BOZkI",
@@ -7296,18 +8520,18 @@
       ]
     },
     {
-      "file": "vibe_coding_sådan_byggede_vi_et_78.000_kr",
+      "file": "vibe_coding_sådan_byggede_vi_et_78.000_kr._tool_på_127_minutter_længden_af_jurassic_park",
       "title": "Vibe coding: Sådan byggede vi et 78.000 kr. tool på 127 minutter (længden af Jurassic Park)",
       "url": "https://www.youtube.com/watch?v=ySdKxOxVxQQ",
       "duration_seconds": 2998.8,
       "language": "da",
-      "summary": "I denne episode af Marketingpod diskuterer værterne, hvordan de har udviklet et værktøj, der har genereret 78.000 kroner på kort tid gennem såkaldt vibecoding. De berører også aktuelle emner inden for digital marketing og AI, herunder etisk brug af AI-genererede billeder og nyheder om AI-modeller fra Anthropic.",
+      "summary": "I denne episode af Marketingpod diskuterer værterne, hvordan de har udviklet et værktøj, der har genereret 78.000 kroner på kort tid ved hjælp af vibecoding. De berører også aktuelle emner inden for digital marketing og AI, herunder sikkerhedshuller, AI-genererede billeder og deres etiske implikationer.",
       "topics": [
         "vibecoding",
         "digital marketing",
         "AI",
-        "etik",
-        "cybersecurity"
+        "cybersecurity",
+        "etiske dilemmaer"
       ],
       "people": [
         "Christian Tinju",
@@ -7315,9 +8539,35 @@
       ],
       "key_points": [
         "Vibecoding kan skabe forretningsværdi hurtigt og effektivt.",
-        "Anthropic har udviklet en ny AI-model, Mythos, som de ikke vil frigive af sikkerhedsmæssige årsager.",
-        "Røde Kors har brugt AI-genererede billeder, hvilket har rejst etiske spørgsmål om autenticitet.",
-        "Brugen af AI i marketing kan åbne nye muligheder, men også skabe dilemmaer."
+        "Anthropic har udviklet en ny AI-model, Mythos, som de ikke vil frigive af frygt for misbrug.",
+        "Røde Kors har brugt AI-genererede billeder i en kampagne, hvilket har rejst spørgsmål om etik og gennemsigtighed.",
+        "AI's indflydelse på trafik til sundhedssider er bekymrende for eksperter.",
+        "Marketingstrategier i AI-verdenen kan være mere komplekse end de ser ud ved første øjekast."
+      ]
+    },
+    {
+      "file": "vibe_marketing_fra_idé_til_lead-genererende_koncept_på_2_timer_-_lovable_manus",
+      "title": "Vibe marketing: Fra idé til lead-genererende koncept på 2 timer - Lovable & Manus",
+      "url": "https://www.youtube.com/watch?v=bkbPzCYozQA",
+      "duration_seconds": 2604.7,
+      "language": "da",
+      "summary": "I denne episode af MarketingPod diskuteres Vibe Marketing og hvordan værktøjer som Lovable og Manus kan hjælpe med at omdanne idéer til lead-genererende koncepter på kort tid. Derudover berøres emner som AI's indflydelse på arbejdsproduktivitet og nye annonceformater fra Snapchat.",
+      "topics": [
+        "Vibe Marketing",
+        "lead-generering",
+        "AI i marketing",
+        "Snapchat annoncer",
+        "digital marketing"
+      ],
+      "people": [
+        "Christian Signue"
+      ],
+      "key_points": [
+        "Vibe Marketing kan effektivisere processen fra idé til færdigt website.",
+        "AI hjælper brugere med at arbejde hurtigere, men mange ender med at arbejde mere.",
+        "Snapchat eksperimenterer med AI-drevne chatbots som annonceformat.",
+        "Der er en risiko for, at AI-værktøjer kan føre til overflødig produktion uden værdi.",
+        "Meta lancerer Ads AI Connectors for at forbedre annoncekampagner."
       ]
     },
     {
@@ -7455,6 +8705,29 @@
         "OpenAI har fjernet muligheden for offentlig deling af ChatGPT-samtaler til søgemaskiner.",
         "Meta tilbyder EU-brugere tre valgmuligheder for reklame: betale for et reklamefrit abonnement, acceptere datadeling eller opleve afbrydende reklamer.",
         "Google Ads har lanceret en ny metric til at måle brand-søgninger efter annoncevisninger."
+      ]
+    },
+    {
+      "file": "vores_vigtigste_16_ai-tools_til_marketing_sommer_2026_edition",
+      "title": "Vores vigtigste 16 AI-tools til marketing [Sommer 2026 edition]",
+      "url": "https://www.youtube.com/watch?v=OqlOdJe9sf0",
+      "duration_seconds": 3086.2,
+      "language": "da",
+      "summary": "I denne episode af Marketingpod præsenterer værterne de 16 vigtigste AI-tools til digital marketing, herunder LLM'er og kreative værktøjer. De diskuterer både omkostningerne ved disse værktøjer og deres anvendelighed i marketingstrategier.",
+      "topics": [
+        "AI-tools",
+        "digital marketing",
+        "LLM",
+        "kreative værktøjer",
+        "softwareomkostninger"
+      ],
+      "people": [
+        "Christian Signor"
+      ],
+      "key_points": [
+        "Der er en eksplosion af AI-værktøjer, hvilket kan være svært at følge med i.",
+        "Det er vigtigt at fokusere på de mest anvendelige værktøjer frem for at blive overvældet af antallet.",
+        "Omkostningerne ved AI-tools kan være høje, hvilket påvirker deres anvendelighed for brugerne."
       ]
     },
     {

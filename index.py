@@ -85,7 +85,9 @@ def build_index(group: str, client: OpenAI, force: bool = False) -> dict:
     if not group_dir.exists():
         raise FileNotFoundError(f"Transcription group not found: {group_dir}")
 
-    json_files = sorted(group_dir.glob("*.json"))
+    # Plain transcripts only: the *.speakers.json siblings written by diarize.py
+    # describe the same video and must not become separate index entries.
+    json_files = sorted(f for f in group_dir.glob("*.json") if not f.name.endswith(".speakers.json"))
     if not json_files:
         raise FileNotFoundError(f"No transcription JSON files in {group_dir}")
 

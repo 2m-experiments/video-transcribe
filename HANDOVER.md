@@ -19,10 +19,11 @@ Last updated: **2026-09-20** on **blackbox-silent** (stationary).
   skips; (2) the skip check now dedups by YouTube video id as well as filename, so a video
   retitled upstream (group3 `TVexnIlT-ps`, transcribed 2026-07-29 as "HVEJSEL ER TILBAGE…",
   now titled "Jesper Hvejsel: 500 mio. kr-direktøren…") is no longer re-transcribed.
-- Known leftovers, harmless: `audio/group3/jesper_hvejsel_500_mio._kr-direktøren…mp3` is a
-  committed duplicate of the retitled episode's audio (from an earlier session). The
-  `indexes/` summaries are stale (group1 11/26, group3 288/337) and are not part of the
-  routine flow; rebuild with `python index.py build --group <g>` when they are needed.
+- `indexes/` rebuilt 2026-09-20 for group1 (26) and group3 (337). `index.py` now ignores
+  `*.speakers.json` siblings (they would otherwise have been indexed as separate videos).
+  Rebuild after every batch: `python index.py build --group <g>` is incremental and cheap.
+- Two byte-identical duplicate mp3s in `audio/group3/` (retitled episode + a
+  truncated-name leftover) were deleted 2026-09-20. `README.md` was brought up to date.
 - The scrape caches under `channel/channel_cache/` are per-machine and git-ignored; a
   fresh machine simply re-scrapes.
 
@@ -32,7 +33,7 @@ Last updated: **2026-09-20** on **blackbox-silent** (stationary).
    `sessionlog/2026-09-20-blackbox-silent.md`) to look for uploads after 2026-09-17.
 2. Optional: name the speakers (A/B/C) in the two new multi-speaker group3 episodes if the
    named coverage matters; 104 group3 episodes are still letter-labeled.
-3. Optional: rebuild the `indexes/` summaries.
+3. Optional: create indexes for group2 and group4 (none exist; 3 files total).
 
 ---|---|---|---|---|
   | group3 | `AqzbeUR3Ajk` | 2026-09-10 | 19 min | Performance Max er døende - men hvad gør Google nu? |

@@ -26,6 +26,14 @@ local toolchain, and set up handover/session-log files for working across machin
 - Fixed `transcribe.py` twice, both tested with no-op re-runs (337 + 26 skipped, 0 failed, ~1 s):
   delay-after-skip idle bug, and an id-aware skip check (see gotchas).
 - Updated `channel/channels.json` + `channel/README.md` status to 2026-09-20.
+- **Follow-up (same day):** rebuilt `indexes/group1.json` (11 → 26) and `indexes/group3.json`
+  (288 → 337) with `index.py build`. First patched `index.py` to skip `*.speakers.json`, which
+  the `*.json` glob would otherwise have summarized as 337 extra "videos". Deleted two
+  byte-identical duplicate mp3s in `audio/group3/` (checked size, duration and md5):
+  the retitled `TVexnIlT-ps` copy and `…_og_vandt..mp3` (the code expects the single-dot
+  name). Rewrote `README.md`: requirements.txt, both keys, node runtime, ffmpeg install,
+  cache moved to `channel/channel_cache/`, diarization required, id-based skip, `--proxy`,
+  and a "Where to look" table pointing at HANDOVER/AGENTS/CLAUDE/sessionlog/channel/queries.
 
 **Decisions / gotchas:**
 - Did **not** download or transcribe anything; the diff was wanted first.

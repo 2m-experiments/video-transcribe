@@ -1,36 +1,58 @@
 # Video Transcribe & Index
 
-Download videos from YouTube/Vimeo, transcribe them with OpenAI Whisper, and build a searchable summary index.
+Download videos from YouTube/Vimeo, transcribe them with OpenAI Whisper, add speaker
+labels with AssemblyAI, and build a searchable summary index.
+
+## Where to look
+
+| File / folder | What it is |
+|---|---|
+| [`HANDOVER.md`](HANDOVER.md) | **Start here.** Current state, next actions, per-machine setup. Updated at the end of every session. |
+| [`AGENTS.md`](AGENTS.md) | Step-by-step runbook for transcribing + diarizing, including the invariants that prevent past mistakes. |
+| [`CLAUDE.md`](CLAUDE.md) | Working notes for AI agents: the standing rules and gotchas. |
+| [`sessionlog/`](sessionlog/README.md) | One short log per working session (history behind `HANDOVER.md`). |
+| [`channel/`](channel/README.md) | Which channel each video group comes from, plus pipeline status per group. |
+| [`queries/`](queries/README.md) | Derived answers and summaries produced from the transcripts. |
 
 ## Setup
 
 ```bash
-pip install openai python-dotenv yt-dlp
+pip install -r requirements.txt        # openai, python-dotenv, yt-dlp (>= 2026.3)
+ffmpeg -version && ffprobe -version    # must be on PATH
+node --version                         # JS runtime for yt-dlp (deno also works)
 ```
 
-Create a `.env` file:
+- **ffmpeg** on Windows: `winget install --id Gyan.FFmpeg.Essentials -e`, then open a
+  new shell.
+- **node** (or deno) is needed because YouTube requires a JS runtime for yt-dlp to
+  derive signatures; `transcribe.py` enables node explicitly.
+
+Create a `.env` file in the repo root (git-ignored, never commit it):
 
 ```
-OPENAI_API_KEY=sk-...
+OPENAI_API_KEY=sk-...          # Whisper transcription + index summaries
+ASSEMBLYAI_API_KEY=...         # speaker diarization
 ```
-
-Requires `ffmpeg` and `ffprobe` on PATH.
 
 ## Pipeline Overview
 
 ```
 1. Download audio       transcribe.py --download-only
 2. Transcribe           transcribe.py --transcribe-only
-3. Add speakers (opt.)  diarize.py <transcript>.json
+3. Add speakers         diarize.py <transcript>.json        (required for every new video)
 4. Build index          index.py build --group <name>
 5. Query index          index.py query --group <name> "your question"
 ```
+
+Steps 1 to 3 are the routine flow for new videos; step 3 is **not optional** (see
+`CLAUDE.md`). Naming speakers (letters to real names) is a separate manual step.
 
 ## 1. Download & Transcribe
 
 ### Process predefined video groups
 
-Video groups are defined in `VIDEO_GROUPS` inside `transcribe.py`.
+Video groups are defined in `VIDEO_GROUPS` inside `transcribe.py`. The channel each
+group comes from is recorded in `channel/channels.json`.
 
 ```bash
 # Process all groups (download + transcribe)
@@ -62,6 +84,20 @@ python transcribe.py --channel "https://youtube.com/@channelname" --channel-name
 python transcribe.py --channel "https://youtube.com/@channelname" --channel-name mygroup --limit 0 --transcribe-only
 ```
 
+The scraped video list is cached in `channel/channel_cache/<group>.json` (git-ignored).
+`--channel` reads that cache and only re-scrapes with `--force`. To pick up new uploads
+without re-transcribing everything, refresh the cache alone as described in
+`AGENTS.md` §4.
+
+### Re-runs are safe
+
+A video is skipped when its `.txt` and `.json` transcript already exist, **or** when a
+transcript with the same YouTube video id exists under another filename (titles change
+upstream, which changes the slug). Re-running is therefore cheap. `--force` disables both
+checks and re-transcribes everything at cost, so never use it just to fetch new videos.
+
+Downloads occasionally fail with a transient HTTP 403; simply re-run.
+
 ### Options
 
 | Flag | Description |
@@ -71,23 +107,28 @@ python transcribe.py --channel "https://youtube.com/@channelname" --channel-name
 | `--limit N` | Max videos to process, 0 for all (default: 50) |
 | `--language CODE` | Whisper language code (default: `da`) |
 | `--cookies FILE` | Netscape-format cookies file for YouTube auth |
+| `--proxy URL` | HTTP/SOCKS proxy for yt-dlp |
 | `--download-only` | Only download audio, skip transcription |
 | `--transcribe-only` | Only transcribe existing audio |
-| `--force` | Re-process even if output already exists |
+| `--force` | Re-scrape and re-process even if output already exists (costs money) |
 | `--group NAME` | Process only a specific predefined group |
 
 ### Output structure
 
 ```
-audio/<group>/*.mp3                    # Downloaded audio files
+audio/<group>/*.mp3                    # Downloaded audio (committed; diarization input)
 transcriptions/<group>/*.txt           # Plain text transcriptions
 transcriptions/<group>/*.json          # JSON with metadata + timestamped segments
-transcriptions/<group>/*.speakers.txt  # (optional) transcript grouped by speaker
-transcriptions/<group>/*.speakers.json # (optional) segments annotated with speaker
-channel_cache/<group>.json             # Cached channel video list (for resume)
+transcriptions/<group>/*.speakers.txt  # Transcript grouped by speaker
+transcriptions/<group>/*.speakers.json # Segments annotated with speaker
+channel/channel_cache/<group>.json     # Cached channel video list (git-ignored, per machine)
+indexes/<group>.json                   # Summary index (see below)
 ```
 
-## 1b. Add Speaker Labels (optional)
+Filenames may contain dots (`...5_mio._kr.json`). Never derive sibling names with
+`Path.with_suffix()`; strip the literal `.json` instead. Both scripts do this.
+
+## 1b. Add Speaker Labels
 
 Whisper produces the best Danish *text* but cannot tell speakers apart.
 `diarize.py` adds "who said what" by using **AssemblyAI for diarization only** —
@@ -106,7 +147,9 @@ python diarize.py transcriptions/group4/<name>.json --audio path/to/audio.mp3
 ```
 
 Outputs `<name>.speakers.txt` (conversation grouped as `Speaker A: ...`) and
-`<name>.speakers.json` (every segment annotated with a `speaker` field).
+`<name>.speakers.json` (every segment annotated with a `speaker` field). Files are
+written atomically, so an interrupted run never leaves a truncated result that looks
+done. Solo-speaker videos simply come back as one speaker; diarize them anyway.
 
 Diarization only knows speakers as letters (A/B/C/D). Once you know who is who,
 map the letters to real names — either in the same run, or **offline** on an
@@ -142,7 +185,9 @@ python index.py build --group group1
 python index.py build --group group1 --force
 ```
 
-Indexing is incremental - new transcriptions are added without re-processing existing entries.
+Indexing is incremental: new transcriptions are added without re-processing existing
+entries, and `*.speakers.json` siblings are ignored so each video is indexed once.
+Rebuild the index after every batch of new videos so queries see them.
 
 ### Output
 
@@ -195,9 +240,14 @@ python transcribe.py --channel "https://youtube.com/@marketingpod" \
 python transcribe.py --channel "https://youtube.com/@marketingpod" \
   --channel-name marketing --limit 0 --transcribe-only
 
-# 3. Build the summary index
+# 3. Add speaker labels to every new transcript
+for f in transcriptions/marketing/*.json; do
+  case "$f" in *.speakers.json) ;; *) python diarize.py "$f" ;; esac
+done
+
+# 4. Build the summary index
 python index.py build --group marketing
 
-# 4. Search across all episodes
+# 5. Search across all episodes
 python index.py query --group marketing "Hvad er best practice for Meta Ads?"
 ```
