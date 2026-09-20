@@ -11,7 +11,10 @@ local toolchain, and set up handover/session-log files for working across machin
   group1 video**, nothing removed upstream, hardcoded group1 list matches disk. Details
   and ids in `HANDOVER.md`. Refreshed `channel/channel_cache/group{1,3}.json` locally.
 - Toolchain check: yt-dlp 2026.08.19 (latest on PyPI), openai 3.16.2, node 24.0.1
-  present. **ffmpeg/ffprobe were missing**; installed `Gyan.FFmpeg` 9.0.1 via winget.
+  present. **ffmpeg/ffprobe were not on PATH**; I installed the `Gyan.FFmpeg` Full build,
+  the user separately installed `Gyan.FFmpeg.Essentials` 9.0.1. Both ended up on the user
+  PATH, so I uninstalled the Full build again; Essentials 9.0.1 is now the only ffmpeg on
+  PATH (libmp3lame confirmed). An older unmanaged copy lives under the TV-Syd project dir.
   Installed `requirements.txt` into both Python 3.12 installs (Store `python` and
   python.org `py -3.12`) because the runbook uses bare `python`.
 - Created `HANDOVER.md`, `sessionlog/README.md`, this file; linked them from `CLAUDE.md`.

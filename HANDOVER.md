@@ -60,7 +60,9 @@ Fixes if something is missing:
 
 - Python deps: `python -m pip install -r requirements.txt`. yt-dlp must be
   **>= 2026.3.0** (older versions break on YouTube).
-- ffmpeg: `winget install --id Gyan.FFmpeg -e` (Windows). Restart the shell afterwards.
+- ffmpeg: `winget install --id Gyan.FFmpeg.Essentials -e` (Windows). Restart the shell
+  afterwards. Essentials is enough (has ffprobe + libmp3lame); do not also install the
+  `Gyan.FFmpeg` Full build, both land on PATH and the first one wins silently.
 - node: `winget install OpenJS.NodeJS.LTS` (Windows). The repo enables the node runtime
   for yt-dlp in `transcribe.py`; without any JS runtime yt-dlp falls back to deprecated
   clients and downloads become flaky.
@@ -71,7 +73,9 @@ Fixes if something is missing:
 
 | Machine | Role | State on 2026-09-20 |
 |---|---|---|
-| blackbox-silent | stationary | Python 3.12 ×2 (Store `python` + python.org `py -3.12`, both have deps), yt-dlp 2026.08.19, ffmpeg 9.0.1 (installed this session), node 24.0.1, no deno. **No `.env` yet**: keys must be supplied before transcribing/diarizing. |
+| blackbox-silent | stationary | Python 3.12 ×2 (Store `python` + python.org `py -3.12`, both have deps), yt-dlp 2026.08.19, ffmpeg 9.0.1 Essentials via winget (only copy on PATH; an older
+  2025-11-24 git build also sits unused under `D:\code\experiments\TV-Syd JV Player Download\`),
+  node 24.0.1, no deno. **No `.env` yet**: keys must be supplied before transcribing/diarizing. |
 | laptop | mobile | Unknown. Run the checklist and fill this row in. |
 
 Note on Windows Python: `python` on PATH may be the Microsoft Store build while
