@@ -9,1265 +9,1269 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Kristian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Kristian"
+    }
   },
   "segments": [
     {
       "start": 1.0,
       "end": 4.0,
       "text": " Hej og velkommen til en kort episode af MarketingPod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
       "end": 9.0,
       "text": " Vi kommer til at snakke om Facebook Ads, om leadgenerering og hvordan du får bedre leads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.0,
       "end": 12.0,
       "text": " Ikke nødvendigvis billigere, men en bedre forretning.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 14.0,
       "text": " Og Tini, hvorfor er det, at vi tager det her emne op i dag?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 17.0,
       "text": " En lead ads er fantastisk. Det virker skidegodt.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 17.0,
       "end": 20.0,
       "text": " Men det er godt nok også nemt at få rigtig mange dårlige leads ind.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 20.0,
       "end": 23.0,
       "text": " Fordi vi skal lige huske på, hvad er det egentlig vi gør, når vi sætter en lead ads kampagne op?",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 23.0,
       "end": 26.0,
       "text": " Der vi beder Meta om at levere leads til os.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 26.0,
       "end": 29.0,
       "text": " Og hvis ikke vi gør yderligere, så skal Meta nok levere nogle leads.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 29.0,
       "end": 32.0,
       "text": " Men vi fortæller ikke noget om, hvorvidt de her leads er gode eller dårlige.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 32.0,
       "end": 34.0,
       "text": " Det er jo noget af det, vi skal prøve at kigge lidt ind i.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 34.0,
       "end": 37.0,
       "text": " Hvordan er det, vi egentlig spiller Meta bedre til netop at give os de bedre leads.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 37.0,
       "end": 39.0,
       "text": " Ikke nødvendigvis de billigste, men bedre.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 39.0,
       "end": 42.0,
       "text": " Og det er også lidt inspireret af, at jeg arbejder med en virksomhed, som bruger mange penge på Facebook Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 42.0,
       "end": 47.0,
       "text": " De har tidligere prøvet lead ads og konstaterer, at hver gang vi ringede til dem, det var simpelthen folk på plejehjemmet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 47.0,
       "end": 51.0,
       "text": " som slet ikke kunne huske, at de havde udfyldt Facebook-formularer, og derfor stoppede vi med at bruge lead ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 51.0,
       "end": 57.0,
       "text": " Og der kiggede vi ind i, at vi kunne også godt se, at 80% af deres leads var fra folk over 65 år,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 57.0,
       "end": 59.0,
       "text": " og det er slet ikke kernedemografien for den her virksomhed.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 59.0,
       "end": 61.0,
       "text": " Men algoritmet bevarer mere og mere pressen deroppe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 61.0,
       "end": 65.0,
       "text": " Og der lavede vi en af de tre ændringer, vi kommer til at snakke om i episoden her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 65.0,
       "end": 72.0,
       "text": " Og det løste problemet og gjorde, at kommenteringsratten fra lead ads lige pludselig blev konkurrencedygtig med website leads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 72.0,
       "end": 74.0,
       "text": " Men det kostede bare det halve.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 74.0,
       "end": 75.0,
       "text": " Og det synes jeg var inspirerende.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 75.0,
       "end": 79.0,
       "text": " Så der er tre måder, hvorpå man kan arbejde med det her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 79.0,
       "end": 84.0,
       "text": " Den første og den nemmeste i Meta, det er at arbejde med value rules.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 84.0,
       "end": 88.0,
       "text": " Og Morten B. og jeg, vi lavede faktisk en hel episode om det her, mens Christian Tino rendte rundt nede på Bali og hyggede sig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 88.0,
       "end": 91.0,
       "text": " Så hvis man vil have 15 minutter versionen, så kan man få den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 91.0,
       "end": 93.0,
       "text": " Men jeg kan også lige hurtigt vise, hvad det handler om.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 93.0,
       "end": 96.0,
       "text": " Fordi value rules, Christian Tino, er det noget, du har fornøjelsen af at bruge?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 96.0,
       "end": 98.0,
       "text": " Ikke specielt meget, så jeg glæder mig til at få fornøjelsen af det her.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 98.0,
       "end": 100.0,
       "text": " Faktisk, jeg er helt vild med det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 100.0,
       "end": 103.0,
       "text": " Value rules, det findes under din annonce set i Meta.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.0,
       "end": 105.0,
       "text": " Så her har vi et eksempel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 105.0,
       "end": 108.0,
       "text": " Det her er en kampagne, der lige er sat live i dag for Obsidian.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 108.0,
       "end": 111.0,
       "text": " Og det er faktisk vores lead generering til Social Ads Conference.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 111.0,
       "end": 113.0,
       "text": " Vi har påbegyndt lead genereringen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 113.0,
       "end": 116.0,
       "text": " Og der vil vi gerne have folk ind og tilmelde sig nyhedsbredt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 116.0,
       "end": 118.0,
       "text": " Her har jeg faktisk implementeret en værdiregel.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 118.0,
       "end": 123.0,
       "text": " Og det er fordi, lige nu i den her Meta-kampagne, jeg optimerer efter kommenteringshandelsen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 123.0,
       "end": 125.0,
       "text": " Lead på websitetet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 125.0,
       "end": 129.0,
       "text": " Så det vil sige, jeg siger jo faktisk til Meta, jeg skal bare have så mange som muligt til at udfylde den her lead-formular.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 129.0,
       "end": 137.0,
       "text": " Men min udfordring, det er, at en person, der udfylder den her formular i, lad os sige, Aalborg og i København, er faktisk ikke det samme værd.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.0,
       "end": 139.0,
       "text": " Fordi konferencen afholdes i København.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 139.0,
       "end": 145.0,
       "text": " Så jeg ved, at kommenteringsratten er højere på personer, der bor i København, til at tilmelde sig en konference, der afholdes i København.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 145.0,
       "end": 148.0,
       "text": " Jeg ved, at den er også højere for folk, der er 30, end folk, der er 18.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 148.0,
       "end": 155.0,
       "text": " Fordi folk på 18 har måske ikke en fuldtidsbeskæftigelse, der gør, at de vil betale prisen for en heldags konferencebillet inden for digital marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
       "end": 162.0,
       "text": " Og min udfordring, det er, at hvis jeg laver alt for strikse retningslinjer på mine Mesa-kampagner, så får det først for en meget lille målgruppe.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 162.0,
       "end": 166.0,
       "text": " Det kan presse min pris op, det fjerner alle Mesa-smarte optimeringer osv.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 168.0,
       "text": " Så hvad gør jeg? Så skal jeg så bare have bred målgruppe?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 168.0,
       "end": 170.0,
       "text": " Nej, løsningen er værdiregler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 170.0,
       "end": 173.0,
       "text": " Så jeg har lavet en værdiregel, eller en value rule, herunder mit annonce-set.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 173.0,
       "end": 174.0,
       "text": " I kan faktisk se den her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
       "end": 176.0,
       "text": " Den hedder Social Arts Conference 2026 Værdiregler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 176.0,
       "end": 179.0,
       "text": " Og det, den går ud på, det er meget simpelt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 179.0,
       "end": 181.0,
       "text": " Den bruger jeg lige at vise her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 181.0,
       "end": 185.0,
       "text": " Det, den går ud på, det er, at jeg har taget et par forskellige kriterier.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 185.0,
       "end": 187.0,
       "text": " Så her, for det første sagt, alder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 187.0,
       "end": 195.0,
       "text": " Folk, der er mellem 18 og 24, altså meget unge, og mellem 55 til 64 og 65+, altså godt op i alderen, sænker jeg mit bud med 50%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 195.0,
       "end": 200.0,
       "text": " Det vil sige, hvis jeg har mulighed for at få et lead fra en person, der er 18 til 10 kroner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 200.0,
       "end": 204.0,
       "text": " og jeg har mulighed for at få det samme lead fra en person, der er 30 til 12 kroner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 204.0,
       "end": 208.0,
       "text": " så siger jeg faktisk til Mesa, at jeg vil hellere have den til 12 kroner, end jeg vil have den til 10 kroner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 208.0,
       "end": 212.0,
       "text": " fordi jeg har manuelt budt den ned for folk, der er alt for unge eller alt for gamle,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 212.0,
       "end": 217.0,
       "text": " fordi jeg kender mit publikum til konferencen, og de er ikke 18, og de er heller ikke 65+.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 217.0,
       "end": 221.0,
       "text": " Den anden ting, der jeg har sagt, hvis de bor i København, så byder jeg op med 50%,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 221.0,
       "end": 224.0,
       "text": " og det er, fordi kommenteringsratten er bare højere i København,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,
       "end": 227.0,
       "text": " fordi folk, de skal have ikke særlig meget transporttid, og det er derfor, vi har lagt konferencen der.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 227.0,
       "end": 231.0,
       "text": " Det er der, der er flest mennesker, så vi byder faktisk op med København.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 231.0,
       "end": 236.0,
       "text": " Og den tredje, det er, at jeg har taget placeringen for Facebook-feed og Instagram-feed og budt op med dem,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 236.0,
       "end": 240.0,
       "text": " og det er for at minske mængden af visninger, jeg får på de der skodplaceringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 240.0,
       "end": 244.0,
       "text": " META har med Right Hand Side og Facebook Marketplace og alle sådan nogle ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 244.0,
       "end": 246.0,
       "text": " Så det her, det er en måde, hvorpå jeg kan sige til META,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 246.0,
       "end": 250.0,
       "text": " det kan godt være, at jeg virkelig byder på alle placeringer og byder rimelig bredt i målgruppen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 250.0,
       "end": 254.0,
       "text": " men jeg vil hellere have det her, selvom det egentlig ville koste det samme for dig at levere det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 254.0,
       "end": 260.0,
       "text": " Ja, og det, du siger, det er et alternativ, et bedre alternativ end at indskrænke maskineriet,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 260.0,
       "end": 265.0,
       "text": " algoritmen ved netop at gå ind og ekskludere hele Danmark med undtagelse af Store København, for eksempel.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 265.0,
       "end": 269.0,
       "text": " Her, der siger, at du virkelig gerne vil vise det hele, algoritmen kan få frit spil,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 269.0,
       "end": 274.0,
       "text": " men det er dem herovre, vi ved, der er mest værd, så gå lige efter dem, når det er muligt i auktionen.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 274.0,
       "end": 278.0,
       "text": " Ja, fordi i teorien, hvis jeg nu kan få en tilmelding i Odense, som koster en fjerdedel af København,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 278.0,
       "end": 280.0,
       "text": " så ved jeg, okay, nu vil jeg faktisk gerne gøre det, fordi det kan godt være,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 280.0,
       "end": 283.0,
       "text": " at de ikke har lige så høj konverteringsrat, men den her konvertering er så billig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 283.0,
       "end": 287.0,
       "text": " fordi annoncen er så relevant for vedkommende, så nu vil jeg faktisk stadig gerne have den.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 287.0,
       "end": 290.0,
       "text": " Så det er en måde, hvorpå jeg kan sige, jeg vil gerne sidde målret bredt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 290.0,
       "end": 293.0,
       "text": " jeg vil gerne have Metas algoritme til at hjælpe mig med at finde de rigtige personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 293.0,
       "end": 295.0,
       "text": " men alt andet lige så starteligt her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 295.0,
       "end": 297.0,
       "text": " Det her, det er sådan de vigtigste personer. Det er den ene ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 297.0,
       "end": 302.0,
       "text": " Den anden ting, det er, at på grund af de her ændringer, så beholder jeg faktisk Advantage Plus slået til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 302.0,
       "end": 306.0,
       "text": " så hvis man ser heroppe i hjørnet, Advantage Plus Lead Kampagne, det står som slået til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 306.0,
       "end": 310.0,
       "text": " fordi jeg har faktisk ikke indskrænket mit budget, min målgruppe eller mine placeringer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 310.0,
       "end": 312.0,
       "text": " men det har du jo lige set, Sinju. Det har jeg jo.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 314.0,
       "text": " Jeg har jo indskrænket mine målgruppe og placeringer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 314.0,
       "end": 317.0,
       "text": " Jeg har bare gjort det med værdiregler i stedet for en hård indskrænkning,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 317.0,
       "end": 321.0,
       "text": " så jeg kan beholde alle Metas bedste funktioner og algoritmer til at optimere leveringen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 321.0,
       "end": 325.0,
       "text": " Så det her, det er den ene mulighed, og det her, det kan du både gøre på Lead Ads og på alle mulige andre kampagner,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 325.0,
       "end": 329.0,
       "text": " fordi det her, det var faktisk et eksempel med en non-Lead Ads kampagne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 329.0,
       "end": 331.0,
       "text": " Lad os rykke videre til nummer to.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 331.0,
       "end": 335.0,
       "text": " Det er det, der hedder Conditional Logic eller Betingede Logik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 335.0,
       "end": 339.0,
       "text": " og kan det ikke passe? Det er faktisk noget, du har arbejdet med på nogle af dine cases tidligere med.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 339.0,
       "end": 342.0,
       "text": " Jo, den er mere i den boldgade.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 342.0,
       "end": 346.0,
       "text": " Der går vi jo ind og stiller nogle spørgsmål, og afhængig af de svar, der så kommer,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 346.0,
       "end": 350.0,
       "text": " så finder vi ud af, om det her rent faktisk er et værdifuldt lead eller ej.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 350.0,
       "end": 354.0,
       "text": " Udover at berige vores leads, så får vi også givet algoritmen den oplysning om,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 354.0,
       "end": 357.0,
       "text": " hvorvidt det her er præcis den type person, vi gerne vil have,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 357.0,
       "end": 361.0,
       "text": " eller om den egentlig gerne fremadrettet må blive lidt bort fra den her type.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 361.0,
       "end": 366.0,
       "text": " Det er nemlig det, der er smart, fordi her kan du faktisk sende nærmest et negativt signal til algoritmen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 366.0,
       "end": 369.0,
       "text": " Så det, man skal forestille sig, det er, at du går ind i din Lead Ads-formular,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 369.0,
       "end": 372.0,
       "text": " og så laver du et brugerdefineret spørgsmål.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 372.0,
       "end": 376.0,
       "text": " Det kunne være for eksempel, hvad arbejder du med, eller hvor bor du,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 376.0,
       "end": 381.0,
       "text": " eller jeg har lavet det her med en virksomhed, som handlede om at ligegenerere til investering, ejendomsinvestering.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 381.0,
       "end": 384.0,
       "text": " Så der spurgte vi simpelthen, hvor stor en investerbar formue har du?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 384.0,
       "end": 391.0,
       "text": " Så var der tre muligheder under 750.000, 750.000 til 5 millioner, 5 millioner op efter, eller et eller andet i den stil.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 391.0,
       "end": 395.0,
       "text": " Det er fordi, det her var en investeringsforening, hvor du skulle være semiprofessionel investor,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 395.0,
       "end": 398.0,
       "text": " og der er der en lovgivningsmæssig grænse på 750.000.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 398.0,
       "end": 402.0,
       "text": " Så det vil sige, at hvis du havde under 750.000 i investerbar formue, kunne du slet ikke blive kunden.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 402.0,
       "end": 406.0,
       "text": " Og en udfordring for os, det var, at der var mange af dem, der udfyldte Lead Ads-formularen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 406.0,
       "end": 409.0,
       "text": " som måske havde 10.000, som de gerne ville købe for på Nordnet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " Det kan du bare ikke. Du skal have 750.000.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 411.0,
       "end": 414.0,
       "text": " Så ved at lave Conditional Logic, der sagde vi til Mesa,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 414.0,
       "end": 419.0,
       "text": " hvis folk svarer under 750.000, hvis de vælger det svar, så sker der to ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 419.0,
       "end": 422.0,
       "text": " Den ene ting er, at de får en slutskærm, hvor der står, tak for din interesse,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 422.0,
       "end": 424.0,
       "text": " men det her er ikke relevant for dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 424.0,
       "end": 426.0,
       "text": " Så de får faktisk slet ikke lov til at blive konverteret som Lead,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 426.0,
       "end": 429.0,
       "text": " og det betyder, at virksomheden jo så ikke behøver at ringe til Leads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 429.0,
       "end": 432.0,
       "text": " som der er 0% synsynlighed for, at de kan få noget ud af.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 432.0,
       "end": 435.0,
       "text": " Så det er sådan et lidt hårdt besked. Nej, du må faktisk ikke blive Lead,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 435.0,
       "end": 438.0,
       "text": " men virksomheden sparer en masse tid og bliver mere effektiv i deres operations.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 438.0,
       "end": 439.0,
       "text": " Det er den ene ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " Den anden ting er, at du siger til Mesa, at det her var ikke relevant,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " og det er faktisk et negativt signal inde i algoritmen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 443.0,
       "end": 448.0,
       "text": " således at den kan undgå at finde personer, som matcher de personer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 448.0,
       "end": 450.0,
       "text": " som bliver defineret som værende ikke-Lead.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 450.0,
       "end": 453.0,
       "text": " Så ikke alene kan du sende positive signaler i den retning, du gør,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " men her sender du også negative signaler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 456.0,
       "end": 458.0,
       "text": " Det andet, vi har brugt i Conditional Logic,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 458.0,
       "end": 460.0,
       "text": " det er, at din lead-kvalitet bare bliver bedre og bedre,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 460.0,
       "end": 464.0,
       "text": " jo mere data-algoritmet får i forhold til, hvad folk rent faktisk svarer på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 464.0,
       "end": 466.0,
       "text": " Men du kan også sagtens bruge det her med en webshop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 466.0,
       "end": 468.0,
       "text": " fordi forestil dig noget så simpelt som at du har en hunde-webshop,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 468.0,
       "end": 470.0,
       "text": " og så stiller du folk spørgsmålet, har du en hund?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 470.0,
       "end": 472.0,
       "text": " Hvis ikke de svarer ja til det, så er der ikke nogen grund til at blive Lead",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 472.0,
       "end": 474.0,
       "text": " på nyhedsprøvelseslisten. De fylder bare.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 474.0,
       "end": 476.0,
       "text": " Lige præcis det der. Det er så ekstremt vigtigt,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 476.0,
       "end": 478.0,
       "text": " hvis det er, at du er i en niche-forretning,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 479.0,
       "end": 481.0,
       "text": " og godt kan lide at blive Lead sendt via konkurrencer,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 481.0,
       "end": 483.0,
       "text": " men sætter noget generisk på højkant.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 483.0,
       "end": 485.0,
       "text": " Så lad os sige, du har en hunde-webshop, hvor du sætter en iPad på højkant.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 485.0,
       "end": 487.0,
       "text": " Alle vil gerne vinde en skide iPad,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 487.0,
       "end": 489.0,
       "text": " men det er sgu ikke alle, der har en hund.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 489.0,
       "end": 492.0,
       "text": " Så er det rigtig smart lige at få Lead ud i dem, der ikke har en hund,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 492.0,
       "end": 495.0,
       "text": " for de er relativt ligegyldigt for dig efterfølgende,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 495.0,
       "end": 498.0,
       "text": " når den her konkurrence er afsluttet, og du skal til at sende mails ud til de der.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 498.0,
       "end": 500.0,
       "text": " Så er der den tredje mulighed. Så hvis nu du lytter med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 500.0,
       "end": 502.0,
       "text": " du sidder i bilen på vej til arbejde og tænker,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 503.0,
       "end": 505.0,
       "text": " Det er fornemt det der. Jeg bruger ikke værdiregler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 505.0,
       "end": 508.0,
       "text": " Jeg bruger ikke conditional logic. Jeg skal have noget, der er meget sværere,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 508.0,
       "end": 510.0,
       "text": " og kræver, at jeg bruger mange flere penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " Så har vi lige løsningen til dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 512.0,
       "end": 516.0,
       "text": " Du har mulighed for at implementere det, der hedder konverterings-leads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 516.0,
       "end": 520.0,
       "text": " Conversion-leads eller konverterings-leads er en metodik,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 520.0,
       "end": 524.0,
       "text": " som gør, at når du genererer et lead på Facebook Lead Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 524.0,
       "end": 526.0,
       "text": " så har det lead et skjult ID.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 526.0,
       "end": 529.0,
       "text": " Det ID tager du med og lægger over i dit CRM-system,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 529.0,
       "end": 532.0,
       "text": " som f.eks. Klæbio, Hopspot eller ActiveCampaign.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 532.0,
       "end": 536.0,
       "text": " Når det pågældende lead foretager den handling, du ønsker at optimere efter,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 536.0,
       "end": 539.0,
       "text": " som f.eks. at købe et produkt på dit site eller udfylde en kontaktformler,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 539.0,
       "end": 544.0,
       "text": " så tager du det anonyme ID og sender det tilbage til Meta via conversions-API",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 544.0,
       "end": 546.0,
       "text": " og siger, at nu der skete en handling.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 546.0,
       "end": 549.0,
       "text": " Hvis du kan gøre det her minimum 50 gange om dagen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 549.0,
       "end": 552.0,
       "text": " altså ikke generere leads, men sende handlinger tilbage 50 gange om dagen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 552.0,
       "end": 556.0,
       "text": " det vil jeg så sige, hvis du bruger rigtig mange penge på Facebook Lead Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 556.0,
       "end": 558.0,
       "text": " Og hvis du kan lave den her integration helt custom,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 558.0,
       "end": 560.0,
       "text": " fordi der findes ikke nogen single one-click application,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 560.0,
       "end": 562.0,
       "text": " du skal håndkode hele lortet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 562.0,
       "end": 564.0,
       "text": " Hvis du lever op til de to ting.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 564.0,
       "end": 567.0,
       "text": " I praksis, du bruger nok til 20.000 kroner om dagen på Lead Ads,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 567.0,
       "end": 570.0,
       "text": " og du har en udvikler, der synes, det her kunne være en mega fed challenge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 570.0,
       "end": 572.0,
       "text": " så kan du arbejde med konverserings-leads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 572.0,
       "end": 574.0,
       "text": " Jeg tror, vi har tre kunder i Obsidian, der har det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 574.0,
       "end": 576.0,
       "text": " Men de tre kunder får også værdi ud af det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 576.0,
       "end": 579.0,
       "text": " Så for de rigtige virksomheder er det rigtig, rigtig fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 579.0,
       "end": 581.0,
       "text": " For langt hovedparten, så er det mega overkill,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 581.0,
       "end": 584.0,
       "text": " og de burde bare arbejde med value rules og conditional logic i stedet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 585.0,
       "end": 587.0,
       "text": " Det sidste spørgsmål i episoden, Tino.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 587.0,
       "end": 589.0,
       "text": " Har man noget tilsvarende i Google Ads?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 589.0,
       "end": 592.0,
       "text": " Fordi jeg ved, der er jo også en mulighed for at lægge den her lead-form i Google Ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 592.0,
       "end": 594.0,
       "text": " Men jeg ved fandme ikke rigtigt, er der nogen, der bruger den?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 594.0,
       "end": 595.0,
       "text": " Jeg tror aldrig, jeg har kommenteret på en.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 595.0,
       "end": 597.0,
       "text": " Det er ikke mange. Det er virkelig ikke særlig mange.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 597.0,
       "end": 601.0,
       "text": " Og mig er bekendt, at der er overhovedet ikke lige så avancerede muligheder som det her.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 601.0,
       "end": 605.0,
       "text": " Og nok af samme årsag, at der ikke er særlig mange, der søger på et eller andet på Google,",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 605.0,
       "end": 611.0,
       "text": " for direkte bagefter at skrive sig op på en lead-annonce via search ads, for eksempel.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 611.0,
       "end": 614.0,
       "text": " Jeg havde det faktisk kørende på min hushus Google Ads-kampagne.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 614.0,
       "end": 618.0,
       "text": " Som du ved, den har jeg sat op, og det er et brav af en kampagne, der følger alle Googles retningslinjer.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 618.0,
       "end": 621.0,
       "text": " Jeg har startet med ikke at sætte tracking op, så er vi i gang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 621.0,
       "end": 624.0,
       "text": " Men der har vi for eksempel det her søge- og bortvisning af medarbejdere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 624.0,
       "end": 627.0,
       "text": " Der havde jeg den her annonce, hvor der var sådan en lead-formular,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 627.0,
       "end": 630.0,
       "text": " hvor der stod, bliv kontaktet af advokat Lise Mot.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 630.0,
       "end": 632.0,
       "text": " Og så kunne man klikke på den lead-formular, og så åbnede den en formular,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 632.0,
       "end": 635.0,
       "text": " og så var den jo auto-udfyldt, og så ville det genereret lige på den måde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 635.0,
       "end": 637.0,
       "text": " Jeg kan huske, at jeg satte den op og tænkte, at det her er pisse smart.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 637.0,
       "end": 639.0,
       "text": " Det er ligesom Facebook lead-ads. Det bliver skide godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 639.0,
       "end": 642.0,
       "text": " Så var der ikke nogen, der udfyldte den i to år, og jeg fjernede den igen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 643.0,
       "end": 644.0,
       "text": " Lige præcis.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 644.0,
       "end": 646.0,
       "text": " Ej, det er samme opfældelse, jeg har.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 646.0,
       "end": 648.0,
       "text": " Der skal nok være nogen derude, der er glade for det.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 648.0,
       "end": 652.0,
       "text": " Så skal jeg ikke kloge mig for meget på det, men jeg har sgu ikke set det store win ved det.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 652.0,
       "end": 654.0,
       "text": " Value rules, conditional logic.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 654.0,
       "end": 656.0,
       "text": " To mega gode muligheder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 656.0,
       "end": 659.0,
       "text": " De vil løse langt de fleste problemer, hvis du skal ud og flexe kommenteringsslits.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 659.0,
       "end": 661.0,
       "text": " Tusind tak, fordi du lydede med til dagens episode.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

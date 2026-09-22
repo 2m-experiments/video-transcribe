@@ -9,25 +9,28 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
+      "Halfdan",
       "B",
       "C",
       "D"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
       "text": " Christian?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2.0,
       "end": 4.0,
       "text": " 90?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 4.0,
@@ -123,61 +126,61 @@
       "start": 36.0,
       "end": 38.0,
       "text": " Man skulle tro at vores podcast-insuperat nem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 38.0,
       "end": 40.0,
       "text": " ikke? Lige indtil man så fucker op i den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 40.0,
       "end": 42.0,
       "text": " Hahahaha",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 42.0,
       "end": 44.0,
       "text": " Men den her gang der ruller vi videre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 44.0,
       "end": 46.0,
       "text": " Vi kører på",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 46.0,
       "end": 48.0,
       "text": " 2 very boring minutes later",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 48.0,
       "end": 50.0,
       "text": " Til nu kan du ikke starte med at definere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 50.0,
       "end": 52.0,
       "text": " Hvorfor skal vi have et legebudget?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 52.0,
       "end": 54.0,
       "text": " Hvad er det vi skal lege med?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 54.0,
       "end": 56.0,
       "text": " Hvad er det vi ikke så seriøs længere?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 56.0,
@@ -231,25 +234,25 @@
       "start": 74.0,
       "end": 76.0,
       "text": " Nej, nej, vi kører videre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 76.0,
       "end": 78.0,
       "text": " Jeg har taget en beslutning. Vi trumfer igennem",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 78.0,
       "end": 80.0,
       "text": " 2 hours later",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 80.0,
       "end": 82.0,
       "text": " Ændre del af ens markedsføringsbudget",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 82.0,
@@ -279,7 +282,7 @@
       "start": 92.0,
       "end": 94.0,
       "text": " Hvorfor griner du?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 94.0,
@@ -309,25 +312,25 @@
       "start": 102.0,
       "end": 104.0,
       "text": " Det er rigtigt at jeg skulle have mjulet ud",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 104.0,
       "end": 106.0,
       "text": " Men jeg gør faktisk alt hvad jeg kan",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 106.0,
       "end": 108.0,
       "text": " For at fylde dig ud af den",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 108.0,
       "end": 110.0,
       "text": " I den her episode",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 110.0,
@@ -441,25 +444,25 @@
       "start": 148.0,
       "end": 150.0,
       "text": " Du er virkelig dum og filosofisk",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 150.0,
       "end": 152.0,
       "text": " Hahahaha",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.0,
       "end": 154.0,
       "text": " Du vil hellere vide det nu",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.0,
       "end": 156.0,
       "text": " End senere eller hvad",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.0,
@@ -489,31 +492,31 @@
       "start": 164.0,
       "end": 166.0,
       "text": " Hahahaha",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 166.0,
       "end": 168.0,
       "text": " Hahahaha",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 168.0,
       "end": 170.0,
       "text": " Hahahaha",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 170.0,
       "end": 172.0,
       "text": " Du siger det som om alle andre",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 172.0,
       "end": 174.0,
       "text": " Eller hvad vent med at finde ud af at det virker",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 174.0,
@@ -549,43 +552,43 @@
       "start": 184.0,
       "end": 186.0,
       "text": " Jeg vil også gerne finde ud af",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 186.0,
       "end": 188.0,
       "text": " Om det virker for mig nu hellere end senere",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 188.0,
       "end": 190.0,
       "text": " Hahahaha",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 190.0,
       "end": 192.0,
       "text": " For det er fucking obvious",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 192.0,
       "end": 194.0,
       "text": " Hahahaha",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 194.0,
       "end": 196.0,
       "text": " Hahahah",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 196.0,
       "end": 198.0,
       "text": " Hahaha",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 198.0,
@@ -663,7 +666,7 @@
       "start": 222.0,
       "end": 224.0,
       "text": " Vi bliver nærmere og særligere på denne episode",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 224.0,

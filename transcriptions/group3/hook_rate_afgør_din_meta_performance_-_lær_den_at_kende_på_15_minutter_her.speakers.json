@@ -9,138 +9,142 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B",
+      "Halfdan",
+      "Morten",
       "C"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Morten"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
       "text": " Hej og velkommen til en ny episode af MarketingPod.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 2.0,
       "end": 6.0,
       "text": " I den sidste episode, der udkom i mandags, der talte vi om ugly ads.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.0,
       "end": 10.0,
       "text": " Det var sammen med Morten, Meta, Bige der er med igen, Christian Signor og jeg,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 10.0,
       "end": 14.0,
       "text": " hvor vi snakkede om, hvordan du kan bruge grimme annoncer til at tjene mange penge.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 18.0,
       "text": " Et af de eksempler vi nævnte i denne episode, havde en hook rate på 45%.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 18.0,
       "end": 23.0,
       "text": " Og det inspirerede os til at lave en lille kort episode, dedikeret til hook rate.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 26.0,
       "text": " Fordi, hvad er det? Hvordan arbejder du med det? Hvordan optimerer du det?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 26.0,
       "end": 28.0,
       "text": " Og hvorfor er det et af de vigtigste signaler i forhold til,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 28.0,
       "end": 32.0,
       "text": " om en annonce kommer til at klare sig godt på Metas platform eller ej?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 32.0,
       "end": 34.0,
       "text": " Morten, lige introen her.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.0,
       "end": 37.0,
       "text": " Til dem, der ikke kender begrebet hook rate, hvad er det overhovedet?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 37.0,
       "end": 41.0,
       "text": " Hook rate, det er, hvor mange af dine impressions, der stopper og ser din video,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 41.0,
       "end": 44.0,
       "text": " de første tre sekunder. Og det er det, vi kalder for et hook.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 44.0,
       "end": 49.0,
       "text": " Det aller vigtigste i vores annoncer, kan man sige, første prioritet er,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 49.0,
       "end": 51.0,
       "text": " det er at få folk til at stoppe op og se de første.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 51.0,
       "end": 54.0,
       "text": " Nu bruger vi bare tre sekunder, det kunne også sagtens være to eller fire.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 54.0,
       "end": 57.0,
       "text": " Men hvis vi får folk til at stoppe op, så hooker vi dem.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 57.0,
       "end": 59.0,
       "text": " Og det er det aller vigtigste. Så er næste step selvfølgelig,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 59.0,
       "end": 61.0,
       "text": " for dem til at blive ved med at se videoen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 61.0,
       "end": 63.0,
       "text": " Men til at starte med, så skal vi få folk til at stoppe op.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 63.0,
       "end": 65.0,
       "text": " Derfor er det sindssygt vigtigt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 65.0,
@@ -164,589 +168,589 @@
       "start": 74.0,
       "end": 76.0,
       "text": " Det er faktisk noget, man selv skal sætte op.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 76.0,
       "end": 80.0,
       "text": " Så man skal ind og sætte en custom metric op i Meta eller i TikTok eller andet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 80.0,
       "end": 86.0,
       "text": " hvor man siger tre sekunders videoafspilninger divideret med impressions, eksponeringer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 86.0,
       "end": 89.0,
       "text": " Så det er en, du selv skal lave og så dele med ad-accounten.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 89.0,
       "end": 93.0,
       "text": " Det er ikke en, som Meta selv har, hvilket egentlig er en lille smule underligt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 93.0,
       "end": 100.0,
       "text": " fordi det er så vigtigt i en metric, som de selv scorer deres egne videokreativer på i deres quality ranking.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 100.0,
       "end": 103.0,
       "text": " De første sekunder, synes jeg generelt set, når vi arbejder med videomaterialer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 103.0,
       "end": 108.0,
       "text": " det er sindssygt, uanset om det er Meta eller det er TikTok eller det er LinkedIn eller det er TV,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 108.0,
       "end": 111.0,
       "text": " så synes jeg tit og ofte, at man glemmer de første sekunder.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 111.0,
       "end": 115.0,
       "text": " Man har udviklet et koncept. Man har et vildt videoformat.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 115.0,
       "end": 118.0,
       "text": " Man laver en stærk produktion. Man redigerer det virkelig godt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 118.0,
       "end": 122.0,
       "text": " Men så glemmer man det her med, at ens hook lidt er ens dørmand.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 122.0,
       "end": 125.0,
       "text": " Jeg kunne sagtens have en fed forfest sammen med mine drenge, da jeg var 18 år.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 125.0,
       "end": 128.0,
       "text": " Men hvis jeg kom ind i byen og fandt ud af, at der var plus 21, og ikke kunne komme ind,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 128.0,
       "end": 130.0,
       "text": " jamen så var det alligevel en dårlig aften.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 130.0,
       "end": 132.0,
       "text": " Så min hook, det er min dørmand.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 132.0,
       "end": 135.0,
       "text": " Det er den, der ligesom skal godkende, at nu kommer jeg ind til festen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 135.0,
       "end": 138.0,
       "text": " Og det er det samme med vores hooks. Det er de første tre sekunder.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 138.0,
       "end": 143.0,
       "text": " Og jeg synes typisk, at man ser de her klassiske fejl.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 143.0,
       "end": 147.0,
       "text": " Jeg tror, at vi alle har set annoncen og kan nærmest høre den for os,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 147.0,
       "end": 150.0,
       "text": " hvis vi tager en introduktion.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 150.0,
       "end": 153.0,
       "text": " Video talking head. Jeg står foran kameraet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 153.0,
       "end": 156.0,
       "text": " Hej, jeg hedder Morten Bie. Jeg er engagementpartner her på Sjælland Digital",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 156.0,
       "end": 158.0,
       "text": " og arbejder med Meta og LinkedIn-annoncering.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 158.0,
       "end": 161.0,
       "text": " Der har jeg brugt de første tre til fem sekunder på at fortælle noget,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 161.0,
       "end": 165.0,
       "text": " som for dig, der ser annoncen, er fuldstændig ligegyldigt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 165.0,
       "end": 168.0,
       "text": " Det er derfor, at vi typisk, når vi holder marketingbio,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 168.0,
       "end": 171.0,
       "text": " eller social arts conference eller andet, der vil du opleve,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 171.0,
       "end": 174.0,
       "text": " at Tino eller halvsten af jer faktisk ikke har alle de her slides med,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 174.0,
       "end": 177.0,
       "text": " hvem er vi? Hvad er vores baggrund? Hvad er vores CV? Hvor har vi studeret?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 177.0,
       "end": 181.0,
       "text": " Hvor mange år har vi været i de enkelte steder? Hvad er vores bedste kompetencer?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 181.0,
       "end": 184.0,
       "text": " Fordi du er kommet for at høre noget. For at blive underholdt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 184.0,
       "end": 187.0,
       "text": " Du er ikke kommet for at få en selvbiografi.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 187.0,
       "end": 190.0,
       "text": " Og det er faktisk den største fejl, vi ser med hooks,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 190.0,
       "end": 193.0,
       "text": " at man starter med noget, som er fuldstændig ligegyldigt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 193.0,
       "end": 195.0,
       "text": " og som bare er en venlig intro.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 195.0,
       "end": 197.0,
       "text": " Det er ikke, fordi man ikke må introducere sig selv,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 197.0,
       "end": 200.0,
       "text": " men personen har til formål at sælge et produkt eller en ydelse,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 200.0,
       "end": 202.0,
       "text": " og det er det, vi skal have fokus på.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 202.0,
       "end": 204.0,
       "text": " Så man kan starte med et kontekst før.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 204.0,
       "end": 207.0,
       "text": " I stedet for at sige, hej, jeg hedder. I dag, der skal vi snakke om.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 207.0,
       "end": 210.0,
       "text": " Så kan man bare starte med, i dag skal vi snakke om.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 210.0,
       "end": 213.0,
       "text": " Det er en intro. Det er ikke et hook. Det skal vi nok komme tilbage til.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 213.0,
       "end": 215.0,
       "text": " Men lad være med at lave de her klassiske fejl.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 215.0,
       "end": 217.0,
       "text": " Det kunne også være, i dag er vi i gang med at optage podcast.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 217.0,
       "end": 219.0,
       "text": " Det glæder vi os meget til.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 219.0,
       "end": 221.0,
       "text": " Det er for kedeligt. Der skal vi ikke i gang.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 221.0,
       "end": 224.0,
       "text": " Man har fem forskellige hooktyper, man kan arbejde med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 224.0,
       "end": 228.0,
       "text": " Når vi siger fem forskellige hooktyper, så er det, fordi det er dem, man kender.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 228.0,
       "end": 230.0,
       "text": " Det er dem, som vi ved, der virker.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 230.0,
       "end": 233.0,
       "text": " Man kan sagtens arbejde med andre eksempler, hvor man bare er kreativ.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 233.0,
       "end": 236.0,
       "text": " Jeg vil starte med en, som ikke er her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 236.0,
       "end": 239.0,
       "text": " Det er den uventede hooktype.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 239.0,
       "end": 245.0,
       "text": " Vi kan kalde den fejlen, eller skaden, eller andet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 245.0,
       "end": 248.0,
       "text": " Hvis du har set de annoncer, hvor der sker noget så vildt inden for de første tre sekunder,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 248.0,
       "end": 251.0,
       "text": " en, der skyder en bold efter kameraet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 251.0,
       "end": 253.0,
       "text": " eller en, der vælter ind i kameraet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 253.0,
       "end": 255.0,
       "text": " eller lige når de falder med vilje.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 255.0,
       "end": 258.0,
       "text": " Det er en måde, hvor vi stopper op, fordi vi tænker, hvad sker der med ham der?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 258.0,
       "end": 262.0,
       "text": " Det giver os lidt en anledning til at snakke om curiosity gap,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 262.0,
       "end": 266.0,
       "text": " som vi vil gerne, som udgangspunkt, altid finde ud af.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 266.0,
       "end": 268.0,
       "text": " Hvad er det, der skal løses her?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 268.0,
       "end": 271.0,
       "text": " Det kan være videnshold.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 271.0,
       "end": 274.0,
       "text": " Ved du godt, hvorfor man får skinnbindesbetændelse?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 274.0,
       "end": 277.0,
       "text": " Det vil være en hook, som vil lave et curiosity gap hos mig,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 277.0,
       "end": 282.0,
       "text": " for jeg spiller kun serie 4, så det er ekstremt meget skinnbindesbetændelse, jeg døjer med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 282.0,
       "end": 286.0,
       "text": " Ved du godt, hvorfor man får skinnbindesbetændelse?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 286.0,
       "end": 288.0,
       "text": " Jamen, det ved jeg ikke.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 288.0,
       "end": 289.0,
       "text": " Fortæl mig.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 289.0,
       "end": 290.0,
       "text": " Jeg nysger ikke.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 290.0,
       "end": 294.0,
       "text": " Derfra kan man selvfølgelig købe sin video over i, hvad det rent faktisk skinnbindesbetændelse er,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 294.0,
       "end": 296.0,
       "text": " educate osv.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 296.0,
       "end": 299.0,
       "text": " Er der nogle af de her hooks, som I er særlig glade for?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 299.0,
       "end": 302.0,
       "text": " Jeg er meget glad for den sidste, negativity.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 302.0,
       "end": 307.0,
       "text": " Den her negativity, det handler jo om at i talsæt se ens indvendinger direkte.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 307.0,
       "end": 310.0,
       "text": " Og det er bare fordi, jeg synes rigtig mange af de produkter og services, vi sælger,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 310.0,
       "end": 312.0,
       "text": " de er der for at løse et problem.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 312.0,
       "end": 315.0,
       "text": " Så for eksempel den annoncering, vi kører til vores kommende webinar lige nu,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 315.0,
       "end": 317.0,
       "text": " så er det faktisk det her negativity hook, jeg selv har brugt,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 317.0,
       "end": 319.0,
       "text": " som hedder noget i stil med,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 319.0,
       "end": 322.0,
       "text": " 20% af dine annoncekroner er spildt, men du ved ikke hvilke.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 322.0,
       "end": 324.0,
       "text": " Og så tænker man sådan, okay, det vil jeg måske gerne vide,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 324.0,
       "end": 326.0,
       "text": " og så læser man videre af den årsag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 326.0,
       "end": 330.0,
       "text": " Jeg synes negativity, fordi folk har en tendens til at reagere stærkere på det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 330.0,
       "end": 332.0,
       "text": " der er problemer end det, de gerne vil vinde.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 332.0,
       "end": 335.0,
       "text": " Der er jo de her fantastiske studier af folkens hjerneaktivitet i Las Vegas,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 335.0,
       "end": 338.0,
       "text": " når de gambler, hvor man kan se, at der er meget mere aktivitet,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 338.0,
       "end": 340.0,
       "text": " når du taber 100 dollars, end når du vinder 100 dollars.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 340.0,
       "end": 342.0,
       "text": " Selvom det burde jo være det samme, det er det samme beløb,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 342.0,
       "end": 344.0,
       "text": " om du taber eller vinder, men der er meget mere aktivitet i hjernen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 344.0,
       "end": 345.0,
       "text": " når du taber det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 345.0,
       "end": 348.0,
       "text": " Så det er altså det her begreb, som man kalder loss aversion.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 348.0,
       "end": 350.0,
       "text": " Du vil gå meget langt for at umgå at tabe noget,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 350.0,
       "end": 352.0,
       "text": " meget længere end du vil gå for at vinde det samme.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 352.0,
       "end": 355.0,
       "text": " Så i talsæt, det folk taber fra starten af,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 355.0,
       "end": 357.0,
       "text": " det er en af mine yndlingshugs om at gøre det på.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 357.0,
       "end": 359.0,
       "text": " Jeg elsker problemløsning.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 359.0,
       "end": 361.0,
       "text": " Ja, selvfølgelig gør du det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 362.0,
@@ -794,1207 +798,1207 @@
       "start": 378.0,
       "end": 380.0,
       "text": " Så der er mange forskellige hugtyper.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 380.0,
       "end": 382.0,
       "text": " Meget af det, det er som der står,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 382.0,
       "end": 386.0,
       "text": " det er helt grundlæggende fanggræde i grundlæggende psykologi.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 386.0,
       "end": 387.0,
       "text": " Negativity.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 387.0,
       "end": 391.0,
       "text": " Til jer, der hørte med til seneste content-episode,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 391.0,
       "end": 394.0,
       "text": " ikke den, der var i mandags, men forrige,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 394.0,
       "end": 397.0,
       "text": " vi snakkede om den her comment reply som annonceformat,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 397.0,
       "end": 399.0,
       "text": " hvor man godt kan tage en negativ kommentar",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 399.0,
       "end": 401.0,
       "text": " og så rent faktisk forsvare den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 401.0,
       "end": 403.0,
       "text": " Altså komme med direkte indvendinger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 403.0,
       "end": 405.0,
       "text": " eller komme med direkte talsætning til indvendinger.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 405.0,
       "end": 407.0,
       "text": " Der var det her eksempel fra Totale Allyservice",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 407.0,
       "end": 409.0,
       "text": " med en, der havde skrevet, fusker firma.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 409.0,
       "end": 411.0,
       "text": " Det er også negativity, hvor du siger,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 411.0,
       "end": 413.0,
       "text": " at der er en negativ kommentar,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 413.0,
       "end": 414.0,
       "text": " og så går vi ind og iscenesætter det,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 414.0,
       "end": 416.0,
       "text": " og vender tallerten rundt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 416.0,
       "end": 418.0,
       "text": " Vi snakker om emotion.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 418.0,
       "end": 419.0,
       "text": " Den kender vi.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 419.0,
       "end": 420.0,
       "text": " Det er følelser.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 420.0,
       "end": 422.0,
       "text": " Det kan være, at man inden for de første tre sekunder",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 422.0,
       "end": 424.0,
       "text": " kører noget, der får et grin frem.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 424.0,
       "end": 426.0,
       "text": " En irritation, en lettelse,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 426.0,
       "end": 430.0,
       "text": " eller noget, som vi ved, som påvirker vores følelser.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 430.0,
       "end": 432.0,
       "text": " Det kunne være,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 432.0,
       "end": 434.0,
       "text": " nu sidder jeg freestyler.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 434.0,
       "end": 436.0,
       "text": " Er du også træt af skoet, der gør ondt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 436.0,
       "end": 439.0,
       "text": " så du ikke kan gå med hunden om aftenen?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 439.0,
       "end": 441.0,
       "text": " Et problem, der gør, at vi kan mærke,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 441.0,
       "end": 443.0,
       "text": " at jeg er faktisk træt af det her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 443.0,
       "end": 445.0,
       "text": " Det ødelægger min hverdag.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 445.0,
       "end": 447.0,
       "text": " Men de her hugtyper,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 447.0,
       "end": 448.0,
       "text": " det er nogle, man kan arbejde med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 448.0,
       "end": 450.0,
       "text": " Det vigtigste er, at man skal give brugeren",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 450.0,
       "end": 451.0,
       "text": " en kontekst til at starte med,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 451.0,
       "end": 453.0,
       "text": " så man ved, hvad det er, vi skal ind og snakke om.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 453.0,
       "end": 455.0,
       "text": " For eksempel, ved du, hvorfor man har skinvindpotence?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 455.0,
       "end": 457.0,
       "text": " Så ved jeg, hvad jeg skal se.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 457.0,
       "end": 458.0,
       "text": " Det vigtigste, vi kan gøre med vores hugs,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 458.0,
       "end": 460.0,
       "text": " det er ikke at lege ekstrabladet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 460.0,
       "end": 462.0,
       "text": " Hvis vi leger ekstrabladet og laver en sindsyg hug,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 462.0,
       "end": 463.0,
       "text": " som er clickbait,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 463.0,
       "end": 465.0,
       "text": " men som ikke har nogen relevans for annoncen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 465.0,
       "end": 467.0,
       "text": " så får vi en rigtig fin hug rate,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 467.0,
       "end": 469.0,
       "text": " men så har vi det, der hedder en hold rate.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 469.0,
       "end": 472.0,
       "text": " Altså, hvor mange af vores impressions ser videoen til ende,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 472.0,
       "end": 474.0,
       "text": " eller 75% af videoen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 474.0,
       "end": 477.0,
       "text": " og den vil så falde som en kælgebakke.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 477.0,
       "end": 480.0,
       "text": " Og det gør rent faktisk det stik modsat af det, vi gerne vil have.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 480.0,
       "end": 483.0,
       "text": " Vi vil gerne, at folk bliver ved med at se vores videoer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 484.0,
       "end": 486.0,
       "text": " Man arbejder med sådan tre forskellige lag,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 486.0,
       "end": 488.0,
       "text": " når man snakker om hugs.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 488.0,
       "end": 491.0,
       "text": " Der er det visuelle, det auditive og det tekstuelle.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 491.0,
       "end": 494.0,
       "text": " Det visuelle, det tror jeg, det er den, der er mest brugt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 494.0,
       "end": 496.0,
       "text": " Fordi det er det, vi visualiserer i video.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 496.0,
       "end": 498.0,
       "text": " Det kan også godt være billed eller andet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 499.0,
       "end": 503.0,
       "text": " Det kunne være, at man har en transition, hvor man går ind i framet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 503.0,
       "end": 506.0,
       "text": " Altså, man kommer ind fra siden og starter med en tom frame.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 506.0,
       "end": 508.0,
       "text": " Det kunne være et tomt kontor, hvor alt kommer ind fra siden.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 508.0,
       "end": 510.0,
       "text": " Det kunne være, hvor man griber noget,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 510.0,
       "end": 512.0,
       "text": " eller at man vælger at sætte sig ned.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 512.0,
       "end": 514.0,
       "text": " En eller anden form for bevægelse, man skaber,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 514.0,
       "end": 515.0,
       "text": " som ikke er det fra starten.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 515.0,
       "end": 518.0,
       "text": " Det værste, der kan ske, det er, hvis man bare står helt stift foran kameraet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 518.0,
       "end": 520.0,
       "text": " nærmest kryppet sammen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 520.0,
       "end": 522.0,
       "text": " og så starter igen med en high, der hedder Morten.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 522.0,
       "end": 524.0,
       "text": " Så er der både ikke nogen bevægelse og en dårlig hug.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 524.0,
       "end": 527.0,
       "text": " Så vi skal forsøge at lave noget bevægelse derinde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 527.0,
       "end": 529.0,
       "text": " Det kan være en form for uvendte vinkel.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 529.0,
       "end": 533.0,
       "text": " Hvad med at tage sådan en fire kilo tung flækøks,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 533.0,
       "end": 534.0,
       "text": " og stå og flække noget brænde,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 534.0,
       "end": 536.0,
       "text": " hvis man gerne vil sælge et digitalt marketingprodukt?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 536.0,
       "end": 537.0,
       "text": " Er det ikke et ret fedt visualt hug?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 537.0,
       "end": 538.0,
       "text": " Det er en uvendte vinkel, ja.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 538.0,
       "end": 539.0,
       "text": " Det er i hvert fald et hug.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 539.0,
       "end": 543.0,
       "text": " Nu kører vi nogle videoer,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 543.0,
       "end": 548.0,
       "text": " som i hvert fald i Atmendion er navngivet som hot takes med jer to,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 549.0,
       "end": 553.0,
       "text": " hvor inden for de første tre sekunder, der laver I,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 553.0,
       "end": 554.0,
       "text": " det er jo ikke en high five,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 554.0,
       "end": 557.0,
       "text": " men I giver hinanden sådan en hånd, for at det ligesom skal lyde hult,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 557.0,
       "end": 560.0,
       "text": " og det tager jeg godt til at sige, den fejler lidt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 560.0,
       "end": 562.0,
       "text": " og så griner I.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 562.0,
       "end": 563.0,
       "text": " Det er bevægelse.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 563.0,
       "end": 565.0,
       "text": " Det er en visuel hug.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 565.0,
       "end": 567.0,
       "text": " Det kan også være, at man har direkte øjenkontakt på kameraet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 567.0,
       "end": 570.0,
       "text": " eller man går direkte op i linsen, eller hvad det nu kan være.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 570.0,
       "end": 573.0,
       "text": " Det eneste man skal arbejde på her, det er en pludselig bevægelse,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 573.0,
       "end": 575.0,
       "text": " noget der gør, at der ikke er stillestand.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 575.0,
       "end": 578.0,
       "text": " Pludselig bevægelse, noget der gør, at der ikke er stillestand.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 578.0,
       "end": 581.0,
       "text": " Det tror jeg, det er den mest kendte form for hug.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 581.0,
       "end": 583.0,
       "text": " Stadigvæk er det noget, de fleste er svært ved,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 583.0,
       "end": 587.0,
       "text": " men det er noget, som man kan lave relativt nemt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 587.0,
       "end": 589.0,
       "text": " Det, der er vigtigt at siges med hugs, det er,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 589.0,
       "end": 592.0,
       "text": " at bare fordi du laver én video, så behøves du ikke lave ét hug.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 592.0,
       "end": 594.0,
       "text": " Det hænger ikke sammen overhovedet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 594.0,
       "end": 597.0,
       "text": " Når vi ved, hvor vigtige hugs er i forhold til at få vores video at lave,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 597.0,
       "end": 601.0,
       "text": " så vil vi jo meget gerne producere to, tre, fire hugs til en god video.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 601.0,
       "end": 605.0,
       "text": " Så hvis vi skulle lave nogle hugs til jeres hot takes video igen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 605.0,
       "end": 608.0,
       "text": " så skal vi ikke hen og reproducere jeres videoer.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 608.0,
       "end": 611.0,
       "text": " Vi skal bare reproducere de første tre til fire sekunder.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 611.0,
       "end": 614.0,
       "text": " Den første kunne være den her, lad os bare kalde den high five.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 614.0,
       "end": 617.0,
       "text": " Nummer to kunne være, at Tino griber et eller andet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 617.0,
       "end": 619.0,
       "text": " der bliver kastet ind i kameraet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 619.0,
       "end": 621.0,
       "text": " Nummer tre kan være halvstanden.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 621.0,
       "end": 624.0,
       "text": " Han starter med at stå op, hvor Tino sidder ned, og så sætter halvstanden sig.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 624.0,
       "end": 626.0,
       "text": " Så er det tre forskellige visual hugs.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 626.0,
       "end": 629.0,
       "text": " Så tester vi dem op i Meta eller i andre kanaler.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 629.0,
       "end": 631.0,
       "text": " Så tester vi, hvilken hug virker.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 631.0,
       "end": 634.0,
       "text": " Ikke nødvendigvis, om videoen er god eller dårlig, men hvilket hug virker.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 634.0,
       "end": 636.0,
       "text": " Nummer to er effekter.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 636.0,
       "end": 639.0,
       "text": " Det er noget, man kan sætte sin produktion til, hvis man ikke redigerer selv,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 639.0,
       "end": 642.0,
       "text": " og ellers kan man gøre det relativt hurtigt i CapCut eller andet.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 642.0,
       "end": 646.0,
       "text": " Det er zoom, det er gå til højre, til venstre, det er animations overlays.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 646.0,
       "end": 649.0,
       "text": " Man kan gøre det både i overredigering og underredigering.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 649.0,
       "end": 652.0,
       "text": " Men det er noget, hvor man kan sørge for, hvis man nu har fået op til en video,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 652.0,
       "end": 655.0,
       "text": " hvor man står stille, så må vi prøve at få videoen til at bevæge sig,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 655.0,
       "end": 658.0,
       "text": " selvom personen eller produktet ikke gør det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 658.0,
       "end": 660.0,
       "text": " Så det er effekter i det, vi kalder postproduktion.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 660.0,
       "end": 664.0,
       "text": " Det audiotune-hug, synes jeg er en af de sjoveste.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 664.0,
       "end": 667.0,
       "text": " Det er fordi, jeg synes, der er ikke ret mange, der lykkes med den.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 667.0,
       "end": 670.0,
       "text": " Har I et eksempel på et stærkt audiotune-hug?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 670.0,
       "end": 673.0,
       "text": " Så skulle det være Netflix'es åbningsmelodi.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 673.0,
       "end": 676.0,
       "text": " Hvis man lytter til den i starten, så forventer man, at der kommer noget video",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 676.0,
       "end": 678.0,
       "text": " eller noget fra Netflix eller et eller andet.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 678.0,
       "end": 681.0,
       "text": " Nemlig. Det er måske verdens bedste audiotune-hug.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 681.0,
       "end": 685.0,
       "text": " Det kender vi fra Netflix, vi kender det også fra andre ting.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 685.0,
       "end": 688.0,
       "text": " Men vi glemmer det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 688.0,
       "end": 692.0,
       "text": " Vi glemmer, at lydeffekter rent faktisk godt kan være en del af,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 692.0,
       "end": 694.0,
       "text": " om det er et talking head eller hvad det er.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 694.0,
       "end": 697.0,
       "text": " Men at de her små lydeffekter rent faktisk kan gøre, at vi får en nysgerrighed.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 697.0,
       "end": 700.0,
       "text": " Det kan være, for eksempel hvis jeg havde en video,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 700.0,
       "end": 703.0,
       "text": " hvor jeg filmede ned på, at der er en, der sidder og skriver på telefonen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 703.0,
       "end": 705.0,
       "text": " og de får en besked.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 705.0,
       "end": 707.0,
       "text": " Hvis jeg ikke har lyden med ved den der notification bling,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 707.0,
       "end": 709.0,
       "text": " så mister det faktisk meget sin kontekst.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 709.0,
       "end": 712.0,
       "text": " Men hvis man får den der velkendte lyd med notifikationen",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 712.0,
       "end": 715.0,
       "text": " eller den klassiske iPhone-alarmklokke af morgenen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 715.0,
       "end": 720.0,
       "text": " eller regn, eller whatever form for lyd, som vi kender,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 720.0,
       "end": 724.0,
       "text": " så er det noget, der vækker vores høresans,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 724.0,
       "end": 727.0,
       "text": " og rent faktisk noget, der gør, at vi får det, der kaldes et audiotune-hug.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 727.0,
       "end": 729.0,
       "text": " Så det er jo ikke nødvendigvis, at man skal ind og lave en jingle.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 729.0,
       "end": 731.0,
       "text": " Man skal bare bruge nogle af de ting, man kender,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 731.0,
       "end": 733.0,
       "text": " medmindre man er Netflix og bare finder på charet,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 733.0,
       "end": 736.0,
       "text": " og så bare masser producerer det ud i skyen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 736.0,
       "end": 738.0,
       "text": " Så er der det kontekstuelle hug.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 738.0,
       "end": 740.0,
       "text": " Ved I, hvad jeg er på vej hen med det kontekstuelle hug?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 740.0,
       "end": 742.0,
       "text": " Eller er vi allerede nu her?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 742.0,
       "end": 746.0,
       "text": " Det her kontekstuelle hug, som det er lidt kaosløft,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 746.0,
       "end": 748.0,
       "text": " det lyder måske vildere, end det egentlig er,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 748.0,
       "end": 750.0,
       "text": " det er at sætte ting i kontekst.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 750.0,
       "end": 752.0,
       "text": " Så vi har et eksempel med her fra forsikringsgrejen,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 752.0,
       "end": 755.0,
       "text": " vi har et eksempel med fra lokalbolig og menybin.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 755.0,
       "end": 757.0,
       "text": " Jeg elsker faktisk lokalbolig,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 757.0,
       "end": 759.0,
       "text": " og det er ikke, fordi jeg ikke elsker de andre,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 759.0,
       "end": 761.0,
       "text": " men jeg synes, at lokalbolig gør noget, som er rigtig, rigtig fedt",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 761.0,
       "end": 764.0,
       "text": " med deres videoer, apropos vores seneste episode om det her med.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 764.0,
       "end": 766.0,
       "text": " Kan man tage ting, der er kedelige, og så lad være med at gøre det kedeligt?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 766.0,
       "end": 770.0,
       "text": " Fra 1 til 10, hvor kedeligt synes I, en tilstandsreport er?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 770.0,
       "end": 772.0,
       "text": " Ja, det er 11 ud af 10.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 772.0,
       "end": 774.0,
       "text": " Det er ikke noget, jeg går op i.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 774.0,
       "end": 777.0,
       "text": " Tilstandsreport er særligt svært at lave annoncer til.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 777.0,
       "end": 779.0,
       "text": " Det kan ikke blive fedt,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 779.0,
       "end": 781.0,
       "text": " men man kan godt forsøge at lykkes med det,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 781.0,
       "end": 783.0,
       "text": " og det synes jeg faktisk, at lokalbolig gør her.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 783.0,
       "end": 785.0,
       "text": " Deres kontekstuelle hug her,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 785.0,
       "end": 787.0,
       "text": " det er, at der er en, der står foran en whiteboard,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 787.0,
       "end": 790.0,
       "text": " vidste du at, og så kommer den med tilstandsreporter.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 790.0,
       "end": 793.0,
       "text": " Så vi er stadig over det her educationsformat,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 793.0,
       "end": 796.0,
       "text": " hvor vi bagefter forklarer, hvad en tilstandsreport er,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 796.0,
       "end": 798.0,
       "text": " og de gør det på en ret fed måde.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 798.0,
       "end": 801.0,
       "text": " Men vores kontekstuelle hug, det er, hvad er konteksten til videoen?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 801.0,
       "end": 803.0,
       "text": " Vi forsøger at afklare forventningsafstemmelse videre.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 803.0,
       "end": 805.0,
       "text": " Det kan også være, har du købt en ny bil?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 805.0,
       "end": 809.0,
       "text": " Har du noget allergi?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 809.0,
       "end": 812.0,
       "text": " Har du tænkt dig at drikke rødvin lørdag aften?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 812.0,
       "end": 814.0,
       "text": " Går du til vinsmagning?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 814.0,
       "end": 816.0,
       "text": " Vi sætter ting i kontekst.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 816.0,
       "end": 819.0,
       "text": " Kender du vigtigheden af en tilstandsreport?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 819.0,
       "end": 821.0,
       "text": " Det er måske ikke de, der lyder som de fedeste hugs,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 821.0,
       "end": 824.0,
       "text": " men det er med til at afgøre noget så vigtigt som,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 824.0,
       "end": 826.0,
       "text": " at vores hug jo faktisk kan hugge de rigtige.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 826.0,
       "end": 829.0,
       "text": " Så hvis man starter med, har du lige købt en ny bil?",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 829.0,
       "end": 831.0,
       "text": " Så er det vores måde at filtrere på.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 831.0,
       "end": 834.0,
       "text": " Hvis du ikke har købt en ny bil, så ser du nok ikke videoen færdig.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 834.0,
       "end": 836.0,
       "text": " Det er et klart signal til algoritmerne om,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 836.0,
       "end": 838.0,
       "text": " så er den her annonce ikke for dig.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 838.0,
       "end": 841.0,
       "text": " Hvis du har købt en ny bil, så er der en meget stor sandsynlig for,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 841.0,
       "end": 845.0,
       "text": " at du ser videoen videre, og dermed så får du også bedre performance,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 845.0,
       "end": 847.0,
       "text": " fordi så begynder algoritmerne at se,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 847.0,
       "end": 849.0,
       "text": " hvem har købt en ny bil, hvem har ikke købt en ny bil,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 849.0,
       "end": 851.0,
       "text": " selvom vi ikke gør det i vores targeting.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 851.0,
       "end": 853.0,
       "text": " Og det er her, kreativt begynder at bestemme.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 853.0,
       "end": 855.0,
       "text": " Så det er at sætte det i kontekst for de første tre sekunder.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 855.0,
       "end": 857.0,
       "text": " Det her er jo forskellige hugs.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 857.0,
       "end": 861.0,
       "text": " Det her er bare helt basics, koncepter, typer, etc.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 861.0,
       "end": 863.0,
       "text": " Jeg synes, det er der, hvor det bliver vildt.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 863.0,
       "end": 865.0,
       "text": " Det er der, hvor man begynder at lege med det, freestyle osv.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 865.0,
       "end": 867.0,
       "text": " Men det her vil jeg se som et opslagsværk til det.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 867.0,
       "end": 872.0,
       "text": " Og så husk, at hugget faktisk næsten er vigtigere end videoen.",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 872.0,
       "end": 874.0,
       "text": " Man kan have 30 gode sekunders video,",
-      "speaker": "B"
+      "speaker": "Morten"
     },
     {
       "start": 874.0,
       "end": 876.0,
       "text": " men med en dårlig hug, så er det helt skidt.",
-      "speaker": "B"
+      "speaker": "Morten"
     }
   ]
 }

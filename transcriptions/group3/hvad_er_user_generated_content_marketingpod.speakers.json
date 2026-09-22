@@ -9,101 +9,105 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Kasper"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Kasper"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 9.0,
       "text": " I den her episode skal vi snakke om UGC, User Generated Content, og hvordan man kan bruge det i ens annoncemateriale til annoncering på sociale medier.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.0,
       "end": 15.0,
       "text": " Og på trods af at Christian Tinho bruger hele dagen på TikTok, så er det ikke ham, der får lov til at snakke om det i dag.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 15.0,
       "end": 23.0,
       "text": " Fordi vi har Kasper Christiansen med i studiet i stedet, hvor der har lavet scrollstop.dk og producerer rigtig meget UGC-content for rigtig mange særlig danske webshops.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 23.0,
       "end": 25.0,
       "text": " Men vi kommer lidt ind på målgruppen senere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.0,
       "end": 33.0,
       "text": " Kasper, kan du ikke starte med at forklare konceptuelt, hvad er UGC-content egentlig for noget?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 33.0,
       "end": 43.0,
       "text": " Jo, selvfølgelig. I bund og grund er User Generated Content egentlig bare annoncer, der prøver at efterligne organisk content.",
-      "speaker": "B"
+      "speaker": "Kasper"
     },
     {
       "start": 43.0,
       "end": 51.0,
       "text": " Så jo bedre man kan få det til at ligne traditionelt content, som forbrugerne ser på deres sociale medier, jo bedre.",
-      "speaker": "B"
+      "speaker": "Kasper"
     },
     {
       "start": 51.0,
       "end": 59.0,
       "text": " Og når du siger traditionelt content, hvad mener du der? Er det sådan et pænt, fritlagt kreativt med en grafisk baggrund og så en gul tilbudspris oppe i hjørnet?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 59.0,
       "end": 65.0,
       "text": " Ikke helt. Det er tættere på det, man ser sine venner og familie og andre på sociale medier post.",
-      "speaker": "B"
+      "speaker": "Kasper"
     },
     {
       "start": 65.0,
       "end": 74.0,
       "text": " Så jo grimmere det er, jo bedre performer det typisk. Fordi hvem i alverden skulle være dum nok til at lave så grimme annoncer?",
-      "speaker": "B"
+      "speaker": "Kasper"
     },
     {
       "start": 75.0,
       "end": 77.0,
       "text": " Det er et fedt slogan, det der.",
-      "speaker": "B"
+      "speaker": "Kasper"
     },
     {
       "start": 77.0,
       "end": 83.0,
       "text": " Ja, det har jeg faktisk tit tænkt hver eneste gang, jeg ser Christian Signue lave annoncer til Facebook, så tænker jeg, hvem kunne dog finde på at falde for det der?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 83.0,
       "end": 85.0,
       "text": " Og det sjove er, at han prøver ikke engang.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.0,
       "end": 88.0,
       "text": " Hvem var den kloge? Det skulle jo være grimt.",
-      "speaker": "B"
+      "speaker": "Kasper"
     },
     {
       "start": 88.0,
       "end": 95.0,
       "text": " Ja, det er din vendetta det her. Fantastisk, at du kan få lov til at blive oprejst på baggrunden af alle de hånerier, der er sket på kontoret.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

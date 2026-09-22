@@ -62,12 +62,12 @@ SÅDAN SVARER DU
 
 | File | Episodes | Size (chars) |
 |---|---:|---:|
-| `00_catalog.md` | 372 | 239,010 |
-| `fuldt-booket_part01_of01_2026-01-15_2026-09-21.md` | 25 | 801,187 |
+| `00_catalog.md` | 372 | 239,481 |
+| `fuldt-booket_part01_of01_2026-01-15_2026-09-21.md` | 25 | 801,195 |
 | `group5_part01_of01_2026-04-30_2026-08-18.md` | 4 | 5,322 |
-| `marketingpod_part01_of04_2025-10-30_2026-01-19.md` | 31 | 1,031,286 |
-| `marketingpod_part02_of04_2026-01-22_2026-04-16.md` | 25 | 977,649 |
-| `marketingpod_part03_of04_2026-04-20_2026-07-09.md` | 24 | 1,020,750 |
-| `marketingpod_part04_of04_2026-07-13_2026-09-21.md` | 22 | 911,764 |
+| `marketingpod_part01_of04_2025-10-30_2026-01-19.md` | 31 | 1,031,234 |
+| `marketingpod_part02_of04_2026-01-22_2026-04-16.md` | 25 | 977,324 |
+| `marketingpod_part03_of04_2026-04-20_2026-07-09.md` | 24 | 1,019,741 |
+| `marketingpod_part04_of04_2026-07-13_2026-09-21.md` | 22 | 911,667 |
 | `workshops_part01_of01_udateret.md` | 2 | 287,082 |
-| `zz_digest_part01_of01_2024-05-09_2025-10-27.md` | 239 | 284,338 |
+| `zz_digest_part01_of01_2024-05-09_2025-10-27.md` | 239 | 284,514 |

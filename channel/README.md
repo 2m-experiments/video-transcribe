@@ -21,8 +21,8 @@ otherwise not stored in the code (`transcribe.py` only holds the video lists).
 *Status last updated: 2026-09-22 (1 new group1 + 1 new group3 video, both transcribed and diarized; group5 added 2026-09-10).*
 
 ¹ group1's 13 pre-2026-07-29 monologues are intentionally not diarized; the 14 newer ones are.
-² group3 is complete — all 338 transcribed and diarized; 262 have real speaker names, 76 are
-letter-labeled (hosts appear as Halfdan / Kristian; the newest 30 were named 2026-09-20). Three "Mr. Beast" clips were missing until 2026-09-07: every dotted title used
+² group3 is complete — all 338 transcribed and diarized; 298 have real speaker names, 40 are
+letter-labelled because the transcript doesn't prove who is speaking (hosts appear as Halfdan / Kristian; 36 more were named on 2026-09-22 using [`speakers.json`](speakers.json)). Three "Mr. Beast" clips were missing until 2026-09-07: every dotted title used
 to collapse to a truncated filename (`Mr. Beasts …` → `mr.json`), so four videos overwrote each
 other and only one survived. Fixed in `transcribe.py` and re-transcribed.
 ³ The older testimonial/case clips (17 counted 2026-09-20; the listing showed 18 on 2026-09-22) on the group1 channel are deliberately left out of the

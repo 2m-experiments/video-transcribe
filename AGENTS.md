@@ -5,7 +5,7 @@ speaker labels. Follow these steps exactly; the invariants at the bottom prevent
 mistakes that have actually happened here.
 
 Pipeline: **download audio → Whisper transcript → AssemblyAI diarization → publish dates →
-index → bundle** (speaker naming is optional and manual). Whisper produces the text; AssemblyAI is used *only* for "who
+index → bundle** (speaker naming comes right after diarization, see §3). Whisper produces the text; AssemblyAI is used *only* for "who
 spoke when" (its own transcript is discarded).
 
 ---
@@ -93,10 +93,24 @@ do not add workers or remove the pause, that is what triggered the block. `bundl
 prints which files changed since the last build; those are the only files that need
 re-uploading to the phone project (see `bundle/README.md`).
 
-## 3. (Optional) Name speakers — only when asked
+## 3. Name speakers — always, right after diarizing
 
-Diarization labels speakers as letters (A/B/C). Mapping to real names is a **separate,
-manual** step, not part of the automatic flow.
+Diarization labels speakers as letters (A/B/C). Mapping them to real names is part of the
+standard flow for every new video, not an extra.
+
+1. Look up the group's known speakers and their aliases in
+   [`channel/speakers.json`](channel/speakers.json). Whisper mangles names (Kristian Tinho →
+   "Tini", "Tinju", "Tino"; also "TikTok-boy"), so match on the aliases.
+2. Decide each letter from evidence in the `.speakers.txt`:
+   - **Addressing** is the strongest cue: if A says "Tinho, hvad synes du?", then A is *not*
+     Kristian and the addressee is the other speaker.
+   - **Self-introductions** ("Mit navn er Alexander", "jeg hedder …") identify the speaker.
+   - Guests talking *about* a host are weak evidence. Guests get their first name from the title.
+   - A gpt-4o pass once swapped the two hosts in 6 of 30 episodes, so check every map
+     against at least one quoted addressing or self-intro turn.
+3. Relabel offline. If the evidence isn't there (e.g. a solo episode with no self-intro),
+   leave the letters and note it in the session log.
+4. Add any new alias or recurring guest to `channel/speakers.json`.
 
 ```bash
 # offline relabel of an existing .speakers.json (no AssemblyAI call, no key, no cost)

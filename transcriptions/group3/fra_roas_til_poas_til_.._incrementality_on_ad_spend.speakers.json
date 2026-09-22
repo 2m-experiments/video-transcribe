@@ -9,413 +9,417 @@
   "diarization": {
     "provider": "assemblyai",
     "speakers": [
-      "A",
-      "B"
+      "Halfdan",
+      "Kristian"
     ],
-    "language_code": "da"
+    "language_code": "da",
+    "speaker_names": {
+      "A": "Halfdan",
+      "B": "Kristian"
+    }
   },
   "segments": [
     {
       "start": 0.0,
       "end": 6.2,
       "text": " Jo, altså ligesom vi for nylig opfandt et term til CEO på AI LLM-platform,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 6.2,
       "end": 7.4,
       "text": " hvad var det nu vi kaldte den?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 7.4,
       "end": 9.4,
       "text": " Mention Building, for at blive vildst randt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 9.4,
       "end": 10.4,
       "text": " Ja, det er rigtigt.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 10.4,
       "end": 12.0,
       "text": " Mentionbuilding.dk.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 12.0,
       "end": 14.0,
       "text": " Så har jeg fundet I.O.A.S.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 14.0,
       "end": 18.4,
       "text": " Det er ikke lige så nemt og ruller lige i tungen som Roas Pohras gør,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 18.4,
       "end": 19.4,
       "text": " men I.O.A.S.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 19.4,
       "end": 21.4,
       "text": " Incrementality on Ad Spend.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 21.4,
       "end": 22.4,
       "text": " Du hørte det her først.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 22.4,
       "end": 25.2,
       "text": " Kommer i virkeligheden til at måle vores fremtidige marketingbudget på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 25.2,
       "end": 26.6,
       "text": " hvor meget incrementality der ligger i det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 26.6,
       "end": 29.0,
       "text": " og ikke hvor meget tilskrevet Roas, ikke hvor meget tilskrevet Pohras,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 29.0,
       "end": 34.8,
       "text": " fordi de begge to misvisninger kommer vi til at sige incrementality on Ad Spend i stedet for.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 34.8,
       "end": 37.8,
       "text": " Ja, hvad siger du? Køber du den?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 37.8,
       "end": 41.4,
       "text": " Ja, altså nu vil jeg sige, at nu havde vi et af de andre ...",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 41.4,
       "end": 45.4,
       "text": " ... på et andet navn til en søgerhedsanalyse, der hedder Phrase Smash Reverse Analyse.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 45.4,
       "end": 47.2,
       "text": " Er det måske på?",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 47.2,
       "end": 50.2,
       "text": " Jeg føler, at det er gået ned ad bakke siden da, må jeg sige.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 50.2,
       "end": 51.2,
       "text": " I.O.A.S.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 51.2,
       "end": 53.6,
       "text": " Jeg køber tanken bag, men vi skal have fundet et eller andet ...",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 53.6,
       "end": 55.4,
       "text": " Ja, du sidder allerede i gang med at købe domænet.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 55.4,
       "end": 59.8,
       "text": " Hvis man sidder og ser med på Spotify eller YouTube, så kan man se, at alfden har gået ind ...",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 59.8,
       "end": 65.8,
       "text": " ... og fundet ud af, at I.O.A.S. faktisk er ledigt.dk.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 65.8,
       "end": 68.2,
       "text": " Skal vi ud og bruge 70 kroner på Simply i dag på at købe et nyt domæne?",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 68.2,
       "end": 69.2,
       "text": " Nej, det tror jeg da nok, vi skal.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 69.2,
       "end": 70.8,
       "text": " Jeg er klar på det. Jeg er klar på det. Lad os gøre det.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 70.8,
       "end": 72.2,
       "text": " Ja, vi køber det i Roas, ikke det gør vi.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 72.2,
       "end": 74.4,
       "text": " Incrementality on Ad Spend. Ja, det er fedt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 74.4,
       "end": 76.8,
       "text": " Jeg sender dig 75 kroner på mordepenge nu.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 76.8,
       "end": 80.4,
       "text": " Ja, det gør jeg.",
-      "speaker": "B"
+      "speaker": "Kristian"
     },
     {
       "start": 80.4,
       "end": 83.4,
       "text": " Jeg tror, at det her, hvis man skal tage lidt fremtiden for det,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 83.4,
       "end": 85.8,
       "text": " fordi det er også lidt det, vi kommer til.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 85.8,
       "end": 87.8,
       "text": " Men jeg kan sige, at den sidste point, det er før i det her,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 87.8,
       "end": 89.6,
       "text": " i forhold til at spørge folk på kvitteringssiden,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 89.6,
       "end": 92.6,
       "text": " som vores case i forhold til TikTok her var bygget på,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 92.6,
       "end": 93.6,
       "text": " det er ret nemt at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 93.6,
       "end": 97.0,
       "text": " Der findes et Shopify-værktøj, der hedder AskLayer, man kan bruge til det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 97.0,
       "end": 99.4,
       "text": " Det har jeg brugt i den ene af de her cases i hvert fald.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 99.4,
       "end": 103.4,
       "text": " SleekNote kan gøre det, altså hvis man har et abonnement, der er i forvejen supersimpelt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 103.4,
       "end": 105.4,
       "text": " Det kan man gøre på mange måder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 105.4,
       "end": 106.8,
       "text": " Det vil jeg anbefale.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 106.8,
       "end": 109.8,
       "text": " En anden ting, jeg altså også lige vil anbefale, det er, at man måler ens marketingprocent ...",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 109.8,
       "end": 112.8,
       "text": " Det er et eller andet single source of truth dashboard.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 112.8,
       "end": 115.8,
       "text": " Det betyder, at i stedet for at måle, hvor mange penge, du skal bruge på Meta,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 115.8,
       "end": 119.8,
       "text": " eller Google, eller TikTok, eller Pinterest, så er du nødt til at have et samlet sted, hvor du måler.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 119.8,
       "end": 121.8,
       "text": " Det kan være, at du bruger Reaktion eller Perfect Metrics,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 121.8,
       "end": 122.8,
       "text": " så det er, hvis du er e-commerce,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 122.8,
       "end": 124.8,
       "text": " eller det kan være, at du bygger et Google Look Studio dashboard,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 124.8,
       "end": 126.8,
       "text": " som bare fungerer rigtig, rigtig godt.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 126.8,
       "end": 128.8,
       "text": " Vi bruger både de førnævnte værktøjer,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 128.8,
       "end": 130.8,
       "text": " og vi bygger rigtig mange Look Studio dashboards til vores kunder.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 130.8,
       "end": 133.8,
       "text": " Men du er nødt til at have et sted, hvor du kan se din samlet omsætning",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 133.8,
       "end": 135.8,
       "text": " og din samlet marketingomkostning, og du kan udregne,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 135.8,
       "end": 137.8,
       "text": " hvor mange penge, du effektivt bruger på marketing.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 137.8,
       "end": 139.8,
       "text": " Fordi det kan du ikke ved at kigge på de enkelte platform.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 139.8,
       "end": 141.8,
       "text": " Den data vil være misvisende, fordi det overrejser på dig.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 141.8,
       "end": 143.8,
       "text": " Så det er vigtigt at gøre det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 143.8,
       "end": 146.8,
       "text": " Når jeg sidder og budgetjusterer for de virksomheder, hvor jeg er ansvarlig,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 146.8,
       "end": 149.8,
       "text": " så kigger jeg på et single source of truth, typisk Google Look Studio dashboard,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 149.8,
       "end": 151.8,
       "text": " jeg har tilpasset til dem, for at se, hvor mange penge bruger vi,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 151.8,
       "end": 152.8,
       "text": " og hvor meget omsætter vi.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 152.8,
       "end": 154.8,
       "text": " Og så bestemmer jeg marketingbudgettet ud for det.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 154.8,
       "end": 156.8,
       "text": " Fordelingen sker på platformen.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 156.8,
       "end": 158.8,
       "text": " Mentalet, jeg finder frem til, at vi må bruge,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 158.8,
       "end": 160.8,
       "text": " sker altså på et højere niveau, sker ikke på platformen,",
-      "speaker": "A"
+      "speaker": "Halfdan"
     },
     {
       "start": 160.8,
       "end": 162.8,
       "text": " og det kan man ikke længere.",
-      "speaker": "A"
+      "speaker": "Halfdan"
     }
   ]
 }

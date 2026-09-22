@@ -16,7 +16,7 @@ Last updated: **2026-09-22** on **asus-copilot**.
 - 2026-09-22 channel diff found 2 new uploads (both 2026-09-21), now transcribed, diarized,
   indexed and bundled:
   - group1 `3OQc7u3pri8` (15 min) "Lær hvorfor din klinik har ramt et loft - og hvordan du bryder det", 1 speaker
-  - group3 `Mnl3r5vXLFQ` (54 min) "Tester AI agenter til marketing: Claude vs Manus vs Grok Bot vs OpenClaw", speakers A/B **not yet named**
+  - group3 `Mnl3r5vXLFQ` (54 min) "Tester AI agenter til marketing: Claude vs Manus vs Grok Bot vs OpenClaw", named Halfdan/Kristian
 - group1 channel listing now shows 45 videos: 27 tracked + 18 old untracked testimonial
   clips (17 were counted on 2026-09-20; the extra one wasn't identified and may be
   `flMsd1NCtyA` playable again). All old, deliberately outside the curated set.
@@ -29,9 +29,12 @@ Last updated: **2026-09-22** on **asus-copilot**.
 - The 2026-09-22 rebuild changed 8 upload files (every part shifts its date window) and
   bundled group5 for the first time (`group5_part01_of01_…`). **The Claude Project has
   not been re-uploaded yet** (see Next actions).
-- Speaker names: 262 of 338 Marketingpod episodes are named. Hosts are **Halfdan** and
-  **Kristian**; guests use the first name from the title. Naming is offline
-  (`diarize.py --relabel`) and the bundle picks it up on rebuild.
+- **Speaker naming is now part of the standard flow** (user decision 2026-09-22: the project
+  exists to automate, so don't leave letters). Known speakers, their nicknames and Whisper
+  misspellings are in `channel/speakers.json`. 298 of 338 Marketingpod episodes are named;
+  the other 40 stay letter-labelled for lack of evidence (solo clips without a self-intro,
+  or diarization that puts both hosts under one letter). The new group1 video is named
+  Alexander. The other 13 diarized group1 videos are not named yet.
 - The scrape caches under `channel/channel_cache/` are per-machine and git-ignored; a
   fresh machine simply re-scrapes (refresh per `AGENTS.md` §4).
 
@@ -42,12 +45,12 @@ Last updated: **2026-09-22** on **asus-copilot**.
    and the old `00_catalog.md`; upload `00_catalog.md`, `fuldt-booket_part01_of01_2026-01-15_2026-09-21.md`,
    `group5_part01_of01_2026-04-30_2026-08-18.md`, the four new `marketingpod_part0?_of04_…` files and
    `zz_digest_part01_of01_2024-05-09_2025-10-27.md`. `workshops_…` is unchanged.
-2. Optional: name speakers A/B in `Mnl3r5vXLFQ` (likely Halfdan/Kristian; check the text
-   first), then `bundle.py` again.
+2. Optional: name the other 13 diarized group1 solo videos (Alexander). Only 2 of them
+   self-introduce, so check each one first.
 3. Test the project by voice on the phone. If retrieval is weak, the fallback is a small
    remote MCP server over the index.
 4. Next channel diff: look for uploads after 2026-09-21.
-5. Optional: name the remaining 76 letter-labelled group3 episodes.
+5. The remaining 40 unnamed group3 episodes would need voice matching (not just text) to go further.
 
 ---
 

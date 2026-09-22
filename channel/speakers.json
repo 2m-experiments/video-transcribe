@@ -1,0 +1,133 @@
+{
+  "_comment": "Known speakers per group, used to turn diarization letters (A/B/C) into names. 'label' is the exact name to pass to `diarize.py --relabel --names`. 'aliases' are the ways Whisper spells or the speakers themselves refer to the person (nicknames, misspellings); a turn that ADDRESSES an alias identifies the OTHER speaker, a self-introduction identifies the speaker. Guests not listed here get their first name from the episode title. Add new aliases whenever a naming pass finds one.",
+  "groups": {
+    "group1": {
+      "speakers": [
+        {
+          "label": "Alexander",
+          "full_name": "Alexander (Fuldt Booket)",
+          "role": "channel owner, solo presenter",
+          "aliases": [
+            "Alexander",
+            "Alexander Detmejder"
+          ],
+          "notes": "Introduces himself as 'Mit navn er Alexander' or 'jeg hedder Alexander …, direktøren her i …'. Channel videos are solo pieces to camera."
+        }
+      ]
+    },
+    "group3": {
+      "speakers": [
+        {
+          "label": "Halfdan",
+          "full_name": "Halfdan Timm",
+          "role": "host",
+          "aliases": [
+            "Halfdan",
+            "Halvdan",
+            "Halfden",
+            "Halftan",
+            "Halvten",
+            "Halvsten",
+            "Halvstand",
+            "Alfden",
+            "Timm"
+          ],
+          "notes": "Usually opens the episode ('Hej og velkommen til … MarketingPod'), runs Obsidian, very active on X. Calls Kristian 'Tinho' and teases him as a 'TikTok-boy'. Beware: 'halvdelen' (= 'half of them') is ordinary Danish, not a Halfdan cue."
+        },
+        {
+          "label": "Kristian",
+          "full_name": "Kristian Tinho",
+          "role": "host",
+          "aliases": [
+            "Kristian",
+            "Christian",
+            "Tinho",
+            "Tino",
+            "Tini",
+            "Tinni",
+            "Tine",
+            "Tinju",
+            "Tinhu",
+            "Tineu",
+            "Sinju",
+            "Signe",
+            "Signue",
+            "Etinjo",
+            "Ritinho",
+            "TikTok-boy"
+          ],
+          "notes": "Mostly addressed by surname ('Tinho', which Whisper renders Tini/Tinju/Tino). Labelled 'Christian' in files before 2026-09-20. Came to Obsidian later than Halfdan (asks 'siden I startede Obsidian'). From Aarhus, AGF fan."
+        },
+        {
+          "label": "Morten",
+          "role": "recurring guest (Obsidian colleague)",
+          "aliases": [
+            "Morten"
+          ],
+          "notes": "Most frequent guest (27+ episodes)."
+        },
+        {
+          "label": "Niklas",
+          "full_name": "Niklas Ørum Keller",
+          "role": "guest, lawyer (advokat)",
+          "aliases": [
+            "Niklas",
+            "Nicolaas",
+            "Nikolaj"
+          ],
+          "notes": "Bindingsperiode/marketing-bureau contract episodes and their clips."
+        },
+        {
+          "label": "Jesper",
+          "full_name": "Jesper Hvejsel",
+          "role": "recurring guest",
+          "aliases": [
+            "Jesper",
+            "Hvejsel"
+          ]
+        },
+        {
+          "label": "Kasper",
+          "full_name": "Kasper Christiansen",
+          "role": "guest (UGC)",
+          "aliases": [
+            "Kasper"
+          ],
+          "notes": "Surname contains 'Christian' — don't mistake it for a Kristian cue."
+        }
+      ]
+    },
+    "group4": {
+      "speakers": [
+        {
+          "label": "Olivia",
+          "role": "webinar speaker",
+          "aliases": [
+            "Olivia"
+          ]
+        },
+        {
+          "label": "Kasper",
+          "role": "webinar speaker",
+          "aliases": [
+            "Kasper"
+          ]
+        },
+        {
+          "label": "Morten",
+          "role": "webinar speaker",
+          "aliases": [
+            "Morten"
+          ]
+        },
+        {
+          "label": "Andreas",
+          "role": "webinar speaker",
+          "aliases": [
+            "Andreas"
+          ]
+        }
+      ]
+    }
+  }
+}

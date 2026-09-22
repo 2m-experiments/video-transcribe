@@ -19,8 +19,11 @@ new video is a `*.speakers.json` + `*.speakers.txt` alongside the plain transcri
 
 - Applies to every group. Solo-speaker videos (e.g. group1 monologues) simply come back
   as a single speaker — that's fine; diarize them anyway rather than special-casing.
-- Speaker **naming** (letters → real names) is a separate, heavier step; do it when asked,
-  it is not part of the automatic "new video" flow.
+- Speaker **naming** (letters → real names) is also part of "done": right after
+  diarizing, name every speaker you can prove from the transcript using
+  [`channel/speakers.json`](channel/speakers.json) (known speakers + aliases/misspellings) and
+  `diarize.py --relabel`. Don't wait to be asked. Leave a letter only when the evidence
+  really isn't there, and say so. Add newly found aliases/recurring guests to `speakers.json`.
 - The **AssemblyAI key is deliberately never committed**. Supply it at run time via
   `ASSEMBLYAI_API_KEY` (env or `.env`); do not write it into any tracked file.
 
@@ -28,6 +31,7 @@ Standard flow for new videos:
 ```bash
 python transcribe.py --group <g>            # or --channel <url> --channel-name <g>
 python diarize.py transcriptions/<g>/<name>.json   # for each newly-transcribed file
+python diarize.py --relabel --names "A=Halfdan,B=Kristian" transcriptions/<g>/<name>.speakers.json  # name them (AGENTS.md §3)
 python video_meta.py                        # publish dates for the new videos
 python index.py build --group <g>           # incremental summaries
 python bundle.py                            # regenerate bundle/ for the phone project

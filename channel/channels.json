@@ -16,7 +16,8 @@
         "transcribed": 27,
         "diarized": 14,
         "new_since_last": 0,
-        "older_uncurated": 18
+        "older_uncurated": 18,
+        "named": 1
       }
     },
     {
@@ -44,13 +45,13 @@
       "handle": "@marketingpod",
       "cache_file": "channel_cache/group3.json",
       "cached_at": "2026-09-22T00:00:00Z",
-      "notes": "Full-channel scrape cached under channel_cache/. Complete: every tracked video is transcribed and diarized; 262 of 338 have real speaker names (hosts are labelled Halfdan / Kristian; Kristian Tinho was spelled \"Christian\" until 2026-09-20), the rest are letter-labeled. The channel listing also carries 1 Short, which the scraper filters out (339 listed -> 338 tracked). One episode (TVexnIlT-ps) was retitled upstream after transcription; transcribe.py now dedups by video id so it is not redone.",
+      "notes": "Full-channel scrape cached under channel_cache/. Complete: every tracked video is transcribed and diarized; 298 of 338 have real speaker names (known speakers + aliases in channel/speakers.json) (hosts are labelled Halfdan / Kristian; Kristian Tinho was spelled \"Christian\" until 2026-09-20), the other 40 stay letter-labelled for lack of evidence (mostly solo clips, or one letter covering both hosts). The channel listing also carries 1 Short, which the scraper filters out (339 listed -> 338 tracked). One episode (TVexnIlT-ps) was retitled upstream after transcription; transcribe.py now dedups by video id so it is not redone.",
       "status": {
         "tracked_videos": 338,
         "channel_total_live": 338,
         "transcribed": 338,
         "diarized": 338,
-        "named": 262,
+        "named": 298,
         "new_since_last": 0,
         "older_uncurated": 0
       }
