@@ -4,78 +4,50 @@ Living document: **overwrite** the "Current state" and "Next actions" sections a
 of every session (on any machine), then commit and push so the other machine sees it.
 Per-session narrative goes in [`sessionlog/`](sessionlog/README.md), not here.
 
-Last updated: **2026-09-20** on **blackbox-silent** (stationary).
+Last updated: **2026-09-22** on **asus-copilot**.
 
 ---
 
 ## Current state
 
-- **All groups complete as of 2026-09-20**: group1 26/26 transcribed (13 diarized, 13 legacy
-  monologues intentionally not), group3 337/337 transcribed and diarized, group2 + group4
-  unchanged. The 4 videos found on 2026-09-20 were transcribed, diarized and committed the
-  same day. Verify snippet in `AGENTS.md` passes, no orphans.
-- `transcribe.py` got two fixes this session: (1) the anti-blocking sleep now only follows a
-  real download, so a no-op channel re-run finishes in ~1 s instead of idling ~1 h through
-  skips; (2) the skip check now dedups by YouTube video id as well as filename, so a video
-  retitled upstream (group3 `TVexnIlT-ps`, transcribed 2026-07-29 as "HVEJSEL ER TILBAGE…",
-  now titled "Jesper Hvejsel: 500 mio. kr-direktøren…") is no longer re-transcribed.
-- **Phone/voice retrieval is live** in the Claude Project "VideoTranscribe" (shared with the
-  2ai org) since 2026-09-20: 8 files from `bundle/`, 5.56M chars = 91% of project capacity,
-  so the cap is ~6.1M chars. `bundle.py` (transcripts + indexes + `channel/video_meta.json`)
-  keeps full transcripts within a 4.9M-char budget, newest first (currently 2025-10-20 →),
-  and ships the 236 older episodes as summary-only `zz_digest_*`. **Do not raise the budget;
-  never upload `README.md`/`manifest.json`.** After a batch: run `video_meta.py`, `index.py
-  build`, `bundle.py`; in the project delete the files `bundle.py` lists as changed/removed
-  and upload their replacements. 364 of 366 episodes have a publish date (the Vimeo "100
-  bookinger workshop" and the Obsidian webinar sort by transcription date instead).
-- Speaker names: 262 of 337 Marketingpod episodes are named, including every episode from
-  2026-06-11 onward except the 2026-06-29 solo "Guide: Sådan mangedobler du effekten…" (no
-  clue who speaks). Host labels are **Halfdan** and **Kristian** (Kristian Tinho; the older
-  files said "Christian" and were relabelled 2026-09-20). Guests use the first name from
-  the title. Naming is offline (`diarize.py --relabel`) and the bundle picks it up on rebuild.
-- `indexes/` rebuilt 2026-09-20 for all four groups (group1 26, group2 2, group3 337, group4 1). `index.py` now ignores
-  `*.speakers.json` siblings (they would otherwise have been indexed as separate videos).
-  Rebuild after every batch: `python index.py build --group <g>` is incremental and cheap.
-- Two byte-identical duplicate mp3s in `audio/group3/` (retitled episode + a
-  truncated-name leftover) were deleted 2026-09-20. `README.md` was brought up to date.
+- **All groups complete as of 2026-09-22**: group1 27/27 transcribed (14 diarized, 13 legacy
+  monologues intentionally not), group3 338/338 transcribed and diarized, group2, group4 and
+  group5 unchanged. The verify snippet in `AGENTS.md` passes and there are no orphans.
+- 2026-09-22 channel diff found 2 new uploads (both 2026-09-21), now transcribed, diarized,
+  indexed and bundled:
+  - group1 `3OQc7u3pri8` (15 min) "Lær hvorfor din klinik har ramt et loft - og hvordan du bryder det", 1 speaker
+  - group3 `Mnl3r5vXLFQ` (54 min) "Tester AI agenter til marketing: Claude vs Manus vs Grok Bot vs OpenClaw", speakers A/B **not yet named**
+- group1 channel listing now shows 45 videos: 27 tracked + 18 old untracked testimonial
+  clips (17 were counted on 2026-09-20; the extra one wasn't identified and may be
+  `flMsd1NCtyA` playable again). All old, deliberately outside the curated set.
+- **Phone/voice retrieval** is the Claude Project "VideoTranscribe" (shared with the 2ai org):
+  `bundle/` is 5.56M chars (~91% of the ~6.1M cap). `bundle.py` keeps full transcripts
+  within a 4.9M-char budget, newest first (now 2025-10-30 →), older episodes are
+  summary-only in `zz_digest_*`. **Do not raise the budget; never upload
+  `README.md`/`manifest.json`.** After a batch, delete the files `bundle.py` lists as
+  changed/removed from the project and upload their replacements.
+- The 2026-09-22 rebuild changed 8 upload files (every part shifts its date window) and
+  bundled group5 for the first time (`group5_part01_of01_…`). **The Claude Project has
+  not been re-uploaded yet** (see Next actions).
+- Speaker names: 262 of 338 Marketingpod episodes are named. Hosts are **Halfdan** and
+  **Kristian**; guests use the first name from the title. Naming is offline
+  (`diarize.py --relabel`) and the bundle picks it up on rebuild.
 - The scrape caches under `channel/channel_cache/` are per-machine and git-ignored; a
-  fresh machine simply re-scrapes.
+  fresh machine simply re-scrapes (refresh per `AGENTS.md` §4).
 
 ## Next actions
 
-1. Test the project by voice on the phone (e.g. "I en af de seneste episoder snakker de om
-   Metas læringsfase, forklar kort principperne"). If retrieval is weak, the fallback plan
-   is a small remote MCP server over the index.
-2. Next time: run the channel diff (see `AGENTS.md` §4, or the flow in
-   `sessionlog/2026-09-20-blackbox-silent.md`) to look for uploads after 2026-09-17.
-3. Optional: name the remaining 75 letter-labelled group3 episodes (all older than
-   2026-06-11). Per-episode evidence check is required; see the session log for the pitfalls.
-
----|---|---|---|---|
-  | group3 | `AqzbeUR3Ajk` | 2026-09-10 | 19 min | Performance Max er døende - men hvad gør Google nu? |
-  | group3 | `xTsPejw87uo` | 2026-09-14 | 65 min | Performance-branding Masterclass med Jacob Holst Mouritzen |
-  | group3 | `-LjhtfdBj-k` | 2026-09-17 | 10 min | Only Halfdan: Metas læringsfase forklaret på 12 minutter |
-  | group1 | `3KGvqLOQ8nw` | 2026-09-15 | 16 min | De 3 ting, der tog en behandler fra 0 til 3 klinikker |
-
-  The 17 other untracked group1 videos are the old testimonial clips that are
-  deliberately excluded from the curated set (one of them, `flMsd1NCtyA`, is no longer
-  playable on YouTube). Ignore them.
-- The group3 scrape cache (`channel/channel_cache/group3.json`, git-ignored) was
-  refreshed on 2026-09-20 on blackbox-silent and lists all 337 videos. **On another
-  machine that cache does not exist**; `transcribe.py --channel …` will simply re-scrape,
-  which is fine (see `AGENTS.md` §4 for the cache-only refresh).
-
-## Next actions
-
-1. Add the group1 video `3KGvqLOQ8nw` to `VIDEO_GROUPS["group1"]` in `transcribe.py`.
-2. `python transcribe.py --group group1` and
-   `python transcribe.py --channel "https://www.youtube.com/@marketingpod" --channel-name group3 --limit 0`
-   (no `--force`).
-3. Diarize the 4 new transcripts with `diarize.py` (mandatory, see `CLAUDE.md`).
-4. Run the verify snippet at the bottom of `AGENTS.md`.
-5. Update the status tables in `channel/channels.json` and `channel/README.md`
-   (`last_checked`, tracked/transcribed/diarized counts).
-6. Commit the outputs, update this file, write a session log, push.
+1. Re-upload the bundle to the Claude Project: remove `fuldt-booket_part01_of01_2026-01-15_2026-09-15.md`,
+   the four `marketingpod_part0?_of04_…` files, `zz_digest_part01_of01_2024-05-09_2025-10-20.md`
+   and the old `00_catalog.md`; upload `00_catalog.md`, `fuldt-booket_part01_of01_2026-01-15_2026-09-21.md`,
+   `group5_part01_of01_2026-04-30_2026-08-18.md`, the four new `marketingpod_part0?_of04_…` files and
+   `zz_digest_part01_of01_2024-05-09_2025-10-27.md`. `workshops_…` is unchanged.
+2. Optional: name speakers A/B in `Mnl3r5vXLFQ` (likely Halfdan/Kristian; check the text
+   first), then `bundle.py` again.
+3. Test the project by voice on the phone. If retrieval is weak, the fallback is a small
+   remote MCP server over the index.
+4. Next channel diff: look for uploads after 2026-09-21.
+5. Optional: name the remaining 76 letter-labelled group3 episodes.
 
 ---
 
@@ -110,6 +82,7 @@ Fixes if something is missing:
 |---|---|---|
 | blackbox-silent | stationary | Python 3.12 ×2 (Store `python` + python.org `py -3.12`, both have deps), yt-dlp 2026.08.19, ffmpeg 9.0.1 Essentials via winget (only copy on PATH; an older 2025-11-24 git build sits unused under the TV-Syd JV Player Download project dir), node 24.0.1, no deno. `.env` present, both keys validated 2026-09-20. **Ready to run.** |
 | laptop | mobile | Unknown. Run the checklist and fill this row in. |
+| asus-copilot | — | 2026-09-22: Python 3.14.6, yt-dlp 2026.08.19, ffmpeg 8.1 full build (gyan.dev), node 26.4.0. `.env` present with both keys; ran the full pipeline OK. Console needs `PYTHONIOENCODING=utf-8` (cp1252 chokes on emoji titles). |
 
 Note on Windows Python: `python` on PATH may be the Microsoft Store build while
 `py -3.12` is the python.org build. They have separate site-packages. Install requirements

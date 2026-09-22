@@ -1,6 +1,6 @@
 {
   "_comment": "Publish dates + live metadata per transcribed video, keyed by YouTube id (or source URL for non-YouTube). Maintained by video_meta.py.",
-  "updated_at": "2026-09-20T10:35:43+00:00",
+  "updated_at": "2026-09-22T19:02:09+00:00",
   "videos": {
     "https://player.vimeo.com/video/1097517089": {
       "group": "group2",
@@ -12,18 +12,6 @@
       "live_title": "100 bookinger workshop",
       "fetch_error": null,
       "uploader": "Alexander Mazin"
-    },
-    "https://player.vimeo.com/video/1114869545": {
-      "group": "group2",
-      "transcript": "workshop_sep_1_2025_trim",
-      "url": "https://player.vimeo.com/video/1114869545",
-      "title": "WORKSHOP Sep 1 2025 TRIM",
-      "duration_seconds": 5322,
-      "upload_date": "2025-09-01",
-      "live_title": "WORKSHOP - Sep 1 2025 (TRIM)",
-      "fetch_error": null,
-      "uploader": "Alexander Mazin",
-      "date_source": "title"
     },
     "https://webinar.obsidian.dk/content-masterclass-sadan-far-du-1": {
       "group": "group4",
@@ -2389,6 +2377,18 @@
       "fetch_error": null,
       "uploader": "Marketingpod med Halfdan Timm og Kristian Tinho"
     },
+    "https://player.vimeo.com/video/1114869545": {
+      "group": "group2",
+      "transcript": "workshop_sep_1_2025_trim",
+      "url": "https://player.vimeo.com/video/1114869545",
+      "title": "WORKSHOP Sep 1 2025 TRIM",
+      "duration_seconds": 5322,
+      "upload_date": "2025-09-01",
+      "live_title": "WORKSHOP - Sep 1 2025 (TRIM)",
+      "fetch_error": null,
+      "uploader": "Alexander Mazin",
+      "date_source": "title"
+    },
     "jRWhVodX1gs": {
       "group": "group3",
       "transcript": "hvad_er_marketing_mix_modelling",
@@ -3412,6 +3412,17 @@
       "fetch_error": null,
       "uploader": "Marketingpod med Halfdan Timm og Kristian Tinho"
     },
+    "https://2marketing.nu/wp-content/uploads/2026/04/2ai_Clinic360_2_V3_low.mp4": {
+      "group": "group5",
+      "transcript": "skønhedsklinik_clinic360",
+      "url": "https://2marketing.nu/wp-content/uploads/2026/04/2ai_Clinic360_2_V3_low.mp4",
+      "title": "Skønhedsklinik Clinic360",
+      "duration_seconds": null,
+      "upload_date": "2026-04-30",
+      "live_title": "2ai_Clinic360_2_V3_low",
+      "fetch_error": null,
+      "uploader": null
+    },
     "pBiavdChcKw": {
       "group": "group1",
       "transcript": "saadan_strukturerer_95_procent_af_behandlere_deres_kalender_forkert",
@@ -3885,6 +3896,39 @@
       "fetch_error": null,
       "uploader": "Marketingpod med Halfdan Timm og Kristian Tinho"
     },
+    "https://2marketing.nu/wp-content/uploads/2026/08/Diaetist_Ruth-V2.mp4": {
+      "group": "group5",
+      "transcript": "diætist_ruth",
+      "url": "https://2marketing.nu/wp-content/uploads/2026/08/Diaetist_Ruth-V2.mp4",
+      "title": "Diætist Ruth",
+      "duration_seconds": null,
+      "upload_date": "2026-08-18",
+      "live_title": "Diaetist_Ruth-V2",
+      "fetch_error": null,
+      "uploader": null
+    },
+    "https://2marketing.nu/wp-content/uploads/2026/08/Kiropraktor-Jonas-V3-1.mp4": {
+      "group": "group5",
+      "transcript": "kiropraktor_jonas",
+      "url": "https://2marketing.nu/wp-content/uploads/2026/08/Kiropraktor-Jonas-V3-1.mp4",
+      "title": "Kiropraktor Jonas",
+      "duration_seconds": null,
+      "upload_date": "2026-08-18",
+      "live_title": "Kiropraktor-Jonas-V3-1",
+      "fetch_error": null,
+      "uploader": null
+    },
+    "https://2marketing.nu/wp-content/uploads/2026/08/Terapeut-Rolf-V2.mp4": {
+      "group": "group5",
+      "transcript": "psykoterapeut_rolf",
+      "url": "https://2marketing.nu/wp-content/uploads/2026/08/Terapeut-Rolf-V2.mp4",
+      "title": "Psykoterapeut Rolf",
+      "duration_seconds": null,
+      "upload_date": "2026-08-18",
+      "live_title": "Terapeut-Rolf-V2",
+      "fetch_error": null,
+      "uploader": null
+    },
     "QP5EHOjmDXk": {
       "group": "group3",
       "transcript": "skal_du_vandmærke_dine_ai-tekster_fra_nu_af_anthropic_ai_watermarketing_mm",
@@ -4025,6 +4069,28 @@
       "duration_seconds": 625,
       "upload_date": "2026-09-17",
       "live_title": "Only Halfdan: Metas læringsfase forklaret på 12 minutter",
+      "fetch_error": null,
+      "uploader": "Marketingpod med Halfdan Timm og Kristian Tinho"
+    },
+    "3OQc7u3pri8": {
+      "group": "group1",
+      "transcript": "lær_hvorfor_din_klinik_har_ramt_et_loft_-_og_hvordan_du_bryder_det",
+      "url": "https://www.youtube.com/watch?v=3OQc7u3pri8",
+      "title": "Lær hvorfor din klinik har ramt et loft - og hvordan du bryder det",
+      "duration_seconds": 914,
+      "upload_date": "2026-09-21",
+      "live_title": "Lær hvorfor din klinik har ramt et loft - og hvordan du bryder det",
+      "fetch_error": null,
+      "uploader": "Alexander Mazin"
+    },
+    "Mnl3r5vXLFQ": {
+      "group": "group3",
+      "transcript": "tester_ai_agenter_til_marketing_claude_vs_manus_vs_grok_bot_vs_openclaw",
+      "url": "https://www.youtube.com/watch?v=Mnl3r5vXLFQ",
+      "title": "Tester AI agenter til marketing: Claude vs Manus vs Grok Bot vs OpenClaw",
+      "duration_seconds": 3260,
+      "upload_date": "2026-09-21",
+      "live_title": "Tester AI agenter til marketing: Claude vs Manus vs Grok Bot vs OpenClaw",
       "fetch_error": null,
       "uploader": "Marketingpod med Halfdan Timm og Kristian Tinho"
     }

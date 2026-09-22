@@ -80,6 +80,7 @@ VIDEO_GROUPS = {
         {"url": "https://www.youtube.com/watch?v=7Q4b6bjiFtc", "title": "Reglen Der Fordobler Din Kliniks Omsætning"},
         {"url": "https://www.youtube.com/watch?v=kxYGAippk18", "title": "Hvis din kliniks omsætning svinger hver måned, så se den her"},
         {"url": "https://www.youtube.com/watch?v=3KGvqLOQ8nw", "title": "De 3 ting, der tog en behandler fra 0 til 3 klinikker"},
+        {"url": "https://www.youtube.com/watch?v=3OQc7u3pri8", "title": "Lær hvorfor din klinik har ramt et loft - og hvordan du bryder det"},
     ],
     "group2": [
         {"url": "https://player.vimeo.com/video/1097517089", "title": "100 bookinger workshop"},
