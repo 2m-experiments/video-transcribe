@@ -14,20 +14,20 @@ otherwise not stored in the code (`transcribe.py` only holds the video lists).
 |-------|--------|---------|--------:|------------:|---------:|--------------:|
 | group1 | curated | [@AlexanderFuldtBooket](https://www.youtube.com/@AlexanderFuldtBooket) | 27 | 27 | 14¹ | 0 |
 | group2 | fixed | — (2 Vimeo workshops) | 2 | 2 | 2 | 0 |
-| group3 | channel scrape | [@marketingpod](https://www.youtube.com/@marketingpod) | 338 | 338 | 338² | 0 |
+| group3 | channel scrape | [@marketingpod](https://www.youtube.com/@marketingpod) | 339 | 339 | 339² | 0 |
 | group4 | fixed | 1 Obsidian webinar | 1 | 1 | 1 | 0 |
 | group5 | fixed | — (4 MP4s on 2marketing.nu) | 4 | 4 | 4 | — |
 
-*Status last updated: 2026-09-22 (1 new group1 + 1 new group3 video, both transcribed and diarized; group5 added 2026-09-10).*
+*Status last updated: 2026-09-24 (1 new group3 video, transcribed, diarized and named; group5 added 2026-09-10).*
 
 ¹ group1's 13 pre-2026-07-29 monologues are intentionally not diarized; the 14 newer ones are.
-² group3 is complete — all 338 transcribed and diarized; 298 have real speaker names, 40 are
+² group3 is complete — all 339 transcribed and diarized; 299 have real speaker names, 40 are
 letter-labelled because the transcript doesn't prove who is speaking (hosts appear as Halfdan / Kristian; 36 more were named on 2026-09-22 using [`speakers.json`](speakers.json)). Three "Mr. Beast" clips were missing until 2026-09-07: every dotted title used
 to collapse to a truncated filename (`Mr. Beasts …` → `mr.json`), so four videos overwrote each
 other and only one survived. Fixed in `transcribe.py` and re-transcribed.
 ³ The older testimonial/case clips (17 counted 2026-09-20; the listing showed 18 on 2026-09-22) on the group1 channel are deliberately left out of the
 curated set (not counted as "new"). The channel listing also carries 1 group3 Short, which the
-scraper filters out (339 listed → 338 tracked).
+scraper filters out (340 listed → 339 tracked).
 
 ## Source types
 

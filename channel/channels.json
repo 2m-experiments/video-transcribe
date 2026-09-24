@@ -1,6 +1,6 @@
 {
   "_comment": "Registry of source channels behind each video group. 'source_type' = how the group's video list is defined: 'channel_scrape' (yt-dlp scrape, cached under channel_cache/), 'curated' (hand-picked subset of a channel, hardcoded in transcribe.py VIDEO_GROUPS), or 'fixed' (standalone video/webinar, no parent channel). 'status' fields were last verified on 'last_checked'; regenerate with the check-new-videos flow.",
-  "last_checked": "2026-09-22",
+  "last_checked": "2026-09-24",
   "channels": [
     {
       "group": "group1",
@@ -9,14 +9,14 @@
       "channel_url": "https://www.youtube.com/@AlexanderFuldtBooket",
       "handle": "@AlexanderFuldtBooket",
       "cache_file": null,
-      "notes": "Curated subset of the channel; the older testimonial/case clips (17 counted on 2026-09-20, 18 listed on 2026-09-22) are deliberately excluded (one of them, flMsd1NCtyA, is no longer playable). Solo monologues: the 13 pre-2026-07-29 videos are intentionally not diarized; everything transcribed since then is.",
+      "notes": "Curated subset of the channel; the older testimonial/case clips (17 counted on 2026-09-20, 18 listed on 2026-09-22, 17 again on 2026-09-24) are deliberately excluded (one of them, flMsd1NCtyA, is no longer playable). Solo monologues: the 13 pre-2026-07-29 videos are intentionally not diarized; everything transcribed since then is.",
       "status": {
         "tracked_videos": 27,
-        "channel_total_live": 45,
+        "channel_total_live": 44,
         "transcribed": 27,
         "diarized": 14,
         "new_since_last": 0,
-        "older_uncurated": 18,
+        "older_uncurated": 17,
         "named": 1
       }
     },
@@ -44,15 +44,15 @@
       "channel_url": "https://www.youtube.com/@marketingpod",
       "handle": "@marketingpod",
       "cache_file": "channel_cache/group3.json",
-      "cached_at": "2026-09-22T00:00:00Z",
-      "notes": "Full-channel scrape cached under channel_cache/. Complete: every tracked video is transcribed and diarized; 298 of 338 have real speaker names (known speakers + aliases in channel/speakers.json) (hosts are labelled Halfdan / Kristian; Kristian Tinho was spelled \"Christian\" until 2026-09-20), the other 40 stay letter-labelled for lack of evidence (mostly solo clips, or one letter covering both hosts). The channel listing also carries 1 Short, which the scraper filters out (339 listed -> 338 tracked). One episode (TVexnIlT-ps) was retitled upstream after transcription; transcribe.py now dedups by video id so it is not redone.",
+      "cached_at": "2026-09-24T00:00:00Z",
+      "notes": "Full-channel scrape cached under channel_cache/. Complete: every tracked video is transcribed and diarized; 299 of 339 have real speaker names (known speakers + aliases in channel/speakers.json) (hosts are labelled Halfdan / Kristian; Kristian Tinho was spelled \"Christian\" until 2026-09-20), the other 40 stay letter-labelled for lack of evidence (mostly solo clips, or one letter covering both hosts). The channel listing also carries 1 Short, which the scraper filters out (340 listed -> 339 tracked). One episode (TVexnIlT-ps) was retitled upstream after transcription; transcribe.py now dedups by video id so it is not redone.",
       "status": {
-        "tracked_videos": 338,
-        "channel_total_live": 338,
-        "transcribed": 338,
-        "diarized": 338,
-        "named": 298,
-        "new_since_last": 0,
+        "tracked_videos": 339,
+        "channel_total_live": 339,
+        "transcribed": 339,
+        "diarized": 339,
+        "named": 299,
+        "new_since_last": 1,
         "older_uncurated": 0
       }
     },

@@ -1,0 +1,726 @@
+{
+  "title": "Only Halfdan: Metas algoritme forklaret",
+  "url": "https://www.youtube.com/watch?v=Pr_IHodzhWw",
+  "group": "group3",
+  "language": "da",
+  "duration_seconds": 429.1,
+  "transcribed_at": "2026-09-24T13:01:53.514166+00:00",
+  "full_text": "Meta har måske den mest sofistikerede annoncemaskine i hele verden, men du kan i virkeligheden opsummere deres auktion i tre forskellige trin. Og det er det, vi kommer til at gøre i den her video. Hvis du annoncerer på Metas platform, altså Facebook og Instagram, så er det ret vigtigt at stille med, fordi det her kommer til at forklare dig, hvordan du opnår et bedre afkast på din annonce, og hvordan Metas bagvedlæggende auktion eller algoritme i virkeligheden fungerer. Det, du skal forestille dig til at starte med, det er, at hver eneste gang, du ser en annonce på Metas platform, og det kan være, at du sidder og scroller reels på din telefon, sidder på din desktop, sidder måske i WhatsApp, hvem ved? Hver eneste gang, du får en annonce, så ligger der en bagvedlæggende auktion for at bestemme, hvem der rent faktisk kan vises i den annonce. I enhver auktion, så er der måske 10.000 eller 1.000.000 annoncere, der programmatisk, altså automatisk, via algoritmer, byder ind på at være den person, der viser annoncen. Men det er kun det højeste bud eller den højeste værdi, der får lov til at vise annoncen. Der kan godt være 1.000 virksomheder, der gerne vil vise en annonce i dit feed, men hvem er det i sidste ende, der får lov til at lægge øverst, så det er lige præcis deres annonce, du kommer til at se? Det er de her tre trin, der kommer til at forklare det. Det første af de tre trin, det er dit faktiske bud. Og det er ret simpelt, fordi det er, hvor meget du er villig til at betale for at blive vist på den pågældende auktion. De fleste annoncer, der bliver sat op, de kører med automatisk bud, og det betyder, at du ikke selv bestemmer lige præcis, hvilken pris, du ønsker at betale for en kommentering. Så hvis du annoncerer på Facebook og Instagram, hvor du siger, at du gerne vil bruge 100 kroner om dagen, så betyder det effektivt, at du kører med automatisk bud. Så du siger til Facebook, at du er villig til at bruge 100 kroner, så giv mig så meget, jeg kan få. Det kan være, at det er en god forretning eller en dårlig forretning, du kommer til at bruge dine 100 kroner. Der er også to andre muligheder. Den ene er at køre med det, der hedder Cost Caps, og den anden er at køre med det, der hedder Bid Caps. Cost Caps på dansk hedder målgrænse, og Bid Caps hedder budgrænse. Det, du skal forestille dig, er, at hvis du nu siger, at en kommentering for mig er 100 kroner værd. Hvis du sætter en Cost Cap, altså en målgrænse, på 100 kroner, så siger du til Meta, at i gennemsnit skal mine kommenteringer koste 100 kroner. Det kan være, at nogle af dem koster 80 kroner, og nogle af dem koster 120 kroner, men i gennemsnit bliver det 100 kroner. Hvis du siger til Meta, at du har en budgrænse, et Bid Cap, på 100 kroner, så siger du, at det må maksimalt koste 100 kroner, så du vil slet ikke entreres i auktioner, hvor den estimerede pris eller den forventede pris ender over 100 kroner. Det vil sige, at det er faktisk en mere konservativ model at gøre det her. Hvis du bruger Cost Caps, kan du godt entrere i auktioner, der koster over 100 kroner, hvis dit gennemsnit ender på 100 kroner. Ved Bid Caps kan du ikke entrere i auktioner, der ender over 100 kroner, så det er effektivt at køre med håndbremsen trukket. Bid Caps og Cost Caps er godt, hvis du gerne vil sætte et højt budget, men du kun vil bruge pengene, hvis du rent faktisk vil få noget ud af dem. Det er den ene fakta i algoritmen det her. Dit bud bliver ganget med det, der hedder Estimated Action Rates. Det er sådan, at hver gang du opretter en annonce, så vælger du en kampanjemålsætning. Den kampanjemålsætning kan være salg, det kan måske være leads, det kan være awareness, det kan være noget helt andet. Hver gang du vælger en af de her kampanjemålsætninger, så siger du til META, at det er det her, jeg gerne vil bede om. Jeg vil gerne have, at du leverer salg, leads eller hvad det nu er. Hver gang du entrerer i en auktion, så udregner META den estimerede action rate. Det vil sige, at de tager dit kreativ, din annonce, kigger på den person og udregner en sandsynlighed for, at de kommer til at udføre den estimerede handling. Så de har en idé om, hvor sandsynligt det er, at jeg kommer til at købe dit produkt, når jeg ser din annonce. Det giver din action rate. Hvis du skal tænke på, hvordan du øger sandsynligheden for, at du vinder auktionen, så handler Estimated Action Rates selvfølgelig om at lave en god annonce, men det handler også om signaler. Signaler er et ord, som META bruger rigtig meget. Det betyder i virkeligheden, hvor god er du til at sende data tilbage til META om, hvornår der sker den ønskede handling. Hvis du for eksempel optimerer efter leads med lead ads, så er signalerne nemt, fordi handlingen sker på METAs platform, så de har mulighed for at måle det hele. Men hvis du nu annoncerer efter noget, der sker på dit website, det kunne være at købe på en webshop, eller du udfylder en tilmelding til et webinar på en tilmeldingsside, så er det vigtigt, at din sporing er sat op så godt, som den overhovedet kan være, så du sender så mange signaler tilbage til META. Hvis du sender færre signaler, end du i virkeligheden har, altså du har dårlig tracking sat op, så tror META, at din annonce fungerer dårligere, end den i virkeligheden gør. META klassikerer underlevering, fordi de tror, du vinder ikke nogle af dine auktioner, så nu har du en meget lav værdi. Det leder også til, at du potentielt set rammer de forkerte personer, fordi de kan ikke se, hvem de rigtige personer er. Så når du skal optimere din estimeret action rate, rigtig meget af arbejdet ligger i dine signaler, og det handler om at forbedre din tracking. Jo bedre din tracking er, jo flere signaler sender du, jo højere en estimeret action rate har du. Du tager dit bud, så ganger du med action rate, og så ganger du med den sidste komponent, som er user value. User value er, hvor meget værdi tror vi brugeren får ud af den her. Hvor god en oplevelse tror vi, de får ud af den. Det her udgiver dig to ting. Det er både, hvad der sker on platform, det vil sige på Facebooks platform, og der kigger man på sådan noget som, hvor meget liker de, hvor meget kommenterer de, hvad er det for nogle kommentarer de skriver, hvor meget klikker de. En høj click-through rate er bedre end en lav click-through rate. Vi kigger også på, hvad der sker off platform. Hvis der er rigtig mange, der klikker på dit link, og så øjeblikkeligt kommer tilbage til Facebook, så er det et halvdårligt tegn. Måske fik de ikke det, de ledte efter. Måske var det noget klikbagt. Måske havde du øvet snytbrugeren, eller ikke afstemt ordentligt med dem, hvad der ville ske. Det er faktisk negativt i forhold til dine annoncer. Så den her user value handler om, hvor værdifuld synes folk dine annoncer er. Hvor god er den i virkeligheden, og hvor god er din landingsside oplevelse. Og særlig det sidste, det er der faktisk ret mange, der glemmer. Der er mange, der tænker user value som selve annonsen. Hvor god en annoncer har du lavet? Hvor flot er den? Hvor god er din tekst? Og så videre. Det er meget vigtigt. Men din landingsside oplevelse er også rigtig vigtigt. Det står direkte i Facebooks guidelines, at hvis du fx har en landingsside med rigtig mange pop-ups, særlig store pop-ups, eller lyd, der spiller automatisk, så trækker det ned i user value. Det betyder, at hvis du får en lavere user value, konceptuelt, lad os sige, at du har en dårligere landingsside, så skal du have en højere action rate, eller et højere bud for at kompensere for det. Omvendt, hvis du har en høj action rate, og du har en høj user value, så kan du kompensere med et lavere bud, og stadig vinde flere auktioner. Det her konceptuelt, det er sådan, du skal se i Mesa's annoncering. Det her er ikke noget, jeg har fundet på. Det er direkte fra deres egen guidelines. Det her er de tre komponenter, der ligger i at få succes med Mesa's annoncering. Dit bud, som for langt de fleste annoncerer, langt hen ad vejen foregår med automatiske bud. Din estimeret action rate, som handler om at sende folk ind til den rigtige side, have god tracking, sende de rigtige signaler tilbage, og så den, vi i praksis nok bruger mest tid på, user value. God annonce, gode billeder, godt afstem, god landingsside oplevelse, alt der sker efter klikket, alle de her ting. Det er de tre ting, du har at arbejde med, hvis du bliver god til alle tre, så skal du nok tjene en masse penge med annonceringen på Facebook og Instagram.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": " Meta har måske den mest sofistikerede annoncemaskine i hele verden, men du kan i virkeligheden opsummere deres auktion i tre forskellige trin."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Og det er det, vi kommer til at gøre i den her video."
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": " Hvis du annoncerer på Metas platform, altså Facebook og Instagram, så er det ret vigtigt at stille med,"
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": " fordi det her kommer til at forklare dig, hvordan du opnår et bedre afkast på din annonce,"
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": " og hvordan Metas bagvedlæggende auktion eller algoritme i virkeligheden fungerer."
+    },
+    {
+      "start": 22.0,
+      "end": 26.0,
+      "text": " Det, du skal forestille dig til at starte med, det er, at hver eneste gang, du ser en annonce på Metas platform,"
+    },
+    {
+      "start": 26.0,
+      "end": 31.0,
+      "text": " og det kan være, at du sidder og scroller reels på din telefon, sidder på din desktop, sidder måske i WhatsApp, hvem ved?"
+    },
+    {
+      "start": 31.0,
+      "end": 36.0,
+      "text": " Hver eneste gang, du får en annonce, så ligger der en bagvedlæggende auktion for at bestemme,"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": " hvem der rent faktisk kan vises i den annonce."
+    },
+    {
+      "start": 38.0,
+      "end": 44.0,
+      "text": " I enhver auktion, så er der måske 10.000 eller 1.000.000 annoncere, der programmatisk,"
+    },
+    {
+      "start": 44.0,
+      "end": 49.0,
+      "text": " altså automatisk, via algoritmer, byder ind på at være den person, der viser annoncen."
+    },
+    {
+      "start": 49.0,
+      "end": 53.0,
+      "text": " Men det er kun det højeste bud eller den højeste værdi, der får lov til at vise annoncen."
+    },
+    {
+      "start": 53.0,
+      "end": 57.0,
+      "text": " Der kan godt være 1.000 virksomheder, der gerne vil vise en annonce i dit feed,"
+    },
+    {
+      "start": 57.0,
+      "end": 63.0,
+      "text": " men hvem er det i sidste ende, der får lov til at lægge øverst, så det er lige præcis deres annonce, du kommer til at se?"
+    },
+    {
+      "start": 63.0,
+      "end": 65.0,
+      "text": " Det er de her tre trin, der kommer til at forklare det."
+    },
+    {
+      "start": 65.0,
+      "end": 69.0,
+      "text": " Det første af de tre trin, det er dit faktiske bud."
+    },
+    {
+      "start": 69.0,
+      "end": 74.0,
+      "text": " Og det er ret simpelt, fordi det er, hvor meget du er villig til at betale for at blive vist på den pågældende auktion."
+    },
+    {
+      "start": 74.0,
+      "end": 78.0,
+      "text": " De fleste annoncer, der bliver sat op, de kører med automatisk bud,"
+    },
+    {
+      "start": 78.0,
+      "end": 84.0,
+      "text": " og det betyder, at du ikke selv bestemmer lige præcis, hvilken pris, du ønsker at betale for en kommentering."
+    },
+    {
+      "start": 84.0,
+      "end": 88.0,
+      "text": " Så hvis du annoncerer på Facebook og Instagram, hvor du siger, at du gerne vil bruge 100 kroner om dagen,"
+    },
+    {
+      "start": 88.0,
+      "end": 91.0,
+      "text": " så betyder det effektivt, at du kører med automatisk bud."
+    },
+    {
+      "start": 91.0,
+      "end": 95.0,
+      "text": " Så du siger til Facebook, at du er villig til at bruge 100 kroner, så giv mig så meget, jeg kan få."
+    },
+    {
+      "start": 95.0,
+      "end": 98.0,
+      "text": " Det kan være, at det er en god forretning eller en dårlig forretning, du kommer til at bruge dine 100 kroner."
+    },
+    {
+      "start": 98.0,
+      "end": 100.0,
+      "text": " Der er også to andre muligheder."
+    },
+    {
+      "start": 100.0,
+      "end": 106.0,
+      "text": " Den ene er at køre med det, der hedder Cost Caps, og den anden er at køre med det, der hedder Bid Caps."
+    },
+    {
+      "start": 106.0,
+      "end": 111.0,
+      "text": " Cost Caps på dansk hedder målgrænse, og Bid Caps hedder budgrænse."
+    },
+    {
+      "start": 111.0,
+      "end": 116.0,
+      "text": " Det, du skal forestille dig, er, at hvis du nu siger, at en kommentering for mig er 100 kroner værd."
+    },
+    {
+      "start": 116.0,
+      "end": 122.0,
+      "text": " Hvis du sætter en Cost Cap, altså en målgrænse, på 100 kroner, så siger du til Meta,"
+    },
+    {
+      "start": 122.0,
+      "end": 126.0,
+      "text": " at i gennemsnit skal mine kommenteringer koste 100 kroner."
+    },
+    {
+      "start": 126.0,
+      "end": 129.0,
+      "text": " Det kan være, at nogle af dem koster 80 kroner, og nogle af dem koster 120 kroner,"
+    },
+    {
+      "start": 129.0,
+      "end": 132.0,
+      "text": " men i gennemsnit bliver det 100 kroner."
+    },
+    {
+      "start": 132.0,
+      "end": 136.0,
+      "text": " Hvis du siger til Meta, at du har en budgrænse, et Bid Cap, på 100 kroner, så siger du,"
+    },
+    {
+      "start": 136.0,
+      "end": 141.0,
+      "text": " at det må maksimalt koste 100 kroner, så du vil slet ikke entreres i auktioner,"
+    },
+    {
+      "start": 141.0,
+      "end": 145.0,
+      "text": " hvor den estimerede pris eller den forventede pris ender over 100 kroner."
+    },
+    {
+      "start": 145.0,
+      "end": 149.0,
+      "text": " Det vil sige, at det er faktisk en mere konservativ model at gøre det her."
+    },
+    {
+      "start": 149.0,
+      "end": 153.0,
+      "text": " Hvis du bruger Cost Caps, kan du godt entrere i auktioner, der koster over 100 kroner,"
+    },
+    {
+      "start": 153.0,
+      "end": 155.0,
+      "text": " hvis dit gennemsnit ender på 100 kroner."
+    },
+    {
+      "start": 155.0,
+      "end": 158.0,
+      "text": " Ved Bid Caps kan du ikke entrere i auktioner, der ender over 100 kroner,"
+    },
+    {
+      "start": 158.0,
+      "end": 161.0,
+      "text": " så det er effektivt at køre med håndbremsen trukket."
+    },
+    {
+      "start": 161.0,
+      "end": 163.0,
+      "text": " Bid Caps og Cost Caps er godt, hvis du gerne vil sætte et højt budget,"
+    },
+    {
+      "start": 163.0,
+      "end": 167.0,
+      "text": " men du kun vil bruge pengene, hvis du rent faktisk vil få noget ud af dem."
+    },
+    {
+      "start": 167.0,
+      "end": 169.0,
+      "text": " Det er den ene fakta i algoritmen det her."
+    },
+    {
+      "start": 169.0,
+      "end": 177.0,
+      "text": " Dit bud bliver ganget med det, der hedder Estimated Action Rates."
+    },
+    {
+      "start": 180.0,
+      "end": 184.0,
+      "text": " Det er sådan, at hver gang du opretter en annonce, så vælger du en kampanjemålsætning."
+    },
+    {
+      "start": 185.0,
+      "end": 191.0,
+      "text": " Den kampanjemålsætning kan være salg, det kan måske være leads, det kan være awareness,"
+    },
+    {
+      "start": 191.0,
+      "end": 193.0,
+      "text": " det kan være noget helt andet."
+    },
+    {
+      "start": 193.0,
+      "end": 197.0,
+      "text": " Hver gang du vælger en af de her kampanjemålsætninger, så siger du til META,"
+    },
+    {
+      "start": 197.0,
+      "end": 199.0,
+      "text": " at det er det her, jeg gerne vil bede om."
+    },
+    {
+      "start": 199.0,
+      "end": 203.0,
+      "text": " Jeg vil gerne have, at du leverer salg, leads eller hvad det nu er."
+    },
+    {
+      "start": 203.0,
+      "end": 209.0,
+      "text": " Hver gang du entrerer i en auktion, så udregner META den estimerede action rate."
+    },
+    {
+      "start": 209.0,
+      "end": 213.0,
+      "text": " Det vil sige, at de tager dit kreativ, din annonce, kigger på den person"
+    },
+    {
+      "start": 213.0,
+      "end": 217.0,
+      "text": " og udregner en sandsynlighed for, at de kommer til at udføre den estimerede handling."
+    },
+    {
+      "start": 217.0,
+      "end": 220.0,
+      "text": " Så de har en idé om, hvor sandsynligt det er, at jeg kommer til at købe dit produkt,"
+    },
+    {
+      "start": 220.0,
+      "end": 222.0,
+      "text": " når jeg ser din annonce."
+    },
+    {
+      "start": 222.0,
+      "end": 224.0,
+      "text": " Det giver din action rate."
+    },
+    {
+      "start": 224.0,
+      "end": 227.0,
+      "text": " Hvis du skal tænke på, hvordan du øger sandsynligheden for, at du vinder auktionen,"
+    },
+    {
+      "start": 227.0,
+      "end": 230.0,
+      "text": " så handler Estimated Action Rates selvfølgelig om at lave en god annonce,"
+    },
+    {
+      "start": 230.0,
+      "end": 233.0,
+      "text": " men det handler også om signaler."
+    },
+    {
+      "start": 233.0,
+      "end": 237.0,
+      "text": " Signaler er et ord, som META bruger rigtig meget."
+    },
+    {
+      "start": 237.0,
+      "end": 240.0,
+      "text": " Det betyder i virkeligheden, hvor god er du til at sende data tilbage til META"
+    },
+    {
+      "start": 240.0,
+      "end": 242.0,
+      "text": " om, hvornår der sker den ønskede handling."
+    },
+    {
+      "start": 242.0,
+      "end": 245.0,
+      "text": " Hvis du for eksempel optimerer efter leads med lead ads,"
+    },
+    {
+      "start": 245.0,
+      "end": 248.0,
+      "text": " så er signalerne nemt, fordi handlingen sker på METAs platform,"
+    },
+    {
+      "start": 248.0,
+      "end": 250.0,
+      "text": " så de har mulighed for at måle det hele."
+    },
+    {
+      "start": 250.0,
+      "end": 252.0,
+      "text": " Men hvis du nu annoncerer efter noget, der sker på dit website,"
+    },
+    {
+      "start": 252.0,
+      "end": 254.0,
+      "text": " det kunne være at købe på en webshop,"
+    },
+    {
+      "start": 254.0,
+      "end": 257.0,
+      "text": " eller du udfylder en tilmelding til et webinar på en tilmeldingsside,"
+    },
+    {
+      "start": 257.0,
+      "end": 261.0,
+      "text": " så er det vigtigt, at din sporing er sat op så godt, som den overhovedet kan være,"
+    },
+    {
+      "start": 261.0,
+      "end": 264.0,
+      "text": " så du sender så mange signaler tilbage til META."
+    },
+    {
+      "start": 264.0,
+      "end": 266.0,
+      "text": " Hvis du sender færre signaler, end du i virkeligheden har,"
+    },
+    {
+      "start": 266.0,
+      "end": 268.0,
+      "text": " altså du har dårlig tracking sat op,"
+    },
+    {
+      "start": 268.0,
+      "end": 271.0,
+      "text": " så tror META, at din annonce fungerer dårligere, end den i virkeligheden gør."
+    },
+    {
+      "start": 272.0,
+      "end": 275.0,
+      "text": " META klassikerer underlevering, fordi de tror, du vinder ikke nogle af dine auktioner,"
+    },
+    {
+      "start": 275.0,
+      "end": 277.0,
+      "text": " så nu har du en meget lav værdi."
+    },
+    {
+      "start": 277.0,
+      "end": 279.0,
+      "text": " Det leder også til, at du potentielt set rammer de forkerte personer,"
+    },
+    {
+      "start": 279.0,
+      "end": 281.0,
+      "text": " fordi de kan ikke se, hvem de rigtige personer er."
+    },
+    {
+      "start": 281.0,
+      "end": 284.0,
+      "text": " Så når du skal optimere din estimeret action rate,"
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": " rigtig meget af arbejdet ligger i dine signaler,"
+    },
+    {
+      "start": 286.0,
+      "end": 289.0,
+      "text": " og det handler om at forbedre din tracking."
+    },
+    {
+      "start": 289.0,
+      "end": 292.0,
+      "text": " Jo bedre din tracking er, jo flere signaler sender du,"
+    },
+    {
+      "start": 292.0,
+      "end": 294.0,
+      "text": " jo højere en estimeret action rate har du."
+    },
+    {
+      "start": 294.0,
+      "end": 296.0,
+      "text": " Du tager dit bud, så ganger du med action rate,"
+    },
+    {
+      "start": 296.0,
+      "end": 300.0,
+      "text": " og så ganger du med den sidste komponent, som er user value."
+    },
+    {
+      "start": 301.0,
+      "end": 305.0,
+      "text": " User value er, hvor meget værdi tror vi brugeren får ud af den her."
+    },
+    {
+      "start": 305.0,
+      "end": 308.0,
+      "text": " Hvor god en oplevelse tror vi, de får ud af den."
+    },
+    {
+      "start": 308.0,
+      "end": 310.0,
+      "text": " Det her udgiver dig to ting."
+    },
+    {
+      "start": 310.0,
+      "end": 312.0,
+      "text": " Det er både, hvad der sker on platform,"
+    },
+    {
+      "start": 312.0,
+      "end": 314.0,
+      "text": " det vil sige på Facebooks platform,"
+    },
+    {
+      "start": 314.0,
+      "end": 316.0,
+      "text": " og der kigger man på sådan noget som,"
+    },
+    {
+      "start": 316.0,
+      "end": 318.0,
+      "text": " hvor meget liker de, hvor meget kommenterer de,"
+    },
+    {
+      "start": 318.0,
+      "end": 319.0,
+      "text": " hvad er det for nogle kommentarer de skriver,"
+    },
+    {
+      "start": 319.0,
+      "end": 320.0,
+      "text": " hvor meget klikker de."
+    },
+    {
+      "start": 320.0,
+      "end": 323.0,
+      "text": " En høj click-through rate er bedre end en lav click-through rate."
+    },
+    {
+      "start": 323.0,
+      "end": 327.0,
+      "text": " Vi kigger også på, hvad der sker off platform."
+    },
+    {
+      "start": 327.0,
+      "end": 330.0,
+      "text": " Hvis der er rigtig mange, der klikker på dit link,"
+    },
+    {
+      "start": 330.0,
+      "end": 332.0,
+      "text": " og så øjeblikkeligt kommer tilbage til Facebook,"
+    },
+    {
+      "start": 332.0,
+      "end": 334.0,
+      "text": " så er det et halvdårligt tegn."
+    },
+    {
+      "start": 334.0,
+      "end": 336.0,
+      "text": " Måske fik de ikke det, de ledte efter."
+    },
+    {
+      "start": 336.0,
+      "end": 337.0,
+      "text": " Måske var det noget klikbagt."
+    },
+    {
+      "start": 337.0,
+      "end": 338.0,
+      "text": " Måske havde du øvet snytbrugeren,"
+    },
+    {
+      "start": 338.0,
+      "end": 340.0,
+      "text": " eller ikke afstemt ordentligt med dem, hvad der ville ske."
+    },
+    {
+      "start": 340.0,
+      "end": 343.0,
+      "text": " Det er faktisk negativt i forhold til dine annoncer."
+    },
+    {
+      "start": 343.0,
+      "end": 345.0,
+      "text": " Så den her user value handler om,"
+    },
+    {
+      "start": 345.0,
+      "end": 347.0,
+      "text": " hvor værdifuld synes folk dine annoncer er."
+    },
+    {
+      "start": 347.0,
+      "end": 348.0,
+      "text": " Hvor god er den i virkeligheden,"
+    },
+    {
+      "start": 348.0,
+      "end": 350.0,
+      "text": " og hvor god er din landingsside oplevelse."
+    },
+    {
+      "start": 350.0,
+      "end": 352.0,
+      "text": " Og særlig det sidste, det er der faktisk ret mange, der glemmer."
+    },
+    {
+      "start": 352.0,
+      "end": 355.0,
+      "text": " Der er mange, der tænker user value som selve annonsen."
+    },
+    {
+      "start": 355.0,
+      "end": 356.0,
+      "text": " Hvor god en annoncer har du lavet?"
+    },
+    {
+      "start": 356.0,
+      "end": 357.0,
+      "text": " Hvor flot er den?"
+    },
+    {
+      "start": 357.0,
+      "end": 358.0,
+      "text": " Hvor god er din tekst? Og så videre."
+    },
+    {
+      "start": 358.0,
+      "end": 359.0,
+      "text": " Det er meget vigtigt."
+    },
+    {
+      "start": 359.0,
+      "end": 361.0,
+      "text": " Men din landingsside oplevelse er også rigtig vigtigt."
+    },
+    {
+      "start": 361.0,
+      "end": 363.0,
+      "text": " Det står direkte i Facebooks guidelines,"
+    },
+    {
+      "start": 363.0,
+      "end": 366.0,
+      "text": " at hvis du fx har en landingsside med rigtig mange pop-ups,"
+    },
+    {
+      "start": 366.0,
+      "end": 368.0,
+      "text": " særlig store pop-ups,"
+    },
+    {
+      "start": 368.0,
+      "end": 370.0,
+      "text": " eller lyd, der spiller automatisk,"
+    },
+    {
+      "start": 370.0,
+      "end": 372.0,
+      "text": " så trækker det ned i user value."
+    },
+    {
+      "start": 372.0,
+      "end": 375.0,
+      "text": " Det betyder, at hvis du får en lavere user value,"
+    },
+    {
+      "start": 375.0,
+      "end": 378.0,
+      "text": " konceptuelt, lad os sige, at du har en dårligere landingsside,"
+    },
+    {
+      "start": 378.0,
+      "end": 380.0,
+      "text": " så skal du have en højere action rate,"
+    },
+    {
+      "start": 380.0,
+      "end": 383.0,
+      "text": " eller et højere bud for at kompensere for det."
+    },
+    {
+      "start": 383.0,
+      "end": 386.0,
+      "text": " Omvendt, hvis du har en høj action rate,"
+    },
+    {
+      "start": 386.0,
+      "end": 388.0,
+      "text": " og du har en høj user value,"
+    },
+    {
+      "start": 388.0,
+      "end": 391.0,
+      "text": " så kan du kompensere med et lavere bud,"
+    },
+    {
+      "start": 391.0,
+      "end": 393.0,
+      "text": " og stadig vinde flere auktioner."
+    },
+    {
+      "start": 393.0,
+      "end": 396.0,
+      "text": " Det her konceptuelt, det er sådan, du skal se i Mesa's annoncering."
+    },
+    {
+      "start": 396.0,
+      "end": 397.0,
+      "text": " Det her er ikke noget, jeg har fundet på."
+    },
+    {
+      "start": 397.0,
+      "end": 398.0,
+      "text": " Det er direkte fra deres egen guidelines."
+    },
+    {
+      "start": 398.0,
+      "end": 401.0,
+      "text": " Det her er de tre komponenter, der ligger i at få succes med Mesa's annoncering."
+    },
+    {
+      "start": 401.0,
+      "end": 404.0,
+      "text": " Dit bud, som for langt de fleste annoncerer,"
+    },
+    {
+      "start": 404.0,
+      "end": 406.0,
+      "text": " langt hen ad vejen foregår med automatiske bud."
+    },
+    {
+      "start": 406.0,
+      "end": 408.0,
+      "text": " Din estimeret action rate,"
+    },
+    {
+      "start": 408.0,
+      "end": 410.0,
+      "text": " som handler om at sende folk ind til den rigtige side,"
+    },
+    {
+      "start": 410.0,
+      "end": 413.0,
+      "text": " have god tracking, sende de rigtige signaler tilbage,"
+    },
+    {
+      "start": 413.0,
+      "end": 415.0,
+      "text": " og så den, vi i praksis nok bruger mest tid på,"
+    },
+    {
+      "start": 415.0,
+      "end": 416.0,
+      "text": " user value."
+    },
+    {
+      "start": 416.0,
+      "end": 418.0,
+      "text": " God annonce, gode billeder, godt afstem,"
+    },
+    {
+      "start": 418.0,
+      "end": 420.0,
+      "text": " god landingsside oplevelse, alt der sker efter klikket,"
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "text": " alle de her ting."
+    },
+    {
+      "start": 422.0,
+      "end": 424.0,
+      "text": " Det er de tre ting, du har at arbejde med,"
+    },
+    {
+      "start": 424.0,
+      "end": 426.0,
+      "text": " hvis du bliver god til alle tre,"
+    },
+    {
+      "start": 426.0,
+      "end": 429.0,
+      "text": " så skal du nok tjene en masse penge med annonceringen på Facebook og Instagram."
+    }
+  ]
+}
